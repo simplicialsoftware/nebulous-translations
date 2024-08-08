@@ -1405,7 +1405,7 @@ Faça login para acessar o modo multijogador. Você poderá:
 
 Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
     </string>
-    <string name="_2x_skin_resolution">Resolução de Skin em 2x</string>
+    <string name="_2x_skin_resolution">Qualidade da Skin em dobro</string>
 
     <string-array name="control_modes">
         <item>"Normal"</item>
