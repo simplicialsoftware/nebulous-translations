@@ -11,7 +11,7 @@ If you have an improvement to make, edit a file and submit a pull request. Pay s
 ### Organization
 Open the `res` folder to see all of the supported languages. `res/values` contains the English strings used as the default for any non-translated strings. Translations should be based on that file.
 
-#### Tips
+### Tips
 - Only edit files for which you are a native speaker or have fluency.
 - Try not to change the *length* of a string too much from the length in the English version. The app UI layout is tested with those string lengths.
 - **Do not** submit auto translations (Google Translate, Chat GPT, etc). This is not helpful.
