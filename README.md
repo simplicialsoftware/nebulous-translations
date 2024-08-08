@@ -14,7 +14,7 @@ If you have an improvement to make, edit a file and submit a pull request. Pay s
 - **Do not** submit auto translations (Google Translate, Chat GPT, etc). This is not helpful.
 
 ## Organization
-Open the `res` folder to see all of the supported languages. "values" contains the English strings used as the default for any non-translated strings. Translations should be based on that file.
+Open the `res` folder to see all of the supported languages. `res/values` contains the English strings used as the default for any non-translated strings. Translations should be based on that file.
 
 ### Languages
 `res/values`: English<br>
