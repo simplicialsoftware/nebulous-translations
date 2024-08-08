@@ -1332,7 +1332,7 @@ Comandos:
     <string name="no_response">Nenhuma resposta ao servidor. Por favor, verifica a conexão com a Internet.</string>
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">ATAQUE REPENTINO</string>
-    <string name="_2x_skin_resolution">Resolução de Skin em 2x</string>
+    <string name="_2x_skin_resolution">Qualidade da Skin em dobro</string>
 
 
     <string-array name="control_modes">
