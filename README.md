@@ -6,7 +6,7 @@ The sole purpose of this repository is to allow Nebulous players to collectively
 ## Instructions
 If you have a general questions or a suggestion, create an [issue](https://github.com/simplicialsoftware/nebulous-translations/issues). You can also submit a [suggestion](https://discord.com/channels/941543004026572811/941680724963123200) in the discord.
 
-If you have an improvement to make, edit a file and submit a pull request. Pay special attention to the use of placeholders (ex: '%') and formatting. Changes to the formatting of the file will not be accepted.
+If you have an improvement to make, edit a file and submit a pull request. Pay special attention to the use of placeholders (ex: `%`) and formatting. Changes to the formatting of the file will not be accepted.
 
 #### Tips
 - Only edit files for which you are a native speaker or have fluency.
@@ -14,7 +14,7 @@ If you have an improvement to make, edit a file and submit a pull request. Pay s
 - **Do not** submit auto translations (Google Translate, Chat GPT, etc). This is not helpful.
 
 ## Organization
-This repository contains a "res" folder, under which is a "values" folder and various "values-{...}" folders. "values" contains the default (English) strings used as the default for any non-translated strings.
+Open the `res` folder to see all of the supported languages. "values" contains the English strings used as the default for any non-translated strings. Translations should be based on that file.
 
 ### Languages
 `res/values`: English<br>
