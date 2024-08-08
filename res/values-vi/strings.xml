@@ -1,0 +1,1359 @@
+<resources>
+    <string name="Players">"Người chơi"</string>
+    <string name="Control_">"Điều khiển:"</string>
+    <string name="CLOSE">"THOÁT"</string>
+    <string name="Stick_Size_">"Kích thước Phím:"</string>
+    <string name="Stick_Margin_">"Vị trí phím:"</string>
+    <string name="Button_Size_">"Kích thước nút:"</string>
+    <string name="Button_Margin_">"Vị trí nút:"</string>
+    <string name="Buttons_">"Nút Bấm:"</string>
+    <string name="DEFAULTS">"MẶC ĐỊNH"</string>
+    <string name="WEEKLY">"TUẦN"</string>
+    <string name="DAILY">"HÀNG NGÀY"</string>
+    <string name="Server_">"Máy chủ:"</string>
+    <string name="Game_Mode_">"Chế độ chơi:"</string>
+    <string name="Show_Names">"Hiện Tên"</string>
+    <string name="Show_Avatars">"Hiện Skins"</string>
+    <string name="PLAY">"CHƠI"</string>
+    <string name="OPTIONS">"TÙY CHỌN"</string>
+
+    <string name="Avatar_">"Skin:"</string>
+    <string name="Name_">"Tên:"</string>
+
+    <string name="Loading___">"Tải…"</string>
+    <string name="Connecting___">"Kết nối …"</string>
+
+    <string name="Are_You_Sure_">"Bạn có chắc không?"</string>
+    <string name="Yes">"Có"</string>
+    <string name="No">"Không"</string>
+    <string name="WAIT">"CHỜ ĐỢI…"</string>
+    <string name="Must_Specify_Name_">"Phải ghi rõ tên."</string>
+
+    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"đánh giá ứng dụng có thể thay đổi khi tìm kiếm nhóm."</string>
+
+    <string name="_Rank_">" Hạng "</string>
+    <string name="_Alias_">" Tên "</string>
+    <string name="_Score_">" Điểm "</string>
+    <string name="Score__">"Điểm: "</string>
+    <string name="Recombine_">"Kết hợp: "</string>
+    <string name="WINNER_">"CHIẾN THẮNG:"</string>
+    <string name="IDLE">"Lâu không hoạt động sẽ tự rời phòng"</string>
+    <string name="Name_Invalid_">"Tên không hợp lệ."</string>
+    <string name="Name_Taken_">"Tên đã đăng ký."</string>
+    <string name="CONNECTED">"ĐÃ KẾT NỐI"</string>
+    <string name="JOINING___">"ĐANG VÀO …"</string>
+    <string name="PLAYING">"ĐANG CHƠI"</string>
+    <string name="MULTIPLAYER">"NHIỀU NGƯỜI CHƠI"</string>
+
+    <string name="JOIN">"VÀO"</string>
+
+
+    <string name="Lobby_Name">"Tên phòng"</string>
+    <string name="Not_found_">"Không tìm thấy."</string>
+
+    <string name="Hidden">"Ẩn"</string>
+
+
+    <string name="SERVER">"MÁY CHỦ"</string>
+    <string name="Joining_game_in_">"Vào phòng"</string>
+    <string name="Game_Full">"Phòng đầy"</string>
+    <string name="US_East">"Đông Hoa Kỳ"</string>
+    <string name="US_West">"Tây Hoa Kỳ"</string>
+    <string name="Europe">"Châu Âu"</string>
+    <string name="South_America">"Nam Mỹ"</string>
+
+
+    <string name="SINGLE_PLAYER">"OFFLINE"</string>
+    <string name="Background_">"Nền:"</string>
+    <string name="Difficulty_">"Mức độ:"</string>
+    <string name="Delay_Disconnect">"Kết nối bị hoãn"</string>
+
+    <string name="Max_Players">"Tối đa"</string>
+    <string name="Min_Players">"Tối thiểu"</string>
+
+    <string name="OK">"Ok"</string>
+    <string name="CANCEL">"Trở ra"</string>
+    <string name="Chat_Name">"Tên"</string>
+    <string name="Max_People">"Tối Đa"</string>
+    <string name="START">"BẮT ĐẦU"</string>
+    <string name="CREATE">"TẠO"</string>
+    <string name="CUSTOM_GAMES">"THỂ LOẠI"</string>
+    <string name="CHAT">"CHAT"</string>
+    <string name="CUSTOM_SETUP">"CÀI ĐẶT THỂ LOẠI"</string>
+    <string name="CHAT_SETUP">"CÀI ĐẶT CHAT"</string>
+
+
+    <string name="ACCOUNT">"TÀI KHOẢN"</string>
+    <string name="Red_Team">"Đội Đỏ"</string>
+    <string name="Green_Team">"Đội Xanh Lá"</string>
+    <string name="Blue_Team">"Đội Xanh Lam"</string>
+    <string name="Yellow_Team">"Đội Vàng"</string>
+    <string name="Signed_in_as_">"Đã đăng nhập:"</string>
+    <string name="Not_signed_in_">"Không đăng nhập được!"</string>
+    <string name="SET_NAME">"SỬA TÊN"</string>
+    <string name="SIGN_OUT">"ĐĂNG XUẤT"</string>
+    <string name="ACHIEVEMENTS">"THÀNH TỰU"</string>
+    <string name="STATISTICS">"THỐNG KÊ"</string>
+    <string name="XP_">"EXP:"</string>
+
+    <string name="Information">"Thông tin"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Để sử dụng skin này, bạn phải giành được thành tích"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Để sử dụng skin này, bạn phải đạt đến cấp độ"</string>
+    <string name="SIGN_IN">"ĐĂNG NHẬP"</string>
+
+    <string name="Single_Player_Stats">"Thống kê 1 người chơi "</string>
+
+    <string name="Level">"Cấp độ"</string>
+    <string name="PAUSED">"TẠM DỪNG"</string>
+
+
+    <string name="FRIENDS">"BẠN BÈ"</string>
+    <string name="Warning">"Cảnh báo"</string>
+    <string name="SIGNING_IN">"ĐANG ĐĂNG NHẬP…"</string>
+    <string name="New_Friend_Request">"Thêm bạn mới!"</string>
+    <string name="REQUEST_FRIEND">"THÊM BẠN"</string>
+    <string name="Private">"Riêng tư"</string>
+    <string name="Public">"Chung"</string>
+    <string name="Bot">"BOT"</string>
+    <string name="You">"Tôi"</string>
+    <string name="This_player_is_a_bot">"Đây là BOT."</string>
+    <string name="This_player_is_not_signed_in">"Người này chưa đăng nhập."</string>
+
+    <string name="Online">"Trực tuyến"</string>
+    <string name="Unknown">"Không biết"</string>
+    <string name="Offline">"Không trực tuyến"</string>
+    <string name="Achievement_Earned">"Thành tựu đã nhận"</string>
+    <string name="REFRESH">"LÀM MỚI"</string>
+    <string name="DONE">"XONG"</string>
+    <string name="Friend_Request_Sent">"Yêu cầu kết bạn đã gửi …"</string>
+    <string name="ERROR">"LỖI"</string>
+    <string name="CONTINUE">"TIẾP TỤC"</string>
+    <string name="Global_" formatted="false">"Toàn cầu %"</string>
+    <string name="FRIEND_CHAT">"CHAT VỚI BẠN"</string>
+    <string name="LOBBY_NAME">"TÊN PHÒNG"</string>
+    <string name="NULL">"TRỐNG"</string>
+
+
+    <string name="ALL">"TẤT CẢ"</string>
+    <string name="FFA">"TỰ DO"</string>
+    <string name="FFA_TIME">"TỰ DO + THỜI GIAN"</string>
+    <string name="TEAMS">"ĐỘI"</string>
+    <string name="TEAMS_TIME">"ĐỘI + THỜI GIAN"</string>
+    <string name="CTF">"CƯỚP CỜ"</string>
+    <string name="SURVIVAL">"TỬ CHIẾN"</string>
+
+
+    <string name="Clan_XP">"EXP Clan"</string>
+
+
+    <string name="Dot_Nibbler">"Ham ăn chấm 1"</string>
+    <string name="Dot_Muncher">"Ham ăn chấm 2"</string>
+    <string name="Dot_Eater">"Ham ăn chấm 3"</string>
+    <string name="Dot_Gulper">"Ham ăn  chấm 4"</string>
+    <string name="Dot_Gobbler">"Ham ăn chấm 5"</string>
+    <string name="Dot_Devourer">"Ham ăn chấm 6"</string>
+    <string name="Dot_Gormandizer">"Ham ăn chấm 7"</string>
+    <string name="Dot_Sommelier">"Ham ăn chấm 8"</string>
+
+    <string name="Quadra_Gulp">"Giành ăn 1"</string>
+    <string name="Multi_Gulp">"Giành ăn 2"</string>
+    <string name="Mega_Gulp">"Giành ăn 3"</string>
+    <string name="Ultra_Gulp">"Giành ăn 4"</string>
+    <string name="Monster_Gulp">"Giành ăn 5"</string>
+    <string name="Ludicrous_Gulp">"Giành ăn 6"</string>
+
+    <string name="Blobicide">"Sát thủ 1"</string>
+    <string name="Blobtrocity">"Sát thủ 2"</string>
+    <string name="Blobaccre">"Sát thủ 3"</string>
+    <string name="Blobastrophe">"Sát thủ 4"</string>
+    <string name="Blobihilation">"Sát thủ 5"</string>
+    <string name="Blobageddon">"Sát thủ 6"</string>
+    <string name="Blobocalypse">"Sát thủ 7"</string>
+
+    <string name="Experienced_Nebulator">"Nebulator tập sự"</string>
+    <string name="Expert_Nebulator">"Nebulator chuyên nghiệp"</string>
+    <string name="Master_Nebulator">"Nebulator cao thủ"</string>
+    <string name="Grand_Master_Nebulator">"Nebulator đại cao thủ"</string>
+    <string name="Impossible">"Nebulator huyền thoại"</string>
+
+    <string name="Perfection">"Hoàn hảo"</string>
+    <string name="Single_Handedly">"Chơi một tay"</string>
+    <string name="Dodgey">"Tinh ranh"</string>
+    <string name="Self_Contained">"Độc lập"</string>
+    <string name="Survivalist">"Sinh tồn"</string>
+    <string name="Ultramassive">"Mạnh mẽ"</string>
+    <string name="Rapid_Ascension">"Lớn nhanh"</string>
+    <string name="Revenge">"Trả thù"</string>
+    <string name="Doge_Pound">"Doge Pound"</string>
+
+    <string name="Absorb_50_dots">"Ăn 50 chấm"</string>
+    <string name="Absorb_300_dots">"Ăn 300 chấm"</string>
+    <string name="Absorb_1_000_dots">"Ăn 1.000 chấm"</string>
+    <string name="Absorb_5_000_dots">"Ăn 5.000 chấm"</string>
+    <string name="Absorb_10_000_dots">"Ăn 10.000 chấm"</string>
+    <string name="Absorb_50_000_dots">"Ăn 50.000 chấm"</string>
+    <string name="Absorb_100_000_dots">"Ăn 100.000 chấm"</string>
+    <string name="Absorb_1_000_000_dots">"Ăn 1.000.000 chấm"</string>
+
+    <string name="Absorb_4_blobs_quickly">"Ăn nhanh 4 đốm"</string>
+    <string name="Absorb_8_blobs_quickly">"Ăn nhanh 8 đốm"</string>
+    <string name="Absorb_16_blobs_quickly">"Ăn nhanh 16 đốm"</string>
+    <string name="Absorb_24_blobs_quickly">"Ăn nhanh 24 đốm"</string>
+    <string name="Absorb_32_blobs_quickly">"Ăn nhanh 32 đốm"</string>
+    <string name="Absorb_40_blobs_quickly">"Ăn nhanh 40 đốm"</string>
+
+    <string name="Absorb_8_player_blobs_without_restarting">"Ăn 8 đốm người chơi trong 1 lượt chơi"</string>
+    <string name="Absorb_16_player_blobs_without_restarting">"Ăn 16 đốm người chơi trong 1 lượt chơi"</string>
+    <string name="Absorb_32_player_blobs_without_restarting">"Ăn 32 đốm người chơi trong 1 lượt chơi"</string>
+    <string name="Absorb_48_player_blobs_without_restarting">"Ăn 48 đốm người chơi trong 1 lượt chơi"</string>
+    <string name="Absorb_80_player_blobs_without_restarting">"Ăn 80 đốm người chơi trong 1 lượt chơi"</string>
+    <string name="Absorb_160_player_blobs_without_restarting">"Ăn 160 đốm người chơi trong 1 lượt chơi"</string>
+    <string name="Absorb_240_player_blobs_without_restarting">"Ăn 240 đốm người chơi trong 1 lượt chơi"</string>
+
+    <string name="Reach_a_score_of_1_000">"Đạt 1,000 điểm"</string>
+    <string name="Reach_a_score_of_5_000">"Đạt 5,000 điểm"</string>
+    <string name="Reach_a_score_of_10_000">"Đạt 10,000 điểm"</string>
+    <string name="Reach_a_score_of_15_000">"Đạt 15,000 điểm"</string>
+    <string name="Reach_a_score_of_20_000">"Đạt 20,000 điểm"</string>
+
+    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Đạt 10,000 điểm mà không bị mất bất kỳ đốm nào"</string>
+    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Đạt 5,000 điểm mà không cần tách rời"</string>
+    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Chơi 5 phút mà không va vào lỗ đen"</string>
+    <string name="Play_5_minutes_straight_without_losing_any_blobs">"Chơi 5 phút mà không bị mất bất kỳ đốm nào"</string>
+    <string name="Play_20_minutes_straight_without_restarting">"Chơi 20 phút trong 1 lượt chơi"</string>
+    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"Trong 30 giây đầu tiên ăn 5 lổ đen"</string>
+    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Trong 1 phút đầu tiên đạt 5,000 điểm"</string>
+    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Bắn một lỗ đen vào người bắn bạn gần nhất trước khi khởi động lại"</string>
+    <string name="Absorb_5_doges_without_restarting">"Hấp thụ 5 doges mà không cần khởi động lại"</string>
+
+    <string name="Friends">"Bạn bè"</string>
+    <string name="Dots_Eaten_">"Chấm:"</string>
+    <string name="Blobs_Eaten_">"Đốm:"</string>
+    <string name="Blobs_Lost_">"Đốm bị mất:"</string>
+    <string name="Mass_Gained_">"Mass đã ăn:"</string>
+    <string name="Mass_Ejected_">"Mass đã nhả:"</string>
+    <string name="Times_Ejected_">"Số lần nhả:"</string>
+    <string name="Times_Split_">"Số lần tách:"</string>
+    <string name="Biggest_Blob_">"Đốm lớn nhất:"</string>
+    <string name="Highest_Score_">"Điểm cao nhất:"</string>
+    <string name="Average_Score_">"Điểm trung bình:"</string>
+    <string name="Times_Played_">"Số lần chơi:"</string>
+    <string name="Longest_Life_">"Lần chơi lâu nhất:"</string>
+    <string name="Games_Won_">"Số lần thắng:"</string>
+
+    <string name="You_must_wait_until_the_end_of_the_round_">"Bạn phải đợi cho đến khi kết thúc màn"</string>
+    <string name="Dont_show_again">"Không hiển thị lần nữa"</string>
+    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Tìm thấy lần chơi trước có số liệu thống kê với EXP cao hơn. Bạn có muốn khôi phục lại không ?"</string>
+
+    <string name="Special_Effects">"Hiệu ứng đặc biệt"</string>
+    <string name="Blob_Mushiness">"Đốm ủy mị"</string>
+
+    <string name="Specify_private_game_name">"Chỉ định tên trò chơi riêng tư"</string>
+    <string name="In_Game_Chat">"Chat"</string>
+    <string name="My_Status_">"Trạng thái hoạt động:"</string>
+    <string name="Game_Size_">"Kích thước game:"</string>
+
+    <string name="Server_Restart_">"Khởi động lại:"</string>
+    <string name="GOAL_">"VÀO!"</string>
+    <string name="SOCCER">"BÓNG ĐÁ"</string>
+    <string name="DRAW">"HOÀ"</string>
+
+    <string name="Clan_Name">"Tên Băng Đảng"</string>
+    <string name="Clan">"Băng Đảng"</string>
+
+
+    <string name="JOIN_CLAN">"VÀO BĂNG ĐẢNG"</string>
+    <string name="JOIN_RANDOM_CLAN">"VÀO BĂNG ĐẢNG BẤT KÌ"</string>
+    <string name="LEAVE_CLAN">"RỜI BĂNG ĐẢNG"</string>
+    <string name="INVITE_MEMBER">"MỜI THÀNH VIÊN"</string>
+    <string name="REMOVE_MEMBER">"ĐUỔI THÀNH VIÊN"</string>
+
+
+    <string name="CREATE_CLAN">"TẠO BĂNG ĐẢNG"</string>
+    <string name="MEMBER">"THÀNH VIÊN"</string>
+    <string name="ADMIN">"ANH LỚN"</string>
+    <string name="LEADER">"TRÙM BĂNG ĐẢNG"</string>
+    <string name="ELDER">"ĐÀN ANH"</string>
+
+
+    <string name="Not_in_a_clan_">"Không trong băng đảng"</string>
+
+
+    <string name="CLAN">"BĂNG ĐẢNG"</string>
+
+
+    <string name="Specify_Clan_ID">"ID Băng đảng"</string>
+    <string name="Show_Clan_Names">"Hiện tên băng đảng"</string>
+    <string name="Show_Levels">"Hiện cấp độ"</string>
+    <string name="SET_MOTD">"Cài Đặt Thông Điệp"</string>
+    <string name="No_such_user_found_">"Không tìm thấy người này."</string>
+    <string name="No_open_public_clans_exist_">"Băng đảng mở này không tồn tại."</string>
+    <string name="You_aren_t_invited_to_that_clan_">"Bạn không được mời vào băng đảng đó."</string>
+    <string name="No_such_clan_exists_">"Băng đảng không tồn tại."</string>
+    <string name="That_clan_is_full_">"Băng đảng đã đủ người"</string>
+    <string name="Other_user_is_not_a_member_of_your_clan_">"Người này không phải là thành viên trong băng đảng của bạn."</string>
+    <string name="_You_can_t_be_your_own_friend_">"Đây là bạn mà :D"</string>
+    <string name="A_clan_with_that_name_already_exists_">"Tên băng đảng đó đã tồn tại."</string>
+    <string name="Duration_">"Giới hạn:"</string>
+
+    <string name="FFA_Time_Domination">"Thống trị + thời gian"</string>
+    <string name="Teams_Time_Domination">"Đội + thống trị + thời gian"</string>
+    <string name="CTF_Domination">"Cướp cờ"</string>
+    <string name="CTF_Hat_Trick">"Cướp cờ + khéo léo"</string>
+    <string name="Survival_Domination">"Sinh tồn + Thống trị"</string>
+    <string name="I_Will_Survive">"Tôi sẽ sống"</string>
+    <string name="Soccer_Domination">"Bóng đá + Thống trị"</string>
+    <string name="Soccer_Hat_Trick">"Bóng đá + khéo léo"</string>
+    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Chiến thắng với 2.500 điểm trong một trận đấu TỰ DO+THỜI GIAN"</string>
+    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Chiến thắng với 7.500 điểm trong một trận đấu ĐỘI+THỜI GIAN"</string>
+    <string name="Win_by_3_points_in_a_CTF_game_">"Chiến thắng với 3 điểm trong trò chơi CƯỚP CỜ"</string>
+    <string name="Score_3_points_in_a_single_CTF_game_">"Thắng với 3 điểm trong 1 trận đấu CƯỚP CỜ"</string>
+    <string name="Win_by_2_500_points_in_a_Survival_game_">"Chiến thắng với 2.500 điểm trong 1 trận đấu SINH TỒN"</string>
+    <string name="Survive_but_do_not_win_a_survival_game_">"Sống sót nhưng không cần thắng 1 trò chơi SINH TỒN"</string>
+    <string name="Win_by_8_points_in_a_Soccer_game_">"Chiến thắng với cách biệt 8 bàn trong 1 trận BÓNG ĐÁ"</string>
+    <string name="Score_3_goals_in_a_single_Soccer_game_">"Ghi 3 bàn trong 1 trận đấu BÓNG ĐÁ"</string>
+    <string name="Total_Domination">"Tổng thống trị"</string>
+    <string name="Win_500_games_of_any_type_">"Chiến thắng 500 trận bất kỳ chế độ nào."</string>
+    <string name="Translations">"Dịch ngôn ngữ"</string>
+    <string name="Developers">"Nhà phát triển"</string>
+    <string name="Special_Thanks">"Đặc biệt cảm ơn"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Xin cảm ơn tất cả Fan của trò chơi này"</string>
+    <string name="Color_Blind">"Tắt màu"</string>
+    <string name="Daily_Quest_Complete_">"Nhiệm vụ ngày hoàn thành"</string>
+    <string name="COPY_ID">"Sao Chép ID"</string>
+    <string name="My_Account_ID">"ID của tôi"</string>
+
+
+    <string name="COMPLETE">"HOÀN THÀNH"</string>
+    <string name="INCOMPLETE">"CHƯA HOÀN THÀNH"</string>
+    <string name="Win_a_FFA_Time_Game">"Chiến thắng trò chơi TỰ DO+THỜI GIAN"</string>
+    <string name="Win_a_CTF_Game">"Chiến thắng trò chơi CƯỚP CỜ"</string>
+    <string name="Win_a_Soccer_Game">"Chiến thắng trò chơi BÓNG ĐÁ"</string>
+    <string name="Win_a_Survival_Game">"Chiến thắng trò chơi SINH TỒN"</string>
+    <string name="Win_a_Teams_Time_Game">"Chiến thắng trò chơi ĐỘI+THỜI GIAN"</string>
+    <string name="Reach_a_score_of_">"Đạt được số điểm "</string>
+    <string name="_in_a_FFA_Game">" trong phòng TỰ DO"</string>
+    <string name="_in_a_Teams_Game">" trong phòng ĐỘI"</string>
+    <string name="_dots">" chấm"</string>
+    <string name="_player_blobs">" Đốm người chơi"</string>
+    <string name="Absorb_">"Ăn "</string>
+    <string name="Collect_">"Thu thập "</string>
+
+    <string name="FFA_CLASSIC">"CỔ ĐIỂN"</string>
+
+
+    <string name="pumpkins_">"bí ngô."</string>
+    <string name="To_use_this_skin_you_must_collect">"Để dùng Skin này, bạn phải thu thập"</string>
+    <string name="Australia">"Châu Úc"</string>
+    <string name="Pumpkin_Collector">"Nhà sưu tầm bí ngô"</string>
+    <string name="Collect_1000_pumpkins_">"Thu thập 1000 bí ngô."</string>
+
+    <string name="FFAC">"CỔ ĐIỂN"</string>
+    <string name="NONE">"TRỐNG"</string>
+    <string name="CLAN_WAR">"HỘI CHIẾN"</string>
+    <string name="Clan_War">"Hội Chiến"</string>
+
+    <string name="Forming">"Đang tạo"</string>
+    <string name="Searching">"Đang tìm kiếm"</string>
+    <string name="In_Progress">"Trong trận"</string>
+
+    <string name="Wins">"Thắng"</string>
+
+    <string name="Score">"Điểm"</string>
+    <string name="Rating">"Đánh giá"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"Bạn muốn thăng chức thành viên này làm lãnh đạo"</string>
+    <string name="XP">"EXP"</string>
+    <string name="High_Score">"Kỷ Lục"</string>
+
+
+    <string name="_3v3">"3v3"</string>
+    <string name="_5v5">"5v5"</string>
+    <string name="_8v8">"8v8"</string>
+    <string name="Top_Ranks">"BXH"</string>
+    <string name="My_Ranks">"Hạng của tôi"</string>
+    <string name="Player_XP">"EXP người chơi"</string>
+
+    <string name="W_D_L">"WDL"</string>
+    <string name="MATCH_START">"Trận đấu bắt đầu"</string>
+    <string name="Clan_Warrior">"Tân Binh"</string>
+    <string name="Win_a_Clan_War">"Thắng 1 trận đấu hội chiến"</string>
+    <string name="Global">"Toàn cầu"</string>
+    <string name="Spectating">"Theo dõi"</string>
+
+
+    <string name="snowflakes_">"bông tuyết."</string>
+    <string name="presents_">"món quà."</string>
+    <string name="Snowflake_Collector">"Nhà sưu tầm bông tuyết"</string>
+    <string name="Present_Collector">"Nhà sưu tầm quà"</string>
+
+
+    <string name="Season">"Mùa giải: "</string>
+    <string name="The_next_season_begins">"Mùa giải tiếp theo bắt đầu từ: "</string>
+
+    <string name="Current">"Này"</string>
+    <string name="leaves_">"lá."</string>
+    <string name="Leaf_Collector">"Nhà sưu tầm lá"</string>
+    <string name="Collect_1000_leaves_">"Thu thập 1.000 lá."</string>
+    <string name="XP_Boost">"Tăng EXP"</string>
+    <string name="Double">"Gấp đôi"</string>
+    <string name="Hour">"giờ"</string>
+    <string name="Hours">"giờ"</string>
+
+
+    <string name="Triple">"Gấp ba"</string>
+    <string name="Leaf_Hoarder">"Người nhặt lá"</string>
+    <string name="Collect_5000_leaves_">"Thu thập 5000 lá."</string>
+
+
+    <string name="Arena">"Đấu Trường"</string>
+    <string name="Enter_the_Arena">"Tìm Kiếm Trận Đấu"</string>
+
+
+    <string name="Purchase_History">"Lịch sử mua hàng"</string>
+
+    <string name="Purchases_Unavailable_">"Mua hàng không có sẵn !"</string>
+    <string name="You_can_purchase_this_skin_for">"Bạn có thể mua Skin này cho"</string>
+    <string name="PURCHASE">"MUA"</string>
+    <string name="Error_in_backup_data_">"Có lỗi trong khôi phục dữ liệu !"</string>
+
+
+    <string name="Remove_Ads">"Chặn quảng cáo"</string>
+    <string name="Reward">"Phần thưởng"</string>
+    <string name="Please_Wait___">"Xin vui lòng chờ …"</string>
+    <string name="Purchasing">"Đang mua hàng"</string>
+
+    <string name="Purchase_Successful_">"Mua thành công."</string>
+    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Bạn cần phải kết nối lại để dùng hàng."</string>
+    <string name="Confirm_Purchase">"Xác nhận mua hàng"</string>
+    <string name="x3_XP_24_hours">"x3 EXP trong 24 giờ"</string>
+    <string name="x3_XP_1_Hour">"x3 EXP trong 1 Giờ"</string>
+    <string name="x2_XP_24_Hour">"x2 EXP trong 24 giờ"</string>
+    <string name="x2_XP_1_Hour">"x2 EXP trong 1 Giờ"</string>
+    <string name="Cost_">"Giá:"</string>
+    <string name="You_cannot_purchase_this_right_now_">"Bạn không thể mua bây giờ."</string>
+
+
+    <string name="Loading_Purchases___">"Đang tải mua …"</string>
+    <string name="In_App_Purchases">"Trong ứng dụng mua"</string>
+    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Không thể dùng tăng EXP mới cho đến khi tăng EXP hiện tại hết hạn."</string>
+    <string name="This_purchase_has_already_been_redeemed_">"Lần mua cũ đã được khôi phục."</string>
+
+    <string name="You_cannot_remove_yourself__Leave_clan_instead_">"Bạn không thể tự đuổi mình. Hãy rời băng đảng."</string>
+
+
+    <string name="until">"cho đến khi"</string>
+    <string name="New_Message_">"Tin nhắn mới!"</string>
+    <string name="Seasonal">"Mùa"</string>
+
+
+    <string name="Temporarily_Disabled_">"Tạm thời bị tắt."</string>
+    <string name="BIGGEST">"LỚN NHẤT"</string>
+
+
+    <string name="Copy_ID">"sao chép ID"</string>
+    <string name="View_Profile">"Xem hồ sơ"</string>
+    <string name="Send_Message">"Gửi tin nhắn"</string>
+    <string name="Account_ID">"ID tài khoản"</string>
+    <string name="Player_Name">"Tên người chơi"</string>
+
+    <string name="Daily_Reward">"Phần thưởng hàng ngày"</string>
+    <string name="Reset">"Thiết lập lại"</string>
+    <string name="Plasma">"Plasma"</string>
+    <string name="Plasma_Mogul">"Kẻ ham nhặt plasma"</string>
+    <string name="Plasma_Collector">"Nhà sưu tầm plasma"</string>
+    <string name="Plasma_Hoarder">"Người tích lũy Plasma"</string>
+    <string name="Collect_1_000_Plasma">"Thu thập 1.000 Plasma."</string>
+    <string name="Collect_10_000_Plasma_">"Thu thập 10.000 Plasma."</string>
+    <string name="Collect_100_000_Plasma">"Thu thập 100.000 Plasma."</string>
+    <string name="Plasma_Collected_">"Thu thập Plasma:"</string>
+    <string name="Plasma_Purchases">"mua plasma"</string>
+
+    <string name="ENTER">"Đăng Ký"</string>
+    <string name="_1v1">"1v1"</string>
+    <string name="Practice">"Luyện tập"</string>
+    <string name="ArenaDescription">"Những người tham gia chỉ có 1 mạng. Đánh bại đối thủ để nhận được %s plasma."</string>
+    <string name="Contestant">"Tân Thủ"</string>
+    <string name="Duelist">"Chiến binh"</string>
+    <string name="Gladiator">"Cao Thủ"</string>
+    <string name="Challenger">"Đại Cao Thủ"</string>
+    <string name="Win_1_1v1_Arenas_">"Thắng 1 trận đấu trường"</string>
+    <string name="Win_10_Arenas_">"Thắng 10 trận đấu trường"</string>
+    <string name="Win_100_Arenas_">"Thắng 100 trận đấu trường"</string>
+    <string name="Win_1000_Arenas">"Thắng 1000 trận đấu trường"</string>
+
+
+    <string name="Already_in_arena_">"Đang đấu"</string>
+    <string name="Already_in_queue_">"Đã có trong hàng đợi."</string>
+    <string name="Invalid_Account_ID_">"ID tài khoản không hợp lệ."</string>
+
+    <string name="Validating">"Đang phê duyệt"</string>
+
+    <string name="Randomize">"Chọn ngẫu nhiên"</string>
+
+    <string name="Harassment">"Quấy rối"</string>
+
+    <string name="_2v2">"2v2"</string>
+
+
+    <string name="Standard">"Tiêu chuẩn"</string>
+    <string name="Achievement">"Thành tích"</string>
+    <string name="Flag">"Cờ"</string>
+    <string name="Win_10_Clan_Wars">"Thắng 10 trận đấu hội chiến"</string>
+    <string name="Win_100_Clan_Wars">"Thắng 100 trận đấu hội chiến"</string>
+    <string name="Clan_Commander">"Người lãnh đạo băng đảng"</string>
+    <string name="Clan_General">"Tướng Quân"</string>
+    <string name="Clan_Wars_Won_">"Thắng hội chiến:"</string>
+    <string name="Arenas_Won_">"Thắng Đấu Trường:"</string>
+    <string name="Arena_Mode">"Chế độ:"</string>
+    <string name="Connection_Lost">"Kết nối bị mất"</string>
+
+    <string name="Present_Hoarder">"Kẻ tích lũy hộp quà"</string>
+    <string name="Present_Mogul">"Săn lùng hộp quà"</string>
+    <string name="Collect_1_000_presents_">"Thu thập 1.000 hộp quà."</string>
+    <string name="Collect_5_000_presents_">"Thu thập 5.000 hộp quà."</string>
+    <string name="Collect_10_000_presents_">"Thu thập 10.000 hộp quà."</string>
+    <string name="Loading_reward_video___">"Đang tải video thưởng …"</string>
+    <string name="Progress">"Tiến độ"</string>
+    <string name="Snowflake_Hoarder">"Kẻ tích trữ bông tuyết"</string>
+    <string name="Snowflake_Mogul">"Săn lùng Bông tuyết"</string>
+    <string name="Collect_1_000_snowflakes_">"Thu thập 1.000 bông tuyết."</string>
+    <string name="Collect_5_000_snowflakes_">"Thu thập 5.000 bông tuyết."</string>
+    <string name="Collect_10_000_snowflakes_">"Thu thập 10.000 bông tuyết."</string>
+    <string name="Show_All">"Hiển thị tất cả"</string>
+
+    <string name="SET_PERMISSIONS">"GIẤY PHÉP THIẾT LẬP"</string>
+    <string name="Start_Clan_War">"Bắt Đầu Hội Chiến"</string>
+    <string name="Min_Level">"Mức tối thiểu"</string>
+    <string name="SAVE">"Lưu lại"</string>
+    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Người chơi không đáp ứng đủ yêu cầu để vào clan này:"</string>
+    <string name="Insufficient_Permission">"Bạn không có quyền làm điều này"</string>
+    <string name="DOMINATION">"QUYỀN THỐNG TRỊ"</string>
+    <string name="DOM_Domination">"Thống trị Bé Xíu"</string>
+    <string name="DOM_Hat_Trick">"Thống trị Áp Đảo"</string>
+    <string name="Win_by_50_points_in_a_DOM_game_">"Chiến thắng 50 điểm trong trò chơi THỐNG TRỊ"</string>
+    <string name="Score_33_points_in_a_single_DOM_game_">"Thắng 33 điểm trong 1 trò chơi THỐNG TRỊ"</string>
+    <string name="Win_a_Domination_Game">"Giành chiến thắng trò chơi THỐNG TRỊ"</string>
+    <string name="Select_Team">"Chọn đội"</string>
+    <string name="MANAGE_TEAMS">"QUẢN LÝ ĐỘI"</string>
+    <string name="CLAN_INVITE">"MỜI VÀO HỘI"</string>
+    <string name="TEAM_INVITE">"MỜI VÀO ĐỘI"</string>
+    <string name="Team_Size">"Loại hình:"</string>
+    <string name="Team_Name">"Tên đội:"</string>
+    <string name="CREATE_TEAM">"Tạo Đội"</string>
+    <string name="Solo">"Solo"</string>
+    <string name="Teams">"Đội"</string>
+    <string name="Team">"Đội"</string>
+    <string name="Specify_Account_ID">"Chỉ định ID tài khoản"</string>
+    <string name="Team_Created_">"Đã tạo đội!"</string>
+    <string name="Team_Arena">"Đội Đấu Trường"</string>
+    <string name="No_Teams">"không có đội"</string>
+    <string name="team_arena_info">"Khi bạn tạo ra một đội bạn có thể mời và xoá các thành viên để chơi các trận đấu đội đấu trường. Bạn không thể thay đổi tên của nhóm của bạn khi đã tạo xong!"</string>
+
+
+    <string name="Invited">"Đã mời"</string>
+    <string name="Invitation_Sent">"lời mời đã được gửi"</string>
+    <string name="REPORT">"BÁO CÁO"</string>
+    <string name="Reported">"Đã báo cáo"</string>
+    <string name="Threats">"Các mối đe dọa"</string>
+    <string name="Spam">"Spam tin nhắn"</string>
+    <string name="Other">"Lý do khác"</string>
+    <string name="Leave_Team">"Rời đội"</string>
+
+    <string name="Remove_Player">"Loại bỏ người chơi"</string>
+    <string name="Reject_Invitation">"Từ chối lời mời"</string>
+    <string name="Leave_Game">"Thoát khỏi trò chơi"</string>
+    <string name="Remove_Friend">"Xóa bạn bè"</string>
+    <string name="Remove_Clan_Member">"Đuổi ra khỏi băng đảng"</string>
+    <string name="Flag_lobby_as_inappropriate">"Báo cáo phòng này không phù hợp"</string>
+    <string name="Promote_Clan_Member">"Thăng chức thành viên"</string>
+    <string name="Leave_Clan">"Rời Clan"</string>
+    <string name="Candy_Hoarder">"Kẻ tích lũy kẹo"</string>
+    <string name="Candy_Collector">"Nhà sưu tầm kẹo"</string>
+    <string name="Candy_Mogul">"Hay ăn kẹo"</string>
+    <string name="Collect_1_000_candies_">"Ăn 1.000 kẹo."</string>
+    <string name="Collect_5_000_candies_">"Ăn 5.000 kẹo."</string>
+    <string name="Collect_10_000_candies_">"Ăn 10.000 kẹo."</string>
+    <string name="candies_">"kẹo."</string>
+    <string name="Language">"Ngôn Ngữ"</string>
+    <string name="Control_Opacity_">"Độ trong suốt phím:"</string>
+    <string name="You_dont_own_the_team_">"Bạn không sở hữu đội:"</string>
+    <string name="User_has_already_been_invited_">"Người chơi đã được mời tham gia."</string>
+    <string name="Maximum_players_allowed_on_the_team_">"Số người chơi đạt tối đa cho phép trên các nhóm:"</string>
+    <string name="Name_is_already_in_use_">"Tên này đã được sử dụng."</string>
+    <string name="User_is_not_in_the_team_">"Người chơi không có trong đội."</string>
+    <string name="You_are_not_invited_to_team_">"Bạn không được mời vào đội:"</string>
+    <string name="Team_does_not_exist_">"Đội không tồn tại:"</string>
+    <string name="Please_wait_a_minute_before_sending_another_report_">"Xin chờ một phút trước khi gửi một báo cáo khác."</string>
+    <string name="Collect_1_000_beads_">"Thu thập 1.000 hạt."</string>
+    <string name="Collect_5_000_beads_">"Thu thập 5.000 hạt."</string>
+    <string name="Collect_10_000_beads_">"Thu thập 10.000 hạt."</string>
+    <string name="Bead_Collector">"Nhà sưu tầm hạt"</string>
+    <string name="Bead_Hoarder">"Kẻ tích lũy hạt"</string>
+    <string name="Bead_Mogul">"Kẻ ăn hạt"</string>
+    <string name="beads_">"hạt."</string>
+
+    <string name="Rejoin_Game">"Vào lại"</string>
+    <string name="PRIZES">"PHẦN THƯỞNG"</string>
+
+    <string name="Enable_Custom_Skin">"Kích hoạt tùy chỉnh Skin"</string>
+    <string name="Use_Custom_Skin">"Dùng Skin tuỳ chỉnh"</string>
+    <string name="custom_skin_description">"Tính năng này cho phép bạn sử dụng hình ảnh cá nhân hoặc ảnh như skin của bạn. Bạn cần phải tải skin lên và đợi phê duyệt thì những người chơi khác mới thấy được skin."</string>
+    <string name="CUSTOM_SKIN">"Tùy chỉnh skin"</string>
+
+    <string name="Facebook_Profile">"Dùng ảnh Facebook"</string>
+    <string name="You_must_be_signed_in_to_Facebook_">"Bạn phải đăng nhập Facebook."</string>
+    <string name="copy_details">"sao chép chi tiết"</string>
+    <string name="copied_error_details_to_clipboard">"chi tiết lỗi sao chép vào clipboard"</string>
+
+    <string name="No_file_browser_installed_">"Không có tập tin !"</string>
+    <string name="Choose_File">"Chọn Ảnh"</string>
+    <string name="Google_Profile">"Ảnh Google"</string>
+    <string name="You_must_be_signed_in_to_Google_">"Bạn phải đăng nhập vào Google."</string>
+
+    <string name="MAYHEM">"LỘN XỘN"</string>
+    <string name="eggs_">"trứng."</string>
+    <string name="Egg_Collector">"Nhà sưu tầm trứng"</string>
+    <string name="Egg_Hoarder">"Kẻ tích lũy trứng"</string>
+    <string name="Egg_Mogul">"Kẻ ấp trứng"</string>
+    <string name="Collect_1_000_eggs_">"Thu thập 1.000 trứng."</string>
+    <string name="Collect_5_000_eggs_">"Thu thập 5.000 trứng."</string>
+    <string name="Collect_10_000_eggs_">"Thu thập 10.000 trứng."</string>
+    <string name="HISTORY">"LỊCH SỬ"</string>
+    <string name="CLAN_HISTORY">"LỊCH SỬ BĂNG ĐẢNG"</string>
+
+
+    <string name="Love_Nebulous_">"Yêu thích Nebulous?"</string>
+    <string name="Please_support_Nebulous_by_rating_it_">"Xin hãy ủng hộ Nebulous thật nhiệt tình."</string>
+    <string name="MAYHEM_MODE">"KIỂU ĐA DẠNG"</string>
+    <string name="Times_Teleported_">"Lần dịch chuyển:"</string>
+    <string name="Powerups_Used_">"Sử dụng sức mạnh: "</string>
+    <string name="Power_Hungry">"Thèm khát sức mạnh"</string>
+    <string name="Over_9000">"Trên 9000"</string>
+    <string name="Omnipresence">"Dịch chuyển khắp nơi"</string>
+
+    <string name="Shoot_9001_Powerups">"Dùng 9001 vật phẩm"</string>
+    <string name="Teleport_100_Times">"Dịch chuyển 100 lần"</string>
+    <string name="Shoot_20_Powerups_Without_Restarting">"Dùng 20 vật phẩm trong 1 lần chơi"</string>
+    <string name="Request_Timed_Out">"Yêu cầu đã hết hạn"</string>
+    <string name="You_Are_Spectating_">"Bạn đang theo dõi."</string>
+    <string name="Account_In_Use_">"Tài khoản đang bị sử dụng!"</string>
+    <string name="Cannot_Join_Arena_">"Không thể tham gia đấu trường"</string>
+    <string name="Signing_out_will_disconnect_you_from_the_current_game">"Đăng xuất sẽ ngắt kết nối với các trò chơi hiện tại!"</string>
+    <string name="raindrops_">"Hạt mưa."</string>
+    <string name="Raindrop_Collector">"Nhà sưu tầm Hạt mưa"</string>
+    <string name="Raindrop_Hoarder">"Kẻ tích lũy Hạt mưa"</string>
+    <string name="Raindrop_Mogul">"Hứng mưa"</string>
+    <string name="Collect_1_000_raindrops_">"Thu thập 1.000 hạt mưa."</string>
+    <string name="Collect_5_000_raindrops_">"Thu thập 5.000 hạt mưa."</string>
+    <string name="Collect_10_000_raindrops_">"Thu thập 10.000 hạt mưa."</string>
+    <string name="Copy_Message">"Sao chép tin nhắn"</string>
+    <string name="Copied_to_clipboard_">"Sao chép vào clipboard."</string>
+    <string name="COPY_NAME">"SAO CHÉP TÊN"</string>
+    <string name="Challenge_Sent">"Đã gửi lời khiêu chiến!"</string>
+    <string name="_1v1_Challenge_">"Thách đấu 1v1 !"</string>
+    <string name="__has_challenged_you_to_a_1v1_match_">"%s đã thách đấu bạn 1v1, rén thì đừng chấp nhận!"</string>
+    <string name="Challenge_Expired">"Hết hạn thách đấu"</string>
+    <string name="Enable_Challenges">"Kích hoạt tính năng thách đấu"</string>
+    <string name="Wait_for_the_current_challenge_to_expire_">"Đợi lời thách đấu hiện tại hết hạn đã."</string>
+    <string name="CHALLENGE_OPTIONS">"TÙY CHỌN KHIÊU CHIẾN"</string>
+    <string name="Accept">"Vào Luôn"</string>
+    <string name="Decline">"Từ chối"</string>
+    <string name="Challenge_Declined">"Thách đấu bị từ chối"</string>
+    <string name="Spectators_">"khán giả:"</string>
+    <string name="Nebula_Collector">"Nhà sưu tầm Tinh vân:"</string>
+    <string name="Nebula_Hoarder">"Kẻ tích lũy Tinh vân:"</string>
+    <string name="Nebula_Mogul">"Người thu thập Tinh vân"</string>
+    <string name="Collect_1_000_nebulas_">"Thu thập 1.000 tinh vân."</string>
+    <string name="Collect_5_000_nebulas_">"Thu thập 5.000 tinh vân."</string>
+    <string name="Collect_10_000_nebulas_">"Thu thập 10.000 tinh vân."</string>
+    <string name="nebulas_">"tinh vân."</string>
+    <string name="Incompatible_versions_">"Phiên bản không tương thích."</string>
+    <string name="Update_Available_">"Xin hãy cập nhật !"</string>
+    <string name="VIEW_INVITES">"XEM LỜI MỜI"</string>
+    <string name="CLAN_INVITES">"MỜI BĂNG ĐẢNG"</string>
+    <string name="Cancel_Invitation">"Hủy Thư mời"</string>
+    <string name="DOWNLOAD">"TẢI VỀ"</string>
+    <string name="REJECT_ALL_FRIEND_INVITATIONS_">"HỦY TẤT CẢ LỜI MỜI?"</string>
+    <string name="suns_">"mặt trời."</string>
+    <string name="Sun_Collector">"Nhà sưu tầm mặt trời"</string>
+    <string name="Sun_Hoarder">"Kẻ tích lũy mặt trời"</string>
+    <string name="Sun_Mogul">"Săn lùng mặt trời"</string>
+    <string name="Collect_1_000_suns_">"Thu thập 1.000 mặt trời."</string>
+    <string name="Collect_5_000_suns_">"Thu thập 5.000 mặt trời."</string>
+    <string name="Collect_10_000_suns_">"Thu thập 10.000 mặt trời."</string>
+    <string name="Reward_Videos_">"Videos thưởng !"</string>
+    <string name="Free_Plasma_">"Plasma miễn phí!"</string>
+    <string name="moons_">"mặt trăng."</string>
+    <string name="Moon_Collector">"Nhà thu thập mặt trăng"</string>
+    <string name="Moon_Hoarder">"Kẻ tích lũy mặt trăng"</string>
+    <string name="Moon_Mogul">"Mặt trăng Mogul"</string>
+    <string name="Collect_1_000_moons_">"Thu thập 1.000 mặt trăng."</string>
+    <string name="Collect_5_000_moons_">"Thu thập 5.000 mặt trăng."</string>
+    <string name="Collect_10_000_moons_">"Thu thập 10.000 mặt trăng."</string>
+    <string name="BLUETOOTH">"BLUETOOTH"</string>
+    <string name="HOST">"HOST"</string>
+    <string name="This_device_does_not_support_bluetooth_">"Thiết bị này không hỗ trợ bluetooth."</string>
+    <string name="member_permissions">"Quyền thành viên"</string>
+    <string name="edit">"điều chỉnh"</string>
+    <string name="start_clan_war">"Bắt đầu hội chiến"</string>
+    <string name="join_clan_war">"Vào Hội Chiến"</string>
+    <string name="none">"không"</string>
+    <string name="INVALID_TOKEN">"Mã không hợp lệ!"</string>
+    <string name="banned_until">"cấm cho đến khi "</string>
+    <string name="Note_Collector">"Nhà thu thập giai điệu"</string>
+    <string name="Note_Hoarder">"Người soạn giai điệu"</string>
+    <string name="Note_Mogul">"Lưu ý Mogul"</string>
+    <string name="Collect_1_000_notes_">"Thu thập 1.000 giai điệu."</string>
+    <string name="Collect_5_000_notes_">"Thu thập 5.000 giai điệu."</string>
+    <string name="Collect_10_000_notes_">"Thu thập 10.000 giai điệu."</string>
+    <string name="notes_">"giai điệu."</string>
+    <string name="CLICK_CHEAT_DETECTED_">"CẢNH CÁO DÙNG PHẦN MỀM THỨ 3 !"</string>
+    <string name="Pumpkin_Hoarder">"Người trồng bí ngô"</string>
+    <string name="Pumpkin_Mogul">"Kẻ thu hoạch bí ngô"</string>
+    <string name="Leaf_Mogul">"Kẻ quét lá"</string>
+    <string name="Collect_5000_pumpkins_">"Thu thập 5.000 quả bí ngô."</string>
+    <string name="Collect_10000_pumpkins_">"Thu thập 10.000 quả bí ngô."</string>
+    <string name="Collect_10000_leaves_">"Thu thập 10.000 lá."</string>
+    <string name="Eject">"Bắn ra"</string>
+    <string name="Eject_Skin">"Skin của nút bắn"</string>
+    <string name="Double_Plasma__">"X2 Plasma !!"</string>
+    <string name="Ends">"Kết thúc"</string>
+    <string name="Select_Clan_Member">"Chọn Thành Viên"</string>
+    <string name="Inappropriate_Skin">"Skin không phù hợp"</string>
+    <string name="Approved">"Đã duyệt"</string>
+    <string name="Rejected">"Không Duyệt"</string>
+    <string name="Refunded">"Hoàn lại"</string>
+
+
+    <string name="contribution_warning">"Bạn có chắc chắn muốn đóng góp lượng plasma này? Đóng góp sẽ không được trả lại."</string>
+    <string name="Upload">"Tải lên"</string>
+    <string name="upload_warning">"Bạn có muốn tải skin này lên ? Mọi người có thể thấy skin này. Có thể mất một tuần để skin của bạn được duyệt. Skin không phù hợp sẽ bị xoá !"</string>
+
+    <string name="In_Review">"Đang duyệt"</string>
+    <string name="Account_Uploads">"Tải lên tài khoản"</string>
+    <string name="Clan_Uploads">"Tải lên băng đảng"</string>
+    <string name="Empty">"Trống"</string>
+    <string name="Select">"Lựa chọn"</string>
+    <string name="Current_Skin">"Skin hiện tại"</string>
+    <string name="Status">"Trạng thái"</string>
+    <string name="upload_size_failure">"Không thể ảnh này lên vì nó quá lớn. Vui lòng thử một hình ảnh khác."</string>
+    <string name="CONTRIBUTE_PLASMA">"ĐÓNG GÓP PLASMA"</string>
+    <string name="Specify_Contribution_Amount">"Chỉ định đóng góp số tiền"</string>
+    <string name="Clan_Contribution">"Đóng góp cho băng đảng"</string>
+    <string name="FILTER">"LỌC"</string>
+    <string name="List_Count_">"Danh sách:"</string>
+    <string name="Download_Skins">"Tải Skins"</string>
+    <string name="ARENA_HISTORY">"LỊCH SỬ ĐẤU TRƯỜNG"</string>
+    <string name="WIN">"THẮNG TRẬN"</string>
+    <string name="LOSS">"BẠI TRẬN"</string>
+    <string name="Other_players_can_not_see_your_skin_">"Các cầu thủ khác không thể nhìn thấy skin của bạn."</string>
+    <string name="Other_players_can_see_your_skin_">"Các cầu thủ khác có thể nhìn thấy skin của bạn."</string>
+    <string name="LEGEND">"BẬC CHÍ TÔN"</string>
+    <string name="Win_10000_Arenas">"Thắng 10.000 trận Đấu Trường."</string>
+    <string name="UPLOAD_PREVIEW">"XEM TRƯỚC"</string>
+    <string name="Transparency">"Xoá nền sau"</string>
+    <string name="upload_info">"Bạn có thể đạt được chất lượng tốt hơn khi không xoá nền hoặc hình ảnh đơn giản."</string>
+    <string name="Compression_Quality_">"Chất lượng nén:"</string>
+    <string name="inapproriate_info">"Skin không phù hợp bao gồm bất cứ điều gì liên quan đến thù hận, máu me, khiêu dâm, bạo lực, ma túy, quan hệ tình dục, ảnh khoả thân, ảnh tự chụp toàn thân, tối tăm và skin chưa sửa đổi."</string>
+    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Bạn có chắc chắn muốn tải skin này lên ?"</string>
+    <string name="Grant_Permission">"Cấp phép"</string>
+    <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous cần quyền truy cập để lưu lại tiến trình game của bạn!"</string>
+    <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous cần quyền để có thể kết nối với các thiết bị Bluetooth khi cần."</string>
+    <string name="FFA_ULTRA">"TÁCH NHANH"</string>
+    <string name="FFAU">"ẤN NHANH"</string>
+    <string name="_in_a_FFAU_Game">"trong phòng ẤN NHANH"</string>
+
+    <string name="BANNED_PLAYERS">"NGƯỜI CHƠI BỊ CẤM"</string>
+    <string name="MAIL">"THƯ"</string>
+    <string name="WRITE_MAIL">"VIẾT THƯ"</string>
+    <string name="Days">"ngày"</string>
+    <string name="Message">"Tin nhắn"</string>
+    <string name="Subject">"Chủ đề"</string>
+    <string name="SEND">"GỬI"</string>
+    <string name="To">"TỚI"</string>
+    <string name="RESET">"THIẾT LẬP LẠI"</string>
+    <string name="Message_Sent_">"Đã gửi tin nhắn!"</string>
+    <string name="From">"Từ"</string>
+    <string name="Sent">"Gửi"</string>
+    <string name="REPLY">"TRẢ LỜI"</string>
+    <string name="Delete_Message">"xóa tin nhắn"</string>
+    <string name="BLOCK">"KHÓA"</string>
+    <string name="DELETE">"XÓA BỎ"</string>
+    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Lưu ý: Bạn có thể bỏ chặn ai đó bằng cách gửi một yêu cầu kết bạn."</string>
+    <string name="Select_Friend">"Chọn bạn bè"</string>
+    <string name="Failed_to_send_mail_">"Không gửi được tin!"</string>
+    <string name="In_Game_Mail">"Tin trong trò chơi"</string>
+    <string name="Nav_Buttons_">"Phím mềm"</string>
+    <string name="account_warning">"Không bao giờ chia sẻ mật khẩu tài khoản của bạn cho bất cứ ai !"</string>
+    <string name="Clan_Hero">"Chiến Thần"</string>
+    <string name="Win_1000_Clan_Wars">"Thắng 1.000 trận Hội Chiến"</string>
+    <string name="NAME_COLOR">"TÊN MÀU"</string>
+    <string name="name_color_instructions">"Chọn các ký tự bạn muốn thay đổi sau đó chọn màu sắc để thay đổi."</string>
+    <string name="Cannot_change_this_character_">"Không thể thay đổi kí tự này"</string>
+    <string name="ZOMBIE_APOCALYPSE">"ĐẠI DỊCH ZOMBIE"</string>
+    <string name="Survive_a_Zombie_Apocalypse">"Sinh tồn trong đại dịch Zombie"</string>
+    <string name="ZA">"ZA"</string>
+    <string name="Pandemic">"Bị nhiễm"</string>
+    <string name="Immunity">"Miễn dịch"</string>
+    <string name="Win_as_zombies_in_2_minutes_or_less_">"Chiến thắng như zombie trong 2 phút hoặc ít hơn."</string>
+    <string name="Win_as_survivors_with_no_losses_">"Chiến thắng là người còn sống sót không có thiệt hại."</string>
+    <string name="ZOMBIE_">"THÂY MA!"</string>
+    <string name="SURVIVOR_">"NGƯỜI SỐNG SÓT !"</string>
+    <string name="Zombies">"Zombies"</string>
+    <string name="Survivors">"Những người sống sót"</string>
+    <string name="Enter_a_Tournament">"Đăng ký một giải đấu"</string>
+    <string name="Win_a_Tournament">"Giành chiến thắng một giải đấu"</string>
+    <string name="Tournament_Competing">"Đang đánh giải"</string>
+    <string name="Tournament_Registered">"Đã đăng ký giải đấu"</string>
+    <string name="Tournament">"Giải đấu"</string>
+    <string name="TourneyDescription">"Bạn phải đăng ký để chơi trong các giải đấu. Bạn sẽ tham gia khi giải đấu bắt đầu hoặc bạn có thể bỏ đăng ký trước khi nó bắt đầu. Giải đấu sẽ bắt đầu khi có ít nhất %d người tham gia."</string>
+    <string name="Register">"Đăng ký"</string>
+
+    <string name="Registered">"Đã đăng ký"</string>
+    <string name="Not_Registered">"Chưa đăng ký"</string>
+    <string name="Prize_Pool">"Giải thưởng"</string>
+    <string name="Registrants">"Đăng kí"</string>
+    <string name="Round_Of">"vòng Trong"</string>
+    <string name="Next_Tournament">"Giải đấu Tiếp theo"</string>
+    <string name="Plasma_Won">"Thưởng plasma"</string>
+    <string name="Semi_Finals">"Bán kết"</string>
+    <string name="Quarter_Finals">"Tứ kết"</string>
+    <string name="Competing">"Đang đấu"</string>
+    <string name="Finals">"Chung kết"</string>
+    <string name="Unregister">"Hủy đăng ký"</string>
+    <string name="Enter_My_Match">"Vào trận của tôi"</string>
+    <string name="Starts_In">"Bắt đầu trong"</string>
+    <string name="Seconds">"giây"</string>
+    <string name="Tournaments_Temporarily_Disabled">"Giải đấu đã vô hiệu hóa."</string>
+    <string name="CLAN_NAME_COLOR">"MÀU TÊN BĂNG ĐẢNG"</string>
+    <string name="Tuber">"Youtuber"</string>
+    <string name="youtube_prompt">"Bạn có muốn truy cập vào kênh Youtube này? Các kênh này không liên kết với những người sáng tạo."</string>
+    <string name="Tournament_Matches_Won_">"Số giải đấu đã vô địch:"</string>
+    <string name="PAINT">"SƠN"</string>
+    <string name="BLOCKED_ACCOUNTS">"TÀI KHOẢN BỊ CHẶN"</string>
+    <string name="UNBLOCK">"BỎ CHẶN"</string>
+    <string name="Emotes">"Cảm xúc"</string>
+    <string name="Support">"Ủng hộ"</string>
+    <string name="Already_Blocked">"đã chặn"</string>
+    <string name="Cannot_block_more_than_x_accounts_">"Không thể chặn hơn %d tài khoản."</string>
+    <string name="This_is_you_">"Đây là bạn."</string>
+    <string name="Win_a_Paint_Game">"Giành chiến thắng một trò chơi sơn"</string>
+    <string name="Whiteout">"Whiteout"</string>
+    <string name="Speed_Painter">"Thợ Sơn"</string>
+    <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"Giành chiến thắng một trò chơi Sơn với tất cả các đối thủ có 0 điểm."</string>
+    <string name="Win_a_Paint_game_in_60_seconds_or_less_">"Giành chiến thắng một trò chơi Sơn trong 60 giây hoặc ít hơn."</string>
+    <string name="Autoclick">"Autoclick"</string>
+    <string name="Autoclick_24_Hours">"Autoclick 24 giờ"</string>
+    <string name="Autoclick_1_Hour">"Autoclick 1 Giờ"</string>
+    <string name="Ultraclick_24_Hours">"Ultraclick 24 giờ"</string>
+    <string name="Ultraclick_1_Hour">"Ultraclick 1 Giờ"</string>
+    <string name="Ultraclick">"Ultraclick"</string>
+    <string name="May_Reduce_Lag">"(Có thể Giảm Lag)"</string>
+    <string name="Ultraclick_Permanent">"Ultraclick vĩnh viễn"</string>
+    <string name="Autoclick_Permanent">"Autoclick vĩnh viễn"</string>
+    <string name="x3_XP_Permanent">"3x XP vĩnh viễn"</string>
+    <string name="x2_XP_Permanent">"2x XP vĩnh viễn"</string>
+    <string name="Permanent">"Vĩnh viễn"</string>
+    <string name="Apply_To_Account">"Áp dụng cho: Tài khoản"</string>
+    <string name="Spin_">"Quay!"</string>
+    <string name="Next_Spin">"Lần Quay tiếp theo"</string>
+    <string name="Wheel_Of_Nebulous_">"Vòng quay của Nebulous"</string>
+    <string name="XP_2x">"x2 EXP"</string>
+    <string name="XP_3x">"x3 EXP"</string>
+    <string name="NOW">"HIỆN TẠI"</string>
+    <string name="Team_Deathmatch_Domination">"Đội thống trị Deathmatch"</string>
+    <string name="We_Will_Survive">"Chúng ta sẽ sống sót"</string>
+    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Chiến thắng với ít nhất 5 cầu thủ trong một trò chơi Team Deathmatch."</string>
+    <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"Sinh tồn nhưng không giành chiến thắng một trò chơi Team Deathmatch."</string>
+    <string name="Win_a_Team_Deathmatch_Game">"Giành chiến thắng một trò chơi Team Deathmatch"</string>
+    <string name="TEAM_DEATHMATCH">"Team Deathmatch"</string>
+    <string name="Speed_Click_Toggle">"Tốc độ Bấm Chuyển đổi"</string>
+    <string name="MOD">"MOD"</string>
+    <string name="FAQ">"Câu hỏi thường gặp"</string>
+    <string name="BUY_EXTRA_SPINS">MUA VÒNG QUAY</string>
+    <string name="Spins_Remaining">Vòng quay còn lại</string>
+    <string name="One_Spin">One Spin (1)</string>
+    <string name="Bundle_of_Spins">Bundle Of Spins (10)</string>
+    <string name="Plethora_of_Spins">Plethora Of Spins (50)</string>
+    <string name="SIGN_OUT_ALL_DEVICES">ĐĂNG XUẤT TẤT CẢ THIẾT BỊ</string>
+    <string name="Tournament_Forming">Đang tạo giải đấu</string>
+    <string name="TeamTourneyDescription">Bạn và đồng đội của bạn phải đăng ký tham dự giải đấu đội. Bạn sẽ phải trả phí plasma khi giải đấu bắt đầu nhưng bạn có thể hủy đăng ký trước khi bắt đầu. Cần ít nhất %d người chơi để bắt đầu.</string>
+    <string name="Free_Agent">Free Agent</string>
+    <string name="This_player_selected_a_different_teammate_">Người này đã chọn đội khác</string>
+    <string name="muted_until">chặn chat trong</string>
+    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Chơi online có thể sẽ không mượt bằng chơi offline nhưng vui hơn nhiều.</string>
+    <string name="UI_Opacity_">UI Opacity</string>
+    <string name="LOAD">TẢI</string>
+    <string name="REMOVE">Gỡ</string>
+    <string name="BAN">CẤM</string>
+    <string name="MODERATORS">MODERATORS</string>
+    <string name="ALL_CLAN">CẢ HỘI</string>
+    <string name="CO_LEADER">PHÓ BĂNG ĐẢNG</string>
+    <string name="CLAN_HOUSE">NHÀ HỘI</string>
+
+    <string name="ROOM">PHÒNG</string>
+    <string name="EXPERIMENTAL">THỰC NGHIỆM</string>
+    <string name="members">thành viên</string>
+    <string name="Delete_ALL_Messages_">xóa tất cả tin nhắn</string>
+    <string name="SAVE_PROFILE">LƯU HỒ SƠ</string>
+    <string name="Move">CHUYỂN </string>
+    <string name="New_Position">Vị trí mới</string>
+    <string name="ALLIANCES">ĐỒNG MINH</string>
+    <string name="ENEMIES">KẺ THÙ </string>
+    <string name="NEW_ALLIANCE">ĐỒNG MINH MỚI</string>
+    <string name="NEW_ENEMY">KẺ THÙ MỚI</string>
+    <string name="CLAN_RELATIONS">CÁC MỐI QUAN HỆ </string>
+    <string name="Clan_XP_Boost">BOOST XP CHO HỘI</string>
+    <string name="x3_Clan_XP_7_days">3x Clan XP 7 Days</string>
+    <string name="x3_Clan_XP_1_Day">3x Clan XP 1 Day</string>
+    <string name="x2_Clan_XP_1_Day">2x Clan XP 1 Day</string>
+    <string name="Pets">Thú cưng</string>
+    <string name="Pet">Thú</string>
+    <string name="You_can_purchase_this_pet_for">Bạn có thể mua thú cưng này với</string>
+    <string name="gift_to_friend">Tặng cho bạn bè</string>
+    <string name="gift_purchase_warning">Bạn sẽ không nhận được giao dịch mua hàng này bởi vì bạn đã chọn tặng món quà này cho bạn bè.</string>
+    <string name="x2_Clan_XP_7_Days">2x Clan XP 7 Days</string>
+    <string name="RECEIVED">ĐÃ NHẬN</string>
+    <string name="SENT">Gửi</string>
+    <string name="Enable_Invites">Cho phép lời mời</string>
+    <string name="Game_Invitation">Mời vào phòng</string>
+    <string name="__has_invited_you_to_join_their_game_">%s đã mời bạn vào phòng !</string>
+    <string name="Invitation_declined_">Lời mời bị từ chối !</string>
+    <string name="Invitation_accepted_">Lời mời được chấp nhận!</string>
+    <string name="Invitation_expired_">Lời mời đã hết hạn!</string>
+    <string name="Wait_for_the_current_invitation_to_expire_">Đợi lời mời hiện tại hết hạn.</string>
+    <string name="BLOB_COLOR">MÀU ĐỐM</string>
+    <string name="ENABLED">ĐÃ MỞ</string>
+    <string name="Enable_Custom_Blob_Color">Mở tùy chỉnh màu đốm</string>
+    <string name="Choose_Menu">Chọn Menu</string>
+    <string name="SPECTATE">XEM</string>
+    <string name="INVITE">MỜI</string>
+    <string name="error_1">Chỉ có lãnh đạo hoặc phó băng đảng mới có thể gửi thư Hội</string>
+    <string name="Hat">Mũ</string>
+    <string name="Hats">Mũ</string>
+    <string name="Pet_Uploads">Tải ảnh Thú lên</string>
+    <string name="BLOB">ĐỐM</string>
+    <string name="Clan_Pet_Uploads">Tải ảnh Thú hội</string>
+    <string name="YT">YTB</string>
+    <string name="FREE_TODAY">NAY MIỄN PHÍ! </string>
+    <string name="Cannot_cancel_this_skin_yet_">Không thể hủy skin này</string>
+    <string name="SPLIT_16X">TÁCH 16x</string>
+    <string name="SET_PUBLIC_DESCRIPTION">SỬA MIÊU TẢ</string>
+    <string name="SET_NOTE">SỬA GHI CHÚ</string>
+    <string name="enable_notifications">Bật thông báo</string>
+    <string name="PROMOTE_MEMBER">THĂNG CẤP THÀNH VIÊN</string>
+    <string name="DEMOTE_MEMBER">GIÁNG CẤP THÀNH VIÊN</string>
+    <string name="HAPPY_BIRTHDAY_">CHÚC MỪNG SINH NHẬT NEBULOUS !</string>
+    <string name="Years">Năm</string>
+    <string name="Friend_Added_">Đã thêm bạn !</string>
+    <string name="_in_a_16x_Split_Game">ở 1 game tách x16</string>
+    <string name="Rules">Quy tắc</string>
+    <string name="Blob_Chat_Bubbles">Bong bóng chat</string>
+    <string name="CHRISTMAS_ADVENT_SKINS">SỰ KIỆN GIÁNG SINH</string>
+    <string name="You_cannot_open_this_present_yet_">Bạn chưa được mở hộp quà này!</string>
+    <string name="Open_Present">Mở quà </string>
+    <string name="OPEN">MỞ</string>
+    <string name="Halo">Hào quang</string>
+    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Để dùng skin này, bạn cần phải có %1$s và Thành tựu %2$s.</string>
+    <string name="Halos">hào quang</string>
+    <string name="CAMPAIGN">CHIẾN DỊCH</string>
+    <string name="Mission">Ải</string>
+    <string name="Kill_All_Bots">Ăn hết tất cả BOT</string>
+    <string name="Survive">Sinh tồn</string>
+    <string name="Mission_d_Complete">Ải %d hoàn thành !</string>
+    <string name="Mission_d_Failed">Ải %d thất bại !</string>
+    <string name="Next_Mission">Ải tiếp theo</string>
+    <string name="Objective">Nhiệm vụ</string>
+    <string name="GAME">GAME</string>
+    <string name="Saved_">Lưu !</string>
+    <string name="Name_Opacity_">Độ mờ tên:</string>
+    <string name="SET_PROFILE_PIC">CÀI ẢNH HỒ SƠ</string>
+    <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">CHẤP NHẬN TẤT CẢ BẠN MỚI</string>
+    <string name="App_Perf_Stats">Thống kê Hiệu suất ứng dụng</string>
+    <string name="COPY">COPY</string>
+    <string name="_1v1_Ultra">1v1 Ultra</string>
+    <string name="ArenaDescriptionUltra">Người chiến thắng sẽ nhận được %s plasma.</string>
+    <string name="BANNED">BỊ CẤM</string>
+    <string name="CLAN_MEMBERS">THÀNH VIÊN HỘI</string>
+    <string name="CLAN_REQUESTS">NGƯỜI XIN VÀO</string>
+    <string name="Pet_1">Thú 1</string>
+    <string name="Pet_2">Thú 2</string>
+    <string name="Second_Pet">Bạn có thể dắt 2 con thú cùng lúc!</string>
+    <string name="This_item_requires">Món đồ này cần</string>
+    <string name="not_enough_plasma">Không đủ plasma.</string>
+    <string name="MARK_UNREAD">ĐÁNH DẤU CHƯA ĐỌC</string>
+    <string name="ROYALE_DUO">ROYALE DUO</string>
+    <string name="Choose_Partner">Chọn bạn</string>
+    <string name="REMOVE_FRIEND">XOÁ BẠN</string>
+    <string name="Creator">Người sáng lập</string>
+    <string name="PROFILE_COLOR">MÀU HỒ SƠ</string>
+    <string name="Enable_Colors">Sử dụng màu</string>
+    <string name="Particles">Chấm nhỏ</string>
+    <string name="Clan_Particle_Uploads">Ảnh chấm nhỏ cho hội</string>
+    <string name="Particle_Uploads">Ảnh chấm nhỏ</string>
+    <string name="Blob_Outline">Hiện viền đốm</string>
+    <string name="Game_Border">Ranh giới phòng</string>
+    <string name="Select_some_text_first">Chọn 1 vài kí tự đã</string>
+    <string name="Save_the_profile_first">Lưu hồ sơ đã</string>
+    <string name="Birthday">Sinh Nhật</string>
+    <string name="Mass_Boost">Tăng Mass</string>
+
+    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Tăng Mass sẽ không dùng được trong Đấu Trường hay Giải Đấu!</string>
+
+    <string name="ArenaDescriptionPure">Không có autoclick hay ultraclick. Bạn có 1 mạng. Thắng sẽ nhận được %s plasma.</string>
+    <string name="_1v1_Pure">1v1 cổ xưa</string>
+    <string name="Allow_Ultraclick">Bật Ultraclick</string>
+    <string name="Allow_Mass_Boost">Bật Tăng Mass</string>
+    <string name="Challenges_Won_">Thách đấu đã thắng:</string>
+    <string name="trophy_info">Cúp vô địch được trao cho những con quái vật đứng đầu các bảng xếp hạng đấu trường. Cúp vô địch chỉ có ở những máy chủ rất đông và khó.</string>
+    <string name="BLOCKED">BLOCKED</string>
+    <string name="CLAN_WAR_HISTORY">LỊCH SỬ HỘI CHIẾN</string>
+    <string name="Particle">Chấm nhỏ</string>
+    <string name="Privacy">Cài đặt chính sách</string>
+    <string name="EULA">EULA</string>
+    <string name="You_can_purchase_this_hat_for">Bạn có thể mua mũ này với</string>
+    <string name="You_can_purchase_this_particle_for">Bạn có thể mua chấm nhỏ này với</string>
+    <string name="You_can_purchase_this_eject_skin_for">Bạn có thể mua ảnh chất bắn ra này với</string>
+    <string name="Skin">Skin</string>
+    <string name="Custom_Skin">"Skin tuỳ chỉnh</string>
+    <string name="Color">Màu sắc</string>
+    <string name="RECENT_PLAYERS">NGƯỜI CHƠI GẦN ĐÂY</string>
+    <string name="POSITION_CONTROL_STICK">"VỊ TRÍ NÚT DI CHUYỂN"</string>
+    <string name="POSITION_SPLIT_BUTTON">VỊ TRÍ NÚT TÁCH</string>
+    <string name="POSITION_EJECT_BUTTON">VỊ TRÍ NÚT BẮN</string>
+    <string name="POSITION_EJECT_TOGGLE_BUTTON">VỊ TRÍ KÍCH HOẠT NÚT BẮN</string>
+    <string name="WIFI">WIFI</string>
+    <string name="JOIN_IP">JOIN IP</string>
+    <string name="Specify_Host_IP">IP Chủ cụ thể</string>
+    <string name="ADVANCED_SETUP">CÀI ĐẶT NÂNG CAO</string>
+    <string name="WORLD_CUP_EVENT___">Sự kiện WORLD CUP!!!</string>
+    <string name="world_cup_event_description">Nhân đôi XP và Plasma trong chế độ bóng đá đến khi hết world cup!</string>
+    <string name="GIF_Skins">GIF Skins</string>
+    <string name="PLAY_ONLINE_">CHƠI ONLINE!</string>
+    <string name="Absorb_10_000_000_dots">Ăn 10,000,000 chấm</string>
+    <string name="Dot_Deity">Đấng tối cao</string>
+    <string name="Mass_Mastery">Đấng toàn năng</string>
+    <string name="Gain_100_000_000_mass">Đạt tổng số 100,000,000 điểm</string>
+    <string name="VET">VET</string>
+    <string name="Mute">Mute</string>
+    <string name="Unmute">Unmute</string>
+    <string name="Community">Cộng Đồng</string>
+    <string name="Buy">Mua</string>
+    <string name="Sell">Bán</string>
+    <string name="community_skin_requirement">Bạn cần phải mua tuỳ chỉnh skin để có thể mua skin cộng đồng.</string>
+    <string name="You_can_purchase_this_community_skin_for_">Bạn có thể mua skin cộng đồng này với</string>
+    <string name="VIEW_UPLOADER">XEM NGƯỜI TẢI LÊN</string>
+    <string name="POPULAR">PHỔ BIẾN</string>
+    <string name="NEW">MỚI</string>
+    <string name="Manage_Configurations">Quản lý config</string>
+    <string name="Leave_blank_for_all_uploaders_">Để trống cho tất cả người tải lên.</string>
+    <string name="More___">Xem thêm…</string>
+    <string name="This_cannot_be_used_in_FFA_Classic_">Skin này không dùng được trong cổ điển.</string>
+    <string name="ENEMY">KẺ THÙ</string>
+    <string name="ALLY">ĐỒNG MINH</string>
+    <string name="Rename">Đổi tên</string>
+    <string name="Set_friendly_name_">Đặt biệt danh.</string>
+    <string name="Leave_blank_for_none_">Để trống.</string>
+    <string name="Vote_Kick">Đuổi Người Chơi</string>
+    <string name="FONT">DẠNG</string>
+    <string name="CIRCLE">TRÒN</string>
+    <string name="SQUARES">VUÔNG</string>
+    <string name="TRICK_MODE">CHẾ ĐỘ TRICK</string>
+    <string name="ICE_SPLIT">TRICK BĂNG</string>
+    <string name="TRICK_SPLIT">TÁCH TRICK</string>
+    <string name="POP_SPLIT">TRICK NHỒI</string>
+    <string name="PUSH_SPLIT">TRICK ĐẨY</string>
+    <string name="Level_Colors">Màu cấp độ</string>
+    <string name="click_info">Autoclick / Ultraclick không dùng được ở cổ điển!</string>
+    <string name="Hooked">Móc kéo</string>
+    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Dùng móc kéo di chuyển trong 10 giây</string>
+    <string name="Pack">Gói</string>
+    <string name="Skin_Pack">Gói skin</string>
+    <string name="SKIN_PACK">GÓI SKIN</string>
+    <string name="HALLOWEEN">HALLOWEEN</string>
+
+    <string name="pack_info">Khi bạn đã mua gói skin này, gói skin của bạn sẽ hiện trên đầu của phần chọn skin.</string>
+
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins hiếm, thú cưng hiếm và hơn nữa!</string>
+    <string name="BUY_NOW_">MUA NGAY ĐI!</string>
+    <string name="already_purchased">Bạn hoặc người bạn mua cho đã sở hữu gói này rồi.</string>
+    <string name="Halo_Animations">Halo Animations</string>
+    <string name="Trick_Notifications">Trick Notifications</string>
+    <string name="Channel">Kênh</string>
+    <string name="Choose_Text_Size">Chọn kích thước chữ</string>
+    <string name="LEVEL_COLOR">MÀU CẤP ĐỘ</string>
+    <string name="INITIATE">INITIATE</string>
+    <string name="x3_Clan_XP_Perm">3x XP HỘI VĨNH VIỄN!</string>
+    <string name="x2_Clan_XP_Perm">2x XP HỘI VĨNH VIỄN!</string>
+    <string name="Japan">Nhật Bản</string>
+    <string name="South_Korea">Hàn Quốc</string>
+    <string name="Asia">Châu Á</string>
+    <string name="SET_PRIVACY">CÀI ĐẶT QUYỀN RIÊNG TƯ</string>
+    <string name="ANIMATION">ANIMATION</string>
+    <string name="Color_Cycle">Vòng tuần hoàn màu</string>
+    <string name="Fast">Nhanh</string>
+    <string name="Slow">Chậm</string>
+    <string name="Rainbow">Cầu vồng</string>
+    <string name="Horizontal">Chiều Ngang</string>
+    <string name="Vertical">Chiều Dọc</string>
+    <string name="GROUP">NHÓM</string>
+    <string name="LEAVE">RỜI</string>
+    <string name="Group">Nhóm</string>
+    <string name="Not_in_a_group_">Không trong nhóm.</string>
+    <string name="Failed">Thất bại.</string>
+    <string name="Failed_to_join">Không vào được</string>
+    <string name="Full">Phòng đầy</string>
+    <string name="Tricks_Performed_">Tricks đã thực hiện:</string>
+    <string name="Not_enough_plasma_">Không đủ plasma!</string>
+    <string name="GET_PLASMA">LẤY PLASMA</string>
+    <string name="ASTEROIDS">THIÊN THẠCH</string>
+    <string name="CHRISTMAS">GIÁNG SINH</string>
+    <string name="Reason">Lý do</string>
+    <string name="PUBLIC">CÔNG CỘNG</string>
+    <string name="PRIVATE">RIÊNG TƯ</string>
+    <string name="Joined">Đã tham gia</string>
+    <string name="Requests">Những yêu cầu</string>
+    <string name="Invites">Những lời mời</string>
+    <string name="Show_Spectator_Count">Hiện số lượng người xem</string>
+    <string name="TRY_IT_">THỬ ĐI!</string>
+    <string name="You_need_to_buy_a_pack_to_use_this_">Bạn cần phải mua gói này để có thể dùng.</string>
+    <string name="GET_PACK">LẤY GÓI</string>
+    <string name="Position_in_queue">Đang trong hàng đợi</string>
+    <string name="PROFILE_MENU_BACKGROUND_COLOR">MÀU BÌA CỦA HỒ SƠ</string>
+    <string name="DARK_MATTER">VẬT CHẤT TỐI</string>
+    <string name="Textures_will_be_regenerated_">Kết cấu nền và skin tuỳ chỉnh sẽ được tải lại.</string>
+    <string name="Enable_Profile_Colors">Mua màu sắc cho bìa hồ sơ</string>
+    <string name="Session_Stats">Phần thống kê</string>
+    <string name="Time_">Thời gian:</string>
+    <string name="Show_Session_Stats">Hiện phần thống kê</string>
+    <string name="VALENTINES_DAY">"NGÀY VALENTINE"</string>
+    <string name="Giveaways_">Quà miễn phí!</string>
+    <string name="Max_XP_Chain_">Chuỗi XP dài nhất:</string>
+    <string name="POSITION_CANCEL_BUTTON">Vị trí phím huỷ</string>
+    <string name="INVISIBILITY">Tính tàng hình</string>
+    <string name="Set_Skin">Cài đặt Skin</string>
+    <string name="Primary">Thứ nhất</string>
+    <string name="Secondary">Thứ hai</string>
+    <string name="Both">Cả hai</string>
+
+    <string name="Enable__Multiskin">"Bật 2 Skin"</string>
+    <string name="MULTISKIN">2 SKIN CÙNG LÚC</string>
+    <string name="DISABLED">TẮT</string>
+
+    <string name="Refund__Multiskin">Hoàn lại 2 Skin</string>
+    <string name="Invalid_Clan_ID_">ID hội không tồn tại.</string>
+    <string name="MUTED">ĐÃ CHẶN CHAT</string>
+    <string name="SKIN">SKIN</string>
+    <string name="Choose_Skin_Size">Chọn kích thước skin</string>
+    <string name="Other_players_will_not_be_able_to_hear_you_">Những người chơi khác sẽ không nghe thấy bạn!</string>
+    <string name="Allow_permission_to_enable_voice_recording_">Cho phép quyền để bật dùng mic chat.</string>
+    <string name="voice_chat_prompt">Hiệu suất ứng dụng sẽ thay đổi khi bật mic chat. hãy dùng tai nghe để trải nghiệm tốt hơn.</string>
+    <string name="Only_leader_can_answer_requests_">Chỉ chủ clan mới có quyền.</string>
+    <string name="Sent_request_not_invited_">Đã gửi yêu cầu (đợi duyệt).</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">XOÁ SKIN KHỎI CỘNG ĐỒNG!</string>
+    <string name="This_cannot_be_undone_">Không làm lại được đâu nhé!</string>
+    <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Xem 1 video để nhận tăng cho %d lần chơi!</string>
+    <string name="WATCH_VIDEO_">XEM VIDEO!</string>
+    <string name="PERMANENT_BOOSTS">BOOSTS VĨNH VIỄN</string>
+    <string name="Video_failed_to_load_">Không tải được video!</string>
+    <string name="Video_Ready_">Video sẵn sàng!</string>
+    <string name="GIVE_PLASMA">GỬI PLASMA</string>
+    <string name="Specify_amount_">Số lượng cụ thể:</string>
+    <string name="Specify_amount_again_to_confirm_">Nhập lại 1 lần nữa nhé:</string>
+    <string name="Amounts_did_not_match_">2 lần nhập không giống nhau!</string>
+    <string name="RECEIVE_PLASMA">NHẬN PLASMA</string>
+    <string name="MULTIBLOB">NHIỀU ĐỐM</string>
+    <string name="Play_Nebulous_For_1_Year_">Chơi Nebulous được 1 năm!</string>
+    <string name="Play_Nebulous_For_X_Years_">Chơi Nebulous được %d năm!</string>
+    <string name="Starting___">Đang bắt đầu…</string>
+    <string name="Tournament_Starting">Giải đấu đang bắt đầu</string>
+    <string name="Max_Tilt_Angle_3D_">Giới hạn góc nhìn 3D:</string>
+    <string name="Mode_3D">Chế độ 3D</string>
+    <string name="Names_Below_Blobs">Tên bên dưới đốm</string>
+    <string name="Name_Scale_">"Kích Thước Tên:"</string>
+    <string name="Button_3D">Nút 3D</string>
+    <string name="Hide_Button_">Ẩn nút đi?</string>
+    <string name="Show_Boost_Button">Hiện nút boost</string>
+    <string name="Spectate_Killer_On_Death">Xem người chơi đã ăn mình</string>
+    <string name="Rainbow_Holes">Lỗ cầu vồng</string>
+    <string name="LIFE_STEAL">HÚT MÁU</string>
+    <string name="Kicked_From_Game_">Đã bị đá khỏi phòng!</string>
+    <string name="Conquest">Chinh phạt</string>
+    <string name="Finish_the_last_mission_in_the_campaign_">Qua được ải cuối cùng của chế độ chiến dịch.</string>
+    <string name="Collected_">Đã thu thập:</string>
+    <string name="Collisions_">Đã va chạm:</string>
+    <string name="Absorbed_">Đã ăn:</string>
+    <string name="team_warning">Team với người chơi khác đội sẽ bị cấm khỏi chế độ!</string>
+    <string name="Search_Filter">Danh mục tìm kiếm</string>
+    <string name="Received_">Đã nhận:</string>
+    <string name="Opponent_Rating_Limit_">Giới hạn điểm rating đối thủ:</string>
+    <string name="TOGGLE_FAVORITE">ĐÁNH DẤU YÊU THÍCH</string>
+    <string name="Favorited">Đã đánh dấu</string>
+    <string name="Unfavorited">Bỏ đánh dấu</string>
+    <string name="Background_Scale_">Phạm vi nền:</string>
+    <string name="Background_Lightness_">Độ sáng nền:</string>
+    <string name="Background_Image_">Ảnh nền:</string>
+    <string name="INVERT_SELECTION">ĐỔI CHỌN</string>
+    <string name="MINIMAP">MAP BÉ</string>
+    <string name="Victorious">Kẻ chiến thắng</string>
+    <string name="Dominant">Thống trị</string>
+    <string name="Champion">Nhà Vô Địch</string>
+    <string name="Win_10_Tournaments">Vô địch 10 giải đấu lớn</string>
+    <string name="Win_100_Tournaments">Vô địch 100 giải đấu lớn</string>
+    <string name="HERO">CHIẾN THẦN</string>
+    <string name="CHAMPION">NHÀ VÔ ĐỊCH</string>
+    <string name="DASH">LƯỚT</string>
+    <string name="setting_changed">Đã cài lại giao diện. Bạn có thể cần phải kết nối lại để sử dụng giao diện mới.</string>
+    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Đạt tổng số 10.000 điểm trick trong chế độ trick mode.</string>
+    <string name="Tricky">Quỷ Quyệt</string>
+    <string name="SUPPORTER">VIP</string>
+    <string name="CONQUEROR">CHINH PHẠT</string>
+    <string name="TRICKY">QUỶ QUYỆT</string>
+    <string name="x4_XP_Permanent">4x XP Vĩnh Viễn</string>
+    <string name="x4_XP_24_hours">4x XP 24 Hours</string>
+    <string name="x4_XP_1_Hour">4x XP 1 Hour</string>
+    <string name="Quad">Nhân 4</string>
+    <string name="Middle_East">Trung Đông</string>
+    <string name="XP_4x">XP 4x</string>
+    <string name="You_cannot_play_for_x_minutes_">Bạn không thể chơi trong %d phút.</string>
+    <string name="x4_Clan_XP_Perm">4x XP Hội Vĩnh Viễn!</string>
+    <string name="x4_Clan_XP_7_days">4x XP Hội 7 Ngày</string>
+    <string name="x4_Clan_XP_1_Day">4x XP Hội 1 Ngày</string>
+    <string name="CHARGE_UP">SẠC NHANH</string>
+    <string name="CLAN_DESCRIPTION_COLOR">MÀU CHỮ MÔ TẢ BĂNG ĐẢNG</string>
+    <string name="Responsible_Pet_Owner">Nuôi thú trách nhiệm</string>
+    <string name="Animal_Tamer">Người cho ăn</string>
+    <string name="Crocodile_Hunter">Kẻ săn cá sấu</string>
+    <string name="Get_A_Pet_To_Level_X_">Có thú cưng đạt đến cấp độ %d.</string>
+    <string name="plasma_boost_info">"Bạn nhận được số lượng plasma nhiều hơn gấp 3 lần từ tất cả các chế độ! Bao gồm các trận thắng đấu trường và giải đấu! Không có hiệu lực trong việc mua plasma, quay thưởng hay các phần thưởng đặc biệt."</string>
+    <string name="Plasma_Boost_7_Days_">7 ngày tăng Plasma!!!</string>
+    <string name="Plasma_Boost_1_Day_">1 ngày tăng Plasma!</string>
+    <string name="Plasma_Boost_2_Hours_">2 tiếng tăng Plasma.</string>
+    <string name="Plasma_Boost">Tăng Plasma</string>
+    <string name="particle_info">Bạn cần phải đạt tối thiểu 50 cấp độ để có thể thấy những hiệu ứng chấm nhỏ hay dùng các hiệu ứng chấm nhỏ.</string>
+    <string name="Plain_Score_Text">"Phần điểm"</string>
+    <string name="Custom_Skin_Reviewed_Notification">Skin của bạn đã được đánh giá xong!</string>
+    <string name="You_Have_Mail_">Bạn có thư của %s!</string>
+    <string name="Clan_Request_Reviewed_Notification">Yêu cầu vào hội %s đã được xem xét!</string>
+    <string name="CRAZY_SPLIT">TÁCH LOẠN 32x</string>
+    <string name="Sold_Community_Skins_">"Những Skin cộng đồng đã bán: "</string>
+    <string name="Estimated_Earnings_">"Thu nhập ước tính: "</string>
+    <string name="South_Africa">Nam Phi</string>
+    <string name="SPLIT_">TÁCH:</string>
+    <string name="WALLS">TƯỜNG</string>
+    <string name="COMP_BANNED">CẤM ĐẤU</string>
+    <string name="FIND_GAMES">TÌM GAMES</string>
+    <string name="PLAY_SOLO">CHƠI SOLO</string>
+    <string name="SET_EMOTE">ĐẶT BIỂU CẢM</string>
+    <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
+    <string name="Win_a_Battle_Royale_">Thắng 1 trận tử chiến.</string>
+    <string name="Battle_">Chiến thôi!</string>
+    <string name="BATTLE_ROYALE">TỬ CHIẾN</string>
+    <string name="Battle_Royale">Tử Chiến</string>
+    <string name="The_winner_will_receive_x_plasma_">Người chiến thắng nhận %s plasma!</string>
+    <string name="admin_commands">"
+Commands:
+!kick [0–31]
+!reset
+!welcome {message}
+!difficulty [0-3] or [1-4] for Campaign
+!hidden
+!guests
+!slowchat
+!pausechat
+!mute {id}
+!admin {id}
+!allow {id}
+!allow reset"
+</string>
+    <string name="ID_Sort">ID Sort</string>
+    <string name="Master_Tamer">Vua Thú Cưng</string>
+    <string name="Get_ALL_Pets_To_Level_100_">Tất cả các thú cưng đạt cấp 100</string>
+    <string name="TAMER">VUA THÚ</string>
+    <string name="Allow_Recombine">Cho phép ghép nhanh</string>
+    <string name="Defenders">Người thủ</string>
+    <string name="Attackers">Người tấn công</string>
+    <string name="MEGA_SPLIT">ĐẠI CHIẾN 64x</string>
+    <string name="Missing_Permissions">Không đủ thẩm quyền</string>
+    <string name="DELETE_ACCOUNT">XOÁ TÀI KHOẢN</string>
+    <string name="delete_prompt">Bạn có muốn xoá tài khoản của mình không? Cái này là VĨNH VIỄN và KHÔNG LẤY LẠI ĐƯỢC ĐÂU!</string>
+
+
+    <string name="Type">Nhập</string>
+    <string name="Complete_campaign_mission_">Hoàn thành nhiệm vụ chiến dịch</string>
+    <string name="Specify_Reason_">Lý do cụ thể:</string>
+    <string name="FREE_FOR_ALL">HOÀN TOÀN MIỄN PHÍ</string>
+    <string name="SPECIAL">ĐẶC BIỆT</string>
+    <string name="FREE">MIỄN PHÍ</string>
+    <string name="x5_Clan_XP_1_Day">5X XP HỘI 1 NGÀY</string>
+    <string name="x5_Clan_XP_7_days">5X XP HỘI 7 NGÀY</string>
+    <string name="x5_Clan_XP_Perm">5X XP HỘI VĨNH VIỄN!</string>
+    <string name="Quin">5X</string>
+    <string name="x5_XP_1_Hour">5X XP 1 TIẾNG</string>
+    <string name="x5_XP_24_hours">5X XP 24 TIẾNG</string>
+    <string name="x5_XP_Permanent">5X XP VĨNH VIỄN</string>
+    <string name="CAMPAIGN_2">CHIẾN DỊCH 2</string>
+    <string name="XP_5x">XP 5x</string>
+    <string name="India">Ấn Độ</string>
+    <string name="Tutorial">Hướng dẫn</string>
+    <string name="TYCOON">GIÀU CÓ</string>
+    <string name="CLAN_BACKGROUND_COLOR">MÀU NỀN CỦA BĂNG ĐẢNG</string>
+    <string name="activate">Kích hoạt</string>
+    <string name="clan_id">ID BĂNG ĐẢNG</string>
+    <string name="language_change_warning">Thay đổi ngôn ngữ sẽ khiến game tải lại.</string>
+    <string name="xmas_gift_boost_message">Bạn đã nhận được món quà 3x tăng plasma trong 1 ngày!</string>
+    <string name="no_response">Không có phản hồi từ máy chủ. Đề nghị kiểm tra kết nối mạng.</string>
+    <string name="RAMADAN">RAMADAN</string>
+    <string name="SUDDEN_ATTACK">TẤN CÔNG BẤT NGỜ</string>
+    <string name="_2x_skin_resolution">2x độ nét của Skin</string>
+
+
+    <string-array name="control_modes">
+        <item>"bình thường"</item>
+        <item>"Phím Thả nổi"</item>
+        <item>"kéo Hướng"</item>
+        <item>"Điều khiển đuôi"</item>
+        <item>"Chạm Và đi"</item>
+        <item>"nghiên"</item>
+    </string-array>
+
+    <string-array name="button_modes">
+        <item>"Trái"</item>
+        <item>"Phải"</item>
+        <item>"Phải + trái"</item>
+        <item>"Xếp bên trái"</item>
+        <item>"Xếp bên phải"</item>
+        <item>"Custom"</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item>"Sao (đen)"</item>
+        <item>"Kẻ ô (đen)"</item>
+        <item>"Kẻ ô (trắng)"</item>
+        <item>"Custom"</item>
+        <item>"không"</item>
+    </string-array>
+
+    <string-array name="difficulties">
+        <item>"Dễ dàng"</item>
+        <item>"Trung bình"</item>
+        <item>"Khó"</item>
+        <item>"CỰC KÌ KHÓ"</item>
+    </string-array>
+
+    <string-array name="sizes">
+        <item>"Nhỏ bé"</item>
+        <item>"Nhỏ"</item>
+        <item>"bình thường"</item>
+        <item>"lớn"</item>
+        <item>"KHỔNG LỒ"</item>
+    </string-array>
+
+    <string-array name="clan_war_sizes">
+        <item>"Nhỏ bé (2v2)"</item>
+        <item>"Nhỏ (3v3)"</item>
+        <item>"Bình thường (5v5)"</item>
+        <item>"Lớn (8v8)"</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,1384 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="Players">"ผู้เล่น"</string>
+    <string name="Control_">"ควบคุม:"</string>
+    <string name="CLOSE">"ปิด"</string>
+    <string name="Stick_Size_">"ขนาดปุ่มลากควบคุม:"</string>
+    <string name="Stick_Margin_">"ปุ่มลากควบคุมติดริมขอบ:"</string>
+    <string name="Button_Size_">"ขนาดปุ่มกด:"</string>
+    <string name="Button_Margin_">"ปุ่มกดติดริมขอบ:"</string>
+    <string name="Buttons_">"ปุ่มกด:"</string>
+    <string name="DEFAULTS">"ค่าเริ่มต้น"</string>
+    <string name="WEEKLY">"ประจำสัปดาห์"</string>
+    <string name="DAILY">"ประจำวัน"</string>
+    <string name="Server_">"เซิร์ฟเวอร์:"</string>
+    <string name="Game_Mode_">"โหมดเกม:"</string>
+    <string name="Show_Names">"แสดงชื่อ"</string>
+    <string name="Show_Avatars">"แสดงสกิน"</string>
+    <string name="PLAY">"เล่น"</string>
+    <string name="OPTIONS">"ตัวเลือก"</string>
+
+    <string name="Avatar_">"สกิน:"</string>
+    <string name="Name_">"ชื่อ:"</string>
+
+    <string name="Loading___">"กำลังโหลด…"</string>
+    <string name="Connecting___">"กำลังเชื่อมต่อ…"</string>
+
+    <string name="Are_You_Sure_">"คุณแน่ใจไหม?"</string>
+    <string name="Yes">"ใช่"</string>
+    <string name="No">"ไม่"</string>
+    <string name="WAIT">"รอ…"</string>
+    <string name="Must_Specify_Name_">"ต้องระบุชื่อ"</string>
+
+    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"เนื้อหาความเหมาะสมของแอปอาจเปลี่ยนแปลงเมื่อค้นหากลุ่ม"</string>
+
+    <string name="_Rank_">"อันดับ"</string>
+    <string name="_Alias_">"ชื่อ"</string>
+    <string name="_Score_">"คะแนน"</string>
+    <string name="Score__">"คะแนน: "</string>
+    <string name="Recombine_">"รวมตัว: "</string>
+    <string name="WINNER_">"ผู้ชนะ:"</string>
+    <string name="IDLE">"ไม่มีการตอบสนอง"</string>
+    <string name="Name_Invalid_">"ชื่อไม่ถูกต้อง"</string>
+    <string name="Name_Taken_">"ชื่อถูกใช้ไปแล้ว"</string>
+    <string name="CONNECTED">"เชื่อมต่อแล้ว"</string>
+    <string name="JOINING___">"กำลังเข้าร่วม…"</string>
+    <string name="PLAYING">"กำลังเล่น"</string>
+    <string name="MULTIPLAYER">"เล่นหลายคน"</string>
+
+    <string name="JOIN">"เข้าร่วม"</string>
+
+
+    <string name="Lobby_Name">"ชื่อห้อง"</string>
+    <string name="Not_found_">"ไม่พบ"</string>
+
+    <string name="Hidden">"ซ่อน"</string>
+
+
+    <string name="SERVER">"เซิร์ฟเวอร์"</string>
+    <string name="Joining_game_in_">"กำลังเข้าร่วมเกม"</string>
+    <string name="Game_Full">"เกมเต็ม"</string>
+    <string name="US_East">"สหรัฐตะวันออก"</string>
+    <string name="US_West">"สหรัฐตะวันตก"</string>
+    <string name="Europe">"ยุโรป"</string>
+    <string name="South_America">"อเมริกาใต้"</string>
+
+
+    <string name="SINGLE_PLAYER">"เล่นคนเดียว"</string>
+    <string name="Background_">"พื้นหลัง:"</string>
+    <string name="Difficulty_">"ระดับความยาก:"</string>
+    <string name="Delay_Disconnect">"ดีเลย์ตัดการเชื่อมต่อ"</string>
+
+    <string name="Max_Players">"ผู้เล่นสูงสุด"</string>
+    <string name="Min_Players">"ผู้เล่นขั้นต่ำ"</string>
+
+    <string name="OK">"ตกลง"</string>
+    <string name="CANCEL">"ยกเลิก"</string>
+    <string name="Chat_Name">"ชื่อแชท"</string>
+    <string name="Max_People">"คนสูงสุด"</string>
+    <string name="START">"เริ่มต้น"</string>
+    <string name="CREATE">"สร้าง"</string>
+    <string name="CUSTOM_GAMES">"เกมแบบกำหนดเอง"</string>
+    <string name="CHAT">"แชท"</string>
+    <string name="CUSTOM_SETUP">"สร้างห้อง"</string>
+    <string name="CHAT_SETUP">"สร้างห้องแชท"</string>
+
+
+    <string name="ACCOUNT">"บัญชี"</string>
+    <string name="Red_Team">"ทีมสีแดง"</string>
+    <string name="Green_Team">"ทีมสีเขียว"</string>
+    <string name="Blue_Team">"ทีมสีน้ำเงิน"</string>
+    <string name="Yellow_Team">"ทีมสีเหลือง"</string>
+    <string name="Signed_in_as_">"ลงชื่อเข้าใช้ในบัญชี:"</string>
+    <string name="Not_signed_in_">"ไม่ได้ลงชื่อเข้าใช้!"</string>
+    <string name="SET_NAME">"ตั้งชื่อ"</string>
+    <string name="SIGN_OUT">"ออกจากระบบ"</string>
+    <string name="ACHIEVEMENTS">"ความสำเร็จ"</string>
+    <string name="STATISTICS">"สถิติ"</string>
+    <string name="XP_">"XP:"</string>
+
+    <string name="Information">"ข้อมูล"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"จะใช้สกินนี้คุณจะต้องได้รับความสำเร็จ"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"จะใช้สกินนี้คุณจะต้องถึงเลเวล"</string>
+    <string name="SIGN_IN">"ลงชื่อเข้าใช้"</string>
+
+    <string name="Single_Player_Stats">"สถิตแบบเล่นคนเดียว"</string>
+
+    <string name="Level">"เลเวล"</string>
+    <string name="PAUSED">"หยุดชั่วคราว"</string>
+
+
+    <string name="FRIENDS">"เพื่อน"</string>
+    <string name="Warning">"คำเตือน"</string>
+    <string name="SIGNING_IN">"กำลังลงชื่อเข้าใช้…"</string>
+    <string name="New_Friend_Request">"คำขอเป็นเพื่อนเพื่อนใหม่!"</string>
+    <string name="REQUEST_FRIEND">"ส่งคำขอเป็นเพื่อน"</string>
+    <string name="Private">"ส่วนตัว"</string>
+    <string name="Public">"สาธารณะ"</string>
+    <string name="Bot">"บอท"</string>
+    <string name="You">"คุณ"</string>
+    <string name="This_player_is_a_bot">"ผู้เล่นคนนี้เป็นบอท"</string>
+    <string name="This_player_is_not_signed_in">"ผู้เล่นคนนี้ไม่ได้ลงชื่อเข้าใช้"</string>
+
+    <string name="Online">"ออนไลน์"</string>
+    <string name="Unknown">"ไม่ทราบ"</string>
+    <string name="Offline">"ออฟไลน์"</string>
+    <string name="Achievement_Earned">"ความสำเร็จที่ได้รับ"</string>
+    <string name="REFRESH">"รีเฟรช"</string>
+    <string name="DONE">"เสร็จสิ้น"</string>
+    <string name="Friend_Request_Sent">"ส่งคำขอเป็นเพื่อนแล้ว…"</string>
+    <string name="ERROR">"ผิดพลาด"</string>
+    <string name="CONTINUE">"ดำเนินการต่อ"</string>
+    <string name="Global_" formatted="false">"% ทั่วโลก"</string>
+    <string name="FRIEND_CHAT">"แชทกับเพื่อน"</string>
+    <string name="LOBBY_NAME">"ชื่อห้อง"</string>
+    <string name="NULL">"NULL"</string>
+
+
+    <string name="ALL">"ทั้งหมด"</string>
+    <string name="FFA">"FFA"</string>
+    <string name="FFA_TIME">"FFA เวลา"</string>
+    <string name="TEAMS">"ทีม"</string>
+    <string name="TEAMS_TIME">"ทีมเวลา"</string>
+    <string name="CTF">"แย่งธง"</string>
+    <string name="SURVIVAL">"เอาชีวิตรอด"</string>
+
+
+    <string name="Clan_XP">"เลเวลแคลน"</string>
+
+
+    <string name="Dot_Nibbler">"ชิมจุด"</string>
+    <string name="Dot_Muncher">"เคี้ยวจุด"</string>
+    <string name="Dot_Eater">"นักกินจุด"</string>
+    <string name="Dot_Gulper">"กินจุดกรุบๆ"</string>
+    <string name="Dot_Gobbler">"กินจุดแบบมูมมาม"</string>
+    <string name="Dot_Devourer">"กินจุดแบบลืมเคี้ยว"</string>
+    <string name="Dot_Gormandizer">"กินจุดแบบตะกละตะกลาม"</string>
+    <string name="Dot_Sommelier">"กินจุดจนพุงกาง"</string>
+
+    <string name="Quadra_Gulp">"กินกรุบๆ"</string>
+    <string name="Multi_Gulp">"กินหลายกรุบ"</string>
+    <string name="Mega_Gulp">"กินแบบมูมมาม"</string>
+    <string name="Ultra_Gulp">"กินแบบเอร็ดอร่อย"</string>
+    <string name="Monster_Gulp">"กินแบบมอนสเตอร์"</string>
+    <string name="Ludicrous_Gulp">"กินไปหัวเราะไป"</string>
+
+    <string name="Blobicide">"นักกินมือสมัครเล่น"</string>
+    <string name="Blobtrocity">"นักกินมือโปร"</string>
+    <string name="Blobaccre">"นักกินมือฉมัง"</string>
+    <string name="Blobastrophe">"นักกินขั้นเทพ"</string>
+    <string name="Blobihilation">"สุดยอดนักกิน"</string>
+    <string name="Blobageddon">"อื้ม…อาโหร่ย"</string>
+    <string name="Blobocalypse">"นักกินจุ"</string>
+
+    <string name="Experienced_Nebulator">"ผู้มีประสบการณ์เนบิวเลเตอร์"</string>
+    <string name="Expert_Nebulator">"ผู้เชี่ยวชาญเนบิวเลเตอร์"</string>
+    <string name="Master_Nebulator">"เนบิวเลเตอร์มาสเตอร์"</string>
+    <string name="Grand_Master_Nebulator">"แกรนด์มาสเตอร์เนบิวเลเตอร์"</string>
+    <string name="Impossible">"เป็นไปไม่ได้"</string>
+
+    <string name="Perfection">"สมบูรณ์แบบ"</string>
+    <string name="Single_Handedly">"โดดเดี่ยวเดียวดาย"</string>
+    <string name="Dodgey">"จู๊คหลบ"</string>
+    <string name="Self_Contained">"ตนเป็นที่พึ่งแห่งตน"</string>
+    <string name="Survivalist">"ผู้รอดชีวิต"</string>
+    <string name="Ultramassive">"ซุปเปอร์มโหฬาร"</string>
+    <string name="Rapid_Ascension">"เสด็จขึ้นสู่สวรรค์อย่างรวดเร็ว"</string>
+    <string name="Revenge">"แค้นฝังใจ"</string>
+    <string name="Doge_Pound">"หลบแบบดิจิตอล"</string>
+
+    <string name="Absorb_50_dots">"กิน 50 จุด"</string>
+    <string name="Absorb_300_dots">"กิน 300 จุด"</string>
+    <string name="Absorb_1_000_dots">"กิน 1,000 จุด"</string>
+    <string name="Absorb_5_000_dots">"กิน 5,000 จุด"</string>
+    <string name="Absorb_10_000_dots">"กิน 10,000 จุด"</string>
+    <string name="Absorb_50_000_dots">"กิน 50,000 จุด"</string>
+    <string name="Absorb_100_000_dots">"กิน 100,000 จุด"</string>
+    <string name="Absorb_1_000_000_dots">"กิน 1,000,000 จุด"</string>
+    <string name="Absorb_4_blobs_quickly">"กิน 4 ตัวอย่างรวดเร็ว"</string>
+    <string name="Absorb_8_blobs_quickly">"กิน 8 ตัวอย่างรวดเร็ว"</string>
+    <string name="Absorb_16_blobs_quickly">"กิน 16 ตัวอย่างรวดเร็ว"</string>
+    <string name="Absorb_24_blobs_quickly">"กิน 24 ตัวอย่างรวดเร็ว"</string>
+    <string name="Absorb_32_blobs_quickly">"กิน 32 ตัวอย่างรวดเร็ว"</string>
+    <string name="Absorb_40_blobs_quickly">"กิน 40 ตัวอย่างรวดเร็ว"</string>
+
+    <string name="Absorb_8_player_blobs_without_restarting">"กิน 8 ตัวผู้เล่นโดยไม่เริ่มต้นเกมใหม่"</string>
+    <string name="Absorb_16_player_blobs_without_restarting">"กิน 16 ตัวผู้เล่นโดยไม่เริ่มต้นเกมใหม่"</string>
+    <string name="Absorb_32_player_blobs_without_restarting">"กิน 32 ตัวผู้เล่นโดยไม่เริ่มต้นเกมใหม่"</string>
+    <string name="Absorb_48_player_blobs_without_restarting">"กิน 48 ตัวผู้เล่นโดยไม่เริ่มต้นเกมใหม่"</string>
+    <string name="Absorb_80_player_blobs_without_restarting">"กิน 80 ตัวผู้เล่นโดยไม่เริ่มต้นเกมใหม่"</string>
+    <string name="Absorb_160_player_blobs_without_restarting">"กิน 160 ตัวผู้เล่นโดยไม่เริ่มต้นเกมใหม่"</string>
+    <string name="Absorb_240_player_blobs_without_restarting">"กิน 240 ตัวผู้เล่นโดยไม่เริ่มต้นเกมใหม่"</string>
+
+    <string name="Reach_a_score_of_1_000">"ทำคะแนนให้ถึง 1,000"</string>
+    <string name="Reach_a_score_of_5_000">"ทำคะแนนให้ถึง 5,000"</string>
+    <string name="Reach_a_score_of_10_000">"ทำคะแนนให้ถึง 10,000"</string>
+    <string name="Reach_a_score_of_15_000">"ทำคะแนนให้ถึง 15,000"</string>
+    <string name="Reach_a_score_of_20_000">"ทำคะแนนให้ถึง 20,000"</string>
+
+    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"ทำคะแนนให้ถึง 10,000 โดยไม่โดนกินตัวใดๆ"</string>
+    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"ทำคะแนนให้ถึง 5,000 โดยไม่ต้องแยกตัวหรือยิง"</string>
+    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"เล่น 5 นาทีติดต่อกันโดยไม่ชนกับหลุมดำ"</string>
+    <string name="Play_5_minutes_straight_without_losing_any_blobs">"เล่น 5 นาทีติดต่อกันโดยไม่โดนกินตัวใดๆ"</string>
+    <string name="Play_20_minutes_straight_without_restarting">"เล่น 20 นาทีติดต่อกันโดยไม่เริ่มต้นเกมใหม่"</string>
+    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"กิน 5 หลุมฟ้าภายใน 30 วินาทีหลังจากเกมเริ่มต้น"</string>
+    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"ทำคะแนนให้ถึง 5,000 ภายใน 1 นาทีหลังจากเกมเริ่มต้น"</string>
+    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"ยิงหลุมดำใส่ผู้เล่นคนสุดท้ายที่ยิงหลุมดำใส่คุณก่อนที่เกมจะเริ่มต้นใหม่"</string>
+    <string name="Absorb_5_doges_without_restarting">"กิน 5 ด็อกกี้โดยไม่เริ่มต้นเกมใหม่"</string>
+
+    <string name="Friends">"เพื่อน"</string>
+    <string name="Dots_Eaten_">"จุดที่กิน:"</string>
+    <string name="Blobs_Eaten_">"ตัวที่กิน:"</string>
+    <string name="Blobs_Lost_">"ตัวที่โดนกิน:"</string>
+    <string name="Mass_Gained_">"คะแนนที่ได้รับ:"</string>
+    <string name="Mass_Ejected_">"คะแนนที่สูญเสีย:"</string>
+    <string name="Times_Ejected_">"ครั้งที่ยิง:"</string>
+    <string name="Times_Split_">"ครั้งที่แยกตัว:"</string>
+    <string name="Biggest_Blob_">"ตัวใหญ่ที่สุด:"</string>
+    <string name="Highest_Score_">"คะแนนสูงสุด:"</string>
+    <string name="Average_Score_">"คะแนนเฉลี่ย:"</string>
+    <string name="Times_Played_">"เล่นทั้งหมด:"</string>
+    <string name="Longest_Life_">"มีชีวิตอยู่นานที่สุด:"</string>
+    <string name="Games_Won_">"เกมที่ชนะ:"</string>
+
+    <string name="You_must_wait_until_the_end_of_the_round_">"คุณต้องรอจนกว่าจะจบรอบ"</string>
+    <string name="Dont_show_again">"อย่าแสดงอีก"</string>
+    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"พบการสำรองข้อมูลของสถิติผู้เล่นคนเดียวด้วย XP ที่สูงขึ้น คุณต้องการกู้คืนข้อมูลสำรองหรือไม่?"</string>
+
+    <string name="Special_Effects">"เอฟเฟกต์พิเศษ"</string>
+    <string name="Blob_Mushiness">"เอฟเฟกต์ตัวอ่อน/เหลว"</string>
+
+    <string name="Specify_private_game_name">"ระบุชื่อเกมส่วนตัว"</string>
+    <string name="In_Game_Chat">"แชทในเกม"</string>
+    <string name="My_Status_">"สถานะของฉัน:"</string>
+    <string name="Game_Size_">"ขนาดเกม:"</string>
+
+    <string name="Server_Restart_">"เซิร์ฟเวอร์รีสตาร์ท"</string>
+    <string name="GOAL_">"เข้าประตู!"</string>
+    <string name="SOCCER">"ฟุตบอล"</string>
+    <string name="DRAW">"เสมอ"</string>
+
+    <string name="Clan_Name">"ชื่อแคลน"</string>
+    <string name="Clan">"แคลน"</string>
+
+
+    <string name="JOIN_CLAN">"เข้าร่วมแคลน"</string>
+    <string name="JOIN_RANDOM_CLAN">"สุ่มเข้าร่วมแคลน"</string>
+    <string name="LEAVE_CLAN">"ออกจากแคลน"</string>
+    <string name="INVITE_MEMBER">"เชิญสมาชิก"</string>
+    <string name="REMOVE_MEMBER">"ลบสมาชิก"</string>
+
+
+    <string name="CREATE_CLAN">"สร้างแคลน"</string>
+    <string name="MEMBER">"สมาชิก"</string>
+    <string name="ADMIN">"แอดมิน"</string>
+    <string name="LEADER">"หัวหน้า"</string>
+    <string name="ELDER">"รุ่นพี่"</string>
+
+
+    <string name="Not_in_a_clan_">"ไม่ได้อยู่ในแคลน"</string>
+
+
+    <string name="CLAN">"แคลน"</string>
+
+
+    <string name="Specify_Clan_ID">"ระบุไอดีแคลน"</string>
+    <string name="Show_Clan_Names">"แสดงชื่อแคลน"</string>
+    <string name="Show_Levels">"แสดงเลเวล"</string>
+    <string name="SET_MOTD">"ตั้งค่าข้อความ"</string>
+    <string name="No_such_user_found_">"ไม่พบผู้ใช้ดังกล่าว"</string>
+    <string name="No_open_public_clans_exist_">"ไม่มีแคลนสาธารณะเปิดอยู่"</string>
+    <string name="You_aren_t_invited_to_that_clan_">"คุณยังไม่ได้รับเชิญให้เข้าไปที่แคลน"</string>
+    <string name="No_such_clan_exists_">"ไม่มีแคลนดังกล่าวอยู่"</string>
+    <string name="That_clan_is_full_">"แคลนนี้เต็ม"</string>
+    <string name="Other_user_is_not_a_member_of_your_clan_">"ผู้ใช้รายอื่นไม่ได้เป็นสมาชิกแคลนของคุณ"</string>
+
+    <string name="_You_can_t_be_your_own_friend_">"คุณไม่สามารถเป็นเพื่อนกับตัวเองได้"</string>
+    <string name="A_clan_with_that_name_already_exists_">"มีแคลนที่ใช้ชื่อนี้อยู่แล้ว"</string>
+    <string name="Duration_">"ระยะเวลา:"</string>
+
+    <string name="FFA_Time_Domination">"ยึดครองห้องเกม FFA เวลา"</string>
+    <string name="Teams_Time_Domination">"ยึดครองห้องเกมทีม"</string>
+    <string name="CTF_Domination">"ยึดครองห้องเกมแย่งธง"</string>
+    <string name="CTF_Hat_Trick">"แย่งธงแฮตทริก"</string>
+    <string name="Survival_Domination">"ยึดครองห้องเกมเอาชีวิตรอด"</string>
+    <string name="I_Will_Survive">"ข้าจะอยู่ให้รอด"</string>
+    <string name="Soccer_Domination">"ยึดครองห้องเกมฟุตบอล"</string>
+    <string name="Soccer_Hat_Trick">"นักเตะแข้งสายฟ้า"</string>
+    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"ชนะโดยมี 2,500 คะแนนในเกม FFA เวลา"</string>
+    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"ชนะโดยมี 7,500 คะแนนในเกมทีมเวลา"</string>
+    <string name="Win_by_3_points_in_a_CTF_game_">"ชนะโดยมี 3 คะแนนในเกมแย่งธง"</string>
+    <string name="Score_3_points_in_a_single_CTF_game_">"ทำ 3 คะแนนในเกมแย่งธงคนเดียว"</string>
+    <string name="Win_by_2_500_points_in_a_Survival_game_">"ชนะโดยมี 2,500 คะแนนในเกมเอาชีวิตรอด"</string>
+    <string name="Survive_but_do_not_win_a_survival_game_">"มีชีวิตรอด แต่ไม่ชนะในเกมเอาชีวิตรอด"</string>
+    <string name="Win_by_8_points_in_a_Soccer_game_">"ชนะโดยมี 8 คะแนนในเกมฟุตบอล"</string>
+    <string name="Score_3_goals_in_a_single_Soccer_game_">"ทำ 3 ประตูในเกมฟุตบอลคนเดียว"</string>
+    <string name="Total_Domination">"ยึดครองห้อง"</string>
+    <string name="Win_500_games_of_any_type_">"ชนะ 500 เกมประเภทใดก็ได้"</string>
+    <string name="Translations">"แปลภาษา"</string>
+    <string name="Developers">"ผู้พัฒนา"</string>
+    <string name="Special_Thanks">"ขอขอบคุณเป็นพิเศษ"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"ขอขอบคุณแฟนๆ Nebulous ทุกคน"</string>
+    <string name="Color_Blind">"ตาบอดสี"</string>
+    <string name="Daily_Quest_Complete_">"ภารกิจประจำวันเสร็จสมบูรณ์!"</string>
+    <string name="COPY_ID">"คัดลอกไอดี"</string>
+    <string name="My_Account_ID">"ไอดีบัญชีของฉัน"</string>
+
+
+    <string name="COMPLETE">"เสร็จสิ้น"</string>
+    <string name="INCOMPLETE">"ยังไม่เสร็จ"</string>
+    <string name="Win_a_FFA_Time_Game">"ชนะเกม FFA เวลา"</string>
+    <string name="Win_a_CTF_Game">"ชนะเกมแย่งธง"</string>
+    <string name="Win_a_Soccer_Game">"ชนะเกมฟุตบอล"</string>
+    <string name="Win_a_Survival_Game">"ชนะเกมเอาชีวิตรอด"</string>
+    <string name="Win_a_Teams_Time_Game">"ชนะเกมทีมเวลา"</string>
+    <string name="Reach_a_score_of_">"ทำคะแนนให้ถึง "</string>
+    <string name="_in_a_FFA_Game">" ในเกม FFA"</string>
+    <string name="_in_a_Teams_Game">" ในเกมทีม"</string>
+    <string name="_dots">" จุด"</string>
+    <string name="_player_blobs">" ตัวผู้เล่น"</string>
+    <string name="Absorb_">"กิน "</string>
+    <string name="Collect_">"เก็บ "</string>
+
+    <string name="FFA_CLASSIC">"FFA คลาสสิค"</string>
+
+
+    <string name="pumpkins_">"ฟักทอง"</string>
+    <string name="To_use_this_skin_you_must_collect">"จะใช้สกินนี้คุณต้องเก็บ"</string>
+    <string name="Australia">"ออสเตรเลีย"</string>
+    <string name="Pumpkin_Collector">"คนเก็บฟักทอง"</string>
+    <string name="Collect_1000_pumpkins_">"เก็บ 1000 ฟักทอง"</string>
+
+    <string name="FFAC">"FFA คลาสสิค"</string>
+    <string name="NONE">"ไม่มี"</string>
+    <string name="CLAN_WAR">"แคลนวอ"</string>
+    <string name="Clan_War">"แคลนวอ"</string>
+
+    <string name="Forming">"กำลังเตรียมพร้อม"</string>
+    <string name="Searching">"กำลังค้นหา"</string>
+    <string name="In_Progress">"กำลังดำเนินการ"</string>
+
+    <string name="Wins">"ชนะ"</string>
+
+    <string name="Score">"คะแนน"</string>
+    <string name="Rating">"คะแนน"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"คุณกำลังจะให้ยศหัวหน้าแคลนคนใหม่!"</string>
+    <string name="XP">"XP"</string>
+    <string name="High_Score">"คะแนนสูงสุด"</string>
+
+
+    <string name="_3v3">"3v3"</string>
+    <string name="_5v5">"5v5"</string>
+    <string name="_8v8">"8v8"</string>
+    <string name="Top_Ranks">"อันดับสูงสุด"</string>
+    <string name="My_Ranks">"อันดับของฉัน"</string>
+    <string name="Player_XP">"เลเวลผู้เล่น"</string>
+
+    <string name="W_D_L">"W-D-L"</string>
+    <string name="MATCH_START">"เริ่มต้นการแข่งขัน"</string>
+    <string name="Clan_Warrior">"นักรบประจำแคลน"</string>
+    <string name="Win_a_Clan_War">"ชนะแคลนวอ"</string>
+    <string name="Global">"ทั่วโลก"</string>
+    <string name="Spectating">"กำลังรับชม"</string>
+
+
+    <string name="snowflakes_">"เกล็ดหิมะ"</string>
+    <string name="presents_">"ของขวัญ"</string>
+    <string name="Snowflake_Collector">"คนเก็บเกล็ดหิมะ"</string>
+    <string name="Present_Collector">"คนเก็บของขวัญ"</string>
+
+
+    <string name="Season">"ซีซั่น"</string>
+    <string name="The_next_season_begins">"ซีซั่นถัดไปจะเริ่มต้นขึ้น"</string>
+
+    <string name="Current">"ปัจจุบัน"</string>
+    <string name="leaves_">"ใบไม้"</string>
+    <string name="Leaf_Collector">"คนเก็บใบไม้"</string>
+    <string name="Collect_1000_leaves_">"เก็บ 1,000 ใบไม้"</string>
+    <string name="XP_Boost">"XP บูสต์"</string>
+    <string name="Double">"ดับเบิ้ล"</string>
+    <string name="Hour">"ชั่วโมง"</string>
+    <string name="Hours">"ชั่วโมง"</string>
+
+
+    <string name="Triple">"สามเท่า"</string>
+    <string name="Leaf_Hoarder">"นักสะสมใบไม้"</string>
+    <string name="Collect_5000_leaves_">"เก็บ 5000 ใบไม้"</string>
+
+
+    <string name="Arena">"อารีนา"</string>
+    <string name="Enter_the_Arena">"เข้าสู่การแข่งขันอารีนา"</string>
+
+
+    <string name="Purchase_History">"ประวัติการซื้อ"</string>
+
+    <string name="Purchases_Unavailable_">"การซื้อไม่พร้อมใช้งาน!"</string>
+    <string name="You_can_purchase_this_skin_for">"คุณสามารถซื้อสกินนี้ได้โดยใช้"</string>
+    <string name="PURCHASE">"ซื้อ"</string>
+    <string name="Error_in_backup_data_">"ข้อผิดพลาดในการสำรองข้อมูล!"</string>
+
+
+    <string name="Remove_Ads">"ลบโฆษณา"</string>
+    <string name="Reward">"รางวัล"</string>
+    <string name="Please_Wait___">"โปรดรอ…"</string>
+    <string name="Purchasing">"กำลังซื้อ"</string>
+
+    <string name="Purchase_Successful_">"ซื้อสำเร็จ"</string>
+    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"คุณอาจต้องเชื่อมต่อใหม่เพื่อใช้สิ่งที่ซื้อ"</string>
+    <string name="Confirm_Purchase">"ยืนยันการซื้อ"</string>
+    <string name="x3_XP_24_hours">"3x XP 24 ชั่วโมง"</string>
+    <string name="x3_XP_1_Hour">"3x XP 1 ชั่วโมง"</string>
+    <string name="x2_XP_24_Hour">"2x XP 24 ชั่วโมง"</string>
+    <string name="x2_XP_1_Hour">"2x XP 1 ชั่วโมง"</string>
+    <string name="Cost_">"ค่าใช้จ่าย:"</string>
+    <string name="You_cannot_purchase_this_right_now_">"คุณไม่สามารถซื้อสิ่งนี้ได้ในขณะนี้"</string>
+
+
+    <string name="Loading_Purchases___">"กำลังโหลดการซื้อ"</string>
+    <string name="In_App_Purchases">"การซื้อภายในแอพ"</string>
+    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"ไม่สามารถใช้การบูสต์ XP ใหม่ได้จนกว่าการบูสต์ปัจจุบันจะหมดอายุ"</string>
+    <string name="This_purchase_has_already_been_redeemed_">"การซื้อนี้ถูกไถ่ถอนไปแล้ว"</string>
+
+    <string name="You_cannot_remove_yourself__Leave_clan_instead_">"คุณไม่สามารถลบตัวเองออกได้ กดออกจากแคลนแทน"</string>
+
+
+    <string name="until">"จนถึง"</string>
+    <string name="New_Message_">"ข้อความใหม่!"</string>
+    <string name="Seasonal">"ตามซีซั่น"</string>
+
+
+    <string name="Temporarily_Disabled_">"ปิดใช้งานชั่วคราว"</string>
+    <string name="BIGGEST">"ใหญ่ที่สุด"</string>
+
+
+    <string name="Copy_ID">"คัดลอกไอดี"</string>
+    <string name="View_Profile">"ดูโปรไฟล์"</string>
+    <string name="Send_Message">"ส่งข้อความ"</string>
+    <string name="Account_ID">"ไอดีบัญชี"</string>
+    <string name="Player_Name">"ชื่อผู้เล่น"</string>
+
+    <string name="Daily_Reward">"รางวัลประจำวัน"</string>
+    <string name="Reset">"รีเซ็ต"</string>
+    <string name="Plasma">"พลาสมา"</string>
+    <string name="Plasma_Mogul">"คนคลั่งพลาสมา"</string>
+    <string name="Plasma_Collector">"คนเก็บพลาสมา"</string>
+    <string name="Plasma_Hoarder">"นักสะสมพลาสมา"</string>
+    <string name="Collect_1_000_Plasma">"เก็บ 1,000 พลาสมา"</string>
+    <string name="Collect_10_000_Plasma_">"เก็บ 10,000 พลาสมา"</string>
+    <string name="Collect_100_000_Plasma">"เก็บ 100,000 พลาสมา"</string>
+    <string name="Plasma_Collected_">"พลาสมาที่เก็บ:"</string>
+    <string name="Plasma_Purchases">"พลาสมาที่ซื้อ/ใช้จ่าย"</string>
+
+    <string name="ENTER">"เข้าสู่"</string>
+    <string name="_1v1">"1v1"</string>
+    <string name="Practice">"โหมดฝึกหัด"</string>
+    <string name="ArenaDescription">"คุณจะมีเพียงหนึ่งชีวิต ผู้ชนะจะได้รับ %s พลาสมา แลกเปลี่ยนการชนะหรือชนะฟรีจะส่งผลให้ถูกแบน"</string>
+    <string name="Contestant">"ผู้เข้าแข่งขัน"</string>
+    <string name="Duelist">"นักดวล"</string>
+    <string name="Gladiator">"นักต่อสู้"</string>
+    <string name="Challenger">"ผู้ท้าดวล"</string>
+    <string name="Win_1_1v1_Arenas_">"ชนะอารีนา"</string>
+    <string name="Win_10_Arenas_">"ชนะ 10 อารีนา"</string>
+    <string name="Win_100_Arenas_">"ชนะ 100 อารีนา"</string>
+    <string name="Win_1000_Arenas">"ชนะ 1,000 อารีนา"</string>
+
+
+    <string name="Already_in_arena_">"อยู่ในอารีนาแล้ว"</string>
+    <string name="Already_in_queue_">"อยู่ในคิวแล้ว"</string>
+    <string name="Invalid_Account_ID_">"ไอดีบัญชีไม่ถูกต้อง"</string>
+
+    <string name="Validating">"กำลังตรวจสอบ"</string>
+
+    <string name="Randomize">"สุ่ม"</string>
+
+    <string name="Harassment">"ก่อกวน"</string>
+
+    <string name="_2v2">"2v2"</string>
+
+
+    <string name="Standard">"ธรรมดา"</string>
+    <string name="Achievement">"ความสำเร็จ"</string>
+    <string name="Flag">"ธง"</string>
+    <string name="Win_10_Clan_Wars">"ชนะ 10 แคลนวอ"</string>
+    <string name="Win_100_Clan_Wars">"ชนะ 100 แคลนวอ"</string>
+    <string name="Clan_Commander">"ผู้บัญชาการแคลน"</string>
+    <string name="Clan_General">"นายพลแคลน"</string>
+    <string name="Clan_Wars_Won_">"ชนะแคลนวอ:"</string>
+    <string name="Arenas_Won_">"ชนะอารีนา:"</string>
+    <string name="Arena_Mode">"โหมดอารีนา"</string>
+    <string name="Connection_Lost">"ขาดการเชื่อมต่อ"</string>
+
+    <string name="Present_Hoarder">"นักสะสมของขวัญ"</string>
+    <string name="Present_Mogul">"คนคลั่งของขวัญ"</string>
+    <string name="Collect_1_000_presents_">"เก็บ 1,000 ของขวัญ"</string>
+    <string name="Collect_5_000_presents_">"เก็บ 5,000 ของขวัญ"</string>
+    <string name="Collect_10_000_presents_">"เก็บ 10,000 ของขวัญ"</string>
+    <string name="Loading_reward_video___">"กำลังโหลดรางวัลวิดีโอ…"</string>
+    <string name="Progress">"ความคืบหน้า"</string>
+    <string name="Snowflake_Hoarder">"นักสะสมเกล็ดหิมะ"</string>
+    <string name="Snowflake_Mogul">"คนคลั่งเกล็ดหิมะ"</string>
+    <string name="Collect_1_000_snowflakes_">"เก็บ 1,000 เกล็ดหิมะ"</string>
+    <string name="Collect_5_000_snowflakes_">"เก็บ 5,000 เกล็ดหิมะ"</string>
+    <string name="Collect_10_000_snowflakes_">"เก็บ 10,000 เกล็ดหิมะ"</string>
+    <string name="Show_All">"แสดงทั้งหมด"</string>
+
+    <string name="SET_PERMISSIONS">"ตั้งค่าสิทธิ์"</string>
+    <string name="Start_Clan_War">"เริ่มต้นแคลนวอ"</string>
+    <string name="Min_Level">"เลเวลต่ำสุด"</string>
+    <string name="SAVE">"บันทึก"</string>
+    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"ผู้เล่นไม่ถึงเลเวลขั้นต่ำที่จะเข้าร่วมแคลน:"</string>
+    <string name="Insufficient_Permission">"สิทธิ์ไม่เพียงพอ"</string>
+    <string name="DOMINATION">"การปกครอง"</string>
+    <string name="DOM_Domination">"ยึดครองห้องเกมการปกครอง"</string>
+    <string name="DOM_Hat_Trick">"การปกครองแฮตทริก"</string>
+    <string name="Win_by_50_points_in_a_DOM_game_">"ชนะโดยมี 50 คะแนนในเกมการปกครอง"</string>
+    <string name="Score_33_points_in_a_single_DOM_game_">"ทำคะแนน 33 คะแนนในเกมการปกครองคนเดียว"</string>
+    <string name="Win_a_Domination_Game">"ชนะเกมการปกครอง"</string>
+    <string name="Select_Team">"เลือกทีม"</string>
+    <string name="MANAGE_TEAMS">"จัดการทีม"</string>
+    <string name="CLAN_INVITE">"เชิญเข้าแคลน"</string>
+    <string name="TEAM_INVITE">"เชิญเข้าทีม"</string>
+    <string name="Team_Size">"ขนาดทีม"</string>
+    <string name="Team_Name">"ชื่อทีม"</string>
+    <string name="CREATE_TEAM">"สร้างทีม"</string>
+    <string name="Solo">"เดี่ยว"</string>
+    <string name="Teams">"ทีม"</string>
+    <string name="Team">"ทีม"</string>
+    <string name="Specify_Account_ID">"ระบุไอดีบัญชี"</string>
+    <string name="Team_Created_">"สร้างทีมแล้ว!"</string>
+    <string name="Team_Arena">"อารีนาทีม"</string>
+    <string name="No_Teams">"ไม่มีทีม"</string>
+    <string name="team_arena_info">"เมื่อคุณสร้างทีมแล้วคุณสามารถเชิญและลบสมาชิกและเล่นการแข่งขันอารีนาทีมได้ฟรี คุณไม่สามารถเปลี่ยนชื่อทีมของคุณได้เมื่อสร้างแล้ว!"</string>
+
+
+    <string name="Invited">"เชิญแล้ว"</string>
+    <string name="Invitation_Sent">"ส่งคำขอแล้ว"</string>
+    <string name="REPORT">"รายงาน"</string>
+    <string name="Reported">"รายงานแล้ว"</string>
+    <string name="Threats">"ข่มขู่, คุกคาม"</string>
+    <string name="Spam">"สแปม"</string>
+    <string name="Other">"อื่นๆ"</string>
+    <string name="Leave_Team">"ออกจากทีม"</string>
+
+    <string name="Remove_Player">"ลบผู้เล่น"</string>
+    <string name="Reject_Invitation">"ปฏิเสธคำขอ"</string>
+    <string name="Leave_Game">"ออกจากเกม"</string>
+    <string name="Remove_Friend">"ลบเพื่อน"</string>
+    <string name="Remove_Clan_Member">"ลบสมาชิกแคลน"</string>
+    <string name="Flag_lobby_as_inappropriate">"รายงานห้องนี้ว่าไม่เหมาะสม"</string>
+    <string name="Promote_Clan_Member">"เลื่อนขั้นสมาชิกแคลน"</string>
+    <string name="Leave_Clan">"ออกจากแคลน"</string>
+    <string name="Candy_Hoarder">"นักสะสมแคนดี้"</string>
+    <string name="Candy_Collector">"คนเก็บแคนดี้"</string>
+    <string name="Candy_Mogul">"คนคลั่งแคนดี้"</string>
+    <string name="Collect_1_000_candies_">"เก็บ 1,000 แคนดี้"</string>
+    <string name="Collect_5_000_candies_">"เก็บ 5,000 แคนดี้"</string>
+    <string name="Collect_10_000_candies_">"เก็บ 10,000 แคนดี้"</string>
+    <string name="candies_">"แคนดี้"</string>
+    <string name="Language">"ภาษา"</string>
+    <string name="Control_Opacity_">"ความทึบของปุ่มควบคุม:"</string>
+    <string name="You_dont_own_the_team_">"คุณไม่ได้เป็นเจ้าของทีม:"</string>
+    <string name="User_has_already_been_invited_">"ผู้ใช้ได้รับเชิญแล้ว"</string>
+    <string name="Maximum_players_allowed_on_the_team_">"ผู้เล่นสูงสุดที่อนุญาตในทีม:"</string>
+    <string name="Name_is_already_in_use_">"ชื่อนี้มีการใช้งานแล้ว"</string>
+    <string name="User_is_not_in_the_team_">"ผู้ใช้ไม่ได้อยู่ในทีม"</string>
+    <string name="You_are_not_invited_to_team_">"คุณไม่ได้รับเชิญให้เข้าร่วมทีม:"</string>
+    <string name="Team_does_not_exist_">"ไม่มีทีมอยู่:"</string>
+    <string name="Please_wait_a_minute_before_sending_another_report_">"โปรดรอสักครู่ก่อนที่จะส่งรายงานอื่น"</string>
+    <string name="Collect_1_000_beads_">"เก็บ 1,000 ลูกปัด"</string>
+    <string name="Collect_5_000_beads_">"เก็บ 5,000 ลูกปัด"</string>
+    <string name="Collect_10_000_beads_">"เก็บ 10,000 ลูกปัด"</string>
+    <string name="Bead_Collector">"คนเก็บลูกปัด"</string>
+    <string name="Bead_Hoarder">"นักสะสมลูกปัด"</string>
+    <string name="Bead_Mogul">"คนคลั่งลูกปัด"</string>
+    <string name="beads_">"ลูกปัด"</string>
+
+    <string name="Rejoin_Game">"เข้าร่วมเกมอีกครั้ง"</string>
+    <string name="PRIZES">"รางวัล"</string>
+
+    <string name="Enable_Custom_Skin">"เปิดใช้งานสกินแบบกำหนดเอง"</string>
+    <string name="Use_Custom_Skin">"ใช้สกินแบบกำหนดเอง"</string>
+    <string name="custom_skin_description">"ฟีเจอร์นี้ช่วยให้คุณใช้รูปโปรไฟล์หรือไฟล์รูปเป็นสกินของคุณได้ ผู้เล่นคนอื่นจะยังไม่เห็นสกินที่กำหนดเองของคุณ เว้นแต่คุณจะจ่ายเพื่ออัปโหลดสกินนั้น"</string>
+    <string name="CUSTOM_SKIN">"สกินแบบกำหนดเอง"</string>
+
+    <string name="Facebook_Profile">"โปรไฟล์ Facebook"</string>
+    <string name="You_must_be_signed_in_to_Facebook_">"คุณต้องลงชื่อเข้าใช้ Facebook"</string>
+    <string name="copy_details">"คัดลอกรายละเอียด"</string>
+    <string name="copied_error_details_to_clipboard">"คัดลอกรายละเอียดข้อผิดพลาดไปที่คลิปบอร์ดแล้ว"</string>
+
+    <string name="No_file_browser_installed_">"ไม่ได้ติดตั้งเบราว์เซอร์ไฟล์!"</string>
+    <string name="Choose_File">"เลือกไฟล์"</string>
+    <string name="Google_Profile">"โปรไฟล์ Google"</string>
+    <string name="You_must_be_signed_in_to_Google_">"คุณต้องลงชื่อเข้าใช้ Google"</string>
+
+    <string name="MAYHEM">"เมย์เฮม"</string>
+    <string name="eggs_">"ไข่"</string>
+    <string name="Egg_Collector">"คนเก็บไข่"</string>
+    <string name="Egg_Hoarder">"นักสะสมไข่"</string>
+    <string name="Egg_Mogul">"คนคลั่งไข่"</string>
+    <string name="Collect_1_000_eggs_">"เก็บไข่ 1,000"</string>
+    <string name="Collect_5_000_eggs_">"เก็บไข่ 5,000"</string>
+    <string name="Collect_10_000_eggs_">"เก็บ 10,000 ไข่"</string>
+    <string name="HISTORY">"ประวัติ"</string>
+    <string name="CLAN_HISTORY">"ประวัติแคลน"</string>
+
+
+    <string name="Love_Nebulous_">"รัก Nebulous?"</string>
+    <string name="Please_support_Nebulous_by_rating_it_">"กรุณาสนับสนุน Nebulous โดยการให้คะแนน"</string>
+    <string name="MAYHEM_MODE">"เมย์เฮมโหมด"</string>
+    <string name="Times_Teleported_">"ครั้งที่วาร์ป:"</string>
+    <string name="Powerups_Used_">"เพาเวอร์อัพที่ใช้:"</string>
+    <string name="Power_Hungry">"หิวโหยเพาเวอร์อัพ"</string>
+    <string name="Over_9000">"มากกว่า 9,000"</string>
+    <string name="Omnipresence">"อยู่ทั่วไปทุกหนทุกแห่ง"</string>
+
+    <string name="Shoot_9001_Powerups">"ยิง 9,001 เพาเวอร์อัพ"</string>
+    <string name="Teleport_100_Times">"วาร์ป 100 ครั้ง"</string>
+    <string name="Shoot_20_Powerups_Without_Restarting">"ยิง 20 เพาเวอร์อัพโดยไม่ต้องเริ่มต้นเกมใหม่"</string>
+    <string name="Request_Timed_Out">"คำขอหมดเวลา"</string>
+    <string name="You_Are_Spectating_">"คุณกำลังชม"</string>
+    <string name="Account_In_Use_">"บัญชีอยู่ในการใช้งาน!"</string>
+    <string name="Cannot_Join_Arena_">"ไม่สามารถเข้าร่วมอารีนาได้"</string>
+    <string name="Signing_out_will_disconnect_you_from_the_current_game">"ออกจากระบบจะตัดการเชื่อมต่อคุณออกจากเกมปัจจุบัน!"</string>
+    <string name="raindrops_">"เม็ดฝ​​น"</string>
+
+    <string name="Raindrop_Collector">"คนเก็บเม็ดฝน"</string>
+    <string name="Raindrop_Hoarder">"นักสะสมเม็ดฝน"</string>
+    <string name="Raindrop_Mogul">"คนคลั่งเม็ดฝน"</string>
+    <string name="Collect_1_000_raindrops_">"เก็บ 1,000 เม็ดฝ​​น"</string>
+    <string name="Collect_5_000_raindrops_">"เก็บ 5,000 เม็ดฝ​​น"</string>
+    <string name="Collect_10_000_raindrops_">"เก็บ 10,000 เม็ดฝ​​น"</string>
+    <string name="Copy_Message">"คัดลอกข้อความ"</string>
+    <string name="Copied_to_clipboard_">"คัดลอกไปที่คลิปบอร์ดแล้ว"</string>
+    <string name="COPY_NAME">"คัดลอกชื่อ"</string>
+    <string name="Challenge_Sent">"ส่งคำท้าแล้ว"</string>
+    <string name="_1v1_Challenge_">"ท้าทาย 1v1!"</string>
+    <string name="__has_challenged_you_to_a_1v1_match_">"%s ได้ท้าให้คุณแข่งขันแบบ 1v1!"</string>
+    <string name="Challenge_Expired">"คำท้าหมดอายุ"</string>
+    <string name="Enable_Challenges">"เปิดใช้งานการท้าทาย"</string>
+    <string name="Wait_for_the_current_challenge_to_expire_">"รอให้คำท้าปัจจุบันหมดอายุก่อนค่อยเชิญใหม่"</string>
+    <string name="CHALLENGE_OPTIONS">"ตัวเลือกการท้าทาย"</string>
+    <string name="Accept">"ยอมรับ"</string>
+    <string name="Decline">"ปฏิเสธ"</string>
+    <string name="Challenge_Declined">"คำท้าถูกปฏิเสธ"</string>
+    <string name="Spectators_">"ผู้ชม:"</string>
+    <string name="Nebula_Collector">"คนเก็บสะสมเนบิวลา"</string>
+    <string name="Nebula_Hoarder">"นักสะสมเนบิวลา"</string>
+    <string name="Nebula_Mogul">"คนคลั่งเนบิวลา"</string>
+    <string name="Collect_1_000_nebulas_">"เก็บ 1,000 เนบิวลา"</string>
+    <string name="Collect_5_000_nebulas_">"เก็บ 5,000 เนบิวลา"</string>
+    <string name="Collect_10_000_nebulas_">"เก็บ 10,000 เนบิวลา"</string>
+    <string name="nebulas_">"เนบิวลา"</string>
+    <string name="Incompatible_versions_">"เวอร์ชั่นที่เข้ากันไม่ได้"</string>
+    <string name="Update_Available_">"มีการอัพเดตใหม่!"</string>
+    <string name="VIEW_INVITES">"ดูคำเชิญ"</string>
+    <string name="CLAN_INVITES">"คำเชิญเข้าร่วมแคลน"</string>
+    <string name="Cancel_Invitation">"ยกเลิกคำขอ"</string>
+    <string name="DOWNLOAD">"ดาวน์โหลด"</string>
+    <string name="REJECT_ALL_FRIEND_INVITATIONS_">"ปฏิเสธคำขอเป็นเพื่อนทั้งหมด?"</string>
+    <string name="suns_">"ดวงอาทิตย์"</string>
+    <string name="Sun_Collector">"คนเก็บดวงอาทิตย์"</string>
+    <string name="Sun_Hoarder">"นักสะสมดวงอาทิตย์"</string>
+    <string name="Sun_Mogul">"คนคลั่งดวงอาทิตย์"</string>
+    <string name="Collect_1_000_suns_">"เก็บ 1,000 ดวงอาทิตย์"</string>
+    <string name="Collect_5_000_suns_">"เก็บ 5,000 ดวงอาทิตย์"</string>
+    <string name="Collect_10_000_suns_">"เก็บ 10,000 ดวงอาทิตย์"</string>
+    <string name="Reward_Videos_">"รางวัลวีดีโอ!"</string>
+    <string name="Free_Plasma_">"พลาสมาฟรี!"</string>
+    <string name="moons_">"ดวงจันทร์"</string>
+    <string name="Moon_Collector">"คนเก็บดวงจันทร์"</string>
+    <string name="Moon_Hoarder">"นักสะสมดวงจันทร์"</string>
+    <string name="Moon_Mogul">"คนคลั่งดวงจันทร์"</string>
+    <string name="Collect_1_000_moons_">"เก็บ 1,000 ดวงจันทร์"</string>
+    <string name="Collect_5_000_moons_">"เก็บ 5,000 ดวงจันทร์"</string>
+    <string name="Collect_10_000_moons_">"เก็บ 10,000 ดวงจันทร์"</string>
+    <string name="BLUETOOTH">"บลูทูธ"</string>
+    <string name="HOST">"ผู้สร้าง"</string>
+    <string name="This_device_does_not_support_bluetooth_">"อุปกรณ์นี้ไม่รองรับบลูทูธ"</string>
+    <string name="member_permissions">"สิทธิ์ของสมาชิก"</string>
+    <string name="edit">"แก้ไข"</string>
+    <string name="start_clan_war">"เริ่มต้นแคลนวอ"</string>
+    <string name="join_clan_war">"เข้าร่วมแคลนวอ"</string>
+    <string name="none">"ไม่มี"</string>
+    <string name="INVALID_TOKEN">"Token ไม่ถูกต้อง!"</string>
+    <string name="banned_until">"แบนจนถึง"</string>
+    <string name="Note_Collector">"คนเก็บโน้ต"</string>
+    <string name="Note_Hoarder">"นักสะสมโน้ต"</string>
+    <string name="Note_Mogul">"คนคลั่งโน้ต"</string>
+    <string name="Collect_1_000_notes_">"เก็บ 1,000 โน้ต"</string>
+    <string name="Collect_5_000_notes_">"เก็บ 5,00 โน้ต"</string>
+    <string name="Collect_10_000_notes_">"เก็บ 10,000 โน้ต"</string>
+    <string name="notes_">"โน้ต"</string>
+    <string name="CLICK_CHEAT_DETECTED_">"ตรวจพบการโกงคลิก!"</string>
+    <string name="Pumpkin_Hoarder">"นักสะสมฟักทอง"</string>
+    <string name="Pumpkin_Mogul">"คนคลั่งฟักทอง"</string>
+    <string name="Leaf_Mogul">"คนคลั่งใบไม้"</string>
+    <string name="Collect_5000_pumpkins_">"เก็บ 5,000 ฟักทอง"</string>
+    <string name="Collect_10000_pumpkins_">"เก็บ 10,000 ฟักทอง"</string>
+    <string name="Collect_10000_leaves_">"เก็บ 10,000 ใบไม้"</string>
+    <string name="Eject">"สกินตอนยิง"</string>
+    <string name="Eject_Skin">"สกินตอนยิง"</string>
+    <string name="Double_Plasma__">"ดับเบิ้ลพลาสมา!!"</string>
+    <string name="Ends">"จบ"</string>
+    <string name="Select_Clan_Member">"เลือกสมาชิกแคลน"</string>
+    <string name="Inappropriate_Skin">"สกินไม่เหมาะสม"</string>
+    <string name="Approved">"อนุมัติแล้ว"</string>
+    <string name="Rejected">"ถูกปฏิเสธ"</string>
+    <string name="Refunded">"ได้รับพลาสมาคืน"</string>
+
+
+    <string name="contribution_warning">"คุณแน่ใจหรือไม่ว่าคุณต้องการที่จะบริจาคพลาสมาให้แคลนนี้? คุณจะไม่ได้รับพลาสมาคืน"</string>
+    <string name="Upload">"อัปโหลด"</string>
+    <string name="upload_warning">"คุณแน่ใจหรือไม่ว่าคุณต้องการอัปโหลดสกินนี้? ผู้เล่นคนอื่นจะสามารถเห็นสกินนี้ แต่มันอาจใช้เวลานานสุดถึง 1 สัปดาห์สำหรับสกินของคุณจะถูกตรวจสอบ สกินที่ไม่เหมาะสมจะถูกปฏิเสธและจะไม่ได้รับพลาสมาคืน!"</string>
+
+    <string name="In_Review">"อยู่ระหว่างการตรวจสอบ"</string>
+    <string name="Account_Uploads">"อัปโหลดสกินบัญชี"</string>
+    <string name="Clan_Uploads">"อัปโหลดสกินแคลน"</string>
+    <string name="Empty">"ว่าง"</string>
+    <string name="Select">"เลือก"</string>
+    <string name="Current_Skin">"สกินปัจจุบัน"</string>
+    <string name="Status">"สถานะ"</string>
+    <string name="upload_size_failure">"ไม่สามารถอัปโหลดภาพนี้ได้เพราะมีขนาดใหญ่เกินไป โปรดลองภาพอื่นที่แตกต่างกัน"</string>
+    <string name="CONTRIBUTE_PLASMA">"บริจาคพลาสมา"</string>
+    <string name="Specify_Contribution_Amount">"ระบุจำนวนพลาสมา"</string>
+    <string name="Clan_Contribution">"บริจาคให้แคลน"</string>
+    <string name="FILTER">"ตัวกรอง"</string>
+    <string name="List_Count_">"จำนวนรายการ:"</string>
+    <string name="Download_Skins">"ดาวน์โหลดสกิน"</string>
+    <string name="ARENA_HISTORY">"ประวัติการแข่งขันอารีนา"</string>
+    <string name="WIN">"ชนะ"</string>
+    <string name="LOSS">"แพ้"</string>
+    <string name="Other_players_can_not_see_your_skin_">"ผู้เล่นคนอื่นไม่สามารถมองเห็นสกินของคุณ"</string>
+    <string name="Other_players_can_see_your_skin_">"ผู้เล่นคนอื่นสามารถมองเห็นสกินของคุณ"</string>
+    <string name="LEGEND">"ตำนาน"</string>
+    <string name="Win_10000_Arenas">"ชนะ 10,000 อารีนา"</string>
+    <string name="UPLOAD_PREVIEW">"ตรวจสอบการอัปโหลด"</string>
+    <string name="Transparency">"พื้นหลังโปร่งใส"</string>
+    <string name="upload_info">"คุณสามารถมีสกินที่มีคุณภาพที่ดีขึ้นได้ โดยใช้สกินที่ไม่มีความโปร่งใสหรือเป็นภาพที่เรียบง่าย"</string>
+    <string name="Compression_Quality_">"คุณภาพการบีบอัด:"</string>
+    <string name="inapproriate_info">"สกินที่ไม่เหมาะสม รวมถึงสิ่งที่เกี่ยวข้องกับความเกลียดชัง, อนาจาร, ความรุนแรง, ยาเสพติด, โป๊เปลือย และรูปภาพที่เป็นภาพโปร่งใสทั้งหมดจะไม่สามารถอัปโหลดได้"</string>
+    <string name="Are_you_sure_you_want_to_upload_this_skin_">"คุณแน่ใจหรือไม่ว่าคุณต้องการอัปโหลดสกินนี้?"</string>
+    <string name="Grant_Permission">"ให้สิทธิ์"</string>
+    <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous ต้องการสิทธิ์ในการจัดเก็บเพื่อสำรองข้อมูลความคืบหน้าของผู้เล่นคนเดียว"</string>
+    <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous ต้องการสิทธิ์ Coarse Location เพื่อค้นหาอุปกรณ์บลูทูธที่อยู่ใกล้เคียง"</string>
+    <string name="FFA_ULTRA">"FFA อัลตรา"</string>
+    <string name="FFAU">"FFA อัลตรา"</string>
+    <string name="_in_a_FFAU_Game">" ในเกม FFA อัลตรา"</string>
+
+    <string name="BANNED_PLAYERS">"ผู้เล่นที่ถูกแบน"</string>
+    <string name="MAIL">"เมล"</string>
+    <string name="WRITE_MAIL">"เขียนเมล"</string>
+    <string name="Days">"วัน"</string>
+    <string name="Message">"ข้อความ"</string>
+    <string name="Subject">"เรื่อง"</string>
+    <string name="SEND">"ส่ง"</string>
+    <string name="To">"ถึง"</string>
+    <string name="RESET">"รีเซ็ต"</string>
+    <string name="Message_Sent_">"ส่งข้อความแล้ว!"</string>
+    <string name="From">"จาก"</string>
+    <string name="Sent">"ส่งแล้ว"</string>
+    <string name="REPLY">"ตอบกลับ"</string>
+    <string name="Delete_Message">"ลบข้อความ"</string>
+    <string name="BLOCK">"บล็อก"</string>
+    <string name="DELETE">"ลบ"</string>
+    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"หมายเหตุ: คุณสามารถเลิกบล็อกได้โดยส่งคำขอเป็นเพื่อน"</string>
+    <string name="Select_Friend">"เลือกเพื่อน"</string>
+    <string name="Failed_to_send_mail_">"ส่งเมลไม่สำเร็จ"</string>
+    <string name="In_Game_Mail">"เมลในเกม"</string>
+    <string name="Nav_Buttons_">"ปุ่มแถบนำทาง:"</string>
+    <string name="account_warning">"อย่าเปิดเผยรหัสผ่านบัญชีหรือข้อมูลส่วนตัวกับใครไม่ว่าจะด้วยเหตุผลใดๆ!"</string>
+    <string name="Clan_Hero">"ฮีโร่ของแคลน"</string>
+    <string name="Win_1000_Clan_Wars">"ชนะ 1,000 แคลนวอ"</string>
+    <string name="NAME_COLOR">"สีชื่อ"</string>
+    <string name="name_color_instructions">"เลือกตัวอักษรที่คุณต้องการที่จะเปลี่ยน จากนั้นเลือกสีที่จะเปลี่ยน"</string>
+    <string name="Cannot_change_this_character_">"ไม่สามารถเปลี่ยนตัวอักษรนี้ได้"</string>
+    <string name="ZOMBIE_APOCALYPSE">"ซอมบี้"</string>
+    <string name="Survive_a_Zombie_Apocalypse">"เอาชีวิตรอดท่ามกลางฝูงซอมบี้"</string>
+    <string name="ZA">"ซอมบี้"</string>
+    <string name="Pandemic">"การระบาดครั้งใหญ่"</string>
+    <string name="Immunity">"ภูมิคุ้มกัน"</string>
+    <string name="Win_as_zombies_in_2_minutes_or_less_">"ชนะในตอนที่เป็นซอมบี้ภายใน 2 นาทีหรือน้อยกว่า"</string>
+    <string name="Win_as_survivors_with_no_losses_">"ชนะโดยเป็นผู้รอดชีวิตโดยไม่มีการสูญเสีย"</string>
+    <string name="ZOMBIE_">"ซอมบี้!"</string>
+    <string name="SURVIVOR_">"ผู้รอดชีวิต!"</string>
+    <string name="Zombies">"ซอมบี้"</string>
+    <string name="Survivors">"ผู้รอดชีวิต"</string>
+    <string name="Enter_a_Tournament">"เข้าสู่การแข่งขันทัวร์นาเมนต์"</string>
+    <string name="Win_a_Tournament">"ชนะการแข่งขันทัวร์นาเมนต์"</string>
+    <string name="Tournament_Competing">"กำลังแข่งขันทัวร์นาเมนต์"</string>
+    <string name="Tournament_Registered">"ลงทะเบียนทัวร์นาเมนต์แล้ว"</string>
+    <string name="Tournament">"ทัวร์นาเมนต์"</string>
+    <string name="TourneyDescription">"คุณต้องลงทะเบียนเพื่อเล่นในทัวร์นาเมนต์ คุณจะถูกเรียกเก็บพลาสมาเมื่อการแข่งขันเริ่มต้น แต่คุณสามารถยกเลิกการลงทะเบียนก่อนที่เกมจะเริ่มได้ทุกเมื่อ การแข่งขันจะเริ่มต้นขึ้นเมื่อมีอย่างน้อย %d ผู้เข้าแข่งขัน"</string>
+    <string name="Register">"ลงทะเบียน"</string>
+
+    <string name="Registered">"ลงทะเบียนแล้ว"</string>
+    <string name="Not_Registered">"ยังไม่ได้ลงทะเบียน"</string>
+    <string name="Prize_Pool">"รางวัลรวม"</string>
+    <string name="Registrants">"ผู้ลงทะเบียน"</string>
+    <string name="Round_Of">"รอบ"</string>
+    <string name="Next_Tournament">"ทัวร์นาเมนต์ถัดไป"</string>
+    <string name="Plasma_Won">"ชนะพลาสมา"</string>
+    <string name="Semi_Finals">"รอบรองชนะเลิศ"</string>
+    <string name="Quarter_Finals">"รอบก่อนรองชนะเลิศ"</string>
+    <string name="Competing">"กำลังแข่งขัน"</string>
+    <string name="Finals">"รอบชิงชนะเลิศ"</string>
+    <string name="Unregister">"ยกเลิกการลงทะเบียน"</string>
+    <string name="Enter_My_Match">"เข้าสู่การแข่งขันของฉัน"</string>
+    <string name="Starts_In">"เริ่มใน"</string>
+    <string name="Seconds">"วินาที"</string>
+    <string name="Tournaments_Temporarily_Disabled">"ทัวร์นาเมนต์ปิดชั่วคราว"</string>
+    <string name="CLAN_NAME_COLOR">"สีชื่อแคลน"</string>
+    <string name="Tuber">"ยูทูปเบอร์"</string>
+    <string name="youtube_prompt">"คุณต้องการที่จะเยี่ยมชมช่อง YouTube ช่องนี้หรือไม่? ช่องเหล่านี้จะไม่มีส่วนเกี่ยวข้องกับผู้สร้างเกม"</string>
+    <string name="Tournament_Matches_Won_">"ชนะการแข่งขันทัวร์นาเมนต์:"</string>
+    <string name="PAINT">"ระบายสี"</string>
+    <string name="BLOCKED_ACCOUNTS">"บัญชีที่บล็อก</string>
+    <string name="UNBLOCK">"ปลดบล็อก"</string>
+    <string name="Emotes">"อิโมท"</string>
+    <string name="Support">"สนับสนุน"</string>
+    <string name="Already_Blocked">"บล็อกแล้ว"</string>
+    <string name="Cannot_block_more_than_x_accounts_">"ไม่สามารถบล็อกมากกว่า %d บัญชี"</string>
+    <string name="This_is_you_">"นี่คือคุณ"</string>
+    <string name="Win_a_Paint_Game">"ชนะเกมระบายสี"</string>
+    <string name="Whiteout">"นักระบายสี"</string>
+    <string name="Speed_Painter">"ความไวเป็นของจิตรกร"</string>
+    <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"ชนะเกมระบายสีโดยฝ่ายตรงข้ามทั้งหมดมี 0 คะแนน"</string>
+    <string name="Win_a_Paint_game_in_60_seconds_or_less_">"ชนะเกมระบายสีภายใน 60 วินาทีหรือน้อยกว่า"</string>
+    <string name="Autoclick">"ออโต้คลิก"</string>
+    <string name="Autoclick_24_Hours">"ออโต้คลิก 24 ชั่วโมง"</string>
+    <string name="Autoclick_1_Hour">"ออโต้คลิก 1 ชั่วโมง"</string>
+    <string name="Ultraclick_24_Hours">"อัลตราคลิก 24 ชั่วโมง"</string>
+    <string name="Ultraclick_1_Hour">"อัลตราคลิก 1 ชั่วโมง"</string>
+    <string name="Ultraclick">"อัลตราคลิก"</string>
+    <string name="May_Reduce_Lag">"(อาจลดแลค)"</string>
+    <string name="Ultraclick_Permanent">"อัลตราคลิก ถาวร"</string>
+    <string name="Autoclick_Permanent">"ออโต้คลิก ถาวร"</string>
+    <string name="x3_XP_Permanent">"3x XP ถาวร"</string>
+    <string name="x2_XP_Permanent">"2x XP ถาวร"</string>
+    <string name="Permanent">"ถาวร"</string>
+    <string name="Apply_To_Account">"นำไปใช้กับบัญชี"</string>
+    <string name="Spin_">"สปิน!"</string>
+    <string name="Next_Spin">"สปินครั้งต่อไป"</string>
+    <string name="Wheel_Of_Nebulous_">"วงล้อสปินแห่ง Nebulous!"</string>
+    <string name="XP_2x">"XP 2x"</string>
+    <string name="XP_3x">"XP 3x"</string>
+    <string name="NOW">"ตอนนี้"</string>
+    <string name="Team_Deathmatch_Domination">"ยึดครองห้องเกมทีมเดธแมตช์"</string>
+    <string name="We_Will_Survive">"เราจะมีชีวิตรอด"</string>
+    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"ชนะโดยมีอย่างน้อย 5 ผู้เล่นในเกมทีมเดธแมตช์"</string>
+    <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"อยู่ให้รอดแต่ไม่ชนะในเกมทีมเดธแมตช์"</string>
+    <string name="Win_a_Team_Deathmatch_Game">"ชนะเกมทีมเดธแมตช์"</string>
+    <string name="TEAM_DEATHMATCH">"ทีมเดธแมตช์"</string>
+    <string name="Speed_Click_Toggle">"สลับปุ่มกด"</string>
+    <string name="MOD">"ผู้ดูแล"</string>
+    <string name="FAQ">คำถามที่พบบ่อย</string>
+    <string name="BUY_EXTRA_SPINS">ซื้อสปินเพิ่มเติม</string>
+    <string name="Spins_Remaining">สปินที่เหลืออยู่</string>
+    <string name="One_Spin">หนึ่งสปิน (1)</string>
+    <string name="Bundle_of_Spins">สิบสปิน (10)</string>
+    <string name="Plethora_of_Spins">ห้าสิบสปิน (50)</string>
+    <string name="SIGN_OUT_ALL_DEVICES">ออกจากระบบในทุกอุปกรณ์</string>
+    <string name="Tournament_Forming">กำลังเตรียมพร้อมการแข่งขันทัวร์นาเมนต์</string>
+    <string name="TeamTourneyDescription">คุณและเพื่อนร่วมทีมของคุณต้องลงทะเบียนเพื่อเล่นในทัวร์นาเมนต์ทีม คุณจะถูกเรียกเก็บพลาสมาเมื่อการแข่งขันเริ่มต้น แต่คุณสามารถยกเลิกการลงทะเบียนก่อนที่เกมจะเริ่มได้ทุกเมื่อ การแข่งขันจะเริ่มต้นขึ้นเมื่อมีอย่างน้อย %d ผู้เข้าแข่งขัน</string>
+    <string name="Free_Agent">ฟรีเอเย่นต์</string>
+    <string name="This_player_selected_a_different_teammate_">ผู้เล่นคนนี้เลือกเพื่อนร่วมทีมคนอื่น</string>
+    <string name="muted_until">ถูกใบ้จนถึง</string>
+    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">เนื้อหาความเหมาะสมของแอปอาจเปลี่ยนแปลงเมื่อเล่นแบบผู้เล่นหลายคน</string>
+    <string name="UI_Opacity_">ความทึบของ UI</string>
+    <string name="LOAD">โหลด</string>
+    <string name="REMOVE">ลบ</string>
+    <string name="BAN">แบน</string>
+    <string name="MODERATORS">ผู้ดูแล</string>
+    <string name="ALL_CLAN">ทั้งหมด\nในแคลน</string>
+    <string name="CO_LEADER">ผู้ช่วยหัวหน้า</string>
+    <string name="CLAN_HOUSE">ห้องแคลน</string>
+
+    <string name="ROOM">ห้อง</string>
+    <string name="EXPERIMENTAL">เก็บประสบการณ์</string>
+    <string name="members">สมาชิก</string>
+    <string name="Delete_ALL_Messages_">ลบข้อความทั้งหมด!</string>
+    <string name="SAVE_PROFILE">บันทึกโปรไฟล์</string>
+    <string name="Move">ย้าย</string>
+    <string name="New_Position">ตำแหน่งใหม่</string>
+    <string name="ALLIANCES">พันธมิตร</string>
+    <string name="ENEMIES">ศัตรู</string>
+    <string name="NEW_ALLIANCE">พันธมิตรใหม่</string>
+    <string name="NEW_ENEMY">ศัตรูใหม่</string>
+    <string name="CLAN_RELATIONS">ความสัมพันธ์ของแคลน</string>
+    <string name="Clan_XP_Boost">XP บูสต์เลเวลแคลน</string>
+    <string name="x3_Clan_XP_7_days">3x แคลน XP 7 วัน</string>
+    <string name="x3_Clan_XP_1_Day">3x แคลน XP 1 วัน</string>
+    <string name="x2_Clan_XP_1_Day">2x แคลน XP 1 วัน</string>
+    <string name="Pets">สัตว์เลี้ยง</string>
+    <string name="Pet">สัตว์เลี้ยง</string>
+    <string name="You_can_purchase_this_pet_for">คุณสามารถซื้อสัตว์เลี้ยงนี้ได้โดยใช้</string>
+    <string name="gift_to_friend">ของขวัญให้เพื่อน</string>
+    <string name="gift_purchase_warning">คุณจะไม่ได้รับการสั่งซื้อนี้ เพราะคุณได้เลือกที่จะซื้อเป็นของขวัญให้เพื่อน</string>
+    <string name="x2_Clan_XP_7_Days">2x แคลน XP 7 วัน</string>
+    <string name="RECEIVED">ที่ได้รับ</string>
+    <string name="SENT">ที่ส่ง</string>
+    <string name="Enable_Invites">เปิดใช้งานคำเชิญ</string>
+    <string name="Game_Invitation">คำเชิญเกม</string>
+    <string name="__has_invited_you_to_join_their_game_">%s ได้เชิญคุณให้เข้าร่วมห้องเกมของเขา!</string>
+    <string name="Invitation_declined_">คำเชิญถูกปฏิเสธ!</string>
+    <string name="Invitation_accepted_">ตอบรับคำเชิญแล้ว!</string>
+    <string name="Invitation_expired_">คำเชิญหมดอายุ!</string>
+    <string name="Wait_for_the_current_invitation_to_expire_">รอให้คำเชิญปัจจุบันหมดอายุก่อนค่อยเชิญใหม่</string>
+    <string name="BLOB_COLOR">สีตัว</string>
+    <string name="ENABLED">เปิดใช้งาน</string>
+    <string name="Enable_Custom_Blob_Color">เปิดใช้งานสีตัว</string>
+    <string name="Choose_Menu">เลือกเมนู</string>
+    <string name="SPECTATE">เข้าชม</string>
+    <string name="INVITE">เชิญ</string>
+    <string name="error_1">เฉพาะหัวหน้าแคลนหรือผู้ช่วยหัวหน้าแคลนท่านั้นที่สามารถส่งเมลหาแคลนได้</string>
+    <string name="Hat">หมวก</string>
+    <string name="Hats">หมวก</string>
+    <string name="Pet_Uploads">อัปโหลดสัตว์เลี้ยง</string>
+    <string name="BLOB">ตัวผู้เล่น</string>
+    <string name="Clan_Pet_Uploads">อัปโหลดสัตว์เลี้ยงแคลน</string>
+    <string name="YT">YT</string>
+    <string name="FREE_TODAY">ฟรีวันนี้!</string>
+    <string name="Cannot_cancel_this_skin_yet_">ยังไม่สามารถยกเลิกสกินนี้ได้</string>
+    <string name="SPLIT_16X">แยก 16x</string>
+    <string name="SET_PUBLIC_DESCRIPTION">ตั้งค่าคำอธิบายสาธารณะ</string>
+    <string name="SET_NOTE">เขียนบันทึก</string>
+    <string name="enable_notifications">เปิดการแจ้งเตือน</string>
+    <string name="PROMOTE_MEMBER">เลื่อนขั้นสมาชิก</string>
+    <string name="DEMOTE_MEMBER">ลดขั้นสมาชิก</string>
+    <string name="HAPPY_BIRTHDAY_">สุขสันต์วันเกิด Nebulous!</string>
+    <string name="Years">ปี</string>
+    <string name="Friend_Added_">เพิ่มเป็นเพื่อนแล้ว!</string>
+    <string name="_in_a_16x_Split_Game"> ในเกมแยก 16x</string>
+    <string name="Rules">กฎระเบียบ</string>
+    <string name="Blob_Chat_Bubbles">แชทขึ้นบนตัว</string>
+    <string name="CHRISTMAS_ADVENT_SKINS">คริสต์มาสมาถึงแล้ว</string>
+    <string name="You_cannot_open_this_present_yet_">คุณยังไม่สามารถเปิดกล่องของขวัญชิ้นนี้ได้!</string>
+    <string name="Open_Present">เปิดกล่องของขวัญ</string>
+    <string name="OPEN">เปิด</string>
+    <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
+กฎระเบียบการเล่น\n
+        \n
+1. อย่าแชร์หรือซื้อ-ขายแลกเปลี่ยนบัญชีกับใคร การกระทํานี้จะส่งผลให้ผู้เล่นทั้งสองฝ่ายถูกแบนถาวร\n
+2. อย่าขอบัญชีจากใคร การกระทํานี้จะส่งผลให้คุณถูกแบนถาวร\n
+3. อย่าแอบอ้างว่าเป็นผู้ดูและหรือยูทูปเบอร์ การกระทํานี้จะส่งผลให้คุณถูกแบนถาวร\n
+4. อย่าโกงอันดับคะแนนสุงสุดของเกมในแคลนวอ, อารีนา (ปั้มอันดับ) สถิติของคุณจะถูกรีเซ็ตและส่งผลให้คุณถูกแบนถาวร\n
+5. อย่าขอยศต่างๆจากหัวหน้าแคลนในแคลน\n
+6. อย่าดูถูก, เหยียดหยามผู้เล่นคนอื่น\n
+7. อย่าสร้างห้องเกม, ห้องแชทโดยใช้ชื่อที่ไม่เหมาะสม\n
+8. เชื่อฟังผู้ดูแล\n
+9. อย่าใช้ประโยชน์จากบัคในเกม\n
+10. อย่าแบนสมาชิกหลายคนในแคลนโดยไม่ได้รับอนุญาตจากหัวหน้าแคลน\n
+11. ในเกมแบบทีม อย่าร่วมทีมกับผู้เล่นคนอื่นที่อยู่ทีมตรงข้าม\n
+12. อย่าโกหกผู้ดูแล\n
+13. อย่าซื้อ-ขายแลกเปลี่ยนแคลนเป็นเงินหรือพลาสมา\n
+14. อย่าสแปมข้อความในแชทหรือเมล\n
+
+        \n
+หากคุณไม่ปฏิบัติตามกฎเหล่านี้บัญชีของคุณอาจถูกแบน\n
+(เวลาของการลงโทษอาจไม่กี่ชั่วโมงหรือไปจนถึงการแบนถาวรขึ้นอยู่กับสถานการณ์และความรุนแรงของปัญหา)\n
+        \n
+หากสังเกตเห็นผู้เล่นทำผิดกฎโปรดรายงานผู้ดูแล
+    </string>
+    <string name="Halo">แสงรัศมี</string>
+    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"ในการใช้แสงรัศมีนี้คุณต้องมีเลเวลอย่างน้อย %1$s และได้รับ %2$s ความสำเร็จ"</string>
+    <string name="Halos">แสงรัศมี</string>
+    <string name="CAMPAIGN">แคมเปญ</string>
+    <string name="Mission">ภารกิจ</string>
+    <string name="Kill_All_Bots">ฆ่าบอทให้หมด</string>
+    <string name="Survive">อยู่ให้รอด</string>
+    <string name="Mission_d_Complete">ภารกิจ %d สำเร็จ!</string>
+    <string name="Mission_d_Failed">ภารกิจ %d ล้มเหลว!</string>
+    <string name="Next_Mission">ภารกิจต่อไป</string>
+    <string name="Objective">เป้าหมาย</string>
+    <string name="GAME">เกม</string>
+    <string name="Saved_">บันทึกแล้ว!</string>
+    <string name="Name_Opacity_">ความทึบของชื่อ:</string>
+    <string name="SET_PROFILE_PIC">ตั้งรูปโปรไฟล์</string>
+    <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">ยอมรับคำขอเป็นเพื่อนทั้งหมด?</string>
+    <string name="App_Perf_Stats">แสดงสถิติประสิทธิภาพของแอป</string>
+    <string name="COPY">คัดลอก</string>
+    <string name="_1v1_Ultra">1v1 อัลตรา</string>
+    <string name="ArenaDescriptionUltra">ผู้ชนะจะได้รับ %s พลาสมา</string>
+    <string name="BANNED">ถูกแบน</string>
+    <string name="CLAN_MEMBERS">สมาชิกแคลน</string>
+    <string name="CLAN_REQUESTS">คำขอเข้าร่วมแคลน</string>
+    <string name="Pet_1">สัตว์เลี้ยง 1</string>
+    <string name="Pet_2">สัตว์เลี้ยง 2</string>
+    <string name="Second_Pet">ฟีเจอร์นี้ทำให้คุณสามารถมีสัตว์เลี้ยงสองตัวพร้อมกัน!</string>
+    <string name="This_item_requires">ไอเทมนี้ต้องการ</string>
+    <string name="not_enough_plasma">พลาสมาไม่เพียงพอ</string>
+    <string name="MARK_UNREAD">ทำเครื่องหมายว่ายังไม่ได้อ่าน</string>
+    <string name="ROYALE_DUO">รอยัลดูโอ้</string>
+    <string name="Choose_Partner">เลือกคู่หู</string>
+    <string name="REMOVE_FRIEND">ลบเพื่อน</string>
+    <string name="Creator">ผู้สร้าง</string>
+    <string name="PROFILE_COLOR">สีโปรไฟล์</string>
+    <string name="Enable_Colors">เปิดใช้งานสี</string>
+    <string name="Particles">ละออง</string>
+    <string name="Clan_Particle_Uploads">อัปโหลดละอองแคลน</string>
+    <string name="Particle_Uploads">อัปโหลดละออง</string>
+    <string name="Blob_Outline">โครงร่างตัว</string>
+    <string name="Game_Border">แสดงขอบเกม</string>
+    <string name="Select_some_text_first">ต้องเลือกข้อความก่อน</string>
+    <string name="Save_the_profile_first">ต้องบันทึกโปรไฟล์ก่อน</string>
+    <string name="Birthday">วันเกิด</string>
+    <string name="Mass_Boost">คะแนนบูสต์</string>
+
+    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">คะแนนบูสต์ไม่สามารถใช้ได้ในอารีนา, ทัวร์นาเมนต์ หรือแคลนวอ</string>
+
+    <string name="ArenaDescriptionPure">ไม่มีการใช้ออโต้คลิกหรืออัลตราคลิก คุณจะมีเพียงหนึ่งชีวิต ผู้ชนะจะได้รับ %s พลาสมา</string>
+    <string name="_1v1_Pure">1v1 เพียวๆ</string>
+    <string name="Allow_Ultraclick">อนุญาตให้ใช้อัลตราคลิก</string>
+    <string name="Allow_Mass_Boost">อนุญาตให้ใช้คะแนนบูสต์</string>
+    <string name="Challenges_Won_">ชนะการท้าทาย:</string>
+    <string name="trophy_info">ถ้วยรางวัลจะมอบให้เมื่อสิ้นสุดซีซั่นของแต่ละอารีนาหรืออารีนาทีม เฉพาะอันดับที่ 1, 2 และ 3 ถ้วยรางวัลจะมอบให้เฉพาะในภูมิภาคที่มีผู้เล่นจำนวนมากเท่านั้น</string>
+    <string name="BLOCKED">บล็อกแล้ว</string>
+    <string name="CLAN_WAR_HISTORY">ประวัติการวอแคลน</string>
+    <string name="Particle">ละออง</string>
+    <string name="Privacy">ความเป็นส่วนตัว</string>
+    <string name="EULA">EULA</string>
+    <string name="You_can_purchase_this_hat_for">คุณสามารถซื้อหมวกนี้ได้โดยใช้</string>
+    <string name="You_can_purchase_this_particle_for">คุณสามารถซื้อละอองนี้ได้โดยใช้</string>
+    <string name="You_can_purchase_this_eject_skin_for">คุณสามารถซื้อสกินตอนยิงนี้ได้โดยใช้</string>
+    <string name="Skin">สกิน</string>
+    <string name="Custom_Skin">สกินแบบกำหนดเอง</string>
+    <string name="Color">สี</string>
+    <string name="RECENT_PLAYERS">ผู้เล่นล่าสุด</string>
+    <string name="POSITION_CONTROL_STICK">"ตำแหน่งปุ่มลากควบคุม</string>
+    <string name="POSITION_SPLIT_BUTTON">ตำแหน่งปุ่มกดแยก</string>
+    <string name="POSITION_EJECT_BUTTON">ตำแหน่งปุ่มกดยิง</string>
+    <string name="POSITION_EJECT_TOGGLE_BUTTON">ตำแหน่งสลับปุ่มกด</string>
+    <string name="WIFI">ไวไฟ</string>
+    <string name="JOIN_IP">เข้าร่วม IP</string>
+    <string name="Specify_Host_IP">ระบุ IP โฮสต์</string>
+    <string name="ADVANCED_SETUP">การตั้งค่าขั้นสูง</string>
+    <string name="WORLD_CUP_EVENT___">ฟุตบอลโลกอีเวนต์!!!</string>
+    <string name="world_cup_event_description">ดับเบิ้ล XP และดับเบิ้ลพลาสมาในโหมดเกมฟุตบอลจนกว่าจะจบฟุตบอลโลก</string>
+    <string name="GIF_Skins">สกิน GIF</string>
+    <string name="PLAY_ONLINE_">เล่นออนไลน์!</string>
+    <string name="Absorb_10_000_000_dots">กิน 10,000,000 จุด</string>
+    <string name="Dot_Deity">เทพกินจุด</string>
+    <string name="Mass_Mastery">ยักษ์ใหญ่ไล่ยักษ์เล็ก</string>
+    <string name="Gain_100_000_000_mass">ได้รับ 100,000,000 คะแนนรวม</string>
+    <string name="VET">VET</string>
+    <string name="Mute">ใบ้</string>
+    <string name="Unmute">ยกเลิกใบ้</string>
+    <string name="Community">ชุมชน</string>
+    <string name="Buy">ซื้อ</string>
+    <string name="Sell">ขาย</string>
+    <string name="community_skin_requirement">คุณต้องซื้อการเปิดใช้งานสกินแบบกำหนดเองเพื่อใช้สกินของชุมชน</string>
+    <string name="You_can_purchase_this_community_skin_for_">คุณสามารถซื้อสกินชุมชนนี้ได้โดยใช้</string>
+    <string name="VIEW_UPLOADER">ดูผู้อัปโหลด</string>
+    <string name="POPULAR">ยอดนิยม</string>
+    <string name="NEW">ใหม่</string>
+    <string name="Manage_Configurations">จัดการการกำหนดค่า</string>
+    <string name="Leave_blank_for_all_uploaders_">ปล่อยว่างไว้สำหรับผู้อัปโหลดทั้งหมด</string>
+    <string name="More___">เพิ่มเติม…</string>
+    <string name="This_cannot_be_used_in_FFA_Classic_">ไม่สามารถใช้ได้ใน FFA คลาสสิค</string>
+    <string name="ENEMY">ศัตรู</string>
+    <string name="ALLY">พันธมิตร</string>
+    <string name="Rename">เปลี่ยนชื่อ</string>
+    <string name="Set_friendly_name_">ตั้งชื่อที่เป็นกันเอง</string>
+    <string name="Leave_blank_for_none_">ปล่อยว่างไว้สำหรับไม่มี</string>
+    <string name="Vote_Kick">เตะผู้เล่น</string>
+    <string name="FONT">ฟอนต์</string>
+    <string name="CIRCLE">วงกลม</string>
+    <string name="SQUARES">สี่เหลี่ยม</string>
+    <string name="TRICK_MODE">ทริคโหมด</string>
+    <string name="ICE_SPLIT">ICE SPLIT</string>
+    <string name="TRICK_SPLIT">TRICK SPLIT</string>
+    <string name="POP_SPLIT">POP SPLIT</string>
+    <string name="PUSH_SPLIT">PUSH SPLIT</string>
+    <string name="Level_Colors">สีเลเวล</string>
+    <string name="click_info">ออโต้คลิก / อัลตราคลิก ไม่สามารถใช้ได้ใน FFA คลาสสิค!</string>
+    <string name="Hooked">ติดเบ็ด</string>
+    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">ถูกดึงด้วยโซ่โดยการยิงโซ่เป็นเวลา 10 วินาที</string>
+    <string name="Pack">แพ็ค</string>
+    <string name="Skin_Pack">สกินแพ็ค</string>
+    <string name="SKIN_PACK">สกินแพ็ค</string>
+    <string name="HALLOWEEN">ฮาโลวีน</string>
+
+    <string name="pack_info">หลังจากที่คุณซื้อสกินแพ็คนี้ สกินพิเศษของคุณจะปรากฏที่ด้านบนสุดของเมนูการเลือกสกิน</string>
+
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">สกินพิเศษ สัตว์เลี้ยง หมวก และอีกมากมาย!</string>
+    <string name="BUY_NOW_">ซื้อเลยตอนนี้!</string>
+    <string name="already_purchased">คุณหรือคนที่คุณกำลังจะซื้อให้เป็นเจ้าของสิ่งนี้อยู่แล้ว</string>
+    <string name="Halo_Animations">แสงรัศมีแอนิเมชั่น</string>
+    <string name="Trick_Notifications">การแจ้งเตือนทริค</string>
+    <string name="Channel">ช่อง</string>
+    <string name="Choose_Text_Size">เลือกขนาดข้อความ</string>
+    <string name="LEVEL_COLOR">สีเลเวล</string>
+    <string name="INITIATE">เด็กใหม่</string>
+    <string name="x3_Clan_XP_Perm">3x แคลน XP ถาวร!</string>
+    <string name="x2_Clan_XP_Perm">2x แคลน XP ถาวร!</string>
+    <string name="Japan">ญี่ปุ่น</string>
+    <string name="South_Korea">เกาหลีใต้</string>
+    <string name="Asia">เอเชีย</string>
+    <string name="SET_PRIVACY">ตั้งค่าความเป็นส่วนตัว</string>
+    <string name="ANIMATION">แอนิเมชั่น</string>
+    <string name="Color_Cycle">สีหมุนรอบ</string>
+    <string name="Fast">เร็ว</string>
+    <string name="Slow">ช้า</string>
+    <string name="Rainbow">สีรุ้ง</string>
+    <string name="Horizontal">แนวนอน</string>
+    <string name="Vertical">แนวตั้ง</string>
+    <string name="GROUP">กลุ่ม</string>
+    <string name="LEAVE">ออก</string>
+    <string name="Group">กลุ่ม</string>
+    <string name="Not_in_a_group_">ไม่ได้อยู่ในกลุ่ม</string>
+    <string name="Failed">ไม่สำเร็จ</string>
+    <string name="Failed_to_join">เข้าร่วมไม่สำเร็จ</string>
+    <string name="Full">เต็ม</string>
+    <string name="Tricks_Performed_">ทำทริค:</string>
+    <string name="Not_enough_plasma_">พลาสมาไม่เพียงพอ!</string>
+    <string name="GET_PLASMA">รับพลาสมา</string>
+    <string name="ASTEROIDS">ดาวเคราะห์น้อย</string>
+    <string name="CHRISTMAS">คริสต์มาส</string>
+    <string name="Reason">เหตุผล</string>
+    <string name="PUBLIC">สาธารณะ</string>
+    <string name="PRIVATE">ส่วนตัว</string>
+    <string name="Joined">เข้าร่วมแล้ว</string>
+    <string name="Requests">คำขอ</string>
+    <string name="Invites">คำขอที่ส่ง</string>
+    <string name="Show_Spectator_Count">แสดงจำนวนผู้ชม</string>
+    <string name="TRY_IT_">ลองใช้เลย!</string>
+    <string name="You_need_to_buy_a_pack_to_use_this_">คุณต้องซื้อแพ็คเพื่อใช้สกินนี้</string>
+    <string name="GET_PACK">รับแพ็ค</string>
+    <string name="Position_in_queue">ตำแหน่งในคิว</string>
+    <string name="PROFILE_MENU_BACKGROUND_COLOR">สีพื้นหลังโปรไฟล์</string>
+    <string name="DARK_MATTER">สสารมืด</string>
+    <string name="Textures_will_be_regenerated_">เทคเจอร์สีดำและสกินที่กำหนดเองจะถูกสร้างขึ้นใหม่</string>
+    <string name="Enable_Profile_Colors">เปิดใช้งานสีโปรไฟล์</string>
+    <string name="Session_Stats">สถิติเซสชัน</string>
+    <string name="Time_">เวลา:</string>
+    <string name="Show_Session_Stats">แสดงสถิติเซสชัน</string>
+    <string name="VALENTINES_DAY">"วันวาเลนไทน์"</string>
+    <string name="Giveaways_">แจกของรางวัล!</string>
+    <string name="Max_XP_Chain_">XP ต่อเนื่องสูงสุด:</string>
+    <string name="POSITION_CANCEL_BUTTON">ตำแหน่งปุ่มกดยกเลิก</string>
+    <string name="INVISIBILITY">ล่องหน</string>
+    <string name="Set_Skin">ตั้งสกิน</string>
+    <string name="Primary">หลัก</string>
+    <string name="Secondary">ที่สอง</string>
+    <string name="Both">ทั้งคู่</string>
+
+    <string name="Enable__Multiskin">"เปิดใช้งาน\nหลายสกิน"</string>
+    <string name="MULTISKIN">หลายสกิน</string>
+    <string name="DISABLED">ปิดการใช้งานแล้ว</string>
+
+    <string name="Refund__Multiskin">คืนเงิน\nหลายสกิน</string>
+    <string name="Invalid_Clan_ID_">ไอดีแคลนไม่ถูกต้อง</string>
+    <string name="MUTED">ปิดเสียงแล้ว</string>
+    <string name="SKIN">สกิน</string>
+    <string name="Choose_Skin_Size">เลือกขนาดของสกิน</string>
+    <string name="Other_players_will_not_be_able_to_hear_you_">ผู้เล่นคนอื่นจะไม่ได้ยินเสียงคุณ!</string>
+    <string name="Allow_permission_to_enable_voice_recording_">อนุญาตให้เปิดใช้งานการบันทึกเสียง</string>
+    <string name="voice_chat_prompt">เนื้อหาความเหมาะสมของแอปอาจเปลี่ยนแปลงเมื่อเปิดใช้งานการแชทด้วยเสียง เพื่อเสียงที่ดีที่สุดโปรดใช้หูฟัง</string>
+    <string name="Only_leader_can_answer_requests_">หัวหน้าเท่านั้นที่สามารถตอบคำขอได้</string>
+    <string name="Sent_request_not_invited_">ส่งคำขอแล้ว (ไม่ได้รับเชิญ)</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">ลบสกินออกจากชุมชน!</string>
+    <string name="This_cannot_be_undone_">การกระทํานี้ไม่สามารถยกเลิกได้</string>
+    <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">ดูวิดีโอเพื่อรับบูสต์ชั่วคราวสำหรับ %d เกมชีวิต!</string>
+    <string name="WATCH_VIDEO_">ดูวิดีโอ!</string>
+    <string name="PERMANENT_BOOSTS">พลาสมาบูสต์ถาวร</string>
+    <string name="Video_failed_to_load_">โหลดวิดีโอไม่สำเร็จ!</string>
+    <string name="Video_Ready_">วิดีโอพร้อมแล้ว!</string>
+    <string name="GIVE_PLASMA">ให้พลาสมา</string>
+    <string name="Specify_amount_">ระบุจำนวน:</string>
+    <string name="Specify_amount_again_to_confirm_">ระบุจำนวนอีกครั้งเพื่อยืนยัน:</string>
+    <string name="Amounts_did_not_match_">จำนวนไม่ตรงกัน!</string>
+    <string name="RECEIVE_PLASMA">ได้รับพลาสมา</string>
+    <string name="MULTIBLOB">หลายตัว</string>
+    <string name="Play_Nebulous_For_1_Year_">เล่น Nebulous เป็นเวลา 1 ปี!</string>
+    <string name="Play_Nebulous_For_X_Years_">เล่น Nebulous เป็นเวลา %d ปี!</string>
+    <string name="Starting___">เริ่มต้น…</string>
+    <string name="Tournament_Starting">ทัวร์นาเมนต์เริ่มต้น</string>
+    <string name="Max_Tilt_Angle_3D_">มุมเอียง 3D สูงสุด:</string>
+    <string name="Mode_3D">3D โหมด</string>
+    <string name="Names_Below_Blobs">ชื่อข้างล่างตัว</string>
+    <string name="Name_Scale_">"ขนาดของชื่อ:"</string>
+    <string name="Button_3D">ปุ่ม 3D</string>
+    <string name="Hide_Button_">ซ่อนปุ่ม?</string>
+    <string name="Show_Boost_Button">แสดงปุ่มบูสต์</string>
+    <string name="Spectate_Killer_On_Death">ดูคนที่ฆ่าเมื่อตาย</string>
+    <string name="Rainbow_Holes">หลุมสีรุ้ง</string>
+    <string name="LIFE_STEAL">ขโมยชีวิต</string>
+    <string name="Kicked_From_Game_">ถูกเตะออกจากเกม!</string>
+    <string name="Conquest">ชัยชนะ</string>
+    <string name="Finish_the_last_mission_in_the_campaign_">จบภารกิจสุดท้ายในเกมแคมเปญ</string>
+    <string name="Collected_">เก็บสะสม:</string>
+    <string name="Collisions_">ชน:</string>
+    <string name="Absorbed_">ดูดกลืน:</string>
+    <string name="team_warning">การร่วมทีมกับผู้เล่นคนอื่นที่ไม่ได้อยู่ในทีมของคุณจะส่งผลให้คุณถูกแบน!</string>
+    <string name="Search_Filter">ตัวกรองการค้นหา</string>
+    <string name="Received_">ได้รับ:</string>
+    <string name="Opponent_Rating_Limit_">จำกัดคะแนนของคู่แข่ง:</string>
+    <string name="TOGGLE_FAVORITE">รายการโปรด</string>
+    <string name="Favorited">ตั้งเป็นรายการโปรดแล้ว</string>
+    <string name="Unfavorited">ยกเลิกเป็นรายการโปรดแล้ว</string>
+    <string name="Background_Scale_">มาตราส่วนของภาพพื้นหลัง:</string>
+    <string name="Background_Lightness_">ความสว่างของภาพพื้นหลัง:</string>
+    <string name="Background_Image_">รูปภาพพื้นหลัง:</string>
+    <string name="INVERT_SELECTION">เลือก\nกลับด้าน</string>
+    <string name="MINIMAP">แผนที่</string>
+    <string name="Victorious">ผู้ชนะ</string>
+    <string name="Dominant">มีส่วนร่วม</string>
+    <string name="Champion">แชมป์เปี้ยน</string>
+    <string name="Win_10_Tournaments">ชนะ 10 ทัวร์นาเมนต์</string>
+    <string name="Win_100_Tournaments">ชนะ 100 ทัวร์นาเมนต์</string>
+    <string name="HERO">นักรบ</string>
+    <string name="CHAMPION">แชมป์เปี้ยน</string>
+    <string name="DASH">แข่งวิ่ง</string>
+    <string name="setting_changed">อัปเดตการตั้งค่าแล้ว คุณอาจต้องเชื่อมต่อกับเซิร์ฟเวอร์ใหม่อีกครั้งเพื่อให้มีผล</string>
+    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">ทำ 10,000 ทริคในเกมทริคโหมด</string>
+    <string name="Tricky">นักเล่นทริค</string>
+    <string name="SUPPORTER">VIP</string>
+    <string name="CONQUEROR">ผู้พิชิต</string>
+    <string name="TRICKY">นักเล่นทริค</string>
+    <string name="x4_XP_Permanent">4x XP ถาวร</string>
+    <string name="x4_XP_24_hours">4x XP 24 ชั่วโมง</string>
+    <string name="x4_XP_1_Hour">4x XP 1 ชั่วโมง</string>
+    <string name="Quad">สี่เท่า</string>
+    <string name="Middle_East">ตะวันออกกลาง</string>
+    <string name="XP_4x">XP 4x</string>
+    <string name="You_cannot_play_for_x_minutes_">คุณไม่สามารถเล่นได้เป็นเวลา %d นาที</string>
+    <string name="x4_Clan_XP_Perm">4x แคลน XP ถาวร!</string>
+    <string name="x4_Clan_XP_7_days">4x แคลน XP 7 วัน</string>
+    <string name="x4_Clan_XP_1_Day">4x แคลน XP 1 วัน</string>
+    <string name="CHARGE_UP">ชาร์จพลัง</string>
+    <string name="CLAN_DESCRIPTION_COLOR">สีคำอธิบายแคลน</string>
+    <string name="Responsible_Pet_Owner">เจ้าของสัตว์เลี้ยงที่มีความรับผิดชอบ</string>
+    <string name="Animal_Tamer">นักฝึกสัตว์</string>
+    <string name="Crocodile_Hunter">น่าล่าจรเข้</string>
+    <string name="Get_A_Pet_To_Level_X_">ทำให้สัตว์เลี้ยงถึงเลเวล %d</string>
+    <string name="plasma_boost_info">"คุณจะได้รับพลาสมาเพิ่มเป็น 3 เท่า จากที่มาในเกมทั้งหมดในขณะที่การบูสต์ทำงานอยู่ ซึ่งรวมถึงอารีนาและทัวร์นาเมนต์ ไม่สามารถใช้ได้กับการซื้อพลาสมา สปิน หรือรางวัลพิเศษอื่นๆใดๆ"</string>
+    <string name="Plasma_Boost_7_Days_">พลาสมาบูสต์ 7 วัน!!!</string>
+    <string name="Plasma_Boost_1_Day_">พลาสมาบูสต์ 1 วัน!</string>
+    <string name="Plasma_Boost_2_Hours_">พลาสมาบูสต์ 2 ชั่วโมง</string>
+    <string name="Plasma_Boost">พลาสมาบูสต์</string>
+    <string name="particle_info">คุณต้องมีเลเวลอย่างน้อย 50 และใช้สกินที่มีละอองเพื่อที่จะสามารถเห็นละอองอื่นๆ</string>
+    <string name="Plain_Score_Text">"ข้อความคะแนนธรรมดา"</string>
+    <string name="Custom_Skin_Reviewed_Notification">สกินแบบกำหนดเองของคุณได้รับการตรวจสอบแล้ว!</string>
+    <string name="You_Have_Mail_">คุณได้รับเมลจาก %s!</string>
+    <string name="Clan_Request_Reviewed_Notification">คำขอเข้าร่วมแคลน %s ได้รับการตรวจสอบแล้ว!</string>
+    <string name="CRAZY_SPLIT">แยก 32x</string>
+    <string name="Sold_Community_Skins_">"สกินชุมชนที่ขายได้: "</string>
+    <string name="Estimated_Earnings_">"รายได้โดยประมาณ: "</string>
+    <string name="South_Africa">แอฟริกาใต้</string>
+    <string name="SPLIT_">แยก:</string>
+    <string name="WALLS">ผนัง</string>
+    <string name="COMP_BANNED">COMP BANNED</string>
+    <string name="FIND_GAMES">หาห้องเกม</string>
+    <string name="PLAY_SOLO">เล่นคนเดียว</string>
+    <string name="SET_EMOTE">ตั้งค่าอิโมท</string>
+    <string name="Winner_Winner_Chicken_Dinner">ชนะ ชนะ ชนะ เย็นนี้กินไก่!</string>
+    <string name="Win_a_Battle_Royale_">ชนะแบทเทิลรอยัล</string>
+    <string name="Battle_">ต่อสู้!</string>
+    <string name="BATTLE_ROYALE">แบทเทิลรอยัล</string>
+    <string name="Battle_Royale">แบทเทิลรอยัล</string>
+    <string name="The_winner_will_receive_x_plasma_">ผู้ชนะจะได้รับ %s พลาสมา!</string>
+    <string name="admin_commands">"
+คำสั่ง:
+!kick [0–31] | (เตะผู้เล่น)
+!reset | (รีเซ็ตห้องเกม)
+!welcome [ข้อความ] | (ข้อความยินดีต้อนรับ)
+!difficulty [0-3] หรือ [1-4] สำหรับแคมเปญ | (ระดับความยากของเกม)
+!hidden | (ซ่อนห้องเกม)
+!guests | (เปิด/ปิดให้ผู้เล่นที่ไม่ได้ลงชื่อเข้าใช้เข้าร่วมห้องเกม)
+!slowchat | (แชทช้าลง)
+!pausechat | (หยุดแชทชั่วคราว)
+!mute [id] | (ใบ้ผู้เล่น)
+!admin [id] | (ให้สิทธิ์แอดมินแก่ผู้เล่น)
+!allow [id] | (อนุญาตผู้เล่นให้เข้าร่วมห้องเกม)
+!allow reset" | (รีเซ็ตผู้เล่นที่อนุญาตให้เข้าร่วมห้องเกม)
+</string>
+    <string name="ID_Sort">เรียงตามไอดี</string>
+    <string name="Master_Tamer">คนรักสัตว์</string>
+    <string name="Get_ALL_Pets_To_Level_100_">ทำให้สัตว์เลี้ยงทั้งหมดถึงเลเวล 100</string>
+    <string name="TAMER">คนรักสัตว์</string>
+    <string name="Allow_Recombine">อนุญาตให้รวมตัวใหม่</string>
+    <string name="Defenders">ฝ่ายตั้งรับ</string>
+    <string name="Attackers">ฝ่ายบุกรุก</string>
+    <string name="MEGA_SPLIT">แยก 64x</string>
+    <string name="Missing_Permissions">ไม่มีสิทธิ์</string>
+    <string name="DELETE_ACCOUNT">ลบบัญชี</string>
+    <string name="delete_prompt">คุณแน่ใจหรือไม่ว่าต้องการลบบัญชีของคุณ บัญชีจะถูกลบถาวรและไม่สามารถเรียกคืนได้!</string>
+
+
+    <string name="Type">พิมพ์</string>
+    <string name="Complete_campaign_mission_">ทำภารกิจแคมเปญให้สำเร็จ</string>
+    <string name="Specify_Reason_">ระบุเหตุผล:</string>
+    <string name="FREE_FOR_ALL">เหมาะสำหรับทุกคน</string>
+    <string name="SPECIAL">พิเศษ</string>
+    <string name="FREE">ฟรี</string>
+    <string name="x5_Clan_XP_1_Day">5X แคลน XP 1 วัน</string>
+    <string name="x5_Clan_XP_7_days">5X แคลน XP 7 วัน</string>
+    <string name="x5_Clan_XP_Perm">5X แคลน XP ถาวร</string>
+    <string name="Quin">5X</string>
+    <string name="x5_XP_1_Hour">5X XP 1 ชั่วโมง</string>
+    <string name="x5_XP_24_hours">5X XP 24 ชั่วโมง</string>
+    <string name="x5_XP_Permanent">5X XP ถาวร</string>
+    <string name="CAMPAIGN_2">แคมเปญ 2</string>
+    <string name="XP_5x">XP 5x</string>
+    <string name="India">อินเดีย</string>
+    <string name="Tutorial">สอนเล่น</string>
+    <string name="TYCOON">เจ้าพ่อ</string>
+    <string name="CLAN_BACKGROUND_COLOR">สีพื้นหลังแคลน</string>
+    <string name="activate">เปิดใช้งาน</string>
+    <string name="clan_id">แคลนไอดี</string>
+    <string name="language_change_warning">การเปลี่ยนภาษาจะทำให้แอปรีสตาร์ท</string>
+    <string name="xmas_gift_boost_message">คุณได้รับของขวัญเป็น 3X พลาสมาบูสต์เป็นเวลา 1 วัน!</string>
+    <string name="no_response">ไม่มีการตอบสนองจากเซิร์ฟเวอร์ โปรดตรวจสอบการเชื่อมต่ออินเตอร์เน็ต</string>
+    <string name="RAMADAN">RAMADAN</string>
+    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+
+
+    <string-array name="control_modes">
+        <item>"ปกติ"</item>
+        <item>"อิสระ"</item>
+        <item>"ลาก"</item>
+        <item>"ลาก (สลับด้าน)"</item>
+        <item>"แตะและไป"</item>
+        <item>"เอียง"</item>
+    </string-array>
+
+    <string-array name="button_modes">
+        <item>"ซ้าย"</item>
+        <item>"ขวา"</item>
+        <item>"ขวา+ซ้าย"</item>
+        <item>"ซ้าย ตั้ง"</item>
+        <item>"ขวา ตั้ง"</item>
+        <item>"กำหนดเอง"</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item>"ดาว (มืด)"</item>
+        <item>"ตาราง (มืด)"</item>
+        <item>"ตาราง (ขาว)"</item>
+        <item>"กำหนดเอง"</item>
+        <item>"ไม่มี"</item>
+    </string-array>
+
+    <string-array name="difficulties">
+        <item>"ง่าย"</item>
+        <item>"กลาง"</item>
+        <item>"ยาก"</item>
+        <item>"เป็นไปไม่ได้"</item>
+    </string-array>
+
+    <string-array name="sizes">
+        <item>"เล็กมาก"</item>
+        <item>"เล็ก"</item>
+        <item>"ปกติ"</item>
+        <item>"ใหญ่"</item>
+        <item>"HUGE"</item>
+    </string-array>
+
+    <string-array name="clan_war_sizes">
+        <item>"ดูโอ้ (2v2)"</item>
+        <item>"เล็กมาก (3v3)"</item>
+        <item>"เล็ก (5v5)"</item>
+        <item>"ปกติ (8v8)"</item>
+    </string-array>
+
+</resources>

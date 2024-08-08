@@ -1,0 +1,1359 @@
+<resources>
+    <string name="Players">"Hráči"</string>
+    <string name="Control_">"Ovládání:"</string>
+    <string name="CLOSE">"ZAVŘÍT"</string>
+    <string name="Stick_Size_">"Velikost Joysticku:"</string>
+    <string name="Stick_Margin_">"Okraj Joysticku:"</string>
+    <string name="Button_Size_">"Velikost Tlačítka:"</string>
+    <string name="Button_Margin_">"Okraj Tlačítka:"</string>
+    <string name="Buttons_">"Tlačítka:"</string>
+    <string name="DEFAULTS">"STANDARDNÍ"</string>
+    <string name="WEEKLY">"TÝDNĚ"</string>
+    <string name="DAILY">"DENNÍ"</string>
+    <string name="Server_">"Server:"</string>
+    <string name="Game_Mode_">"Herní Mód:"</string>
+    <string name="Show_Names">"Zobrazit Jména"</string>
+    <string name="Show_Avatars">"Zobrazit Skiny"</string>
+    <string name="PLAY">"HRÁT"</string>
+    <string name="OPTIONS">"NASTAVENÍ"</string>
+
+    <string name="Avatar_">"Skin:"</string>
+    <string name="Name_">"Jméno:"</string>
+
+    <string name="Loading___">"Načítání…"</string>
+    <string name="Connecting___">"Spojování…"</string>
+
+    <string name="Are_You_Sure_">"Jste si jisti?"</string>
+    <string name="Yes">"Ano,"</string>
+    <string name="No">"Ne"</string>
+    <string name="WAIT">"ČEKEJ…"</string>
+    <string name="Must_Specify_Name_">"Musíš Zadat Jméno."</string>
+
+    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Obsah hodnocení aplikace se může změnit při hledání skupin."</string>
+
+    <string name="_Rank_">" Hodnost "</string>
+    <string name="_Alias_">" Přezdívka "</string>
+    <string name="_Score_">" Skóre "</string>
+    <string name="Score__">"Skóre: "</string>
+    <string name="Recombine_">"Spojení: "</string>
+    <string name="WINNER_">"VÍTĚZ:"</string>
+    <string name="IDLE">"NEAKTIVNÍ"</string>
+    <string name="Name_Invalid_">"Neplatné Jméno."</string>
+    <string name="Name_Taken_">"Jméno Obsazeno."</string>
+    <string name="CONNECTED">"PŘIPOJENO"</string>
+    <string name="JOINING___">"SPOJOVÁNÍ…"</string>
+    <string name="PLAYING">"HRANÍ"</string>
+    <string name="MULTIPLAYER">"HRA PRO VÍCE HRÁČŮ"</string>
+
+    <string name="JOIN">"PŘIPOJIT"</string>
+
+
+    <string name="Lobby_Name">"JMÉNO LOBBY"</string>
+    <string name="Not_found_">"Nenalezeno."</string>
+
+    <string name="Hidden">"Skrytý"</string>
+
+
+    <string name="SERVER">"SERVER"</string>
+    <string name="Joining_game_in_">"Připojování ke hře"</string>
+    <string name="Game_Full">"Hra je plná"</string>
+    <string name="US_East">"US Východní"</string>
+    <string name="US_West">"US Západní"</string>
+    <string name="Europe">"Evropa"</string>
+    <string name="South_America">"Jižní Amerika"</string>
+
+
+    <string name="SINGLE_PLAYER">"HRA PRO JEDNOHO HRÁČE"</string>
+    <string name="Background_">"Pozadí:"</string>
+    <string name="Difficulty_">"Obtížnost:"</string>
+    <string name="Delay_Disconnect">"Zpožděné Odpojení"</string>
+
+    <string name="Max_Players">"Maximum Hráčů"</string>
+    <string name="Min_Players">"Minimum Hráčů"</string>
+
+    <string name="OK">"OK"</string>
+    <string name="CANCEL">"ZRUŠIT"</string>
+    <string name="Chat_Name">"Jméno Chatu"</string>
+    <string name="Max_People">"Maximum Hráčů"</string>
+    <string name="START">"START"</string>
+    <string name="CREATE">"VYTVOŘ"</string>
+    <string name="CUSTOM_GAMES">"VLASTNÍ HRA"</string>
+    <string name="CHAT">"CHAT"</string>
+    <string name="CUSTOM_SETUP">"VLASTNÍ NASTAVENÍ"</string>
+    <string name="CHAT_SETUP">"NASTAVENÍ CHATU"</string>
+
+
+    <string name="ACCOUNT">"ÚČET"</string>
+    <string name="Red_Team">"Červený tým"</string>
+    <string name="Green_Team">"Zelený tým"</string>
+    <string name="Blue_Team">"Modrý tým"</string>
+    <string name="Yellow_Team">"Žlutý tým"</string>
+    <string name="Signed_in_as_">"Jste přihlášeni jako:"</string>
+    <string name="Not_signed_in_">"Nejste přihlášen!"</string>
+    <string name="SET_NAME">"NASTAV JMÉNO"</string>
+    <string name="SIGN_OUT">"ODHLÁSIT SE"</string>
+    <string name="ACHIEVEMENTS">"ÚSPĚCHY"</string>
+    <string name="STATISTICS">"STATISTIKA"</string>
+    <string name="XP_">"XP:"</string>
+
+    <string name="Information">"Informace"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Chcete-li použít tento skin, musíte získat úspěch"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Chcete-li použít tento skin, musíte dosáhnout úrovně"</string>
+    <string name="SIGN_IN">"PŘIHLÁSIT SE"</string>
+
+    <string name="Single_Player_Stats">"Statistiky hry pro jednoho hráče"</string>
+
+    <string name="Level">"Úroveň"</string>
+    <string name="PAUSED">"POZASTAVENO"</string>
+
+
+    <string name="FRIENDS">"PŘÁTELÉ"</string>
+    <string name="Warning">"Varování"</string>
+    <string name="SIGNING_IN">"Přihlašování …"</string>
+    <string name="New_Friend_Request">"Nová žádost o přátelství!"</string>
+    <string name="REQUEST_FRIEND">"POŽÁDAT O PŘÍTELE"</string>
+    <string name="Private">"Soukromé"</string>
+    <string name="Public">"Veřejné"</string>
+    <string name="Bot">"Bot"</string>
+    <string name="You">"Ty"</string>
+    <string name="This_player_is_a_bot">"Tento hráč je bot"</string>
+    <string name="This_player_is_not_signed_in">"Tento hráč není přihlášen."</string>
+
+    <string name="Online">"Online"</string>
+    <string name="Unknown">"Neznámý"</string>
+    <string name="Offline">"Offline"</string>
+    <string name="Achievement_Earned">"Úspěch Dosažený"</string>
+    <string name="REFRESH">"OBNOVIT"</string>
+    <string name="DONE">"HOTOVO"</string>
+    <string name="Friend_Request_Sent">"Žádost o Přátelství Odeslána"</string>
+    <string name="ERROR">"CHYBA"</string>
+    <string name="CONTINUE">"POKRAČOVAT"</string>
+    <string name="Global_" formatted="false">"Globální"</string>
+    <string name="FRIEND_CHAT">"CHAT S PŘÍTELEM"</string>
+    <string name="LOBBY_NAME">"JMÉNO LOBBY"</string>
+    <string name="NULL">"NEPLATNÝ"</string>
+
+
+    <string name="ALL">"VŠE"</string>
+    <string name="FFA">"FFA"</string>
+    <string name="FFA_TIME">"FFA NA ČAS"</string>
+    <string name="TEAMS">"TÝMY"</string>
+    <string name="TEAMS_TIME">"TÝMY NA ČAS"</string>
+    <string name="CTF">"CTF"</string>
+    <string name="SURVIVAL">"PŘEŽITÍ"</string>
+
+
+    <string name="Clan_XP">"Klanové XP"</string>
+
+
+    <string name="Dot_Nibbler">"Tečko ujídač"</string>
+    <string name="Dot_Muncher">"Tečko žvýkač"</string>
+    <string name="Dot_Eater">"Tečko jedlík"</string>
+    <string name="Dot_Gulper">"Tečko hltač"</string>
+    <string name="Dot_Gobbler">"Tečko hltoun"</string>
+    <string name="Dot_Devourer">"Tečko hltoun"</string>
+    <string name="Dot_Gormandizer">"Tečko hltavec"</string>
+    <string name="Dot_Sommelier">"Tečko ochutnávač"</string>
+
+    <string name="Quadra_Gulp">"Dvojitá jednohubka"</string>
+    <string name="Multi_Gulp">"Mnoho jednohubka"</string>
+    <string name="Mega_Gulp">"Mega jednohubka"</string>
+    <string name="Ultra_Gulp">"Ultra jednohubka"</string>
+    <string name="Monster_Gulp">"Monster jednohubka"</string>
+    <string name="Ludicrous_Gulp">"Absurdní jednohubka"</string>
+
+    <string name="Blobicide">"Blobicide"</string>
+    <string name="Blobtrocity">"Blobtrocity"</string>
+    <string name="Blobaccre">"Blobaccre"</string>
+    <string name="Blobastrophe">"Blobastrophe"</string>
+    <string name="Blobihilation">"Blobihilation"</string>
+    <string name="Blobageddon">"Blobageddon"</string>
+    <string name="Blobocalypse">"Blobocalypse"</string>
+
+    <string name="Experienced_Nebulator">"Zkušený Nebulátor"</string>
+    <string name="Expert_Nebulator">"Expert Nebulátor"</string>
+    <string name="Master_Nebulator">"Mistr Nebulátor"</string>
+    <string name="Grand_Master_Nebulator">"Velmistr Nebulátor"</string>
+    <string name="Impossible">"Nemožné"</string>
+
+    <string name="Perfection">"Dokonalost"</string>
+    <string name="Single_Handedly">"Bez Pomoci"</string>
+    <string name="Dodgey">"Uhýbač"</string>
+    <string name="Self_Contained">"Soběstačný"</string>
+    <string name="Survivalist">"Přeživší"</string>
+    <string name="Ultramassive">"Ultramasivní"</string>
+    <string name="Rapid_Ascension">"Rychlý Vzestup"</string>
+    <string name="Revenge">"Pomsta"</string>
+    <string name="Doge_Pound">"Psí Drcení"</string>
+
+    <string name="Absorb_50_dots">"Sněz 50 teček"</string>
+    <string name="Absorb_300_dots">"Sněz 300 teček"</string>
+    <string name="Absorb_1_000_dots">"Sněz 1.000 teček"</string>
+    <string name="Absorb_5_000_dots">"Sněz 5.000 teček"</string>
+    <string name="Absorb_10_000_dots">"Sněz 10.000 teček"</string>
+    <string name="Absorb_50_000_dots">"Sněz 50.000 teček"</string>
+    <string name="Absorb_100_000_dots">"Sněz 100.000 teček"</string>
+    <string name="Absorb_1_000_000_dots">"Sněz 1.000.000 teček"</string>
+
+    <string name="Absorb_4_blobs_quickly">"Rychle sněz 4 bloby"</string>
+    <string name="Absorb_8_blobs_quickly">"Rychle sněz 8 blobů"</string>
+    <string name="Absorb_16_blobs_quickly">"Rychle sněz 16 blobů"</string>
+    <string name="Absorb_24_blobs_quickly">"Rychle sněz 24 blobů"</string>
+    <string name="Absorb_32_blobs_quickly">"Rychle sněz 32 blobů"</string>
+    <string name="Absorb_40_blobs_quickly">"Rychle sněz 40 blobů"</string>
+
+    <string name="Absorb_8_player_blobs_without_restarting">"Sněz 8 blobů hráčů bez restartování"</string>
+    <string name="Absorb_16_player_blobs_without_restarting">"Sněz 16 hráčových blobů bez restartování"</string>
+    <string name="Absorb_32_player_blobs_without_restarting">"Sněz 32 hráčových blobů bez restartování"</string>
+    <string name="Absorb_48_player_blobs_without_restarting">"Sněz 48 hráčových blobů bez restartování"</string>
+    <string name="Absorb_80_player_blobs_without_restarting">"Sněz 80 hráčových blobů bez restartování"</string>
+    <string name="Absorb_160_player_blobs_without_restarting">" Sněz 160 hráčových blobů bez restartování"</string>
+    <string name="Absorb_240_player_blobs_without_restarting">"Sněz 240 hráčových blobů bez restartování"</string>
+
+    <string name="Reach_a_score_of_1_000">"Dosáhni skóre 1.000"</string>
+    <string name="Reach_a_score_of_5_000">"Dosáhni skóre 5.000"</string>
+    <string name="Reach_a_score_of_10_000">"Dosáhni skóre 10.000"</string>
+    <string name="Reach_a_score_of_15_000">"Dosáhni skóre 15.000"</string>
+    <string name="Reach_a_score_of_20_000">"Dosáhni skóre 20.000"</string>
+
+    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Dosáhni skóre 10.000 bez ztráty blobu"</string>
+    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Dosáhni skóre 5.000, aniž by došlo k rozdělení nebo vyjmutí"</string>
+    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Hraj 5 minut, aniž by ses srazil s černou dírou"</string>
+    <string name="Play_5_minutes_straight_without_losing_any_blobs">"Hraj 5 minut bez ztráty blobu"</string>
+    <string name="Play_20_minutes_straight_without_restarting">"Hraj 20 minut bez restartování"</string>
+    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"Přijmi 5 supermasivních černých děr během 30 sekund od startu"</string>
+    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Dosáhni skóre 5.000 do 1 minuty od startu"</string>
+    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Střel černou díru do posledního hráče, který střelil černou díru do vás před restartováním"</string>
+    <string name="Absorb_5_doges_without_restarting">"Sněz 5 psích skinů bez nutnosti restartovat"</string>
+
+    <string name="Friends">"Přátelé"</string>
+    <string name="Dots_Eaten_">"Snězených teček:"</string>
+    <string name="Blobs_Eaten_">"Snězených blobů:"</string>
+    <string name="Blobs_Lost_">"Ztracených blobů:"</string>
+    <string name="Mass_Gained_">"Získaná hmota:"</string>
+    <string name="Mass_Ejected_">"Vyjmutá hmota:"</string>
+    <string name="Times_Ejected_">"Počet rozstřelení:"</string>
+    <string name="Times_Split_">"Počet rozdělení:"</string>
+    <string name="Biggest_Blob_">"Největší Blob:"</string>
+    <string name="Highest_Score_">"Nejvyšší Skóre:"</string>
+    <string name="Average_Score_">"Průměrné Hodnocení:"</string>
+    <string name="Times_Played_">"Hráno:"</string>
+    <string name="Longest_Life_">"Nejdelší Život:"</string>
+    <string name="Games_Won_">"Vyhrané Hry:"</string>
+
+    <string name="You_must_wait_until_the_end_of_the_round_">"Musíte počkat do konce kola"</string>
+    <string name="Dont_show_again">"Znovu neukazovat"</string>
+    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Nalezena záloha single-player statistiky s vyšší XP. Chcete obnovit zálohu?"</string>
+
+    <string name="Special_Effects">"Zvláštní Efekty"</string>
+    <string name="Blob_Mushiness">"Efekty Blobů"</string>
+
+    <string name="Specify_private_game_name">"Zadejte název soukromé hry"</string>
+    <string name="In_Game_Chat">"Chat ve Hře"</string>
+    <string name="My_Status_">"Můj Status:"</string>
+    <string name="Game_Size_">"Velikost Hry:"</string>
+
+    <string name="Server_Restart_">"Restartování Serveru:"</string>
+    <string name="GOAL_">"GÓL!"</string>
+    <string name="SOCCER">"FOTBAL"</string>
+    <string name="DRAW">"REMÍZA"</string>
+
+    <string name="Clan_Name">"Jméno Klanu"</string>
+    <string name="Clan">"Klan"</string>
+
+
+    <string name="JOIN_CLAN">"PŘIPOJIT SE DO KLANU"</string>
+    <string name="JOIN_RANDOM_CLAN">"PŘIPOJIT SE K NÁHODNEMU KLANU"</string>
+    <string name="LEAVE_CLAN">"OPUSTIT KLAN"</string>
+    <string name="INVITE_MEMBER">"POZVAT HRÁČE"</string>
+    <string name="REMOVE_MEMBER">"ODSTRANĚNÍ ČLENA"</string>
+
+
+    <string name="CREATE_CLAN">"VYTVOŘ KLAN"</string>
+    <string name="MEMBER">"ČLEN"</string>
+    <string name="ADMIN">"ADMIN"</string>
+    <string name="LEADER">"VŮDCE"</string>
+    <string name="ELDER">"ELDER"</string>
+
+
+    <string name="Not_in_a_clan_">"Není v klanu."</string>
+
+
+    <string name="CLAN">"KLAN"</string>
+
+
+    <string name="Specify_Clan_ID">"Zadejte Klan ID"</string>
+    <string name="Show_Clan_Names">"Zobrazit Klanová Jména"</string>
+    <string name="Show_Levels">"Zobrazit Úrovně"</string>
+    <string name="SET_MOTD">"ULOŽIT POPISEK"</string>
+    <string name="No_such_user_found_">"Žádný takový uživatel nebyl nalezen."</string>
+    <string name="No_open_public_clans_exist_">"Žádné otevřené, veřejné klany neexistují."</string>
+    <string name="You_aren_t_invited_to_that_clan_">"Nejste pozváni do tohoto klanu."</string>
+    <string name="No_such_clan_exists_">"Žádný takový klan neexistuje."</string>
+    <string name="That_clan_is_full_">"Tento klan je plný."</string>
+    <string name="Other_user_is_not_a_member_of_your_clan_">"Jiný uživatel není členem vašeho klanu."</string>
+    <string name="_You_can_t_be_your_own_friend_">"Nemůžeš být svůj vlastní přítel."</string>
+    <string name="A_clan_with_that_name_already_exists_">"Klan s tímto názvem již existuje."</string>
+    <string name="Duration_">"Trvání:"</string>
+
+    <string name="FFA_Time_Domination">"FFA Na Čas Nadvláda"</string>
+    <string name="Teams_Time_Domination">"Týmy Na Čas Nadvláda"</string>
+    <string name="CTF_Domination">"CTF Nadvláda"</string>
+    <string name="CTF_Hat_Trick">"CTF Hattrick"</string>
+    <string name="Survival_Domination">"Přežití Nadvláda"</string>
+    <string name="I_Will_Survive">"Přežiji"</string>
+    <string name="Soccer_Domination">"Fotbal Nadvláda"</string>
+    <string name="Soccer_Hat_Trick">"Fotbal Hattrick"</string>
+    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Získej 2.500 bodů v FFA Na Čas hře."</string>
+    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Získej 7.500 bodů s týmem v Týmech na čas"</string>
+    <string name="Win_by_3_points_in_a_CTF_game_">"Vyhraj o 3 body v CTF hře."</string>
+    <string name="Score_3_points_in_a_single_CTF_game_">"Získej 3 body v jedné CTF hře."</string>
+    <string name="Win_by_2_500_points_in_a_Survival_game_">"Získej 2.500 bodů ve Hře o Přežití."</string>
+    <string name="Survive_but_do_not_win_a_survival_game_">"Přežij, ale nevyhraj Hru o Přežití"</string>
+    <string name="Win_by_8_points_in_a_Soccer_game_">"Vyhrajte o 8 bodů ve hře Fotbal."</string>
+    <string name="Score_3_goals_in_a_single_Soccer_game_">"Dej 3 góly během jednoho fotbalového zápasu."</string>
+    <string name="Total_Domination">"Totální Nadvláda"</string>
+    <string name="Win_500_games_of_any_type_">"Vyhraj 500 her libovolného typu."</string>
+    <string name="Translations">"Překlady"</string>
+    <string name="Developers">"Vývojáři"</string>
+    <string name="Special_Thanks">"Speciálni Poděkování"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Děkujeme Moc Všem Fanouškům Nebulous"</string>
+    <string name="Color_Blind">"Barvoslepý"</string>
+    <string name="Daily_Quest_Complete_">"Denní úkol dokončen!"</string>
+    <string name="COPY_ID">"KOPÍRUJ ID"</string>
+    <string name="My_Account_ID">"ID Mého Účtu"</string>
+
+
+    <string name="COMPLETE">"KOMPLETNÍ"</string>
+    <string name="INCOMPLETE">"NEÚPLNÝ"</string>
+    <string name="Win_a_FFA_Time_Game">"Vyhraj FFA Na Čas"</string>
+    <string name="Win_a_CTF_Game">"Vyhraj CTF hru"</string>
+    <string name="Win_a_Soccer_Game">"Vyhraj Fotbal"</string>
+    <string name="Win_a_Survival_Game">"Vyhraj Hru o Přežití"</string>
+    <string name="Win_a_Teams_Time_Game">"Vyhraj Týmy Na Čas"</string>
+    <string name="Reach_a_score_of_">"Dosáhni skóre "</string>
+    <string name="_in_a_FFA_Game">" v FFA Hře"</string>
+    <string name="_in_a_Teams_Game">" v Týmové Hře"</string>
+    <string name="_dots">" tečky"</string>
+    <string name="_player_blobs">" bloby hráče"</string>
+    <string name="Absorb_">"Absorbovat "</string>
+    <string name="Collect_">"Sbírat "</string>
+
+    <string name="FFA_CLASSIC">"FFA KLASICKÝ"</string>
+
+
+    <string name="pumpkins_">"dýně."</string>
+    <string name="To_use_this_skin_you_must_collect">"Chcete-li použít tento skin, musíte sesbírat"</string>
+    <string name="Australia">"Austrálie"</string>
+    <string name="Pumpkin_Collector">"Dýňový sběrač"</string>
+    <string name="Collect_1000_pumpkins_">"Sesbírej 1000 dýní."</string>
+
+    <string name="FFAC">"FFAK"</string>
+    <string name="NONE">"ŽÁDNÝ"</string>
+    <string name="CLAN_WAR">"KLANOVÉ VÁLKY"</string>
+    <string name="Clan_War">"Klanové Války"</string>
+
+    <string name="Forming">"Tvoření"</string>
+    <string name="Searching">"Vyhledávání"</string>
+    <string name="In_Progress">"Probíha"</string>
+
+    <string name="Wins">"Vítězství"</string>
+
+    <string name="Score">"Skóre"</string>
+    <string name="Rating">"Hodnocení"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"Chystáte se vytvořit nového vůdce!"</string>
+    <string name="XP">"XP"</string>
+    <string name="High_Score">"Vysoké Skóre"</string>
+
+
+    <string name="_3v3">"3v3"</string>
+    <string name="_5v5">"5v5"</string>
+    <string name="_8v8">"8v8"</string>
+    <string name="Top_Ranks">"Nejvyšší Pozice"</string>
+    <string name="My_Ranks">"Moje Pozice"</string>
+    <string name="Player_XP">"Hráčské XP"</string>
+
+    <string name="W_D_L">"V-R-P"</string>
+    <string name="MATCH_START">"ZÁPAS ZAČAL"</string>
+    <string name="Clan_Warrior">"Klanový Bojovník"</string>
+    <string name="Win_a_Clan_War">"Vyhrajte Válku Klanů"</string>
+    <string name="Global">"Globální"</string>
+    <string name="Spectating">"Sledování"</string>
+
+
+    <string name="snowflakes_">"sněhové vločky."</string>
+    <string name="presents_">"dárky."</string>
+    <string name="Snowflake_Collector">"Sběrač Vloček"</string>
+    <string name="Present_Collector">"Sběrač Dárků"</string>
+
+
+    <string name="Season">"Sezóna"</string>
+    <string name="The_next_season_begins">"Příští sezóna začíná"</string>
+
+    <string name="Current">"Aktuální"</string>
+    <string name="leaves_">"listy."</string>
+    <string name="Leaf_Collector">"sběrač listí"</string>
+    <string name="Collect_1000_leaves_">"Sesbírej 1.000 listů."</string>
+    <string name="XP_Boost">"XP Zesílení"</string>
+    <string name="Double">"Dvojnásobek"</string>
+    <string name="Hour">"Hodina"</string>
+    <string name="Hours">"Hodiny"</string>
+
+
+    <string name="Triple">"Trojnásobný"</string>
+    <string name="Leaf_Hoarder">"Listový Chamtivec"</string>
+    <string name="Collect_5000_leaves_">"Sesbírej 5000 listů."</string>
+
+
+    <string name="Arena">"Aréna"</string>
+    <string name="Enter_the_Arena">"Vstoupit do Arény"</string>
+
+
+    <string name="Purchase_History">"Historie Nákupů"</string>
+
+    <string name="Purchases_Unavailable_">"Nákupy nejsou k Dispozici!"</string>
+    <string name="You_can_purchase_this_skin_for">"Můžete si koupit tento skin za"</string>
+    <string name="PURCHASE">"NÁKUP"</string>
+    <string name="Error_in_backup_data_">"Chyba v zálohování dat!"</string>
+
+
+    <string name="Remove_Ads">"Odstranit Reklamy"</string>
+    <string name="Reward">"Odměna"</string>
+    <string name="Please_Wait___">"Prosím, čekejte…"</string>
+    <string name="Purchasing">"Nakupování"</string>
+
+    <string name="Purchase_Successful_">"Nákup Úspěšný."</string>
+    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Možná se budeš muset znovu připojit pro použití nákupu."</string>
+    <string name="Confirm_Purchase">"Potvrdit Nákup"</string>
+    <string name="x3_XP_24_hours">"3x XP 24 hodin"</string>
+    <string name="x3_XP_1_Hour">"3x XP 1 hodina"</string>
+    <string name="x2_XP_24_Hour">"2x XP 24 hodin"</string>
+    <string name="x2_XP_1_Hour">"2x XP 1 hodina"</string>
+    <string name="Cost_">"Cena:"</string>
+    <string name="You_cannot_purchase_this_right_now_">"Nemůžeš to koupit právě teď."</string>
+
+
+    <string name="Loading_Purchases___">"Načítání Nákupů …"</string>
+    <string name="In_App_Purchases">"Nákupy v Aplikaci"</string>
+    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Nemůžeš použít nové XP zesílení, dokud nevyprší to současné."</string>
+    <string name="This_purchase_has_already_been_redeemed_">"Tento nákup byl již zakoupen."</string>
+
+    <string name="You_cannot_remove_yourself__Leave_clan_instead_">"Nemůžeš vyhodit sám sebe z klanu."</string>
+
+
+    <string name="until">"až do"</string>
+    <string name="New_Message_">"Nová Zpráva!"</string>
+    <string name="Seasonal">"Sezónní"</string>
+
+
+    <string name="Temporarily_Disabled_">"Dočasně Zakázáno."</string>
+    <string name="BIGGEST">"NEJVĚTŠÍ"</string>
+
+
+    <string name="Copy_ID">"KOPÍRUJ ID"</string>
+    <string name="View_Profile">"Ukaž profil"</string>
+    <string name="Send_Message">"Poslat zprávu"</string>
+
+    <string name="Account_ID">"ID Účtu"</string>
+    <string name="Player_Name">"Jméno Hráče"</string>
+    <string name="Daily_Reward">"Denní Odměna"</string>
+    <string name="Reset">"Obnovit"</string>
+    <string name="Plasma">"Plazma"</string>
+    <string name="Plasma_Mogul">"Plazma Magnát"</string>
+    <string name="Plasma_Collector">"Plazma Sběrač"</string>
+    <string name="Plasma_Hoarder">"Plazmový Chamtivec"</string>
+    <string name="Collect_1_000_Plasma">"Sesbírej 1.000 plazmy."</string>
+    <string name="Collect_10_000_Plasma_">"Sesbírej 10.000 plazmy."</string>
+    <string name="Collect_100_000_Plasma">"Sesbírej 100.000 plazmy."</string>
+    <string name="Plasma_Collected_">"Plazmy Sesbíráno:"</string>
+    <string name="Plasma_Purchases">"Plazmové Nákupy"</string>
+
+    <string name="ENTER">"Vstoupit"</string>
+    <string name="_1v1">"1v1"</string>
+    <string name="Practice">"Praxe"</string>
+    <string name="ArenaDescription">"Máš jen jeden život. Vítěz získá %s plazmy."</string>
+    <string name="Contestant">"Soutěžící"</string>
+    <string name="Duelist">"Duelista"</string>
+    <string name="Gladiator">"Gladiátor"</string>
+    <string name="Challenger">"Vyzývatel"</string>
+    <string name="Win_1_1v1_Arenas_">"Vyhrajte jednu 1v1 Arénu."</string>
+    <string name="Win_10_Arenas_">"Vyhrajte 10 Arén."</string>
+    <string name="Win_100_Arenas_">"Vyhrajte 100 Arén."</string>
+    <string name="Win_1000_Arenas">"Vyhrajte 1000 Arén."</string>
+
+
+    <string name="Already_in_arena_">"Jste v aréně."</string>
+    <string name="Already_in_queue_">"Jste ve frontě."</string>
+    <string name="Invalid_Account_ID_">"Neplatné ID účtu."</string>
+
+    <string name="Validating">"Ověření"</string>
+
+    <string name="Randomize">"Náhodně"</string>
+
+    <string name="Harassment">"Obtěžování"</string>
+
+    <string name="_2v2">"2v2"</string>
+
+
+    <string name="Standard">"Normalní"</string>
+    <string name="Achievement">"Úspěch"</string>
+    <string name="Flag">"Vlajka"</string>
+    <string name="Win_10_Clan_Wars">"Vyhraj 10 Klanových Válek"</string>
+    <string name="Win_100_Clan_Wars">"Vyhraj 100 Klanových Válek"</string>
+    <string name="Clan_Commander">"Velitel Klanu"</string>
+    <string name="Clan_General">"Generál Klanu"</string>
+    <string name="Clan_Wars_Won_">"Vyhráno klanových válek:"</string>
+    <string name="Arenas_Won_">"Vyhráno arén:"</string>
+    <string name="Arena_Mode">"Aréna Režim"</string>
+    <string name="Connection_Lost">"Spojení Ztraceno"</string>
+
+    <string name="Present_Hoarder">"Dárkový Chamtivec"</string>
+    <string name="Present_Mogul">"Dárkový Magnát"</string>
+    <string name="Collect_1_000_presents_">"Sesbírej 1.000 dárků."</string>
+    <string name="Collect_5_000_presents_">"Sesbírej 5.000 dárků."</string>
+    <string name="Collect_10_000_presents_">"Sesbírej 10.000 dárků."</string>
+    <string name="Loading_reward_video___">"Načítání videa…"</string>
+    <string name="Progress">"Pokrok"</string>
+    <string name="Snowflake_Hoarder">"Chamtivec Sněhových vloček "</string>
+    <string name="Snowflake_Mogul">"Magnát Sněhových vloček "</string>
+    <string name="Collect_1_000_snowflakes_">"Sesbírej 1.000 sněhových vločkek."</string>
+    <string name="Collect_5_000_snowflakes_">"Sesbírej 5.000 sněhových vločkek."</string>
+    <string name="Collect_10_000_snowflakes_">"Sesbírej 10.000 sněhových vloček."</string>
+    <string name="Show_All">"Ukázat Vše"</string>
+
+    <string name="SET_PERMISSIONS">"NASTAVIT POVOLENÍ"</string>
+    <string name="Start_Clan_War">"Začít válku klanů"</string>
+    <string name="Min_Level">"Minimální Úroveň"</string>
+    <string name="SAVE">"ULOŽIT"</string>
+    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Tento hráč nesplňuje požadavek na minimální úroveň, aby se připojil do klanu:"</string>
+    <string name="Insufficient_Permission">"Nedostatečná Oprávnění"</string>
+    <string name="DOMINATION">"NADVLÁDA"</string>
+    <string name="DOM_Domination">"Dominant Nadvlády"</string>
+    <string name="DOM_Hat_Trick">"Nadvláda Hetrik"</string>
+    <string name="Win_by_50_points_in_a_DOM_game_">"Vyhraj s 50 bodmi ve hře Nadvláda."</string>
+    <string name="Score_33_points_in_a_single_DOM_game_">"Získej 33 bodů v jedné Nadvládě."</string>
+    <string name="Win_a_Domination_Game">"Vyhrajte Nadvládu"</string>
+    <string name="Select_Team">"Vybrat Tým"</string>
+    <string name="MANAGE_TEAMS">"SPRAVOVAT TÝMY"</string>
+    <string name="CLAN_INVITE">"POZVÁNKA KLANU"</string>
+    <string name="TEAM_INVITE">"POZVÁNKA TÝMU"</string>
+    <string name="Team_Size">"Velikost Týmu"</string>
+    <string name="Team_Name">"Jméno Týmu"</string>
+    <string name="CREATE_TEAM">"VYTVOŘIT TEAM"</string>
+    <string name="Solo">"Sólo"</string>
+    <string name="Teams">"Týmy"</string>
+    <string name="Team">"Tým"</string>
+    <string name="Specify_Account_ID">"Zadejte ID Účtu"</string>
+    <string name="Team_Created_">"Tým Vytvořen!"</string>
+    <string name="Team_Arena">"Týmová Aréna"</string>
+    <string name="No_Teams">"Žádné Týmy"</string>
+    <string name="team_arena_info">"Jakmile si vytvoříš tým můžeš pozvat a odstranit členy zdarma. Mužeš také hrát týmy zdarma v aréně. Nemůžeš změnit název tvého týmu, jakmile je vytvořen!"</string>
+
+
+    <string name="Invited">"Pozván"</string>
+    <string name="Invitation_Sent">"Pozvání odesláno"</string>
+    <string name="REPORT">"NAHLÁSIT"</string>
+    <string name="Reported">"Nahlášen"</string>
+    <string name="Threats">"Výhružky"</string>
+    <string name="Spam">"Spam"</string>
+    <string name="Other">"Ostatní"</string>
+    <string name="Leave_Team">"Opustit Tým"</string>
+
+    <string name="Remove_Player">"Odstranit Hráče"</string>
+    <string name="Reject_Invitation">"Zamítnout Pozvání"</string>
+    <string name="Leave_Game">"Opustit Hru"</string>
+    <string name="Remove_Friend">"Odstranit Přítele"</string>
+    <string name="Remove_Clan_Member">"Odstranit Člena Klanu"</string>
+    <string name="Flag_lobby_as_inappropriate">"Nahlásit místnost jako nevhodnou"</string>
+    <string name="Promote_Clan_Member">"Povíšit Člena Klanu"</string>
+    <string name="Leave_Clan">"OPUSTIT KLAN"</string>
+    <string name="Candy_Hoarder">"Bonbónový Chamtivec"</string>
+    <string name="Candy_Collector">"Bonbónový Sběratel"</string>
+    <string name="Candy_Mogul">"Bonbónový Magnát"</string>
+    <string name="Collect_1_000_candies_">"Sesbírej 1.000 bonbónů"</string>
+    <string name="Collect_5_000_candies_">"Sesbírej 5.000 bonbónů"</string>
+    <string name="Collect_10_000_candies_">"Sesbírej 10.000 bonbónů"</string>
+    <string name="candies_">"bonbóny"</string>
+    <string name="Language">"Jazyk"</string>
+    <string name="Control_Opacity_">"Průhlednost joysticku:"</string>
+    <string name="You_dont_own_the_team_">"Nevlastníte tým:"</string>
+    <string name="User_has_already_been_invited_">"Uživatel byl již pozván."</string>
+    <string name="Maximum_players_allowed_on_the_team_">"Maximum hráčů v týmu:"</string>
+    <string name="Name_is_already_in_use_">"Jméno je již používáné."</string>
+    <string name="User_is_not_in_the_team_">"Uživatel není v týmu."</string>
+    <string name="You_are_not_invited_to_team_">"Nejste pozvání do týmu:"</string>
+    <string name="Team_does_not_exist_">"Tým neexistuje"</string>
+    <string name="Please_wait_a_minute_before_sending_another_report_">"Prosím chvíly počkejte před dalším nahlášením."</string>
+    <string name="Collect_1_000_beads_">"Sesbírej 1.000 korálků."</string>
+    <string name="Collect_5_000_beads_">"Sesbírej 5.000 korálků."</string>
+    <string name="Collect_10_000_beads_">"Sesbírej 10.000 korálků."</string>
+    <string name="Bead_Collector">"Korálkový Sběratel"</string>
+    <string name="Bead_Hoarder">"Korálkový Chamtivec"</string>
+    <string name="Bead_Mogul">"Korálkový Magnát"</string>
+    <string name="beads_">"korálky."</string>
+
+    <string name="Rejoin_Game">"Připojit se znova"</string>
+    <string name="PRIZES">"CENY"</string>
+
+    <string name="Enable_Custom_Skin">"Aktivovat Vlastní Skin"</string>
+    <string name="Use_Custom_Skin">"Použít Vlastní Skin"</string>
+    <string name="custom_skin_description">"Tato funkce umožňuje používat svůj profilový obrázek nebo soubor jako skin. Tím se změní pouze kulička, kterou vidíte. Ostatní lidé nebudou vidět váš skin."</string>
+    <string name="CUSTOM_SKIN">"VLASTNÍ SKIN"</string>
+
+    <string name="Facebook_Profile">"Facebook Profil"</string>
+    <string name="You_must_be_signed_in_to_Facebook_">"Musíte být přihlášeni k Facebooku."</string>
+    <string name="copy_details">"zkopírovat detaily"</string>
+    <string name="copied_error_details_to_clipboard">"podrobnosti o chybě byly zkopírovány do schránky"</string>
+
+    <string name="No_file_browser_installed_">"Není nainstalován žádný prohlížeč souborů!"</string>
+    <string name="Choose_File">"Vyberte Soubor"</string>
+    <string name="Google_Profile">"Google Profil"</string>
+    <string name="You_must_be_signed_in_to_Google_">"Musíte být přihlášeni do Googlu."</string>
+
+
+    <string name="MAYHEM">"MAYHEM"</string>
+    <string name="eggs_">"vajíčka."</string>
+    <string name="Egg_Collector">"Vajíčkový Sběratel"</string>
+    <string name="Egg_Hoarder">"Vajíčkový Chamtivec"</string>
+    <string name="Egg_Mogul">"Vajíčkový Magnátl"</string>
+    <string name="Collect_1_000_eggs_">"Sesbírej 1.000 vajíček."</string>
+    <string name="Collect_5_000_eggs_">"Sesbírej 5.000 vajíček."</string>
+    <string name="Collect_10_000_eggs_">"Sesbírej 10.000 vajíček."</string>
+    <string name="HISTORY">"HISTORIE"</string>
+    <string name="CLAN_HISTORY">"HISTORIE KLANU"</string>
+
+
+    <string name="Love_Nebulous_">"Miluješ Nebulous?"</string>
+    <string name="Please_support_Nebulous_by_rating_it_">"Prosím podpoř Nebulous, pomocí hodnocení."</string>
+    <string name="MAYHEM_MODE">"MAYHEM MÓD"</string>
+    <string name="Times_Teleported_">"Počet teleportací:"</string>
+    <string name="Powerups_Used_">"Powerupů použito:"</string>
+    <string name="Power_Hungry">"Super Hladový"</string>
+    <string name="Over_9000">"Přes 9000"</string>
+    <string name="Omnipresence">"Všudypřítomnost"</string>
+
+    <string name="Shoot_9001_Powerups">"Vystřel 9001 Powerupů"</string>
+    <string name="Teleport_100_Times">"Teleportuj se 100x"</string>
+    <string name="Shoot_20_Powerups_Without_Restarting">"Vystřel 20 powerupů bez restartování hry"</string>
+    <string name="Request_Timed_Out">"Vypršel časový limit žádosti"</string>
+    <string name="You_Are_Spectating_">"Díváš se."</string>
+    <string name="Account_In_Use_">"Účet je používán právě teď!"</string>
+    <string name="Cannot_Join_Arena_">"Nelze se připojit do arény!"</string>
+    <string name="Signing_out_will_disconnect_you_from_the_current_game">"Odhlášení z účtu vás odpojí od aktuální hry!"</string>
+    <string name="raindrops_">"dešťové kapky."</string>
+    <string name="Raindrop_Collector">"Sběratel Dešťových kapek"</string>
+    <string name="Raindrop_Hoarder">"Chamtivec Dešťových kapek"</string>
+    <string name="Raindrop_Mogul">"Magnát Dešťových kapek"</string>
+    <string name="Collect_1_000_raindrops_">"Sesbírej 1.000 dešťových kapek."</string>
+    <string name="Collect_5_000_raindrops_">"Sesbírej 5.000 dešťových kapek."</string>
+    <string name="Collect_10_000_raindrops_">"Sesbírej 10.000 dešťových kapek."</string>
+    <string name="Copy_Message">"Zkopírovat Zprávu"</string>
+    <string name="Copied_to_clipboard_">"Zkopírováno do schránky."</string>
+    <string name="COPY_NAME">"ZKOPÍROVAT JMÉNO"</string>
+    <string name="Challenge_Sent">"Výzva Odeslána"</string>
+    <string name="_1v1_Challenge_">"1v1 Výzva!"</string>
+    <string name="__has_challenged_you_to_a_1v1_match_">"%s tě vyzval k 1v1 zápasu!"</string>
+    <string name="Challenge_Expired">"Výzva Vypršela"</string>
+    <string name="Enable_Challenges">"Aktivovat Výzvy"</string>
+    <string name="Wait_for_the_current_challenge_to_expire_">"Počkej než aktuální výzva vyprší."</string>
+    <string name="CHALLENGE_OPTIONS">"MOŽNOSTI VÝZVY"</string>
+    <string name="Accept">"Přijmout"</string>
+    <string name="Decline">"Zamítnout"</string>
+    <string name="Challenge_Declined">"Výzva Zamítnuta"</string>
+    <string name="Spectators_">"Diváků:"</string>
+    <string name="Nebula_Collector">"Sběratel Mlhovin"</string>
+    <string name="Nebula_Hoarder">"Chamtivec Mlhovin"</string>
+    <string name="Nebula_Mogul">"Magnát Mlhovin"</string>
+    <string name="Collect_1_000_nebulas_">"Sesbírej 1.000 mlhovin."</string>
+    <string name="Collect_5_000_nebulas_">"Sesbírej 5.000 mlhovin."</string>
+    <string name="Collect_10_000_nebulas_">"Sesbírej 10.000 mlhovin."</string>
+    <string name="nebulas_">"mlhovin."</string>
+    <string name="Incompatible_versions_">"Nekompatibilní verze."</string>
+    <string name="Update_Available_">"K dispozici je nova aktualizace!"</string>
+    <string name="VIEW_INVITES">"SHLÉDNOUT POZVÁNKY"</string>
+    <string name="CLAN_INVITES">"KLANOVÉ POZVÁNKY"</string>
+    <string name="Cancel_Invitation">"Zrušit Pozvánku"</string>
+    <string name="DOWNLOAD">"STÁHNOUT"</string>
+    <string name="REJECT_ALL_FRIEND_INVITATIONS_">"ODMÍTNOUT VŠECHNY POZVÁNKY O PŘÁTELSTVÍ!"</string>
+    <string name="suns_">"sluncí."</string>
+    <string name="Sun_Collector">"Sběratel Sluncí"</string>
+    <string name="Sun_Hoarder">"Chamtivec Sluncí"</string>
+    <string name="Sun_Mogul">"Magnát Sluncí"</string>
+    <string name="Collect_1_000_suns_">"Sesbírej 1.000 sluncí."</string>
+    <string name="Collect_5_000_suns_">"Sesbírej 5.000 sluncí."</string>
+    <string name="Collect_10_000_suns_">"Sesbírej 10.000 sluncí."</string>
+    <string name="Reward_Videos_">"Odměny za Videa!"</string>
+    <string name="Free_Plasma_">"Plazma zdarma!"</string>
+    <string name="moons_">"měsíce."</string>
+    <string name="Moon_Collector">"Měsíční Sběratel"</string>
+    <string name="Moon_Hoarder">"Měsíční Chamtivec"</string>
+    <string name="Moon_Mogul">"Měsíční Magnát"</string>
+    <string name="Collect_1_000_moons_">"Sesbírej 1.000 měsíců."</string>
+    <string name="Collect_5_000_moons_">"Sesbírej 5.000 měsíců."</string>
+    <string name="Collect_10_000_moons_">"Sesbírej 10.000 měsíců."</string>
+    <string name="BLUETOOTH">"BLUETOOTH"</string>
+    <string name="HOST">"HOSTITEL"</string>
+    <string name="This_device_does_not_support_bluetooth_">"Toto zařízení nepodporuje Bluetooth."</string>
+    <string name="member_permissions">"oprávnění členů"</string>
+    <string name="edit">"upravit"</string>
+    <string name="start_clan_war">"začít válku klanů"</string>
+    <string name="join_clan_war">"připojit se do války klanů"</string>
+    <string name="none">"žádný"</string>
+    <string name="INVALID_TOKEN">"NEPLATNÝ TOKEN!"</string>
+    <string name="banned_until">"zabanován do "</string>
+    <string name="Note_Collector">"Notový Sběratel"</string>
+    <string name="Note_Hoarder">"Notový Chamtivec"</string>
+    <string name="Note_Mogul">"Notový Magnát"</string>
+    <string name="Collect_1_000_notes_">"Sesbírej 1,000 not."</string>
+    <string name="Collect_5_000_notes_">"Sesbírej 5,000 not."</string>
+    <string name="Collect_10_000_notes_">"Sesbírej 10.000 not."</string>
+    <string name="notes_">"noty."</string>
+    <string name="CLICK_CHEAT_DETECTED_">"ZJIŠTĚNO PODVÁDĚNÍ!"</string>
+    <string name="Pumpkin_Hoarder">"Dýňový Chamtivec"</string>
+    <string name="Pumpkin_Mogul">"Dýňový Magnát"</string>
+    <string name="Leaf_Mogul">"Listový Magnát"</string>
+    <string name="Collect_5000_pumpkins_">"Sesbírej 5.000 dýní."</string>
+    <string name="Collect_10000_pumpkins_">"Sesbírej 10.000 dýní."</string>
+    <string name="Collect_10000_leaves_">"Sesbírej 10.000 listů."</string>
+    <string name="Eject">"Vystřelit"</string>
+    <string name="Eject_Skin">"Skin Pro Vystřelení"</string>
+    <string name="Double_Plasma__">"Dvojnásobek Plazmy!!"</string>
+    <string name="Ends">"Končí"</string>
+    <string name="Select_Clan_Member">"Vyberte Člena Klanu"</string>
+    <string name="Inappropriate_Skin">"Nevhodný Skin"</string>
+    <string name="Approved">"Schválen"</string>
+    <string name="Rejected">"Zamítnut"</string>
+    <string name="Refunded">"Vrácen"</string>
+
+
+    <string name="contribution_warning">"Jste si jisti, že chcete přispět tuto plazmu? Toto rozhodnutí je nevratné!"</string>
+    <string name="Upload">"Nahrát"</string>
+    <string name="upload_warning">"Jste si jisti, že chcete nahrát tento skin? Ostatní hráči budou moci vidět tento skin. Může to trvat až jeden týden, dokud bude váš skin prozkoumán. Nevhodné skiny budou odmítnuty a nebude vám vrácena plazma!"</string>
+
+    <string name="In_Review">"Přezkoumávání…"</string>
+    <string name="Account_Uploads">"Nahráno z Účtu"</string>
+    <string name="Clan_Uploads">"Nahráno z Klanu"</string>
+    <string name="Empty">"Prázdný"</string>
+    <string name="Select">"Vybrat"</string>
+    <string name="Current_Skin">"Aktuální Skin"</string>
+    <string name="Status">"Postavení"</string>
+    <string name="upload_size_failure">"Nepodařilo se nahrát tento obrázek, protože je příliš velký. Zkuste prosím jiný obrázek."</string>
+    <string name="CONTRIBUTE_PLASMA">"PŘISPĚT PLAZMU"</string>
+    <string name="Specify_Contribution_Amount">"Určete částku přispětí"</string>
+    <string name="Clan_Contribution">"Klanový Příspěvek"</string>
+    <string name="FILTER">"FILTR"</string>
+    <string name="List_Count_">"Počet Seznamů:"</string>
+    <string name="Download_Skins">"Stáhnout Skiny"</string>
+    <string name="ARENA_HISTORY">"HISTORIE ARÉNY"</string>
+    <string name="WIN">"Vyhrajte"</string>
+    <string name="LOSS">"Prohra"</string>
+    <string name="Other_players_can_not_see_your_skin_">"Ostatní hráči nemohou vidět váš skin."</string>
+    <string name="Other_players_can_see_your_skin_">"Ostatní hráči mohou vidět váš skin."</string>
+    <string name="LEGEND">"LEGENDA"</string>
+    <string name="Win_10000_Arenas">"Vyhraj 10.000 Arén"</string>
+    <string name="UPLOAD_PREVIEW">"NAHRÁT NÁHLED"</string>
+    <string name="Transparency">"Průhlednost"</string>
+    <string name="upload_info">"Můžete dosáhnout lepší kvalitu bez průhlednosti, nebo s jednoduchými obrázky."</string>
+    <string name="Compression_Quality_">"Kvalita Komprese:"</string>
+    <string name="inapproriate_info">"Nevhodný skin je ten, který zahrnuje jakoukoliv nenávist, krev, obscénnosti, násilí, drogy, sex, nahota, celoplošný nalíčení, nesrozumitelnosti a nemodifikované mlhavé skiny."</string>
+    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Jste si jisti, že chcete nahrát tento skin?"</string>
+    <string name="Grant_Permission">"Udělit povolení"</string>
+    <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous potřebuje oprávnění úložiště pro zálohování vašeho singlu!"</string>
+    <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous potřebuje oprávnění lokace pro nalezení jiného zařízení Bluetooth v okolí."</string>
+    <string name="FFA_ULTRA">"FFA ULTRA"</string>
+    <string name="FFAU">"FFAU"</string>
+    <string name="_in_a_FFAU_Game">"v FFA ULTRA hře"</string>
+
+    <string name="BANNED_PLAYERS">"ZABANOVANÍ HRÁČI"</string>
+    <string name="MAIL">"DOPIS"</string>
+    <string name="WRITE_MAIL">"NAPSAT DOPIS"</string>
+    <string name="Days">"Dny"</string>
+    <string name="Message">"Zpráva"</string>
+    <string name="Subject">"Předmět"</string>
+    <string name="SEND">"POSLAT"</string>
+    <string name="To">"Pro"</string>
+    <string name="RESET">"RESTART"</string>
+    <string name="Message_Sent_">"Zpráva Odeslána!"</string>
+    <string name="From">"Od"</string>
+    <string name="Sent">"Posláno"</string>
+    <string name="REPLY">"ODPOVĚĎ"</string>
+    <string name="Delete_Message">"Smazat Zprávu"</string>
+    <string name="BLOCK">"ZABLOKOVAT"</string>
+    <string name="DELETE">"VYMAZAT"</string>
+    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Poznámka: Můžeš odblokovat někoho, když mu pošleš žádost o přátelství."</string>
+    <string name="Select_Friend">"Vybrat Přítele"</string>
+    <string name="Failed_to_send_mail_">"Nepodařilo se odeslat dopis."</string>
+    <string name="In_Game_Mail">"Mail ve Hře"</string>
+    <string name="Nav_Buttons_">"Navigační Tlačítka:"</string>
+    <string name="account_warning">"Nikdy nesdílejte heslo svého účtu, nebo osobní údaje s kýmkoli z jakéhokoliv důvodu!"</string>
+    <string name="Clan_Hero">"Klanový Hrdina"</string>
+    <string name="Win_1000_Clan_Wars">"Vyhraj 1.000 Klanových válek"</string>
+    <string name="NAME_COLOR">"BARVA JMÉNA"</string>
+    <string name="name_color_instructions">"Vyberte znaky, které chcete změnit a poté vyberte barvu, kterou chcete nastavit."</string>
+    <string name="Cannot_change_this_character_">"Tento znak nelze změnit"</string>
+    <string name="ZOMBIE_APOCALYPSE">"ZOMBIE APOKALYPSA"</string>
+    <string name="Survive_a_Zombie_Apocalypse">"Přežíj Zombie Apokalypsu"</string>
+    <string name="ZA">"ZA"</string>
+    <string name="Pandemic">"Pandemický"</string>
+    <string name="Immunity">"Imunita"</string>
+    <string name="Win_as_zombies_in_2_minutes_or_less_">"Vyhrajte jako zombíci do 2 nebo méně minut."</string>
+    <string name="Win_as_survivors_with_no_losses_">"Vyhrajte jako přeživší bez žádné ztráty."</string>
+    <string name="ZOMBIE_">"ZOMBÍ!"</string>
+    <string name="SURVIVOR_">"PŘEŽIVŠÍ!"</string>
+    <string name="Zombies">"Zombíci"</string>
+    <string name="Survivors">"Přeživší"</string>
+    <string name="Enter_a_Tournament">"Vstup Do Turnaje"</string>
+    <string name="Win_a_Tournament">"Vyhraj Turnaj"</string>
+    <string name="Tournament_Competing">"Turnaj Souteží"</string>
+    <string name="Tournament_Registered">"Přihlášen do Turnaje"</string>
+    <string name="Tournament">"Turnaj</string>
+    <string name="TourneyDescription">"Musíte se zaregistrovat, pokud chcete hrát v turnaji. Bude vám účtována plazma při startu turnaje, ale můžete zrušit registraci před tím, než začne turnaj. Minimální počet soutěžících na zahájení turnaje je %d."</string>
+    <string name="Register">"Registrovat"</string>
+
+    <string name="Registered">"Registrován"</string>
+    <string name="Not_Registered">"Neregistrován"</string>
+    <string name="Prize_Pool">"Výherní Ceny"</string>
+    <string name="Registrants">"Registrováni"</string>
+    <string name="Round_Of">"Kolo"</string>
+    <string name="Next_Tournament">"Následujíci Turnaj"</string>
+    <string name="Plasma_Won">"Vyhráno Plazmy"</string>
+    <string name="Semi_Finals">"Semifinále"</string>
+    <string name="Quarter_Finals">"Čtvrtfinále"</string>
+    <string name="Competing">"Soutěžit"</string>
+    <string name="Finals">"Finále"</string>
+    <string name="Unregister">"Zrušení Registrace"</string>
+    <string name="Enter_My_Match">"Vstoupit do mého zápasu"</string>
+    <string name="Starts_In">"Začíná o"</string>
+    <string name="Seconds">"Sekund"</string>
+    <string name="Tournaments_Temporarily_Disabled">"Turnaje jsou dočasně zakázány"</string>
+    <string name="CLAN_NAME_COLOR">"BARVA JMÉNA KLANU"</string>
+    <string name="Tuber">"YouTubeři"</string>
+    <string name="youtube_prompt">"Chceš navštívit tento Nebulous YouTube kanál? Tyto YouTubové kanály nejsou nijak spojeni s lidma, kteří vytvořili Nebulous."</string>
+    <string name="Tournament_Matches_Won_">"Výhry v Turnaji:"</string>
+    <string name="PAINT">"MALOVÁNÍ"</string>
+    <string name="BLOCKED_ACCOUNTS">"ZABLOKOVANÉ ÚČTY"</string>
+    <string name="UNBLOCK">"ODBLOKOVAT"</string>
+    <string name="Emotes">"Smajlíci"</string>
+    <string name="Support">"Podpora"</string>
+    <string name="Already_Blocked">"Zablokován"</string>
+    <string name="Cannot_block_more_than_x_accounts_">"Nemůžeš zablokovat více než %d účtů."</string>
+    <string name="This_is_you_">"Toto jsi ty."</string>
+    <string name="Win_a_Paint_Game">"Vyhraj Hru Malování"</string>
+    <string name="Whiteout">"Běloba"</string>
+    <string name="Speed_Painter">"Rychlý Malíř"</string>
+    <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"Vyhraj Hru Malování, tak, že ostatní protihráči budou mít 0 skóre."</string>
+    <string name="Win_a_Paint_game_in_60_seconds_or_less_">"Vyhraj Malovací Hru do 60 sekund a méně."</string>
+    <string name="Autoclick">"Autoklik"</string>
+    <string name="Autoclick_24_Hours">"Autoklik na 24 Hodin"</string>
+    <string name="Autoclick_1_Hour">"Autoklik na 1 Hodinu"</string>
+    <string name="Ultraclick_24_Hours">"Ultraklik na 24 Hodin"</string>
+    <string name="Ultraclick_1_Hour">"Ultraklik na 1 Hodinu"</string>
+    <string name="Ultraclick">"Ultraklik"</string>
+    <string name="May_Reduce_Lag">"Může Zmírnit Lagy"</string>
+    <string name="Ultraclick_Permanent">"Ultraclick Natrvalo"</string>
+    <string name="Autoclick_Permanent">"Autoclick Natrvalo"</string>
+    <string name="x3_XP_Permanent">"3x XP Natrvalo"</string>
+    <string name="x2_XP_Permanent">"2x XP Natrvalo"</string>
+    <string name="Permanent">"Trvalý"</string>
+    <string name="Apply_To_Account">"Aplikovat Na Účet"</string>
+    <string name="Spin_">"Roztočit!"</string>
+    <string name="Next_Spin">"Další Roztočení"</string>
+    <string name="Wheel_Of_Nebulous_">"Kolo Nebulous!"</string>
+    <string name="XP_2x">"XP 2x"</string>
+    <string name="XP_3x">"XP 3x"</string>
+    <string name="NOW">"TEĎ"</string>
+    <string name="Team_Deathmatch_Domination">"Týmový Souboj Na Smrt Dominance"</string>
+    <string name="We_Will_Survive">"My Přežijeme"</string>
+    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Vyhraj alespoň s 5 hráči v Hře Týmový Souboj Na Smrt."</string>
+    <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"Přežij, ale nevyhraj Týmový Souboj Na Smrt."</string>
+    <string name="Win_a_Team_Deathmatch_Game">"Vyhraj hru Týmový Souboj Na Smrt"</string>
+    <string name="TEAM_DEATHMATCH">"TÝMOVÝ SOUBOJ NA SMRT"</string>
+    <string name="Speed_Click_Toggle">"Rychlost tlačítka pro vystřelení"</string>
+    <string name="MOD">"MOD"</string>
+    <string name="FAQ">Nejčastější Dotazy</string>
+    <string name="BUY_EXTRA_SPINS">KUP SI BONUSOVÝ ROZTOČENÍ</string>
+    <string name="Spins_Remaining">Zbývajíci Roztočení</string>
+    <string name="One_Spin">Jedno Roztočení (1)</string>
+    <string name="Bundle_of_Spins">Svazek Roztočení (10)</string>
+    <string name="Plethora_of_Spins">Plejáda Roztočení (50)</string>
+    <string name="SIGN_OUT_ALL_DEVICES">ODHLÁSIT SE ZE VŠECH ZAŘÍZENÍ</string>
+    <string name="Tournament_Forming">Formovaní Turnaje</string>
+    <string name="TeamTourneyDescription">Ty a tvůj spoluhráč musíte být zaregostrovaní, abyste mohli hrát Týmový Turnaj. Oba zaplatíte určitou částku plazmy, když Turnaj začne, ale můžete se odregistrovat z něj ještě před tím než začne. Na zahájení Turnaje je třeba mít alespoň %d hráčů.</string>
+    <string name="Free_Agent">Free Agent</string>
+    <string name="This_player_selected_a_different_teammate_">Tento hráč si vybral jiného spoluhráče.</string>
+    <string name="muted_until">Ztlumen do </string>
+    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Hraní Hry pro více hráčů může změnit hodnocení aplikace.</string>
+    <string name="UI_Opacity_">Průhlednost uživatelského rozhraní</string>
+    <string name="LOAD">NAČÍST</string>
+    <string name="REMOVE">ODSTRANIT</string>
+    <string name="BAN">BAN</string>
+    <string name="MODERATORS">MODERATOŘI</string>
+    <string name="ALL_CLAN">VŠICHNI ČLENOVÉ KLANU</string>
+    <string name="CO_LEADER">SPOLUVEDOUCÍ</string>
+    <string name="CLAN_HOUSE">KLANOVÝ DŮM</string>
+
+    <string name="ROOM">MÍSTNOST</string>
+    <string name="EXPERIMENTAL">EXPERIMENTÁLNÍ</string>
+    <string name="members">Členové</string>
+    <string name="Delete_ALL_Messages_">Odstranit Všechny Zprávy!</string>
+    <string name="SAVE_PROFILE">ULOŽIT PROFIL</string>
+    <string name="Move">Pohnout se</string>
+    <string name="New_Position">Nová Pozice</string>
+    <string name="ALLIANCES">SPOJENECTVÍ</string>
+    <string name="ENEMIES">NEPŘÁTELÉ</string>
+    <string name="NEW_ALLIANCE">NOVÉ SPOJENECTVÍ</string>
+    <string name="NEW_ENEMY">NOVÝ NEPŘÁTEL</string>
+    <string name="CLAN_RELATIONS">KLANOVÉ VZTAHY</string>
+    <string name="Clan_XP_Boost">Klan XP Zesilnení</string>
+    <string name="x3_Clan_XP_7_days">3x Klan XP na 7 Dnů</string>
+    <string name="x3_Clan_XP_1_Day">3x Klan XP na 1 Den</string>
+    <string name="x2_Clan_XP_1_Day">2x Klan XP na 1 Den</string>
+    <string name="Pets">Mazlíčci</string>
+    <string name="Pet">Mazlíček</string>
+    <string name="You_can_purchase_this_pet_for">Můžeš si koupit tohto Mazlíčka za</string>
+    <string name="gift_to_friend">Darovat příteli</string>
+    <string name="gift_purchase_warning">Neobdržíte tento nákup, protože jste se to rozhodl koupit kamarádovi.</string>
+    <string name="x2_Clan_XP_7_Days">2x Klan XP na 7 Dní</string>
+    <string name="RECEIVED">PŘIJATO</string>
+    <string name="SENT">ODESLÁNO</string>
+    <string name="Enable_Invites">Povolit Pozvánky</string>
+    <string name="Game_Invitation">Herní Pozvánky</string>
+    <string name="__has_invited_you_to_join_their_game_">%s tě pozval, aby jsi se přidal do jeho hry!</string>
+    <string name="Invitation_declined_">Pozvánka odmítnuta!</string>
+    <string name="Invitation_accepted_">Pozvánka příjmuta!</string>
+    <string name="Invitation_expired_">Pozvánka vypršela!</string>
+    <string name="Wait_for_the_current_invitation_to_expire_">Počkej, dokud vyprší platnost aktuální pozvánky..</string>
+    <string name="BLOB_COLOR">BARVA BLOBU</string>
+    <string name="ENABLED">POVOLENO</string>
+    <string name="Enable_Custom_Blob_Color">Povolit Vlastní Barvu Blobu</string>
+    <string name="Choose_Menu">Vyber si Menu</string>
+    <string name="SPECTATE">SLEDOVAT</string>
+    <string name="INVITE">POZVAT</string>
+    <string name="error_1">Jen vůdce nebo jeho věrnej kamarád (diamond) může poslat klan mail.</string>
+    <string name="Hat">Čepice</string>
+    <string name="Hats">Čepice</string>
+    <string name="Pet_Uploads">Tvoji Mazlíčci</string>
+    <string name="BLOB">BLOB</string>
+    <string name="Clan_Pet_Uploads">Klanový Mazlíčci</string>
+    <string name="YT">YT</string>
+    <string name="FREE_TODAY">DNES ZDARMA!</string>
+    <string name="Cannot_cancel_this_skin_yet_">Tento skin nelze zatím zrušit.</string>
+    <string name="SPLIT_16X">ROZPOLCENÝ 16x</string>
+    <string name="SET_PUBLIC_DESCRIPTION">NASTAVIT VEŘEJNÝ POPISEK</string>
+    <string name="SET_NOTE">NASTAVIT POZNÁMKU</string>
+    <string name="enable_notifications">Povolit oznámení</string>
+    <string name="PROMOTE_MEMBER">POVÍŠIT ČLENA</string>
+    <string name="DEMOTE_MEMBER">DEGRADOVAT ČLENA</string>
+    <string name="HAPPY_BIRTHDAY_">ŠŤASTNÉ NEBULOUS NAROZENINY!</string>
+    <string name="Years">Let</string>
+    <string name="Friend_Added_">Přítel Přidaný!</string>
+    <string name="_in_a_16x_Split_Game">v hre Rozpolcený 16x</string>
+    <string name="Rules">Pravidla</string>
+    <string name="Blob_Chat_Bubbles">Chatovací Bubliny Blobu</string>
+    <string name="CHRISTMAS_ADVENT_SKINS">SKINY VÁNOČNÍHO ADVENTU</string>
+    <string name="You_cannot_open_this_present_yet_">Zatím nemůžeš otevřít tento dárek!</string>
+    <string name="Open_Present">Otevřít Dárek</string>
+    <string name="OPEN">OTEVŘÍT</string>
+    <string name="Halo">Svatozář</string>
+    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Aby si mohl použít tuto svatozář, musíš být alespoň level %1$s a získat %2$s úspěchů."</string>
+    <string name="Halos">Svatozáře</string>
+    <string name="CAMPAIGN">KAMPAŇ</string>
+    <string name="Mission">Mise</string>
+    <string name="Kill_All_Bots">Zabijte Všechny Boty</string>
+    <string name="Survive">Přežijte</string>
+    <string name="Mission_d_Complete">Mise %d Ukončena!</string>
+    <string name="Mission_d_Failed">Mise %d Selhala!</string>
+    <string name="Next_Mission">Další Mise</string>
+    <string name="Objective">Cíl</string>
+    <string name="GAME">HRA</string>
+    <string name="Saved_">Uložené!</string>
+    <string name="Name_Opacity_">Průhlednost Měna:</string>
+    <string name="SET_PROFILE_PIC">NASTAVIT PROFILOVÝ OBRÁZEK</string>
+    <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">PŘIJMOUT VŠECHNY POZVÁNKY O PŘÁTELSTVÍ!</string>
+    <string name="App_Perf_Stats">Statistiky Výkonu Aplikace</string>
+    <string name="COPY">KOPÍROVAT</string>
+    <string name="_1v1_Ultra">1v1 Ultra</string>
+    <string name="ArenaDescriptionUltra">Vítěz dostane %s plazmy.</string>
+    <string name="BANNED">ZABANOVÁN</string>
+    <string name="CLAN_MEMBERS">ČLENOVÉ KLANU</string>
+    <string name="CLAN_REQUESTS">KLAN ŽÁDOSTI</string>
+    <string name="Pet_1">Mazlíček 1</string>
+    <string name="Pet_2">Mazlíček 2</string>
+    <string name="Second_Pet">Umožňuje mít dva mazlíčci najednou!</string>
+    <string name="This_item_requires">Tato položka vyžaduje</string>
+    <string name="not_enough_plasma">Nedostatek plazmy.</string>
+    <string name="MARK_UNREAD">OZNAČIT JAKO NEPŘEČTENÉ</string>
+    <string name="ROYALE_DUO">ROYALE DUO</string>
+    <string name="Choose_Partner">Vybrat Spoluhráče</string>
+    <string name="REMOVE_FRIEND">ODSTRANIT PŘÍTELE</string>
+    <string name="Creator">Tvůrce</string>
+    <string name="PROFILE_COLOR">BARVA PROFILU</string>
+    <string name="Enable_Colors">Povolit Barvy</string>
+    <string name="Particles">Částice</string>
+    <string name="Clan_Particle_Uploads">Klanový Částice</string>
+    <string name="Particle_Uploads">Tvoji Částice</string>
+    <string name="Blob_Outline">Obrys Blobu</string>
+    <string name="Game_Border">Ohraničení Hry</string>
+    <string name="Select_some_text_first">Označ nejdříve nějaký text</string>
+    <string name="Save_the_profile_first">Ulož nejdříve profil</string>
+    <string name="Birthday">Narozeniny</string>
+    <string name="Mass_Boost">Zesílení Hmoty</string>
+
+    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Zesílení Hmoty nefunguje v arénách, turnajích a klanových válkach!</string>
+
+    <string name="ArenaDescriptionPure">Žádný autoklik nebo ultraklik. Máš pouze jeden život. Vítěz dostane %s plazmy.</string>
+    <string name="_1v1_Pure">Poctivý 1v1</string>
+    <string name="Allow_Ultraclick">Povolit Ultraklik</string>
+    <string name="Allow_Mass_Boost">Povolit Zesílení Hmoty</string>
+    <string name="Challenges_Won_">Vyhraných Výzev:</string>
+    <string name="trophy_info">Trofeje se udělují na konci každé sezóny arén nebo týmových arén za První, Druhé nebo Třetí místo. Trofeje se udělují pouze v aktivních regionech s velkým množstvím hráčů.</string>
+    <string name="BLOCKED">ZABLOKOVÁN</string>
+    <string name="CLAN_WAR_HISTORY">HISTORIE KLANOVÝCH VÁLEK</string>
+    <string name="Particle">Částice</string>
+    <string name="Privacy">Soukromí</string>
+    <string name="EULA">EULA</string>
+    <string name="You_can_purchase_this_hat_for">Můžeš si koupit tuto Čepici za</string>
+    <string name="You_can_purchase_this_particle_for">Můžeš si koupit tuto Částici za</string>
+    <string name="You_can_purchase_this_eject_skin_for">Můžeš si koupit tento Skin Pro Vystřelení za</string>
+    <string name="Skin">Skin</string>
+    <string name="Custom_Skin">Vlastní Skin</string>
+    <string name="Color">Barva</string>
+    <string name="RECENT_PLAYERS">NEDÁVNÍ HRÁČI</string>
+    <string name="POSITION_CONTROL_STICK">"POZICE OVLADAČE"</string>
+    <string name="POSITION_SPLIT_BUTTON">POZICE ROZDĚLOVACÍHO TLAČÍTKA</string>
+    <string name="POSITION_EJECT_BUTTON">POZICE VYSTŘELOVACÍHO TLAČÍTKA</string>
+    <string name="POSITION_EJECT_TOGGLE_BUTTON">POZICE VYSTŘELOVACÍHO TLAČÍTKA NA PŘEPÍNANÍ</string>
+    <string name="WIFI">WIFI</string>
+    <string name="JOIN_IP">PŘIPOJIT SE K IP</string>
+    <string name="Specify_Host_IP">Zadejte IP Hostitele</string>
+    <string name="ADVANCED_SETUP">POKROČILÉ NASTAVENÍ</string>
+    <string name="WORLD_CUP_EVENT___">SVĚTOVÝ POHÁR!!!</string>
+    <string name="world_cup_event_description">Dvojité XP a Dvojitá Plazma ve hře Fotbal, až do konce Světového poháru!</string>
+    <string name="GIF_Skins">GIF Skiny</string>
+    <string name="PLAY_ONLINE_">HRÁT ONLINE!</string>
+    <string name="Absorb_10_000_000_dots">Sněz 10.000.000 teček</string>
+    <string name="Dot_Deity">Božstvo Teček</string>
+    <string name="Mass_Mastery">Panství Hmoty</string>
+    <string name="Gain_100_000_000_mass">Získej 100.000.000 hmoty</string>
+    <string name="VET">VET</string>
+    <string name="Mute">Ztlumit</string>
+    <string name="Unmute">Vypnout Ztlumení</string>
+    <string name="Community">Komunita</string>
+    <string name="Buy">Koupit</string>
+    <string name="Sell">Prodat</string>
+    <string name="community_skin_requirement">Pokud chcete používat komunitní skiny, musíte si koupit Aktivaci Vlastního Skinu.</string>
+    <string name="You_can_purchase_this_community_skin_for_">Můžeš si koupit tento komunity skin za</string>
+    <string name="VIEW_UPLOADER">PROHLÉDNOUT VLASTNÍKA</string>
+    <string name="POPULAR">POPULÁRNÍ</string>
+    <string name="NEW">NOVÉ</string>
+    <string name="Manage_Configurations">Upravit Konfigurace</string>
+    <string name="Leave_blank_for_all_uploaders_">Nechte prázdné pro všechny vlastníky.</string>
+    <string name="More___">Více…</string>
+    <string name="This_cannot_be_used_in_FFA_Classic_">Toto nelze použít v FFA Klasik.</string>
+    <string name="ENEMY">NEPŘÍTEL</string>
+    <string name="ALLY">SPOJENEC</string>
+    <string name="Rename">Přejmenovat</string>
+    <string name="Set_friendly_name_">Nastavit přátelské jméno.</string>
+    <string name="Leave_blank_for_none_">Nechte prázdné.</string>
+    <string name="Vote_Kick">Vyhodit Hráče</string>
+    <string name="FONT">PÍSMO</string>
+    <string name="CIRCLE">KRUŽNICE</string>
+    <string name="SQUARES">ČTVERCE</string>
+    <string name="TRICK_MODE">TRIK MÓD</string>
+    <string name="ICE_SPLIT">ICE SPLIT</string>
+    <string name="TRICK_SPLIT">TRICK SPLIT</string>
+    <string name="POP_SPLIT">POP SPLIT</string>
+    <string name="PUSH_SPLIT">PUSH SPLIT</string>
+    <string name="Level_Colors">Level Barvy</string>
+    <string name="click_info">Autoklik / Ultraklik nefungují v FFA Klasik!</string>
+    <string name="Hooked">Zaháknutí</string>
+    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Musíte být tažen hákovým výstřelem po dobu 10 sekund</string>
+    <string name="Pack">Balíček</string>
+    <string name="Skin_Pack">Skin Balíček</string>
+    <string name="SKIN_PACK">SKIN BALÍČEK</string>
+    <string name="HALLOWEEN">HALLOWEEN</string>
+
+    <string name="pack_info">Po zakoupení tohoto balíčku skinů se vaše exkluzivní skiny zobrazí v horní části výběru skinů.</string>
+
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">EXKLUZIVNÍ Skiny, Mazlíčci, Čepice a Více!</string>
+    <string name="BUY_NOW_">KOUPIT NYNÍ!</string>
+    <string name="already_purchased">Vy nebo osoba, které toto kupujete, už tuto položku vlastníte.</string>
+    <string name="Halo_Animations">Animace Svatozáře</string>
+    <string name="Trick_Notifications">Trik Oznámení</string>
+    <string name="Channel">Kanál</string>
+    <string name="Choose_Text_Size">Vybrat Velikost Textu</string>
+    <string name="LEVEL_COLOR">LEVEL BARVA</string>
+    <string name="INITIATE">ZAČÁTEČNÍK</string>
+    <string name="x3_Clan_XP_Perm">3x Klan XP Natrvalo!</string>
+    <string name="x2_Clan_XP_Perm">2x Klan XP Natrvalo!</string>
+    <string name="Japan">Japonsko</string>
+    <string name="South_Korea">Jižní Korea</string>
+    <string name="Asia">Asie</string>
+    <string name="SET_PRIVACY">NASTAVIT SOUKROMÍ</string>
+    <string name="ANIMATION">ANIMACE</string>
+    <string name="Color_Cycle">Barva Cyklu</string>
+    <string name="Fast">Rychle</string>
+    <string name="Slow">Pomalu</string>
+    <string name="Rainbow">Duha</string>
+    <string name="Horizontal">Horizontální</string>
+    <string name="Vertical">Vertikální</string>
+    <string name="GROUP">SKUPINA</string>
+    <string name="LEAVE">ODEJÍT</string>
+    <string name="Group">Skupina</string>
+    <string name="Not_in_a_group_">Nejsi ve skupině.</string>
+    <string name="Failed">Selhalo</string>
+    <string name="Failed_to_join">Připojení selhalo</string>
+    <string name="Full">Plno</string>
+    <string name="Tricks_Performed_">Provedených Triků:</string>
+    <string name="Not_enough_plasma_">Nedostatek plazmy!</string>
+    <string name="GET_PLASMA">ZÍSKAT PLAZMU</string>
+    <string name="ASTEROIDS">ASTEROIDS</string>
+    <string name="CHRISTMAS">VÁNOCE</string>
+    <string name="Reason">Důvod</string>
+    <string name="PUBLIC">VEŘEJNÉ</string>
+    <string name="PRIVATE">SOUKROMÉ</string>
+    <string name="Joined">Připojen</string>
+    <string name="Requests">Žádosti</string>
+    <string name="Invites">Pozvánky</string>
+    <string name="Show_Spectator_Count">Ukázat Počet Diváků</string>
+    <string name="TRY_IT_">VYZKOUŠET!</string>
+    <string name="You_need_to_buy_a_pack_to_use_this_">Pokud toto chcete vyzkoušet, musíte si koupit balíček.</string>
+    <string name="GET_PACK">ZÍSKAT BALÍČEK</string>
+    <string name="Position_in_queue">Pozice v řadě</string>
+    <string name="PROFILE_MENU_BACKGROUND_COLOR">BARVA POZADÍ PROFILOVÉHO MENU</string>
+    <string name="DARK_MATTER">DARK MATTER</string>
+    <string name="Textures_will_be_regenerated_">Černé textury a vlastní skiny se obnoví.</string>
+    <string name="Enable_Profile_Colors">Povolit Barvy Profilu</string>
+    <string name="Session_Stats">Statistiky Hraní</string>
+    <string name="Time_">Čas:</string>
+    <string name="Show_Session_Stats">Ukázat Statistiky Hraní</string>
+    <string name="VALENTINES_DAY">"VALENTÝN"</string>
+    <string name="Giveaways_">Dárky!</string>
+    <string name="Max_XP_Chain_">Maximální XP Řetězec:</string>
+    <string name="POSITION_CANCEL_BUTTON">POZICE RUŠÍCIHO TLAČÍTKA</string>
+    <string name="INVISIBILITY">INVISIBILITY</string>
+    <string name="Set_Skin">Nastavit Skin</string>
+    <string name="Primary">Primární</string>
+    <string name="Secondary">Sekundární</string>
+    <string name="Both">Oba</string>
+
+    <string name="Enable__Multiskin">"Povolit Multiskin"</string>
+    <string name="MULTISKIN">MULTISKIN</string>
+    <string name="DISABLED">DEAKTIVOVAT</string>
+
+    <string name="Refund__Multiskin">Vrácení plazmy za Multiskin</string>
+    <string name="Invalid_Clan_ID_">Neplatné ID Klanu.</string>
+    <string name="MUTED">ZTLUMEN</string>
+    <string name="SKIN">SKIN</string>
+    <string name="Choose_Skin_Size">Vybrat Velikost Skinu</string>
+    <string name="Other_players_will_not_be_able_to_hear_you_">Ostatní hráči vás nebudou moci slyšet!</string>
+    <string name="Allow_permission_to_enable_voice_recording_">Povolit oprávnění pro aktivaci zvukového záznamu.</string>
+    <string name="voice_chat_prompt">Obsah hodnocení aplikace se může změnit s aktivací zvukového záznamu. Pro lepší zvuk použijte sluchátka.</string>
+    <string name="Only_leader_can_answer_requests_">Na žádosti může reagovat pouze vůdce.</string>
+    <string name="Sent_request_not_invited_">Žádost odeslaná (zatím nejste pozván).</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">ODSTRANIT SKIN Z KOMUNITY!</string>
+    <string name="This_cannot_be_undone_">Tento krok nelze vrátit zpět!</string>
+    <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Shlédnite video a získejte dočasné zesílení na %d životů!</string>
+    <string name="WATCH_VIDEO_">SHLÉDNOUT VIDEO!</string>
+    <string name="PERMANENT_BOOSTS">ZESÍLENÍ NA TRVALO</string>
+    <string name="Video_failed_to_load_">Video se nepodařilo načíst!</string>
+    <string name="Video_Ready_">Video Připraveno!</string>
+    <string name="GIVE_PLASMA">DAROVAT PLAZMU</string>
+    <string name="Specify_amount_">Uveďte částku:</string>
+    <string name="Specify_amount_again_to_confirm_">Opětovně uveďte částku pro potvrzení:</string>
+    <string name="Amounts_did_not_match_">Částky se neshodují!</string>
+    <string name="RECEIVE_PLASMA">PŘIJMOUT PLAZMU</string>
+    <string name="MULTIBLOB">MULTIBLOB</string>
+    <string name="Play_Nebulous_For_1_Year_">Hrajte Nebulous 1 Rok!</string>
+    <string name="Play_Nebulous_For_X_Years_">Hrajte Nebulous %d Let!</string>
+    <string name="Starting___">Zahajování…</string>
+    <string name="Tournament_Starting">Turnaj se Začíná</string>
+    <string name="Max_Tilt_Angle_3D_">Maximální úhel sklonu 3D:</string>
+    <string name="Mode_3D">3D Režim</string>
+    <string name="Names_Below_Blobs">Jména Pod Bloby</string>
+    <string name="Name_Scale_">"Rozpětí Jména:"</string>
+    <string name="Button_3D">3D Tlačítko</string>
+    <string name="Hide_Button_">Skrýt Tlačítko?</string>
+    <string name="Show_Boost_Button">Zobrazit Tlačítko Na Zesílení</string>
+    <string name="Spectate_Killer_On_Death">Po smrti sledovat hráče, který vás zabil</string>
+    <string name="Rainbow_Holes">Barevné Díry</string>
+    <string name="LIFE_STEAL">LIFE STEAL</string>
+    <string name="Kicked_From_Game_">Vyhozen z Hry!</string>
+    <string name="Conquest">Dobytí</string>
+    <string name="Finish_the_last_mission_in_the_campaign_">Dokončete poslední misi v Kampani.</string>
+    <string name="Collected_">Sesbírano:</string>
+    <string name="Collisions_">Kolize:</string>
+    <string name="Absorbed_">Snězeno:</string>
+    <string name="team_warning">Týmování s hráčem, který není ve vašem týmu, bude mít za následek ban!</string>
+    <string name="Search_Filter">Vyhledávací Filtr</string>
+    <string name="Received_">Přijato:</string>
+    <string name="Opponent_Rating_Limit_">Protivníků Limit Hodnocení:</string>
+    <string name="TOGGLE_FAVORITE">PŘEPNOUT NA OBLÍBENÉ</string>
+    <string name="Favorited">Oblíbené</string>
+    <string name="Unfavorited">Odebrat z Oblíbených</string>
+    <string name="Background_Scale_">Rozpětí Pozadí:</string>
+    <string name="Background_Lightness_">Jasnost Pozadí:</string>
+    <string name="Background_Image_">Obrázek Pozadí:</string>
+    <string name="INVERT_SELECTION">OBRÁTIT VÝBĚR</string>
+    <string name="MINIMAP">MINIMAP</string>
+    <string name="Victorious">Triumfální</string>
+    <string name="Dominant">Dominantní</string>
+    <string name="Champion">Šampion</string>
+    <string name="Win_10_Tournaments">Vyhraj 10 Turnajů</string>
+    <string name="Win_100_Tournaments">Vyhraj 100 Turnajů</string>
+    <string name="HERO">HRDINA</string>
+    <string name="CHAMPION">ŠAMPION</string>
+    <string name="DASH">DASH</string>
+    <string name="setting_changed">Nastavení aktualizováno. Možná bude nutné se znovu připojit k serveru, aby se projevila změna.</string>
+    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Proveď 10.000 triků v Trik Mód hře.</string>
+    <string name="Tricky">Trikmistr</string>
+    <string name="SUPPORTER">VIP</string>
+    <string name="CONQUEROR">DOBYVATEL</string>
+    <string name="TRICKY">TRIKMISTR</string>
+    <string name="x4_XP_Permanent">4x XP Natrvalo</string>
+    <string name="x4_XP_24_hours">4x XP 24 Hodin</string>
+    <string name="x4_XP_1_Hour">4x XP 1 Hodinu</string>
+    <string name="Quad">Čtyřnásobný</string>
+    <string name="Middle_East">Střední Východ</string>
+    <string name="XP_4x">XP 4x</string>
+    <string name="You_cannot_play_for_x_minutes_">Nemůžete hrát %d minut.</string>
+    <string name="x4_Clan_XP_Perm">4x Klan XP Natrvalo!</string>
+    <string name="x4_Clan_XP_7_days">4x Klan XP 7 Dnů.</string>
+    <string name="x4_Clan_XP_1_Day">4x Klan XP 1 Den.</string>
+    <string name="CHARGE_UP">CHARGE UP</string>
+    <string name="CLAN_DESCRIPTION_COLOR">BARVA POPISKU KLANU</string>
+    <string name="Responsible_Pet_Owner">Zodpovědný Majitel Mazlíčků</string>
+    <string name="Animal_Tamer">Krotitel Zvířat</string>
+    <string name="Crocodile_Hunter">Lovec Krokodýlů</string>
+    <string name="Get_A_Pet_To_Level_X_">Dosáhni Level %d s Mazlíčkem.</string>
+    <string name="plasma_boost_info">"Získáte třikrát plazmu ze všech her, dokud je Zesílení aktivní! Toto zahrnuje i výhry v Aréně a Turnaji! Nefunguje v případě Plazma Nákupů, Kole Nebulous nebo speciálních odměn!"</string>
+    <string name="Plasma_Boost_7_Days_">Plazma Zesílení 7 Dnů.</string>
+    <string name="Plasma_Boost_1_Day_">Plazma Zesílení 1 Den.</string>
+    <string name="Plasma_Boost_2_Hours_">Plazma Zesílení 2 Hodiny.</string>
+    <string name="Plasma_Boost">Plazma Zesílení</string>
+    <string name="particle_info">Musíte být alespoň level 50 a použít základní skin s částicemi, abyste mohli vidět nějaké částice.</string>
+    <string name="Plain_Score_Text">"Obyčejný Bodový Text"</string>
+    <string name="Custom_Skin_Reviewed_Notification">Váš Vlastní Skin byl Přezkouman!</string>
+    <string name="You_Have_Mail_">Máte Mail od %s!</string>
+    <string name="Clan_Request_Reviewed_Notification">Vaše Žádost o připojení se do klanu %s byla Přezkoumána!</string>
+    <string name="CRAZY_SPLIT">BLÁZNIVĚ ROZPOLCENÝ 32x</string>
+    <string name="Sold_Community_Skins_">"Prodaných Komunitních Skinů: "</string>
+    <string name="Estimated_Earnings_">"Odhadované Zisky: "</string>
+    <string name="South_Africa">Jižní Afrika</string>
+    <string name="SPLIT_">ROZDĚLENÍ:</string>
+    <string name="WALLS">STĚNY</string>
+    <string name="COMP_BANNED">KOMPETITIVNĚ ZABANOVÁN</string>
+    <string name="FIND_GAMES">NAJÍT HRY</string>
+    <string name="PLAY_SOLO">HRÁT SÓLO</string>
+    <string name="SET_EMOTE">NASTAVIT SMAJLÍKA</string>
+    <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
+    <string name="Win_a_Battle_Royale_">Vyhraj Battle Royale.</string>
+    <string name="Battle_">Boj!</string>
+    <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
+    <string name="Battle_Royale">Battle Royale</string>
+    <string name="The_winner_will_receive_x_plasma_">Vítěz vyhraje %s plazmy!</string>
+    <string name="admin_commands">"
+Commands:
+!kick [0–31]
+!reset
+!welcome {message}
+!difficulty [0-3] or [1-4] for Campaign
+!hidden
+!guests
+!slowchat
+!pausechat
+!mute {id}
+!admin {id}
+!allow {id}
+!allow reset"
+</string>
+    <string name="ID_Sort">ID Roztřídění</string>
+    <string name="Master_Tamer">Mistr Krotitel</string>
+    <string name="Get_ALL_Pets_To_Level_100_">Dosáhni level 100 se všemi Mazlíčky</string>
+    <string name="TAMER">KROTITEL</string>
+    <string name="Allow_Recombine">Povolit Spojování</string>
+    <string name="Defenders">Obránci</string>
+    <string name="Attackers">Útočníci</string>
+    <string name="MEGA_SPLIT">MEGA ROZPOLCENÝ 64x</string>
+    <string name="Missing_Permissions">Chybí Oprávnění</string>
+    <string name="DELETE_ACCOUNT">SMAZAT ÚČET</string>
+    <string name="delete_prompt">Jste si jisti, že chcete smazat svůj účet? Tento krok je PERMANENTNÍ a NEZVRATNÝ!</string>
+
+
+    <string name="Type">Napiš</string>
+    <string name="Complete_campaign_mission_">Dokonči kampaň misi</string>
+    <string name="Specify_Reason_">Uvést důvod:</string>
+    <string name="FREE_FOR_ALL">VŠICHNI PROTI VŠEM</string>
+    <string name="SPECIAL">SPECIÁLNÍ</string>
+    <string name="FREE">ZDARMA</string>
+    <string name="x5_Clan_XP_1_Day">5x Klan XP 1 Den</string>
+    <string name="x5_Clan_XP_7_days">5x Klan XP 7 Dnů</string>
+    <string name="x5_Clan_XP_Perm">5x Klan XP Natrvalo!</string>
+    <string name="Quin">5X</string>
+    <string name="x5_XP_1_Hour">5x XP 1 Hodinu</string>
+    <string name="x5_XP_24_hours">5x XP 24 Hodin</string>
+    <string name="x5_XP_Permanent">5x XP Natrvalo</string>
+    <string name="CAMPAIGN_2">KAMPAŇ 2</string>
+    <string name="XP_5x">XP 5x</string>
+    <string name="India">India</string>
+    <string name="Tutorial">Tutorial</string>
+    <string name="TYCOON">MAGNÁT</string>
+    <string name="CLAN_BACKGROUND_COLOR">BARVA POZADÍ KLANU</string>
+    <string name="activate">Aktiovovat</string>
+    <string name="clan_id">KLAN ID</string>
+    <string name="language_change_warning">Změna jazyka způsobí restart aplikace.</string>
+    <string name="xmas_gift_boost_message">Obdrželi jste dárek 3x plazma zesílení na 1 den!</string>
+    <string name="no_response">Žádná odpověď ze serveru. Zkontrolujte internetové připojení.</string>
+    <string name="RAMADAN">RAMADÁN</string>
+    <string name="SUDDEN_ATTACK">NÁHLY ÚTOK</string>
+    <string name="_2x_skin_resolution">Dvojnásobné rozlišení skinu</string>
+
+
+    <string-array name="control_modes">
+        <item>"Normální"</item>
+        <item>"Relativní"</item>
+        <item>"Táhnout směrem"</item>
+        <item>"Táhnout proti směru"</item>
+        <item>"Dotkni se a jdi"</item>
+        <item>"Náklon"</item>
+    </string-array>
+
+    <string-array name="button_modes">
+        <item>"Vlevo"</item>
+        <item>"Vpravo"</item>
+        <item>"Pravá + Levá"</item>
+        <item>"Všechno Vlevo"</item>
+        <item>"Všechno Vpravo"</item>
+        <item>"Vlastní"</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item>"Hvězdy (tmavé)"</item>
+        <item>"Mřížka (tmavá)"</item>
+        <item>"Mřížka (bílá)"</item>
+        <item>"Vlastní"</item>
+        <item>"Nic"</item>
+    </string-array>
+
+    <string-array name="difficulties">
+        <item>"Lehké"</item>
+        <item>"Střední"</item>
+        <item>"Těžké"</item>
+        <item>"NEMOŽNÉ"</item>
+    </string-array>
+
+    <string-array name="sizes">
+        <item>"Maličký"</item>
+        <item>"Malý"</item>
+        <item>"Normální"</item>
+        <item>"Velký"</item>
+        <item>"HUGE"</item>
+    </string-array>
+
+    <string-array name="clan_war_sizes">
+        <item>"Duo (2v2)"</item>
+        <item>"Malé (3v3)"</item>
+        <item>"Normální (5v5)"</item>
+        <item>"Velké (8v8)"</item>
+    </string-array>
+</resources>
