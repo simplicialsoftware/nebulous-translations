@@ -17,59 +17,58 @@ If you have an improvement to make, edit a file and submit a pull request. Pay s
 This repository contains a "res" folder, under which is a "values" folder and various "values-{...}" folders. "values" contains the default (English) strings used as the default for any non-translated strings.
 
 ### Languages
-
-values: English<br>
-values-af: Afrikaans<br>
-values-ar: Arabic<br>
-values-ar-rIQ: Arabic (Iraq)<br>
-values-az: Azerbaijani<br>
-values-bg: Bulgarian<br>
-values-bn: Bengali<br>
-values-bs: Bosnian<br>
-values-ca: Catalan<br>
-values-cs: Czech<br>
-values-da: Danish<br>
-values-de: German<br>
-values-el: Greek<br>
-values-es: Spanish<br>
-values-et: Estonian<br>
-values-fi: Finnish<br>
-values-fr: French<br>
-values-ga: Irish<br>
-values-hi: Hindi<br>
-values-hr: Croatian<br>
-values-hu: Hungarian<br>
-values-in: Indonesian<br>
-values-is: Icelandic<br>
-values-it: Italian<br>
-values-ja: Japanese<br>
-values-ka: Georgian<br>
-values-ko: Korean<br>
-values-lt: Lithuanian<br>
-values-lv: Latvian<br>
-values-mk: Macedonian<br>
-values-mr: Marathi<br>
-values-ms: Malay<br>
-values-nl: Dutch<br>
-values-no: Norwegian<br>
-values-pl: Polish<br>
-values-pt-rBR: Portuguese (Brazil)<br>
-values-pt-rPT: Portuguese (Portugal)<br>
-values-ro: Romanian<br>
-values-ru: Russian<br>
-values-si: Sinhala<br>
-values-sk: Slovak<br>
-values-sq: Albanian<br>
-values-sr: Serbian<br>
-values-sv: Swedish<br>
-values-ta: Tamil<br>
-values-th: Thai<br>
-values-tl: Tagalog<br>
-values-tr: Turkish<br>
-values-uk: Ukrainian<br>
-values-vi: Vietnamese<br>
-values-zh-rCN: Chinese (Simplified)<br>
-values-zh-rTW: Chinese (Traditional)
+`res/values`: English<br>
+`res/values-af`: Afrikaans<br>
+`res/values-ar`: Arabic<br>
+`res/values-ar-rIQ`: Arabic (Iraq)<br>
+`res/values-az`: Azerbaijani<br>
+`res/values-bg`: Bulgarian<br>
+`res/values-bn`: Bengali<br>
+`res/values-bs`: Bosnian<br>
+`res/values-ca`: Catalan<br>
+`res/values-cs`: Czech<br>
+`res/values-da`: Danish<br>
+`res/values-de`: German<br>
+`res/values-el`: Greek<br>
+`res/values-es`: Spanish<br>
+`res/values-et`: Estonian<br>
+`res/values-fi`: Finnish<br>
+`res/values-fr`: French<br>
+`res/values-ga`: Irish<br>
+`res/values-hi`: Hindi<br>
+`res/values-hr`: Croatian<br>
+`res/values-hu`: Hungarian<br>
+`res/values-in`: Indonesian<br>
+`res/values-is`: Icelandic<br>
+`res/values-it`: Italian<br>
+`res/values-ja`: Japanese<br>
+`res/values-ka`: Georgian<br>
+`res/values-ko`: Korean<br>
+`res/values-lt`: Lithuanian<br>
+`res/values-lv`: Latvian<br>
+`res/values-mk`: Macedonian<br>
+`res/values-mr`: Marathi<br>
+`res/values-ms`: Malay<br>
+`res/values-nl`: Dutch<br>
+`res/values-no`: Norwegian<br>
+`res/values-pl`: Polish<br>
+`res/values-pt-rBR`: Portuguese (Brazil)<br>
+`res/values-pt-rPT`: Portuguese (Portugal)<br>
+`res/values-ro`: Romanian<br>
+`res/values-ru`: Russian<br>
+`res/values-si`: Sinhala<br>
+`res/values-sk`: Slovak<br>
+`res/values-sq`: Albanian<br>
+`res/values-sr`: Serbian<br>
+`res/values-sv`: Swedish<br>
+`res/values-ta`: Tamil<br>
+`res/values-th`: Thai<br>
+`res/values-tl`: Tagalog<br>
+`res/values-tr`: Turkish<br>
+`res/values-uk`: Ukrainian<br>
+`res/values-vi`: Vietnamese<br>
+`res/values-zh-rCN`: Chinese (Simplified)<br>
+`res/values-zh-rTW`: Chinese (Traditional)
 
 ## Frequently Asked Questions
 #### I saw an untranslated string in Nebulous. It's not in any of the files here. What do I do?
