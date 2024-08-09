@@ -57,13 +57,13 @@
     <string name="SERVER">"SERVIDOR"</string>
     <string name="Joining_game_in_">"A entrar no jogo em "</string>
     <string name="Game_Full">"Jogo cheio"</string>
-    <string name="US_East">"EUA Este"</string>
-    <string name="US_West">"EUA Oeste"</string>
+    <string name="US_East">"América Central"</string>
+    <string name="US_West">"América do Norte"</string>
     <string name="Europe">"Europa"</string>
     <string name="South_America">"América do Sul"</string>
 
 
-    <string name="SINGLE_PLAYER">"SINGLE PLAYER"</string>
+    <string name="SINGLE_PLAYER">"UM JOGADOR"</string>
     <string name="Background_">"Fundo:"</string>
     <string name="Difficulty_">"Dificuldade:"</string>
     <string name="Delay_Disconnect">"Atrasar desconexão"</string>
@@ -115,7 +115,7 @@
     <string name="Private">"Privado"</string>
     <string name="Public">"Público"</string>
     <string name="Bot">"Bot"</string>
-    <string name="You">"Você"</string>
+    <string name="You">"Tu"</string>
     <string name="This_player_is_a_bot">"Este jogador é um bot."</string>
     <string name="This_player_is_not_signed_in">"Este jogador não está autenticado."</string>
 
@@ -123,7 +123,7 @@
     <string name="Unknown">"Desconhecido"</string>
     <string name="Offline">"Offline"</string>
     <string name="Achievement_Earned">"Conquista realizada"</string>
-    <string name="REFRESH">"ACTUALIZAR"</string>
+    <string name="REFRESH">"ATUALIZAR"</string>
     <string name="DONE">"FEITO"</string>
     <string name="Friend_Request_Sent">"Pedido de amizade enviado…"</string>
     <string name="ERROR">"ERRO"</string>
@@ -157,7 +157,7 @@
 
     <string name="Quadra_Gulp">"Quadra Devorador"</string>
     <string name="Multi_Gulp">"Multi Devorador"</string>
-    <string name="Mega_Gulp">"Mega Devorafor"</string>
+    <string name="Mega_Gulp">"Mega Devorador"</string>
     <string name="Ultra_Gulp">"Ultra Devorador"</string>
     <string name="Monster_Gulp">"Monstro Devorador"</string>
     <string name="Ludicrous_Gulp">"Devorador Absurdo"</string>
@@ -231,9 +231,9 @@
     <string name="Blobs_Eaten_">"Blobs comidos:"</string>
     <string name="Blobs_Lost_">"Blobs perdidos:"</string>
     <string name="Mass_Gained_">"Massa obtida:"</string>
-    <string name="Mass_Ejected_">"Massa ejectada:"</string>
-    <string name="Times_Ejected_">"Vezes ejectado:"</string>
-    <string name="Times_Split_">"Vezes dividio:"</string>
+    <string name="Mass_Ejected_">"Massa ejetada:"</string>
+    <string name="Times_Ejected_">"Vezes ejetado:"</string>
+    <string name="Times_Split_">"Vezes dividido:"</string>
     <string name="Biggest_Blob_">"Maior Blob:"</string>
     <string name="Highest_Score_">"Pontuação máxima:"</string>
     <string name="Average_Score_">"Pontuação média:"</string>
@@ -350,8 +350,8 @@
 
     <string name="FFAC">"FFAC"</string>
     <string name="NONE">"NENHUM"</string>
-    <string name="CLAN_WAR">"GERRA DE CLÃS"</string>
-    <string name="Clan_War">"Guerra de Clã"</string>
+    <string name="CLAN_WAR">"GUERRA DE CLÃS"</string>
+    <string name="Clan_War">"Guerra de Clãs"</string>
 
     <string name="Forming">"A formar…"</string>
     <string name="Searching">"A procurar…"</string>
@@ -668,7 +668,7 @@
     <string name="Collect_10_000_nebulas_">"Coletar 10 000 nebulosas"</string>
     <string name="nebulas_">"nebulosas."</string>
     <string name="Incompatible_versions_">"Versões incompatíveis."</string>
-    <string name="Update_Available_">"Actualização disponível!"</string>
+    <string name="Update_Available_">"Atualização disponível!"</string>
     <string name="VIEW_INVITES">"VISUALIZAR CONVITES"</string>
     <string name="CLAN_INVITES">"CONVITES DE CLÃ"</string>
     <string name="Cancel_Invitation">"Anular convite"</string>
@@ -714,8 +714,8 @@
     <string name="Collect_5000_pumpkins_">"Colectar 5 000 abóboras"</string>
     <string name="Collect_10000_pumpkins_">"Colectar 10 000 abóboras"</string>
     <string name="Collect_10000_leaves_">"Colectar 10 000 folhas"</string>
-    <string name="Eject">"Ejectar"</string>
-    <string name="Eject_Skin">"Skin de ejectar"</string>
+    <string name="Eject">"Ejetar"</string>
+    <string name="Eject_Skin">"Skin de ejetar"</string>
     <string name="Double_Plasma__">"Plasma a dobrar!!"</string>
     <string name="Ends">"Termina"</string>
     <string name="Select_Clan_Member">"Selecionar membro do Clã"</string>
@@ -734,7 +734,7 @@
     <string name="Clan_Uploads">"Envios do Clã"</string>
     <string name="Empty">"Vazio"</string>
     <string name="Select">"Selecionar"</string>
-    <string name="Current_Skin">"Skin actual"</string>
+    <string name="Current_Skin">"Skin atual"</string>
     <string name="Status">"Estado"</string>
     <string name="upload_size_failure">"Não foi possível fazer o upload da imagem porque é demasiado grande. Por favor, tente outra imagem."</string>
     <string name="CONTRIBUTE_PLASMA">"CONTRIBUIR PLASMA"</string>
@@ -836,7 +836,7 @@
     <string name="Support">"Apoio"</string>
     <string name="Already_Blocked">"Já está bloqueado"</string>
     <string name="Cannot_block_more_than_x_accounts_">"Não é possível bloquear mais de %d contas."</string>
-    <string name="This_is_you_">"Este é você."</string>
+    <string name="This_is_you_">"Este é tu."</string>
     <string name="Win_a_Paint_Game">"Vencer um jogo de pintura"</string>
     <string name="Whiteout">"Branqueamento"</string>
     <string name="Speed_Painter">"Pintor Rápido"</string>
@@ -980,7 +980,7 @@
     <string name="Halos">Auréolas</string>
     <string name="CAMPAIGN">CAMPANHA</string>
     <string name="Mission">Missão</string>
-    <string name="Kill_All_Bots">Mata Todos os Blobs</string>
+    <string name="Kill_All_Bots">Mata Todos os Bots</string>
     <string name="Survive">Sobreviver</string>
     <string name="Mission_d_Complete">Missão %d Completa!</string>
     <string name="Mission_d_Failed">Missão %d Falha!</string>
@@ -1027,10 +1027,10 @@
     <string name="Allow_Ultraclick">Permitir Ultra-Click</string>
     <string name="Allow_Mass_Boost">Permitir Impulso de Massa</string>
     <string name="Challenges_Won_">Desafios Vencidos:</string>
-    <string name="trophy_info">Os troféus são garantidos ao final de cada temporada de arena ou arena em equipas por 1º, 2º e 3º postoa. Os troféu são garantidos somente em regiões ativas com muitos jogadores.</string>
+    <string name="trophy_info">Os troféus são garantidos ao final de cada temporada de arena ou arena em equipas por 1º, 2º e 3º postos. Os troféus são garantidos somente em regiões ativas com muitos jogadores.</string>
     <string name="BLOCKED">BLOQUEADO</string>
     <string name="CLAN_WAR_HISTORY">HISTÓRICO DE GUERRA DE CLÃ</string>
-    <string name="Particle">Partícuka</string>
+    <string name="Particle">Partícula</string>
     <string name="Privacy">Privacidade</string>
     <string name="EULA">CLUF</string>
     <string name="You_can_purchase_this_hat_for">Podes comprar este boné por</string>
@@ -1124,7 +1124,7 @@
     <string name="GROUP">GRUPO</string>
     <string name="LEAVE">ABANDONAR</string>
     <string name="Group">Grupo</string>
-    <string name="Not_in_a_group_">NotNão está em um grupo.</string>
+    <string name="Not_in_a_group_">Não está em um grupo.</string>
     <string name="Failed">Falha</string>
     <string name="Failed_to_join">Falha ao unir-se</string>
     <string name="Full">Cheio</string>
@@ -1206,7 +1206,7 @@
     <string name="Collected_">Coletados:</string>
     <string name="Collisions_">Colisões:</string>
     <string name="Absorbed_">Absorvidos:</string>
-    <string name="team_warning">Equipar-se com um jogador não pertencente a sua equipa resultará em banimento!</string>
+    <string name="team_warning">Unir-se com um jogador que não pertença à tua equipa, resultará em banimento!</string>
     <string name="Search_Filter">Filtro de Busca</string>
     <string name="Received_">Recebidos:</string>
     <string name="Opponent_Rating_Limit_">Limite de Classificação do Oponente:</string>
@@ -1255,7 +1255,7 @@
     <string name="Plasma_Boost">Impulso de Plasma</string>
     <string name="particle_info">Tens de estar pelo menos no nível 50 e usar uma skin de base para partículas para ver quaisquer das mesmas.</string>
     <string name="Plain_Score_Text">"Texto Simples de Pontuação"</string>
-    <string name="Custom_Skin_Reviewed_Notification">A tua skin personalisada foi revista!</string>
+    <string name="Custom_Skin_Reviewed_Notification">A tua skin personalizada foi revista!</string>
     <string name="You_Have_Mail_">Tens Mensagens De %s!</string>
     <string name="Clan_Request_Reviewed_Notification">O Teu Pedido Para Entrar no Clã %s Foi Revisto!</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
@@ -1328,7 +1328,7 @@ Comandos:
     <string name="activate">Ativar</string>
     <string name="clan_id">ID DO CLÃ</string>
     <string name="language_change_warning">Alterar o idioma vai precisar reingressar o jogo.</string>
-    <string name="xmas_gift_boost_message">Ganhaste um presente de impulso de plasma 3x ppr 1 dia!</string>
+    <string name="xmas_gift_boost_message">Ganhaste um presente de impulso de plasma 3x por 1 dia!</string>
     <string name="no_response">Nenhuma resposta ao servidor. Por favor, verifica a conexão com a Internet.</string>
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">ATAQUE REPENTINO</string>
@@ -1365,7 +1365,7 @@ Comandos:
         <item>"Fácil"</item>
         <item>"Médio"</item>
         <item>"Difícil"</item>
-        <item>"IMPOSSIBLE"</item>
+        <item>"IMPOSSÍVEL"</item>
     </string-array>
 
     <string-array name="sizes">
