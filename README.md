@@ -72,7 +72,7 @@ Open the `res` folder to see all of the supported languages. `res/values` contai
 
 ## Frequently Asked Questions
 #### I saw an untranslated string in Nebulous. It's not in any of the files here. What do I do?
-Submit an [issue](https://github.com/simplicialsoftware/nebulous-translations/issues).
+Submit an [issue](https://github.com/simplicialsoftware/nebulous-translations/issues). Include a screenshot of the text and any relevant actions you performed.
 
 #### Why don't all languages have the same strings?
 If a language is missing a line of text, see if it's in values (English). If it is, and it has the `translatable=false` tag, you can:
