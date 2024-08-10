@@ -41,7 +41,7 @@
     <string name="Name_Invalid_">"Nome non valido."</string>
     <string name="Name_Taken_">"Nome già in uso."</string>
     <string name="CONNECTED">"CONNESSO"</string>
-    <string name="JOINING___">"UNENDOSI"</string>
+    <string name="JOINING___">"UNENDOSI..."</string>
     <string name="PLAYING">"IN GIOCO"</string>
     <string name="MULTIPLAYER">"MULTIGIOCATORE"</string>
 
