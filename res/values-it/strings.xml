@@ -11,7 +11,7 @@
     <string name="WEEKLY">"SETTIMANALE"</string>
     <string name="DAILY">"GIORNALIERO"</string>
     <string name="Server_">"Server:"</string>
-    <string name="Game_Mode_">"Modalità di gioco:"</string>
+    <string name="Game_Mode_">"Modalità:"</string>
     <string name="Show_Names">"Mostra nomi"</string>
     <string name="Show_Avatars">"Mostra skin"</string>
     <string name="PLAY">"GIOCA"</string>
@@ -41,7 +41,7 @@
     <string name="Name_Invalid_">"Nome non valido."</string>
     <string name="Name_Taken_">"Nome già in uso."</string>
     <string name="CONNECTED">"CONNESSO"</string>
-    <string name="JOINING___">"CONNESSIONE IN CORSO…"</string>
+    <string name="JOINING___">"UNENDOSI..."</string>
     <string name="PLAYING">"IN GIOCO"</string>
     <string name="MULTIPLAYER">"MULTIGIOCATORE"</string>
 
@@ -60,7 +60,7 @@
     <string name="US_East">"Stati Uniti Est"</string>
     <string name="US_West">"Stati Uniti Ovest"</string>
     <string name="Europe">"Europa"</string>
-    <string name="South_America">america del sud"</string>
+    <string name="South_America">America Del Sud"</string>
 
 
     <string name="SINGLE_PLAYER">"GIOCATORE SINGOLO"</string>
@@ -131,7 +131,7 @@
     <string name="Global_" formatted="false">"Globale"</string>
     <string name="FRIEND_CHAT">"CHAT PRIVATA"</string>
     <string name="LOBBY_NAME">"NOME DELLA STANZA"</string>
-    <string name="NULL">"ASSENTE"</string>
+    <string name="NULL">"NULL"</string>
 
 
     <string name="ALL">"QUALSIASI"</string>
@@ -390,11 +390,11 @@
     <string name="Season">"Stagione"</string>
     <string name="The_next_season_begins">"La prossima stagione inizia"</string>
 
-    <string name="Current">"attuale"</string>
+    <string name="Current">"Attuale"</string>
     <string name="leaves_">"foglie."</string>
     <string name="Leaf_Collector">"Collezionista di foglie"</string>
     <string name="Collect_1000_leaves_">"Raccogli 1.000 foglie."</string>
-    <string name="XP_Boost">"Moltiplica gli XP"</string>
+    <string name="XP_Boost">"Moltiplicatore di XP"</string>
     <string name="Double">"Raddoppia"</string>
     <string name="Hour">"Ora"</string>
     <string name="Hours">"Ore"</string>
@@ -551,7 +551,7 @@
 
 
     <string name="Invited">"Invitato"</string>
-    <string name="Invitation_Sent">"Invito spedito"</string>
+    <string name="Invitation_Sent">"Invito inviato"</string>
     <string name="REPORT">"SEGNALA"</string>
     <string name="Reported">"Segnalato"</string>
     <string name="Threats">"Minacce"</string>
