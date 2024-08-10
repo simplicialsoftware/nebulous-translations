@@ -35,7 +35,7 @@
     <string name="_Alias_">" Alias "</string>
     <string name="_Score_">" Punteggio "</string>
     <string name="Score__">"Punteggio:"</string>
-    <string name="Recombine_">"Ricombinazione:"</string>
+    <string name="Recombine_">"Ricombinare in:"</string>
     <string name="WINNER_">"VINCITORE:"</string>
     <string name="IDLE">"INATTIVO"</string>
     <string name="Name_Invalid_">"Nome non valido."</string>
@@ -66,7 +66,7 @@
     <string name="SINGLE_PLAYER">"GIOCATORE SINGOLO"</string>
     <string name="Background_">"Sfondo:"</string>
     <string name="Difficulty_">"Difficoltà:"</string>
-    <string name="Delay_Disconnect">"Ritardo disconnessione"</string>
+    <string name="Delay_Disconnect">"Ritarda la disconnessione"</string>
 
     <string name="Max_Players">"Giocatori massimi"</string>
     <string name="Min_Players">"Giocatori minimi"</string>
@@ -1284,7 +1284,11 @@ Comandi:
 !mute {id}
 !admin {id}
 !allow {id}
-!allow reset"
+!allow reset
+!team [1-4] {id} (Solo in le modalità di squadre)
+!winner
+!stats
+!info"
 </string>
     <string name="ID_Sort">Ricerca ID</string>
     <string name="Master_Tamer">Maestro Domatore</string>
