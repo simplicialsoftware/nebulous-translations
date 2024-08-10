@@ -1278,7 +1278,7 @@ Esta é uma lista de coisas que é * PROIBIDO * para usar nas skins personalizad
     <string name="HERO">HERÓI</string>
     <string name="CHAMPION">CAMPEÃO</string>
     <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">Você não pode ganhar Xp ou plasma no modo Sem Vírus (Sandbox)!</string>
-    <string name="DASH">TRAÇO</string>
+    <string name="DASH">DASH</string>
     <string name="setting_changed">Configurações atualizadas. Pode ser necessário que você se reconecte ao servidor para que ele entre em vigor.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Execute 10,000 tricks em um jogo no Modo Trick.</string>
     <string name="Tricky">Tricky</string>
@@ -1409,7 +1409,7 @@ Faça login para acessar o modo multijogador. Você poderá:
 Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
     </string>
     <string name="_2x_skin_resolution">Qualidade da Skin em Dobro</string>
-    <string name="pm">PM</string>
+    <string name="pm">PRIV.</string>
 
     <string-array name="control_modes">
         <item>"Normal"</item>
