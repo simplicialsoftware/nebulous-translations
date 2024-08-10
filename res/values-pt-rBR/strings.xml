@@ -5,7 +5,7 @@
     <string name="Stick_Size_">"Tamanho do Controlador:"</string>
     <string name="Stick_Margin_">"Margem do Controlador:"</string>
     <string name="Button_Size_">"Tamanho dos Botões:"</string>
-    <string name="Button_Margin_">"Margem Botões:"</string>
+    <string name="Button_Margin_">"Margem dos Botões:"</string>
     <string name="Buttons_">"Botões"</string>
     <string name="DEFAULTS">"PADRÕES"</string>
     <string name="WEEKLY">"SEMANAL"</string>
@@ -271,7 +271,7 @@
 
     <string name="CREATE_CLAN">"CRIAR UM CLÃ"</string>
     <string name="MEMBER">"MEMBRO"</string>
-    <string name="ADMIN">"ADMINISTRADOR"</string>
+    <string name="ADMIN">"ADMIN"</string>
     <string name="LEADER">"LÍDER"</string>
     <string name="ELDER">"ANCIÃO"</string>
 
@@ -375,7 +375,7 @@
 
     <string name="W_D_L">"V-E-D"</string>
     <string name="MATCH_START">"INICIAR A PARTIDA"</string>
-    <string name="Clan_Warrior">"Guerreiro Clã"</string>
+    <string name="Clan_Warrior">"Guerreiro do Clã"</string>
     <string name="Win_a_Clan_War">"Ganhar uma Guerra de Clã"</string>
     <string name="Global">"Global"</string>
     <string name="Spectating">"Espectador"</string>
@@ -1129,7 +1129,7 @@ Esta é uma lista de coisas que é * PROIBIDO * para usar nas skins personalizad
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins, Masc, Bonés EXCLUSIVOS e Mais!</string>
     <string name="BUY_NOW_">COMPRAR AGORA!</string>
     <string name="already_purchased">Você ou a pessoa para qual você está comprando já possui isso.</string>
-    <string name="Halo_Animations">Animações daAréola</string>
+    <string name="Halo_Animations">Animações da Aréola</string>
     <string name="Trick_Notifications">Notificações do Modo Trick</string>
     <string name="Channel">Canal</string>
     <string name="Choose_Text_Size">Escolher Tamanho do Texto</string>
