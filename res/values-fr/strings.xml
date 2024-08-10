@@ -1380,6 +1380,7 @@ Commands:
 Si vous ne souhaitez pas vous connecter, vous pouvez toujours jouer en mode solo."
     </string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="pm">PM</string>
 
     <string-array name="control_modes">
         <item>"Moyen"</item>

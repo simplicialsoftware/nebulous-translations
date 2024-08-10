@@ -1412,6 +1412,7 @@ Comandos:
 Si no deseas registrarte, aún puedes jugar en modo individual."
     </string>
     <string name="_2x_skin_resolution">Doble resolución de skin</string>
+    <string name="pm">PM</string>
 
     <string-array name="control_modes">
         <item>"Normal"</item>

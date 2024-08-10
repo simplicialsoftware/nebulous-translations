@@ -41,7 +41,7 @@
     <string name="Name_Invalid_">"Nome non valido."</string>
     <string name="Name_Taken_">"Nome già in uso."</string>
     <string name="CONNECTED">"CONNESSO"</string>
-    <string name="JOINING___">"UNENDOSI..."</string>
+    <string name="JOINING___">"UNENDOSI…"</string>
     <string name="PLAYING">"IN GIOCO"</string>
     <string name="MULTIPLAYER">"MULTIGIOCATORE"</string>
 
@@ -1326,6 +1326,7 @@ Comandi:
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">ATTACCO IMPROVVISO</string>
     <string name="_2x_skin_resolution">Doppia risoluzione skin</string>
+    <string name="pm">PM</string>
 
 
     <string-array name="control_modes">

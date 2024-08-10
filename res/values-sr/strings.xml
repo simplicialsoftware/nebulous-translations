@@ -1316,6 +1316,7 @@ Komande admina:
 Ako ne želite da se prijavite, i dalje možete igrati u jednoigračkom modu."
     </string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="pm">PM</string>
 
     <string-array name="control_modes">rezimi upravljanja
         <item>"Normalan"</item>

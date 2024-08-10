@@ -1184,6 +1184,7 @@ Commands:
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">SUDDEN NA PAG-ATAKE</string>
     <string name="_2x_skin_resolution">2x Skin Resolusyon</string>
+    <string name="pm">PM</string>
 
 
     <string-array name="control_modes">

@@ -1338,6 +1338,7 @@ Komutlar:
 Oturum açmak istemiyorsanız, tek oyunculu oynamaya devam edebilirsiniz."
     </string>
     <string name="_2x_skin_resolution">2x skin kalitesi</string>
+    <string name="pm">PM</string>
 
     <string-array name="control_modes">
         <item>"Normal"</item>

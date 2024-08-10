@@ -1371,6 +1371,7 @@ Commands:
 "إذا كنت لا ترغب في تسجيل الدخول، يمكنك أيضًا اللعب الفردي.
     </string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="pm">PM</string>
 
 
     <string-array name="control_modes">

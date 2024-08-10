@@ -1392,6 +1392,7 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
     <string name="RAMADAN">"RAMAZAN"</string>
     <string name="SUDDEN_ATTACK">"Qəfil Hücum"</string>
     <string name="_2x_skin_resolution">2x Cild Keyfiyyəti</string>
+    <string name="pm">PM</string>
 
 
     <string-array name="control_modes">
