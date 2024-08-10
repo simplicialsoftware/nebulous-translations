@@ -1307,6 +1307,7 @@ Commands:
     <string name="RAMADAN">RAMADÁN</string>
     <string name="SUDDEN_ATTACK">NÁHLY ÚTOK</string>
     <string name="_2x_skin_resolution">Dvojnásobné rozlišení skinu</string>
+    <string name="pm">PM</string>
 
 
     <string-array name="control_modes">

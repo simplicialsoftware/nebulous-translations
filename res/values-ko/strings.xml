@@ -1377,6 +1377,7 @@ Nebulous 규칙\n
 로그인하고 싶지 않다면, 싱글 플레이어 모드로도 게임을 할 수 있습니다."
     </string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="pm">PM</string>
 
     <string-array name="control_modes">
         <item>"일반"</item>

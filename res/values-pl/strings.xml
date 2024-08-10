@@ -1211,6 +1211,7 @@ Komendy Admina:
 Jeśli nie chcesz się logować, możesz nadal grać w trybie jednego gracza."
     </string>
     <string name="_2x_skin_resolution">"2x Rozdzielczość Skórki"</string>
+    <string name="pm">PM</string>
     <string-array name="control_modes">
         <item>"Domyślne"</item>
         <item>"Względne"</item>

@@ -1317,6 +1317,7 @@
 Якщо ви не бажаєте увійти, ви все ще можете грати в одиночну гру."
 </string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="pm">PM</string>
 
 
     <string-array name="control_modes">

@@ -1341,6 +1341,7 @@ Commands:
 Wenn Sie sich nicht anmelden möchten, können Sie trotzdem im Einzelspielermodus spielen."
     </string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="pm">PM</string>
 
     <string-array name="control_modes">
         <item>"Normal"</item>

@@ -1329,6 +1329,7 @@ Commands:
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">PLOTSELINGE AANVAL</string>
     <string name="_2x_skin_resolution">2x Skin Resolutie</string>
+    <string name="pm">PM</string>
 
 
     <string-array name="control_modes">

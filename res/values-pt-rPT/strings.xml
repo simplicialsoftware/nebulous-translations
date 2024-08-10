@@ -836,7 +836,7 @@
     <string name="Support">"Apoio"</string>
     <string name="Already_Blocked">"Já está bloqueado"</string>
     <string name="Cannot_block_more_than_x_accounts_">"Não é possível bloquear mais de %d contas."</string>
-    <string name="This_is_you_">"Este é tu."</string>
+    <string name="This_is_you_">"Este és tu."</string>
     <string name="Win_a_Paint_Game">"Vencer um jogo de pintura"</string>
     <string name="Whiteout">"Branqueamento"</string>
     <string name="Speed_Painter">"Pintor Rápido"</string>
@@ -1027,7 +1027,7 @@
     <string name="Allow_Ultraclick">Permitir Ultra-Click</string>
     <string name="Allow_Mass_Boost">Permitir Impulso de Massa</string>
     <string name="Challenges_Won_">Desafios Vencidos:</string>
-    <string name="trophy_info">Os troféus são garantidos ao final de cada temporada de arena ou arena em equipas por 1º, 2º e 3º postos. Os troféus são garantidos somente em regiões ativas com muitos jogadores.</string>
+    <string name="trophy_info">Os troféus são garantidos ao final de cada temporada de arena ou arena em equipas por 1º, 2º e 3º lugares. Os troféus são garantidos somente em regiões ativas com muitos jogadores.</string>
     <string name="BLOCKED">BLOQUEADO</string>
     <string name="CLAN_WAR_HISTORY">HISTÓRICO DE GUERRA DE CLÃ</string>
     <string name="Particle">Partícula</string>
@@ -1333,6 +1333,7 @@ Comandos:
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">ATAQUE REPENTINO</string>
     <string name="_2x_skin_resolution">Qualidade da Skin em dobro</string>
+    <string name="pm">PM</string>
 
 
     <string-array name="control_modes">

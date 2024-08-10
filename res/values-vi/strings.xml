@@ -1306,6 +1306,7 @@ Commands:
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">TẤN CÔNG BẤT NGỜ</string>
     <string name="_2x_skin_resolution">2x độ nét của Skin</string>
+    <string name="pm">PM</string>
 
 
     <string-array name="control_modes">
