@@ -16,6 +16,32 @@ Open the `res` folder to see all of the supported languages. `res/values` contai
 - Try not to change the *length* of a string too much from the length in the English version. The app UI layout is tested with those string lengths.
 - **Do not** submit auto translations (Google Translate, Chat GPT, etc). This is not helpful.
 
+### Translation tips
+When translating content, especially in a consistent and systematic manner, it's important to adhere to the following general tips:
+1. Consistency in Terminology
+   - Always use the same terms for specific concepts. If you choose to translate one concept/name some way, use it every time that concept/name appears.
+   - Maintain consistency in acronyms and capitalizations. For example, use the translation for "XP" or "CTF" consistently without variation.
+2. Voice Consistency
+   - Decide early whether the translation will be in a formal or informal voice, and stick to it throughout the entire text. 
+3. Avoid Unnecessary Punctuation
+   - Do not add a period (.) at the end of strings unless it is required by the original text or grammar rules.
+   - Keep in mind that some platforms or coding environments may treat punctuation differently, so avoid adding extra punctuation.
+4. Consistency in Formatting
+   - Keep a uniform format with the original. If "Hour" is used, always use the translation with the first letter in caps; same applies otherwise if it's all caps, for example.
+5. Contextual Accuracy
+   - Translate based on context to maintain the meaning and tone of the original text. Avoid direct translations that might change the intended message.
+   - Ensure that terms like "hoarder" or "mogul" are translated in a way that fits the context—either retaining the original term if it’s widely understood or choosing an appropriate equivalent in the target language. AND BE CONSISTENT WITH IT.
+6. Uniform Length and Structure
+   - Aim for similar length and structure between the original and translated text, especially if space is limited.
+   - Break down complex sentences to mirror the original's readability and clarity.
+7. Cultural Adaptation
+   - Ensure that cultural references, idioms, or colloquialisms are translated or adapted to be understandable in the target culture. Pay mind to terms like "hat-trick", which tends to have translations depending on the language (remember to always do RESEARCH); or "Doge", which doesn't have a translation.
+8. Proofreading and Review
+   - After translation, review the text to ensure consistency in terminology, voice, and formatting.
+   - Ideally, have another person review the translation to catch any inconsistencies or errors you might have missed. 
+
+You can always message @critikangel on Discord for help, advice, or support.
+
 ### Languages
 `res/values`: English<br>
 `res/values-af`: Afrikaans<br>
