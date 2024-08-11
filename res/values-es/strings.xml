@@ -1313,7 +1313,7 @@ Esta es una lista de cosas que esta * PROHIBIDO * en las skins personalizadas, s
     <string name="Plasma_Boost_2_Hours_">Acelerador de Plasma por 2 horas</string>
     <string name="Plasma_Boost">Acelerador de Plasma</string>
     <string name="skin_warning" translatable="true" tools:ignore="Untranslatable">
-"Su máscara personalizada no fue aprobada. Aquí están las razones más comunes para esto. NO debes subir:
+"Tu máscara personalizada no fue aprobada. Aquí están las razones más comunes de esto. NO debes subir:
 
 1. Una fotografía de una persona a skins de comunidad. Si no se sube a comunidad podría ser aprobada.
 2. Una fotografía de alguien sin camisa.
