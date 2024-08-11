@@ -911,7 +911,7 @@
     <string name="Pet">Mascota</string>
     <string name="You_can_purchase_this_pet_for">Puedes comprar esta mascota por</string>
     <string name="gift_to_friend">Regalo para un amigo</string>
-    <string name="gift_purchase_warning">No recibiras este compra porque has elegido regalarlo a un amigo</string>
+    <string name="gift_purchase_warning">No recibirás esta compra porque has elegido regalarlo a un amigo</string>
     <string name="x2_Clan_XP_7_Days">"2x EXP Clan 7 días"</string>
     <string name="RECEIVED">"RECIBIDO"</string>
     <string name="SENT">"ENVIADO"</string>
@@ -1045,7 +1045,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="POSITION_EJECT_TOGGLE_BUTTON">POSICIÓN DE BOTÓN PARA DAR MASA ALTERNADAMENTE</string>
     <string name="WIFI">WIFI</string>
     <string name="JOIN_IP">UNIRSE A IP</string>
-    <string name="Specify_Host_IP">Especificar IP del Anfritión</string>
+    <string name="Specify_Host_IP">Especificar IP del Anfitrión</string>
     <string name="ADVANCED_SETUP">CONFIGURACIÓN AVANZADA</string>
     <string name="WORLD_CUP_EVENT___">¡¡EVENTO DE LA COPA MUNDIAL!!</string>
     <string name="world_cup_event_description">¡Doble EXP y Plasma en el modo Fútbol hasta el final de la copa del mundo!</string>
@@ -1318,7 +1318,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
 1. Una fotografía de una persona a skins de comunidad. Si no se sube a comunidad podría ser aprobada.
 2. Una fotografía de alguien sin camisa.
 3. Alguien en una pose o escena sugerente.
-4. Representaciones de alcohol o drogas (incluida la marihuana o tabaco).
+4. Representaciones de alcohol o drogas (incluída la marihuana o tabaco).
 5. Obra de arte que ya existe en nebulous, como skins de nivel. Debe ser modificado de alguna manera significativa.
 
 Subir la misma skin NO aprobada varias veces resultará en más sanciones o en una prohibición."
