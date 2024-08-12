@@ -16,7 +16,7 @@ Open the `res` folder to see all of the supported languages. `res/values` contai
 - Try not to change the *length* of a string too much from the length in the English version. The app UI layout is tested with those string lengths.
 - **Do not** submit auto translations (Google Translate, Chat GPT, etc). This is not helpful.
 
-### Translation tips
+#### Translation tips
 When translating content, especially in a consistent and systematic manner, it's important to adhere to the following general tips:
 1. Consistency in Terminology
    - Always use the same terms for specific concepts. If you choose to translate one concept/name some way, use it every time that concept/name appears.
@@ -26,6 +26,7 @@ When translating content, especially in a consistent and systematic manner, it's
 3. Avoid Unnecessary Punctuation
    - Do not add a period (.) at the end of strings unless it is required by the original text or grammar rules.
    - Keep in mind that some platforms or coding environments may treat punctuation differently, so avoid adding extra punctuation.
+   - Speaking of which, ellipsis are preferred over 3 periods. An example follows: … (ellipsis) vs. ... (3 periods).
 4. Consistency in Formatting
    - Keep a uniform format with the original. If "Hour" is used, always use the translation with the first letter in caps; same applies otherwise if it's all caps, for example.
 5. Contextual Accuracy
@@ -38,7 +39,7 @@ When translating content, especially in a consistent and systematic manner, it's
    - Ensure that cultural references, idioms, or colloquialisms are translated or adapted to be understandable in the target culture. Pay mind to terms like "hat-trick", which tends to have translations depending on the language (remember to always do RESEARCH); or "Doge", which doesn't have a translation.
 8. Proofreading and Review
    - After translation, review the text to ensure consistency in terminology, voice, and formatting.
-   - Ideally, have another person review the translation to catch any inconsistencies or errors you might have missed. 
+   - Ideally, have another person who is fluent in the language review the translation to catch any inconsistencies or errors you might have missed. 
 
 You can always message @critikangel on Discord for help, advice, or support.
 
