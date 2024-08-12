@@ -564,7 +564,7 @@
     <string name="Reject_Invitation">"Daveti Reddet"</string>
     <string name="Leave_Game">"Oyundan ayrıl"</string>
     <string name="Remove_Friend">"Arkadaşı kaldır"</string>
-    <string name="Remove_Clan_Member">"Üyesini Çıkar"</string>
+    <string name="Remove_Clan_Member">"Klan üyesini Çıkar"</string>
     <string name="Flag_lobby_as_inappropriate">"Bu lobiyi uygunsuz olarak işaretle"</string>
     <string name="Promote_Clan_Member">"Klan Üyesinin Rütbesini Yükselt"</string>
     <string name="Leave_Clan">"Klandan ayrıl"</string>
@@ -1413,7 +1413,7 @@ Oturum açmak istemiyorsanız, tek oyunculu oynamaya devam edebilirsiniz."
         <item>"Küçük"</item>
         <item>"Normal"</item>
         <item>"Büyük"</item>
-        <item>"HUGE"</item>
+        <item>"DEVASA"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
