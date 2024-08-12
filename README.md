@@ -22,6 +22,7 @@ Open the `res` folder to see all of the supported languages. `res/values` contai
 `res/values-ar`: Arabic<br>
 `res/values-ar-rIQ`: Arabic (Iraq)<br>
 `res/values-az`: Azerbaijani<br>
+`res/values-b+es+r419`: Spanish (Latin America)<br>
 `res/values-bg`: Bulgarian<br>
 `res/values-bn`: Bengali<br>
 `res/values-bs`: Bosnian<br>
