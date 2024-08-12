@@ -1163,8 +1163,8 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="CHRISTMAS">"NOEL"</string>
     <string name="Reason">"Sebep"</string>
     <string name="PUBLIC">"HERKESE AÇIK"</string>
-    <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">Arkadaşlarının bu gruba girebilmesi için bu grup İD'sini onlara ver:</string>
-    <string name="Specify_Group_ID" translatable="true" tools:ignore="Untranslatable">ÖZEL GRUP İD'si</string>
+    <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">"Arkadaşlarının bu gruba girebilmesi için bu grup İD'sini onlara ver:"</string>
+    <string name="Specify_Group_ID" translatable="true" tools:ignore="Untranslatable">"ÖZEL GRUP İD'si"</string>
     <string name="PRIVATE">"ÖZEL"</string>
     <string name="Joined">"Katılım"</string>
     <string name="Requests">"İstekler"</string>
@@ -1359,7 +1359,6 @@ Komutlar:
     <string name="no_response">"Sunucudan Cevap yok. Lütfen İnternet bağlantınızı kontrol edin"</string>
     <string name="RAMADAN">"RAMAZAN"</string>
     <string name="SUDDEN_ATTACK">"Ani Saldırı"</string>
-    <string name="ADMIN">"YÖNETİCİ"</string>
 
     <string name="sign_in_explanation" translatable="true">
 "Çok oyunculu erişim için oturum açın. Şunları yapabileceksiniz:
