@@ -512,9 +512,9 @@
 
     <string name="Present_Hoarder">"プレゼント箱貯蓄の達人"</string>
     <string name="Present_Mogul">"プレゼントをもぐもぐ"</string>
-    <string name="Collect_1_000_presents_">"プレセント箱を1000個収集する"</string>
-    <string name="Collect_5_000_presents_">"のプレセント箱を5000個収集する"</string>
-    <string name="Collect_10_000_presents_">"プレセント箱を1万個収集する"</string>
+    <string name="Collect_1_000_presents_">"プレゼント箱を1000個収集する"</string>
+    <string name="Collect_5_000_presents_">"のプレゼント箱を5000個収集する"</string>
+    <string name="Collect_10_000_presents_">"プレゼント箱を1万個収集する"</string>
     <string name="Loading_reward_video___">"広告動画読み込み中…"</string>
     <string name="Progress">"進行状況"</string>
     <string name="Snowflake_Hoarder">"雪花貯蓄の達人"</string>
@@ -1303,7 +1303,7 @@ Commands:
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
     <string name="activate">Activate</string>
-    <string name="clan_id">CLAN ID</string>
+    <string name="clan_id">クランID</string>
     <string name="language_change_warning">Changing the language will cause the app to restart.</string>
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
     <string name="no_response">No response from server. Please check the internet connection.</string>
