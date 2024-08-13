@@ -1453,7 +1453,7 @@ Si no deseas registrarte, aún puedes jugar en modo individual."
     </string-array>
 
     <string-array name="sizes">
-        <item>"Enano"</item>
+        <item>"Diminuto"</item>
         <item>"Pequeño"</item>
         <item>"Normal"</item>
         <item>"Grande"</item>
