@@ -962,8 +962,8 @@
     <string name="Mission">"Misija"</string>
     <string name="Kill_All_Bots">"Ubij Sve Botove"</string>
     <string name="Survive">"Preživi"</string>
-    <string name="Mission_d_Complete">"Misija %d dovršena!"</string>
-    <string name="Mission_d_Failed">"Misija %d neuspješna!"</string>
+    <string name="Mission_d_Complete">"Misija %d Dovršena!"</string>
+    <string name="Mission_d_Failed">"Misija %d Neuspješna!"</string>
     <string name="Next_Mission">"Sljedeća Misija"</string>
     <string name="Objective">"Objekt"</string>
     <string name="GAME">IGRA</string>
@@ -974,7 +974,7 @@
     <string name="App_Perf_Stats">Prikaži Statistiku Igre</string>
     <string name="COPY">KOPIRAJ</string>
     <string name="_1v1_Ultra">1v1 Ultra</string>
-    <string name="ArenaDescriptionUltra">The winner will receive %s plasma.</string>
+    <string name="ArenaDescriptionUltra">Pobjednik će dobiti %s plazme.</string>
     <string name="BANNED">ZABRANJEN</string>
     <string name="CLAN_MEMBERS">KLAN ČLANOVI</string>
     <string name="CLAN_REQUESTS">KLAN ZAHTJEVI</string>
