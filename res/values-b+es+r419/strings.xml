@@ -115,7 +115,7 @@
     <string name="Private">"Privado"</string>
     <string name="Public">"Público"</string>
     <string name="Bot">"Bot"</string>
-    <string name="You">"Tú"</string>
+    <string name="You">"Usted"</string>
     <string name="This_player_is_a_bot">"Este jugador es un bot"</string>
     <string name="This_player_is_not_signed_in">"Este jugador no está registrado"</string>
 
@@ -623,7 +623,7 @@
     <string name="CLAN_HISTORY">"HISTORIAL DEL CLAN"</string>
 
 
-    <string name="Love_Nebulous_">"Ama Nebulous"</string>
+    <string name="Love_Nebulous_">"¿Te gusta el Nebulous?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoya a Nebulous puntuándolo "</string>
     <string name="MAYHEM_MODE">"MAYHEM"</string>
     <string name="Times_Teleported_">"Veces teletransportado:"</string>
@@ -737,7 +737,7 @@
     <string name="Select">"Seleccionar"</string>
     <string name="Current_Skin">"Skin Actual"</string>
     <string name="Status">"Estado"</string>
-    <string name="upload_size_failure">"No se pudo cargar esta imagen porque es demasiado grande. Por favor, inténtalo con una imagen distinta."</string>
+    <string name="upload_size_failure">"No se pudo subir esta imagen porque es demasiado grande. Por favor, inténtalo con una imagen distinta."</string>
     <string name="CONTRIBUTE_PLASMA">"CONTRIBUIR PLASMA"</string>
     <string name="Specify_Contribution_Amount">"Especificar cantidad de la contribución"</string>
     <string name="Clan_Contribution">"Contribución del clan"</string>
@@ -747,8 +747,8 @@
     <string name="ARENA_HISTORY">"HISTORIAL DE ARENA"</string>
     <string name="WIN">"GANADA"</string>
     <string name="LOSS">"PERDIDA"</string>
-    <string name="Other_players_can_not_see_your_skin_">"Los demás jugadores no pueden ver tu skin "</string>
-    <string name="Other_players_can_see_your_skin_">"Los demás jugadores pueden ver tu skin "</string>
+    <string name="Other_players_can_not_see_your_skin_">"Los demás jugadores no pueden ver su skin "</string>
+    <string name="Other_players_can_see_your_skin_">"Los demás jugadores pueden ver su skin "</string>
     <string name="LEGEND">"LEYENDA"</string>
     <string name="UPLOAD_PREVIEW">"PREVISUALIZACIÓN"</string>
     <string name="Win_10000_Arenas">"Gana 10.000 Arenas"</string>
@@ -756,7 +756,7 @@
     <string name="upload_info">"Se puede lograr una mejor calidad sin transparencia o con imágenes simples."</string>
     <string name="Compression_Quality_">"Calidad de compresión:"</string>
     <string name="inapproriate_info">"Skins que incluyan cualquier cosa que implique odio, gore, obscenidad, violencia, drogas, sexo, desnudos, selfies de cuerpo entero y skins de Nebulous sin modificar."</string>
-    <string name="Are_you_sure_you_want_to_upload_this_skin_">"¿Está seguro de que desea cargar esta skin?"</string>
+    <string name="Are_you_sure_you_want_to_upload_this_skin_">"¿Está seguro de que desea subir esta skin?"</string>
     <string name="Grant_Permission">"Conceder permiso"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous necesita permisos de almacenamiento de copia de seguridad de su progreso para un jugador "</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous necesita tener permisos de ubicación para encontrar dispositivos Bluetooth cercanos "</string>
@@ -837,7 +837,7 @@
     <string name="Support">Soporte</string>
     <string name="Already_Blocked">Ya bloqueado</string>
     <string name="Cannot_block_more_than_x_accounts_">No se pueden bloquear más de %d cuentas </string>
-    <string name="This_is_you_">Este eres tú</string>
+    <string name="This_is_you_">Este es usted.</string>
     <string name="Win_a_Paint_Game">Gana una partida de Pintar</string>
     <string name="Whiteout">Corrector</string>
     <string name="Speed_Painter">Pintor Veloz</string>
@@ -888,7 +888,7 @@
     <string name="REMOVE">ELIMINAR</string>
     <string name="BAN">BANEAR</string>
     <string name="MODERATORS">MODERADORES</string>
-    <string name="ALL_CLAN">TODOS\nCLANES</string>
+    <string name="ALL_CLAN">TODOS DEL\nCLAN</string>
     <string name="CO_LEADER">COLÍDER</string>
     <string name="CLAN_HOUSE">HOGAR DEL CLAN</string>
     <string name="ROOM">SALA</string>
@@ -1372,7 +1372,7 @@ Comandos:
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Permisos que faltan</string>
     <string name="DELETE_ACCOUNT">ELIMINAR CUENTA</string>
-    <string name="delete_prompt">¿Estás seguro de que deseas eliminar tu cuenta? ¡Esto es PERMANENTE y NO SE PUEDE DESHACER!</string>
+    <string name="delete_prompt">¿Estás seguro de que deseas eliminar su cuenta? ¡Esto es PERMANENTE y NO SE PUEDE DESHACER!</string>
 
 
     <string name="Type">Escribir</string>
@@ -1416,8 +1416,8 @@ Si no deseas registrarte, aún puedes jugar en modo individual."
     </string>
     <string name="_2x_skin_resolution">Doble resolución de skin</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="You_are_already_friends_">Ustedes ya son amigos.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">La cuenta debe tener al menos 1 día de creación para enviar mensajes.</string>
 
     <string-array name="control_modes">
         <item>"Normal"</item>
@@ -1453,7 +1453,7 @@ Si no deseas registrarte, aún puedes jugar en modo individual."
     </string-array>
 
     <string-array name="sizes">
-        <item>"Enano"</item>
+        <item>"Diminuto"</item>
         <item>"Pequeño"</item>
         <item>"Normal"</item>
         <item>"Grande"</item>
