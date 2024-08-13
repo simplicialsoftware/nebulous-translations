@@ -125,7 +125,7 @@
     <string name="Offline">"Çevrim dışı"</string>
     <string name="Achievement_Earned">"Kazanım edinildi"</string>
     <string name="REFRESH">"YENİLE"</string>
-    <string name="DONE">"TAMAM"</string>
+    <string name="DONE">"TAMAMLANDI"</string>
     <string name="Friend_Request_Sent">"Arkadaşlık İsteği Gönderildi…"</string>
     <string name="ERROR">"HATA"</string>
     <string name="CONTINUE">"DEVAM ET"</string>
@@ -597,7 +597,7 @@
     <string name="PRIZES">"ÖDÜLLER "</string>
 
     <string name="Enable_Custom_Skin">"Özel Avatarı Etkinleştir"</string>
-    <string name="Use_Custom_Skin">"Özel Avatar"</string>
+    <string name="Use_Custom_Skin">"Özel Avatar kullanmak"</string>
     <string name="custom_skin_description">"Bu özellik sizin profil resminizi veya bir dosyayı avatar olarak kullanabilmenizi sağlar. Ancak bu özellik sadece sizin gördüğünüz avatarı değiştirir. Diğer oyuncular sizin özel avatarınızı göremez."</string>
     <string name="CUSTOM_SKIN">"ÖZEL AVATAR"</string>
 
