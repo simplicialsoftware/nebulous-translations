@@ -425,10 +425,10 @@
     <string name="Purchase_Successful_">" تم الشراء!"</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"قد تحتاج لإعادة الدخول لكي يتم التفعيل."</string>
     <string name="Confirm_Purchase">"تأكيد الشراء"</string>
-    <string name="x3_XP_24_hours">"3X XP 24 ساعة"</string>
-    <string name="x3_XP_1_Hour">"3X XP 1 ساعة"</string>
-    <string name="x2_XP_24_Hour">"2X XP 24 ساعة"</string>
-    <string name="x2_XP_1_Hour">"2X XP 1 ساعة"</string>
+    <string name="x3_XP_24_hours">"مسرع نقاط الخبرة X3 لمدة 24 ساعة "</string>
+    <string name="x3_XP_1_Hour">"مسرع نقاط الخبرة X3 لمدة ساعة "</string>
+    <string name="x2_XP_24_Hour">"مسرع نقاط الخبرة X2 لمدة 24 ساعة "</string>
+    <string name="x2_XP_1_Hour">"مسرع نقاط الخبرة X2 لمدة ساعة "</string>
     <string name="Cost_">"الثمن:"</string>
     <string name="You_cannot_purchase_this_right_now_">"لا يمكنك شراء هذا الآن."</string>
 
@@ -477,9 +477,9 @@
     <string name="Gladiator">"مجالد"</string>
     <string name="Challenger">"المحارب المتحدي"</string>
     <string name="Win_1_1v1_Arenas_">"الفوز بتحدي 1ضد1."</string>
-    <string name="Win_10_Arenas_">"الفوز بـ10 تحديات."</string>
-    <string name="Win_100_Arenas_">"الفوز بـ 100 تحدي."</string>
-    <string name="Win_1000_Arenas">"الفوز بـ1000 تحدي."</string>
+    <string name="Win_10_Arenas_">"الفوز بـ ١٠ تحديات."</string>
+    <string name="Win_100_Arenas_">"الفوز بـ ١٠٠ تحدي."</string>
+    <string name="Win_1000_Arenas">"الفوز بـ ١٠٠٠ تحدي."</string>
 
 
     <string name="Already_in_arena_">"أنت في تحدي حاليّا"</string>
@@ -498,8 +498,8 @@
     <string name="Standard">"عادي"</string>
     <string name="Achievement">"إنجاز"</string>
     <string name="Flag">" العلم"</string>
-    <string name="Win_10_Clan_Wars">"الفوز بـ10 حروب العشائر"</string>
-    <string name="Win_100_Clan_Wars">"الفوز بـ100 حروب العشائر"</string>
+    <string name="Win_10_Clan_Wars">"الفوز بـ ١٠ حروب العشائر"</string>
+    <string name="Win_100_Clan_Wars">"الفوز بـ ١٠٠ حروب العشائر"</string>
     <string name="Clan_Commander">"قائد عشيرة"</string>
     <string name="Clan_General">"العشيرة العامة"</string>
     <string name="Clan_Wars_Won_">"حروب العشائر المربوحة:"</string>
@@ -509,16 +509,16 @@
 
     <string name="Present_Hoarder">"مكدس الهدايا"</string>
     <string name="Present_Mogul">"ملك الهدايا"</string>
-    <string name="Collect_1_000_presents_">"جمع 1000 من الهدايا."</string>
-    <string name="Collect_5_000_presents_">"جمع 5000 من الهدايا."</string>
-    <string name="Collect_10_000_presents_">"جمع 10،000 من الهدايا."</string>
+    <string name="Collect_1_000_presents_">"جمع ١٠٠٠ من الهدايا."</string>
+    <string name="Collect_5_000_presents_">"جمع ٥٠٠٠ من الهدايا."</string>
+    <string name="Collect_10_000_presents_">"جمع ١٠٠٠٠ من الهدايا."</string>
     <string name="Loading_reward_video___">"تحميل مكافأة الفيديو …"</string>
     <string name="Progress">"نسبة التقدم"</string>
     <string name="Snowflake_Hoarder">"مكدس الثلوج"</string>
     <string name="Snowflake_Mogul">"ملك تجميع الثلوج"</string>
-    <string name="Collect_1_000_snowflakes_">"جمع 1000 من الثلوج."</string>
-    <string name="Collect_5_000_snowflakes_">"جمع 5000 من الثلوج."</string>
-    <string name="Collect_10_000_snowflakes_">"جمع 10،000 من الثلج."</string>
+    <string name="Collect_1_000_snowflakes_">"جمع ١٠٠٠ من الثلوج."</string>
+    <string name="Collect_5_000_snowflakes_">"جمع ٥٠٠٠ من الثلوج."</string>
+    <string name="Collect_10_000_snowflakes_">"جمع ١٠٠٠٠ من الثلج."</string>
     <string name="Show_All">"عرض الكل"</string>
 
     <string name="SET_PERMISSIONS">"تعيين الأذونات"</string>
