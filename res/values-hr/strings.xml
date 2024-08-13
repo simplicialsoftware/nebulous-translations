@@ -4,7 +4,7 @@
     <string name="Control_">"Upravljaj "</string>
     <string name="CLOSE">"ZATVORI"</string>
     <string name="Stick_Size_">"Veličina Stika "</string>
-    <string name="Stick_Margin_">"Pozicija Stika "</string>
+    <string name="Stavljaargin_">"Pozicija Stika "</string>
     <string name="Button_Size_">"Veličina Tipki "</string>
     <string name="Button_Margin_">"Pozicija Tipki "</string>
     <string name="Buttons_">"Tipke"</string>
@@ -884,7 +884,7 @@
     <string name="This_player_selected_a_different_teammate_">"Ovaj igrač je odabrao drugog timera."</string>
     <string name="muted_until">"Zabrana govora do"</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">"Ocjena sadržaja aplikacije možda se promijeni igrajući multiplayer."</string>
-    <string name="UI_Opacity_">UI Nrprozirnost</string>
+    <string name="UI_Opacity_">UI Neprozirnost</string>
     <string name="LOAD">"UČITANO"</string>
     <string name="REMOVE">"UKLONI"</string>
     <string name="BAN">"ZABRANA</string>
@@ -933,7 +933,7 @@
     <string name="error_1">"Samo lider i dijamant mogu poslati klan mail."</string>
     <string name="Hat">"Šešir"</string>
     <string name="Hats">"Šeširi"</string>
-    <string name="Pet_Uploads">"Postavljeni ljubimci"</string>
+    <string name="Pet_Uploads">"Postavljeni Ljubimci"</string>
     <string name="BLOB">"BLOB"</string>
     <string name="Clan_Pet_Uploads">"Postavljeni Klan Ljubimci"</string>
     <string name="YT">"YT"</string>
@@ -1116,7 +1116,7 @@
     <string name="Joined">Pridružen</string>
     <string name="Requests">Zahtjevi</string>
     <string name="Invites">Pozivi</string>
-    <string name="Show_Spectator_Count">Prikaži broj gledatelja</string>
+    <string name="Show_Spectator_Count">Prikaži Broj Gledatelja</string>
     <string name="TRY_IT_">PROBAJ!</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Morate kupiti paket kako bi koristili ovo.</string>
     <string name="GET_PACK">NABAVI PAKET</string>
@@ -1128,7 +1128,7 @@
     <string name="Session_Stats">Statistika Trenutne Igre</string>
     <string name="Time_">Vrijeme:</string>
     <string name="Show_Session_Stats">Prikaži Statistiku Igre</string>
-    <string name="VALENTINES_DAY">"DAN VALENTINOVA"</string>
+    <string name="VALENTINES_DAY">"VALENTINOVO"</string>
     <string name="Giveaways_">Darivanja!</string>
     <string name="Max_XP_Chain_">Maksimalni XP Lanac:</string>
     <string name="POSITION_CANCEL_BUTTON">POZICIJA TIPKE ODGODI</string>
