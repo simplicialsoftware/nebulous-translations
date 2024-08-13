@@ -1,7 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <string name="Players">"Igrači"</string>
-    <string name="Control_">"Upravlja "</string>
+    <string name="Control_">"Upravljaj"</string>
     <string name="CLOSE">"ZATVORI"</string>
     <string name="Stick_Size_">"Veličina Stika "</string>
     <string name="Stick_Margin">"Pozicija Stika "</string>
