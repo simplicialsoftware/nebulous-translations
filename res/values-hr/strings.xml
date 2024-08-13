@@ -8,7 +8,7 @@
     <string name="Button_Size_">"Veličina Tipki "</string>
     <string name="Button_Margin_">"Pozicija Tipki "</string>
     <string name="Buttons_">"Tipke"</string>
-    <string name="DEFAULTS">"STANDARNI"</string>
+    <string name="DEFAULTS">"STANDARDNI"</string>
     <string name="WEEKLY">"TJEDNI"</string>
     <string name="DAILY">"DNEVNI"</string>
     <string name="Server_">"Server"</string>
@@ -809,10 +809,10 @@
     <string name="Tournament_Registered">"Registriran za Turnir"</string>
     <string name="Tournament">"Turnir"</string>
     <string name="TourneyDescription" tools:ignore="PluralsCandidate">You must register to play in the tournament. You will be charged the plasma when the tournament starts but you can unregister before it starts. The tournament will start when there are at least %d contestants.</string>
-    <string name="Register">"Registrirati se"</string>
+    <string name="Register">"Registriraj se"</string>
 
     <string name="Registered">"Registriran"</string>
-    <string name="Not_Registered">"Ne Registriran"</string>
+    <string name="Not_Registered">"Nisi Registriran"</string>
     <string name="Prize_Pool">"Nagradni Fond"</string>
     <string name="Registrants">"Registrirani"</string>
     <string name="Round_Of">"Krug"</string>
@@ -1176,7 +1176,7 @@
     <string name="Button_3D">3D Tipka</string>
     <string name="Hide_Button_">Sakri Tipku?</string>
     <string name="Show_Boost_Button">Prikaži Tipku Ubrzavanja</string>
-    <string name="Spectate_Killer_On_Death">Gledaj Protivnika Koji Te Ubijo</string>
+    <string name="Spectate_Killer_On_Death">Gledaj Protivnika Koji Te Ubio</string>
     <string name="Rainbow_Holes">Dugine Rupe</string>
     <string name="LIFE_STEAL">KRAĐA ŽIVOTA</string>
     <string name="Kicked_From_Game_">Izbačen Iz Igre!</string>
