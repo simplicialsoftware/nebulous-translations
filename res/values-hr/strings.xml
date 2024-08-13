@@ -8,15 +8,15 @@
     <string name="Button_Size_">"Veličina Tipki "</string>
     <string name="Button_Margin_">"Pozicija Tipki "</string>
     <string name="Buttons_">"Tipke"</string>
-    <string name="DEFAULTS">"Standardni"</string>
-    <string name="WEEKLY">"Tjedni"</string>
-    <string name="DAILY">"Dnevni"</string>
+    <string name="DEFAULTS">"STANDARNI"</string>
+    <string name="WEEKLY">"TJEDNI"</string>
+    <string name="DAILY">"DNEVNI"</string>
     <string name="Server_">"Server"</string>
     <string name="Game_Mode_">"Modovi "</string>
     <string name="Show_Names">"Prikaži Imena"</string>
     <string name="Show_Avatars">"Prikaži Skinove"</string>
-    <string name="PLAY">"Igraj"</string>
-    <string name="OPTIONS">"Opcije"</string>
+    <string name="PLAY">"IGRAJ"</string>
+    <string name="OPTIONS">"OPCIJE"</string>
 
     <string name="Avatar_">"Skin "</string>
     <string name="Name_">"Ime "</string>
@@ -72,7 +72,7 @@
     <string name="Max_Players">"Maksimum Igrača"</string>
     <string name="Min_Players">"Minimum Igrača"</string>
 
-    <string name="OK">"U redu"</string>
+    <string name="OK">"U Redu"</string>
     <string name="CANCEL">"ODGODI"</string>
     <string name="Chat_Name">"Ime Razgovora"</string>
     <string name="Max_People">"Maksimalno Ljudi"</string>
@@ -90,7 +90,7 @@
     <string name="Blue_Team">"Plavi Tim"</string>
     <string name="Yellow_Team">"Žuti Tim"</string>
     <string name="Signed_in_as_">"Prijavljen kao "</string>
-    <string name="Not_signed_in_">"Ne prijavljen"</string>
+    <string name="Not_signed_in_">"Nisi prijavljen"</string>
     <string name="SET_NAME">"POSTAVI IME"</string>
     <string name="SIGN_OUT">"ODJAVI SE"</string>
     <string name="ACHIEVEMENTS">"DOSTIGNUĆA"</string>
@@ -111,7 +111,7 @@
     <string name="FRIENDS">"PRIJATELJI"</string>
     <string name="Warning">"UPOZORENJE"</string>
     <string name="SIGNING_IN">"ULOGIRANJE…"</string>
-    <string name="New_Friend_Request">"Novi zahtjev za prijateljstvo"</string>
+    <string name="New_Friend_Request">"Novi Zahtjev za Prijateljstvo"</string>
     <string name="REQUEST_FRIEND">"POŠALJI ZAHTJEV ZA PRIJATELJSTVO"</string>
     <string name="Private">"Privatno"</string>
     <string name="Public">"Javno"</string>
@@ -126,7 +126,7 @@
     <string name="Achievement_Earned">"Dostignuće Osvojeno"</string>
     <string name="REFRESH">"OSVJEŽI"</string>
     <string name="DONE">"GOTOVO"</string>
-    <string name="Friend_Request_Sent">"Zahtjev za prijateljstvo poslan"</string>
+    <string name="Friend_Request_Sent">"Zahtjev za Prijateljstvo Poslan"</string>
     <string name="ERROR">"GREŠKA"</string>
     <string name="CONTINUE">"NASTAVI"</string>
     <string name="Global_" formatted="false">"Globalno "</string>
@@ -171,7 +171,7 @@
     <string name="Blobageddon">"Blobageddon"</string>
     <string name="Blobocalypse">"Blobocalypse"</string>
 
-    <string name="Experienced_Nebulator">"Iskusni nebulator"</string>
+    <string name="Experienced_Nebulator">"Iskusni Nebulator"</string>
     <string name="Expert_Nebulator">"Nebulator Ekspert"</string>
     <string name="Master_Nebulator">"Nebulator Master"</string>
     <string name="Grand_Master_Nebulator">"Veliki Nebulator Master"</string>
@@ -183,7 +183,7 @@
     <string name="Self_Contained">"Samostalno"</string>
     <string name="Survivalist">"Preživljavač"</string>
     <string name="Ultramassive">"Ultra masivan"</string>
-    <string name="Rapid_Ascension">"Rapidno penjanje"</string>
+    <string name="Rapid_Ascension">"Rapidno Penjanje"</string>
     <string name="Revenge">"Osveta"</string>
     <string name="Doge_Pound">"Doge Pound"</string>
 
@@ -250,7 +250,7 @@
     <string name="Blob_Mushiness">"Blob Gnjecavost"</string>
 
     <string name="Specify_private_game_name">"Navedite ime private igre"</string>
-    <string name="In_Game_Chat">"Razgovor U Ihri"</string>
+    <string name="In_Game_Chat">"Razgovor U Igri"</string>
     <string name="My_Status_">"Moj Status:"</string>
     <string name="Game_Size_">"Veličina Igre:"</string>
 
@@ -322,7 +322,7 @@
     <string name="Color_Blind">"Daltonist"</string>
     <string name="Daily_Quest_Complete_">"Dnevni Izazov Izvršen."</string>
     <string name="COPY_ID">"Kopiraj ID"</string>
-    <string name="My_Account_ID">"ID mog računa"</string>
+    <string name="My_Account_ID">"ID Mog Računa"</string>
 
 
     <string name="COMPLETE">"ZAVRŠENO"</string>
@@ -370,14 +370,14 @@
     <string name="_3v3">"3V3"</string>
     <string name="_5v5">"5v5"</string>
     <string name="_8v8">"8v8"</string>
-    <string name="Top_Ranks">"Top rangovi"</string>
-    <string name="My_Ranks">"Moji rangovi"</string>
+    <string name="Top_Ranks">"Top Rangovi"</string>
+    <string name="My_Ranks">"Moji Rangovi"</string>
     <string name="Player_XP">"Igračev XP"</string>
 
     <string name="W_D_L">"W D L"</string>
-    <string name="MATCH_START">"Početak meča"</string>
-    <string name="Clan_Warrior">"Klan ratnik"</string>
-    <string name="Win_a_Clan_War">"Pobijedi klan rat"</string>
+    <string name="MATCH_START">"POČETAK MEČA"</string>
+    <string name="Clan_Warrior">"Klan Ratnik"</string>
+    <string name="Win_a_Clan_War">"Pobijedi Klan Rat"</string>
     <string name="Global">"Globalno"</string>
     <string name="Spectating">"Gledanje"</string>
 
@@ -524,7 +524,7 @@
 
     <string name="SET_PERMISSIONS">"POSTAVI DOPUŠTENJA"</string>
     <string name="Start_Clan_War">"Pokreni Klan Rat"</string>
-    <string name="Min_Level">"Minimalni level"</string>
+    <string name="Min_Level">"Minimalni Level"</string>
     <string name="SAVE">"SPREMI"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Igrač ne zadovoljava minimalni potrebni level da bi se pridružio klanu:"</string>
     <string name="Insufficient_Permission">"Nedovoljna Dozvola"</string>
@@ -661,7 +661,7 @@
     <string name="Accept">"Prihvati"</string>
     <string name="Decline">"Odbij"</string>
     <string name="Challenge_Declined">"Izazov Odbijen"</string>
-    <string name="Spectators_">"Gledaoci:"</string>
+    <string name="Spectators_">"Gledatelji:"</string>
     <string name="Nebula_Collector">"Sakupljač Nebula"</string>
     <string name="Nebula_Hoarder">"Tvrdica Nebula"</string>
     <string name="Nebula_Mogul">"Mogul Nebula"</string>
@@ -773,7 +773,7 @@
     <string name="Subject">"Subjekt"</string>
     <string name="SEND">"POŠALJI"</string>
     <string name="To">"Do"</string>
-    <string name="RESET">"RESETIRATI"</string>
+    <string name="RESET">"RESETIRAJ"</string>
     <string name="Message_Sent_">"Poruka Poslana!"</string>
     <string name="From">"Od"</string>
     <string name="Sent">"Poslano"</string>
@@ -816,21 +816,21 @@
     <string name="Prize_Pool">"Nagradni Fond"</string>
     <string name="Registrants">"Registrirani"</string>
     <string name="Round_Of">"Krug"</string>
-    <string name="Next_Tournament">"Sljedeći turnir"</string>
-    <string name="Plasma_Won">"Plazme osvojeno"</string>
+    <string name="Next_Tournament">"Sljedeći Turnir"</string>
+    <string name="Plasma_Won">"Plazme Osvojeno"</string>
     <string name="Semi_Finals">"Polufinale"</string>
-    <string name="Quarter_Finals">"Četvrt finale"</string>
+    <string name="Quarter_Finals">"Četvrt Finale"</string>
     <string name="Competing">"Natjecanje"</string>
     <string name="Finals">"Finale"</string>
     <string name="Unregister">"Odregistrirati se"</string>
     <string name="Enter_My_Match">"Uđi u Moj Meč"</string>
     <string name="Starts_In">"Počinje Za"</string>
     <string name="Seconds">"Sekunde"</string>
-    <string name="Tournaments_Temporarily_Disabled">"Turniri privremeno onemogućeni"</string>
+    <string name="Tournaments_Temporarily_Disabled">"Turniri Privremeno Onemogućeni"</string>
     <string name="CLAN_NAME_COLOR">"BOJA IMENA KLANA"</string>
     <string name="Tuber">"Lukovica"</string>
     <string name="youtube_prompt">"Youtube upit."</string>
-    <string name="Tournament_Matches_Won_">"Turnir mečeva osvojeno:"</string>
+    <string name="Tournament_Matches_Won_">"Turnir Mečeva Osvojeno:"</string>
     <string name="PAINT">"BOJA"</string>
     <string name="BLOCKED_ACCOUNTS">"BLOKIRANI RAČUNI"</string>
     <string name="UNBLOCK">"ODBLOKIRAJ"</string>
@@ -926,7 +926,7 @@
     <string name="Wait_for_the_current_invitation_to_expire_">"Pričekajte da trenutni poziv istekne."</string>
     <string name="BLOB_COLOR">"BOJA BLOBA"</string>
     <string name="ENABLED">"OMOGUĆENO"</string>
-    <string name="Enable_Custom_Blob_Color">"Omogućite prilagođenu boju bloba"</string>
+    <string name="Enable_Custom_Blob_Color">"Omogućite Prilagođenu Boju Bloba"</string>
     <string name="Choose_Menu">"Odaberi Izbornik"</string>
     <string name="SPECTATE">"GLEDAJ"</string>
     <string name="INVITE">"POZOVI"</string>
@@ -953,18 +953,18 @@
     <string name="Blob_Chat_Bubbles">"Blob Razgovorni Mjehurići"</string>
     <string name="CHRISTMAS_ADVENT_SKINS">"SKINOVI BOŽIĆNOG ADVENTA"</string>
     <string name="You_cannot_open_this_present_yet_">"Ne možete još otvoriti ovaj poklon!"</string>
-    <string name="Open_Present">"Otvori poklon"</string>
+    <string name="Open_Present">"Otvori Poklon"</string>
     <string name="OPEN">"OTVORI"</string>
     <string name="Halo">"Vijenac"</string>
     <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Da biste koristili ovaj vijenac morate biti najmanje level %1$s i zaraditi %2$s dostignuća."</string>
     <string name="Halos">"Vjenci"</string>
     <string name="CAMPAIGN">"KAMPANJA"</string>
     <string name="Mission">"Misija"</string>
-    <string name="Kill_All_Bots">"Ubij sve botove"</string>
+    <string name="Kill_All_Bots">"Ubij Sve Botove"</string>
     <string name="Survive">"Preživi"</string>
     <string name="Mission_d_Complete">"Misija %d dovršena!"</string>
     <string name="Mission_d_Failed">"Misija %d neuspješna!"</string>
-    <string name="Next_Mission">"Sljedeća misija"</string>
+    <string name="Next_Mission">"Sljedeća Misija"</string>
     <string name="Objective">"Objekt"</string>
     <string name="GAME">IGRA</string>
     <string name="Saved_">Spremljeno!</string>
@@ -978,7 +978,7 @@
     <string name="BANNED">ZABRANJEN</string>
     <string name="CLAN_MEMBERS">KLAN ČLANOVI</string>
     <string name="CLAN_REQUESTS">KLAN ZAHTJEVI</string>
-    <string name="Pet_1">Ljunimac 1</string>
+    <string name="Pet_1">Ljubimac 1</string>
     <string name="Pet_2">Ljubimac 2</string>
     <string name="Second_Pet">Omogućuje vam da imate dva kućna ljubimca u isto vrijeme</string>
     <string name="This_item_requires">Ova stvar zahtjeva</string>
@@ -1031,7 +1031,7 @@
     <string name="WORLD_CUP_EVENT___">WORLD CUP EVENT!!!</string>
     <string name="world_cup_event_description">Dupli XP i dupla plazma u nogomet igri do kraja svjetskog prvenstva!</string>
     <string name="GIF_Skins">GIF Skinovi</string>
-    <string name="PLAY_ONLINE_">IGRAJ ONLINE!</string>
+    <string name="PLAY_ONLINE_">IGRAJ NA VEZI!</string>
     <string name="Absorb_10_000_000_dots">Pojedi 10,000,000 dots</string>
     <string name="Dot_Deity">Točkica Deity</string>
     <string name="Mass_Mastery">Mass Mastery</string>
@@ -1121,7 +1121,7 @@
     <string name="You_need_to_buy_a_pack_to_use_this_">Morate kupiti paket kako bi koristili ovo.</string>
     <string name="GET_PACK">NABAVI PAKET</string>
     <string name="Position_in_queue">Pozicija u redu</string>
-    <string name="PROFILE_MENU_BACKGROUND_COLOR">PROFILE MENI BOJA POZADINE</string>
+    <string name="PROFILE_MENU_BACKGROUND_COLOR">BOJA POZADINE PROFIL MENIA</string>
     <string name="DARK_MATTER">TAMNA TVAR</string>
     <string name="Textures_will_be_regenerated_">Crne teksture i prilagođeni skinovi će biti regenerirani.</string>
     <string name="Enable_Profile_Colors">Omogući Boje Profila</string>
@@ -1176,7 +1176,7 @@
     <string name="Button_3D">3D Tipka</string>
     <string name="Hide_Button_">Sakri Tipku?</string>
     <string name="Show_Boost_Button">Prikaži Tipku Ubrzavanja</string>
-    <string name="Spectate_Killer_On_Death">Nastavi promatrati protivnika koji te ubio</string>
+    <string name="Spectate_Killer_On_Death">Gledaj Protivnika Koji Te Ubijo</string>
     <string name="Rainbow_Holes">Dugine Rupe</string>
     <string name="LIFE_STEAL">KRAĐA ŽIVOTA</string>
     <string name="Kicked_From_Game_">Izbačen Iz Igre!</string>
@@ -1209,7 +1209,7 @@
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Napravi 10,000 tricks u Trick Mode igri.</string>
     <string name="Tricky">Lukav</string>
     <string name="SUPPORTER">VIP</string>
-    <string name="CONQUEROR">CONQUEROR</string>
+    <string name="CONQUEROR">OSVAJAČ</string>
     <string name="TRICKY">LUKAV</string>
     <string name="x4_XP_Permanent">4x XP Trajni</string>
     <string name="x4_XP_24_hours">4x XP 24 Hours</string>
@@ -1233,7 +1233,7 @@
     <string name="Plasma_Boost_2_Hours_">Plazma Boost 2 Sata.</string>
     <string name="Plasma_Boost">Povećanje Plazme</string>
     <string name="particle_info">Moraš dostignuti najmanje lvl 50 i koristiti skin koji ima particle kako bi ih mogao vidjeti.</string>
-    <string name="Plain_Score_Text">"Plain Score Text"</string>
+    <string name="Plain_Score_Text">"Običan Tekst Rezultata"</string>
     <string name="Custom_Skin_Reviewed_Notification">Tvoj Prilagođeni Skin Je Pregledan!</string>
     <string name="You_Have_Mail_">Dobio Si Mail od %s!</string>
     <string name="Clan_Request_Reviewed_Notification">Tvoj Zahtjev Za Pridruživanje %s klanu je pregledan! </string>
@@ -1243,7 +1243,7 @@
     <string name="South_Africa">Južna Afrika</string>
     <string name="SPLIT_">SPLIT:</string>
     <string name="WALLS">ZIDOVI</string>
-    <string name="COMP_BANNED">COMP BANNED</string>
+    <string name="COMP_BANNED">COMP BANAN</string>
     <string name="FIND_GAMES">PRONAĐI IGRE</string>
     <string name="PLAY_SOLO">IGRAJ SAM</string>
     <string name="SET_EMOTE">POSTAVI KAO EMOTE</string>
@@ -1254,19 +1254,19 @@
     <string name="Battle_Royale">Battle Royale</string>
     <string name="The_winner_will_receive_x_plasma_">Pobjednik će dobiti %s plazme !</string>
     <string name="admin_commands">"
-Komande:
-!izbaci [0–31]
-!resetiraj
-!dobrodošli {poruka}
-!težina [0-3] ili [1-4] for Kampanju
-!skriveno
-!gosti
-!sporirazgovor
-!pauzirajrazgovor
-!utišaj {id}
+Commands:
+!kick [0–31]
+!reset
+!welcome {message}
+!difficulty [0-3] or [1-4] for Campaign
+!hidden
+!guests
+!slowchat
+!pausechat
+!mute {id}
 !admin {id}
-!dopusti {id}
-!dopustiresetiranje"
+!allow {id}
+!allow reset"
 </string>
     <string name="ID_Sort">ID Sort</string>
     <string name="Master_Tamer">Majstor Krotitelj</string>
@@ -1314,7 +1314,7 @@ Komande:
 
 
     <string-array name="control_modes">
-        <item>"Normalan"</item>
+        <item>"Normalno"</item>
         <item>"Bez Zaustavljanja"</item>
         <item>"Povuci Prema"</item>
         <item>"Odvuci"</item>
@@ -1328,15 +1328,15 @@ Komande:
         <item>"Desna + lijeva"</item>
         <item>"Stack lijevi"</item>
         <item>"Stack Desno"</item>
-        <item>"Custom"</item>
+        <item>"Prilagođeno"</item>
     </string-array>
 
     <string-array name="themes">
         <item>"Zvijezde (tamna)"</item>
         <item>"Grid (tamna)"</item>
         <item>"Grid (bijeli)"</item>
-        <item>"Custom"</item>
-        <item>"nijedan"</item>
+        <item>"Prilagođeno"</item>
+        <item>"Nijedan"</item>
     </string-array>
 
     <string-array name="difficulties">
@@ -1351,7 +1351,7 @@ Komande:
         <item>"Mala"</item>
         <item>"Normalna"</item>
         <item>"Velika"</item>
-        <item>"Ogromna"</item>
+        <item>"OGROMNA"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
