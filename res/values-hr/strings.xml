@@ -235,7 +235,7 @@
     <string name="Mass_Ejected_">"Ispucano Mase:"</string>
     <string name="Times_Ejected_">"Puta Ispucano:"</string>
     <string name="Times_Split_">"Puta Splitano:"</string>
-    <string name="Biggest_Blob_">"Najveći Nlob:"</string>
+    <string name="Biggest_Blob_">"Najveći Blob:"</string>
     <string name="Highest_Score_">"Najveći Rezultat:"</string>
     <string name="Average_Score_">"Prosječni Rezultat:"</string>
     <string name="Times_Played_">"Puta Igrano:"</string>
@@ -249,7 +249,7 @@
     <string name="Special_Effects">"Specijalni Efekti"</string>
     <string name="Blob_Mushiness">"Blob Gnjecavost"</string>
 
-    <string name="Specify_private_game_name">"Navedite ime private igre"</string>
+    <string name="Specify_private_game_name">"Navedite ime privatne igre"</string>
     <string name="In_Game_Chat">"Razgovor U Igri"</string>
     <string name="My_Status_">"Moj Status:"</string>
     <string name="Game_Size_">"Veličina Igre:"</string>
