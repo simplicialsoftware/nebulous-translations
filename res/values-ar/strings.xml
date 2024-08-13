@@ -1370,7 +1370,7 @@ Commands:
 
 "إذا كنت لا ترغب في تسجيل الدخول، يمكنك أيضًا اللعب الفردي.
     </string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="_2x_skin_resolution">2X دقة الجلد</string>
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
