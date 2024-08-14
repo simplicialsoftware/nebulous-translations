@@ -39,7 +39,7 @@
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"الخمول"</string>
     <string name="Name_Invalid_">"الإسم غير صالح !"</string>
-    <string name="Name_Taken_">"الاسم مستعمل."</string>
+    <string name="Name_Taken_">"الإسم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
     <string name="PLAYING">"في طور اللعب"</string>
@@ -117,7 +117,7 @@
     <string name="Bot">"لاعب آلي"</string>
     <string name="You">"أنت"</string>
     <string name="This_player_is_a_bot">"هذا اللاعب آلي"</string>
-    <string name="This_player_is_not_signed_in">"هذا الاعب لم يسجل الدخول"</string>
+    <string name="This_player_is_not_signed_in">"هذا اللاعب لم يسجل الدخول"</string>
 
     <string name="Online">"مُـتَـصِـل"</string>
     <string name="Unknown">"غير معروف"</string>
@@ -636,7 +636,7 @@
     <string name="Shoot_20_Powerups_Without_Restarting">"إطلاق 20 من أسلحة القوة دون إعادة التشغيل"</string>
     <string name="Request_Timed_Out">"إنتهت مدة صلاحية الطلب"</string>
     <string name="You_Are_Spectating_">"أنت مشاهد."</string>
-    <string name="Account_In_Use_">"الحساب في قيد الاستخدام!"</string>
+    <string name="Account_In_Use_">"الحساب قيد الاستخدام!"</string>
     <string name="Cannot_Join_Arena_">"لا يمكن دخول الحلبة."</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"تسجيل الخروج سيجعلك تغادر اللعبة الحالية!"</string>
     <string name="raindrops_">"قطرات المطر."</string>
@@ -827,7 +827,7 @@
     <string name="Tournaments_Temporarily_Disabled">البطولات متوقفة مؤقتاً</string>
     <string name="CLAN_NAME_COLOR">لون إسم العشيرة</string>
     <string name="Tuber">اليوتيوبرز</string>
-    <string name="youtube_prompt">هل تريد زيارة هذه القناة الخاصة باللعبة؟ هذه القناه ليست تابعة لمصممي اللعبة</string>
+    <string name="youtube_prompt">هل تريد زيارة هذه القناة الخاصة باللعبة؟ هذه القناة ليست تابعة لمصممي اللعبة</string>
     <string name="Tournament_Matches_Won_">مباريات البطولات المربوحة:</string>
     <string name="PAINT">الرسم</string>
     <string name="BLOCKED_ACCOUNTS">الحسابات المحظورة</string>
@@ -869,7 +869,7 @@
     <string name="TEAM_DEATHMATCH">"فِرق الموت"</string>
     <string name="Speed_Click_Toggle">"تبديل سرعة الضغط"</string>
     <string name="MOD">"مُدير"</string>
-    <string name="FAQ">الأسئلة الأكثر طرحاً</string>
+    <string name="FAQ">الإسئلة الأكثر طرحاً</string>
     <string name="BUY_EXTRA_SPINS">شراء حزمات تدوير إضافية</string>
     <string name="Spins_Remaining">التدويرات المتبقية</string>
     <string name="One_Spin">تدوير واحد (1)</string>
@@ -913,7 +913,7 @@
     <string name="gift_to_friend">"هدية لصديق"</string>
     <string name="gift_purchase_warning">"لن تتلقى عملية الشراء هذه لأنك اخترت تقديم هدية لعملية الشراء هذه إلى صديق."</string>
     <string name="x2_Clan_XP_7_Days">"مسرع نقاط خبرة العشيرة X2 لـ7أيام"</string>
-    <string name="RECEIVED">"تم الاستلام"</string>
+    <string name="RECEIVED">"تم الإستلام"</string>
     <string name="SENT">"تم الإرسال"</string>
     <string name="Enable_Invites">"تمكين الدعوات"</string>
     <string name="Game_Invitation">"الدعوة إلى اللعبة"</string>
@@ -951,7 +951,7 @@
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
 اللعبة\n
 \n
-1. لا تقم بمشاركة او تبادل الحسابات مع أي شخص، سيتسبب ذلك بحضر حسابي كِلا اللاعبيْن بشكل دائم.\n
+1. لا تقم بمشاركة او تبادل الحسابات مع أي شخص، سيتسبب ذلك بحظر حسابي كِلا اللاعبيْن بشكل دائم.\n
 2. لا تقم بطلب حساب من أي شخص، سيتسبب ذلك بحضر حسابك بشكل دائم\n
 3. لا تقم بالتظاهر أنك مُدير او يوتيوبر، سيتسبب ذلك بحضر حسابك بشكل دائم\n
 4. لا تقم بالغش للوصول إلى مراتب عالية في حروب العشيرة او التحديات، سيتسبب ذلك بإعادة نقاط و إنجازات حسابك من الصفر و قد تصل الأمور حتى حضر حسابك بشكل دائم\n
