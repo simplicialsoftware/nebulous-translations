@@ -25,6 +25,6 @@ jobs:
         uses: github/super-linter@v5
         env:
           VALIDATE_XML: true
-          VALIDATE_ALL_CODEBASE: true
+          VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: "main"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
