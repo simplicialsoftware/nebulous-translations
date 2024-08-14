@@ -37,8 +37,8 @@ jobs:
         echo "android { compileSdkVersion 34 }" >> app/build.gradle
         echo "task wrapper(type: Wrapper) { gradleVersion = '7.0.2' }" >> app/build.gradle
 
-    - name: Generate Gradle Wrapper
-      run: ./gradlew wrapper
+    - name: Generate Gradle Wrapper using Gradle
+      run: gradle wrapper
       working-directory: app
 
     - name: Run Lint
