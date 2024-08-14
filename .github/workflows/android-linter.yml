@@ -35,9 +35,15 @@ jobs:
         touch app/build.gradle
         echo "apply plugin: 'com.android.application'" >> app/build.gradle
         echo "android { compileSdkVersion 34 }" >> app/build.gradle
+        echo "task wrapper(type: Wrapper) { gradleVersion = '7.0.2' }" >> app/build.gradle
+
+    - name: Generate Gradle Wrapper
+      run: ./gradlew wrapper
+      working-directory: app
 
     - name: Run Lint
       run: ./gradlew lint
+      working-directory: app
 
     - name: Upload Lint Reports
       if: always()
