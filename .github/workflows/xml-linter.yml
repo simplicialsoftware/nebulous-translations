@@ -1,0 +1,30 @@
+name: Lint Code Base
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  run-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Identify changed XML files
+        id: changed_files
+        run: |
+          git fetch origin ${{ github.base_ref }} --depth=1
+          git diff --name-only --diff-filter=ACMRT origin/${{ github.base_ref }}...HEAD | grep '\.xml$' > changed_files.txt
+
+      - name: Run xmllint on changed XML files
+        run: |
+          if [ -s changed_files.txt ]; then
+            cat changed_files.txt | xargs -I {} xmllint --noout --valid --encode UTF-8 {}
+          else
+            echo "No XML files were changed."
+          fi
