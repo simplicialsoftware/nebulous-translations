@@ -49,6 +49,7 @@ You can always message @critikangel on Discord for help, advice, or support.
 `res/values-ar`: Arabic<br>
 `res/values-ar-rIQ`: Arabic (Iraq)<br>
 `res/values-az`: Azerbaijani<br>
+`res/values-b+es+r419`: Spanish (Latin America)<br>
 `res/values-bg`: Bulgarian<br>
 `res/values-bn`: Bengali<br>
 `res/values-bs`: Bosnian<br>

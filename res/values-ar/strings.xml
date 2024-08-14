@@ -1371,6 +1371,9 @@ Commands:
 "إذا كنت لا ترغب في تسجيل الدخول، يمكنك أيضًا اللعب الفردي.
     </string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="pm">الخاص</string>
+    <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
 
 
     <string-array name="control_modes">
@@ -1411,7 +1414,7 @@ Commands:
         <item>"صغير"</item>
         <item>"عادي"</item>
         <item>"كبير"</item>
-        <item>"HUGE"</item>
+        <item>"ضخم"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">

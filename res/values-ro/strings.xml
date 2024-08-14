@@ -1119,7 +1119,7 @@
     <string name="TRY_IT_">TRY IT!</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">You need to buy a pack to use this.</string>
     <string name="GET_PACK">GET PACK</string>
-    <string name="Position_in_queue">Position in queue</string>
+    <string name="Position_in_queue">Poziție în coadă</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">PROFILE MENU BACKGROUND COLOR</string>
     <string name="DARK_MATTER">DARK MATTER</string>
     <string name="Textures_will_be_regenerated_">Black textures and custom skins will be regenerated.</string>
@@ -1307,6 +1307,9 @@ Commands:
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="pm">PM</string>
+    <string name="You_are_already_friends_">You are already friends.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
 
 
     <string-array name="control_modes">
