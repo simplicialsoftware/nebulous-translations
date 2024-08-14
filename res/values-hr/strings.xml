@@ -182,7 +182,7 @@
     <string name="Dodgey">"Dodgey"</string>
     <string name="Self_Contained">"Samostalno"</string>
     <string name="Survivalist">"Survivalist"</string>
-    <string name="Ultramassive">"Ultra masivan"</string>
+    <string name="Ultramassive">"Ultramasivan"</string>
     <string name="Rapid_Ascension">"Rapidno Penjanje"</string>
     <string name="Revenge">"Osveta"</string>
     <string name="Doge_Pound">"Doge Pound"</string>
@@ -333,8 +333,8 @@
     <string name="Win_a_Survival_Game">"Pobijedi Opstanak Igru"</string>
     <string name="Win_a_Teams_Time_Game">"Pobijedi Timovi Vrijeme Igru"</string>
     <string name="Reach_a_score_of_">"Dostigni rezultat:"</string>
-    <string name="_in_a_FFA_Game">" U FFA Ugri"</string>
-    <string name="_in_a_Teams_Game">" U Timovi Igri"</string>
+    <string name="_in_a_FFA_Game">" u FFA Ugri"</string>
+    <string name="_in_a_Teams_Game">" u Timovi Igri"</string>
     <string name="_dots">" točkica"</string>
     <string name="_player_blobs">" igračevi blobovi"</string>
     <string name="Absorb_">"Pojedi:"</string>
@@ -415,7 +415,7 @@
     <string name="Purchases_Unavailable_">"Kupovine Nedostupne!"</string>
     <string name="You_can_purchase_this_skin_for">"Možete kupiti ovaj skin za"</string>
     <string name="PURCHASE">"KUPI"</string>
-    <string name="Error_in_backup_data_">"Pogreška u kopiji podataka!"</string>
+    <string name="Error_in_backup_data_">"Greška u sigurnosnoj kopiji podataka!"</string>
 
 
     <string name="Remove_Ads">"Ukloni Reklame"</string>
@@ -466,7 +466,7 @@
     <string name="Collect_1_000_Plasma">"Sakupi 1 000 Plazme."</string>
     <string name="Collect_10_000_Plasma_">"Sakupi 10 000 Plazme."</string>
     <string name="Collect_100_000_Plasma">"Sakupi 100 000 Plazme."</string>
-    <string name="Plasma_Collected_">"Plazme Sakupljeno::"</string>
+    <string name="Plasma_Collected_">"Plazme Sakupljeno:"</string>
     <string name="Plasma_Purchases">"Kupnje Plazme"</string>
 
     <string name="ENTER">"UĐI"</string>
@@ -541,7 +541,7 @@
     <string name="Team_Size">"Veličina Tima"</string>
     <string name="Team_Name">"Naziv Tima"</string>
     <string name="CREATE_TEAM">"NAPRAVI TIM"</string>
-    <string name="Solo">"Solo"</string>
+    <string name="Solo">"Sam"</string>
     <string name="Teams">"Timovi"</string>
     <string name="Team">"Tim"</string>
     <string name="Specify_Account_ID">"Navedite ID Računa"</string>
