@@ -18,8 +18,10 @@ jobs:
       - name: Identify changed XML files
         id: changed_files
         run: |
-          git fetch origin ${{ github.base_ref }} --depth=1
-          git diff --name-only --diff-filter=ACMRT origin/${{ github.base_ref }}...HEAD | grep '\.xml$' > changed_files.txt
+          git fetch origin main --depth=1
+          git diff --name-only --diff-filter=ACMRT origin/main...HEAD | grep '\.xml$' > changed_files.txt
+          echo "Changed XML files:"
+          cat changed_files.txt
 
       - name: Run xmllint on changed XML files
         run: |
