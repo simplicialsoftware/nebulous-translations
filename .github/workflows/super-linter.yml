@@ -27,5 +27,6 @@ jobs:
           VALIDATE_XML: true
           VALIDATE_MARKDOWN: true
           VALIDATE_ALL_CODEBASE: false
+          ACTIONS_RUNNER_DEBUG: false
           DEFAULT_BRANCH: "main"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
