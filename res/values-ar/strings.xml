@@ -117,7 +117,7 @@
     <string name="Bot">"لاعب آلي"</string>
     <string name="You">"أنت"</string>
     <string name="This_player_is_a_bot">"هذا اللاعب آلي"</string>
-    <string name="This_player_is_not_signed_in">"هذا الاعب لم يسجل الدخول"</string>
+    <string name="This_player_is_not_signed_in">"هذا اللاعب لم يسجل الدخول"</string>
 
     <string name="Online">"مُـتَـصِـل"</string>
     <string name="Unknown">"غير معروف"</string>
@@ -218,7 +218,7 @@
 
     <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"الوصول إلى ١٠٠٠٠ درجة دورة أي دائرة"</string>
     <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"الوصول إلى ٥٠٠٠ درجة دون تقسيم أو إخراج"</string>
-    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"لعب ٥ دقائق مباشرة دون الاصطدام مع أي ثقب أسود"</string>
+    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"لعب ٥ دقائق مباشرة دون الإصطدام مع أي ثقب أسود"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"لعب ٥ دقائق مباشرة دون أن تفقد أي دائرة"</string>
     <string name="Play_20_minutes_straight_without_restarting">"لعب ٢٠ دقيقة مباشرة دون إعادة تشغيل"</string>
     <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"استيعاب ٥ من الثقوب السوداء بعد ٣٠ ثانية من البداية"</string>
@@ -293,7 +293,7 @@
     <string name="That_clan_is_full_">"هذه العَشيرة ممتَلئة!"</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"هذا المستخدم ليس عضو في عشيرتك:"</string>
     <string name="_You_can_t_be_your_own_friend_">"لا يمكنك أن تكون صديق لنفسك:"</string>
-    <string name="A_clan_with_that_name_already_exists_">"عشيرة بهذا الاسم موجودة مسبقا:"</string>
+    <string name="A_clan_with_that_name_already_exists_">"عشيرة بهذا الإسم موجودة مسبقا:"</string>
     <string name="Duration_">"المدة:"</string>
 
     <string name="FFA_Time_Domination">"سيطرة بالتوقيت"</string>
@@ -330,8 +330,8 @@
     <string name="Win_a_CTF_Game">"الفوز في لعبة إمساك العلم"</string>
     <string name="Win_a_Soccer_Game">"الفوز في لعبة كرة القدم"</string>
     <string name="Win_a_Survival_Game">"الفوز بلعبة النجاة"</string>
-    <string name="Win_a_Teams_Time_Game">"فوز في لعبة الفرق بالتوقيت"</string>
-    <string name="Reach_a_score_of_">"الوصول الى الدرجة "</string>
+    <string name="Win_a_Teams_Time_Game">"الفوز في لعبة الفرق بالتوقيت"</string>
+    <string name="Reach_a_score_of_">"الوصول إلى الدرجة "</string>
     <string name="_in_a_FFA_Game">" في لعبة حر للجميع"</string>
     <string name="_in_a_Teams_Game">" في لعبة الفرق"</string>
     <string name="_dots">" النقاط"</string>
