@@ -39,7 +39,7 @@
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"الخمول"</string>
     <string name="Name_Invalid_">"الإسم غير صالح !"</string>
-    <string name="Name_Taken_">"الاسم مستعمل."</string>
+    <string name="Name_Taken_">"الإسم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
     <string name="PLAYING">"في طور اللعب"</string>
@@ -954,7 +954,7 @@
 1. لا تقم بمشاركة او تبادل الحسابات مع أي شخص، سيتسبب ذلك بحظر حسابي كِلا اللاعبيْن بشكل دائم.\n
 2. لا تقم بطلب حساب من أي شخص، سيتسبب ذلك بحضر حسابك بشكل دائم\n
 3. لا تقم بالتظاهر أنك مُدير او يوتيوبر، سيتسبب ذلك بحضر حسابك بشكل دائم\n
-4. لا تقم بالغش للوصول إلى مراتب عالية في حروب العشيرة او التحديات، سيتسبب ذلك بإعادة نقاط و إنجازات حسابك من الصفر و قد تصل الأمور حتى حضر حسابك بشكل دائم\n
+4. لا تقم بالغش للوصول إلى مراتب عالية في حروب العشيرة او التحديات، سيتسبب ذلك بإعادة نقاط و إنجازات حسابك من الصفر و قد تصل الأمور حتى حظر حسابك بشكل دائم\n
 5. لا تسأل عن مرتبة القائد داخل العشائر\n
 6. لا تقم بمضايقة او إهانة أي أحد\n
 7. لا تقم بإنشاء ردهات دردشة بأسماء غير لائِقة\n
@@ -1224,7 +1224,7 @@
     <string name="Names_Below_Blobs">معلومات اللاعب تحت الدائرة</string>
     <string name="Name_Scale_">"مقياس الأسم:"</string>
     <string name="Button_3D">زر ثلاثي الأبعاد</string>
-    <string name="Hide_Button_">أخفاء زر?</string>
+    <string name="Hide_Button_">إخفاء زر?</string>
     <string name="Show_Boost_Button">إظهار زر التعزيز</string>
     <string name="Spectate_Killer_On_Death">مُشاهدة القاتل</string>
     <string name="Rainbow_Holes">ثُقب قوس قزح</string>
@@ -1237,7 +1237,7 @@
     <string name="Absorbed_">مُنهَمِك:</string>
     <string name="team_warning">" تجعل خصمُك من الفرق سيؤدي ذلك الى حظرك من اللعبة."</string>
     <string name="Search_Filter">تصفيّة البَحِث</string>
-    <string name="Received_">تم الاستلام:</string>
+    <string name="Received_">تم الإستلام:</string>
     <string name="Opponent_Rating_Limit_">حد تصنيف الخصم</string>
     <string name="TOGGLE_FAVORITE">تبديل المُفَضلة</string>
     <string name="Favorited">مُفضَل</string>
@@ -1273,7 +1273,7 @@
     <string name="x4_Clan_XP_1_Day">4x نقاط خبرة العشيرة لمُدَّة يوم</string>
     <string name="CHARGE_UP">الشُحنْةُ</string>
     <string name="CLAN_DESCRIPTION_COLOR">لونِ وصف العشيرة</string>
-    <string name="Responsible_Pet_Owner">مسؤل الحيوانات الأليفة</string>
+    <string name="Responsible_Pet_Owner">مسؤول الحيوانات الأليفة</string>
     <string name="Animal_Tamer">مُروِّض الحيوان</string>
     <string name="Crocodile_Hunter">صياد التمساح</string>
     <string name="Get_A_Pet_To_Level_X_">أجعل الحيوان مستوى %d.</string>
@@ -1294,7 +1294,7 @@
     <string name="SPLIT_">قسْمَةُ:</string>
     <string name="WALLS">جُدران</string>
     <string name="COMP_BANNED">"حُظِر من الحَلبة</string>
-    <string name="FIND_GAMES">البحث عن غرفه!</string>
+    <string name="FIND_GAMES">البحث عن غرفة!</string>
     <string name="PLAY_SOLO">اللعِب الفردي</string>
     <string name="SET_EMOTE">ضع مُلصقاً</string>
     <string name="Winner_Winner_Chicken_Dinner">رابح، والدجاج هو العَشاء!</string>
@@ -1321,7 +1321,7 @@ Commands:
 </string>
     <string name="ID_Sort">نوع الهوية</string>
     <string name="Master_Tamer">مُروِّض مُتقن</string>
-    <string name="Get_ALL_Pets_To_Level_100_">قُم بتوصيل جميع الحيوانات الآليفه الى مستوى 100</string>
+    <string name="Get_ALL_Pets_To_Level_100_">قُم بتوصيل جميع الحيوانات الأليفة الى مستوى 100</string>
     <string name="TAMER">مُروِّض</string>
     <string name="Allow_Recombine">السماح بإعادة التجميع</string>
     <string name="Defenders">المُدافِعون</string>
@@ -1374,7 +1374,7 @@ Commands:
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
-    <string name="Translator">Translator</string>
+    <string name="Translator">مُترجِم</string>
 
 
     <string-array name="control_modes">
