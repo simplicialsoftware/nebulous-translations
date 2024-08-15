@@ -181,7 +181,7 @@
     <string name="Dodgey">"ملاحق الكلاب"</string>
     <string name="Self_Contained">"اللاعب المتحفظ"</string>
     <string name="Survivalist">"المكافح"</string>
-    <string name="Ultramassive">"لعملاق"</string>
+    <string name="Ultramassive">"العملاق"</string>
     <string name="Rapid_Ascension">"الصعود السريع"</string>
     <string name="Revenge">"انتقام"</string>
     <string name="Doge_Pound">"جامع الكلاب"</string>
@@ -827,7 +827,7 @@
     <string name="Tournaments_Temporarily_Disabled">البطولات متوقفة مؤقتاً</string>
     <string name="CLAN_NAME_COLOR">لون إسم العشيرة</string>
     <string name="Tuber">اليوتيوبرز</string>
-    <string name="youtube_prompt">هل تريد زيارة هذه القناة الخاصة باللعبة؟ هذه القناه ليست تابعة لمصممي اللعبة</string>
+    <string name="youtube_prompt">هل تريد زيارة هذه القناة الخاصة باللعبة؟ هذه القناة ليست تابعة لمصممي اللعبة</string>
     <string name="Tournament_Matches_Won_">مباريات البطولات المربوحة:</string>
     <string name="PAINT">الرسم</string>
     <string name="BLOCKED_ACCOUNTS">الحسابات المحظورة</string>
@@ -913,7 +913,7 @@
     <string name="gift_to_friend">"هدية لصديق"</string>
     <string name="gift_purchase_warning">"لن تتلقى عملية الشراء هذه لأنك اخترت تقديم هدية لعملية الشراء هذه إلى صديق."</string>
     <string name="x2_Clan_XP_7_Days">"مسرع نقاط خبرة العشيرة X2 لـ7أيام"</string>
-    <string name="RECEIVED">"تم الاستلام"</string>
+    <string name="RECEIVED">"تم الإستلام"</string>
     <string name="SENT">"تم الإرسال"</string>
     <string name="Enable_Invites">"تمكين الدعوات"</string>
     <string name="Game_Invitation">"الدعوة إلى اللعبة"</string>
@@ -951,7 +951,7 @@
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
 اللعبة\n
 \n
-1. لا تقم بمشاركة او تبادل الحسابات مع أي شخص، سيتسبب ذلك بحضر حسابي كِلا اللاعبيْن بشكل دائم.\n
+1. لا تقم بمشاركة او تبادل الحسابات مع أي شخص، سيتسبب ذلك بحظر حسابي كِلا اللاعبيْن بشكل دائم.\n
 2. لا تقم بطلب حساب من أي شخص، سيتسبب ذلك بحضر حسابك بشكل دائم\n
 3. لا تقم بالتظاهر أنك مُدير او يوتيوبر، سيتسبب ذلك بحضر حسابك بشكل دائم\n
 4. لا تقم بالغش للوصول إلى مراتب عالية في حروب العشيرة او التحديات، سيتسبب ذلك بإعادة نقاط و إنجازات حسابك من الصفر و قد تصل الأمور حتى حضر حسابك بشكل دائم\n
