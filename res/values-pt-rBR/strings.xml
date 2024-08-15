@@ -462,16 +462,16 @@
     <string name="Plasma_Mogul">"Magnata de Plasmas"</string>
     <string name="Plasma_Collector">"Coletor de Plasmas"</string>
     <string name="Plasma_Hoarder">"Colecionador de Plasmas"</string>
-    <string name="Collect_1_000_Plasma">"Colete 1.000 Plasma."</string>
-    <string name="Collect_10_000_Plasma_">"Colete 10.000 Plasma."</string>
-    <string name="Collect_100_000_Plasma">"Colete 100.000 Plasma."</string>
-    <string name="Plasma_Collected_">"Plasma Coletado:"</string>
+    <string name="Collect_1_000_Plasma">"Colete 1.000 Plasmas."</string>
+    <string name="Collect_10_000_Plasma_">"Colete 10.000 Plasmas."</string>
+    <string name="Collect_100_000_Plasma">"Colete 100.000 Plasmas."</string>
+    <string name="Plasma_Collected_">"Plasmas Coletados:"</string>
     <string name="Plasma_Purchases">"Compras de Plasma"</string>
 
     <string name="ENTER">"ENTRAR"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Praticar"</string>
-    <string name="ArenaDescription">Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "free wins" resultará em um banimento.</string>
+    <string name="ArenaDescription">Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
     <string name="Contestant">"Competidor"</string>
     <string name="Duelist">"Duelista"</string>
     <string name="Gladiator">"Gladiador"</string>
@@ -907,7 +907,7 @@
     <string name="x2_Clan_XP_1_Day">2x Clã XP 1 Dia</string>
     <string name="Pets">Mascotes</string>
     <string name="Pet">Mascote</string>
-    <string name="You_can_purchase_this_pet_for">Você pode comprar esse mascote por</string>
+    <string name="You_can_purchase_this_pet_for">Você pode comprar este mascote por</string>
     <string name="gift_to_friend">Presente Para Amigo</string>
     <string name="gift_purchase_warning">Você não receberá esta compra porque escolheu enviar esta compra para um amigo.</string>
     <string name="x2_Clan_XP_7_Days">2x Clã XP 7 Dias</string>
@@ -993,7 +993,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="App_Perf_Stats">Estatísticas do Desempenho do App</string>
     <string name="COPY">COPIAR</string>
     <string name="_1v1_Ultra">1v1 Ultra</string>
-    <string name="ArenaDescriptionUltra">O vencedor receberá %s plasma. Negociar vitórias ou "free wins" resultará em um banimento.</string>
+    <string name="ArenaDescriptionUltra">O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
     <string name="BANNED">BANIDO</string>
     <string name="CLAN_MEMBERS">MEMBROS DO CLÃ</string>
     <string name="CLAN_REQUESTS">SOLICITAÇÕES DO CLÃ</string>
@@ -1019,7 +1019,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="Birthday">Aniversário</string>
     <string name="Mass_Boost">Impulso de Massa</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">O Impulso de Massa não funciona em arenas, torneios, e Guerras de Clãs!</string>
-    <string name="ArenaDescriptionPure">SEM autoclick ou ultraclick. Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "free wins" resultará em um banimento.</string>
+    <string name="ArenaDescriptionPure">SEM autoclick ou ultraclick. Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
     <string name="_1v1_Pure">1v1 Puro</string>
     <string name="Allow_Ultraclick">Permitir Ultraclick</string>
     <string name="Allow_Mass_Boost">Permitir Impulso de Massa</string>
