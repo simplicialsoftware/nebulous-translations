@@ -8,7 +8,7 @@
     <string name="Button_Margin_">"إرتفاع الأزرار:"</string>
     <string name="Buttons_">"الأزرار:"</string>
     <string name="DEFAULTS">"الإفتراضي"</string>
-    <string name="WEEKLY">"الأسبوعي"</string>
+    <string name="WEEKLY">"الإسبوعي"</string>
     <string name="DAILY">"اليومي"</string>
     <string name="Server_">"السيرفر"</string>
     <string name="Game_Mode_">"نوع اللعبة"</string>
@@ -39,7 +39,7 @@
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"الخمول"</string>
     <string name="Name_Invalid_">"الإسم غير صالح !"</string>
-    <string name="Name_Taken_">"الاسم مستعمل."</string>
+    <string name="Name_Taken_">"الإسم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
     <string name="PLAYING">"في طور اللعب"</string>
@@ -343,7 +343,7 @@
 
 
     <string name="pumpkins_">"اليقطين."</string>
-    <string name="To_use_this_skin_you_must_collect">"لاستخدام هذه الصورة يجب عليك جمع"</string>
+    <string name="To_use_this_skin_you_must_collect">"لإستخدام هذه الصورة يجب عليك جمع"</string>
     <string name="Australia">"أستراليا"</string>
     <string name="Pumpkin_Collector">"جامع اليقطين"</string>
     <string name="Collect_1000_pumpkins_">"جمع 1000 يقطينة."</string>
@@ -1148,10 +1148,10 @@
     <string name="Rainbow">ثُقب مُلوَّن</string>
     <string name="Horizontal">أفقي</string>
     <string name="Vertical">رأسي</string>
-    <string name="GROUP">مجموعه</string>
+    <string name="GROUP">مجموعة</string>
     <string name="LEAVE">غادر</string>
-    <string name="Group">مجموعه</string>
-    <string name="Not_in_a_group_">ليس في المجموعه</string>
+    <string name="Group">مجموعة</string>
+    <string name="Not_in_a_group_">ليس في المجموعة</string>
     <string name="Failed">فشل</string>
     <string name="Failed_to_join">فشل في الدخول</string>
     <string name="Full">ممتلئ</string>
@@ -1218,7 +1218,7 @@
     <string name="Play_Nebulous_For_1_Year_">ألعب نيبلوس لمُدَّة 1 سنة!</string>
     <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سنة!</string>
     <string name="Starting___">بدء…</string>
-    <string name="Tournament_Starting">البُطولة بدأءت</string>
+    <string name="Tournament_Starting">البُطولة بدأت</string>
     <string name="Max_Tilt_Angle_3D_">زأوية الميل القصوى ثلاثي الأبعاد</string>
     <string name="Mode_3D">وضع ثلاثي الأبعاد</string>
     <string name="Names_Below_Blobs">معلومات اللاعب تحت الدائرة</string>
