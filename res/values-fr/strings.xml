@@ -1324,8 +1324,10 @@ Commandes:
 !admin {id}
 !allow {id}
 !allow reset
-!team [1-4] {id} (Seulement en les modes d'équipes)
-!winner"
+!team [1-4] {id} ( Seulement en les modes d'équipes )
+!winner
+!stats
+!info"
 </string>
     <string name="ID_Sort">ID Sort</string>
     <string name="Master_Tamer">Maître Dompteur</string>
