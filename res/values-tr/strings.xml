@@ -426,10 +426,10 @@
     <string name="Purchase_Successful_">"Satın alım başarılı."</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Ürünü kullanabilmek için yeniden bağlanmanız gerekebilir."</string>
     <string name="Confirm_Purchase">"İşlemi Onayla"</string>
-    <string name="x3_XP_24_hours">"24 saatliğine 3 kat XP"</string>
-    <string name="x3_XP_1_Hour">"1 saatliğine 3 kat XP"</string>
-    <string name="x2_XP_24_Hour">"24 saatliğine 2 kat XP"</string>
-    <string name="x2_XP_1_Hour">"1 saatliğine 2 kat XP"</string>
+    <string name="x3_XP_24_hours">"24 Saatlik 3x XP"</string>
+    <string name="x3_XP_1_Hour">"1 Saatlik 3x XP"</string>
+    <string name="x2_XP_24_Hour">"24 Saatlik 2x XP"</string>
+    <string name="x2_XP_1_Hour">"1 Saatlik 2x XP"</string>
     <string name="Cost_">"Maliyet:"</string>
     <string name="You_cannot_purchase_this_right_now_">"Bunu şu an satın alamazsınız."</string>
 
@@ -1263,8 +1263,8 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="CONQUEROR">"FATİH"</string>
     <string name="TRICKY">"TRICKY"</string>
     <string name="x4_XP_Permanent">"Kalıcı 4x XP"</string>
-    <string name="x4_XP_24_hours">"24 saatliğine 4x XP"</string>
-    <string name="x4_XP_1_Hour">"1 saatliğine 4x XP"</string>
+    <string name="x4_XP_24_hours">"24 Saatlik 4x XP"</string>
+    <string name="x4_XP_1_Hour">"1 Saatlik 4x XP"</string>
     <string name="Quad">"Dörtlü"</string>
     <string name="Middle_East">"Orta Doğu"</string>
     <string name="XP_4x">"XP 4x"</string>
@@ -1355,7 +1355,7 @@ Komutlar:
     <string name="activate">"Aktivite et"</string>
     <string name="clan_id">"Klan ID"</string>
     <string name="language_change_warning">"Dili değiştirmek, uygulamanın yeniden başlatılmasına neden olur."</string>
-    <string name="xmas_gift_boost_message">"1 Günlük 3x Plasma Güçlendirici hediyesi aldın!"</string>
+    <string name="xmas_gift_boost_message">"1 Günlük 3x Plasma Takviye hediyesi aldın!"</string>
     <string name="no_response">"Sunucudan Cevap yok. Lütfen İnternet bağlantınızı kontrol edin"</string>
     <string name="RAMADAN">"RAMAZAN"</string>
     <string name="SUDDEN_ATTACK">"Ani Saldırı"</string>
@@ -1375,7 +1375,7 @@ Oturum açmak istemiyorsanız, tek oyunculu oynamaya devam edebilirsiniz."
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Siz zaten arkadaşsınız.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Posta gönderebilmek için hesabın en az 1 günlük olması gerekir.</string>
-    <string name="Translator">Translator</string>
+    <string name="Translator">Çevirmen</string>
 
     <string-array name="control_modes">
         <item>"Normal"</item>
