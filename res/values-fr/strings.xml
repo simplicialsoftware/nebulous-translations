@@ -1379,11 +1379,11 @@ Commands:
 
 Si vous ne souhaitez pas vous connecter, vous pouvez toujours jouer en mode solo."
     </string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="_2x_skin_resolution">2x résolution de la peau</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="You_are_already_friends_">Vous êtes déjà amis.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Le compte doit avoir 1 jour pour envoyer du courrier.</string>
+    <string name="Translator">traducteur</string>
 
     <string-array name="control_modes">
         <item>"Moyen"</item>
