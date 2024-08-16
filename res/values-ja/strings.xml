@@ -1053,14 +1053,14 @@
     <string name="Leave_blank_for_all_uploaders_">アップロードした人を全員空白にします.</string>
     <string name="More___">もっと…</string>
     <string name="This_cannot_be_used_in_FFA_Classic_">This cannot be used in FFA Classic.</string>
-    <string name="ENEMY">ENEMY</string>
+    <string name="ENEMY">敵</string>
     <string name="ALLY">ALLY</string>
-    <string name="Rename">Rename</string>
+    <string name="Rename">名前を変更する</string>
     <string name="Set_friendly_name_">Set friendly name.</string>
     <string name="Leave_blank_for_none_">Leave blank for none.</string>
     <string name="Vote_Kick">Kick Player</string>
-    <string name="FONT">FONT</string>
-    <string name="CIRCLE">CIRCLE</string>
+    <string name="FONT">フォント</string>
+    <string name="CIRCLE">丸</string>
     <string name="SQUARES">SQUARES</string>
     <string name="TRICK_MODE">TRICK MODE</string>
     <string name="ICE_SPLIT">ICE SPLIT</string>
@@ -1204,7 +1204,7 @@
     <string name="Champion">Champion</string>
     <string name="Win_10_Tournaments">Win 10 Tournaments</string>
     <string name="Win_100_Tournaments">Win 100 Tournaments</string>
-    <string name="HERO">HERO</string>
+    <string name="HERO">ヒーロー</string>
     <string name="CHAMPION">CHAMPION</string>
     <string name="DASH">DASH</string>
     <string name="setting_changed">Settings updated. You may need to reconnect to the server for it to take effect.</string>
@@ -1288,7 +1288,7 @@ Commands:
     <string name="Specify_Reason_">Specify Reason:</string>
     <string name="FREE_FOR_ALL">FREE FOR ALL</string>
     <string name="SPECIAL">SPECIAL</string>
-    <string name="FREE">FREE</string>
+    <string name="FREE">無料</string>
     <string name="x5_Clan_XP_1_Day">5X CLAN XP 1 DAY</string>
     <string name="x5_Clan_XP_7_days">5X CLAN XP 7 DAYS</string>
     <string name="x5_Clan_XP_Perm">5X CLAN XP PERMANENT!</string>
@@ -1311,7 +1311,7 @@ Commands:
     <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
+    <string name="You_are_already_friends_">あなたはすでに友達です.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
     <string name="Translator">翻訳人</string>
 
