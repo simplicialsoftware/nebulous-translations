@@ -1376,6 +1376,7 @@ Commands:
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
     <string name="Translator">يترجم</string>
 
+
     <string-array name="control_modes">
         <item>"طبيعي"</item>
         <item>"خاص"</item>
