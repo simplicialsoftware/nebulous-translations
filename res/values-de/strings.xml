@@ -1099,7 +1099,7 @@ Wenn du einen Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">Exklusive Skins, Haustiere, Hüte und noch mehr!</string>
     <string name="BUY_NOW_">JETZT KAUFEN!</string>
     <string name="already_purchased">Du oder die Person, für die du das kaufst, besitzt es bereits.</string>
-    <string name="Halo_Animations">Halo Animationen</string>
+    <string name="Halo_Animations">Hüllen Animationen</string>
     <string name="Trick_Notifications">Trick Benachrichtigungen</string>
     <string name="Channel">Kanal</string>
     <string name="Choose_Text_Size">Textgröse auswählen</string>
@@ -1290,7 +1290,7 @@ Commands:
 !winner"
 </string>
     <string name="ID_Sort">ID Sort</string>
-    <string name="Master_Tamer">Meister BÄNDIGER</string>
+    <string name="Master_Tamer">Meister Bändiger</string>
     <string name="Get_ALL_Pets_To_Level_100_">Bekomme ALLE Haustiere auf Level 100</string>
     <string name="TAMER">BÄNDIGER</string>
     <string name="Allow_Recombine">Rekombinieren zulassen</string>
