@@ -1311,11 +1311,11 @@ Ceci est une liste des choses qui sont *Interdit* d'utiliser dans des skins pers
     <string name="Battle_Royale">Bataille Royale</string>
     <string name="The_winner_will_receive_x_plasma_">Le gagnant recevra %s plasma!</string>
     <string name="admin_commands">"
-Commands:
+Commandes:
 !kick [0–31]
 !reset
 !welcome {message}
-!difficulty [0-3] or [1-4] for Campaign
+!difficulty [0-3] ou [1-4] pour la Campagne
 !hidden
 !guests
 !slowchat
@@ -1324,6 +1324,7 @@ Commands:
 !admin {id}
 !allow {id}
 !allow reset
+!team [1-4] {id} (Seulement en les modes d'équipes)
 !winner"
 </string>
     <string name="ID_Sort">ID Sort</string>
@@ -1381,9 +1382,9 @@ Si vous ne souhaitez pas vous connecter, vous pouvez toujours jouer en mode solo
     </string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
+    <string name="You_are_already_friends_">Vous êtes déjà amis.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="Translator">Traducteur</string>
 
     <string-array name="control_modes">
         <item>"Moyen"</item>
