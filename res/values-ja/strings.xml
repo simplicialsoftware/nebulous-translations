@@ -60,8 +60,8 @@
     <string name="SERVER">"サーバー"</string>
     <string name="Joining_game_in_">"ゲームに参加"</string>
     <string name="Game_Full">"満員"</string>
-    <string name="US_East">"東部アメリカ"</string>
-    <string name="US_West">"西部アメリカ"</string>
+    <string name="US_East">"中央アメリカ"</string>
+    <string name="US_West">"北アメリカ"</string>
     <string name="Europe">"ヨーロッパ"</string>
     <string name="South_America">"南アメリカ"</string>
 
@@ -1071,10 +1071,10 @@
     <string name="click_info">Autoclick / Ultraclick do not work in FFA Classic!</string>
     <string name="Hooked">Hooked</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Be pulled by a hookshot spell for 10 seconds</string>
-    <string name="Pack">Pack</string>
-    <string name="Skin_Pack">Skin Pack</string>
-    <string name="SKIN_PACK">SKIN PACK</string>
-    <string name="HALLOWEEN">HALLOWEEN</string>
+    <string name="Pack">パック</string>
+    <string name="Skin_Pack">スキンパック</string>
+    <string name="SKIN_PACK">スキンパック</string>
+    <string name="HALLOWEEN">ハロウィン</string>
 
     <string name="pack_info">After you purchase this skin pack your exclusive skins will appear at the top of the skin selection menus.</string>
 
@@ -1083,16 +1083,16 @@
     <string name="already_purchased">You or the person you are buying this for already own this.</string>
     <string name="Halo_Animations">Halo Animations</string>
     <string name="Trick_Notifications">トリック通知</string>
-    <string name="Channel">Channel</string>
+    <string name="Channel">チャンネル</string>
     <string name="Choose_Text_Size">Choose Text Size</string>
-    <string name="LEVEL_COLOR">LEVEL COLOR</string>
+    <string name="LEVEL_COLOR">レベルの色</string>
     <string name="INITIATE">INITIATE</string>
     <string name="x3_Clan_XP_Perm">クラン経験値3倍永久に！</string>
     <string name="x2_Clan_XP_Perm">クラン経験値2倍永久に！</string>
-    <string name="Japan">Japan</string>
-    <string name="South_Korea">South Korea</string>
-    <string name="Asia">Asia</string>
-    <string name="SET_PRIVACY">SET PRIVACY</string>
+    <string name="Japan">日本</string>
+    <string name="South_Korea">韓国</string>
+    <string name="Asia">アジア</string>
+    <string name="SET_PRIVACY">プライバシーを設定</string>
     <string name="ANIMATION">ANIMATION</string>
     <string name="Color_Cycle">Color Cycle</string>
     <string name="Fast">Fast</string>
@@ -1111,7 +1111,7 @@
     <string name="Not_enough_plasma_">Not enough plasma!</string>
     <string name="GET_PLASMA">GET PLASMA</string>
     <string name="ASTEROIDS">ASTEROIDS</string>
-    <string name="CHRISTMAS">CHRISTMAS</string>
+    <string name="CHRISTMAS">クリスマス</string>
     <string name="Reason">Reason</string>
     <string name="PUBLIC">PUBLIC</string>
     <string name="PRIVATE">PRIVATE</string>
@@ -1130,7 +1130,7 @@
     <string name="Session_Stats">Session Stats</string>
     <string name="Time_">Time:</string>
     <string name="Show_Session_Stats">Show Session Stats</string>
-    <string name="VALENTINES_DAY">"VALENTINES DAY"</string>
+    <string name="VALENTINES_DAY">"バレンタインデー"</string>
     <string name="Giveaways_">Giveaways!</string>
     <string name="Max_XP_Chain_">Max XP Chain:</string>
     <string name="POSITION_CANCEL_BUTTON">POSITION CANCEL BUTTON</string>
@@ -1147,7 +1147,7 @@
     <string name="Refund__Multiskin">Refund\nMultiskin</string>
     <string name="Invalid_Clan_ID_">Invalid clan ID.</string>
     <string name="MUTED">MUTED</string>
-    <string name="SKIN">SKIN</string>
+    <string name="SKIN">スキン</string>
     <string name="Choose_Skin_Size">Choose Skin Size</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Other players will not be able to hear you!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Allow permission to enable voice recording.</string>
@@ -1217,7 +1217,7 @@
     <string name="x4_XP_24_hours">4x XP 24 Hours</string>
     <string name="x4_XP_1_Hour">4x XP 1 Hour</string>
     <string name="Quad">Quadruple</string>
-    <string name="Middle_East">Middle East</string>
+    <string name="Middle_East">中東</string>
     <string name="XP_4x">XP 4x</string>
     <string name="You_cannot_play_for_x_minutes_">You cannot play for %d minutes.</string>
     <string name="x4_Clan_XP_Perm">クラン経験値4倍永久に！</string>
@@ -1242,7 +1242,7 @@
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
     <string name="Sold_Community_Skins_">"Sold Community Skins: "</string>
     <string name="Estimated_Earnings_">"Estimated Earnings: "</string>
-    <string name="South_Africa">South Africa</string>
+    <string name="South_Africa">南アフリカ</string>
     <string name="SPLIT_">SPLIT:</string>
     <string name="WALLS">WALLS</string>
     <string name="COMP_BANNED">COMP BANNED</string>
@@ -1302,7 +1302,7 @@
     <string name="x5_XP_Permanent">5X XP PERMANENT</string>
     <string name="CAMPAIGN_2">CAMPAIGN 2</string>
     <string name="XP_5x">XP 5x</string>
-    <string name="India">India</string>
+    <string name="India">インディア</string>
     <string name="Tutorial">Tutorial</string>
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
