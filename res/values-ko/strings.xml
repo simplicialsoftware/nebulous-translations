@@ -38,7 +38,7 @@
     <string name="Score__">"점수: "</string>
     <string name="Recombine_">"재결합:"</string>
     <string name="WINNER_">"우승자:"</string>
-    <string name="IDLE">"자리 비움"</string>
+    <string name="IDLE">"자리비움"</string>
     <string name="Name_Invalid_">"잘못된 이름입니다."</string>
     <string name="Name_Taken_">"이름이 사용중입니다."</string>
     <string name="CONNECTED">"연결 됨"</string>
