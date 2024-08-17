@@ -1148,10 +1148,10 @@
     <string name="Rainbow">ثُقب مُلوَّن</string>
     <string name="Horizontal">أفقي</string>
     <string name="Vertical">رأسي</string>
-    <string name="GROUP">مجموعه</string>
+    <string name="GROUP">مجموعة</string>
     <string name="LEAVE">غادر</string>
-    <string name="Group">مجموعه</string>
-    <string name="Not_in_a_group_">ليس في المجموعه</string>
+    <string name="Group">مجموعة</string>
+    <string name="Not_in_a_group_">ليس في المجموعة</string>
     <string name="Failed">فشل</string>
     <string name="Failed_to_join">فشل في الدخول</string>
     <string name="Full">ممتلئ</string>
@@ -1235,7 +1235,7 @@
     <string name="Collected_">جُمِعت:</string>
     <string name="Collisions_">تَعارُض:</string>
     <string name="Absorbed_">مُنهَمِك:</string>
-    <string name="team_warning">" تجعل خصمُك من الفرق سيؤدي ذلك الى حظرك من اللعبة."</string>
+    <string name="team_warning">" جعل خصمُك من الفريق سيؤدي ذلك إلى حظرك من اللعبة."</string>
     <string name="Search_Filter">تصفيّة البَحِث</string>
     <string name="Received_">تم الاستلام:</string>
     <string name="Opponent_Rating_Limit_">حد تصنيف الخصم</string>
@@ -1282,7 +1282,7 @@
     <string name="Plasma_Boost_1_Day_">مُسرِّع البلازما لمُدَّة يوم!</string>
     <string name="Plasma_Boost_2_Hours_">مُسرِّع البلازما لمُدَّة ساعتين.</string>
     <string name="Plasma_Boost">مُسرِّع البلازما</string>
-    <string name="particle_info">يجِب ان تكون في المستوى الـ 50 على الأقل وتستخدم سكن اساسي به جزئيَّات. من أجل رؤية أي جزئيات أخرى.</string>
+    <string name="particle_info">يجِب أن تكون في المستوى الـ 50 على الأقل وتستخدم سكن اساسي به جزئيَّات. من أجل رؤية أي جزئيات أخرى.</string>
     <string name="Plain_Score_Text">"نص النقاط"</string>
     <string name="Custom_Skin_Reviewed_Notification">لقد قمنا بمُراجعة سكنك!</string>
     <string name="You_Have_Mail_">لديك رسالة من %s!</string>
@@ -1294,7 +1294,7 @@
     <string name="SPLIT_">قسْمَةُ:</string>
     <string name="WALLS">جُدران</string>
     <string name="COMP_BANNED">"حُظِر من الحَلبة</string>
-    <string name="FIND_GAMES">البحث عن غرفه!</string>
+    <string name="FIND_GAMES">البحث عن غرفة!</string>
     <string name="PLAY_SOLO">اللعِب الفردي</string>
     <string name="SET_EMOTE">ضع مُلصقاً</string>
     <string name="Winner_Winner_Chicken_Dinner">رابح، والدجاج هو العَشاء!</string>
