@@ -48,7 +48,6 @@ You can always message @critikangel on Discord for help, advice, or support.
 `res/values`: English<br>
 `res/values-af`: Afrikaans<br>
 `res/values-ar`: Arabic<br>
-`res/values-ar-rIQ`: Arabic (Iraq)<br>
 `res/values-az`: Azerbaijani<br>
 `res/values-b+es+r419`: Spanish (Latin America)<br>
 `res/values-bg`: Bulgarian<br>
@@ -72,7 +71,9 @@ You can always message @critikangel on Discord for help, advice, or support.
 `res/values-it`: Italian<br>
 `res/values-ja`: Japanese<br>
 `res/values-ka`: Georgian<br>
+`res/values-kk`: Kazakh<br>
 `res/values-ko`: Korean<br>
+`res/values-ku`: Kurdish (Kurdî)<br>
 `res/values-lt`: Lithuanian<br>
 `res/values-lv`: Latvian<br>
 `res/values-mk`: Macedonian<br>
@@ -92,12 +93,12 @@ You can always message @critikangel on Discord for help, advice, or support.
 `res/values-sv`: Swedish<br>
 `res/values-ta`: Tamil<br>
 `res/values-th`: Thai<br>
-`res/values-tl`: Tagalog<br>
+`res/values-tl`: Tagalog (Pilipino)<br>
 `res/values-tr`: Turkish<br>
 `res/values-uk`: Ukrainian<br>
 `res/values-vi`: Vietnamese<br>
 `res/values-zh-rCN`: Chinese (Simplified)<br>
-`res/values-zh-rTW`: Chinese (Traditional)
+`res/values-zh-rTW`: Chinese (Traditional)<br>
 
 ## Frequently Asked Questions
 #### I saw an untranslated string in Nebulous. It's not in any of the files here. What do I do?
