@@ -1,7 +1,7 @@
 <resources>
-    <string name="Players">"Pemain"</string>
+    <string name="Players">"BENER"</string>
     <string name="Control_">"Kontrol:"</string>
-    <string name="CLOSE">"TUTUP"</string>
+    <string name="CLOSE">"BENER"</string>
     <string name="Stick_Size_">"Ukuran tongkat:"</string>
     <string name="Stick_Margin_">"Tepi tongkat:"</string>
     <string name="Button_Size_">"Ukuran tombol:"</string>
