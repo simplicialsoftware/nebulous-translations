@@ -1252,11 +1252,11 @@
     <string name="Battle_Royale">Tử Chiến</string>
     <string name="The_winner_will_receive_x_plasma_">Người chiến thắng nhận %s plasma!</string>
     <string name="admin_commands">"
-Commands:
+Lệnh:
 !kick [0–31]
 !reset
-!welcome {message}
-!difficulty [0-3] or [1-4] for Campaign
+!welcome {tin nhắn}
+!difficulty [0-3] hay là [1-4] cho Chiến Dịch
 !hidden
 !guests
 !slowchat
@@ -1264,7 +1264,11 @@ Commands:
 !mute {id}
 !admin {id}
 !allow {id}
-!allow reset"
+!allow reset
+!team [1-4] {id} (Chỉ ở chế độ đội)
+!winner
+!stats
+!info"
 </string>
     <string name="ID_Sort">ID Sort</string>
     <string name="Master_Tamer">Vua Thú Cưng</string>
@@ -1309,7 +1313,7 @@ Commands:
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">You are already friends.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="Translator">Người Dịch Thuật</string>
 
 
     <string-array name="control_modes">
