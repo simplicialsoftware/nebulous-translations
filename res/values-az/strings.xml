@@ -1393,9 +1393,9 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
     <string name="SUDDEN_ATTACK">"Qəfil Hücum"</string>
     <string name="_2x_skin_resolution">2x Cild Keyfiyyəti</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="You_are_already_friends_">Siz artıq dostsunuz.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Poçt göndərmək üçün hesab 1 günlük olmalıdır.</string>
+    <string name="Translator">tərcüməçi</string>
 
 
     <string-array name="control_modes">
