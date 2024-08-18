@@ -1362,8 +1362,8 @@ Nebulous 규칙\n
     <string name="language_change_warning">언어를 변경하면 애플리케이션이 재시작 됩니다.</string>
     <string name="xmas_gift_boost_message">1일 동안 사용 가능한 플라즈마 3배 부스터를 선물 받았습니다!</string>
     <string name="no_response">서버에서 응답이 없습니다. 인터넷 연결을 확인하십시오.</string>
-    <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="RAMADAN">라마단</string>
+    <string name="SUDDEN_ATTACK">서든어택</string>
 
     <string name="sign_in_explanation" translatable="true">
 "멀티플레이어에 접속하려면 로그인하세요. 다음과 같은 기능을 이용할 수 있습니다:
