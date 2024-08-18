@@ -598,7 +598,7 @@
     <string name="Enable_Custom_Skin">"تمكين الصور المخصصة"</string>
     <string name="Use_Custom_Skin">"الصورة المخصصة"</string>
     <string name="custom_skin_description">"تمكنك هذه الميزة من تحميل صورتك الشخصية التي لن تظهر للجميع حتى تفعلها عن طريق الشراء."</string>
-    <string name="CUSTOM_SKIN">"صورة مخصصة"</string>
+    <string name="CUSTOM_SKIN">"الصورة المخصصة"</string>
 
     <string name="Facebook_Profile">"ملف الفيسبوك الشخصي"</string>
     <string name="You_must_be_signed_in_to_Facebook_">"يجب أن تسجل الدخول إلى الفيسبوك."</string>
@@ -1051,7 +1051,7 @@
     <string name="world_cup_event_description">مضاعفة نقاط الخبرة و البلازما في لعبة كرة القدم حتى نهاية حدث كأس العالم !!!</string>
     <string name="GIF_Skins">جُلود مُتحركة</string>
     <string name="upload_details" translatable="true">"
-الصورة مخصصة
+الصورة المخصصة
 
 عندما تشتري مظهرًا مخصصًا ، ستنخفض جودة الصورة ، لكن هذا ليس ذا أهمية كبيرة وهو أمر طبيعي (لا فرق تقريبًا عند اللعب).
 
@@ -1119,9 +1119,9 @@
     <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكيه!</string>
     <string name="Hooked">مُعلَق</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">لقد علقت في خطاف لمدة 10ثواني</string>
-    <string name="Pack">حزمه</string>
-    <string name="Skin_Pack">حزمه اشكال</string>
-    <string name="SKIN_PACK">حزمه اشكال</string>
+    <string name="Pack">حزمة</string>
+    <string name="Skin_Pack">حزمة اشكال</string>
+    <string name="SKIN_PACK">حزمة اشكال</string>
     <string name="HALLOWEEN">هالويين</string>
 
     <string name="pack_info">بعد شراء حزمة الجِلد هذه ، ستظهر جُلودك الحصرية في الجزء العلوي من قوائم اختيار الجِلد</string>
@@ -1161,8 +1161,8 @@
     <string name="ASTEROIDS">شُهُب</string>
     <string name="CHRISTMAS">كريسماس</string>
     <string name="Reason">السبب</string>
-    <string name="PUBLIC">العام</string>
-    <string name="PRIVATE">خـاص</string>
+    <string name="PUBLIC">عـامة</string>
+    <string name="PRIVATE">خـاصة</string>
     <string name="Joined">الأنضمامات</string>
     <string name="Requests">الطلبات</string>
     <string name="Invites">الدعوات</string>
@@ -1345,7 +1345,7 @@ Commands:
     <string name="x5_XP_1_Hour">  مسرع X5 لمدة ساعة</string>
     <string name="x5_XP_24_hours">مسرع X5 لمدة 24ساعة</string>
     <string name="x5_XP_Permanent">مسرع دائم X5</string>
-    <string name="CAMPAIGN_2">حملة 2</string>
+    <string name="CAMPAIGN_2">حملة ضد الاَليين 2</string>
     <string name="India">الهند</string>
     <string name="Tutorial">الدورة التعليمية</string>
     <string name="TYCOON">حاصِد</string>
