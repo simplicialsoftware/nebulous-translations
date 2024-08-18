@@ -154,7 +154,7 @@
     <string name="Single_Handedly">"Seorang diri"</string>
     <string name="Dodgey">"Dodgey"</string>
     <string name="Self_Contained">"Serba lengkap"</string>
-    <string name="Survivalist">"Survivalist"</string>
+    <string name="Survivalist">"Bertahan Hidup"</string>
     <string name="Ultramassive">"Ultramassive"</string>
     <string name="Rapid_Ascension">"Ascension Cepat"</string>
     <string name="Revenge">"Balas Dendam"</string>
@@ -930,7 +930,7 @@
     <string name="Skin">Skin</string>
     <string name="Custom_Skin">Custom Skin</string>
     <string name="Color">Warna</string>
-    <string name="RECENT_PLAYERS">RECENT PLAYERS</string>
+    <string name="RECENT_PLAYERS">PEMAIN TERBARU</string>
     <string name="POSITION_CONTROL_STICK">"POSISI KONTROL STIK"</string>
     <string name="POSITION_SPLIT_BUTTON">POSISI TOMBOL SPLIT </string>
     <string name="POSITION_EJECT_BUTTON">POSISI TOMBOL EJECT</string>
@@ -1036,7 +1036,7 @@
     <string name="Enable_Profile_Colors">Aktifkan warna profil </string>
     <string name="Session_Stats">Session Stats</string>
     <string name="Time_">Waktu:</string>
-    <string name="Show_Session_Stats">Show Session Stats</string>
+    <string name="Show_Session_Stats">Tampilkan Sesi Stats</string>
     <string name="VALENTINES_DAY">"VALENTINES DAY"</string>
     <string name="Giveaways_">Giveaways!</string>
     <string name="Max_XP_Chain_">Max XP Chain:</string>
