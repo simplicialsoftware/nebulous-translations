@@ -38,7 +38,7 @@
     <string name="Score__">"Skor:"</string>
     <string name="Recombine_">"Bergabung kembali:"</string>
     <string name="WINNER_">"PEMENANG:"</string>
-    <string name="IDLE">"IDLE"</string>
+    <string name="IDLE">"MENGANGGUR"</string>
     <string name="Name_Invalid_">"Nama tidak berlaku."</string>
     <string name="Name_Taken_">"Nama yang diambil."</string>
     <string name="CONNECTED">"TERHUBUNG"</string>
@@ -49,7 +49,7 @@
     <string name="JOIN">"IKUT"</string>
     <string name="Lobby_Name">"Nama Lobi"</string>
     <string name="Not_found_">"Tidak ditemukan."</string>
-    <string name="Hidden">"Hidden"</string>
+    <string name="Hidden">"Tersembunyi"</string>
     <string name="SERVER">"SERVER"</string>
     <string name="Joining_game_in_">"Bergabung permainan di "</string>
     <string name="Game_Full">"Permainan Penuh"</string>
