@@ -1420,7 +1420,7 @@ Nebulous 규칙\n
         <item>"소형"</item>
         <item>"중형"</item>
         <item>"대형"</item>
-        <item>"HUGE"</item>
+        <item>"초대형"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
