@@ -58,8 +58,8 @@
     <string name="SERVER">"SERVEUR"</string>
     <string name="Joining_game_in_">"Rejoindre la partie "</string>
     <string name="Game_Full">"Partie complète"</string>
-    <string name="US_East">"Etats-Unis de l'Est"</string>
-    <string name="US_West">"Etats-Unis de l'Ouest"</string>
+    <string name="US_East">"Amérique Centrale"</string>
+    <string name="US_West">"Amérique du Nord"</string>
     <string name="Europe">"Europe"</string>
     <string name="South_America">"Amérique du Sud"</string>
 
