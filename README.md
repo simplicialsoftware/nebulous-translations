@@ -44,9 +44,9 @@ When translating content, especially in a consistent and systematic manner, it's
 
 You can always message @critikangel on Discord for help, advice, or support.
 
-### Translation Tutorial
-PC: https://youtu.be/ct_ZGtD9rZw
-Mobile: https://youtu.be/LiXGfdUxgyM
+### Translation Tutorial Videos
+- [PC](https://youtu.be/ct_ZGtD9rZw)
+- [Mobile](https://youtu.be/LiXGfdUxgyM)
 
 ### Languages
 `res/values`: English<br>
