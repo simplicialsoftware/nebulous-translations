@@ -301,7 +301,7 @@
     <string name="CTF_Domination">"السيطرة بإمساك العلم"</string>
     <string name="CTF_Hat_Trick">"ثلاثية بإمساك العلم"</string>
     <string name="Survival_Domination">"السيطرة في النجاة"</string>
-    <string name="I_Will_Survive">"سأنجوا"</string>
+    <string name="I_Will_Survive">"سأنجو"</string>
     <string name="Soccer_Domination">"السيطرة في كرة القدم"</string>
     <string name="Soccer_Hat_Trick">"ثلاثية في كرة القدم"</string>
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"الفوز بـ 2500 درجة او اكثر في لعبة حر للجميع بالتوقيت."</string>
@@ -692,7 +692,7 @@
     <string name="Collect_10_000_moons_">"جمع 10000 من الأقمار."</string>
     <string name="BLUETOOTH">"بلوتوث"</string>
     <string name="HOST">"مُضيف"</string>
-    <string name="This_device_does_not_support_bluetooth_">"لا يدعم هذا الجهاز بلوتوث."</string>
+    <string name="This_device_does_not_support_bluetooth_">"هذا الجهاز لا يدعم البلوتوث"</string>
     <string name="member_permissions">"أذونات الأعضاء"</string>
     <string name="edit">"تعديل"</string>
     <string name="start_clan_war">"بدء حرب العشائر"</string>
@@ -943,7 +943,7 @@
     <string name="enable_notifications">تفعيل الإشعارات</string>
     <string name="PROMOTE_MEMBER">ترقية العضو</string>
     <string name="DEMOTE_MEMBER">تخفيض رتبة العضو</string>
-    <string name="HAPPY_BIRTHDAY_">عيد ميلاد سعيد Nebulous!</string>
+    <string name="HAPPY_BIRTHDAY_">يوم ميلاد سعيد Nebulous!</string>
     <string name="Years">سنوات</string>
     <string name="Friend_Added_">تم إضافة صديق!</string>
     <string name="_in_a_16x_Split_Game">في لعبة الإنقسام على 16</string>
@@ -1018,7 +1018,7 @@
     <string name="Game_Border">حائط اللعبة</string>
     <string name="Select_some_text_first">حدد بعض النص أولاً</string>
     <string name="Save_the_profile_first">احفظ ملف التعريف أولاً</string>
-    <string name="Birthday">عيد الميلاد</string>
+    <string name="Birthday">يوم الميلاد</string>
     <string name="Mass_Boost">تعزيز الكتلة !</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">لا يَعمل تعزيز الكُتلة في التحديّات أو البُطولات أو حُروب العشّائر!</string>
     <string name="ArenaDescriptionPure">لا ضغط التلقائي أو مسرع الضغط. تحصل على حياة واحدة فقط. سوف يتلقى الفائز %s بلازما.</string>
@@ -1219,7 +1219,7 @@
     <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سنة!</string>
     <string name="Starting___">بدء…</string>
     <string name="Tournament_Starting">البُطولة بدأءت</string>
-    <string name="Max_Tilt_Angle_3D_">زأوية الميل القصوى ثلاثي الأبعاد</string>
+    <string name="Max_Tilt_Angle_3D_">زاوية الميل القصوى ثلاثي الأبعاد</string>
     <string name="Mode_3D">وضع ثلاثي الأبعاد</string>
     <string name="Names_Below_Blobs">معلومات اللاعب تحت الدائرة</string>
     <string name="Name_Scale_">"مقياس الأسم:"</string>
