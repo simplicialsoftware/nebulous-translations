@@ -1015,7 +1015,7 @@ Si vous remarquez qu'un joueur a enfreint les règles du jeu, merci de le signal
     <string name="Select_some_text_first">Sélectionne un texte en premier</string>
     <string name="Save_the_profile_first">Enregistre ton profil en premier</string>
     <string name="Birthday">Anniversaire</string>
-    <string name="Mass_Boost">Masse Boost</string>
+    <string name="Mass_Boost">Boost de Masse</string>
 
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Le boost de masse ne fonctionne pas dans les arènes, les tournois et les guerres de clans!</string>
 
@@ -1138,7 +1138,7 @@ Ceci est une liste des choses qui sont *Interdit* d'utiliser dans des skins pers
 
     <string name="community_skin_information_for_seller" translatable="true" tools:ignore="Untranslatable">"Lorsque vous transformez votre skin personnalisé en skin de communauté, il sera répertorié dans l'onglet Skin de Communauté. D'autres personnes peuvent voir et acheter votre skin! Chaque fois qu'une personne achète votre skin, vous (ou votre clan) recevez une petite quantité de plasma. Les skins de communauté ne peuvent pas être des images de personnes réelles!"</string>
     <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">"Les skins de la Communautée sont téléchargables par d'autres joueurs et fonctionnent comme des skins personnalisés et peuvent être animés avec des skins standard."</string>
-    <string name="level_color_instructions" translatable="true" tools:ignore="Untranslatable">"choisissez la couleur pour votre niveau"</string>
+    <string name="level_color_instructions" translatable="true" tools:ignore="Untranslatable">"choisissez la couleur de votre niveau"</string>
     <string name="SET_PRIVACY">DÉFINIR LA CONFIDENTIALITÉ</string>
     <string name="ANIMATION">ANIMATION</string>
     <string name="Color_Cycle">Couleur du cycle</string>
@@ -1171,7 +1171,7 @@ Ceci est une liste des choses qui sont *Interdit* d'utiliser dans des skins pers
     <string name="PRIVATE">PRIVÉ</string>
     <string name="Joined">Rejoint le</string>
     <string name="Requests">Demandes</string>
-    <string name="Invites">Invites</string>
+    <string name="Invites">Invitations</string>
     <string name="Show_Spectator_Count">Afficher le nombre de spectateur</string>
     <string name="TRY_IT_">L\'ESSAYER!</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Vous devez acheter un pack pour l\'utiliser.</string>
@@ -1311,11 +1311,11 @@ Ceci est une liste des choses qui sont *Interdit* d'utiliser dans des skins pers
     <string name="Battle_Royale">Bataille Royale</string>
     <string name="The_winner_will_receive_x_plasma_">Le gagnant recevra %s plasma!</string>
     <string name="admin_commands">"
-Commands:
+Commandes:
 !kick [0–31]
 !reset
 !welcome {message}
-!difficulty [0-3] or [1-4] for Campaign
+!difficulty [0-3] ou [1-4] pour la Campagne
 !hidden
 !guests
 !slowchat
@@ -1324,7 +1324,10 @@ Commands:
 !admin {id}
 !allow {id}
 !allow reset
-!winner"
+!team [1-4] {id} ( Seulement en les modes d'équipes )
+!winner
+!stats
+!info"
 </string>
     <string name="ID_Sort">ID Sort</string>
     <string name="Master_Tamer">Maître Dompteur</string>
@@ -1342,7 +1345,7 @@ Commands:
 
 
     <string name="Type">Saisir</string>
-    <string name="Complete_campaign_mission_">Mission de campagne complète</string>
+    <string name="Complete_campaign_mission_">Compléter la mission de campagne</string>
     <string name="Specify_Reason_">Spécifier la raison:</string>
     <string name="FREE_FOR_ALL">CHACUN POUR SOI</string>
     <string name="SPECIAL">SPÉCIAL</string>
@@ -1360,7 +1363,7 @@ Commands:
     <string name="Tutorial">Tutoriel</string>
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">COULEUR DE FOND DU CLAN</string>
-    <string name="activate">Activate</string>
+    <string name="activate">Activer</string>
     <string name="clan_id">CLAN ID</string>
     <string name="language_change_warning">Vous devrez peut-être redémarrer le jeu.</string>
     <string name="xmas_gift_boost_message">tu as reçu un cadeau de 3x plasma boost pendant 1 jour!</string>
@@ -1379,11 +1382,11 @@ Commands:
 
 Si vous ne souhaitez pas vous connecter, vous pouvez toujours jouer en mode solo."
     </string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="_2x_skin_resolution">2x résolution de la skin</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="You_are_already_friends_">Vous êtes déjà amis.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Le compte doit avoir 1 jour pour pouvoir envoyer du courrier.</string>
+    <string name="Translator">Traducteur</string>
 
     <string-array name="control_modes">
         <item>"Moyen"</item>

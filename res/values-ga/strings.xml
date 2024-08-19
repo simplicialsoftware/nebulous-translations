@@ -2,16 +2,16 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"Imreoir"</string>
     <string name="Control_">"Rialú:"</string>
-    <string name="CLOSE">"CLOSE"</string>
+    <string name="CLOSE">"DÚN"</string>
     <string name="Stick_Size_">"Méid Bata:"</string>
     <string name="Stick_Margin_">"Imeall Bata:"</string>
     <string name="Button_Size_">"Méid an Button:"</string>
     <string name="Button_Margin_">"Imeall Button:"</string>
-    <string name="Buttons_">"Button:"</string>
+    <string name="Buttons_">"Cnaipí:"</string>
     <string name="DEFAULTS">"DEFAULTS"</string>
     <string name="WEEKLY">"SEACHTAIN"</string>
     <string name="DAILY">"DÁILÍOCHTA"</string>
-    <string name="Server_">"Server:"</string>
+    <string name="Server_">"Freastalaí:"</string>
     <string name="Game_Mode_">"Mód Cluiche:"</string>
     <string name="Show_Names">"Taispeáin Ainmneacha"</string>
     <string name="Show_Avatars">"Taispeáin Skin:"</string>
@@ -673,7 +673,7 @@
     <string name="VIEW_INVITES">"INVITES SEOL"</string>
     <string name="CLAN_INVITES">"INVITES CLAN"</string>
     <string name="Cancel_Invitation">"Cealaigh Cuireadh"</string>
-    <string name="DOWNLOAD">"DOWNLOAD"</string>
+    <string name="DOWNLOAD">"ÍOSLÓDÁIL"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"ATHBHREITHNIÚ AR IARRATAÍ AR CHUIG AN FRIEND?"</string>
     <string name="suns_">"suns."</string>
     <string name="Sun_Collector">"Bailitheoir Sun"</string>
@@ -741,7 +741,7 @@
     <string name="CONTRIBUTE_PLASMA">"RANNÍOCHT PLASMA"</string>
     <string name="Specify_Contribution_Amount">"Sonraigh an Méid Ranníocaíochta"</string>
     <string name="Clan_Contribution">"Ranníocaíocht Chlann"</string>
-    <string name="FILTER">"FILTER"</string>
+    <string name="FILTER">"SCAGAIRE"</string>
     <string name="List_Count_">"Liosta Liosta:"</string>
     <string name="Download_Skins">"Íoslódáil Craicne"</string>
     <string name="ARENA_HISTORY">"ARRAÍ ARENA"</string>
@@ -749,7 +749,7 @@
     <string name="LOSS">"Caillteanas"</string>
     <string name="Other_players_can_not_see_your_skin_">"Ní féidir le himreoirí eile do chraiceann a fheiceáil."</string>
     <string name="Other_players_can_see_your_skin_">"Is féidir le himreoirí eile do chraiceann a fheiceáil."</string>
-    <string name="LEGEND">"LEGEND"</string>
+    <string name="LEGEND">"FINSCEAL"</string>
     <string name="Win_10000_Arenas">"Win 10,000 Arenas"</string>
     <string name="UPLOAD_PREVIEW">"ATHBHREITHNIÚ UPLOAD"</string>
     <string name="Transparency">"Trédhearcacht"</string>
@@ -1117,8 +1117,8 @@
     <string name="Rainbow">Rainbow</string>
     <string name="Horizontal">Horizontal</string>
     <string name="Vertical">Vertical</string>
-    <string name="GROUP">GROUP</string>
-    <string name="LEAVE">LEAVE</string>
+    <string name="GROUP">GRÚPA</string>
+    <string name="LEAVE">FÁG</string>
     <string name="Group">Group</string>
     <string name="Not_in_a_group_">Not in a group.</string>
     <string name="Failed">Failed</string>
@@ -1300,10 +1300,10 @@ Commands:
     <string name="delete_prompt">Are you sure you want to delete your account? This is PERMANENT and CANNOT BE UNDONE!</string>
 
 
-    <string name="Type">Type</string>
+    <string name="Type">Cineál</string>
     <string name="Complete_campaign_mission_">Complete campaign mission</string>
     <string name="Specify_Reason_">Specify Reason:</string>
-    <string name="FREE_FOR_ALL">FREE FOR ALL</string>
+    <string name="FREE_FOR_ALL">SAOR DO GACH DUINE</string>
     <string name="SPECIAL">SPECIAL</string>
     <string name="FREE">FREE</string>
     <string name="x5_Clan_XP_1_Day">5X CLAN XP 1 DAY</string>
@@ -1330,7 +1330,7 @@ Commands:
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">You are already friends.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="Translator">Aistritheoir</string>
 
 
     <string-array name="control_modes">
