@@ -58,7 +58,7 @@
     <string name="Europe">"Eropa"</string>
     <string name="South_America">"Amerika Selatan"</string>
     <string name="SINGLE_PLAYER">"PEMAIN TUNGGAL"</string>
-    <string name="Background_">"Latar Belakang:"</string>
+    <string name="Background_">"Latar Belakang.:"</string>
     <string name="Difficulty_">"Kesulitan Bot:"</string>
     <string name="Delay_Disconnect">"Memperlambat Disconnect"</string>
     <string name="Max_Players">"Max Pemain"</string>
