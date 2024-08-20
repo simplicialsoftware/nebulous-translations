@@ -71,22 +71,22 @@
     <string name="Max_Players">"Tối đa"</string>
     <string name="Min_Players">"Tối thiểu"</string>
 
-    <string name="OK">"Ok"</string>
+    <string name="OK">"Được Rồi"</string>
     <string name="CANCEL">"Trở ra"</string>
     <string name="Chat_Name">"Tên"</string>
     <string name="Max_People">"Tối Đa"</string>
     <string name="START">"BẮT ĐẦU"</string>
     <string name="CREATE">"TẠO"</string>
     <string name="CUSTOM_GAMES">"THỂ LOẠI"</string>
-    <string name="CHAT">"CHAT"</string>
+    <string name="CHAT">"Tán Gẫu"</string>
     <string name="CUSTOM_SETUP">"CÀI ĐẶT THỂ LOẠI"</string>
-    <string name="CHAT_SETUP">"CÀI ĐẶT CHAT"</string>
+    <string name="CHAT_SETUP">"CÀI ĐẶT Tán Gẫu"</string>
 
 
     <string name="ACCOUNT">"TÀI KHOẢN"</string>
     <string name="Red_Team">"Đội Đỏ"</string>
     <string name="Green_Team">"Đội Xanh Lá"</string>
-    <string name="Blue_Team">"Đội Xanh Lam"</string>
+    <string name="Blue_Team">"Đội Xanh"</string>
     <string name="Yellow_Team">"Đội Vàng"</string>
     <string name="Signed_in_as_">"Đã đăng nhập:"</string>
     <string name="Not_signed_in_">"Không đăng nhập được!"</string>
@@ -94,7 +94,7 @@
     <string name="SIGN_OUT">"ĐĂNG XUẤT"</string>
     <string name="ACHIEVEMENTS">"THÀNH TỰU"</string>
     <string name="STATISTICS">"THỐNG KÊ"</string>
-    <string name="XP_">"EXP:"</string>
+    <string name="XP_">"Kinh Nghiệm:"</string>
 
     <string name="Information">"Thông tin"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Để sử dụng skin này, bạn phải giành được thành tích"</string>
