@@ -471,7 +471,7 @@
     <string name="Collect_1_000_candies_">"Kolektahin ang 1,000 mga kendi."</string>
     <string name="Collect_5_000_candies_">"Kolektahin ang 5,000 mga kendi."</string>
     <string name="Collect_10_000_candies_">"Kolektahin ang 10,000 mga kendi."</string>
-    <string name="candies_">"Mga kendies."</string>
+    <string name="candies_">"Mga kendi."</string>
     <string name="Language">"Wika"</string>
     <string name="Control_Opacity_">"Control Opacity:"</string>
     <string name="You_dont_own_the_team_">"Hindi mo pag-aari ang pangkat:"</string>
@@ -679,8 +679,8 @@
     <string name="ZOMBIE_APOCALYPSE">"ZOMBIE APOCALYPSE"</string>
     <string name="Survive_a_Zombie_Apocalypse">"Matirang buhay sa isang Zombie Apocalypse"</string>
     <string name="ZA">"ZA"</string>
-    <string name="Pandemic">"Pandemic"</string>
-    <string name="Immunity">"Immunity"</string>
+    <string name="Pandemic">"Pandemya"</string>
+    <string name="Immunity">"Imyunidad"</string>
     <string name="Win_as_zombies_in_2_minutes_or_less_">"Manalo bilang zombies sa loob ng 2 minuto o mas mababa."</string>
     <string name="Win_as_survivors_with_no_losses_">"Manalo bilang survivors ng walang pagkatalo."</string>
     <string name="ZOMBIE_">"ZOMBIE!"</string>
@@ -763,7 +763,7 @@
     <string name="SIGN_OUT_ALL_DEVICES">I-SIGN OUT ANG LAHAT NG DEVICES</string>
     <string name="Tournament_Forming">Ang Tournament ay nagf-forming</string>
     <string name="TeamTourneyDescription">Ikaw at ang iyong mga teammate ay dapat munang mag-register para makalaro sa pangkatang-tournament. Ikaw at ang iyong teammate ay kailangang magbayad ng plasma kapag ang tournament ay nagsimula na, pero puwede kang mag-unregister bago pa man ito magsimula. Kailangan ng kahit %d kalahok para magsimula.</string>
-    <string name="Free_Agent">Libreng Agent</string>
+    <string name="Free_Agent">Libreng Ahente</string>
     <string name="This_player_selected_a_different_teammate_">Ang player na ito ay nakapili na ng ibang kakampi.</string>
     <string name="muted_until">Muted hanggang</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Ang Content rating ng app ay maaaring mabago kapag naglalaro ng multiplayer.</string>
@@ -839,7 +839,7 @@
     <string name="OPEN">BUKSAN</string>
     <string name="Halo">Halo</string>
     <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Para magamit ang halo, kailangan mo ng hindi bababa sa lebel %1$s at magkaroon ng %2$s na acheivements."</string>
-    <string name="Halos">Mga Halos</string>
+    <string name="Halos">Mga Halo</string>
     <string name="CAMPAIGN">KAMPANYA</string>
     <string name="Mission">Misyon</string>
     <string name="Kill_All_Bots">Patayin ang Lahat ng Bots</string>
@@ -869,7 +869,7 @@
     <string name="ROYALE_DUO">ROYALE DUO</string>
     <string name="Choose_Partner">Pumili ng Partner</string>
     <string name="REMOVE_FRIEND">TANGGALIN BILANG KAIBIGAN</string>
-    <string name="Creator">Creator</string>
+    <string name="Creator">Tagalikha</string>
     <string name="PROFILE_COLOR">KULAY NG PROFILE</string>
     <string name="Enable_Colors">I-ENABLE ANG MGA KULAY</string>
     <string name="Particles">Particles</string>
