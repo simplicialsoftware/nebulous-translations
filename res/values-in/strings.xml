@@ -88,7 +88,7 @@
     <string name="Information">"Informasi"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Untuk menggunakan skin ini Anda harus mendapatkan prestasi"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Untuk menggunakan skin ini Anda harus mencapai level"</string>
-    <string name="SIGN_IN">"Login"</string>
+    <string name="SIGN_IN">"LOGIN"</string>
     <string name="Single_Player_Stats">"Statistik Pemain Tunggal"</string>
     <string name="Level">"Level"</string>
     <string name="PAUSED">"PAUSE"</string>
@@ -620,7 +620,7 @@
     <string name="join_clan_war">"Gabung Perang Klan"</string>
     <string name="none">"NONE"</string>
     <string name="INVALID_TOKEN">"TOKEN TIDAK VALID!"</string>
-    <string name="banned_until">"banned sampai "</string>
+    <string name="banned_until">"Dibanned sampai "</string>
     <string name="Note_Collector">"Kolektor Catatan"</string>
     <string name="Note_Hoarder">"Hoarder Catatan"</string>
     <string name="Note_Mogul">"Catatan Mogul"</string>
@@ -691,8 +691,8 @@
     <string name="RESET">"RESET"</string>
     <string name="Message_Sent_">"Pesan Terkirim!"</string>
     <string name="From">"Dari"</string>
-    <string name="Sent">"Mengirim"</string>
-    <string name="REPLY">"BALASAN"</string>
+    <string name="Sent">"Terkirim"</string>
+    <string name="REPLY">"BALAS"</string>
     <string name="Delete_Message">"Hapus Pesan"</string>
     <string name="BLOCK">"BLOK"</string>
     <string name="DELETE">"HAPUS"</string>
@@ -948,8 +948,8 @@
     <string name="Mass_Mastery">Mass Mastery</string>
     <string name="Gain_100_000_000_mass">Raih 100,000,000 massa</string>
     <string name="VET">VET</string>
-    <string name="Mute">Mute</string>
-    <string name="Unmute">Unmute</string>
+    <string name="Mute">Bisukan</string>
+    <string name="Unmute">Batal Bisukan</string>
     <string name="Community">Komunitas</string>
     <string name="Buy">Beli</string>
     <string name="Sell">Jual</string>
@@ -1066,7 +1066,7 @@
     <string name="PERMANENT_BOOSTS">PERMANEN BOOST</string>
     <string name="Video_failed_to_load_">Video gagal dimuat!</string>
     <string name="Video_Ready_">Video Ready!</string>
-    <string name="GIVE_PLASMA">BERI PLASMA</string>
+    <string name="GIVE_PLASMA">KIRIM PLASMA</string>
     <string name="Specify_amount_">Tentukan jumlah:</string>
     <string name="Specify_amount_again_to_confirm_">Tentukan jumlah lagi untuk mengonfirmasi:</string>
     <string name="Amounts_did_not_match_">Jumlah tidak sama!</string>
@@ -1212,10 +1212,10 @@ Commands:
     <string name="no_response">Tidak bisa bergabung ke server. Mohon check koneksi internet Anda.</string>
     <string name="RAMADAN">RAMADHAN</string>
     <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="_2x_skin_resolution">2x Skin Resolusi</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="You_are_already_friends_">Anda sudah berteman. </string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Akun harus berumur 1 hari untuk mengirim surat. </string>
     <string name="Translator">Translator</string>
 
 
