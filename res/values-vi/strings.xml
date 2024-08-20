@@ -71,16 +71,16 @@
     <string name="Max_Players">"Tối đa"</string>
     <string name="Min_Players">"Tối thiểu"</string>
 
-    <string name="OK">"Được Rồi"</string>
+    <string name="OK">"ĐƯỢC RỒI"</string>
     <string name="CANCEL">"Trở ra"</string>
     <string name="Chat_Name">"Tên"</string>
     <string name="Max_People">"Tối Đa"</string>
     <string name="START">"BẮT ĐẦU"</string>
     <string name="CREATE">"TẠO"</string>
     <string name="CUSTOM_GAMES">"THỂ LOẠI"</string>
-    <string name="CHAT">"Tán Gẫu"</string>
+    <string name="CHAT">"TRÒ CHUYỆN"</string>
     <string name="CUSTOM_SETUP">"CÀI ĐẶT THỂ LOẠI"</string>
-    <string name="CHAT_SETUP">"CÀI ĐẶT Tán Gẫu"</string>
+    <string name="CHAT_SETUP">"THIẾT LẬP TRÒ CHUYỆN"</string>
 
 
     <string name="ACCOUNT">"TÀI KHOẢN"</string>
