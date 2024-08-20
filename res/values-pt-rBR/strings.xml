@@ -69,7 +69,7 @@
     <string name="Delay_Disconnect">"Atrasar a Desconexão"</string>
 
     <string name="Max_Players">"Máx. de Jogadores"</string>
-    <string name="Min_Players">"Mín. de Jogadores"</string>
+    <string name="Min_Players">"Mín. de Jogadores. "</string>
 
     <string name="OK">"OK"</string>
     <string name="CANCEL">"CANCELAR"</string>
