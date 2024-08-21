@@ -19,7 +19,7 @@
     <string name="OPTIONS">"OPCIJE"</string>
 
     <string name="Avatar_">"Skin "</string>
-    <string name="Name_">"Ime "</string>
+    <string name="Name_">"Ime:"</string>
 
     <string name="Loading___">"Učitavanje…"</string>
     <string name="Connecting___">"Povezivanje…"</string>
@@ -32,7 +32,7 @@
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Ocjena sadržaja aplikacije možda se promijeni za vrijeme traženja grupa</string>
 
-    <string name="_Rank_">" Rang «"</string>
+    <string name="_Rank_">" Rang "</string>
     <string name="_Alias_">" Alijas "</string>
     <string name="_Score_">" Rezultat "</string>
     <string name="Score__">"Rezultat :"</string>
@@ -50,13 +50,13 @@
 
 
     <string name="Lobby_Name">"Ime Servera"</string>
-    <string name="Not_found_">"Nije pronađeno "</string>
+    <string name="Not_found_">"Nije pronađeno."</string>
 
     <string name="Hidden">"Skriven"</string>
 
 
     <string name="SERVER">"SERVER"</string>
-    <string name="Joining_game_in_">"Pridruživanje Igri "</string>
+    <string name="Joining_game_in_">"Pridruživanje Igri U"</string>
     <string name="Game_Full">"Puna Igra"</string>
     <string name="US_East">"Istočni SAD"</string>
     <string name="US_West">"Zapadni SAD"</string>
@@ -65,8 +65,8 @@
 
 
     <string name="SINGLE_PLAYER">"IGRAJ SAM"</string>
-    <string name="Background_">"Pozadina"</string>
-    <string name="Difficulty_">"Težina"</string>
+    <string name="Background_">"Pozadina:"</string>
+    <string name="Difficulty_">"Težina:"</string>
     <string name="Delay_Disconnect">"Odgodi Odspajanje"</string>
 
     <string name="Max_Players">"Maksimum Igrača"</string>
@@ -332,7 +332,7 @@
     <string name="Win_a_Soccer_Game">"Pobijedi Nogomet Igru"</string>
     <string name="Win_a_Survival_Game">"Pobijedi Opstanak Igru"</string>
     <string name="Win_a_Teams_Time_Game">"Pobijedi Timovi Vrijeme Igru"</string>
-    <string name="Reach_a_score_of_">"Dostigni rezultat:"</string>
+    <string name="Reach_a_score_of_">"Dostigni rezultat od:"</string>
     <string name="_in_a_FFA_Game">" u FFA Ugri"</string>
     <string name="_in_a_Teams_Game">" u Timovi Igri"</string>
     <string name="_dots">" točkice"</string>
