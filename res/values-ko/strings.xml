@@ -1047,9 +1047,9 @@ Nebulous 규칙\n
     <string name="JOIN_IP">IP로 접속</string>
     <string name="Specify_Host_IP">호스트 IP 입력</string>
     <string name="ADVANCED_SETUP">고급 설정</string>
-    <string name="WORLD_CUP_EVENT___">WORLD CUP EVENT!!!</string>
+    <string name="WORLD_CUP_EVENT___">월드컵 이벤트!!! </string>
     <string name="world_cup_event_description">Double XP and Double Plasma in Soccer Mode until the end of the world cup!</string>
-    <string name="GIF_Skins">GIF Skins</string>
+    <string name="GIF_Skins">GIF 스킨</string>
     <string name="PLAY_ONLINE_">온라인으로 플레이하세요!</string>
     <string name="Absorb_10_000_000_dots">도트 10,000,000 먹기</string>
     <string name="Dot_Deity">도트의 신</string>
