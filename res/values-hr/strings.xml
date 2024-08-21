@@ -56,7 +56,7 @@
 
 
     <string name="SERVER">"SERVER"</string>
-    <string name="Joining_game_in_">"Pridruživanje Igri U"</string>
+    <string name="Joining_game_in_">"Pridruživanje igri u:"</string>
     <string name="Game_Full">"Puna Igra"</string>
     <string name="US_East">"Istočni SAD"</string>
     <string name="US_West">"Zapadni SAD"</string>
@@ -89,8 +89,8 @@
     <string name="Green_Team">"Zeleni Tim"</string>
     <string name="Blue_Team">"Plavi Tim"</string>
     <string name="Yellow_Team">"Žuti Tim"</string>
-    <string name="Signed_in_as_">"Prijavljen kao "</string>
-    <string name="Not_signed_in_">"Nisi prijavljen"</string>
+    <string name="Signed_in_as_">"Prijavljeni kao:"</string>
+    <string name="Not_signed_in_">"Niste prijavljeni!"</string>
     <string name="SET_NAME">"POSTAVI IME"</string>
     <string name="SIGN_OUT">"ODJAVI SE"</string>
     <string name="ACHIEVEMENTS">"DOSTIGNUĆA"</string>
@@ -129,7 +129,7 @@
     <string name="Friend_Request_Sent">"Zahtjev za Prijateljstvo Poslan"</string>
     <string name="ERROR">"GREŠKA"</string>
     <string name="CONTINUE">"NASTAVI"</string>
-    <string name="Global_" formatted="false">"Globalno "</string>
+    <string name="Global_" formatted="false">"Globalno %"</string>
     <string name="FRIEND_CHAT">"PRIJATELJSKI RAZGOVOR"</string>
     <string name="LOBBY_NAME">"IME SERVERA"</string>
     <string name="NULL">"NULL"</string>
@@ -317,8 +317,8 @@
     <string name="Win_500_games_of_any_type_">"Pobijedi 500 igri bilo kakve vrste."</string>
     <string name="Translations">"Prijevodi"</string>
     <string name="Developers">"Programeri"</string>
-    <string name="Special_Thanks">"Posebno hvala"</string>
-    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Puno hvala svakom Nebulous fanu"</string>
+    <string name="Special_Thanks">"Posebno Hvala"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Puno Hvala Svakom Nebulous Ljubitelju"</string>
     <string name="Color_Blind">"Daltonist"</string>
     <string name="Daily_Quest_Complete_">"Dnevni Izazov Izvršen."</string>
     <string name="COPY_ID">"Kopiraj ID"</string>
