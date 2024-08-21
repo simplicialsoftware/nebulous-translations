@@ -227,7 +227,7 @@
     <string name="CREATE_CLAN">"LUMIKHA NG CLAN:"</string>
     <string name="MEMBER">"MIYEMBRO:"</string>
     <string name="ADMIN">"ADMIN:"</string>
-    <string name="LEADER">"LIDER:"</string>
+    <string name="LEADER">"PINUNO:"</string>
     <string name="ELDER">"ELDER:"</string>
     <string name="Not_in_a_clan_">"Wala sa isang Clan:"</string>
     <string name="CLAN">"CLAN"</string>
@@ -362,7 +362,7 @@
     <string name="New_Message_">"Bagong mensahe!"</string>
     <string name="Seasonal">"Pana-panahon"</string>
     <string name="Temporarily_Disabled_">"Pansamantalang hindi gumagana."</string>
-    <string name="BIGGEST">"BIGGEST"</string>
+    <string name="BIGGEST">"PINAKAMALAKI"</string>
     <string name="Copy_ID">"Kopyahin ang ID"</string>
     <string name="View_Profile">"Tingnan ang Profile"</string>
     <string name="Send_Message">"Magpadala ng Mensahe"</string>
@@ -471,7 +471,7 @@
     <string name="Collect_1_000_candies_">"Kolektahin ang 1,000 mga kendi."</string>
     <string name="Collect_5_000_candies_">"Kolektahin ang 5,000 mga kendi."</string>
     <string name="Collect_10_000_candies_">"Kolektahin ang 10,000 mga kendi."</string>
-    <string name="candies_">"Mga kendies."</string>
+    <string name="candies_">"Mga kendi."</string>
     <string name="Language">"Wika"</string>
     <string name="Control_Opacity_">"Control Opacity:"</string>
     <string name="You_dont_own_the_team_">"Hindi mo pag-aari ang pangkat:"</string>
@@ -492,7 +492,7 @@
     <string name="Rejoin_Game">"Sumaling-muli sa Laro"</string>
     <string name="PRIZES">"PRIZES"</string>
     <string name="Enable_Custom_Skin">"I-enable ang Custom Skin"</string>
-    <string name="Use_Custom_Skin">"Custom\nSkin"</string>
+    <string name="Use_Custom_Skin">"Gamitin ang Custom Skin"</string>
     <string name="custom_skin_description">"Ang tampok na ito hinahayaan kang gamitin ang iyong larawan sa profile o isang file bilang iyong skin. Ito ay lamang baguhin ang skin na nakikita sa IYO. Iba pang mga tao ay hindi makita ang iyong pasadyang skin maliban kung ikaw din bayaran upang i-upload ang skin."</string>
     <string name="CUSTOM_SKIN">"CUSTOM SKIN"</string>
     <string name="Facebook_Profile">"Profile Facebook"</string>
@@ -679,8 +679,8 @@
     <string name="ZOMBIE_APOCALYPSE">"ZOMBIE APOCALYPSE"</string>
     <string name="Survive_a_Zombie_Apocalypse">"Matirang buhay sa isang Zombie Apocalypse"</string>
     <string name="ZA">"ZA"</string>
-    <string name="Pandemic">"Pandemic"</string>
-    <string name="Immunity">"Immunity"</string>
+    <string name="Pandemic">"Pandemya"</string>
+    <string name="Immunity">"Imyunidad"</string>
     <string name="Win_as_zombies_in_2_minutes_or_less_">"Manalo bilang zombies sa loob ng 2 minuto o mas mababa."</string>
     <string name="Win_as_survivors_with_no_losses_">"Manalo bilang survivors ng walang pagkatalo."</string>
     <string name="ZOMBIE_">"ZOMBIE!"</string>
@@ -777,7 +777,7 @@
     <string name="CLAN_HOUSE">BAHAY NG CLAN</string>
     <string name="ROOM">ROOM</string>
     <string name="EXPERIMENTAL">EXPERIMENTAL</string>
-    <string name="members">Mmga miyembro</string>
+    <string name="members">mga miyembro</string>
     <string name="Delete_ALL_Messages_">I-Delete ang LAHAT ng Mensahe!</string>
     <string name="SAVE_PROFILE">I-SAVE PROFILE</string>
     <string name="Move">Move</string>
@@ -839,7 +839,7 @@
     <string name="OPEN">BUKSAN</string>
     <string name="Halo">Halo</string>
     <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Para magamit ang halo, kailangan mo ng hindi bababa sa lebel %1$s at magkaroon ng %2$s na acheivements."</string>
-    <string name="Halos">Mga Halos</string>
+    <string name="Halos">Mga Halo</string>
     <string name="CAMPAIGN">KAMPANYA</string>
     <string name="Mission">Misyon</string>
     <string name="Kill_All_Bots">Patayin ang Lahat ng Bots</string>
@@ -869,7 +869,7 @@
     <string name="ROYALE_DUO">ROYALE DUO</string>
     <string name="Choose_Partner">Pumili ng Partner</string>
     <string name="REMOVE_FRIEND">TANGGALIN BILANG KAIBIGAN</string>
-    <string name="Creator">Creator</string>
+    <string name="Creator">Tagalikha</string>
     <string name="PROFILE_COLOR">KULAY NG PROFILE</string>
     <string name="Enable_Colors">I-ENABLE ANG MGA KULAY</string>
     <string name="Particles">Particles</string>
@@ -957,7 +957,7 @@
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">EXCLUSIVE Skins, Mga Alaga, Mga Sumbrero at marami pang iba!</string>
     <string name="BUY_NOW_">BILHIN NGAYON!</string>
     <string name="already_purchased">Ikaw o ang taong binibili mo nito ay nagmamay-ari na nito.</string>
-    <string name="Halo_Animations">Mga Animations ng Halo</string>
+    <string name="Halo_Animations">Mga Animation ng Halo</string>
     <string name="Trick_Notifications">Trick Notifications</string>
     <string name="Channel">Channel</string>
     <string name="Choose_Text_Size">Pumili ng Laki ng Text</string>
@@ -1055,7 +1055,7 @@
     <string name="Spectate_Killer_On_Death">Spectate ang Pumatay On Death</string>
     <string name="Rainbow_Holes">Mga Bahagharing Holes</string>
     <string name="LIFE_STEAL">AGAWAN NG BUHAY</string>
-    <string name="Kicked_From_Game_">Ikaw ay Na-Kicked sa Game!</string>
+    <string name="Kicked_From_Game_">Ikaw ay Natanggal sa laro!</string>
     <string name="Conquest">Conquest</string>
     <string name="Finish_the_last_mission_in_the_campaign_">Ipanalo ang pinakahuling misyon sa kampanya.</string>
     <string name="Collected_">Mga Na-Collect:</string>
@@ -1065,7 +1065,7 @@
     <string name="Search_Filter">Search Filter</string>
     <string name="Received_">Natanggap:</string>
     <string name="Opponent_Rating_Limit_">Limitadong Rating Limit ng Kalaban:</string>
-    <string name="TOGGLE_FAVORITE">I-TOGGLE SA PABORTO</string>
+    <string name="TOGGLE_FAVORITE">I-TOGGLE SA PABORITO</string>
     <string name="Favorited">Naging Paborito</string>
     <string name="Unfavorited">Hindi na Paborito</string>
     <string name="Background_Scale_">Laki ng Background:</string>
