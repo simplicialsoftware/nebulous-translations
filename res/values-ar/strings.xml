@@ -1178,7 +1178,7 @@
     <string name="Session_Stats">احصائيات الجلسة</string>
     <string name="Time_">:الزمن</string>
     <string name="Show_Session_Stats">إظهار احصائيات الموسم</string>
-    <string name="VALENTINES_DAY">"عيد الحب"</string>
+    <string name="VALENTINES_DAY">"يوم الحب"</string>
     <string name="Giveaways_">!هدايا</string>
     <string name="Max_XP_Chain_">:سلسلة الخبرة القصوى</string>
     <string name="POSITION_CANCEL_BUTTON">الغاء موقع الزر</string>
@@ -1273,7 +1273,7 @@
     <string name="x4_Clan_XP_1_Day">4x نقاط خبرة العشيرة لمُدَّة يوم</string>
     <string name="CHARGE_UP">الشُحنْةُ</string>
     <string name="CLAN_DESCRIPTION_COLOR">لونِ وصف العشيرة</string>
-    <string name="Responsible_Pet_Owner">مسؤل الحيوانات الأليفة</string>
+    <string name="Responsible_Pet_Owner">مسؤول الحيوانات الأليفة</string>
     <string name="Animal_Tamer">مُروِّض الحيوان</string>
     <string name="Crocodile_Hunter">صياد التمساح</string>
     <string name="Get_A_Pet_To_Level_X_">أجعل الحيوان مستوى %d.</string>
@@ -1321,7 +1321,7 @@ Commands:
 </string>
     <string name="ID_Sort">نوع الهوية</string>
     <string name="Master_Tamer">مُروِّض مُتقن</string>
-    <string name="Get_ALL_Pets_To_Level_100_">قُم بتوصيل جميع الحيوانات الآليفه الى مستوى 100</string>
+    <string name="Get_ALL_Pets_To_Level_100_">أوصل جميع الحيوانات الأليفة إلى مستوى 100</string>
     <string name="TAMER">مُروِّض</string>
     <string name="Allow_Recombine">السماح بإعادة التجميع</string>
     <string name="Defenders">المُدافِعون</string>
