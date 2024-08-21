@@ -639,7 +639,7 @@
     <string name="Request_Timed_Out">"Zahtjev Istekao"</string>
     <string name="You_Are_Spectating_">"Gledate."</string>
     <string name="Account_In_Use_">"Račun U Upotrebi!"</string>
-    <string name="Cannot_Join_Arena_">"Ne Možete Ući U Arenu."</string>
+    <string name="Cannot_Join_Arena_">"Ne Možete Ući u Arenu."</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"Odjava će vas izbaciti iz trenutne igre!"</string>
     <string name="raindrops_">"kapljice."</string>
     <string name="Raindrop_Collector">"Sakupljač Kapljica"</string>
