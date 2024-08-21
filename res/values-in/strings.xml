@@ -10,7 +10,7 @@
     <string name="DEFAULTS">"TAMPILAN AWAL"</string>
     <string name="WEEKLY">"MINGGUAN"</string>
     <string name="DAILY">"HARIAN"</string>
-    <string name="Server_">"Server:"</string>
+    <string name="Server_">"Pelayan:"</string>
     <string name="Game_Mode_">"Mode Permainan:"</string>
     <string name="Show_Names">"Tampilkan Nama"</string>
     <string name="Show_Avatars">"Tampilkan Skins"</string>
@@ -44,13 +44,13 @@
     <string name="CONNECTED">"TERHUBUNG"</string>
     <string name="JOINING___">"BERGABUNG …"</string>
     <string name="PLAYING">"BERMAIN"</string>
-    <string name="MULTIPLAYER">"MULTIPLAYER"</string>
+    <string name="MULTIPLAYER">"MULTIPEMAIN"</string>
 
     <string name="JOIN">"IKUT"</string>
     <string name="Lobby_Name">"Nama Lobi"</string>
     <string name="Not_found_">"Tidak ditemukan."</string>
     <string name="Hidden">"Tersembunyi"</string>
-    <string name="SERVER">"SERVER"</string>
+    <string name="SERVER">"PELAYANAN"</string>
     <string name="Joining_game_in_">"Bergabung permainan di "</string>
     <string name="Game_Full">"Permainan Penuh"</string>
     <string name="US_East">"Amerika Timur"</string>
@@ -90,8 +90,8 @@
     <string name="To_use_this_skin_you_must_reach_level">"Untuk menggunakan skin ini Anda harus mencapai level"</string>
     <string name="SIGN_IN">"MASUK"</string>
     <string name="Single_Player_Stats">"Statistik Pemain Tunggal"</string>
-    <string name="Level">"Level"</string>
-    <string name="PAUSED">"PAUSE"</string>
+    <string name="Level">"Tingkat"</string>
+    <string name="PAUSED">"BERHENTI SEBENTAR"</string>
     <string name="FRIENDS">"TEMAN"</string>
     <string name="Warning">"Peringatan"</string>
     <string name="SIGNING_IN">"MASUK…"</string>
@@ -99,28 +99,28 @@
     <string name="REQUEST_FRIEND">"PERMINTAAN TEMAN"</string>
     <string name="Private">"Pribadi"</string>
     <string name="Public">"Publik"</string>
-    <string name="Bot">"Bot"</string>
+    <string name="Bot">"Robot"</string>
     <string name="You">"Kamu"</string>
     <string name="This_player_is_a_bot">"Pemain ini adalah bot."</string>
     <string name="This_player_is_not_signed_in">"Pemain ini tidak masuk."</string>
     <string name="Online">"Online"</string>
-    <string name="Unknown">"Unknown"</string>
-    <string name="Offline">"Offline"</string>
+    <string name="Unknown">"Tidak dikenal"</string>
+    <string name="Offline">"Luring"</string>
     <string name="Achievement_Earned">"Perolehan Prestasi"</string>
     <string name="REFRESH">"MENYEGARKAN"</string>
     <string name="DONE">"SELESAI"</string>
     <string name="Friend_Request_Sent">"Permintaan teman dikirim…"</string>
-    <string name="ERROR">"ERROR"</string>
+    <string name="ERROR">"KESALAHAN"</string>
     <string name="CONTINUE">"LANJUTKAN"</string>
     <string name="Global_" formatted="false">"Global %"</string>
     <string name="FRIEND_CHAT">"TEMAN CHAT"</string>
     <string name="LOBBY_NAME">"NAMA LOBI"</string>
-    <string name="NULL">"NULL"</string>
+    <string name="NULL">"BATAL"</string>
     <string name="ALL">"SEMUA"</string>
     <string name="FFA">"FFA"</string>
-    <string name="FFA_TIME">"FFA TIME"</string>
-    <string name="TEAMS">"TEAMS"</string>
-    <string name="TEAMS_TIME">"TEAMS TIME"</string>
+    <string name="FFA_TIME">"WAKTU FFA"</string>
+    <string name="TEAMS">"TIM"</string>
+    <string name="TEAMS_TIME">"WAKTU TIM"</string>
     <string name="CTF">"CTF"</string>
     <string name="SURVIVAL">"BERTAHAN HIDUP"</string>
     <string name="Clan_XP">"Klan XP"</string>
@@ -216,11 +216,11 @@
     <string name="Specify_private_game_name">"Tentukan nama permainan pribadi"</string>
     <string name="In_Game_Chat">"Tampilkan Chat Permainan"</string>
     <string name="My_Status_">"Status saya:"</string>
-    <string name="Game_Size_">"Map Permainan:"</string>
-    <string name="Server_Restart_">"Server Restart:"</string>
+    <string name="Game_Size_">"Map permainan:"</string>
+    <string name="Server_Restart_">"Server_Mulai_Ulang_:"</string>
     <string name="GOAL_">"GOL!"</string>
     <string name="SOCCER">"SEPAK BOLA"</string>
-    <string name="DRAW">"DRAW"</string>
+    <string name="DRAW">"MENGGAMBAR"</string>
 
     <string name="Clan_Name">"Nama Klan"</string>
     <string name="Clan">"Klan"</string>
@@ -234,10 +234,10 @@
 
 
     <string name="CREATE_CLAN">"BUAT KLAN"</string>
-    <string name="MEMBER">"MEMBER"</string>
+    <string name="MEMBER">"ANGGOTA"</string>
     <string name="ADMIN">"ADMIN"</string>
-    <string name="LEADER">"LEADER"</string>
-    <string name="ELDER">"ELDER"</string>
+    <string name="LEADER">"PEMIMPIN"</string>
+    <string name="ELDER">"LEBIH TUA"</string>
 
 
     <string name="Not_in_a_clan_">"Tidak dalam klan."</string>
