@@ -3,16 +3,16 @@
     <string name="Players">"Igrači"</string>
     <string name="Control_">"Upravljaj"</string>
     <string name="CLOSE">"ZATVORI"</string>
-    <string name="Stick_Size_">"Veličina Stika "</string>
-    <string name="Stick_Margin">"Pozicija Stika "</string>
-    <string name="Button_Size_">"Veličina Tipki "</string>
-    <string name="Button_Margin_">"Pozicija Tipki "</string>
+    <string name="Stick_Size_">"Veličina Stika:"</string>
+    <string name="Stick_Margin">"Pozicija Stika:"</string>
+    <string name="Button_Size_">"Veličina Tipki:"</string>
+    <string name="Button_Margin_">"Pozicija Tipki:"</string>
     <string name="Buttons_">"Tipke"</string>
     <string name="DEFAULTS">"STANDARDNI"</string>
     <string name="WEEKLY">"TJEDNI"</string>
     <string name="DAILY">"DNEVNI"</string>
     <string name="Server_">"Server"</string>
-    <string name="Game_Mode_">"Modovi "</string>
+    <string name="Game_Mode_">"Način Igre"</string>
     <string name="Show_Names">"Prikaži Imena"</string>
     <string name="Show_Avatars">"Prikaži Skinove"</string>
     <string name="PLAY">"IGRAJ"</string>
@@ -183,7 +183,7 @@
     <string name="Self_Contained">"Samostalno"</string>
     <string name="Survivalist">"Survivalist"</string>
     <string name="Ultramassive">"Ultramasivan"</string>
-    <string name="Rapid_Ascension">"Rapidno Penjanje"</string>
+    <string name="Rapid_Ascension">"Brzo Uzdizanje"</string>
     <string name="Revenge">"Osveta"</string>
     <string name="Doge_Pound">"Doge Pound"</string>
 
@@ -335,7 +335,7 @@
     <string name="Reach_a_score_of_">"Dostigni rezultat:"</string>
     <string name="_in_a_FFA_Game">" u FFA Ugri"</string>
     <string name="_in_a_Teams_Game">" u Timovi Igri"</string>
-    <string name="_dots">" točkica"</string>
+    <string name="_dots">" točkice"</string>
     <string name="_player_blobs">" igračevi blobovi"</string>
     <string name="Absorb_">"Pojedi:"</string>
     <string name="Collect_">"Sakupi:"</string>
@@ -412,9 +412,9 @@
 
     <string name="Purchase_History">"Povijest Kupnje"</string>
 
-    <string name="Purchases_Unavailable_">"Kupovine Nedostupne!"</string>
+    <string name="Purchases_Unavailable_">"Kupnje Nedostupne!"</string>
     <string name="You_can_purchase_this_skin_for">"Možete kupiti ovaj skin za"</string>
-    <string name="PURCHASE">"KUPI"</string>
+    <string name="PURCHASE">"KUPITI"</string>
     <string name="Error_in_backup_data_">"Greška u sigurnosnoj kopiji podataka!"</string>
 
 
@@ -491,7 +491,7 @@
 
     <string name="Randomize">"Nasumični Odabir"</string>
 
-    <string name="Harassment">"Vrijeđanje"</string>
+    <string name="Harassment">"Uznemiravanje"</string>
 
     <string name="_2v2">"2v2"</string>
 
@@ -626,7 +626,7 @@
 
     <string name="Love_Nebulous_">"Volite Nebulous?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Molimo podržite Nebulous ocjenjujući ga!"</string>
-    <string name="MAYHEM_MODE">"KAOS MOD"</string>
+    <string name="MAYHEM_MODE">"KAOS NAČIN"</string>
     <string name="Times_Teleported_">"Puta Teleportirano:"</string>
     <string name="Powerups_Used_">"Korišteno Powerupsa:"</string>
     <string name="Power_Hungry">"Gladan Snage"</string>
@@ -717,7 +717,7 @@
     <string name="Collect_10000_pumpkins_">"Sakupi 10 000 bundeva."</string>
     <string name="Collect_10000_leaves_">"Sakupi 10 000 lišća."</string>
     <string name="Eject">"Izbaci"</string>
-    <string name="Eject_Skin">"Izbaci Skin"</string>
+    <string name="Eject_Skin">"Skin Mase"</string>
     <string name="Double_Plasma__">"Dvostruka Plazma!!"</string>
     <string name="Ends">"Završava"</string>
     <string name="Select_Clan_Member">"Odaberi Klan Člana"</string>
@@ -732,8 +732,8 @@
     <string name="upload_warning">"Jeste li sigurni da želite postaviti ovaj skin? Ostali igrači će moći vidjeti ovaj skin. Pregled skina može potrajati i do tjedan dana. Neprikladan skin bit će odbijen i plazma neće biti vraćena!"</string>
 
     <string name="In_Review">"U Pregledu"</string>
-    <string name="Account_Uploads">"Skinovi Računa"</string>
-    <string name="Clan_Uploads">"Klan Skinovi"</string>
+    <string name="Account_Uploads">"Učitavanja Računa"</string>
+    <string name="Clan_Uploads">"Učitavanja Klana"</string>
     <string name="Empty">"Prazno"</string>
     <string name="Select">"Odaberi"</string>
     <string name="Current_Skin">"Trenutni Skin"</string>
@@ -1039,7 +1039,7 @@
     <string name="VET">VET</string>
     <string name="Mute">Utišaj</string>
     <string name="Unmute">Unmutiraj</string>
-    <string name="Community">Community</string>
+    <string name="Community">Zajednica</string>
     <string name="Buy">Kupi</string>
     <string name="Sell">Prodaj</string>
     <string name="community_skin_requirement">Moraš kupiti opciju "prilagođeni skinovi" kako bi mogao koristiti community skinove.</string>
@@ -1232,13 +1232,13 @@
     <string name="Plasma_Boost_1_Day_">Plazma Povećanje 1 Dan!</string>
     <string name="Plasma_Boost_2_Hours_">Plazma Povećanje 2 Sata.</string>
     <string name="Plasma_Boost">Plazma Povećanje</string>
-    <string name="particle_info">Moraš dostignuti najmanje lvl 50 i koristiti skin koji ima particle kako bi ih mogao vidjeti.</string>
+    <string name="particle_info">Moraš dostignuti najmanje lvl 50 i koristiti skin koji ima particle kako bi ih mogao vidjeti.</stBitka
     <string name="Plain_Score_Text">"Običan Bodovni Tekst"</string>
     <string name="Custom_Skin_Reviewed_Notification">Tvoj Prilagođeni Skin Je Pregledan!</string>
     <string name="You_Have_Mail_">Dobio Si Mail od %s!</string>
     <string name="Clan_Request_Reviewed_Notification">Tvoj Zahtjev Za Pridruživanje %s Klanu Je Pregledan! </string>
     <string name="CRAZY_SPLIT">LUDI SPLIT 32x</string>
-    <string name="Sold_Community_Skins_">"Prodano Community Skinova: "</string>
+    <string name="Sold_Community_Skins_">"Prodano Skinova Zajednice: "</string>
     <string name="Estimated_Earnings_">"Procijenjena Zarada: "</string>
     <string name="South_Africa">Južna Afrika</string>
     <string name="SPLIT_">SPLIT:</string>
@@ -1250,23 +1250,23 @@
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
     <string name="Win_a_Battle_Royale_">Pobijedi Battle Royale.</string>
     <string name="Battle_">Borba!</string>
-    <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
-    <string name="Battle_Royale">Battle Royale</string>
+    <string name="BATTLE_ROYALE">KRALJEVSKA BITKA</string>
+    <string name="Battle_Royale">Kraljevska Bitka</string>
     <string name="The_winner_will_receive_x_plasma_">Pobjednik će dobiti %s plazme !</string>
     <string name="admin_commands">"
-Commands:
-!kick [0–31]
-!reset
-!welcome {message}
-!difficulty [0-3] or [1-4] for Campaign
-!hidden
-!guests
-!slowchat
-!pausechat
-!mute {id}
-!admin {id}
-!allow {id}
-!allow reset"
+Commands: (Komande)
+!kick [0–31] (kikaj)
+!reset (resetiraj)
+!welcome {message} (poruka dobrodošlice)
+!difficulty [0-3] or [1-4] for Campaign (težina igre ili kampanje)
+!hidden (skriven)
+!guests (neprijavljeni igrači)
+!slowchat (spori razgovor)
+!pausechat (pauziraj razgovor)
+!mute {id} (utišaj)
+!admin {id} 
+!allow {id} (dozvoli)
+!allow reset" (dozvoli resetiranje)
 </string>
     <string name="ID_Sort">ID Sortiranje</string>
     <string name="Master_Tamer">Majstor Krotitelj</string>
@@ -1281,15 +1281,15 @@ Commands:
     <string name="delete_prompt">Jesi li siguran da želiš izbrisati svoj račun? Ovo je TRAJNO i NE MOŽE se vratiti!</string>
 
 
-    <string name="Type">Tipkajte</string>
+    <string name="Type">Tipkaj</string>
     <string name="Complete_campaign_mission_">Završite kampanjsku misiju</string>
     <string name="Specify_Reason_">Navedite Razlog:</string>
     <string name="FREE_FOR_ALL">SVI ZA SVE</string>
     <string name="SPECIAL">SPECIJALNO</string>
     <string name="FREE">BESPLATNO</string>
-    <string name="x5_Clan_XP_1_Day">5X CLAN XP 1 Dan</string>
-    <string name="x5_Clan_XP_7_days">5X CLAN XP 7 dana</string>
-    <string name="x5_Clan_XP_Perm">5X CLAN XP Trajno!</string>
+    <string name="x5_Clan_XP_1_Day">5X KLAN XP 1 Dan</string>
+    <string name="x5_Clan_XP_7_days">5X KLAN XP 7 dana</string>
+    <string name="x5_Clan_XP_Perm">5X KLAN XP Trajno!</string>
     <string name="Quin">5X</string>
     <string name="x5_XP_1_Hour">5X XP 1 Sat</string>
     <string name="x5_XP_24_hours">5X XP 24 sata</string>
@@ -1318,7 +1318,7 @@ Commands:
         <item>"Bez Zaustavljanja"</item>
         <item>"Povuci Prema"</item>
         <item>"Odvuci"</item>
-        <item>"Prikladni"</item>
+        <item>"Dodirni I Idi"</item>
         <item>"Nagib"</item>
     </string-array>
 
@@ -1326,8 +1326,8 @@ Commands:
         <item>"Lijevo"</item>
         <item>"Desno"</item>
         <item>"Desna + Lijeva"</item>
-        <item>"Stack Lijevi"</item>
-        <item>"Stack Desni"</item>
+        <item>"Tipke Lijevo"</item>
+        <item>"Tipke Desno"</item>
         <item>"Prilagođene"</item>
     </string-array>
 
