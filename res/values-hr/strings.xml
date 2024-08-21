@@ -39,8 +39,8 @@
     <string name="Recombine_">"Spajanje:"</string>
     <string name="WINNER_">"POBJEDNIK:"</string>
     <string name="IDLE">"NEAKTIVAN"</string>
-    <string name="Name_Invalid_">"Nevažeće Ime "</string>
-    <string name="Name_Taken_">"Ime Zauzeto "</string>
+    <string name="Name_Invalid_">"Nevažeće Ime."</string>
+    <string name="Name_Taken_">"Zauzeto Ime."</string>
     <string name="CONNECTED">"SPOJEN"</string>
     <string name="JOINING___">"PRIDRUŽIVANJE…"</string>
     <string name="PLAYING">"IGRANJE"</string>
