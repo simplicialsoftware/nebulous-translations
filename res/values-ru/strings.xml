@@ -278,7 +278,7 @@
     <string name="ELDER">"Старейшина"</string>
 
 
-    <string name="Not_in_a_clan_">"Не состоящий в клане."</string>
+    <string name="Not_in_a_clan_">"Не в клане."</string>
 
 
     <string name="CLAN">"КЛАН"</string>
@@ -1329,8 +1329,8 @@
     <string name="language_change_warning">Изменение языка приведёт к перезапуску приложения.</string>
     <string name="xmas_gift_boost_message">Вы получили в подарок 3х буст плазмы на 1 день!</string>
     <string name="no_response">Не отвечает сервер. Пожалуйста, проверьте подключение к интернету.</string>
-    <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="RAMADAN">РАМАДАН</string>
+    <string name="SUDDEN_ATTACK">ВНЕЗАПНАЯ АТАКА</string>
 
     <string name="sign_in_explanation" translatable="true">
 "Войдите, чтобы получить доступ к многопользовательской игре. Вы сможете:
@@ -1343,10 +1343,11 @@
 
 Если вы не хотите входить в систему, вы все равно можете играть в одиночную игру."
     </string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="_2x_skin_resolution">2x Скин Разрешение</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="You_are_already_friends_">Вы уже друзья.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Для отправки почты аккаунт должен быть старше 1 дня.</string>
+    <string name="Translator">Переводчик</string>
 
 
     <string-array name="control_modes">

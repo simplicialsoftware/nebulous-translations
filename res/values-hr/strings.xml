@@ -1306,11 +1306,15 @@ Commands: (Komande)
     <string name="xmas_gift_boost_message">Dobili ste poklon od 3x plazma povećanje na 1 dan!</string>
     <string name="no_response">Nema odgovora od poslužitelja molimo provjerite svoju internetsku vezu.</string>
     <string name="RAMADAN">RAMADAN</string>
+
     <string name="SUDDEN_ATTACK">IZNENADNI NAPAD</string>
     <string name="_2x_skin_resolution">2x skin rezolucija</string>
     <string name="pm">pm</string>
     <string name="You_are_already_friends_">Vi ste već prijatelji.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Račun mora biti star 1 dan da šalje poštu.</string>
+    <string name="Translator">Prevoditelj</string>
+
+
 
 
     <string-array name="control_modes">

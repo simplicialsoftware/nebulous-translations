@@ -181,7 +181,7 @@
     <string name="Dodgey">"ملاحق الكلاب"</string>
     <string name="Self_Contained">"اللاعب المتحفظ"</string>
     <string name="Survivalist">"المكافح"</string>
-    <string name="Ultramassive">"لعملاق"</string>
+    <string name="Ultramassive">"العملاق"</string>
     <string name="Rapid_Ascension">"الصعود السريع"</string>
     <string name="Revenge">"انتقام"</string>
     <string name="Doge_Pound">"جامع الكلاب"</string>
@@ -827,7 +827,7 @@
     <string name="Tournaments_Temporarily_Disabled">البطولات متوقفة مؤقتاً</string>
     <string name="CLAN_NAME_COLOR">لون إسم العشيرة</string>
     <string name="Tuber">اليوتيوبرز</string>
-    <string name="youtube_prompt">هل تريد زيارة هذه القناة الخاصة باللعبة؟ هذه القناه ليست تابعة لمصممي اللعبة</string>
+    <string name="youtube_prompt">هل تريد زيارة هذه القناة الخاصة باللعبة؟ هذه القناة ليست تابعة لمصممي اللعبة</string>
     <string name="Tournament_Matches_Won_">مباريات البطولات المربوحة:</string>
     <string name="PAINT">الرسم</string>
     <string name="BLOCKED_ACCOUNTS">الحسابات المحظورة</string>
@@ -913,7 +913,7 @@
     <string name="gift_to_friend">"هدية لصديق"</string>
     <string name="gift_purchase_warning">"لن تتلقى عملية الشراء هذه لأنك اخترت تقديم هدية لعملية الشراء هذه إلى صديق."</string>
     <string name="x2_Clan_XP_7_Days">"مسرع نقاط خبرة العشيرة X2 لـ7أيام"</string>
-    <string name="RECEIVED">"تم الاستلام"</string>
+    <string name="RECEIVED">"تم الإستلام"</string>
     <string name="SENT">"تم الإرسال"</string>
     <string name="Enable_Invites">"تمكين الدعوات"</string>
     <string name="Game_Invitation">"الدعوة إلى اللعبة"</string>
@@ -951,7 +951,7 @@
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
 اللعبة\n
 \n
-1. لا تقم بمشاركة او تبادل الحسابات مع أي شخص، سيتسبب ذلك بحضر حسابي كِلا اللاعبيْن بشكل دائم.\n
+1. لا تقم بمشاركة او تبادل الحسابات مع أي شخص، سيتسبب ذلك بحظر حسابي كِلا اللاعبيْن بشكل دائم.\n
 2. لا تقم بطلب حساب من أي شخص، سيتسبب ذلك بحضر حسابك بشكل دائم\n
 3. لا تقم بالتظاهر أنك مُدير او يوتيوبر، سيتسبب ذلك بحضر حسابك بشكل دائم\n
 4. لا تقم بالغش للوصول إلى مراتب عالية في حروب العشيرة او التحديات، سيتسبب ذلك بإعادة نقاط و إنجازات حسابك من الصفر و قد تصل الأمور حتى حضر حسابك بشكل دائم\n
@@ -1148,10 +1148,10 @@
     <string name="Rainbow">ثُقب مُلوَّن</string>
     <string name="Horizontal">أفقي</string>
     <string name="Vertical">رأسي</string>
-    <string name="GROUP">مجموعه</string>
+    <string name="GROUP">مجموعة</string>
     <string name="LEAVE">غادر</string>
-    <string name="Group">مجموعه</string>
-    <string name="Not_in_a_group_">ليس في المجموعه</string>
+    <string name="Group">مجموعة</string>
+    <string name="Not_in_a_group_">ليس في المجموعة</string>
     <string name="Failed">فشل</string>
     <string name="Failed_to_join">فشل في الدخول</string>
     <string name="Full">ممتلئ</string>
@@ -1178,7 +1178,7 @@
     <string name="Session_Stats">احصائيات الجلسة</string>
     <string name="Time_">:الزمن</string>
     <string name="Show_Session_Stats">إظهار احصائيات الموسم</string>
-    <string name="VALENTINES_DAY">"عيد الحب"</string>
+    <string name="VALENTINES_DAY">"يوم الحب"</string>
     <string name="Giveaways_">!هدايا</string>
     <string name="Max_XP_Chain_">:سلسلة الخبرة القصوى</string>
     <string name="POSITION_CANCEL_BUTTON">الغاء موقع الزر</string>
@@ -1235,7 +1235,7 @@
     <string name="Collected_">جُمِعت:</string>
     <string name="Collisions_">تَعارُض:</string>
     <string name="Absorbed_">مُنهَمِك:</string>
-    <string name="team_warning">" تجعل خصمُك من الفرق سيؤدي ذلك الى حظرك من اللعبة."</string>
+    <string name="team_warning">" جعل خصمُك من الفريق سيؤدي ذلك إلى حظرك من اللعبة."</string>
     <string name="Search_Filter">تصفيّة البَحِث</string>
     <string name="Received_">تم الاستلام:</string>
     <string name="Opponent_Rating_Limit_">حد تصنيف الخصم</string>
@@ -1273,7 +1273,7 @@
     <string name="x4_Clan_XP_1_Day">4x نقاط خبرة العشيرة لمُدَّة يوم</string>
     <string name="CHARGE_UP">الشُحنْةُ</string>
     <string name="CLAN_DESCRIPTION_COLOR">لونِ وصف العشيرة</string>
-    <string name="Responsible_Pet_Owner">مسؤل الحيوانات الأليفة</string>
+    <string name="Responsible_Pet_Owner">مسؤول الحيوانات الأليفة</string>
     <string name="Animal_Tamer">مُروِّض الحيوان</string>
     <string name="Crocodile_Hunter">صياد التمساح</string>
     <string name="Get_A_Pet_To_Level_X_">أجعل الحيوان مستوى %d.</string>
@@ -1282,7 +1282,7 @@
     <string name="Plasma_Boost_1_Day_">مُسرِّع البلازما لمُدَّة يوم!</string>
     <string name="Plasma_Boost_2_Hours_">مُسرِّع البلازما لمُدَّة ساعتين.</string>
     <string name="Plasma_Boost">مُسرِّع البلازما</string>
-    <string name="particle_info">يجِب ان تكون في المستوى الـ 50 على الأقل وتستخدم سكن اساسي به جزئيَّات. من أجل رؤية أي جزئيات أخرى.</string>
+    <string name="particle_info">يجِب أن تكون في المستوى الـ 50 على الأقل وتستخدم سكن اساسي به جزئيَّات. من أجل رؤية أي جزئيات أخرى.</string>
     <string name="Plain_Score_Text">"نص النقاط"</string>
     <string name="Custom_Skin_Reviewed_Notification">لقد قمنا بمُراجعة سكنك!</string>
     <string name="You_Have_Mail_">لديك رسالة من %s!</string>
@@ -1294,7 +1294,7 @@
     <string name="SPLIT_">قسْمَةُ:</string>
     <string name="WALLS">جُدران</string>
     <string name="COMP_BANNED">"حُظِر من الحَلبة</string>
-    <string name="FIND_GAMES">البحث عن غرفه!</string>
+    <string name="FIND_GAMES">البحث عن غرفة!</string>
     <string name="PLAY_SOLO">اللعِب الفردي</string>
     <string name="SET_EMOTE">ضع مُلصقاً</string>
     <string name="Winner_Winner_Chicken_Dinner">رابح، والدجاج هو العَشاء!</string>
@@ -1321,7 +1321,7 @@ Commands:
 </string>
     <string name="ID_Sort">نوع الهوية</string>
     <string name="Master_Tamer">مُروِّض مُتقن</string>
-    <string name="Get_ALL_Pets_To_Level_100_">قُم بتوصيل جميع الحيوانات الآليفه الى مستوى 100</string>
+    <string name="Get_ALL_Pets_To_Level_100_">أوصل جميع الحيوانات الأليفة إلى مستوى 100</string>
     <string name="TAMER">مُروِّض</string>
     <string name="Allow_Recombine">السماح بإعادة التجميع</string>
     <string name="Defenders">المُدافِعون</string>
@@ -1370,10 +1370,11 @@ Commands:
 
 "إذا كنت لا ترغب في تسجيل الدخول، يمكنك أيضًا اللعب الفردي.
     </string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
-    <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="_2x_skin_resolution">2X دقة الجلد</string>
+    <string name="pm">الخاص</string>
+    <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
+    <string name="Translator">مـتـرجم</string>
 
 
     <string-array name="control_modes">
@@ -1414,7 +1415,7 @@ Commands:
         <item>"صغير"</item>
         <item>"عادي"</item>
         <item>"كبير"</item>
-        <item>"HUGE"</item>
+        <item>"ضخم"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">

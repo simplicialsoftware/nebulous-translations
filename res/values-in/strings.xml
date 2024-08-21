@@ -38,7 +38,7 @@
     <string name="Score__">"Skor:"</string>
     <string name="Recombine_">"Bergabung kembali:"</string>
     <string name="WINNER_">"PEMENANG:"</string>
-    <string name="IDLE">"IDLE"</string>
+    <string name="IDLE">"MENGANGGUR"</string>
     <string name="Name_Invalid_">"Nama tidak berlaku."</string>
     <string name="Name_Taken_">"Nama yang diambil."</string>
     <string name="CONNECTED">"TERHUBUNG"</string>
@@ -49,7 +49,7 @@
     <string name="JOIN">"IKUT"</string>
     <string name="Lobby_Name">"Nama Lobi"</string>
     <string name="Not_found_">"Tidak ditemukan."</string>
-    <string name="Hidden">"Hidden"</string>
+    <string name="Hidden">"Tersembunyi"</string>
     <string name="SERVER">"SERVER"</string>
     <string name="Joining_game_in_">"Bergabung permainan di "</string>
     <string name="Game_Full">"Permainan Penuh"</string>
@@ -154,7 +154,7 @@
     <string name="Single_Handedly">"Seorang diri"</string>
     <string name="Dodgey">"Dodgey"</string>
     <string name="Self_Contained">"Serba lengkap"</string>
-    <string name="Survivalist">"Survivalist"</string>
+    <string name="Survivalist">"Bertahan Hidup"</string>
     <string name="Ultramassive">"Ultramassive"</string>
     <string name="Rapid_Ascension">"Ascension Cepat"</string>
     <string name="Revenge">"Balas Dendam"</string>
@@ -930,7 +930,7 @@
     <string name="Skin">Skin</string>
     <string name="Custom_Skin">Custom Skin</string>
     <string name="Color">Warna</string>
-    <string name="RECENT_PLAYERS">RECENT PLAYERS</string>
+    <string name="RECENT_PLAYERS">PEMAIN TERBARU</string>
     <string name="POSITION_CONTROL_STICK">"POSISI KONTROL STIK"</string>
     <string name="POSITION_SPLIT_BUTTON">POSISI TOMBOL SPLIT </string>
     <string name="POSITION_EJECT_BUTTON">POSISI TOMBOL EJECT</string>
@@ -1036,7 +1036,7 @@
     <string name="Enable_Profile_Colors">Aktifkan warna profil </string>
     <string name="Session_Stats">Session Stats</string>
     <string name="Time_">Waktu:</string>
-    <string name="Show_Session_Stats">Show Session Stats</string>
+    <string name="Show_Session_Stats">Tampilkan Sesi Stats</string>
     <string name="VALENTINES_DAY">"VALENTINES DAY"</string>
     <string name="Giveaways_">Giveaways!</string>
     <string name="Max_XP_Chain_">Max XP Chain:</string>
@@ -1216,6 +1216,7 @@ Commands:
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">You are already friends.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="Translator">Translator</string>
 
 
     <string-array name="control_modes">

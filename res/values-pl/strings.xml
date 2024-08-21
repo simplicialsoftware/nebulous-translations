@@ -25,7 +25,7 @@
     <string name="No">"Nie"</string>
     <string name="WAIT">"CZEKAJ…"</string>
     <string name="Must_Specify_Name_">"Określ Swoją Nazwę."</string>
-    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Ocena zawartości aplikacji może ulec zmianie podczas znajdywania grup."</string>
+    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Ocena zawartości aplikacji może ulec zmianie podczas znajdowania grup."</string>
     <string name="_Rank_">" Miejsce "</string>
     <string name="_Alias_">" Nazwa "</string>
     <string name="_Score_">" Wynik "</string>
@@ -845,7 +845,7 @@ Zasady Nebulous\n
 12. Nie wyrzucaj zbyt wielu graczy w klanie bez autoryzacji lidera.\n
 13. W grach drużynowych nie współpracuj z graczami przeciwnej drużyny.\n
         \n
-Jeśli nie będziesz zastosowywać się do zasad, konto może zostać zawieszone.\n
+Jeśli nie będziesz dostosowywać się do zasad, konto może zostać zawieszone.\n
 (Czas kary może wynieść od kilku godzin do trwałego bana, w zależności od poważności problemu).\n
 \n
 Jeśli ktoś łamie zasady, zgłoś to moderatorowi.
@@ -926,7 +926,7 @@ Jeśli ktoś łamie zasady, zgłoś to moderatorowi.
     <string name="JOIN_IP">"DOŁĄCZ PO IP"</string>
     <string name="Specify_Host_IP">"Określ IP Hosta"</string>
     <string name="ADVANCED_SETUP">"ZAAWANSOWANE USTAWIENIA"</string>
-    <string name="WORLD_CUP_EVENT___">"EVENT: MISTRZOSTWA ŚWIATA\n"</string>
+    <string name="WORLD_CUP_EVENT___">"WYDARZENIE: PUCHAR ŚWIATA\n"</string>
     <string name="world_cup_event_description">"Podwójne mnożniki XP oraz Plazmy są aktywowane do końca rozgrywek Mistrzostw Świata."</string>
     <string name="GIF_Skins">"Skórki GIF"</string>
     <string name="PLAY_ONLINE_">"GRAJ ONLINE!"</string>
@@ -1212,8 +1212,9 @@ Jeśli nie chcesz się logować, możesz nadal grać w trybie jednego gracza."
     </string>
     <string name="_2x_skin_resolution">"2x Rozdzielczość Skórki"</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
+    <string name="You_are_already_friends_">Jesteście już przyjaciółmi.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="Translator">Tłumacz</string>
     <string-array name="control_modes">
         <item>"Domyślne"</item>
         <item>"Względne"</item>

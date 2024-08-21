@@ -1362,8 +1362,8 @@ Nebulous 규칙\n
     <string name="language_change_warning">언어를 변경하면 애플리케이션이 재시작 됩니다.</string>
     <string name="xmas_gift_boost_message">1일 동안 사용 가능한 플라즈마 3배 부스터를 선물 받았습니다!</string>
     <string name="no_response">서버에서 응답이 없습니다. 인터넷 연결을 확인하십시오.</string>
-    <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="RAMADAN">라마단</string>
+    <string name="SUDDEN_ATTACK">서든어택</string>
 
     <string name="sign_in_explanation" translatable="true">
 "멀티플레이어에 접속하려면 로그인하세요. 다음과 같은 기능을 이용할 수 있습니다:
@@ -1376,10 +1376,11 @@ Nebulous 규칙\n
 
 로그인하고 싶지 않다면, 싱글 플레이어 모드로도 게임을 할 수 있습니다."
     </string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="_2x_skin_resolution">이배 스킨 해상도</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="You_are_already_friends_">당신은 이미 친구입니다.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">메일을 보내려면 계정이 최소 하루 이상 경과해야 합니다.</string>
+    <string name="Translator">역자</string>
 
     <string-array name="control_modes">
         <item>"일반"</item>

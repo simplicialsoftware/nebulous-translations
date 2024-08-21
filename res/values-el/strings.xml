@@ -48,7 +48,7 @@
     <string name="JOIN">"ΣΥΜΜΕΤΟΧΗ"</string>
 
 
-    <string name="Lobby_Name">"Όνομα Δωματίο"</string>
+    <string name="Lobby_Name">"Όνομα Δωματίου"</string>
     <string name="Not_found_">"Δεν βρέθηκε"</string>
 
     <string name="Hidden">"Κρυμμένο"</string>
@@ -264,9 +264,9 @@
 
     <string name="JOIN_CLAN">"ΣΥΜΜΕΤΟΧΉ ΣΕ ΚΛΑΝ"</string>
     <string name="JOIN_RANDOM_CLAN">"ΣΥΜΜΕΤΟΧΉ ΣΕ ΤΥΧΑΙΟ ΚΛΑΝ"</string>
-    <string name="LEAVE_CLAN">"ΕΞΟΔΟΣ ΑΠΟ ΤΟ ΚΛΑΝ"</string>
+    <string name="LEAVE_CLAN">"ΑΠΟΧΩΡΗΣΗ ΑΠΟ ΤΟ ΚΛΑΝ"</string>
     <string name="INVITE_MEMBER">"ΠΡΟΣΚΛΗΣΗ ΜΕΛΟΥΣ"</string>
-    <string name="REMOVE_MEMBER">"ΚΑΤΑΡΓΗΣΗ ΜΕΛΟΥΣ"</string>
+    <string name="REMOVE_MEMBER">"ΑΦΑΙΡΕΣΗ ΜΕΛΟΥΣ"</string>
 
 
     <string name="CREATE_CLAN">"ΔΗΜΙΟΥΡΓΙΑ ΚΛAN"</string>
@@ -317,10 +317,10 @@
     <string name="Translations">"Μεταφράσεις"</string>
     <string name="Developers">"Προγραμματιστές"</string>
     <string name="Special_Thanks">"Ιδιαίτερα ευχαριστώ"</string>
-    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Πολλά ευχαριστώ σε κάθε Nebulous Fan"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Πολλά ευχαριστώ σε κάθε Nebulous υποστηρικτή"</string>
     <string name="Color_Blind">"Αχρωματοψία"</string>
     <string name="Daily_Quest_Complete_">"Ημερήσια Αποστολή Ολοκληρώθηκε!"</string>
-    <string name="COPY_ID">"ΑΝΤΙΓΡΑΦΗ ID"</string>
+    <string name="COPY_ID">"ΑΝΤΙΓΡΑΦΗ ΑΡΙΘΜΟΥ ΛΟΓΑΡΙΑΣΜΟΥ"</string>
     <string name="My_Account_ID">"Ο αριθμός λογαριασμού"</string>
 
 
@@ -471,7 +471,7 @@
     <string name="ENTER">"ΕΙΣΑΓΩΓΗ"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Εξάσκηση"</string>
-    <string name="ArenaDescription">"Μπορείτε να πάρετε μόνο μια ζωή. Ο νικητής θα λάβει %s πλάσμα."</string>
+    <string name="ArenaDescription">"Εχετε μονάχα μια ζωή. Ο νικητής θα λάβει %s πλάσμα."</string>
     <string name="Contestant">"Αγωνιζόμενος"</string>
     <string name="Duelist">"Μονομάχος"</string>
     <string name="Gladiator">"Πρωταθλητής"</string>
@@ -525,23 +525,23 @@
     <string name="Start_Clan_War">"Ξεκινήστε Πόλεμο Κλαν"</string>
     <string name="Min_Level">"Ελάχιστο Επίπεδο"</string>
     <string name="SAVE">"ΑΠΟΘΗΚΕΎΣΗ"</string>
-    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Αυτός ο παίκτης δεν έχει το ελάχιστο απαιτούμενο επίπεδο για να ενταχθούν σε αυτό το κλαν:"</string>
+    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Αυτός ο παίκτης δεν έχει το ελάχιστο απαιτούμενο επίπεδο για να ενταχθεί σε αυτό το κλαν:"</string>
     <string name="Insufficient_Permission">"Ανεπαρκής άδεια"</string>
     <string name="DOMINATION">"ΚΥΡΙΑΡΧΙΑ"</string>
     <string name="DOM_Domination">"Κυριαρχία κυριαρχίας"</string>
     <string name="DOM_Hat_Trick">"Κυριαρχία Χατ Τρικ"</string>
     <string name="Win_by_50_points_in_a_DOM_game_">"Κέρδισε με 50 πόντους σε ένα παιχνίδι Κυριαρχίας."</string>
-    <string name="Score_33_points_in_a_single_DOM_game_">"Σκοράρει 33 πόντους σε ένα παιχνίδι Κυριαρχίας."</string>
+    <string name="Score_33_points_in_a_single_DOM_game_">"Σκοράρε 33 πόντους σε ένα παιχνίδι Κυριαρχίας."</string>
     <string name="Win_a_Domination_Game">"Κερδίστε ένα παιχνίδι Κυριαρχίας"</string>
     <string name="Select_Team">"Επιλογή ομάδας"</string>
-    <string name="MANAGE_TEAMS">"διαχείριση των ομάδων"</string>
+    <string name="MANAGE_TEAMS">"Διαχείριση των ομάδων"</string>
     <string name="CLAN_INVITE">"Πρόσκληση στο Κλαν"</string>
     <string name="TEAM_INVITE">"Πρόσκληση σε Ομάδα"</string>
     <string name="Team_Size">"Μέγεθος ομάδας"</string>
     <string name="Team_Name">"Όνομα ομάδας"</string>
     <string name="CREATE_TEAM">"ΔΗΜΙΟΥΡΓΙΑ ΟΜΑΔΑΣ"</string>
     <string name="Solo">"Μονό"</string>
-    <string name="Teams">"ομάδες"</string>
+    <string name="Teams">"Ομάδες"</string>
     <string name="Team">"Ομάδα"</string>
     <string name="Specify_Account_ID">"Καθορίστε τη ταυτότητα του λογαριασμού"</string>
     <string name="Team_Created_">"Η ομάδα δημιουργήθηκε!"</string>
@@ -559,13 +559,13 @@
     <string name="Other">"Άλλα"</string>
     <string name="Leave_Team">"Έξοδος Ομάδας"</string>
 
-    <string name="Remove_Player">"Κατάργηση παίκτη"</string>
+    <string name="Remove_Player">"Αφαίρεση παίκτη"</string>
     <string name="Reject_Invitation">"Απόρριψη Πρόσκλησης"</string>
     <string name="Leave_Game">"Έξοδος από το παιχνίδι"</string>
     <string name="Remove_Friend">"Κατάργηση φίλου"</string>
-    <string name="Remove_Clan_Member">"Κατάργηση Μέλους Κλαν"</string>
+    <string name="Remove_Clan_Member">"Κατάργηση Μέλους απο Κλαν"</string>
     <string name="Flag_lobby_as_inappropriate">"Σημείωση του λόμπι ως ακατάλληλο"</string>
-    <string name="Promote_Clan_Member">"Προώθηση του μέλους Κλαν"</string>
+    <string name="Promote_Clan_Member">"Προώθηση του μέλους του Κλαν"</string>
     <string name="Leave_Clan">"Έξοδος απο Κλαν"</string>
     <string name="Candy_Hoarder">"Συλλέκτης Γλυκών"</string>
     <string name="Candy_Collector">"Συλλέκτης Γλυκών"</string>
@@ -578,12 +578,12 @@
     <string name="Control_Opacity_">"Αδιαφάνεια κουμπιών και δεικτών:"</string>
     <string name="You_dont_own_the_team_">"Δεν σας ανήκει η ομάδα:"</string>
     <string name="User_has_already_been_invited_">"Ο χρήστης έχει ήδη προσκληθεί."</string>
-    <string name="Maximum_players_allowed_on_the_team_">"Μέγιστη παίκτες επιτρέπονται στην ομάδα:"</string>
-    <string name="Name_is_already_in_use_">"Το όνομα είναι ήδη σε χρήση."</string>
+    <string name="Maximum_players_allowed_on_the_team_">"Ο μέγιστος αριθμός παικτών που επιτρέπονται στην ομάδα:"</string>
+    <string name="Name_is_already_in_use_">"Το όνομα χρησιμοποιείται ήδη."</string>
     <string name="User_is_not_in_the_team_">"Ο χρήστης δεν είναι στην ομάδα."</string>
     <string name="You_are_not_invited_to_team_">"Δεν καλούνται να συνεργαστούν:"</string>
     <string name="Team_does_not_exist_">"Η ομάδα δεν υπάρχει"</string>
-    <string name="Please_wait_a_minute_before_sending_another_report_">"Παρακαλώ περιμένετε ένα λεπτό πριν από την αποστολή μια άλλη έκθεση."</string>
+    <string name="Please_wait_a_minute_before_sending_another_report_">"Παρακαλώ περιμένετε ένα λεπτό πριν από την αποστολή μιας άλλης αναφοράς."</string>
     <string name="Collect_1_000_beads_">"Μάζεψε 1.000 χάντρες."</string>
     <string name="Collect_5_000_beads_">"Μάζεψε 5.000 χάντρες."</string>
     <string name="Collect_10_000_beads_">"Μάζεψε 10.000 χάντρες."</string>
@@ -596,8 +596,8 @@
     <string name="PRIZES">"ΒΡΑΒΕΙΑ"</string>
 
     <string name="Enable_Custom_Skin">"Ενεργοποίηση Προσαρμοσμένου Σκιν"</string>
-    <string name="Use_Custom_Skin">"Προσαρμοσμένο\nσκιν"</string>
-    <string name="custom_skin_description">"Αυτό το χαρακτηριστικό σας επιτρέπει να χρησιμοποιήσετε την εικόνα του προφίλ σας ή ένα αρχείο, όπως το δέρμα σας. Αυτό θα αλλάξει μόνο το δέρμα που εσείς βλέπετε. Οι άλλοι παίκτες δεν θα μπορούν να δουν το συγκεκριμένο δέρμα σας αν δεν πληρώσετε επίσης για να φορτώσετε το δέρμα."</string>
+    <string name="Use_Custom_Skin">"Προσαρμοσμένο\σκιν"</string>
+    <string name="custom_skin_description">"Αυτό το χαρακτηριστικό σας επιτρέπει να χρησιμοποιήσετε την εικόνα του προφίλ σας ή ένα αρχείο, ως το skin σας. Αυτό θα αλλάξει μόνο το skin που εσείς βλέπετε. Οι άλλοι παίκτες δεν θα μπορούν να δουν το συγκεκριμένο skin σας αν δεν πληρώσετε επίσης για να φορτώσετε το skin."</string>
     <string name="CUSTOM_SKIN">"ΔΙΑΜΟΡΦΩΜΕΝΟ ΣΚΙΝ"</string>
 
     <string name="Facebook_Profile">"Προφίλ Facebook"</string>
@@ -622,7 +622,7 @@
     <string name="CLAN_HISTORY">"ΙΣΤΟΡΙΑ ΚΛΑΝ"</string>
 
 
-    <string name="Love_Nebulous_">"Η αγάπη νεφελώδη;"</string>
+    <string name="Love_Nebulous_">"Αγαπήστε το Nebulous"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Παρακαλούμε υποστηρίξτε το Nebulous αξιολογώντας το."</string>
     <string name="MAYHEM_MODE">"ΛΕΙΤΟΥΡΓΙΑ ΑΝΤΑΡΑΣ"</string>
     <string name="Times_Teleported_">"Times Teleported:"</string>
@@ -652,7 +652,7 @@
     <string name="Challenge_Sent">"πρόκληση στάλθηκε"</string>
     <string name="_1v1_Challenge_">"1v1 Challenge!"</string>
     <string name="__has_challenged_you_to_a_1v1_match_">"%s σας έχει προκαλέσει σε ένα αγώνα 1v1!"</string>
-    <string name="Challenge_Expired">"πρόκληση Έληξε"</string>
+    <string name="Challenge_Expired">"Η Πρόκληση Έληξε"</string>
     <string name="Enable_Challenges">"Ενεργοποίηση προκλήσεων"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"Περιμένετε την τρέχουσα πρόκληση να λήξει."</string>
     <string name="CHALLENGE_OPTIONS">"ΕΠΙΛΟΓΕΣ ΠΡΟΚΛΗΣΗΣ"</string>
@@ -722,12 +722,12 @@
     <string name="Inappropriate_Skin">"Ακατάλληλο Σκιν"</string>
     <string name="Approved">"Εγκεκριμένη"</string>
     <string name="Rejected">"Απορρίφθηκε"</string>
-    <string name="Refunded">"Επιστρέφεται"</string>
+    <string name="Refunded">"Επιστράφηκε το πλάσμα"</string>
 
 
     <string name="contribution_warning">"Είστε σίγουροι ότι θέλετε να συμβάλετε αυτό το ποσό πλάσματος; Οι εισφορές δεν θα επιστραφούν."</string>
     <string name="Upload">"Μεταφόρτωση"</string>
-    <string name="upload_warning">"Είστε σίγουροι ότι θέλετε να φορτώσετε αυτό το δέρμα; Άλλοι παίκτες θα είναι σε θέση να δείτε αυτό το δέρμα. Μπορεί να χρειαστούν έως και μία εβδομάδα για το δέρμα σας να αναθεωρηθούν. Ακατάλληλος δέρματα θα απορριφθεί και δεν θα πρέπει να αποδοθούν!"</string>
+    <string name="upload_warning">"Είστε σίγουροι ότι θέλετε να φορτώσετε αυτό το skin; Άλλοι παίκτες θα είναι σε θέση να δείτε αυτό το skin. Μπορεί να χρειαστούν έως και μία εβδομάδα για το skin σας να αναθεωρηθούν. Ακατάλληλα skin θα απορριφθεί και δεν θα πρέπει να επιστραφεί το πλάσμα!"</string>
 
     <string name="In_Review">"Σε έλεγχο"</string>
     <string name="Account_Uploads">"Προσθήκες λογαριασμού"</string>
@@ -755,17 +755,17 @@
     <string name="upload_info">"Μπορείτε να επιτύχετε καλύτερη ποιότητα χωρίς διαφάνεια ή με απλές εικόνες."</string>
     <string name="Compression_Quality_">"Ποιότητα συμπίεσης:"</string>
     <string name="inapproriate_info">"Ακατάλληλα σκιν είναι σεξουαλικά υπονοούμενα, μισητά, γραφικά(όργανα, αίματα κλπ.), άσεμνα, βίαια, παραπλανητικά, ακατάληπτά, αδιευκρίνιστες και μη τροποποιημένα Nebulous σκιν / art!"</string>
-    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Είστε σίγουροι ότι θέλετε να φορτώσετε αυτό το δέρμα;"</string>
+    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Είστε σίγουροι ότι θέλετε να φορτώσετε αυτό το σκιν;"</string>
     <string name="Grant_Permission">"Εκχώρηση δικαιωμάτων"</string>
-    <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Νεφελώδη χρειάζεται δικαιώματα στην αποθήκευσης για backup μόνο για την πρόοδο του παίκτη σας!"</string>
-    <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Νεφελώδη χρειάζεται δικαιώματα Χοντρό Τοποθεσία για να βρείτε κοντινές συσκευές Bluetooth."</string>
+    <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Το Nebulous χρειάζεται δικαιώματα στην αποθήκευσης για backup μόνο για την πρόοδο του παίκτη σας!"</string>
+    <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Το Nebulous χρειάζεται δικαιώματα Χοντρό Τοποθεσία για να βρείτε κοντινές συσκευές Bluetooth."</string>
     <string name="FFA_ULTRA">"ΕΓΟ ULTRA"</string>
     <string name="FFAU">"ΕΓΟ-U"</string>
     <string name="_in_a_FFAU_Game">" σε παιχνίδι ΕΓΟ ULTRA"</string>
 
     <string name="BANNED_PLAYERS">"ΑΠΟΚΛΕΙΣΜΕΝΟΙ ΠΑΙΚΤΕΣ"</string>
     <string name="MAIL">"ΤΑΧΥΔΡΟΜΕΊΟ"</string>
-    <string name="WRITE_MAIL">"Γραφή Μηνύματος"</string>
+    <string name="WRITE_MAIL">"Εγγραφή Μηνύματος"</string>
     <string name="Days">"Ημέρες"</string>
     <string name="Message">"Μήνυμα"</string>
     <string name="Subject">"Θέμα"</string>
@@ -819,7 +819,7 @@
     <string name="Semi_Finals">"Ημιτελικά"</string>
     <string name="Quarter_Finals">"Προημιτελικά"</string>
     <string name="Competing">"Ανταγωνίζονται"</string>
-    <string name="Finals">"Τελικά"</string>
+    <string name="Finals">"Τελικοί"</string>
     <string name="Unregister">"Κατάργηση εγγραφής"</string>
     <string name="Enter_My_Match">"Συμμετοχή στον αγώνα μου"</string>
     <string name="Starts_In">"Ξεκινά σε"</string>
@@ -827,14 +827,14 @@
     <string name="Tournaments_Temporarily_Disabled">"Τουρνουά έχουν προσωρινά απενεργοποιηθεί"</string>
     <string name="CLAN_NAME_COLOR">"Χρωμα του ονόματος Κλαν"</string>
     <string name="Tuber">"Κόνδυλος"</string>
-    <string name="youtube_prompt">"Θα θέλατε να επισκεφθείτε αυτό το Nebulous κανάλι Youtube; Αυτά τα κανάλια δεν είναι συνδεδεμένα με τους δημιουργούς του νεφελώδες."</string>
+    <string name="youtube_prompt">"Θα θέλατε να επισκεφθείτε αυτό το Nebulous κανάλι Youtube; Αυτά τα κανάλια δεν είναι συνδεδεμένα με τους δημιουργούς του Nebulous."</string>
     <string name="Tournament_Matches_Won_">"Κερδισμένοι Αγώνες Τουρνουά:"</string>
     <string name="PAINT">"ΧΡΩΜΑΤΙΣΜΟΣ"</string>
-    <string name="BLOCKED_ACCOUNTS">"Σφραγισμένοι λογαριασμούς"</string>
+    <string name="BLOCKED_ACCOUNTS">"Μπλοκαρισμένοι λογαριασμοί"</string>
     <string name="UNBLOCK">"Ξεμπλοκαρισμα"</string>
     <string name="Emotes">"Συναισθήματα"</string>
     <string name="Support">"Υποστήριξη"</string>
-    <string name="Already_Blocked">"Ηδη Σφραγισμένοι"</string>
+    <string name="Already_Blocked">"Ηδη Μπλοκαρισμένος"</string>
     <string name="Cannot_block_more_than_x_accounts_">"Δεν μπορείς να μπλοκάρεις περισσότερους από %d λογαριασμούς."</string>
     <string name="This_is_you_">"Αυτός είσαι εσύ."</string>
     <string name="Win_a_Paint_Game">"Κερδίστε ένα παιχνίδι Χρωματισμού"</string>
@@ -876,7 +876,7 @@
     <string name="Bundle_of_Spins">Πακέτο Γυρισμάτων (10)</string>
     <string name="Plethora_of_Spins">Πληθώρα Γυρισμάτων (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">ΑΠΟΣΥΝΔΕΣΗ ΑΠΟ ΟΛΕΣ ΣΥΣΚΕΥΕΣ</string>
-    <string name="Tournament_Forming">Tournament Forming</string>
+    <string name="Tournament_Forming">Σχηματισμός Τουρνουά</string>
     <string name="TeamTourneyDescription">Εσύ και ο συμπαίκτης σου θα πρέπει να εγγραφείτε για να παίξετε στο τουρνουά με ομάδες.Θα πρέπει να αφήσετε το πλάσμα οταν το τουρνουά ξεκινήσει αλλά μπορείτε  να καταργήσετε την εγγραφή πριν ξεκινήσει.Χρειάζεται τουλάχιστον %d συμμετοχές για να ξεκινήσει.</string>
     <string name="Free_Agent">Ελεύθερος Πράκτορας</string>
     <string name="This_player_selected_a_different_teammate_">Αυτός ο παίκτης έχει διαλέξει ηδη έναν άλλο συμπαίκτη.</string>
@@ -942,7 +942,7 @@
     <string name="SET_NOTE">ΕΠΙΒΟΛΗ ΣΗΜΕΙΩΣΗΣ</string>
     <string name="enable_notifications">Ενεργοποίηση ειδοποιήσεων</string>
     <string name="PROMOTE_MEMBER">ΠΡΟΑΓΩΓΉ ΜΕΛΟΥΣ</string>
-    <string name="DEMOTE_MEMBER">ΚΑΘΑΊΡΕΣΗ ΜΕΛΟΥΣ</string>
+    <string name="DEMOTE_MEMBER">ΥΠΟΒΙΒΑΣΜΟΣ ΜΕΛΟΥΣ</string>
     <string name="HAPPY_BIRTHDAY_">ΧΡΟΝΙΑ ΠΟΛΛΑ NEBULOUS!</string>
     <string name="Years">Χρόνια</string>
     <string name="Friend_Added_">Προστέθηκε φίλος!</string>
@@ -975,7 +975,7 @@
     <string name="ArenaDescriptionUltra">Ο Νικητής θα παραλάβει %s πλάσμα.</string>
     <string name="BANNED">ΑΠΟΚΛΕΙΣΜΕΝΟΣ</string>
     <string name="CLAN_MEMBERS">ΜΕΛΗ ΚΛΑΝ</string>
-    <string name="CLAN_REQUESTS">ΑΙΤΗΜΑΤΑ ΚΛΑΝ</string>
+    <string name="CLAN_REQUESTS">ΑΙΤΗΜΑΤΑ ΓΙΑ ΚΛΑΝ</string>
     <string name="Pet_1">Κατοικίδιο 1</string>
     <string name="Pet_2">Κατοικίδιο 2</string>
     <string name="Second_Pet">Σας δείνει την δυνατότητα να έχετε δύο κατοικίδια!</string>
@@ -1006,7 +1006,7 @@
     <string name="Allow_Mass_Boost">Επιτρέπεται ώθηση μάζας</string>
     <string name="Challenges_Won_">Νικητήριες προκλήσεις:</string>
     <string name="trophy_info">Βραβεία δίνονται μετά απο κάθε περίοδο κονίστρας ή ομαδικής κονίστρας για την πρώτη, δεύτερη και τρίτη θέση. Βραβεία δίνονται μόνο σε ενεργές περιοχές με πολλούς παίκτες.</string>
-    <string name="BLOCKED">ΣΦΡΑΓΙΣΜΕΝΟΣ</string>
+    <string name="BLOCKED">ΜΠΛΟΚΑΡΙΣΜΕΝΟΣ</string>
     <string name="CLAN_WAR_HISTORY">ΙΣΤΟΡΙΑ ΠΟΛΕΜΩΝ ΚΛΑΝ</string>
     <string name="Particle">Σωματίδιο</string>
     <string name="Privacy">Μυστικότητα</string>
@@ -1074,7 +1074,7 @@
 
     <string name="pack_info">Όταν αγοράσετε αυτό το πακέτο με σκιν, τα σκιν θα εμφανιστούν στην αρχή της σελίδας επιλογής σκιν.</string>
 
-    <string name="EXCLUSIVE_skins_pets_hats_and_more_">ΕΠΙΣΗΜΑ Σκιν, Κατοικίδια, Καπέλα και αλλά!</string>
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">ΑΠΟΚΛΕΙΣΤΙΚΑ Σκιν, Κατοικίδια, Καπέλα και αλλά!</string>
     <string name="BUY_NOW_">ΑΓΟΡΑΣΤΕ ΤΩΡΑ!</string>
     <string name="already_purchased">Εσύ ή ο παίκτης για τον οποίο το αγοράζετε αυτό το έχει ήδη.</string>
     <string name="Halo_Animations">Κινούμενα φωτοστέφανα</string>
@@ -1099,7 +1099,7 @@
     <string name="GROUP">ΟΜΑΔΑ</string>
     <string name="LEAVE">ΕΞΟΔΟΣ</string>
     <string name="Group">Ομάδα</string>
-    <string name="Not_in_a_group_">Δεν είστε σεβομάδα.</string>
+    <string name="Not_in_a_group_">Δεν είστε σε ομάδα.</string>
     <string name="Failed">Απέτυχε</string>
     <string name="Failed_to_join">Αποτυχία σύνδεσης</string>
     <string name="Full">Γεμάτο</string>
@@ -1114,7 +1114,7 @@
     <string name="Joined">Συνδεθήκατε</string>
     <string name="Requests">Αιτήματα</string>
     <string name="Invites">Προσκλήσεις</string>
-    <string name="Show_Spectator_Count">Εμφάνιση των θεατών</string>
+    <string name="Show_Spectator_Count">Εμφάνιση αριθμού θεατών</string>
     <string name="TRY_IT_">ΔΟΚΙΜΑΣΕ ΤΟ!</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Πρέπει να αγοράσεις πακέτο για να το χρησιμοποιήσεις.</string>
     <string name="GET_PACK">ΠΑΡΕ ΠΑΚΕΤΟ</string>
@@ -1283,8 +1283,8 @@ Commands:
     <string name="Complete_campaign_mission_">Ολοκλήρωσε αποστολή καμπάνιας</string>
     <string name="Specify_Reason_">Διευκρινίστε τον λόγο:</string>
     <string name="FREE_FOR_ALL">ΕΛΕΎΘΕΡΟ ΓΙΑ ΌΛΟΥΣ</string>
-    <string name="SPECIAL">SPECIAL</string>
-    <string name="FREE">FREE</string>
+    <string name="SPECIAL">ΞΕΧΩΡΙΣΤΟ</string>
+    <string name="FREE">ΔΩΡΕΑΝ</string>
     <string name="x5_Clan_XP_1_Day">5X Κλαν ΠΕ 1 ΜΈΡΑ</string>
     <string name="x5_Clan_XP_7_days">5X Κλαν ΠΕ 7 ΜΈΡΕΣ</string>
     <string name="x5_Clan_XP_Perm">5X Κλαν ΠΕ ΜΌΝΙΜΟ!</string>
@@ -1303,14 +1303,13 @@ Commands:
     <string name="language_change_warning">Η αλλαγή γλώσσας θα κάνει την εφαρμογή να επανεκκινηθεί.</string>
     <string name="xmas_gift_boost_message">Παραλάβατε ένα δώρο ενίσχυση 3x πλάσμα για 1 μέρα!</string>
     <string name="no_response">Δεν υπάρχει σύνδεση στον σέρβερ. Παρακαλώ ελέγξτε την σύνδεση σας.</string>
-    <string name="RAMADAN">RAMADAN</string>
+    <string name="RAMADAN">ΡΑΜΑΖΑΝΙ</string>
     <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-
-
+    <string name="You_are_already_friends_">Είσαστε ήδη φίλοι.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Ο λογαριασμός πρέπει να είναι δημιουργημένος 1 μέρα πριν για να στείλει μήνυμσ</string>
+    <string name="Translator">Translator</string>  
     <string-array name="control_modes">
         <item>"Κανονικός"</item>
         <item>"Σχετικό"</item>
@@ -1339,8 +1338,8 @@ Commands:
 
     <string-array name="difficulties">
         <item>"Εύκολο"</item>
-        <item>"Μέσον"</item>
-        <item>"Σκληρά"</item>
+        <item>"Μέτριο"</item>
+        <item>"Σκληρό"</item>
         <item>"Αδύνατο"</item>
     </string-array>
 
@@ -1349,7 +1348,7 @@ Commands:
         <item>"Μικρό"</item>
         <item>"Κανονικό"</item>
         <item>"Μεγάλο"</item>
-        <item>"HUGE"</item>
+        <item>"Τεράστιο"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">

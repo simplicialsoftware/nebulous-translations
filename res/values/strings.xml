@@ -1420,6 +1420,7 @@ If you do not wish to sign in, you can still play single player."
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">You are already friends.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="Translator">Translator</string>
 
 
     <string-array name="control_modes">
@@ -1535,7 +1536,6 @@ If you do not wish to sign in, you can still play single player."
         <item>English</item>
         <item>Afrikaans</item>
         <item>العربية</item>
-        <item>Kurdî</item>
         <item>azərbaycanlı</item>
         <item>български</item>
         <item>বাঙালি</item>
@@ -1546,6 +1546,7 @@ If you do not wish to sign in, you can still play single player."
         <item>Deutsch</item>
         <item>ελληνικά</item>
         <item>Español</item>
+        <item>Español (Latinoamérica)</item>
         <item>eesti</item>
         <item>suomi</item>
         <item>français</item>
@@ -1558,7 +1559,9 @@ If you do not wish to sign in, you can still play single player."
         <item>italiano</item>
         <item>日本語</item>
         <item>ქართული</item>
+        <item>Қазақ</item>
         <item>한국어</item>
+        <item>Kurdî</item>
         <item>Lietuvos</item>
         <item>Latvijas</item>
         <item>македонски</item>
@@ -1576,9 +1579,9 @@ If you do not wish to sign in, you can still play single player."
         <item>Shqip</item>
         <item>Srpski</item>
         <item>svenska</item>
+        <item>தமிழ்</item>
         <item>ไทย</item>
         <item>Pilipino</item>
-        <item>தமிழ்</item>
         <item>Türkçe</item>
         <item>український</item>
         <item>Tiếng Việt</item>

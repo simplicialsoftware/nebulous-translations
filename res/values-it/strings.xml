@@ -35,7 +35,7 @@
     <string name="_Alias_">" Alias "</string>
     <string name="_Score_">" Punteggio "</string>
     <string name="Score__">"Punteggio:"</string>
-    <string name="Recombine_">"Ricombinare in:"</string>
+    <string name="Recombine_">"Ricombinare tra: "</string>
     <string name="WINNER_">"VINCITORE:"</string>
     <string name="IDLE">"INATTIVO"</string>
     <string name="Name_Invalid_">"Nome non valido."</string>
@@ -80,7 +80,7 @@
     <string name="CUSTOM_GAMES">"PARTITE PERSONALIZZATE"</string>
     <string name="CHAT">"CHAT"</string>
     <string name="CUSTOM_SETUP">"IMPOSTAZIONI PERSONALIZZATE"</string>
-    <string name="CHAT_SETUP">"IMPOSTAZIONI CHAT"</string>
+    <string name="CHAT_SETUP">"IMPOSTAZIONI DELLA CHAT"</string>
 
 
     <string name="ACCOUNT">"PROFILO"</string>
@@ -129,7 +129,7 @@
     <string name="ERROR">"ERRORE"</string>
     <string name="CONTINUE">"CONTINUA"</string>
     <string name="Global_" formatted="false">"Globale"</string>
-    <string name="FRIEND_CHAT">"CHAT PRIVATA"</string>
+    <string name="FRIEND_CHAT">"CHAT D'AMICI"</string>
     <string name="LOBBY_NAME">"NOME DELLA STANZA"</string>
     <string name="NULL">"NULL"</string>
 
@@ -1285,7 +1285,7 @@ Comandi:
 !admin {id}
 !allow {id}
 !allow reset
-!team [1-4] {id} (Solo in le modalità di squadre)
+!team [1-4] {id} (Solo nelle modalità a squadre)
 !winner
 !stats
 !info"
@@ -1331,9 +1331,9 @@ Comandi:
     <string name="SUDDEN_ATTACK">ATTACCO IMPROVVISO</string>
     <string name="_2x_skin_resolution">Doppia risoluzione skin</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-
+    <string name="You_are_already_friends_">Voi siete già amici.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">"L'account deve essere stato creato da almeno 1 giorno per spedire le mail."</string>
+    <string name="Translator">Traduttore</string>
 
     <string-array name="control_modes">
         <item>"Normale"</item>
