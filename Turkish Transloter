@@ -132,7 +132,7 @@
     <string name="Global_" formatted="false">"Küresel %"</string>
     <string name="FRIEND_CHAT">"ARKADAŞINLA SOHBET"</string>
     <string name="LOBBY_NAME">"LOBİ ADI"</string>
-    <string name="NULL">"HÜKÜMSÜZ "</string>
+    <string name="NULL">"HÜKÜMSÜZ"</string>
 
 
     <string name="ALL">"TÜMÜ"</string>
@@ -1301,10 +1301,10 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Winner_Winner_Chicken_Dinner">"Hadi İyisin, Çorba Parası Çıktı"</string>
     <string name="Win_a_Battle_Royale_">"Bir Battle Royale maçı kazan"</string>
     <string name="Battle_">"Savaş!"</string>
-    <string name="BATTLE_ROYALE">"BATTLE ROYALE"</string>
-    <string name="Battle_Royale">"Battle Royale"</string>
+    <string name="BATTLE_ROYALE">"SAVAŞ ROYALE"</string>
+    <string name="Battle_Royale">"Savaş Royale"</string>
     <string name="The_winner_will_receive_x_plasma_">"Kazanan %s plazma alacak" </string>
-    <string name="admin_commands">"
+    <string name="admin_commands">"Yönetici Komutları"</string>
 Komutlar:
 !kick [0–31]( Oyuncu at )
 !reset( sıfırla )
