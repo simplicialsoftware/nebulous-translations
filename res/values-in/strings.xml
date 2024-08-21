@@ -10,7 +10,7 @@
     <string name="DEFAULTS">"TAMPILAN AWAL"</string>
     <string name="WEEKLY">"MINGGUAN"</string>
     <string name="DAILY">"HARIAN"</string>
-    <string name="Server_">"Pelayan:"</string>
+    <string name="Server_">"Pelayan.:"</string>
     <string name="Game_Mode_">"Mode Permainan:"</string>
     <string name="Show_Names">"Tampilkan Nama"</string>
     <string name="Show_Avatars">"Tampilkan Skins"</string>
@@ -70,7 +70,7 @@
     <string name="START">"MULAI"</string>
     <string name="CREATE">"BUAT"</string>
     <string name="CUSTOM_GAMES">"CUSTOM PERMAINAN"</string>
-    <string name="CHAT">"CHAT"</string>
+    <string name="CHAT">"MENGOBROL"</string>
     <string name="CUSTOM_SETUP">"PENGATURAN CUSTOM"</string>
     <string name="CHAT_SETUP">"PENGATURAN CHAT"</string>
     <string name="ACCOUNT">"AKUN"</string>
@@ -103,7 +103,7 @@
     <string name="You">"Kamu"</string>
     <string name="This_player_is_a_bot">"Pemain ini adalah bot."</string>
     <string name="This_player_is_not_signed_in">"Pemain ini tidak masuk."</string>
-    <string name="Online">"Online"</string>
+    <string name="Online">"On line"</string>
     <string name="Unknown">"Tidak dikenal"</string>
     <string name="Offline">"Luring"</string>
     <string name="Achievement_Earned">"Perolehan Prestasi"</string>
