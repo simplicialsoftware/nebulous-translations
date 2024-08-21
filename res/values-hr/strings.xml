@@ -129,7 +129,7 @@
     <string name="Friend_Request_Sent">"Zahtjev za Prijateljstvo Poslan"</string>
     <string name="ERROR">"GREŠKA"</string>
     <string name="CONTINUE">"NASTAVI"</string>
-    <string name="Global_" formatted="false">"Globalno %"</string>
+    <string name="Global_" formatted="false">"Globalno "</string>
     <string name="FRIEND_CHAT">"PRIJATELJSKI RAZGOVOR"</string>
     <string name="LOBBY_NAME">"IME SERVERA"</string>
     <string name="NULL">"NULL"</string>
@@ -808,7 +808,7 @@
     <string name="Tournament_Competing">"Natjecanje u Turniru"</string>
     <string name="Tournament_Registered">"Registriran za Turnir"</string>
     <string name="Tournament">"Turnir"</string>
-    <string name="TourneyDescription" tools:ignore="PluralsCandidate">Morate se registrirati da biste igrali u turniru. Plazma će vam biti naplaćena kada turnir počne, ali se možete odjaviti prije njegovog početka. Turnir počinje kada se prijavi najmanje 8 %d natjecatelja.</string>
+    <string name="TourneyDescription" tools:ignore="PluralsCandidate">Morate se registrirati da biste igrali u turniru. Plazma će vam biti naplaćena kada turnir počne, ali se možete odjaviti prije njegovog početka. Turnir počinje kada se prijavi najmanje %d natjecatelja.</string>
     <string name="Register">"Registriraj se"</string>
 
     <string name="Registered">"Registriran"</string>
