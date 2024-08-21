@@ -532,7 +532,7 @@
     <string name="DOM_Domination">"DOM Dominacija"</string>
     <string name="DOM_Hat_Trick">"DOM Hat-Trik"</string>
     <string name="Win_by_50_points_in_a_DOM_game_">"Pobijedi sa 50 bodova u Dominacija igri."</string>
-    <string name="Score_33_points_in_a_single_DOM_game_">"Postigni 33 boda u jednoj Dominacija igri"</string>
+    <string name="Score_33_points_in_a_single_DOM_game_">"Postigni 33 boda u jednoj Dominacija igri."</string>
     <string name="Win_a_Domination_Game">"Pobijedi Dominacija Igru"</string>
     <string name="Select_Team">"Odaberi Tim"</string>
     <string name="MANAGE_TEAMS">"UPRAVLJAJ TIMOVIMA"</string>
@@ -580,7 +580,7 @@
     <string name="You_dont_own_the_team_">"Ne posjedujete tim:"</string>
     <string name="User_has_already_been_invited_">"Korisnik je već pozvan."</string>
     <string name="Maximum_players_allowed_on_the_team_">"Maksimum igrača dozvoljen u timu:"</string>
-    <string name="Name_is_already_in_use_">"Ime je već u uporabi"</string>
+    <string name="Name_is_already_in_use_">"Ime je već u uporabi."</string>
     <string name="User_is_not_in_the_team_">"Korisnik nije u timu."</string>
     <string name="You_are_not_invited_to_team_">"Niste pozvani u tim."</string>
     <string name="Team_does_not_exist_">"Tim ne postoji:"</string>
@@ -593,7 +593,7 @@
     <string name="Bead_Mogul">"Mogul Kuglica"</string>
     <string name="beads_">"kuglice."</string>
 
-    <string name="Rejoin_Game">"Ponovno se Pridruži Ugri"</string>
+    <string name="Rejoin_Game">"Ponovno se Pridruži Igri"</string>
     <string name="PRIZES">"NAGRADE"</string>
 
     <string name="Enable_Custom_Skin">"Omogući Prilagođene Skinove"</string>
@@ -930,7 +930,7 @@
     <string name="Choose_Menu">"Odaberi Izbornik"</string>
     <string name="SPECTATE">"GLEDAJ"</string>
     <string name="INVITE">"POZOVI"</string>
-    <string name="error_1">"Samo lider i dijamant mogu poslati klan mail."</string>
+    <string name="error_1">"Samo vođa i admin mogu poslati klan poštu."</string>
     <string name="Hat">"Šešir"</string>
     <string name="Hats">"Šeširi"</string>
     <string name="Pet_Uploads">"Postavljeni Ljubimci"</string>
@@ -942,7 +942,7 @@
     <string name="SPLIT_16X">"SPLIT 16X"</string>
     <string name="SET_PUBLIC_DESCRIPTION">"POSTAVI JAVNI OPIS"</string>
     <string name="SET_NOTE">"POSTAVI BILJEŠKU"</string>
-    <string name="enable_notifications">"Omogući Obavijesti"</string>
+    <string name="enable_notifications">"omogući obavijesti"</string>
     <string name="PROMOTE_MEMBER">"UNAPRIJEDITI RANK ČLANU"</string>
     <string name="DEMOTE_MEMBER">"SNIZITI RANK ČLANU"</string>
     <string name="HAPPY_BIRTHDAY_">"SRETAN NEBULOUS ROĐENDAN!"</string>
@@ -984,7 +984,7 @@
     <string name="This_item_requires">Ova stvar zahtjeva</string>
     <string name="not_enough_plasma">nedovoljno plazme.</string>
     <string name="MARK_UNREAD">OZNAČI KAO NEPROČITANO</string>
-    <string name="ROYALE_DUO">ROYALE DUO</string>
+    <string name="ROYALE_DUO">ROJALSKI DUO</string>
     <string name="Choose_Partner">Odaberi Suigrača</string>
     <string name="REMOVE_FRIEND">UKLONI PRIJATELJA</string>
     <string name="Creator">Kreator</string>
