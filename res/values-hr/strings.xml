@@ -848,7 +848,7 @@
     <string name="Autoclick_24_Hours">"Autoklik 24 Sata"</string>
     <string name="Autoclick_1_Hour">"Autoklik 1 Sat"</string>
     <string name="Ultraclick_24_Hours">"Ultraklik 24 Sata"</string>
-    <string name="Ultraclick_1_Hour">"Ultra klik 1 Sat"</string>
+    <string name="Ultraclick_1_Hour">"Ultraklik 1 Sat"</string>
     <string name="Ultraclick">"Ultraklik"</string>
     <string name="May_Reduce_Lag">"Možda Smanji Lag"</string>
     <string name="Ultraclick_Permanent">"Trajan Ultraklik"</string>
@@ -991,8 +991,8 @@
     <string name="PROFILE_COLOR">BOJA PROFILA</string>
     <string name="Enable_Colors">Omogući Boje</string>
     <string name="Particles">Čestice</string>
-    <string name="Clan_Particle_Uploads">Postavljene Klan Čestice</string>
-    <string name="Particle_Uploads">Postavljene Čestice</string>
+    <string name="Clan_Particle_Uploads">Učitane Klan Čestice</string>
+    <string name="Particle_Uploads">Učitane Čestice</string>
     <string name="Blob_Outline">Rub Bloba</string>
     <string name="Game_Border">Granica Mape</string>
     <string name="Select_some_text_first">Prvo odaberi tekst</string>
@@ -1232,7 +1232,7 @@
     <string name="Plasma_Boost_1_Day_">Plazma Povećanje 1 Dan!</string>
     <string name="Plasma_Boost_2_Hours_">Plazma Povećanje 2 Sata.</string>
     <string name="Plasma_Boost">Plazma Povećanje</string>
-    <string name="particle_info">Moraš dostignuti najmanje lvl 50 i koristiti skin koji ima particle kako bi ih mogao vidjeti.</string>
+    <string name="particle_info">Moraš dostignuti najmanje level 50 i koristiti skin koji ima čestice kako bi ih mogao vidjeti.</string>
     <string name="Plain_Score_Text">"Običan Bodovni Tekst"</string>
     <string name="Custom_Skin_Reviewed_Notification">Tvoj Prilagođeni Skin Je Pregledan!</string>
     <string name="You_Have_Mail_">Dobio Si Mail od %s!</string>
