@@ -763,7 +763,7 @@
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous treba dopuštenje lokacije da bi pronašli Bluetooth uređaje u blizini."</string>
     <string name="FFA_ULTRA">"FFA ULTRA"</string>
     <string name="FFAU">"FFAU"</string>
-    <string name="_in_a_FFAU_Game">" U FFA ULTRA Igri"</string>
+    <string name="_in_a_FFAU_Game">" u FFA ULTRA Igri"</string>
 
     <string name="BANNED_PLAYERS">"ZABRANJENI IGRAČI"</string>
     <string name="MAIL">"POŠTA"</string>
@@ -783,7 +783,7 @@
     <string name="DELETE">"OBRIŠI"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Bilješka: Možete odblokirati nekoga tako da im pošaljete zahtjev za prijateljsvo."</string>
     <string name="Select_Friend">"Odaberi Prijatelja"</string>
-    <string name="Failed_to_send_mail_">"Mail neuspješno poslan."</string>
+    <string name="Failed_to_send_mail_">"Neuspješno slanje pošte."</string>
     <string name="In_Game_Mail">"Pošta U Igri"</string>
     <string name="Nav_Buttons_">"Navigacijske Tipke:"</string>
     <string name="account_warning">"Nikad ne dijelite lozinku računa ili osobne podatke ni s kim iz bilo kojeg razloga!"</string>
