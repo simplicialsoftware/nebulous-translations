@@ -234,11 +234,11 @@
     <string name="Mass_Gained_">"Masse aufgenommen:"</string>
     <string name="Mass_Ejected_">"Masse ausgeworfen:"</string>
     <string name="Times_Ejected_">"Anzahl Masse ausgeworfen:"</string>
-    <string name="Times_Split_">"Anzahl der Teilungen:"</string>(article)
+    <string name="Times_Split_">"Anzahl der Teilungen:"</string>
     <string name="Biggest_Blob_">"Größter Blob:"</string>
     <string name="Highest_Score_">"Höchster Punktestand:"</string>
     <string name="Average_Score_">"Durchschnittliche Punkte:"</string>
-    <string name="Times_Played_">"Anzahl der Spiele:"</string>(article)
+    <string name="Times_Played_">"Anzahl der Spiele:"</string>
     <string name="Longest_Life_">"Längste Zeit am Leben:"</string>
     <string name="Games_Won_">"Spiele gewonnen:"</string>
 
