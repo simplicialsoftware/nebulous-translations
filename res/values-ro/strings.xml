@@ -1086,8 +1086,8 @@
     <string name="INITIATE">INITIATE</string>
     <string name="x3_Clan_XP_Perm">3x Clan XP Permanent!</string>
     <string name="x2_Clan_XP_Perm">2x Clan XP Permanent!</string>
-    <string name="Japan">Japan</string>
-    <string name="South_Korea">South Korea</string>
+    <string name="Japan">Japonia</string>
+    <string name="South_Korea">Coreea de Sud</string>
     <string name="Asia">Asia</string>
     <string name="SET_PRIVACY">SETEAZĂ PRIVAT</string>
     <string name="ANIMATION">ANIMATION</string>
@@ -1137,7 +1137,7 @@
     <string name="Secondary">Secundar</string>
     <string name="Both">Armandouă</string>
 
-    <string name="Enable__Multiskin">"Enable\nMultiskin"</string>
+    <string name="Enable__Multiskin">"Permite\nMultiskin"</string>
     <string name="MULTISKIN">MULTISKIN</string>
     <string name="DISABLED">DISABLED</string>
 
@@ -1239,7 +1239,7 @@
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
     <string name="Sold_Community_Skins_">"Sold Community Skins: "</string>
     <string name="Estimated_Earnings_">"Estimated Earnings: "</string>
-    <string name="South_Africa">South Africa</string>
+    <string name="South_Africa">Africa de Sud</string>
     <string name="SPLIT_">SPLIT:</string>
     <string name="WALLS">WALLS</string>
     <string name="COMP_BANNED">COMP BANNED</string>
@@ -1253,7 +1253,7 @@
     <string name="Battle_Royale">Battle Royale</string>
     <string name="The_winner_will_receive_x_plasma_">The winner will receive %s plasma!</string>
     <string name="admin_commands">"
-Comande:
+Comenzi:
 !kick [0–31]
 !reset
 !welcome {mesaj}
