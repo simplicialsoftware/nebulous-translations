@@ -952,12 +952,12 @@
     <string name="CHRISTMAS_ADVENT_SKINS">CHRISTMAS ADVENT</string>
     <string name="You_cannot_open_this_present_yet_">You cannot open this present yet!</string>
     <string name="Open_Present">Open Present</string>
-    <string name="OPEN">OPEN</string>
-    <string name="Halo">Halo</string>
+    <string name="OPEN">විවෘත</string>
+    <string name="Halo">හැලෝ</string>
     <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"To use this halo you must be at least level %1$s and earn %2$s achievements."</string>
     <string name="Halos">Halos</string>
     <string name="CAMPAIGN">CAMPAIGN</string>
-    <string name="Mission">Mission</string>
+    <string name="Mission">මෙහෙයුම</string>
     <string name="Kill_All_Bots">Kill All Bots</string>
     <string name="Survive">Survive</string>
     <string name="Mission_d_Complete">Mission %d Complete!</string>
@@ -970,7 +970,7 @@
     <string name="SET_PROFILE_PIC">SET PROFILE PIC</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">ACCEPT ALL FRIEND INVITATIONS!</string>
     <string name="App_Perf_Stats">App Performance Stats</string>
-    <string name="COPY">COPY</string>
+    <string name="COPY">පිටපත් කරන්න</string>
     <string name="_1v1_Ultra">1v1 Ultra</string>
     <string name="ArenaDescriptionUltra">The winner will receive %s plasma.</string>
     <string name="BANNED">BANNED</string>
