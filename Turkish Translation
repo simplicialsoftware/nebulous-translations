@@ -1302,7 +1302,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Win_a_Battle_Royale_">"Bir Battle Royale maçı kazan"</string>
     <string name="Battle_">"Savaş!"</string>
     <string name="BATTLE_ROYALE">"SAVAŞ ROYALE"</string>
-    <string name="Battle_Royale">"Savaş  Royale"</string>
+    <string name="Battle_Royale">"Savaş Royale"</string>
     <string name="The_winner_will_receive_x_plasma_">"Kazanan %s plazma alacak" </string>
     <string name="admin_commands">"
 Komutlar:
