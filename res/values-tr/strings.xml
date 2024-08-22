@@ -760,9 +760,9 @@
     <string name="Grant_Permission">"İzin ver"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous tek oyunculu kaydınızı depolamak için depolama izini gerektiriyor!"</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous'un yakındaki Bluetooth cihazlarını bulması için Konum izinlerini vermeniz gerek."</string>
-    <string name="FFA_ULTRA">"ULTRA FFA"</string>
-    <string name="FFAU">"FFAU"</string>
-    <string name="_in_a_FFAU_Game">"Bir ULTRA FFA Oyununda"</string>
+    <string name="FFA_ULTRA">"HERKES TEK ULTRA"</string>
+    <string name="FFAU">"HERKES TEK U"</string>
+    <string name="_in_a_FFAU_Game">"Bir HERKES TEK ULTRA Oyununda"</string>
 
     <string name="BANNED_PLAYERS">"YASAKLANMIŞ OYUNCULAR"</string>
     <string name="MAIL">"POSTA"</string>
@@ -1103,7 +1103,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Manage_Configurations">"Yapılandırmaları Yönet"</string>
     <string name="Leave_blank_for_all_uploaders_">"Tüm Yüklemeleri Görmek İçin Boş Bırakın."</string>
     <string name="More___">"Daha Fazla…"</string>
-    <string name="This_cannot_be_used_in_FFA_Classic_">"Bu FFA Klasik'te kullanılamaz."</string>
+    <string name="This_cannot_be_used_in_FFA_Classic_">"Bu HERKES TEK Klasik'te kullanılamaz."</string>
     <string name="ENEMY">"DÜŞMAN"</string>
     <string name="ALLY">"MÜTTEFİK"</string>
     <string name="Rename">"Yeniden adlandır"</string>
@@ -1256,6 +1256,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="HERO">"KAHRAMAN"</string>
     <string name="CHAMPION">"ŞAMPİYON"</string>
     <string name="DASH">"İleri Atılma"</string>
+    <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">"Cihazınızın sunucuyla bağlantısı zayıf. Bu gecikmeye neden olabilir. Lütfen wifi veya cep telefonu hizmetinizi kontrol edin veya farklı bir internet bağlantısı deneyin. Ayrıca size en yakın sunucuda oynadığınızdan emin olun."</string>
     <string name="setting_changed">"Ayarlar güncellendi. Etkinleşmesi için sunucuya yeniden bağlanmanız gerekebilir."</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">"Toplam 10.000 Trick sayısına ulaşın."</string>
     <string name="Tricky">"TRICKY"</string>
@@ -1287,12 +1288,22 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Plain_Score_Text">"Sade Skor Metni"</string>
     <string name="Custom_Skin_Reviewed_Notification">Özel Skininiz İncelendi!</string>
     <string name="You_Have_Mail_">"%s Kişisinden Gelen Postalarınız Var!"</string>
+    <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">"Bu modda XP veya Plazma Kazanılmaz!"</string>
     <string name="Clan_Request_Reviewed_Notification">"Klana Katılım Talebiniz %s Gözden Geçirildi!"</string>
     <string name="CRAZY_SPLIT">"ÇILGIN BÖLÜNME 32x"</string>
     <string name="Sold_Community_Skins_">"Satılan Topluluk Skinleri: "</string>
     <string name="Estimated_Earnings_">"Tahmini Kazanç: "</string>
     <string name="South_Africa">"Güney Afrika"</string>
     <string name="SPLIT_">"BÖLÜNME:"</string>
+    <string name="mother_cell" translatable="true" tools:ignore="Untranslatable">"Ana Hücre"</string>
+    <string name="collect_all" translatable="true" tools:ignore="Untranslatable">"Hepsini Topla"</string>
+    <string name="magic_blob" translatable="true" tools:ignore="Untranslatable">"Sihirli Baloncuk"</string>
+    <string name="ice_split" translatable="true" tools:ignore="Untranslatable">"Buzlu Bölünme"</string>
+    <string name="circle" translatable="true" tools:ignore="Untranslatable">"Çember"</string>
+    <string name="mega_pop" translatable="true" tools:ignore="Untranslatable">"Büyük Patlama"</string>
+    <string name="no_virus" translatable="true" tools:ignore="Untranslatable">"Diken Yok"</string>
+    <string name="plasma_hunt" translatable="true" tools:ignore="Untranslatable">"Plazma Avı"</string>
+    <string name="speed" translatable="true" tools:ignore="Untranslatable">"Hız"</string>
     <string name="WALLS">"DUVARLAR"</string>
     <string name="COMP_BANNED">"REKABET YASAĞI"</string>
     <string name="FIND_GAMES">"Oyun Bul"</string>
@@ -1327,7 +1338,7 @@ Komutlar:
     <string name="Allow_Recombine">"Yeniden birleşmeye izin ver"</string>
     <string name="Defenders">"Koruyucular"</string>
     <string name="Attackers">"Saldıranlar"</string>
-    <string name="MEGA_SPLIT">"MEGA BÖLÜNME 64x"</string>
+    <string name="MEGA_SPLIT">"BÜYÜK BÖLÜNME 64x"</string>
     <string name="Missing_Permissions">"İzinler Yetersiz"</string>
     <string name="DELETE_ACCOUNT">"HESABI SİL"</string>
     <string name="delete_prompt">"Hesabınızı silmek istediğinizden emin misiniz? Bu KALICIDIR ve GERİ ALINAMAZ"</string>
@@ -1376,7 +1387,7 @@ Oturum açmak istemiyorsanız, tek oyunculu oynamaya devam edebilirsiniz."
     <string name="You_are_already_friends_">Siz zaten arkadaşsınız.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Posta gönderebilmek için hesabın en az 1 günlük olması gerekir.</string>
     <string name="Translator">Çevirmen</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">BAŞARI</string>
 
     <string-array name="control_modes">
         <item>"Normal"</item>
