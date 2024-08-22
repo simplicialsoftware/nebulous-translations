@@ -905,15 +905,15 @@
     <string name="NEW_ENEMY">"Neuer Gegner"</string>
     <string name="CLAN_RELATIONS">"Clan Vereinigungen"</string>
     <string name="Clan_XP_Boost">"Clan XP-Boost"</string>
-    <string name="x3_Clan_XP_7_days">"3x Clan XP für 1 Woche"</string>
-    <string name="x3_Clan_XP_1_Day">"3x Clan XP für 1 Tag"</string>
-    <string name="x2_Clan_XP_1_Day">"2x Clan XP für 1 Tag"</string>
+    <string name="x3_Clan_XP_7_days">"7 Tage Clan XP 3x"</string>
+    <string name="x3_Clan_XP_1_Day">"24 Stunden Clan XP 3x"</string>
+    <string name="x2_Clan_XP_1_Day">"24 Stunden Clan XP 2x"</string>
     <string name="Pets">"Haustiere"</string>
     <string name="Pet">"Haustier"</string>
     <string name="You_can_purchase_this_pet_for">"Dieses Haustier bekommst du für"</string>
     <string name="gift_to_friend">"Für einen Freund"</string>
     <string name="gift_purchase_warning">"Nur der Freund wird das Plasma erhalten."</string>
-    <string name="x2_Clan_XP_7_Days">"2x Clan XP für 7 Tage"</string>
+    <string name="x2_Clan_XP_7_Days">"7 Tage Clan XP 2x"</string>
     <string name="RECEIVED">"Posteingang"</string>
     <string name="SENT">"Postausgang"</string>
     <string name="Enable_Invites">"Aktiviere Einladungen"</string>
@@ -1099,14 +1099,14 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">Exklusive Skins, Haustiere, Hüte und noch mehr!</string>
     <string name="BUY_NOW_">JETZT KAUFEN!</string>
     <string name="already_purchased">Du oder die Person, für die du das kaufst, besitzt es bereits.</string>
-    <string name="Halo_Animations">Halo Animationen</string>
+    <string name="Halo_Animations">Hüllen Animationen</string>
     <string name="Trick_Notifications">Trick Benachrichtigungen</string>
     <string name="Channel">Kanal</string>
     <string name="Choose_Text_Size">Textgröße auswählen</string>
     <string name="LEVEL_COLOR">Levelfarbe</string>
     <string name="INITIATE">INITIATE</string>
-    <string name="x3_Clan_XP_Perm">3x Clan XP Permanent!</string>
-    <string name="x2_Clan_XP_Perm">2x Clan XP Permanent!</string>
+    <string name="x3_Clan_XP_Perm">Permanent Clan XP 3x</string>
+    <string name="x2_Clan_XP_Perm">Permanent Clan XP 2x</string>
     <string name="Japan">Japan</string>
     <string name="South_Korea">Südkorea</string>
     <string name="Asia">Asien</string>
@@ -1238,9 +1238,9 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Middle_East">Mittlerer Osten</string>
     <string name="XP_4x">XP 4x</string>
     <string name="You_cannot_play_for_x_minutes_">Du kannst für %d Minuten nicht mehr spielen.</string>
-    <string name="x4_Clan_XP_Perm">4x Clan XP Permanent!</string>
-    <string name="x4_Clan_XP_7_days">4x Clan XP 7 Tage</string>
-    <string name="x4_Clan_XP_1_Day">4x Clan XP 1 Tag</string>
+    <string name="x4_Clan_XP_Perm">Permanent Clan XP 4x</string>
+    <string name="x4_Clan_XP_7_days">7 Tage Clan XP 4x</string>
+    <string name="x4_Clan_XP_1_Day">24 Stunden Clan XP 4x</string>
     <string name="CHARGE_UP">AUFLADEN</string>
     <string name="CLAN_DESCRIPTION_COLOR">CLAN BESCHREIBUNG FARBE</string>
     <string name="Responsible_Pet_Owner">Verantwortlicher Haustierbesitzer</string>
@@ -1290,7 +1290,7 @@ Commands:
 !winner"
 </string>
     <string name="ID_Sort">ID Sort</string>
-    <string name="Master_Tamer">Meister BÄNDIGER</string>
+    <string name="Master_Tamer">Meister Bändiger</string>
     <string name="Get_ALL_Pets_To_Level_100_">Bekomme ALLE Haustiere auf Level 100</string>
     <string name="TAMER">BÄNDIGER</string>
     <string name="Allow_Recombine">Rekombinieren zulassen</string>
@@ -1307,10 +1307,10 @@ Commands:
     <string name="Specify_Reason_">Genauer Grund:</string>
     <string name="FREE_FOR_ALL">KOSTENLOS FÜR ALLE</string>
     <string name="SPECIAL">SPEZIAL</string>
-    <string name="FREE">FREE</string>
-    <string name="x5_Clan_XP_1_Day">5X CLAN XP 1 DAY</string>
-    <string name="x5_Clan_XP_7_days">5X CLAN XP 7 DAYS</string>
-    <string name="x5_Clan_XP_Perm">5X CLAN XP PERMANENT!</string>
+    <string name="FREE">KOSTENLOS</string>
+    <string name="x5_Clan_XP_1_Day">24 Stunden Clan XP 5x</string>
+    <string name="x5_Clan_XP_7_days">7 Tage Clan XP 5x</string>
+    <string name="x5_Clan_XP_Perm">Permanent Clan XP 5x</string>
     <string name="Quin">5X</string>
     <string name="x5_XP_1_Hour">eine stunde XP boost 5x</string>
     <string name="x5_XP_24_hours">24 Stunden XP boost 5x</string>
@@ -1343,7 +1343,7 @@ Wenn Sie sich nicht anmelden möchten, können Sie trotzdem im Einzelspielermodu
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Ihr seit bereits befreundet.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Um eine Nachricht zu senden, muss dein Konto 1 Tag alt sein.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
     <string name="Translator">Translator</string>
 
     <string-array name="control_modes">
