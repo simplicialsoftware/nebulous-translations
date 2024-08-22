@@ -96,7 +96,7 @@
     <string name="STATISTICS">"الإحصائيات"</string>
     <string name="XP_">"نقاط الخبرة:"</string>
 
-    <string name="Information">"معلومات"</string>
+    <string name="Information">"معلومة"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"لاستخدام هذه الصورة يجب أن تحقق الإنجاز"</string>
     <string name="To_use_this_skin_you_must_reach_level">"لاستخدام هذه الصورة يجب أن تصل إلى المستوى"</string>
     <string name="SIGN_IN">"تسجيل الدخول"</string>
@@ -104,12 +104,12 @@
     <string name="Single_Player_Stats">"إحصائيات لاعب واحد"</string>
 
     <string name="Level">"المستوى"</string>
-    <string name="PAUSED">"توقف"</string>
+    <string name="PAUSED">"متوقف"</string>
 
 
-    <string name="FRIENDS">"صَـديـق"</string>
+    <string name="FRIENDS">"أصدقاء"</string>
     <string name="Warning">"تحذير"</string>
-    <string name="SIGNING_IN">"تسجيل الدخول…"</string>
+    <string name="SIGNING_IN">"جاري تسجيل الدخول…"</string>
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
     <string name="REQUEST_FRIEND">"إرسال طلب صداقة"</string>
     <string name="Private">"خاص"</string>
@@ -294,7 +294,7 @@
     <string name="Other_user_is_not_a_member_of_your_clan_">"هذا المستخدم ليس عضو في عشيرتك:"</string>
     <string name="_You_can_t_be_your_own_friend_">"لا يمكنك أن تكون صديق لنفسك:"</string>
     <string name="A_clan_with_that_name_already_exists_">"عشيرة بهذا الإسم موجودة مسبقا:"</string>
-    <string name="Duration_">"المدة:"</string>
+    <string name="Duration_">"المدّة:"</string>
 
     <string name="FFA_Time_Domination">"سيطرة بالتوقيت"</string>
     <string name="Teams_Time_Domination">"السيطرة في الفرق بالتوقيت"</string>
@@ -418,11 +418,11 @@
 
 
     <string name="Remove_Ads">"إزالة الاعلانات"</string>
-    <string name="Reward">" مكافاة"</string>
+    <string name="Reward">" مكافأة"</string>
     <string name="Please_Wait___">"الرجاء الإنتظار…"</string>
     <string name="Purchasing">"المشتريات"</string>
 
-    <string name="Purchase_Successful_">" تم الشراء!"</string>
+    <string name="Purchase_Successful_">" تم الشراء بنجاح!"</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"قد تحتاج لإعادة الدخول لكي يتم التفعيل."</string>
     <string name="Confirm_Purchase">"تأكيد الشراء"</string>
     <string name="x3_XP_24_hours">"3X XP 24 ساعة"</string>
@@ -457,7 +457,7 @@
     <string name="Player_Name">"اسم اللاعب"</string>
 
     <string name="Daily_Reward">"المكافأة اليومية"</string>
-    <string name="Reset">"إعادة تعيين"</string>
+    <string name="Reset">"إعادة تشغيل"</string>
     <string name="Plasma">"بلازما"</string>
     <string name="Plasma_Mogul">"ملك البلازما"</string>
     <string name="Plasma_Collector">"جامع البلازما"</string>
@@ -495,7 +495,7 @@
     <string name="_2v2">"٢ضد٢"</string>
 
 
-    <string name="Standard">"عادي"</string>
+    <string name="Standard">"معيار"</string>
     <string name="Achievement">"إنجاز"</string>
     <string name="Flag">" العلم"</string>
     <string name="Win_10_Clan_Wars">"الفوز بـ10 حروب العشائر"</string>
@@ -622,7 +622,7 @@
     <string name="CLAN_HISTORY">"سِجِل العشيرة"</string>
 
 
-    <string name="Love_Nebulous_">"أحب Nebulous"</string>
+    <string name="Love_Nebulous_">"أحب نيبولوس"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"يرجى دعم Nebulous من خلال تقييمها ."</string>
     <string name="MAYHEM_MODE">"تفعيل نمط الفوضى"</string>
     <string name="Times_Teleported_">"عدد مرات الإنتقال:"</string>
