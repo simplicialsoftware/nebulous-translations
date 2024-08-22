@@ -1202,7 +1202,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="speed" translatable="true" tools:ignore="Untranslatable">velocidad</string>
     <string name="Session_Stats">Estadísticas de Sesión</string>
     <string name="Time_">Tiempo </string>
-    <string name="Show_Session_Stats">Mostrar estadísticas de sesión</string>
+    <string name="Show_Session_Stats">Mostrar estadísticas de Sesión</string>
     <string name="VALENTINES_DAY">"DÍA DE SAN VALENTíN"</string>
     <string name="shared_pack_info" translatable="true" tools:ignore="Untranslatable">Después de comprar este pack de skins, ¡sus skins exclusivas aparecerán en la parte superior de los menús de selección de skins para ti y tu amigo!</string>
     <string name="shared_pack_purch_description" translatable="true" tools:ignore="Untranslatable">¡Este es un paquete especial, por lo que tanto tú como un amigo recibiréis el paquete!</string>
@@ -1255,7 +1255,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Button_3D">Botón 3D</string>
     <string name="Hide_Button_">¿Ocultar botón?</string>
     <string name="Show_Boost_Button">Mostrar botón de acelerador</string>
-    <string name="Spectate_Killer_On_Death">Obserbar quien te comió</string>
+    <string name="Spectate_Killer_On_Death">Observar quien te comió</string>
     <string name="Rainbow_Holes">Agujero Arcoíris</string>
     <string name="LIFE_STEAL">ROBO DE VIDA</string>
     <string name="Kicked_From_Game_">¡Expulsado de un Juego!</string>
