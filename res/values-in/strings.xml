@@ -38,7 +38,7 @@
     <string name="Score__">"Skor:"</string>
     <string name="Recombine_">"Bergabung kembali:"</string>
     <string name="WINNER_">"PEMENANG:"</string>
-    <string name="IDLE">"IDLE"</string>
+    <string name="IDLE">"MENGANGGUR"</string>
     <string name="Name_Invalid_">"Nama tidak berlaku."</string>
     <string name="Name_Taken_">"Nama yang diambil."</string>
     <string name="CONNECTED">"TERHUBUNG"</string>
@@ -59,11 +59,11 @@
     <string name="South_America">"Amerika Selatan"</string>
     <string name="SINGLE_PLAYER">"PEMAIN TUNGGAL"</string>
     <string name="Background_">"Latar Belakang:"</string>
-    <string name="Difficulty_">"Difficulty:"</string>
+    <string name="Difficulty_">"Kesulitan:"</string>
     <string name="Delay_Disconnect">"Memperlambat Disconnect"</string>
     <string name="Max_Players">"Maks Pemain"</string>
     <string name="Min_Players">"Min Pemain"</string>
-    <string name="OK">"OK"</string>
+    <string name="OK">"OKE"</string>
     <string name="CANCEL">"BATAL"</string>
     <string name="Chat_Name">"Nama Chat"</string>
     <string name="Max_People">"Maks Pemain"</string>
@@ -355,10 +355,10 @@
     <string name="Leaf_Collector">"Kolektor Daun"</string>
     <string name="Collect_1000_leaves_">"Mengumpulkan 1.000 Daun."</string>
     <string name="XP_Boost">"XP Boost"</string>
-    <string name="Double">"Double"</string>
+    <string name="Double">"Dobel"</string>
     <string name="Hour">"Jam"</string>
     <string name="Hours">"Jam"</string>
-    <string name="Triple">"Triple"</string>
+    <string name="Triple">"Tiga kali lipat"</string>
     <string name="Leaf_Hoarder">"Hoarder Daun"</string>
     <string name="Collect_5000_leaves_">"Mengumpulkan 5.000 Daun."</string>
     <string name="Arena">"Arena"</string>
