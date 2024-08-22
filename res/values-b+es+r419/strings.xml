@@ -1419,7 +1419,7 @@ Si no deseas registrarte, aún puedes jugar en modo individual."
     <string name="You_are_already_friends_">Ustedes ya son amigos.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">La cuenta debe tener al menos 1 día de creación para enviar mensajes.</string>
     <string name="Translator">Traductor</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">CON SUCCESO</string>
 
     <string-array name="control_modes">
         <item>"Normal"</item>
