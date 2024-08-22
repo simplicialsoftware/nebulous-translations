@@ -619,8 +619,8 @@
     <string name="Collect_1_000_eggs_">"1,000 adet yumurta topla."</string>
     <string name="Collect_5_000_eggs_">"5,000 adet yumurta topla. "</string>
     <string name="Collect_10_000_eggs_">"10,000 adet yumurta topla."</string>
-    <string name="HISTORY">"GEÇMİŞ"</string>
-    <string name="CLAN_HISTORY">"KLAN GEÇMİŞİ"</string>
+    <string name="HISTORY">"TARİH"</string>
+    <string name="CLAN_HISTORY">"KLAN TARİHİ"</string>
 
 
     <string name="Love_Nebulous_">"Nebulous'u Sevdiniz Mi?"</string>
