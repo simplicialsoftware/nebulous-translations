@@ -1304,7 +1304,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="BATTLE_ROYALE">"SAVAŞ ROYALE"</string>
     <string name="Battle_Royale">"Savaş Royale"</string>
     <string name="The_winner_will_receive_x_plasma_">"Kazanan %s plazma alacak" </string>
-    <string name="admin_commands">"Yönetici Komutları"</string>
+    <string name="admin_commands">"Yönetici Komutları"
 Komutlar:
 !kick [0–31]( Oyuncu at )
 !reset( sıfırla )
