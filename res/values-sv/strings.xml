@@ -35,7 +35,7 @@
     <string name="_Alias_">" Alias "</string>
     <string name="_Score_">" Poäng "</string>
     <string name="Score__">" Poäng: "</string>
-    <string name="Recombine_">" Sätt ihop: "</string>
+    <string name="Recombine_">" Sätts ihop: "</string>
     <string name="WINNER_">"Vinnare:"</string>
     <string name="IDLE">"Frånvarande"</string>
     <string name="Name_Invalid_">"Ogiltligt namn."</string>
@@ -43,7 +43,7 @@
     <string name="CONNECTED">"Ansluten"</string>
     <string name="JOINING___">"Ansluter…"</string>
     <string name="PLAYING">"Spelar"</string>
-    <string name="MULTIPLAYER">"Multiplayer"</string>
+    <string name="MULTIPLAYER">"Flerspelarläge"</string>
 
     <string name="JOIN">"Anslut"</string>
 
@@ -104,7 +104,7 @@
     <string name="Single_Player_Stats">"Enspelarstatistik"</string>
 
     <string name="Level">"Nivå"</string>
-    <string name="PAUSED">"Paus"</string>
+    <string name="PAUSED">"Pausad"</string>
 
 
     <string name="FRIENDS">"Vänner"</string>
@@ -1311,6 +1311,7 @@ Commands:
     <string name="You_are_already_friends_">You are already friends.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
     <string name="Translator">Translator</string>
+    <string name="SUCCESS">SUCCESS</string>
 
 
     <string-array name="control_modes">

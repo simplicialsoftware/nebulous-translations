@@ -1320,6 +1320,7 @@ Ako ne želite da se prijavite, i dalje možete igrati u jednoigračkom rezimu."
     <string name="You_are_already_friends_">Vec ste prijatelji.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Nalog mora biti star 1 dan da bi mail mogao da se posalje.</string>
     <string name="Translator">Translator</string>
+    <string name="SUCCESS">SUCCESS</string>
 
     <string-array name="control_modes">rezimi upravljanja
         <item>"Normalan"</item>

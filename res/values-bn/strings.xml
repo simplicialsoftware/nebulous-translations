@@ -1,10 +1,10 @@
 <resources>
 
-    <string name="Players">"প্লেয়ার"</string>
+    <string name="Players">"খেলোয়ার"</string>
     <string name="Control_">"কন্ট্রোল:"</string>
     <string name="CLOSE">"বন্ধ"</string>
-    <string name="Stick_Size_">"লাগান আকার:"</string>
-    <string name="Stick_Margin_">"লাগান মার্জিন:"</string>
+    <string name="Stick_Size_">"জয়স্টিক আকার:"</string>
+    <string name="Stick_Margin_">"জয়স্টিক মার্জিন:"</string>
     <string name="Button_Size_">"বোতাম আকার:"</string>
     <string name="Button_Margin_">"বোতাম মার্জিন:"</string>
     <string name="Buttons_">"বাটন:"</string>
@@ -12,7 +12,7 @@
     <string name="WEEKLY">"সাপ্তাহিক"</string>
     <string name="DAILY">"দৈনিক"</string>
     <string name="Server_">"সার্ভার:"</string>
-    <string name="Game_Mode_">"খেলা মোড:"</string>
+    <string name="Game_Mode_">"খেলার মোড:"</string>
     <string name="Show_Names">"দেখান নাম"</string>
     <string name="Show_Avatars">"দেখান স্কিনস"</string>
     <string name="PLAY">"প্লে"</string>
@@ -28,7 +28,7 @@
     <string name="Yes">"হাঁ"</string>
     <string name="No">"না"</string>
     <string name="WAIT">"অপেক্ষা করুন …"</string>
-    <string name="Must_Specify_Name_">"নাম নির্দিষ্ট করতে হবে।"</string>
+    <string name="Must_Specify_Name_">"একটি নাম নির্দিষ্ট করতে হবে।"</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"অ্যাপের সামগ্রীর রেটিং যখন গ্রুপ খোঁজার পরিবর্তন হতে পারে।"</string>
 
@@ -46,7 +46,7 @@
     <string name="PLAYING">"প্লে হচ্ছে"</string>
     <string name="MULTIPLAYER">"মাল্টিপ্লেয়ার"</string>
 
-    <string name="JOIN">"JOIN"</string>
+    <string name="JOIN">"খেলুন"</string>
 
 
     <string name="Lobby_Name">"লবি নাম"</string>
@@ -80,32 +80,32 @@
     <string name="CREATE">"সৃষ্টি"</string>
     <string name="CUSTOM_GAMES">"কাস্টম গেমস"</string>
     <string name="CHAT">"চ্যাট"</string>
-    <string name="CUSTOM_SETUP">"CUSTOM এ সেটআপ"</string>
+    <string name="CUSTOM_SETUP">"কাস্টম এ সেটআপ"</string>
     <string name="CHAT_SETUP">"চ্যাট সেটআপ"</string>
 
 
     <string name="ACCOUNT">"অ্যাকাউন্ট"</string>
-    <string name="Red_Team">"রেড টিম"</string>
+    <string name="Red_Team">"লাল টিম"</string>
     <string name="Green_Team">"সবুজ দল"</string>
-    <string name="Blue_Team">"ব্লু টিম"</string>
-    <string name="Yellow_Team">"ইয়েলো টিম"</string>
-    <string name="Signed_in_as_">"রূপে সাইন ইন:"</string>
+    <string name="Blue_Team">"নিল টিম"</string>
+    <string name="Yellow_Team">"হলুদ টিম"</string>
+    <string name="Signed_in_as_">" সাইন ইন রূপে:"</string>
     <string name="Not_signed_in_">"সাইন ইন করেননি!"</string>
-    <string name="SET_NAME">"নাম ঠিক কর"</string>
+    <string name="SET_NAME">"একটি নাম ঠিক কর"</string>
     <string name="SIGN_OUT">"সাইন আউট"</string>
     <string name="ACHIEVEMENTS">"কৃতিত্বগুলি"</string>
     <string name="STATISTICS">"পরিসংখ্যান"</string>
     <string name="XP_">"এক্সপি:"</string>
 
     <string name="Information">"তথ্য"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"এই চামড়া ব্যবহার করার জন্য আপনাকে কৃতিত্ব অর্জন আবশ্যক"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"এই চামড়া ব্যবহার করার জন্য আপনাকে স্তরে পৌঁছাতে হবে"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"এই স্কিন ব্যবহার করার জন্য আপনাকে কৃতিত্ব অর্জন আবশ্যক"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"এই স্কিন ব্যবহার করার জন্য আপনাকে স্তরে পৌঁছাতে হবে"</string>
     <string name="SIGN_IN">"প্রবেশ কর"</string>
 
-    <string name="Single_Player_Stats">"একক প্লেয়ার পরিসংখ্যান"</string>
+    <string name="Single_Player_Stats">"একক প্লেয়ার তথ্য"</string>
 
-    <string name="Level">"উচ্চতা"</string>
-    <string name="PAUSED">"বিরাম দেওয়া হয়েছে"</string>
+    <string name="Level">"ক্ষমতা"</string>
+    <string name="PAUSED">"বন্ধ রয়েছে"</string>
 
 
     <string name="FRIENDS">"বন্ধুরা"</string>
@@ -1310,6 +1310,7 @@ Commands:
     <string name="You_are_already_friends_">You are already friends.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
     <string name="Translator">Translator</string>
+    <string name="SUCCESS">SUCCESS</string>
 
 
     <string-array name="control_modes">

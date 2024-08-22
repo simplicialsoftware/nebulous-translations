@@ -425,10 +425,10 @@
     <string name="Purchase_Successful_">"Bikirin serkeftî."</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Hûn dikarin divê, îlhamek ji bo bikaranîna kirîn."</string>
     <string name="Confirm_Purchase">"Piştrast kirin "</string>
-    <string name="x3_XP_24_hours">"3x XP 24 saetan"</string>
-    <string name="x3_XP_1_Hour">"3x XP 1 Saeten"</string>
-    <string name="x2_XP_24_Hour">"2x XP 24 saetan"</string>
-    <string name="x2_XP_1_Hour">"2x XP 1 Saet"</string>
+    <string name="x3_XP_24_hours">"3x XP 24 Saetan"</string>
+    <string name="x3_XP_1_Hour">"3x XP 1 Saetan"</string>
+    <string name="x2_XP_24_Hour">"2x XP 24 Saetan"</string>
+    <string name="x2_XP_1_Hour">"2x XP 1 Saetan"</string>
     <string name="Cost_">"Nirx:"</string>
     <string name="You_cannot_purchase_this_right_now_">"Hûn dikarin vê mafê bikirin ne niha."</string>
 
@@ -832,7 +832,7 @@
     <string name="PAINT">"RENG"</string>
     <string name="BLOCKED_ACCOUNTS">"bikarhênerên astengkirin"</string>
     <string name="UNBLOCK">"Vekirin"</string>
-    <string name="Emotes">"Emotes"</string>
+    <string name="Emotes">"Emojis"</string>
     <string name="Support">"Alîkarî"</string>
     <string name="Already_Blocked">"berê hatîye astengkirin"</string>
     <string name="Cannot_block_more_than_x_accounts_">"Ne dikarin zêdetir ji asteng %d bikarhênerên."</string>
@@ -843,17 +843,17 @@
     <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"Serkeft listuka  rengi bi hemû muxalîfan piştî 0 giştî."</string>
     <string name="Win_a_Paint_game_in_60_seconds_or_less_">"Serkefta listuka rengi li 60 ya dudeye  an jî kêmtir."</string>
     <string name="Autoclick">"Autoclick"</string>
-    <string name="Autoclick_24_Hours">"Autoclick 24 seate"</string>
-    <string name="Autoclick_1_Hour">"Autoclick 1 Saet"</string>
-    <string name="Ultraclick_24_Hours">"Ultraclick 24 sate"</string>
-    <string name="Ultraclick_1_Hour">"Ultraclick 1 Saet"</string>
+    <string name="Autoclick_24_Hours">"Autoclick 24 Saeten"</string>
+    <string name="Autoclick_1_Hour">"Autoclick 1 Saeten"</string>
+    <string name="Ultraclick_24_Hours">"Ultraclick 24 Saeten"</string>
+    <string name="Ultraclick_1_Hour">"Ultraclick 1 Saeten"</string>
     <string name="Ultraclick">"Ultraclick"</string>
     <string name="May_Reduce_Lag">"(Bila Lag kêm)"</string>
-    <string name="Ultraclick_Permanent">"Ultraclick daîmî"</string>
-    <string name="Autoclick_Permanent">"Autoclick daîmî"</string>
-    <string name="x3_XP_Permanent">"3x XP daîmî"</string>
-    <string name="x2_XP_Permanent">"2x XP daîmî"</string>
-    <string name="Permanent">"Herdem"</string>
+    <string name="Ultraclick_Permanent">"Ultraclick "</string>
+    <string name="Autoclick_Permanent">"Autoclick Daîmî"</string>
+    <string name="x3_XP_Permanent">"3x XP Daîmî"</string>
+    <string name="x2_XP_Permanent">"2x XP Daîmî"</string>
+    <string name="Permanent">"Daîmî"</string>
     <string name="Apply_To_Account">"Apply hesabê"</string>
     <string name="Spin_">"Hûnîn!"</string>
     <string name="Next_Spin">"Spin Next"</string>
@@ -861,40 +861,40 @@
     <string name="XP_2x">"XP 2x"</string>
     <string name="XP_3x">"XP 3x"</string>
     <string name="NOW">"NIHA"</string>
-    <string name="Team_Deathmatch_Domination">"Team Deathmatch Domination"</string>
+    <string name="Team_Deathmatch_Domination">"Tîmê Maça Mirinê Serdestî Bike"</string>
     <string name="We_Will_Survive">"Em Will Survive"</string>
-    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Win bi kêmanî 5 aktorên a game Team Deathmatch."</string>
+    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Bi kêmî ve 5 lîstikvan mayî Teamek Mirinê qezenc bikin."</string>
     <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"Survive lê win a game Team Deathmatch ne."</string>
     <string name="Win_a_Team_Deathmatch_Game">"Win a Game Team Deathmatch"</string>
     <string name="TEAM_DEATHMATCH">"Deathmatch TEAM"</string>
     <string name="Speed_Click_Toggle">"Speed ​​Bixêr Click"</string>
     <string name="MOD">"MOD"</string>
-    <string name="FAQ">Frequently Asked Questions</string>
-    <string name="BUY_EXTRA_SPINS">BUY EXTRA SPINS</string>
-    <string name="Spins_Remaining">Spins Remaining</string>
-    <string name="One_Spin">One Spin (1)</string>
-    <string name="Bundle_of_Spins">Bundle Of Spins (10)</string>
-    <string name="Plethora_of_Spins">Plethora Of Spins (50)</string>
-    <string name="SIGN_OUT_ALL_DEVICES">SIGN OUT ALL DEVICES</string>
-    <string name="Tournament_Forming">Tournament Forming</string>
-    <string name="TeamTourneyDescription">You and your teammate must register to play in the team tournament. You will both be charged the plasma when the tournament starts but you can unregister before it starts. Needs at least %d contestants to start.</string>
+    <string name="FAQ">Pirsên Pir Caran Pirsîn</string>
+    <string name="BUY_EXTRA_SPINS">Spinên Zêde Bikirin</string>
+    <string name="Spins_Remaining">Mafên Te Yên Spinê Yên Mayî</string>
+    <string name="One_Spin">Yek spinê (1)</string>
+    <string name="Bundle_of_Spins">Pakêta spin (10)</string>
+    <string name="Plethora_of_Spins">Gelek Spin (50)</string>
+    <string name="SIGN_OUT_ALL_DEVICES">Jİ HEMİ CİHAZEN DERKEVE</string>
+    <string name="Tournament_Forming">Tûrnûva Biafirînin</string>
+    <string name="TeamTourneyDescription">Ji bo ku hûn di tûrnûvayek tîmê de bilîzin, divê hûn û hevalê xwe qeyd bikin. Dema ku tûrnûva dest pê dike hûn ê her du jî xerca plazmayê bidin, lê hûn dikarin berî ku ew dest pê bike qeyda xwe betal bikin. Bi kêmanî %d pêşbazker hewce dike ku dest pê bikin.</string>
     <string name="Free_Agent">Free Agent</string>
-    <string name="This_player_selected_a_different_teammate_">This player selected a different teammate.</string>
+    <string name="This_player_selected_a_different_teammate_">Vê Lîstikvan hevalek cûda hilbijart.</string>
     <string name="muted_until">Muted until</string>
-    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Content rating of the app may change when playing multiplayer.</string>
+    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Rêjeya naverokê ya serîlêdanê dibe ku dema ku multiplayer dileyize biguhezîne.</string>
     <string name="UI_Opacity_">UI Opacity</string>
-    <string name="LOAD">LOAD</string>
-    <string name="REMOVE">REMOVE</string>
-    <string name="BAN">BAN</string>
+    <string name="LOAD">BARKİRİN</string>
+    <string name="REMOVE">JEBİRİN</string>
+    <string name="BAN">QEDEXEKIRÎ</string>
     <string name="MODERATORS">MODERATORS</string>
-    <string name="ALL_CLAN">ALL\nCLAN</string>
+    <string name="ALL_CLAN">HEMÜ\nCLAN</string>
     <string name="CO_LEADER">CO LEADER</string>
-    <string name="CLAN_HOUSE">CLAN HOUSE</string>
+    <string name="CLAN_HOUSE">Malê Klanê</string>
 
     <string name="ROOM">ROOM</string>
-    <string name="EXPERIMENTAL">EXPERIMENTAL</string>
-    <string name="members">Members</string>
-    <string name="Delete_ALL_Messages_">Delete ALL Messages!</string>
+    <string name="EXPERIMENTAL">CERİBANDİNİ</string>
+    <string name="members">endamên</string>
+    <string name="Delete_ALL_Messages_">HEMÛ Peyam Jêbirin!</string>
     <string name="SAVE_PROFILE">SAVE PROFILE</string>
     <string name="Move">Move</string>
     <string name="New_Position">New Position</string>
@@ -1083,8 +1083,8 @@
     <string name="Choose_Text_Size">Choose Text Size</string>
     <string name="LEVEL_COLOR">LEVEL COLOR</string>
     <string name="INITIATE">INITIATE</string>
-    <string name="x3_Clan_XP_Perm">3x Clan XP Permanent!</string>
-    <string name="x2_Clan_XP_Perm">2x Clan XP Permanent!</string>
+    <string name="x3_Clan_XP_Perm">3x Clan XP Daîmî!</string>
+    <string name="x2_Clan_XP_Perm">2x Clan XP Daîmî!</string>
     <string name="Japan">Japan</string>
     <string name="South_Korea">South Korea</string>
     <string name="Asia">Asia</string>
@@ -1209,14 +1209,14 @@
     <string name="SUPPORTER">VIP</string>
     <string name="CONQUEROR">CONQUEROR</string>
     <string name="TRICKY">TRICKY</string>
-    <string name="x4_XP_Permanent">4x XP Permanent</string>
+    <string name="x4_XP_Permanent">4x XP Daîmî</string>
     <string name="x4_XP_24_hours">4x XP 24 Hours</string>
     <string name="x4_XP_1_Hour">4x XP 1 Hour</string>
     <string name="Quad">Quadruple</string>
     <string name="Middle_East">Middle East</string>
     <string name="XP_4x">XP 4x</string>
     <string name="You_cannot_play_for_x_minutes_">You cannot play for %d minutes.</string>
-    <string name="x4_Clan_XP_Perm">4x Clan XP Permanent!</string>
+    <string name="x4_Clan_XP_Perm">4x Clan XP Daîmî!</string>
     <string name="x4_Clan_XP_7_days">4x Clan XP 7 Days</string>
     <string name="x4_Clan_XP_1_Day">4x Clan XP 1 Day</string>
     <string name="CHARGE_UP">CHARGE UP</string>
@@ -1238,78 +1238,79 @@
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
     <string name="Sold_Community_Skins_">"Sold Community Skins: "</string>
     <string name="Estimated_Earnings_">"Estimated Earnings: "</string>
-    <string name="South_Africa">South Africa</string>
-    <string name="SPLIT_">SPLIT:</string>
-    <string name="WALLS">WALLS</string>
-    <string name="COMP_BANNED">COMP BANNED</string>
-    <string name="FIND_GAMES">FIND GAMES</string>
-    <string name="PLAY_SOLO">PLAY SOLO</string>
-    <string name="SET_EMOTE">SET EMOTE</string>
+    <string name="South_Africa">Afrîkaya Başûr</string>
+    <string name="SPLIT_">PARÇE BİBE:</string>
+    <string name="WALLS">Dîwaran</string>
+    <string name="COMP_BANNED">Hemû Qedexe Kirin</string>
+    <string name="FIND_GAMES">Lîstikê Bibîne</string>
+    <string name="PLAY_SOLO">Bİ Tenê Bilîze</string>
+    <string name="SET_EMOTE">Emojiyê Lê Zêde Bike</string>
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
-    <string name="Win_a_Battle_Royale_">Win a Battle Royale.</string>
+    <string name="Win_a_Battle_Royale_">Battle Royale qezenc bikin.</string>
     <string name="Battle_">Battle!</string>
     <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
     <string name="Battle_Royale">Battle Royale</string>
-    <string name="The_winner_will_receive_x_plasma_">The winner will receive %s plasma!</string>
+    <string name="The_winner_will_receive_x_plasma_">Serketî dê %s plasma bistîne!!</string>
     <string name="admin_commands">"
-Commands:
-!kick [0–31]
+FERMAN:
+!kick [0–31] ( wî ji odeyê derxînin )
 !reset
-!welcome {message}
-!difficulty [0-3] or [1-4] for Campaign
-!hidden
-!guests
-!slowchat
+!welcome {message} ( peyama pêşwazî )
+!difficulty [0-3] or [1-4] for Campaign  ( zehmetiyên )
+!hidden ( veşartî )
+!guests ( temaşevanan )
+!slowchat ( sohbet hêdî )
 !pausechat
-!mute {id}
-!admin {id}
-!allow {id}
-!allow reset"
+!mute {id} ( bêdengî/bêdengiyê rakin )
+!admin {id ( gerînendêr )
+!allow {id} ( destûr bidin )
+!allow reset" ( destûrên sifir bikin )
 </string>
     <string name="ID_Sort">ID Sort</string>
     <string name="Master_Tamer">Master Tamer</string>
-    <string name="Get_ALL_Pets_To_Level_100_">Get ALL Pets To Level 100</string>
+    <string name="Get_ALL_Pets_To_Level_100_">Hemû Heyvanên Pîran 100 ast bikin</string>
     <string name="TAMER">TAMER</string>
     <string name="Allow_Recombine">Allow Recombine</string>
-    <string name="Defenders">Defenders</string>
-    <string name="Attackers">Attackers</string>
+    <string name="Defenders">Parêzvanan</string>
+    <string name="Attackers">Êrîşkar</string>
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
-    <string name="Missing_Permissions">Missing Permissions</string>
-    <string name="DELETE_ACCOUNT">DELETE ACCOUNT</string>
-    <string name="delete_prompt">Are you sure you want to delete your account? This is PERMANENT and CANNOT BE UNDONE!</string>
+    <string name="Missing_Permissions">Destûr Têrê Nake</string>
+    <string name="DELETE_ACCOUNT">HESABE JEBİRİN</string>
+    <string name="delete_prompt">Hûn piştrast in ku hûn dixwazin hesabê xwe ji holê rakin? Ev Daîmî ye û Nikare Were Vegerandin!</string>
 
 
-    <string name="Type">Type</string>
-    <string name="Complete_campaign_mission_">Complete campaign mission</string>
-    <string name="Specify_Reason_">Specify Reason:</string>
+    <string name="Type">Binivîse</string>
+    <string name="Complete_campaign_mission_">Erka kampanyayê temam bike</string>
+    <string name="Specify_Reason_">Sedema xwe diyar bike:</string>
     <string name="FREE_FOR_ALL">FREE FOR ALL</string>
-    <string name="SPECIAL">SPECIAL</string>
-    <string name="FREE">FREE</string>
-    <string name="x5_Clan_XP_1_Day">5X CLAN XP 1 DAY</string>
-    <string name="x5_Clan_XP_7_days">5X CLAN XP 7 DAYS</string>
-    <string name="x5_Clan_XP_Perm">5X CLAN XP PERMANENT!</string>
+    <string name="SPECIAL">TAYBETİ</string>
+    <string name="FREE">BELAŞ</string>
+    <string name="x5_Clan_XP_1_Day">5x CLAN XP 1 Rojan</string>
+    <string name="x5_Clan_XP_7_days">5x CLAN XP 7 Rojan</string>
+    <string name="x5_Clan_XP_Perm">5x CLAN XP Daîmî</string>
     <string name="Quin">5X</string>
-    <string name="x5_XP_1_Hour">5X XP 1 HOUR</string>
-    <string name="x5_XP_24_hours">5X XP 24 HOURS</string>
-    <string name="x5_XP_Permanent">5X XP PERMANENT</string>
+    <string name="x5_XP_1_Hour">5x XP 1 Saeten</string>
+    <string name="x5_XP_24_hours">5x XP 24 Saeten</string>
+    <string name="x5_XP_Permanent">5x XP Daîmî</string>
     <string name="CAMPAIGN_2">CAMPAIGN 2</string>
     <string name="XP_5x">XP 5x</string>
     <string name="India">India</string>
-    <string name="Tutorial">Tutorial</string>
+    <string name="Tutorial">Perwerdekirin</string>
     <string name="TYCOON">TYCOON</string>
-    <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
-    <string name="activate">Activate</string>
+    <string name="CLAN_BACKGROUND_COLOR">RENGE PAŞVERU YE KLAN</string>
+    <string name="activate">Çalak Bike</string>
     <string name="clan_id">CLAN ID</string>
-    <string name="language_change_warning">Changing the language will cause the app to restart.</string>
-    <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
-    <string name="RAMADAN">رمضان</string>
+    <string name="language_change_warning">Guhestina ziman dibe sedema jinûve destpêkirina sepanê.</string>
+    <string name="xmas_gift_boost_message">Te xelata 3x rojane 1 ya Piştgiriya Plazma wergirt!</string>
+    <string name="no_response">Ji serverê bersiv nayê dayîn. Ji kerema xwe ve girêdana înternetê kontrol bikin.</string>
+    <string name="RAMADAN">Remezanê</string>
     <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="_2x_skin_resolution">2x Kalîteya Çermê</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="You_are_already_friends_">Hûn jixwe heval in.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Ji bo ku em bikarin nameyan bişînin divê hesab herî kêm 1 rojî be.</string>
+    <string name="Translator">Wergêr</string>
+    <string name="SUCCESS">SUCCESS</string>
 
 
     <string-array name="control_modes">
@@ -1327,14 +1328,14 @@ Commands:
         <item>"Rast+ Çep"</item>
         <item>"İstif Çep"</item>
         <item>"İstif rast"</item>
-        <item>"Custom"</item>
+        <item>"Taybetî"</item>
     </string-array>
 
     <string-array name="themes">
         <item>"Sterk (tari) "</item>
         <item>"Kafes (tari)"</item>
         <item>"Kafes (sipi)"</item>
-        <item>"Custom"</item>
+        <item>"Taybetî"</item>
         <item>"Netû"</item>
     </string-array>
 
@@ -1342,20 +1343,20 @@ Commands:
         <item>"Sivik"</item>
         <item>"Navin"</item>
         <item>"Hişk"</item>
-        <item>"IMPOSSIBLE"</item>
+        <item>"Nemimkûn"</item>
     </string-array>
 
     <string-array name="sizes">
-        <item>"Yarak"</item>
+        <item>"Piçük"</item>
         <item>"Biçûk"</item>
         <item>"Normal"</item>
         <item>"Mezin"</item>
-        <item>"HUGE"</item>
+        <item>"Kolosal"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
-        <item>"Duo (2v2)"</item>
-        <item>"yarak (3V3)"</item>
+        <item>"Dual (2v2)"</item>
+        <item>"Piçûk (3V3)"</item>
         <item>"Biçûk (5v5)"</item>
         <item>"Normal (8v8)"</item>
     </string-array>

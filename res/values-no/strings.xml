@@ -852,8 +852,8 @@
     <string name="May_Reduce_Lag">"(Kan redusere Lag)"</string>
     <string name="Ultraclick_Permanent">"Ultraklikk Permanent"</string>
     <string name="Autoclick_Permanent">"Automatiskklikk Permanent"</string>
-    <string name="x3_XP_Permanent">"3x XP Permanent"</string>
-    <string name="x2_XP_Permanent">"2x XP Permanent"</string>
+    <string name="x3_XP_Permanent">"3x XP Fast"</string>
+    <string name="x2_XP_Permanent">"2x XP Fast"</string>
     <string name="Permanent">"Fast"</string>
     <string name="Apply_To_Account">"Bruk på konto"</string>
     <string name="Spin_">"Snurre rundt!"</string>
@@ -882,7 +882,7 @@
     <string name="Free_Agent">Fri Agent</string>
     <string name="This_player_selected_a_different_teammate_">Denne spilleren valgte en annen lagkamerat.</string>
     <string name="muted_until">Muted until</string>
-    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Content rating of the app may change when playing multiplayer.</string>
+    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Innholdsvurderingen av appen kan endres når du spiller flerspiller.</string>
     <string name="UI_Opacity_">brukergrensesnittets opasitet</string>
     <string name="LOAD">LASTE</string>
     <string name="REMOVE">FJERNE</string>
@@ -946,19 +946,19 @@
     <string name="DEMOTE_MEMBER">DEMOTE MEMBER</string>
     <string name="HAPPY_BIRTHDAY_">HAPPY NEBULOUS BIRTHDAY!</string>
     <string name="Years">Years</string>
-    <string name="Friend_Added_">Friend Added!</string>
+    <string name="Friend_Added_">Venn lagt til!</string>
     <string name="_in_a_16x_Split_Game">in a 16x Split Game</string>
-    <string name="Rules">Rules</string>
+    <string name="Rules">Regler</string>
     <string name="Blob_Chat_Bubbles">Blob Chat Bubbles</string>
     <string name="CHRISTMAS_ADVENT_SKINS">CHRISTMAS ADVENT</string>
-    <string name="You_cannot_open_this_present_yet_">You cannot open this present yet!</string>
+    <string name="You_cannot_open_this_present_yet_">Du kan ikke åpne denne gaven ennå!</string>
     <string name="Open_Present">Open Present</string>
-    <string name="OPEN">OPEN</string>
+    <string name="OPEN">ÅPNE</string>
     <string name="Halo">Halo</string>
     <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"To use this halo you must be at least level %1$s and earn %2$s achievements."</string>
     <string name="Halos">Halos</string>
     <string name="CAMPAIGN">CAMPAIGN</string>
-    <string name="Mission">Mission</string>
+    <string name="Mission">Oppdrag</string>
     <string name="Kill_All_Bots">Kill All Bots</string>
     <string name="Survive">Survive</string>
     <string name="Mission_d_Complete">Mission %d Complete!</string>
@@ -1285,7 +1285,7 @@ Commands:
     <string name="Specify_Reason_">Specify Reason:</string>
     <string name="FREE_FOR_ALL">FREE FOR ALL</string>
     <string name="SPECIAL">SPECIAL</string>
-    <string name="FREE">FREE</string>
+    <string name="FREE">GRATIS</string>
     <string name="x5_Clan_XP_1_Day">5X CLAN XP 1 DAY</string>
     <string name="x5_Clan_XP_7_days">5X CLAN XP 7 DAYS</string>
     <string name="x5_Clan_XP_Perm">5X CLAN XP PERMANENT!</string>
@@ -1305,12 +1305,13 @@ Commands:
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
     <string name="no_response">No response from server. Please check the internet connection.</string>
     <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="SUDDEN_ATTACK">PLUTSELIG ANGREP</string>
+    <string name="_2x_skin_resolution">2x Skin Oppløsning</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">You are already friends.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="Translator">Oversetter</string>
+    <string name="SUCCESS">SUCCESS</string>
 
 
     <string-array name="control_modes">
