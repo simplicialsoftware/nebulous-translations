@@ -910,7 +910,7 @@
     <string name="Game_Border">Batas Permainan</string>
     <string name="Select_some_text_first">Pilih suatu teks terlebih dahulu.</string>
     <string name="Save_the_profile_first">Simpan profil terlebih dahulu</string>
-    <string name="Birthday">Birthday</string>
+    <string name="Birthday">Ulangtahun</string>
     <string name="Mass_Boost">Mass Boost</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Mass Boost tidak berfungsi di arena, turnamen, atau klan war!</string>
     <string name="ArenaDescriptionPure">TIDAK BISA menggunakan autoclick atau ultraclick. Kamu hanya dapat satu nyawa. Pemenang akan mendapatkan %s plasma.</string>
@@ -922,7 +922,7 @@
     <string name="BLOCKED">DIBLOKIR</string>
     <string name="CLAN_WAR_HISTORY">RIWAYAT KLAN WAR</string>
     <string name="Particle">Partikel</string>
-    <string name="Privacy">Privacy</string>
+    <string name="Privacy">Privasi</string>
     <string name="EULA">EULA</string>
     <string name="You_can_purchase_this_hat_for">Kamu bisa membeli topi ini untuk</string>
     <string name="You_can_purchase_this_particle_for">Kamu bisa membeli partikel ini untuk</string>
@@ -942,7 +942,7 @@
     <string name="WORLD_CUP_EVENT___">EVENT PIALA DUNIA!!!</string>
     <string name="world_cup_event_description">XP dan Plasma Ganda dalam Mode Sepak Bola hingga piala dunia berakhir!</string>
     <string name="GIF_Skins">GIF Skins</string>
-    <string name="PLAY_ONLINE_">PLAY ONLINE!</string>
+    <string name="PLAY_ONLINE_">BERMAIN ONLINE!</string>
     <string name="Absorb_10_000_000_dots">Menyerap 10,000,000 dots</string>
     <string name="Dot_Deity">Dot Deity</string>
     <string name="Mass_Mastery">Mass Mastery</string>
@@ -1072,8 +1072,8 @@
     <string name="Amounts_did_not_match_">Jumlah tidak sama!</string>
     <string name="RECEIVE_PLASMA">RECEIVE PLASMA</string>
     <string name="MULTIBLOB">MULTIBLOB</string>
-    <string name="Play_Nebulous_For_1_Year_">Play Nebulous For 1 Year!</string>
-    <string name="Play_Nebulous_For_X_Years_">Play Nebulous For %d Years!</string>
+    <string name="Play_Nebulous_For_1_Year_">Bermain Nebulous Untuk 1 Tahun!</string>
+    <string name="Play_Nebulous_For_X_Years_">Bermain Nebulous Untuk %d Tahun!</string>
     <string name="Starting___">Dimulai dalam&#x2026;</string>
     <string name="Tournament_Starting">Turnamen Dimulai</string>
     <string name="Max_Tilt_Angle_3D_">Max Tilt Angle 3D:</string>
@@ -1214,7 +1214,7 @@ Commands:
     <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">Kamu sekarang sudah berteman.</string>
+    <string name="You_are_already_friends_">Kamu sekarang berteman.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Akun harus lebih lama dari 1 hari untuk mengirim email.</string>
     <string name="Translator">Translator</string>
 
