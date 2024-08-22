@@ -1188,7 +1188,7 @@ Commands:
     <string name="delete_prompt">Apakah Anda yakin ingin menghapus akun Anda? Ini PERMANEN dan TIDAK DAPAT DIBATALKAN!</string>
     <string name="Type">Ketik</string>
     <string name="Complete_campaign_mission_">Selesaikan kampanye misi</string>
-    <string name="Specify_Reason_">Alasan spesifik</string>
+    <string name="Specify_Reason_">Alasan spesifik:</string>
     <string name="FREE_FOR_ALL">FREE FOR ALL</string>
     <string name="SPECIAL">SPESIAL</string>
     <string name="FREE">GRATIS</string>
