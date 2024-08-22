@@ -1151,18 +1151,18 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="The_winner_will_receive_x_plasma_">"Zwycięzca otrzyma %s plazmy!"</string>
     <string name="admin_commands">"
 Komendy Admina:
-!kick [0–31]
-!reset
-!welcome {wiadomość}
-!difficulty [0-3] lub [1-4] (dla Kampanii)
-!hidden
-!guests
-!slowchat
-!pausechat
-!mute {id}
-!admin {id}
-!allow {id}
-!allow reset"
+!kick [0–31] - wyrzuca gracza z gry
+!reset - resetuje pokój
+!welcome {wiadomość} - ustawia wiadomość powitalną
+!difficulty [0-3] lub [1-4] (dla Kampanii) - ustawia trudność
+!hidden - ustawia pokój jako ukryty
+!guests - odmów/zezwól na granie niezalogowanym graczom
+!slowchat - spowalnia czat
+!pausechat - pauzuje czat
+!mute {id} - wycisza gracza na czacie
+!admin {id} - dodaje administratora gry
+!allow {id} - pozwól na granie konkretnemu graczowi
+!allow reset - resetuje pozwolenia na granie"
 </string>
     <string name="ID_Sort">"Sortuj ID"</string>
     <string name="Master_Tamer">"Arcyopiekun"</string>
@@ -1174,9 +1174,9 @@ Komendy Admina:
     <string name="MEGA_SPLIT">"MEGA PODZIAŁ"</string>
     <string name="Missing_Permissions">"Brakujące Uprawnienia"</string>
     <string name="DELETE_ACCOUNT">"USUŃ KONTO"</string>
-    <string name="delete_prompt">"Czy na pewno chcesz usunąć swoje konto?\nUsunięcie jest PERMANENTNE, co znaczy, że NIE odzyskasz już swojego konta."</string>
+    <string name="delete_prompt">"Czy na pewno chcesz usunąć swoje konto? Usunięcie jest PERMANENTNE, co znaczy, że NIE ODZYSKASZ już swojego konta!"</string>
     <string name="Type">"Typ"</string>
-    <string name="Complete_campaign_mission_">"Ukończ misję kampanii:"</string>
+    <string name="Complete_campaign_mission_">"Ukończ misję Kampanii:"</string>
     <string name="Specify_Reason_">"Określ Przyczynę:"</string>
     <string name="FREE_FOR_ALL">"WSZYSCY NA WSZYSTKICH"</string>
     <string name="SPECIAL">"WYRÓŻNIONE"</string>
@@ -1217,6 +1217,7 @@ Jeśli nie chcesz się logować, możesz nadal grać w trybie jednego gracza."
     <string name="You_are_already_friends_">Jesteście już znajomymi.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Aby wysłać maila, konto musi mieć 1 dzień.</string>
     <string name="Translator">Tłumacz</string>
+    <string name="SUCCESS">SUCCESS</string>
     <string-array name="control_modes">
         <item>"Domyślne"</item>
         <item>"Względne"</item>
