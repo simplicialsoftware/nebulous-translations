@@ -965,7 +965,7 @@
     <string name="ENEMY">MUSUH</string>
     <string name="ALLY">ALIANSI</string>
     <string name="Rename">GANTI NAMA</string>
-    <string name="Set_friendly_name_">Set friendly name.</string>
+    <string name="Set_friendly_name_">Atur nama teman.</string>
     <string name="Leave_blank_for_none_">Leave blank for none.</string>
     <string name="Vote_Kick">Kick Player</string>
     <string name="FONT">JENIS HURUF</string>
@@ -1188,7 +1188,7 @@ Commands:
     <string name="delete_prompt">Apakah Anda yakin ingin menghapus akun Anda? Ini PERMANEN dan TIDAK DAPAT DIBATALKAN!</string>
     <string name="Type">Ketik</string>
     <string name="Complete_campaign_mission_">Selesaikan kampanye misi</string>
-    <string name="Specify_Reason_">Specify Reason:</string>
+    <string name="Specify_Reason_">Alasan spesifik</string>
     <string name="FREE_FOR_ALL">FREE FOR ALL</string>
     <string name="SPECIAL">SPESIAL</string>
     <string name="FREE">GRATIS</string>
@@ -1214,8 +1214,8 @@ Commands:
     <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="You_are_already_friends_">Kamu sekarang sudah berteman.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Akun harus lebih lama dari 1 hari untuk mengirim email.</string>
     <string name="Translator">Translator</string>
 
 
@@ -1249,7 +1249,7 @@ Commands:
         <item>"Mudah"</item>
         <item>"Medium"</item>
         <item>"Susah"</item>
-        <item>"IMPOSSIBLE"</item>
+        <item>"TERSULIT"</item>
     </string-array>
 
     <string-array name="sizes">
@@ -1257,7 +1257,7 @@ Commands:
         <item>"Kecil"</item>
         <item>"Normal"</item>
         <item>"Besar"</item>
-        <item>"HUGE"</item>
+        <item>"TERBESAR"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
