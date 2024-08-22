@@ -11,11 +11,11 @@
     <string name="WEEKLY">"LINGGUHAN:"</string>
     <string name="DAILY">"ARAW-ARAW:"</string>
     <string name="Server_">"Server:"</string>
-    <string name="Game_Mode_">"Mode ng Laro:"</string>
+    <string name="Game_Mode_">"Uri ng Laro:"</string>
     <string name="Show_Names">"Ipakita ang mga Pangalan:"</string>
     <string name="Show_Avatars">"Ipakita ang mga Avatar:"</string>
     <string name="PLAY">"MAGLARO:"</string>
-    <string name="OPTIONS">"OPSYONS:"</string>
+    <string name="OPTIONS">" MGA OPSYONS:"</string>
 
     <string name="Avatar_">"Avatar:"</string>
     <string name="Name_">"Pangalan:"</string>
@@ -38,10 +38,10 @@
     <string name="IDLE">"WALANG GINAGAWA:"</string>
     <string name="Name_Invalid_">"Pangalan ay hindi wasto:"</string>
     <string name="Name_Taken_">"Pangalan ay nakuha na:"</string>
-    <string name="CONNECTED">"KONEKTADO:"</string>
-    <string name="JOINING___">"PAGSALI…:"</string>
-    <string name="PLAYING">"NAGLALARO:"</string>
-    <string name="MULTIPLAYER">"MULTIPLAYER:"</string>
+    <string name="CONNECTED">"KONEKTADO"</string>
+    <string name="JOINING___">"PAGSALI…"</string>
+    <string name="PLAYING">"NAGLALARO"</string>
+    <string name="MULTIPLAYER">"MULTIPLAYER"</string>
     <string name="JOIN">"SUMALI:"</string>
     <string name="Lobby_Name">"Pangalan ng Lobby:"</string>
     <string name="Not_found_">"Hindi mahanap:"</string>
@@ -60,11 +60,11 @@
     <string name="Max_Players">"Pinakamaraming manlalaro:"</string>
     <string name="Min_Players">"Pinakakonting manlalaro:"</string>
     <string name="OK">"OK:"</string>
-    <string name="CANCEL">"KANSELAHIN:"</string>
+    <string name="CANCEL">"IKANSELA"</string>
     <string name="Chat_Name">"Pangalan sa Chat:"</string>
     <string name="Max_People">"Pinakamaraming Tao:"</string>
-    <string name="START">"Simulan:"</string>
-    <string name="CREATE">"LUMIKHA:"</string>
+    <string name="START">"SIMULAN:"</string>
+    <string name="CREATE">"GUMAWA:"</string>
     <string name="CUSTOM_GAMES">"PASADYANG MGA LARO:"</string>
     <string name="CHAT">"CHAT:"</string>
     <string name="CUSTOM_SETUP">"PASADYANG AYOS:"</string>
@@ -87,19 +87,19 @@
     <string name="SIGN_IN">"SIGN IN:"</string>
     <string name="Single_Player_Stats">"Estatistika ng isang manlalaro:"</string>
     <string name="Level">"Lebel:"</string>
-    <string name="PAUSED">"NAKA-PAUSE:"</string>
-    <string name="FRIENDS">"MGA KAIBIGAN:"</string>
+    <string name="PAUSED">"NAKA-PAUSE"</string>
+    <string name="FRIENDS">"MGA KAIBIGAN"</string>
     <string name="Warning">"Babala"</string>
     <string name="SIGNING_IN">"SIGNING_IN"</string>
-    <string name="New_Friend_Request">"Bagong Nakikipag Kaibigan:"</string>
-    <string name="REQUEST_FRIEND">"HILING NG KAIBIGAN:"</string>
-    <string name="Private">"Pribado:"</string>
-    <string name="Public">"Publiko:"</string>
-    <string name="Bot">"Bot:"</string>
-    <string name="You">"Ikaw:"</string>
-    <string name="This_player_is_a_bot">"Ang manlalarong ito ay isang bot:"</string>
-    <string name="This_player_is_not_signed_in">"Ang manlalarong ito ay hindi naka-sign in:"</string>
-    <string name="Online">"Naka-Online:"</string>
+    <string name="New_Friend_Request">"Bagong Nakikipag Kaibigan"</string>
+    <string name="REQUEST_FRIEND">"HILING NG KAIBIGAN"</string>
+    <string name="Private">"Pribado"</string>
+    <string name="Public">"Publiko"</string>
+    <string name="Bot">"Bot"</string>
+    <string name="You">"Ikaw"</string>
+    <string name="This_player_is_a_bot">"Ang manlalarong ito ay isang bot"</string>
+    <string name="This_player_is_not_signed_in">"Ang manlalarong ito ay hindi naka-sign in"</string>
+    <string name="Online">"Naka-Online"</string>
     <string name="Unknown">"Hindi kilala:"</string>
     <string name="Offline">"Naka-Offline:"</string>
     <string name="Achievement_Earned">"Mga nakamit:"</string>
@@ -108,7 +108,7 @@
     <string name="Friend_Request_Sent">"Naipadala ang kahilingang makipag-kaibigan:"</string>
     <string name="ERROR">"ERROR:"</string>
     <string name="CONTINUE">"MAGPATULOY:"</string>
-    <string name="Global_" formatted="false">"Pandaigdigan:"</string>
+    <string name="Global_" formatted="false">"Pandaigdigan"</string>
     <string name="FRIEND_CHAT">"Chat ng Kaibigan:"</string>
     <string name="LOBBY_NAME">"PANGALAN NG LOBBY:"</string>
     <string name="NULL">"WALA"</string>
@@ -146,7 +146,7 @@
     <string name="Master_Nebulator">"Master Nebulator:"</string>
     <string name="Grand_Master_Nebulator">"Grand Master Nebulator:"</string>
     <string name="Impossible">"Imposible:"</string>
-    <string name="Perfection">"Pagiging Perpekto:"</string>
+    <string name="Perfection">"Perpekto:"</string>
     <string name="Single_Handedly">"Single-handedly:"</string>
     <string name="Dodgey">"Dodgey:"</string>
     <string name="Self_Contained">"Self-Contained:"</string>
@@ -213,7 +213,7 @@
     <string name="In_Game_Chat">"In-Game Chat"</string>
     <string name="My_Status_">"Ang Status ko:"</string>
     <string name="Game_Size_">"Kalakihan ng Laro:"</string>
-    <string name="Server_Restart_">"Server restart:"</string>
+    <string name="Server_Restart_">"Server Restart:"</string>
     <string name="GOAL_">"GOAL!:"</string>
     <string name="SOCCER">"SOCCER:"</string>
     <string name="DRAW">"PATAS:"</string>
@@ -262,8 +262,8 @@
     <string name="Score_3_goals_in_a_single_Soccer_game_">"Pumuntos ng 3 goals sa isang solong Soccer na laro:"</string>
     <string name="Total_Domination">"Total Domination:"</string>
     <string name="Win_500_games_of_any_type_">"Manalo ng 500 sa ano mang uri ng laro:"</string>
-    <string name="Translations">"Pagsasalin:"</string>
-    <string name="Developers">"Mga Nag-develop:"</string>
+    <string name="Translations">"Pagsasalin"</string>
+    <string name="Developers">"Mga Gumawa:"</string>
     <string name="Special_Thanks">"Espesyal na pasasalamat:"</string>
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"Maraming Salamat sa mga Nebulous Fan:"</string>
     <string name="Color_Blind">"Color Blind:"</string>
@@ -338,7 +338,7 @@
     <string name="Purchase_History">"Kasaysayan ng pagbili"</string>
     <string name="Purchases_Unavailable_">"Ang pagbili ay hindi na puwede!"</string>
     <string name="You_can_purchase_this_skin_for">"Maaari kang bumili ng ito skin for"</string>
-    <string name="PURCHASE">"PURCHASE"</string>
+    <string name="PURCHASE">"BILHIN"</string>
     <string name="Error_in_backup_data_">"Error sa backup ng data!"</string>
     <string name="Remove_Ads">"Alisin ang mga Patalastas"</string>
     <string name="Reward">"Gantimpala"</string>
@@ -351,7 +351,7 @@
     <string name="x3_XP_1_Hour">"3x XP 1 Oras"</string>
     <string name="x2_XP_24_Hour">"2x XP 24 Oras"</string>
     <string name="x2_XP_1_Hour">"2x XP 1 Oras"</string>
-    <string name="Cost_">"Gastos:"</string>
+    <string name="Cost_">"Kung Magkano:"</string>
     <string name="You_cannot_purchase_this_right_now_">"Hindi ka makakabili nito sa ngayon."</string>
     <string name="Loading_Purchases___">"Loading Purchases…</string>
     <string name="In_App_Purchases">"In-App Purchases"</string>
@@ -391,9 +391,9 @@
     <string name="Win_10_Arenas_">"Manalo 10 Arenas."</string>
     <string name="Win_100_Arenas_">"Manalo 100 Arenas."</string>
     <string name="Win_1000_Arenas">"Manalo 1,000 Arenas."</string>
-    <string name="Already_in_arena_">"Nasa arena."</string>
+    <string name="Already_in_arena_">"Nasa arena na."</string>
     <string name="Already_in_queue_">"Nasa queue na."</string>
-    <string name="Invalid_Account_ID_">"Hindi-wastong ID Account."</string>
+    <string name="Invalid_Account_ID_">"Hindi Tamang ID ng Account."</string>
     <string name="Validating">"Pinapatunayan"</string>
     <string name="Randomize">"Randomize"</string>
     <string name="Harassment">"Panliligalig"</string>
@@ -459,10 +459,10 @@
     <string name="Leave_Team">"Iwanan ang Pangkat"</string>
     <string name="Remove_Player">"Tanggalin ang Player"</string>
     <string name="Reject_Invitation">"Tanggihan ang Imbitasyon"</string>
-    <string name="Leave_Game">"Iwanan ang Laro"</string>
+    <string name="Leave_Game">"Umalis sa Laro"</string>
     <string name="Remove_Friend">"Tanggalin bilang Kaibigan"</string>
     <string name="Remove_Clan_Member">"Tanggalin ang Miyembro ng Clan"</string>
-    <string name="Flag_lobby_as_inappropriate">"Flag lobby bilang hindi naaangkop"</string>
+    <string name="Flag_lobby_as_inappropriate">"I-Flag ang lobby bilang hindi naaangkop"</string>
     <string name="Promote_Clan_Member">"I-promote ang Miyembro ng Clan"</string>
     <string name="Leave_Clan">"Iwanan ang Clan"</string>
     <string name="Candy_Hoarder">"Kendi Hoarder"</string>
@@ -471,7 +471,7 @@
     <string name="Collect_1_000_candies_">"Kolektahin ang 1,000 mga kendi."</string>
     <string name="Collect_5_000_candies_">"Kolektahin ang 5,000 mga kendi."</string>
     <string name="Collect_10_000_candies_">"Kolektahin ang 10,000 mga kendi."</string>
-    <string name="candies_">"Mga kendies."</string>
+    <string name="candies_">"Mga kendi."</string>
     <string name="Language">"Wika"</string>
     <string name="Control_Opacity_">"Control Opacity:"</string>
     <string name="You_dont_own_the_team_">"Hindi mo pag-aari ang pangkat:"</string>
@@ -556,7 +556,7 @@
     <string name="Collect_1_000_nebulas_">"Kolektahin ang 1,000 Nebula."</string>
     <string name="Collect_5_000_nebulas_">"Kolektahin ang 5,000 Nebula."</string>
     <string name="Collect_10_000_nebulas_">"Kolektahin ang 10,000 Nebula."</string>
-    <string name="nebulas_">"Nebula."</string>
+    <string name="nebulas_">"nebulas."</string>
     <string name="Incompatible_versions_">"Hindi-katugmang bersyon."</string>
     <string name="Update_Available_">"Update Available na!"</string>
     <string name="VIEW_INVITES">"TIGNAN ANG MGA IMBITASYON"</string>
@@ -564,7 +564,7 @@
     <string name="Cancel_Invitation">"Ikansela ang Imbitasyon"</string>
     <string name="DOWNLOAD">"DOWNLOAD"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"Tanggihan lahat ng imbitasyon para sa kaibigan"</string>
-    <string name="suns_">"Suns."</string>
+    <string name="suns_">"suns."</string>
     <string name="Sun_Collector">"Sun Kolektor"</string>
     <string name="Sun_Hoarder">"Sun Hoarder"</string>
     <string name="Sun_Mogul">"Sun Mogul"</string>
@@ -573,7 +573,7 @@
     <string name="Collect_10_000_suns_">"Kolektahin ang 10,000 suns."</string>
     <string name="Reward_Videos_">"Gantimpala sa Videos!"</string>
     <string name="Free_Plasma_">"Libreng Plasma!"</string>
-    <string name="moons_">"Moons."</string>
+    <string name="moons_">"moons."</string>
     <string name="Moon_Collector">"Moon Kolektor"</string>
     <string name="Moon_Hoarder">"Moon Hoarder"</string>
     <string name="Moon_Mogul">"Moon Mogul"</string>
@@ -596,7 +596,7 @@
     <string name="Collect_1_000_notes_">"Kolektahin ang 1,000 notes."</string>
     <string name="Collect_5_000_notes_">"Kolektahin ang 5,000 notes."</string>
     <string name="Collect_10_000_notes_">"Kolektahin ang 10,000 notes."</string>
-    <string name="notes_">"Notes."</string>
+    <string name="notes_">"notes."</string>
     <string name="CLICK_CHEAT_DETECTED_">"CLICK CHEAT ay nakita!"</string>
     <string name="Pumpkin_Hoarder">"Pumpkin Hoarder"</string>
     <string name="Pumpkin_Mogul">"Pumpkin Mogul"</string>
@@ -631,7 +631,7 @@
     <string name="List_Count_">"Listahan Count:"</string>
     <string name="Download_Skins">"Download Skins"</string>
     <string name="ARENA_HISTORY">"ARENA KASAYSAYAN"</string>
-    <string name="WIN">"WIN"</string>
+    <string name="WIN">"PANALO"</string>
     <string name="LOSS">"TALO"</string>
     <string name="Other_players_can_not_see_your_skin_">"Ang iba pang mga manlalaro ay hindi maaaring makita ang iyong skin."</string>
     <string name="Other_players_can_see_your_skin_">"Ang iba pang mga manlalaro ay maaaring makita ang iyong skin."</string>
@@ -777,7 +777,7 @@
     <string name="CLAN_HOUSE">BAHAY NG CLAN</string>
     <string name="ROOM">ROOM</string>
     <string name="EXPERIMENTAL">EXPERIMENTAL</string>
-    <string name="members">Mmga miyembro</string>
+    <string name="members">Mga miyembro</string>
     <string name="Delete_ALL_Messages_">I-Delete ang LAHAT ng Mensahe!</string>
     <string name="SAVE_PROFILE">I-SAVE PROFILE</string>
     <string name="Move">Move</string>
@@ -1037,11 +1037,11 @@
     <string name="Video_Ready_">Ang Video ay Ready na!</string>
     <string name="GIVE_PLASMA">MAGBIGAY NG PLASMA</string>
     <string name="Specify_amount_">I-Specify ang amount:</string>
-    <string name="Specify_amount_again_to_confirm_">I-Specify ulit ang amout para ma-kumpirma:</string>
+    <string name="Specify_amount_again_to_confirm_">I-Specify ulit ang amount para ma-kumpirma:</string>
     <string name="Amounts_did_not_match_">Ang mga Amounts ay hindi nagtugma!</string>
     <string name="RECEIVE_PLASMA">TANGGAPIN ANG PLASMA</string>
     <string name="MULTIBLOB">MULTIBLOB</string>
-    <string name="Play_Nebulous_For_1_Year_">Maglaro ng Nebulous ng 1 Taon!</string>
+    <string name="Play_Nebulous_For_1_Year_">Maglaro ng Nebulous ng Isang Taon!</string>
     <string name="Play_Nebulous_For_X_Years_">Maglaro ng Nebulous ng %d mga Taon!</string>
     <string name="Starting___">Magsisimula…</string>
     <string name="Tournament_Starting">Ang Tournament ay Magsisimula</string>
@@ -1060,7 +1060,7 @@
     <string name="Finish_the_last_mission_in_the_campaign_">Ipanalo ang pinakahuling misyon sa kampanya.</string>
     <string name="Collected_">Mga Na-Collect:</string>
     <string name="Collisions_">Mga Collisions:</string>
-    <string name="Absorbed_">Absorbed (Nakuha):</string>
+    <string name="Absorbed_">Mga Nakuha:</string>
     <string name="team_warning">Ang pakikipangkat sa manlalaro na hindi mo naman ka-pangkat ay magre-resulta sa isang ban!</string>
     <string name="Search_Filter">Search Filter</string>
     <string name="Received_">Natanggap:</string>
@@ -1152,7 +1152,7 @@ Commands:
     <string name="Defenders">Mga Tagapagtanggol</string>
     <string name="Attackers">Mga Umaatake</string>
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
-    <string name="Missing_Permissions">Missing Permissions</string>
+    <string name="Missing_Permissions">Nawawalang Permissions</string>
     <string name="DELETE_ACCOUNT">I-DELETE ACCOUNT</string>
     <string name="delete_prompt">Sigurado ka bang gusto mong i-delete ang iyong account? Ito ay PERMANENTE at HINDI NA MAIBABALIK!</string>
 
@@ -1182,29 +1182,29 @@ Commands:
     <string name="xmas_gift_boost_message">You\'ve (Ikaw) ay nakatanggap ng regalo ng 3x plasma boost para sa 1 araw!</string>
     <string name="no_response">Walang tugon galing sa server. Mangyaring suriin ang internet connection.</string>
     <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN NA PAG-ATAKE</string>
+    <string name="SUDDEN_ATTACK">BIGLAAN NA PAG-ATAKE</string>
     <string name="_2x_skin_resolution">2x Skin Resolusyon</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="You_are_already_friends_">Kayo ay mag-kaibigan na.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Ang Account ay Kailangang 1 day na matagal para makapag-send ng mail.</string>
+    <string name="Translator">Tagasalin</string>
 
 
     <string-array name="control_modes">
         <item>"Normal"</item>
-        <item>"Kamag-anak"</item>
-        <item>"drag Patungo"</item>
-        <item>"I-drag Away"</item>
-        <item>"Mapanganib"</item>
-        <item>"tumagilid"</item>
+        <item>"Kahit Saan"</item>
+        <item>"Drag Patungo"</item>
+        <item>"I-Drag Away"</item>
+        <item>"I-Touch at Mapupunta"</item>
+        <item>"I-Tagilid"</item>
     </string-array>
 
     <string-array name="button_modes">
-        <item>"kaliwa"</item>
-        <item>"karapatan"</item>
-        <item>"Right + Kaliwa"</item>
-        <item>"Stack Kaliwa"</item>
-        <item>"Stack right"</item>
+        <item>"Kaliwa"</item>
+        <item>"Kanan"</item>
+        <item>"Kanan + Kaliwa"</item>
+        <item>"Lagay Lahat sa Kaliwa"</item>
+        <item>"Lagay Lahat sa Kanan"</item>
         <item>"Custom"</item>
     </string-array>
 
@@ -1224,16 +1224,16 @@ Commands:
     </string-array>
 
     <string-array name="sizes">
-        <item>"maliit na maliit"</item>
-        <item>"maliit"</item>
+        <item>"Pinaka-Maliit"</item>
+        <item>"Maliit"</item>
         <item>"Normal"</item>
-        <item>"malaki"</item>
+        <item>"Malaki"</item>
         <item>"SOBRANG LAKI"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
         <item>"Duo (2v2)"</item>
-        <item>"Maliit na Maliit (3v3)"</item>
+        <item>"Pinaka-Maliit (3v3)"</item>
         <item>"Maliit (5v5)"</item>
         <item>"Normal (8v8)"</item>
     </string-array>
