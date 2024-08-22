@@ -78,9 +78,9 @@
     <string name="Max_People">"Max. Personen"</string>
     <string name="START">"Start"</string>
     <string name="CREATE">"Erstellen"</string>
-    <string name="CUSTOM_GAMES">"Benutzerdifinierte Spiele"</string>(alternatively Individuelle Spiele)
+    <string name="CUSTOM_GAMES">"Benutzerdifinierte Spiele"</string>
     <string name="CHAT">"Chat"</string>
-    <string name="CUSTOM_SETUP">"Benutzerdefinierte Einstellungen"</string>(alternatively Individuelle Einstellungen)
+    <string name="CUSTOM_SETUP">"Benutzerdefinierte Einstellungen"</string>
     <string name="CHAT_SETUP">"Chat Einstellungen"</string>
 
 
@@ -130,7 +130,7 @@
     <string name="ERROR">"Fehler"</string>
     <string name="CONTINUE">"Weiter"</string>
     <string name="Global_" formatted="false">"Global %"</string>
-    <string name="FRIEND_CHAT">"Freunde Chat"</string>(alternatively Chat mit einem Freund)
+    <string name="FRIEND_CHAT">"Freunde Chat"</string>
     <string name="LOBBY_NAME">"Lobby Name"</string>
     <string name="NULL">"Null"</string>
 
@@ -379,7 +379,7 @@
     <string name="Clan_Warrior">"Clan-Krieger"</string>
     <string name="Win_a_Clan_War">"Gewinne einen Clankrieg"</string>
     <string name="Global">"Global %"</string>
-    <string name="Spectating">"Zuschauen"</string>(if it means when you watch a player, use Zuschauer)
+    <string name="Spectating">"Zuschauen"</string>
 
 
     <string name="snowflakes_">"Schneeflocken."</string>
@@ -444,7 +444,7 @@
 
     <string name="until">"bis"</string>
     <string name="New_Message_">"Neue Nachricht!"</string>
-    <string name="Seasonal">"Jahreszeit"</string>(time of year, jahreszeitlich is like to be in the mood for summer)
+    <string name="Seasonal">"Jahreszeit"</string>
 
 
     <string name="Temporarily_Disabled_">"Vorübergehend deaktiviert."</string>
@@ -467,7 +467,7 @@
     <string name="Collect_10_000_Plasma_">"Sammle 10.000 Plasma."</string>
     <string name="Collect_100_000_Plasma">"Sammle 100.000 Plasma."</string>
     <string name="Plasma_Collected_">"Plasma gesammelt:"</string>
-    <string name="Plasma_Purchases">"Plasma Aktivitäten"</string>(because you gain and lose = activity)
+    <string name="Plasma_Purchases">"Plasma Aktivitäten"</string>
 
     <string name="ENTER">"EINTRETEN"</string>
     <string name="_1v1">"1v1"</string>
@@ -637,7 +637,7 @@
     <string name="Teleport_100_Times">"Teleportiere 100 mal"</string>
     <string name="Shoot_20_Powerups_Without_Restarting">"Schieße 20 Powerups ohne Neuzustarten"</string>
     <string name="Request_Timed_Out">"Zeitüberschreitung der Anforderung"</string>
-    <string name="You_Are_Spectating_">"Du schaust gerade zu."</string>(alternatively Du bist Zuschauer)
+    <string name="You_Are_Spectating_">"Du schaust gerade zu."</string>
     <string name="Account_In_Use_">"Das Konto wird schon genutzt!"</string>
     <string name="Cannot_Join_Arena_">"Kann die Arena nicht betreten."</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"Abmeldung wird dich aus dem aktuellen Spiel trennen!"</string>
@@ -789,7 +789,7 @@
     <string name="account_warning">Gebe NIE dein Konto-Passwort oder persönliche Informationen aus irgendwelchen Gründen weiter!</string>
     <string name="Clan_Hero">Clan-Held</string>
     <string name="Win_1000_Clan_Wars">Gewinne 1.000 Clankriege</string>
-    <string name="NAME_COLOR">Namenfarbe</string>
+    <string name="NAME_COLOR">Namensfarbe</string>
     <string name="name_color_instructions">Suche die Buchstaben aus, die du verändern willst, dann die Farbe.</string>
     <string name="Cannot_change_this_character_">Dieser Buchstaben kann nicht verändert werden</string>
     <string name="ZOMBIE_APOCALYPSE">ZOMBIE-APOKALYPSE</string>
@@ -918,7 +918,7 @@
     <string name="SENT">"Postausgang"</string>
     <string name="Enable_Invites">"Aktiviere Einladungen"</string>
     <string name="Game_Invitation">"Spiel Einladung"</string>
-    <string name="__has_invited_you_to_join_their_game_">"%s hat dich eingeladen, seinem Spiel beizutreten!"</string>(deinem to seinem)
+    <string name="__has_invited_you_to_join_their_game_">"%s hat dich eingeladen, seinem Spiel beizutreten!"</string>
     <string name="Invitation_declined_">"Einladung abgelehnt!"</string>
     <string name="Invitation_accepted_">"Einladung akzeptiert!"</string>
     <string name="Invitation_expired_">"Einladung abgelaufen!"</string>
@@ -941,7 +941,7 @@
     <string name="SPLIT_16X">SPLIT 16x</string>
     <string name="SET_PUBLIC_DESCRIPTION">Öffentliche Beschreibung speichern</string>
     <string name="SET_NOTE">Notiz speichern</string>
-    <string name="enable_notifications">Benachrichtigungen anschalten</string>(spelling)
+    <string name="enable_notifications">Benachrichtigungen anschalten</string>
     <string name="PROMOTE_MEMBER">Mitglied befördern</string>
     <string name="DEMOTE_MEMBER">Mitglied herabstufen</string>
     <string name="HAPPY_BIRTHDAY_">ALLES GUTE ZUM GEBURTSTAG, NEBULOUS!</string>
@@ -1044,7 +1044,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="WIFI">W-lan</string>
     <string name="JOIN_IP">IP beitreten</string>
     <string name="Specify_Host_IP">Spezifiziere Host IP</string>
-    <string name="ADVANCED_SETUP">Erweiterte Einstellungen</string>(spelling)
+    <string name="ADVANCED_SETUP">Erweiterte Einstellungen</string>
     <string name="WORLD_CUP_EVENT___">WELTMEISTERSCHAFTSEVENT!!!</string>
     <string name="world_cup_event_description">Doppelt so viel an XP und Plasmas im Fußball-Modus bis zum Ende der Weltmeisterschaft!</string>
     <string name="GIF_Skins">GIF Skins</string>
@@ -1057,7 +1057,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="VET">VET</string>
     <string name="Mute">Muten</string>
     <string name="Unmute">Mute aufheben</string>
-    <string name="Community">Gemeinschaft</string>(alternatively Community)
+    <string name="Community">Gemeinschaft</string>
     <string name="Buy">Kaufen</string>
     <string name="Sell">Verkaufen</string>
     <string name="community_skin_information_for_seller" translatable="false" tools:ignore="Untranslatable">Wenn du deinen Custom Skin zu einem Gemeinschaft-Skin machst, wird er auf dem Gemeinschaft-Skin-Tab aufgeführt. Andere Spieler können deinen Gemeinschaft-Skin sehen und kaufen! Jedes Mal, wenn ein Spieler deinen Gemeinschaft-Skin kauft, erhältst du eine kleine Menge an Plasma. Community-Skins können keine Fotos von echten Menschen sein!</string>
@@ -1077,9 +1077,9 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Set_friendly_name_">Freundlichen Namen festlegen.</string>
     <string name="Leave_blank_for_none_">Für nichts leer lassen.</string>
     <string name="Vote_Kick">Spieler rauswerfen</string>
-    <string name="FONT">Schriftarten</string>(spelling)
-    <string name="CIRCLE">Farbkreis</string>(makes more sense)
-    <string name="SQUARES">Farbpalette</string>(makes more sense)
+    <string name="FONT">Schriftarten</string>
+    <string name="CIRCLE">Farbkreis</string>
+    <string name="SQUARES">Farbpalette</string>
     <string name="TRICK_MODE">TRICK MODUS</string>
     <string name="ICE_SPLIT">ICE SPLIT</string>
     <string name="TRICK_SPLIT">TRICK SPLIT</string>
@@ -1111,7 +1111,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="South_Korea">Südkorea</string>
     <string name="Asia">Asien</string>
     <string name="SET_PRIVACY">Privatsphäre einstellen</string>
-    <string name="ANIMATION">ANIMATIONEN</string>(spelling)
+    <string name="ANIMATION">ANIMATIONEN</string>
     <string name="Color_Cycle">Farbzyklus</string>
     <string name="Fast">Schnell</string>
     <string name="Slow">Langsam</string>
@@ -1136,7 +1136,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Joined">Beigetreten am</string>
     <string name="Requests">Anfragen</string>
     <string name="Invites">Einladungen</string>
-    <string name="Show_Spectator_Count">Zuschauerzahl anzeigen</string>(alternatively Beobachterzahl anzeigen)
+    <string name="Show_Spectator_Count">Zuschauerzahl anzeigen</string>
     <string name="TRY_IT_">PROBIERE ES AUS!</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Du musst ein Pack kaufen um das benutzen zu können.</string>
     <string name="GET_PACK">ERHALTE PACK</string>
@@ -1150,7 +1150,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Show_Session_Stats">Statistiken anzeigen</string>
     <string name="VALENTINES_DAY">"VALENTINSTAG"</string>
     <string name="Giveaways_">Giveaways!</string>
-    <string name="Max_XP_Chain_">Max. XP Kette:</string>(dot is important otherwise its a name)
+    <string name="Max_XP_Chain_">Max. XP Kette:</string>
     <string name="POSITION_CANCEL_BUTTON">POSITION ABBRECHEN BUTTON</string>
     <string name="INVISIBILITY">UNSICHTBARKEIT</string>
     <string name="Set_Skin">Skin festlegen</string>
@@ -1166,7 +1166,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Invalid_Clan_ID_">Nicht gültige Clan ID.</string>
     <string name="MUTED">GEMUTET</string>
     <string name="SKIN">SKIN</string>
-    <string name="Choose_Skin_Size">Wähle Skingröße</string>(spelling)
+    <string name="Choose_Skin_Size">Wähle Skingröße</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Andere Spieler werden dich nicht hören können!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Erlaube die Berechtigung um Sprachaufnahme zu aktivieren.</string>
     <string name="voice_chat_prompt">Die Inhaltsbewertung der App kann sich bei aktiviertem Voice-Chat ändern. Verwenden Sie für optimales Audio Kopfhörer.</string>
@@ -1189,7 +1189,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Play_Nebulous_For_X_Years_">Spiele Nebulous für %d Jahre!</string>
     <string name="Starting___">Startet…</string>
     <string name="Tournament_Starting">Turnier beginnt</string>
-    <string name="Max_Tilt_Angle_3D_">Max. Neigungswinkel 3D:</string>(dot is important)
+    <string name="Max_Tilt_Angle_3D_">Max. Neigungswinkel 3D:</string>
     <string name="Mode_3D">3D Modus</string>
     <string name="Names_Below_Blobs">Namen unterhalb der Blobs</string>
     <string name="Name_Scale_">"Masstab des Namens:"</string>
@@ -1224,7 +1224,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Win_100_Tournaments">Gewinne 100 Turniere</string>
     <string name="HERO">HELD</string>
     <string name="CHAMPION">CHAMPION</string>
-    <string name="DASH">STAB</string>(Dash is more preferable for people who know it as Dash)
+    <string name="DASH">DASH</string>
     <string name="setting_changed">Einstellungen aktualisiert. Möglicherweise musst du erneut eine Verbindung zum Server herstellen, um die Änderungen wirksam zu machen.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Performiere 10.000 Tricks in einem Trick Modus Spiel.</string>
     <string name="Tricky">Tricky</string>
@@ -1384,7 +1384,7 @@ Wenn Sie sich nicht anmelden möchten, können Sie trotzdem im Einzelspielermodu
         <item>"Klein"</item>
         <item>"Normal"</item>
         <item>"Riesig"</item>
-        <item>"HUGE"</item>
+        <item>"Größenwahnsinnig"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
