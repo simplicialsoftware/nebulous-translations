@@ -1284,7 +1284,7 @@ Commands:
     <string name="Specify_Reason_">Specify Reason:</string>
     <string name="FREE_FOR_ALL">FREE FOR ALL</string>
     <string name="SPECIAL">SPECIAL</string>
-    <string name="FREE">FREE</string>
+    <string name="FREE">නොමිලේ</string>
     <string name="x5_Clan_XP_1_Day">5X CLAN XP 1 DAY</string>
     <string name="x5_Clan_XP_7_days">5X CLAN XP 7 DAYS</string>
     <string name="x5_Clan_XP_Perm">5X CLAN XP PERMANENT!</string>
@@ -1294,7 +1294,7 @@ Commands:
     <string name="x5_XP_Permanent">5X XP PERMANENT</string>
     <string name="CAMPAIGN_2">CAMPAIGN 2</string>
     <string name="XP_5x">XP 5x</string>
-    <string name="India">India</string>
+    <string name="India">ඉන්දියාව</string>
     <string name="Tutorial">Tutorial</string>
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
@@ -1303,13 +1303,13 @@ Commands:
     <string name="language_change_warning">Changing the language will cause the app to restart.</string>
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
     <string name="no_response">No response from server. Please check the internet connection.</string>
-    <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="RAMADAN">රාමදාන්</string>
+    <string name="SUDDEN_ATTACK">හදිසි ප්‍රහාරයක්</string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
+    <string name="You_are_already_friends_">ඔබ දැනටමත් මිතුරන්.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="Translator">පරිවර්තකයා</string>
     <string name="SUCCESS">SUCCESS</string>
 
 
