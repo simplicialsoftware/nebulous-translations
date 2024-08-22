@@ -1305,7 +1305,7 @@ Commands:
     <string name="no_response">Δεν υπάρχει σύνδεση στον σέρβερ. Παρακαλώ ελέγξτε την σύνδεση σας.</string>
     <string name="RAMADAN">ΡΑΜΑΖΑΝΙ</string>
     <string name="SUDDEN_ATTACK">ΞΑΦΝΙΚΗ ΕΠΙΘΕΣΗ</string>
-    <string name="_2x_skin_resolution">2x ΣΚΙΝ Ψήφισμα</string>
+    <string name="_2x_skin_resolution">2x σκιν Ψήφισμα</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Είσαστε ήδη φίλοι.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Ο λογαριασμός πρέπει να είναι δημιουργημένος 1 μέρα πριν για να στείλει μήνυμσ</string>
