@@ -1188,6 +1188,7 @@ Commands:
     <string name="You_are_already_friends_">Kayo ay mag-kaibigan na.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Ang Account ay Kailangang 1 day na matagal para makapag-send ng mail.</string>
     <string name="Translator">Tagasalin</string>
+    <string name="SUCCESS">SUCCESS</string>
 
 
     <string-array name="control_modes">

@@ -1337,6 +1337,7 @@ Comandos:
     <string name="You_are_already_friends_">Vocês já são amigos.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">A conta tem de ter ao menos 1 dia de criação para enviar e-mails.</string>
     <string name="Translator">Tradutor</string>
+    <string name="SUCCESS">SUCCESS</string>
 
 
     <string-array name="control_modes">

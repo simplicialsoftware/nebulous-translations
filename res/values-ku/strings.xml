@@ -1310,6 +1310,7 @@ FERMAN:
     <string name="You_are_already_friends_">Hûn jixwe heval in.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Ji bo ku em bikarin nameyan bişînin divê hesab herî kêm 1 rojî be.</string>
     <string name="Translator">Wergêr</string>
+    <string name="SUCCESS">SUCCESS</string>
 
 
     <string-array name="control_modes">

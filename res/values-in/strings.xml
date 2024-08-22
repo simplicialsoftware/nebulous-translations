@@ -1217,6 +1217,7 @@ Commands:
     <string name="You_are_already_friends_">Anda sudah berteman. </string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Akun harus berumur 1 hari untuk mengirim surat. </string>
     <string name="Translator">Translator</string>
+    <string name="SUCCESS">SUCCESS</string>
 
 
     <string-array name="control_modes">
