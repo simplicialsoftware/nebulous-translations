@@ -371,7 +371,7 @@
     <string name="_8v8">"8v8"</string>
     <string name="Top_Ranks">"Top Classificados"</string>
     <string name="My_Ranks">"Minha Posição"</string>
-    <string name="Player_XP">"Jogador XP"</string>
+    <string name="Player_XP">"XP do Jogador"</string>
 
     <string name="W_D_L">"V-E-D"</string>
     <string name="MATCH_START">"INICIAR A PARTIDA"</string>
@@ -590,7 +590,7 @@
     <string name="Bead_Collector">"Coletor de Pérolas"</string>
     <string name="Bead_Hoarder">"Colecionador de Pérolas"</string>
     <string name="Bead_Mogul">"Magnata de Pérolas"</string>
-    <string name="beads_">"pérolas"</string>
+    <string name="beads_">"pérolas."</string>
 
     <string name="Rejoin_Game">"Recomeçar Jogo"</string>
     <string name="PRIZES">"PRÊMIOS"</string>
@@ -736,15 +736,15 @@
     <string name="Current_Skin">"Skin Atual"</string>
     <string name="Status">"Status"</string>
     <string name="upload_size_failure">"Não foi possível enviar esta imagem porque é muito grande. Por favor, tente uma imagem diferente."</string>
-    <string name="CONTRIBUTE_PLASMA">"CONTRIBUIR PLASMA"</string>
+    <string name="CONTRIBUTE_PLASMA">"CONTRIBUIR COM PLASMAS"</string>
     <string name="Specify_Contribution_Amount">"Especifique a Quantidade para Contribuição"</string>
     <string name="Clan_Contribution">"Contribuição para o Clã"</string>
     <string name="FILTER">FILTRAR</string>
     <string name="List_Count_">Contagem da Lista:</string>
     <string name="Download_Skins">Skins Baixadas</string>
-    <string name="ARENA_HISTORY">HISTÓRICO DE ARENA</string>
+    <string name="ARENA_HISTORY">HISTÓRICO DE ARENAS</string>
     <string name="WIN">VITÓRIA</string>
-    <string name="LOSS">PERDA</string>
+    <string name="LOSS">DERROTA</string>
     <string name="Other_players_can_not_see_your_skin_">Outros jogadores não podem ver a sua skin.</string>
     <string name="Other_players_can_see_your_skin_">Outros jogadores podem ver a sua skin</string>
     <string name="LEGEND">LENDA</string>
@@ -770,7 +770,7 @@
     <string name="Subject">Assunto</string>
     <string name="SEND">ENVIAR</string>
     <string name="To">Para</string>
-    <string name="RESET">LIMPAR</string>
+    <string name="RESET">RESTAURAR</string>
     <string name="Message_Sent_">Mensagem Enviada!</string>
     <string name="From">De</string>
     <string name="Sent">Enviado</string>
@@ -1169,7 +1169,7 @@ Esta é uma lista de coisas que é * PROIBIDO * para usar nas skins personalizad
     <string name="ASTEROIDS">ASTEROIDES</string>
     <string name="CHRISTMAS">NATAL</string>
     <string name="Reason">Motivo</string>
-    <string name="PUBLIC">PUBLICO</string>
+    <string name="PUBLIC">PÚBLICO</string>
     <string name="PRIVATE">PRIVADO</string>
     <string name="Joined">Entrou</string>
     <string name="Requests">Solicitações</string>
@@ -1340,22 +1340,21 @@ Esta é uma lista de coisas que é * PROIBIDO * para usar nas skins personalizad
     <string name="The_winner_will_receive_x_plasma_">O vencedor receberá %s plasma!</string>
     <string name="admin_commands">"
 Comandos:
-!kick [0–31]
-!reset
-!welcome {mensagem}
+!kick [0–31] – Expulsar um jogador
+!reset – Reiniciar o jogo
+!welcome {mensagem de boas-vindas}
 !difficulty [0-3] ou [1-4] para Campanha
-!hidden
-!guests
-!slowchat
-!pausechat
-!mute {id}
-!admin {id}
-!allow {id}
-!allow reset
-!team [1-4] {id} (Somente nos modos de equipes)
-!winner
-!stats
-!info"
+!hidden – Alternar sala escondida
+!slowchat – Alternar chat lento
+!pausechat – Pausar chat por um tempo
+!mute {id} – Silenciar um jogador
+!admin {id} – Adicionar um admin da sala
+!allow {id} – Conceder permissão a um jogador
+!allow reset – Restaurar permissões
+!team [1-4] {id} – Somente nos modos de equipes
+!winner – Vencedor de uma partida com tempo
+!stats – Estatísticas da sessão
+!info – Informações da sala"
 </string>
     <string name="ID_Sort">Classificação ID</string>
     <string name="Master_Tamer">Domador Magistral</string>
@@ -1367,7 +1366,7 @@ Comandos:
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Permissões ausentes</string>
     <string name="DELETE_ACCOUNT">EXCLUIR CONTA</string>
-    <string name="delete_prompt">Você tem certeza que quer excluir sua conta? Essa ação é PERMANENTE e NÃO PODE SER DESFEITA!</string>
+    <string name="delete_prompt">Você tem certeza que quer excluir sua conta? Esta ação é PERMANENTE e NÃO PODE SER DESFEITA!</string>
 
 
     <string name="Type">Digite</string>
