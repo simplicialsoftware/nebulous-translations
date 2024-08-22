@@ -1249,7 +1249,7 @@ Commands:
         <item>"Mudah"</item>
         <item>"Sedang"</item>
         <item>"Susah"</item>
-        <item>"Mustahil"</item>
+        <item>"MUSTAHIL"</item>
     </string-array>
 
     <string-array name="sizes">
@@ -1257,7 +1257,7 @@ Commands:
         <item>"Kecil"</item>
         <item>"Normal"</item>
         <item>"Besar"</item>
-        <item>"Lebih Besar"</item>
+        <item>"LEBIH BESAR"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
