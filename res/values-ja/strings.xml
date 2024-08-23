@@ -1220,7 +1220,7 @@
     <string name="Quad">Quadruple</string>
     <string name="Middle_East">中東</string>
     <string name="XP_4x">経験値4倍</string>
-    <string name="You_cannot_play_for_x_minutes_">You cannot play for %d minutes.</string>
+    <string name="You_cannot_play_for_x_minutes_">あなたは%d分がプレイしません。</string>
     <string name="x4_Clan_XP_Perm">永久にクラン経験値4倍！</string>
     <string name="x4_Clan_XP_7_days">クラン経験値4倍7日間</string>
     <string name="x4_Clan_XP_1_Day">クラン経験値4倍1日間</string>
