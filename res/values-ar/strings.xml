@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+ki<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"اللاعبين."</string>
     <string name="Control_">"التحكم"</string>
     <string name="CLOSE">"إغلاق"</string>
@@ -1375,7 +1375,7 @@ Commands:
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
     <string name="Translator">يترجم</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">تم بنجاح</string>
 
 
     <string-array name="control_modes">
