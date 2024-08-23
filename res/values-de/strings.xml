@@ -1205,7 +1205,7 @@ Wenn du einen Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Collected_">Gesammelt:</string>
     <string name="Collisions_">Kollisionen:</string>
     <string name="Absorbed_">Absorbiert:</string>
-    <string name="team_warning">Wenn du dich mit einem Spieler verbündest, der nicht zu deinem Team ist, wird dies mit einem Ban bestraft!</string>
+    <string name="team_warning">Wenn du dich mit einem Spieler verbündest, der nicht in deinem Team ist, wird dies mit einem Ban bestraft!</string>
     <string name="Search_Filter">Suchfilter</string>
     <string name="Received_">Erhalten:</string>
     <string name="Opponent_Rating_Limit_">Gegnerbewertungslimit:</string>
