@@ -1086,6 +1086,7 @@
     <string name="Channel">チャンネル</string>
     <string name="Choose_Text_Size">Choose Text Size</string>
     <string name="LEVEL_COLOR">レベルの色</string>
+    <string name="level_color_instructions" translatable="true">あなたのレベルの色を選択してください。</string>
     <string name="INITIATE">INITIATE</string>
     <string name="x3_Clan_XP_Perm">永久にクラン経験値3倍！</string>
     <string name="x2_Clan_XP_Perm">永久にクラン経験値2倍！</string>
