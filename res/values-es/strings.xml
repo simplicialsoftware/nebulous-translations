@@ -560,10 +560,10 @@
     <string name="Leave_Team">"Abandonar equipo"</string>
 
     <string name="Remove_Player">"Eliminar jugador"</string>
-    <string name="Reject_Invitation">"Rechazar invitacion"</string>
+    <string name="Reject_Invitation">"Rechazar invitación"</string>
     <string name="Leave_Game">"Salir del juego"</string>
     <string name="Remove_Friend">"Eliminar amigo"</string>
-    <string name="Remove_Clan_Member">"Expulsar miembro del Clan"</string>
+    <string name="Remove_Clan_Member">"Expulsar Miembro del Clan"</string>
     <string name="Flag_lobby_as_inappropriate">"Marcar sala como inapropriada"</string>
     <string name="Promote_Clan_Member">"Ascender miembro"</string>
     <string name="Leave_Clan">"Dejar el Clan"</string>
@@ -758,7 +758,7 @@
     <string name="inapproriate_info">"Skins que incluyan cualquier cosa que implique odio, gore, obscenidad, violencia, drogas, sexo, desnudos, selfies de cuerpo entero y skins de Nebulous sin modificar."</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">"¿Estás seguro de que deseas subir esta skin?"</string>
     <string name="Grant_Permission">"Conceder Permiso"</string>
-    <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous necesita permisos de almacenamiento de copia de seguridad de su progreso para modo un jugador."</string>
+    <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous necesita permisos de almacenamiento de copia de seguridad de su progreso para modo Un jugador."</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous necesita permisos de ubicación para encontrar dispositivos Bluetooth cercanos."</string>
     <string name="FFA_ULTRA">"TCT ULTRA"</string>
     <string name="FFAU">"TCTU"</string>
@@ -878,7 +878,7 @@
     <string name="Plethora_of_Spins">Plétora de Giros (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">DESCONECTAR TODOS LOS DISPOSITIVOS</string>
     <string name="Tournament_Forming">Formando Torneo</string>
-    <string name="TeamTourneyDescription">Tú y tu compañero debéis registraros para jugar en el torneo por equipos. Se descontará el plasma una vez haya comenzado el torneo, pero podéis cancelar el registro antes de que comience. Se requieren al menos %d participantes para empezar.</string>
+    <string name="TeamTourneyDescription">Tú y tu compañero deben registrarse para jugar en el torneo por equipos. Se descontará el plasma una vez haya comenzado el torneo, pero pueden cancelar el registro antes de que comience. Se requieren al menos %d participantes para empezar.</string>
     <string name="Free_Agent">Agente Gratis</string>
     <string name="This_player_selected_a_different_teammate_">Este jugador seleccionó un compañero diferente </string>
     <string name="muted_until">silenciado hasta</string>
@@ -928,7 +928,7 @@
     <string name="Choose_Menu">"Elije el menú"</string>
     <string name="SPECTATE">"ESPECTAR"</string>
     <string name="INVITE">INVITAR</string>
-    <string name="error_1">Aolo el LÍDER o el COLÍDER pueden enviar un correo.</string>
+    <string name="error_1">Sólo el LÍDER o el COLÍDER pueden enviar un correo.</string>
     <string name="Hat">Sombrero</string>
     <string name="Hats">Sombreros</string>
     <string name="Pet_Uploads">Mascotas Subidas</string>
@@ -1217,7 +1217,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Both">Ambos</string>
     <string name="multiskin_period_description" translatable="true" tools:ignore="Untranslatable">"Especifica el período de cambio de multiskin en segundos (0–10). 0 desactivará multiskin."</string>
     <string name="Enable__Multiskin">"Activar\nMultiskin"</string>
-    <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"Multiskin te permite usar dos skins que se alternan. Tú eliges que tan rápido cambian las pieles. Cuando llegues al nivel 1,000 esta característica es gratuita. Si compras Multiskin antes del nivel 1,000, recuperarás el plasma cuando lo alcances."</string>
+    <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"Multiskin te permite usar dos skins que se alternan. Tú eliges que tan rápido cambian las skins. Cuando llegues al nivel 1,000, esta característica es gratuita. Si compras Multiskin antes del nivel 1,000, recuperarás el plasma cuando lo alcances."</string>
     <string name="MULTISKIN">MULTISKIN</string>
     <string name="DISABLED">DESACTIVADO</string>
     <string name="Refund__Multiskin">"Reembolso\nMultiskin"</string>
@@ -1227,7 +1227,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Choose_Skin_Size">Elige el tamaño de la skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">¡Otros jugadores no podrán escucharte!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Permite la grabación de voz en la app </string>
-    <string name="voice_chat_prompt">La calidad del contenido de la aplicación puede cambiar con el chat de voz habilitado. Para mejorar audio usa audifonos.</string>
+    <string name="voice_chat_prompt">La calidad del contenido de la aplicación puede cambiar con el chat de voz habilitado. Para mejorar el audio usa audífonos.</string>
     <string name="Only_leader_can_answer_requests_">Sólo el líder puede responder a las solicitudes </string>
     <string name="Sent_request_not_invited_">Solicitud enviada (no invitada) </string>
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">¡BORRAR SKIN DE LA PESTAÑA COMUNIDAD!</string>
@@ -1258,13 +1258,13 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Spectate_Killer_On_Death">Observar quien te comió</string>
     <string name="Rainbow_Holes">Agujero Arcoíris</string>
     <string name="LIFE_STEAL">ROBO DE VIDA</string>
-    <string name="Kicked_From_Game_">¡Expulsado de un Juego!</string>
+    <string name="Kicked_From_Game_">¡Expulsado del Juego!</string>
     <string name="Conquest">Conquista</string>
     <string name="Finish_the_last_mission_in_the_campaign_">Termina la última misión en campaña </string>
     <string name="Collected_">Recogido:</string>
     <string name="Collisions_">Colisiones:</string>
     <string name="Absorbed_">Absorbido:</string>
-    <string name="team_warning">¡Hacer equipo con un jugador que no está en tu equipo resultará en una prohibición! Si ves a otras personas haciendo equipo cruzado, puede votar para sacarlos de la sala desde el menú del jugador.</string>
+    <string name="team_warning">¡Hacer equipo con un jugador que no está en tu equipo resultará en una prohibición! Si ve a otras personas haciendo equipo cruzado, puede votar para sacarlos de la sala desde el menú del jugador.</string>
     <string name="Search_Filter">Filtro de búsqueda</string>
     <string name="Received_">Recibido:</string>
     <string name="Opponent_Rating_Limit_">Límite de calificación del oponente:</string>
