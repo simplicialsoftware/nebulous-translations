@@ -38,7 +38,7 @@
     <string name="Score__">"점수: "</string>
     <string name="Recombine_">"재결합:"</string>
     <string name="WINNER_">"우승자:"</string>
-    <string name="IDLE">"유휴 상태"</string>
+    <string name="IDLE">"자리비움"</string>
     <string name="Name_Invalid_">"잘못된 이름입니다."</string>
     <string name="Name_Taken_">"이름이 사용중입니다."</string>
     <string name="CONNECTED">"연결 됨"</string>
@@ -238,7 +238,7 @@
     <string name="Biggest_Blob_">"가장 큰 방울 :"</string>
     <string name="Highest_Score_">"최고 점수 :"</string>
     <string name="Average_Score_">"평균 점수 :"</string>
-    <string name="Times_Played_">"플레이 한 시간 :"</string>
+    <string name="Times_Played_">"플레이 횟수 :"</string>
     <string name="Longest_Life_">"가장 긴 수명 : "</string>
     <string name="Games_Won_">"승리 횟수 :"</string>
 
