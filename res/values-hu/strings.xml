@@ -36,7 +36,7 @@
     <string name="Name_Invalid_">"Érvénytelen név."</string>
     <string name="Name_Taken_">"Foglalt név."</string>
     <string name="CONNECTED">"CSATLAKOZVA"</string>
-    <string name="JOINING___">"BELÉPÉS…"</string>
+    <string name="JOINING___">"CSATLAKOZÁS…"</string>
     <string name="PLAYING">"JÁTÉK"</string>
     <string name="MULTIPLAYER">"TÖBBJÁTÉKOS"</string>
     <string name="JOIN">"BELÉPÉS"</string>
@@ -59,7 +59,7 @@
     <string name="OK">"OK"</string>
     <string name="CANCEL">"TÖRÖL"</string>
     <string name="Chat_Name">"Chat neve"</string>
-    <string name="Max_People">"Max ember"</string>
+    <string name="Max_People">"Max emberek"</string>
     <string name="START">"INDUL"</string>
     <string name="CREATE">"KÉSZÍTÉS"</string>
     <string name="CUSTOM_GAMES">"EGYEDI JÁTÉKOK"</string>
@@ -108,7 +108,7 @@
     <string name="Global_" formatted="false">"Globális"</string>
     <string name="FRIEND_CHAT">"BARÁT CHAT"</string>
     <string name="LOBBY_NAME">"LOBBY NÉV"</string>
-    <string name="NULL">"NULLA"</string>
+    <string name="NULL">"NULL"</string>
     <string name="ALL">"MINDEN"</string>
     <string name="FFA">"FFA"</string>
     <string name="FFA_TIME">"FFA IDŐ"</string>
@@ -202,7 +202,7 @@
     <string name="Longest_Life_">"Leghosszabb élettartam: "</string>
     <string name="Games_Won_">"Megnyert játékok:"</string>
     <string name="You_must_wait_until_the_end_of_the_round_">"Meg kell várnod a játék végét!"</string>
-    <string name="Dont_show_again">"Ne mutasd többször"</string>
+    <string name="Dont_show_again">"Ne mutasd mégegyszer"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Van egy magasabb XP-s eredményed, szeretnéd elmenteni?"</string>
     <string name="Special_Effects">"Különleges hatások"</string>
     <string name="Blob_Mushiness">"Folt hatások"</string>
@@ -213,7 +213,7 @@
     <string name="Server_Restart_">"Szerver újraindítása: "</string>
     <string name="GOAL_">"GÓL!"</string>
     <string name="SOCCER">"FOCI"</string>
-    <string name="DRAW">"RAJZ"</string>
+    <string name="DRAW">"DÖNTETLEN"</string>
     <string name="Clan_Name">"Klán név"</string>
     <string name="Clan">"Klán"</string>
     <string name="JOIN_CLAN">"CSATLAKOZÁS A KLÁNHOZ"</string>
@@ -223,7 +223,7 @@
     <string name="REMOVE_MEMBER">"TAG ELTÁVOLÍTÁSA"</string>
     <string name="CREATE_CLAN">"KLÁN KÉSZÍTÉSE"</string>
     <string name="MEMBER">"TAG"</string>
-    <string name="ADMIN">"Admin"</string>
+    <string name="ADMIN">"ADMIN"</string>
     <string name="LEADER">"VEZÉR"</string>
     <string name="ELDER">"RANGIDŐS"</string>
     <string name="Not_in_a_clan_">"Nem vagy klánban."</string>
@@ -262,7 +262,7 @@
     <string name="Translations">"Fordítók"</string>
     <string name="Developers">"Fejlesztők"</string>
     <string name="Special_Thanks">"Külön köszönet"</string>
-    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Hálás köszönet minden Nebulous fannak!"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Hálás köszönet minden Nebulous rajongónak!"</string>
     <string name="Color_Blind">"Színvak"</string>
     <string name="Daily_Quest_Complete_">"Napi kihívás teljesítve!"</string>
     <string name="COPY_ID">"ID MÁSOLÁSA"</string>
@@ -322,7 +322,7 @@
     <string name="leaves_">"levelek: "</string>
     <string name="Leaf_Collector">"Levél gyűjtő"</string>
     <string name="Collect_1000_leaves_">"Gyűjts össze 1000 levelet!"</string>
-    <string name="XP_Boost">"XP Növelő"</string>
+    <string name="XP_Boost">"XP Gyorsító"</string>
     <string name="Double">"Dupla"</string>
     <string name="Hour">"Óra"</string>
     <string name="Hours">"Órák"</string>
@@ -521,7 +521,7 @@
     <string name="Teleport_100_Times">"Teleportálj 100-szor!"</string>
     <string name="Shoot_20_Powerups_Without_Restarting">"Lőjj 20 Powerupsot újraindítás nélkül!"</string>
     <string name="Request_Timed_Out">"A kérés meghaladta a rendelkezésre álló időkeretet"</string>
-    <string name="You_Are_Spectating_">"Te néző vagy."</string>
+    <string name="You_Are_Spectating_">"Te megfigyelő vagy."</string>
     <string name="Account_In_Use_">"Fiók használatban!"</string>
     <string name="Cannot_Join_Arena_">"Nem csatlakozhatsz arénába!"</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"Ha kijelentkezel ki fogsz lépni a jelenlegi játékból!"</string>
@@ -577,15 +577,15 @@
     <string name="Collect_5_000_moons_">"Gyűjts össze 5.000 holdat!"</string>
     <string name="Collect_10_000_moons_">"Gyűjts össze 10.000 holdat!"</string>
     <string name="BLUETOOTH">"BLUETOOTH"</string>
-    <string name="HOST">"VENDÉGLÁTÓ"</string>
+    <string name="HOST">"HÁZIGAZDA"</string>
     <string name="This_device_does_not_support_bluetooth_">"Ez az eszköz nem támogatja a Bluetoot-ot."</string>
-    <string name="member_permissions">"Tagok engedélye"</string>
+    <string name="member_permissions">"Tagok engedélyei"</string>
     <string name="edit">"Szerkeszt"</string>
     <string name="start_clan_war">"Klán háború kezdése"</string>
     <string name="join_clan_war">"Klán háborúba csatlakozás"</string>
     <string name="none">"Semmilyen"</string>
     <string name="INVALID_TOKEN">"Érvénytelen kód!"</string>
-    <string name="banned_until">"bennolva, amíg "</string>
+    <string name="banned_until">"kitíltva, amíg "</string>
     <string name="Note_Collector">"Hangjegy gyűjtő"</string>
     <string name="Note_Hoarder">"Hangjegy felhalmozó"</string>
     <string name="Note_Mogul">"Hangjegy őrült"</string>
@@ -620,13 +620,13 @@
     <string name="Current_Skin">"jelenlegi kinézet"</string>
     <string name="Status">"Állapot"</string>
     <string name="upload_size_failure">"Nem sikerült feltölteni ezt a képet, mert ez túl nagy. Kérjük, próbálj meg egy másik képet!"</string>
-    <string name="CONTRIBUTE_PLASMA">"KÖZREMŰKÖDNÉL PLASMA"</string>
+    <string name="CONTRIBUTE_PLASMA">"PLAZMA ADOMÁNYOZÁSA"</string>
     <string name="Specify_Contribution_Amount">"Küldjön plazmát"</string>
     <string name="Clan_Contribution">"Klán hozzájárulás"</string>
     <string name="FILTER">"SZŰRŐ"</string>
     <string name="List_Count_">"Lista számolás:"</string>
     <string name="Download_Skins">"Kinézet letöltése"</string>
-    <string name="ARENA_HISTORY">"ARENA TÖRTÉNET"</string>
+    <string name="ARENA_HISTORY">"ARENA ELŐZMÉNYEK"</string>
     <string name="WIN">"GYŐZELEM"</string>
     <string name="LOSS">"VESZTESÉG"</string>
     <string name="Other_players_can_not_see_your_skin_">"Más játékosok nem látják a kinézeted."</string>
@@ -645,9 +645,9 @@
     <string name="FFA_ULTRA">"FFA ULTRA"</string>
     <string name="FFAU">"FFAU"</string>
     <string name="_in_a_FFAU_Game">"egy FFA ULTRA játékban"</string>
-    <string name="BANNED_PLAYERS">"BANNOLT JÁTÉKOSOK"</string>
+    <string name="BANNED_PLAYERS">"KITILTOTT JÁTÉKOSOK"</string>
     <string name="MAIL">"LEVÉL"</string>
-    <string name="WRITE_MAIL">"Levél írás"</string>
+    <string name="WRITE_MAIL">"Levél írása"</string>
     <string name="Days">"Napok"</string>
     <string name="Message">"Üzenet"</string>
     <string name="Subject">"Téma"</string>
@@ -728,7 +728,7 @@
     <string name="Autoclick_1_Hour">"Autóklikk 1 óra"</string>
     <string name="Ultraclick_24_Hours">"Ultraklikk 24 óra"</string>
     <string name="Ultraclick_1_Hour">"Ultraklikk 1 óra"</string>
-    <string name="Ultraclick">"Ultraklikkk"</string>
+    <string name="Ultraclick">"Ultraklikk"</string>
     <string name="May_Reduce_Lag">"(Csökkentheti a laggot)"</string>
     <string name="Ultraclick_Permanent">"Állandó ultraklikk"</string>
     <string name="Autoclick_Permanent">"Állandó autoklikk"</string>
@@ -876,8 +876,8 @@
     <string name="Select_some_text_first">Válassz szöveget először!</string>
     <string name="Save_the_profile_first">Mentsd el a profilod először!</string>
     <string name="Birthday">Születésnap</string>
-    <string name="Mass_Boost">Massz Boost</string>
-    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">A Massz Boost nem aktív Torunamentben, arénában és klán háború során sem!</string>
+    <string name="Mass_Boost">Massz Növelő</string>
+    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">A Massz Növelő nem aktív Tournamentben, arénában és klán háború során sem!</string>
     <string name="ArenaDescriptionPure">Nincs autoklikk és ultraklikk. Csak egy életed van. A győztes kap %s plazmát.</string>
     <string name="_1v1_Pure">1v1 Pure</string>
     <string name="Allow_Ultraclick">Ultraklikk engedélyezése</string>
@@ -985,7 +985,7 @@
     <string name="ASTEROIDS">ASZTEROIDÁK</string>
     <string name="CHRISTMAS">KARÁCSONY</string>
     <string name="Reason">Indok</string>
-    <string name="PUBLIC">PUBLIKUS</string>
+    <string name="PUBLIC">NYILVÁNOS</string>
     <string name="PRIVATE">PRIVÁT</string>
     <string name="Joined">Csatlakozva</string>
     <string name="Requests">Kérelmek</string>
@@ -1028,7 +1028,7 @@
     <string name="This_cannot_be_undone_">Ez nem visszavonható!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Nézz videót ideiglenes boost megszerzéséért, amíg %d életig tart majd.</string>
     <string name="WATCH_VIDEO_">NÉZZ VIDEÓT!</string>
-    <string name="PERMANENT_BOOSTS">ÁLLANDÓ BOOST</string>
+    <string name="PERMANENT_BOOSTS">ÁLLANDÓ GYORSÍTÓK</string>
     <string name="Video_failed_to_load_">Videó betöltése sikertelen!</string>
     <string name="Video_Ready_">Videó készenáll!</string>
     <string name="GIVE_PLASMA">PLAZMA ADOMÁNYOZÁSA</string>
@@ -1184,6 +1184,7 @@ Commands:
     <string name="You_are_already_friends_">You are already friends.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
     <string name="Translator">Translator</string>
+    <string name="SUCCESS">SUCCESS</string>
 
 
     <string-array name="control_modes">
@@ -1220,7 +1221,7 @@ Commands:
         <item>"Kicsi"</item>
         <item>"Normál"</item>
         <item>"Nagy"</item>
-        <item>"HUGE"</item>
+        <item>"HATALMAS"</item>
     </string-array>
     <string-array name="clan_war_sizes">
         <item>"Duó (2v2)"</item>

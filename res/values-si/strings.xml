@@ -20,7 +20,7 @@
     <string name="Avatar_">"සම:"</string>
     <string name="Name_">"නම:"</string>
 
-    <string name="Loading___">"Loading …"</string>
+    <string name="Loading___">"පූරණය …"</string>
     <string name="Connecting___">"සම්බන්ධ වෙමින් …"</string>
 
     <string name="Are_You_Sure_">"ඔබට විශ්වාසද?"</string>
@@ -35,7 +35,7 @@
     <string name="_Alias_">" අන්වර්ථ "</string>
     <string name="_Score_">" ලකුණු "</string>
     <string name="Score__">"ලකුණු: "</string>
-    <string name="Recombine_">"Recombine: "</string>
+    <string name="Recombine_">"නැවත එකලස් කිරීම: "</string>
     <string name="WINNER_">"ජයග්රාහකයා:"</string>
     <string name="IDLE">"අලස"</string>
     <string name="Name_Invalid_">"නම වැරදියි."</string>
@@ -54,7 +54,7 @@
     <string name="Hidden">"සඟවා"</string>
 
 
-    <string name="SERVER">"Server"</string>
+    <string name="SERVER">"සේවාදායකය"</string>
     <string name="Joining_game_in_">"ක්රීඩාව එක්වීමට "</string>
     <string name="Game_Full">"ගේම් පූර්ණ"</string>
     <string name="US_East">"එක්සත් ජනපදය, නැගෙනහිර"</string>
@@ -90,7 +90,7 @@
     <string name="Yellow_Team">"කහ කණ්ඩායම"</string>
     <string name="Signed_in_as_">"ලෙස අත්සන්:"</string>
     <string name="Not_signed_in_">"දී අත්සන් නෑ!"</string>
-    <string name="SET_NAME">"SET නම"</string>
+    <string name="SET_NAME">"නම සකසන්න"</string>
     <string name="SIGN_OUT">"වරන්න"</string>
     <string name="ACHIEVEMENTS">"ජයග්රහණ"</string>
     <string name="STATISTICS">"සංඛ්යා ලේඛන"</string>
@@ -1310,6 +1310,7 @@ Commands:
     <string name="You_are_already_friends_">You are already friends.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
     <string name="Translator">Translator</string>
+    <string name="SUCCESS">SUCCESS</string>
 
 
     <string-array name="control_modes">

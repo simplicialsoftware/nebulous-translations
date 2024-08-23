@@ -117,7 +117,7 @@
     <string name="Bot">"لاعب آلي"</string>
     <string name="You">"أنت"</string>
     <string name="This_player_is_a_bot">"هذا اللاعب آلي"</string>
-    <string name="This_player_is_not_signed_in">"هذا الاعب لم يسجل الدخول"</string>
+    <string name="This_player_is_not_signed_in">"هذا اللاعب لم يسجل الدخول"</string>
 
     <string name="Online">"مُـتَـصِـل"</string>
     <string name="Unknown">"غير معروف"</string>
@@ -218,7 +218,7 @@
 
     <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"الوصول إلى ١٠٠٠٠ درجة دورة أي دائرة"</string>
     <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"الوصول إلى ٥٠٠٠ درجة دون تقسيم أو إخراج"</string>
-    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"لعب ٥ دقائق مباشرة دون الاصطدام مع أي ثقب أسود"</string>
+    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"لعب ٥ دقائق مباشرة دون الإصطدام مع أي ثقب أسود"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"لعب ٥ دقائق مباشرة دون أن تفقد أي دائرة"</string>
     <string name="Play_20_minutes_straight_without_restarting">"لعب ٢٠ دقيقة مباشرة دون إعادة تشغيل"</string>
     <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"استيعاب ٥ من الثقوب السوداء بعد ٣٠ ثانية من البداية"</string>
@@ -293,7 +293,7 @@
     <string name="That_clan_is_full_">"هذه العَشيرة ممتَلئة!"</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"هذا المستخدم ليس عضو في عشيرتك:"</string>
     <string name="_You_can_t_be_your_own_friend_">"لا يمكنك أن تكون صديق لنفسك:"</string>
-    <string name="A_clan_with_that_name_already_exists_">"عشيرة بهذا الاسم موجودة مسبقا:"</string>
+    <string name="A_clan_with_that_name_already_exists_">"عشيرة بهذا الإسم موجودة مسبقا:"</string>
     <string name="Duration_">"المدة:"</string>
 
     <string name="FFA_Time_Domination">"سيطرة بالتوقيت"</string>
@@ -301,7 +301,7 @@
     <string name="CTF_Domination">"السيطرة بإمساك العلم"</string>
     <string name="CTF_Hat_Trick">"ثلاثية بإمساك العلم"</string>
     <string name="Survival_Domination">"السيطرة في النجاة"</string>
-    <string name="I_Will_Survive">"سأنجوا"</string>
+    <string name="I_Will_Survive">"سأنجو"</string>
     <string name="Soccer_Domination">"السيطرة في كرة القدم"</string>
     <string name="Soccer_Hat_Trick">"ثلاثية في كرة القدم"</string>
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"الفوز بـ 2500 درجة او اكثر في لعبة حر للجميع بالتوقيت."</string>
@@ -330,8 +330,8 @@
     <string name="Win_a_CTF_Game">"الفوز في لعبة إمساك العلم"</string>
     <string name="Win_a_Soccer_Game">"الفوز في لعبة كرة القدم"</string>
     <string name="Win_a_Survival_Game">"الفوز بلعبة النجاة"</string>
-    <string name="Win_a_Teams_Time_Game">"فوز في لعبة الفرق بالتوقيت"</string>
-    <string name="Reach_a_score_of_">"الوصول الى الدرجة "</string>
+    <string name="Win_a_Teams_Time_Game">"الفوز في لعبة الفرق بالتوقيت"</string>
+    <string name="Reach_a_score_of_">"الوصول إلى الدرجة "</string>
     <string name="_in_a_FFA_Game">" في لعبة حر للجميع"</string>
     <string name="_in_a_Teams_Game">" في لعبة الفرق"</string>
     <string name="_dots">" النقاط"</string>
@@ -598,7 +598,7 @@
     <string name="Enable_Custom_Skin">"تمكين الصور المخصصة"</string>
     <string name="Use_Custom_Skin">"الصورة المخصصة"</string>
     <string name="custom_skin_description">"تمكنك هذه الميزة من تحميل صورتك الشخصية التي لن تظهر للجميع حتى تفعلها عن طريق الشراء."</string>
-    <string name="CUSTOM_SKIN">"صورة مخصصة"</string>
+    <string name="CUSTOM_SKIN">"الصورة المخصصة"</string>
 
     <string name="Facebook_Profile">"ملف الفيسبوك الشخصي"</string>
     <string name="You_must_be_signed_in_to_Facebook_">"يجب أن تسجل الدخول إلى الفيسبوك."</string>
@@ -692,7 +692,7 @@
     <string name="Collect_10_000_moons_">"جمع 10000 من الأقمار."</string>
     <string name="BLUETOOTH">"بلوتوث"</string>
     <string name="HOST">"مُضيف"</string>
-    <string name="This_device_does_not_support_bluetooth_">"لا يدعم هذا الجهاز بلوتوث."</string>
+    <string name="This_device_does_not_support_bluetooth_">"هذا الجهاز لا يدعم البلوتوث"</string>
     <string name="member_permissions">"أذونات الأعضاء"</string>
     <string name="edit">"تعديل"</string>
     <string name="start_clan_war">"بدء حرب العشائر"</string>
@@ -943,7 +943,7 @@
     <string name="enable_notifications">تفعيل الإشعارات</string>
     <string name="PROMOTE_MEMBER">ترقية العضو</string>
     <string name="DEMOTE_MEMBER">تخفيض رتبة العضو</string>
-    <string name="HAPPY_BIRTHDAY_">عيد ميلاد سعيد Nebulous!</string>
+    <string name="HAPPY_BIRTHDAY_">يوم ميلاد سعيد Nebulous!</string>
     <string name="Years">سنوات</string>
     <string name="Friend_Added_">تم إضافة صديق!</string>
     <string name="_in_a_16x_Split_Game">في لعبة الإنقسام على 16</string>
@@ -1018,7 +1018,7 @@
     <string name="Game_Border">حائط اللعبة</string>
     <string name="Select_some_text_first">حدد بعض النص أولاً</string>
     <string name="Save_the_profile_first">احفظ ملف التعريف أولاً</string>
-    <string name="Birthday">عيد الميلاد</string>
+    <string name="Birthday">يوم الميلاد</string>
     <string name="Mass_Boost">تعزيز الكتلة !</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">لا يَعمل تعزيز الكُتلة في التحديّات أو البُطولات أو حُروب العشّائر!</string>
     <string name="ArenaDescriptionPure">لا ضغط التلقائي أو مسرع الضغط. تحصل على حياة واحدة فقط. سوف يتلقى الفائز %s بلازما.</string>
@@ -1051,7 +1051,7 @@
     <string name="world_cup_event_description">مضاعفة نقاط الخبرة و البلازما في لعبة كرة القدم حتى نهاية حدث كأس العالم !!!</string>
     <string name="GIF_Skins">جُلود مُتحركة</string>
     <string name="upload_details" translatable="true">"
-الصورة مخصصة
+الصورة المخصصة
 
 عندما تشتري مظهرًا مخصصًا ، ستنخفض جودة الصورة ، لكن هذا ليس ذا أهمية كبيرة وهو أمر طبيعي (لا فرق تقريبًا عند اللعب).
 
@@ -1119,9 +1119,9 @@
     <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكيه!</string>
     <string name="Hooked">مُعلَق</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">لقد علقت في خطاف لمدة 10ثواني</string>
-    <string name="Pack">حزمه</string>
-    <string name="Skin_Pack">حزمه اشكال</string>
-    <string name="SKIN_PACK">حزمه اشكال</string>
+    <string name="Pack">حزمة</string>
+    <string name="Skin_Pack">حزمة اشكال</string>
+    <string name="SKIN_PACK">حزمة اشكال</string>
     <string name="HALLOWEEN">هالويين</string>
 
     <string name="pack_info">بعد شراء حزمة الجِلد هذه ، ستظهر جُلودك الحصرية في الجزء العلوي من قوائم اختيار الجِلد</string>
@@ -1161,8 +1161,8 @@
     <string name="ASTEROIDS">شُهُب</string>
     <string name="CHRISTMAS">كريسماس</string>
     <string name="Reason">السبب</string>
-    <string name="PUBLIC">العام</string>
-    <string name="PRIVATE">خـاص</string>
+    <string name="PUBLIC">عـامة</string>
+    <string name="PRIVATE">خـاصة</string>
     <string name="Joined">الأنضمامات</string>
     <string name="Requests">الطلبات</string>
     <string name="Invites">الدعوات</string>
@@ -1219,7 +1219,7 @@
     <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سنة!</string>
     <string name="Starting___">بدء…</string>
     <string name="Tournament_Starting">البُطولة بدأءت</string>
-    <string name="Max_Tilt_Angle_3D_">زأوية الميل القصوى ثلاثي الأبعاد</string>
+    <string name="Max_Tilt_Angle_3D_">زاوية الميل القصوى ثلاثي الأبعاد</string>
     <string name="Mode_3D">وضع ثلاثي الأبعاد</string>
     <string name="Names_Below_Blobs">معلومات اللاعب تحت الدائرة</string>
     <string name="Name_Scale_">"مقياس الأسم:"</string>
@@ -1345,7 +1345,7 @@ Commands:
     <string name="x5_XP_1_Hour">  مسرع X5 لمدة ساعة</string>
     <string name="x5_XP_24_hours">مسرع X5 لمدة 24ساعة</string>
     <string name="x5_XP_Permanent">مسرع دائم X5</string>
-    <string name="CAMPAIGN_2">حملة 2</string>
+    <string name="CAMPAIGN_2">حملة ضد الاَليين 2</string>
     <string name="India">الهند</string>
     <string name="Tutorial">الدورة التعليمية</string>
     <string name="TYCOON">حاصِد</string>
@@ -1374,7 +1374,8 @@ Commands:
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
-    <string name="Translator">مـتـرجم</string>
+    <string name="Translator">يترجم</string>
+    <string name="SUCCESS">SUCCESS</string>
 
 
     <string-array name="control_modes">
