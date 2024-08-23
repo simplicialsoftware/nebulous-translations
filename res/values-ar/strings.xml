@@ -88,7 +88,7 @@
     <string name="Green_Team">"الفريق الأخضر"</string>
     <string name="Blue_Team">"الفريق الأزرق"</string>
     <string name="Yellow_Team">"الفريق الأصفر"</string>
-    <string name="Signed_in_as_">"تم تسجيل الدخول كـ:"</string>
+    <string name="Signed_in_as_">"تم تسجيل الدخول:"</string>
     <string name="Not_signed_in_">"لم يتم تسجيل الدخول"</string>
     <string name="SET_NAME">"تحديد الإسم"</string>
     <string name="SIGN_OUT">"تسجيل الخروج من الحساب"</string>
