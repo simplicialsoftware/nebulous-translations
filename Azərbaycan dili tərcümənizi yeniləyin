@@ -2,7 +2,7 @@
 
     <string name="Players">"Oyunçular"</string>
     <string name="Control_">"Nəzarət:"</string>
-    <string name="CLOSE">"Bağla"</string>
+    <string name="CLOSE">"Bağlayın"</string>
     <string name="Stick_Size_">"Çubuq Ölçüsü:"</string>
     <string name="Stick_Margin_">"Çubuq Kənarı"</string>
     <string name="Button_Size_">"Düymə ölçüsü:"</string>
@@ -12,10 +12,10 @@
     <string name="WEEKLY">"Həftəlik"</string>
     <string name="DAILY">"Günlük"</string>
     <string name="Server_">"Server:"</string>
-    <string name="Game_Mode_">"Oyun Modu:"</string>
+    <string name="Game_Mode_">"Oyun Rejimi:"</string>
     <string name="Show_Names">"Adları göstərin"</string>
     <string name="Show_Avatars">"Cildləri göstərin"</string>
-    <string name="PLAY">"OYNAMAQ"</string>
+    <string name="PLAY">"OYNA"</string>
     <string name="OPTIONS">"Seçimlər"</string>
 
     <string name="Avatar_">"Cild:"</string>
