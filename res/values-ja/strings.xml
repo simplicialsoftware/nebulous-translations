@@ -1093,7 +1093,7 @@
     <string name="Japan">日本</string>
     <string name="South_Korea">韓国</string>
     <string name="Asia">アジア</string>
-    <string name="SET_PRIVACY">プライバシーを設定</string>
+    <string name="SET_PRIVACY">プライバシーを設定する</string>
     <string name="ANIMATION">ANIMATION</string>
     <string name="Color_Cycle">Color Cycle</string>
     <string name="Fast">Fast</string>
@@ -1132,22 +1132,22 @@
     <string name="Time_">Time:</string>
     <string name="Show_Session_Stats">Show Session Stats</string>
     <string name="VALENTINES_DAY">"バレンタインデー"</string>
-    <string name="Giveaways_">Giveaways!</string>
+    <string name="Giveaways_">抽選！</string>
     <string name="Max_XP_Chain_">Max XP Chain:</string>
     <string name="POSITION_CANCEL_BUTTON">POSITION CANCEL BUTTON</string>
     <string name="INVISIBILITY">INVISIBILITY</string>
-    <string name="Set_Skin">Set Skin</string>
-    <string name="Primary">Primary</string>
-    <string name="Secondary">Secondary</string>
-    <string name="Both">Both</string>
+    <string name="Set_Skin">スキンを設定する</string>
+    <string name="Primary">スキン1</string>
+    <string name="Secondary">スキン2</string>
+    <string name="Both">両方スキン</string>
 
-    <string name="Enable__Multiskin">"Enable\nMultiskin"</string>
+    <string name="Enable__Multiskin">"マルチスキン\nを有効にする"</string>
     <string name="MULTISKIN">マルチスキン</string>
-    <string name="DISABLED">DISABLED</string>
+    <string name="DISABLED">OFF</string>
 
-    <string name="Refund__Multiskin">Refund\nMultiskin</string>
+    <string name="Refund__Multiskin">マルチスキン\nを返金する</string>
     <string name="Invalid_Clan_ID_">Invalid clan ID.</string>
-    <string name="MUTED">MUTED</string>
+    <string name="MUTED">ミュート人</string>
     <string name="SKIN">スキン</string>
     <string name="Choose_Skin_Size">Choose Skin Size</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Other players will not be able to hear you!</string>
@@ -1158,18 +1158,18 @@
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">REMOVE SKIN FROM COMMUNITY!</string>
     <string name="This_cannot_be_undone_">This cannot be undone!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Watch a video to get a temporary boost for %d lives!</string>
-    <string name="WATCH_VIDEO_">WATCH VIDEO!</string>
+    <string name="WATCH_VIDEO_">ビデオを見る！</string>
     <string name="PERMANENT_BOOSTS">永久にブースト</string>
     <string name="Video_failed_to_load_">Video failed to load!</string>
-    <string name="Video_Ready_">Video Ready!</string>
-    <string name="GIVE_PLASMA">GIVE PLASMA</string>
+    <string name="Video_Ready_">ビデオができています！</string>
+    <string name="GIVE_PLASMA">プラズマを送る</string>
     <string name="Specify_amount_">Specify amount:</string>
     <string name="Specify_amount_again_to_confirm_">Specify amount again to confirm:</string>
     <string name="Amounts_did_not_match_">Amounts did not match!</string>
     <string name="RECEIVE_PLASMA">RECEIVE PLASMA</string>
     <string name="MULTIBLOB">マルチブロッブ</string>
-    <string name="Play_Nebulous_For_1_Year_">Play Nebulous For 1 Year!</string>
-    <string name="Play_Nebulous_For_X_Years_">Play Nebulous For %d Years!</string>
+    <string name="Play_Nebulous_For_1_Year_">1年間ネビュラスをプレイしました！</string>
+    <string name="Play_Nebulous_For_X_Years_">%d年間ネビュラスをプレイしました！</string>
     <string name="Starting___">Starting…</string>
     <string name="Tournament_Starting">Tournament Starting</string>
     <string name="Max_Tilt_Angle_3D_">Max Tilt Angle 3D:</string>
@@ -1257,7 +1257,7 @@
     <string name="Battle_Royale">Battle Royale</string>
     <string name="The_winner_will_receive_x_plasma_">The winner will receive %s plasma!</string>
     <string name="admin_commands">"
-コマンド:
+コマンド：
 !kick [0–31]
 !reset
 !welcome {message}
