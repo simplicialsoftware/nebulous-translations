@@ -9,7 +9,7 @@
     <string name="Buttons_">"الأزرار:"</string>
     <string name="DEFAULTS">"الإفتراضي"</string>
     <string name="WEEKLY">"الأسبوعي"</string>
-    <string name="DAILY">"اليومي"</string>
+    <string name="DAILY">"يومياً"</string>
     <string name="Server_">"السيرفر"</string>
     <string name="Game_Mode_">"نوع اللعبة"</string>
     <string name="Show_Names">"إظهار الأسماء"</string>
@@ -21,7 +21,7 @@
     <string name="Name_">"الإسم"</string>
 
     <string name="Loading___">"جاري التحميل…"</string>
-    <string name="Connecting___">"جاري الإتصال…"</string>
+    <string name="Connecting___">" إتصال…"</string>
 
     <string name="Are_You_Sure_">"هل أنت متأكد؟"</string>
     <string name="Yes">"نعم"</string>
@@ -1264,7 +1264,7 @@
     <string name="x4_XP_Permanent">4x نقاط خبرة دائِم.</string>
     <string name="x4_XP_24_hours">4x نقاط خبرة لمُدَّة 24 ساعة.</string>
     <string name="x4_XP_1_Hour">4x نقاط خبرة لمُدَّة ساعة.</string>
-    <string name="Quad">رُباعي</string>
+    <string name="Quad">رُباعية</string>
     <string name="Middle_East">الشرق الأوسَط</string>
     <string name="XP_4x">نقاط خبرة 4x</string>
     <string name="You_cannot_play_for_x_minutes_">لاتستطيع اللعب لمُدَّة %d دقيقة.</string>
@@ -1340,11 +1340,11 @@ Commands:
     <string name="FREE">مجانا</string>
     <string name="x5_Clan_XP_1_Day">مسرع العشيرةX5  لمدة يوم واحد </string>
     <string name="x5_Clan_XP_7_days">مسرع العشيرةX5  لمدة سبع ايام</string>
-    <string name="x5_Clan_XP_Perm">5X مسرع العشيرة دائم</string>
+    <string name="x5_Clan_XP_Perm">5X مسرع العشيرة الثابت</string>
     <string name="Quin">5X</string>
     <string name="x5_XP_1_Hour">  مسرع X5 لمدة ساعة</string>
     <string name="x5_XP_24_hours">مسرع X5 لمدة 24ساعة</string>
-    <string name="x5_XP_Permanent">مسرع دائم X5</string>
+    <string name="x5_XP_Permanent ">مسرع دائم X5</string>
     <string name="CAMPAIGN_2">حملة ضد الاَليين 2</string>
     <string name="India">الهند</string>
     <string name="Tutorial">الدورة التعليمية</string>
@@ -1374,8 +1374,8 @@ Commands:
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
-    <string name="Translator">يترجم</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="Translator">مترجم</string>
+    <string name="SUCCESS">تم بنجاح</string>
 
 
     <string-array name="control_modes">
