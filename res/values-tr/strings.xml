@@ -808,7 +808,7 @@
     <string name="Tournament_Registered">"Turnuva Kayıtı"</string>
     <string name="Tournament">"Turnuva"</string>
     <string name="TourneyDescription">"Turnuvada oynamak için kayıt yaptırman gerek. Turnuva başlamadan kaydını geri çekebilirsin ve kaydını geri çekersen plazman iade edilecektir. En az %d kişi olunca turnuva başlar."</string>
-    <string name="Register">"Kayıt olmak"</string>
+    <string name="Register">"Kayıt ol"</string>
 
     <string name="Registered">"Kayıt Yaptırıldı"</string>
     <string name="Not_Registered">"Kayıt Yaptırılmadı"</string>
@@ -1111,16 +1111,16 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Leave_blank_for_none_">"Ayarlamamak istiyorsan boş bırak."</string>
     <string name="Vote_Kick">"Oyuncuyu At"</string>
     <string name="FONT">"YAZI TİPİ"</string>
-    <string name="CIRCLE">"DAİRE"</string>
+    <string name="CIRCLE">"ÇEMBER"</string>
     <string name="SQUARES">"KARELER"</string>
     <string name="TRICK_MODE">"TRİCK MODU"</string>
-    <string name="ICE_SPLIT">"BUZ BÖLÜNME"</string>
+    <string name="ICE_SPLIT">"BUZLU BÖLÜNME"</string>
     <string name="TRICK_SPLIT">"TRİCK BÖLÜNME"</string>
-    <string name="POP_SPLIT">"POP BÖLÜNME"</string>
-    <string name="PUSH_SPLIT">"PUSH BÖLÜNME"</string>
+    <string name="POP_SPLIT">"PATLATAN BÖLÜNME"</string>
+    <string name="PUSH_SPLIT">"İTEN BÖLÜNME"</string>
     <string name="Level_Colors">"Seviye Renkleri"</string>
     <string name="click_info">"Autoclick / Hızlı yem atma Herkes Tek Klasik'te çalışmaz!"</string>
-    <string name="Hooked">"Kancalı"</string>
+    <string name="Hooked">"Kancalandı"</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">"10 saniye boyunca kanca büyüsü ile çekil"</string>
     <string name="Pack">"Paket"</string>
     <string name="Skin_Pack">"Cilt Paketi"</string>
