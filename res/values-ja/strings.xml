@@ -1139,7 +1139,7 @@
     <string name="Set_Skin">スキンを設定する</string>
     <string name="Primary">スキン1</string>
     <string name="Secondary">スキン2</string>
-    <string name="Both">両方スキン</string>
+    <string name="Both">両方</string>
 
     <string name="Enable__Multiskin">"マルチスキン\nを有効にする"</string>
     <string name="MULTISKIN">マルチスキン</string>
