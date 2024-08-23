@@ -1396,6 +1396,7 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
     <string name="You_are_already_friends_">Siz artıq dostsunuz.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Poçt göndərmək üçün hesab 1 günlük olmalıdır.</string>
     <string name="Translator">Tərcüməçi</string>
+    <string name="SUCCESS">Uğurla edildi</string>
 
 
     <string-array name="control_modes">

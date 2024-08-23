@@ -1309,7 +1309,8 @@ Commands:
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Είσαστε ήδη φίλοι.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Ο λογαριασμός πρέπει να είναι δημιουργημένος 1 μέρα πριν για να στείλει μήνυμσ</string>
-    <string name="Translator">Translator</string>  
+    <string name="Translator">Translator</string>
+    <string name="SUCCESS">SUCCESS</string>
     <string-array name="control_modes">
         <item>"Κανονικός"</item>
         <item>"Σχετικό"</item>

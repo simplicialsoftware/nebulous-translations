@@ -165,7 +165,7 @@
     <string name="Blobicide">"Blobicídio"</string>
     <string name="Blobtrocity">"Blobtrocidade"</string>
     <string name="Blobaccre">"Blobacre"</string>
-    <string name="Blobastrophe">"Blobástrofo"</string>
+    <string name="Blobastrophe">"Blobástrofe"</string>
     <string name="Blobihilation">"Blobiquilação"</string>
     <string name="Blobageddon">"Blobagedon"</string>
     <string name="Blobocalypse">"Blobocalipse"</string>
@@ -296,14 +296,14 @@
     <string name="A_clan_with_that_name_already_exists_">"Já existe um Clã com esse nome."</string>
     <string name="Duration_">"Duração:"</string>
 
-    <string name="FFA_Time_Domination">"FFA Tempo Dominação"</string>
-    <string name="Teams_Time_Domination">"Equipas Tempo  Dominação"</string>
-    <string name="CTF_Domination">"CAB Dominação"</string>
-    <string name="CTF_Hat_Trick">"CAB Hat-Trick"</string>
-    <string name="Survival_Domination">"Sobrevivênçia Dominação"</string>
+    <string name="FFA_Time_Domination">"Dominador do FFA Tempo"</string>
+    <string name="Teams_Time_Domination">"Dominador de Equipas Tempo"</string>
+    <string name="CTF_Domination">"Dominador do CAB"</string>
+    <string name="CTF_Hat_Trick">"Hat-Trick do CAB"</string>
+    <string name="Survival_Domination">"Dominador de Sobrevivência"</string>
     <string name="I_Will_Survive">"Eu Irei Sobreviver"</string>
-    <string name="Soccer_Domination">"Futebol Dominação"</string>
-    <string name="Soccer_Hat_Trick">"Futebol Hat-Trick"</string>
+    <string name="Soccer_Domination">"Dominador do Futebol"</string>
+    <string name="Soccer_Hat_Trick">"Hat-Trick do Futebol"</string>
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Vencer por 2 500 pontos num jogo FFA Tempo"</string>
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Vencer por 7 500 pontos num jogo de Equipas Tempo"</string>
     <string name="Win_by_3_points_in_a_CTF_game_">"Vencer por 3 pontos num jogo CAB"</string>
@@ -326,11 +326,11 @@
 
     <string name="COMPLETE">"COMPLETO"</string>
     <string name="INCOMPLETE">"INCOMPLETO"</string>
-    <string name="Win_a_FFA_Time_Game">"Vencer um jogo FFA Tempo"</string>
-    <string name="Win_a_CTF_Game">"Vencer um jogo CAB"</string>
+    <string name="Win_a_FFA_Time_Game">"Vencer um jogo de FFA Tempo"</string>
+    <string name="Win_a_CTF_Game">"Vencer um jogo de CAB"</string>
     <string name="Win_a_Soccer_Game">"Vencer um jogo de Futebol"</string>
     <string name="Win_a_Survival_Game">"Vencer um jogo de Sobrevivência"</string>
-    <string name="Win_a_Teams_Time_Game">"Vencer um jogo Equipas Tempo"</string>
+    <string name="Win_a_Teams_Time_Game">"Vencer um jogo de Equipas Tempo"</string>
     <string name="Reach_a_score_of_">"Atingir uma pontuação de "</string>
     <string name="_in_a_FFA_Game">" num jogo FFA"</string>
     <string name="_in_a_Teams_Game">" num Jogo de Equipas"</string>
@@ -343,7 +343,7 @@
 
 
     <string name="pumpkins_">"abóboras."</string>
-    <string name="To_use_this_skin_you_must_collect">"Para usar esta skin, tens de coletar"</string>
+    <string name="To_use_this_skin_you_must_collect">"Para utilizar esta skin, tens de coletar"</string>
     <string name="Australia">"Austrália"</string>
     <string name="Pumpkin_Collector">"Coletor de Abóboras"</string>
     <string name="Collect_1000_pumpkins_">"Coletar 1 000 abóboras"</string>
@@ -412,7 +412,7 @@
     <string name="Purchase_History">"Histórico de compras"</string>
 
     <string name="Purchases_Unavailable_">"Compras não disponíveis!"</string>
-    <string name="You_can_purchase_this_skin_for">"Podes comprar esta skin por "</string>
+    <string name="You_can_purchase_this_skin_for">"Podes comprar esta skin por"</string>
     <string name="PURCHASE">"COMPRAR"</string>
     <string name="Error_in_backup_data_">"Erro nos dados de backup!"</string>
 
@@ -502,7 +502,7 @@
     <string name="Win_100_Clan_Wars">"Vencer 100 Guerras de Clãs"</string>
     <string name="Clan_Commander">"Comandante do Clã"</string>
     <string name="Clan_General">"General do Clã"</string>
-    <string name="Clan_Wars_Won_">"Gerras de Clã vencidas:"</string>
+    <string name="Clan_Wars_Won_">"Guerras de Clãs vencidas:"</string>
     <string name="Arenas_Won_">"Arenas vencidas:"</string>
     <string name="Arena_Mode">"Modo Arena"</string>
     <string name="Connection_Lost">"Conexão perdida"</string>
@@ -528,8 +528,8 @@
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Este jogador não cumpre o requisito mínimo de nível para se juntar a este clã:"</string>
     <string name="Insufficient_Permission">"Permissões insuficientes"</string>
     <string name="DOMINATION">"DOMINAÇÃO"</string>
-    <string name="DOM_Domination">"Dominação Dominação"</string>
-    <string name="DOM_Hat_Trick">"Dominação Hat-Trick"</string>
+    <string name="DOM_Domination">"Dominador da Dominação"</string>
+    <string name="DOM_Hat_Trick">"Hat-Trick da Dominação"</string>
     <string name="Win_by_50_points_in_a_DOM_game_">"Vencer por 50 pontos um jogo de Dominação."</string>
     <string name="Score_33_points_in_a_single_DOM_game_">"Atingir 33 pontos num único jogo de Dominação"</string>
     <string name="Win_a_Domination_Game">"Vencer um jogo de Dominação"</string>
@@ -578,7 +578,7 @@
     <string name="You_dont_own_the_team_">"Não és o proprietário da Equipa:"</string>
     <string name="User_has_already_been_invited_">"Esse utilizador já foi convidado."</string>
     <string name="Maximum_players_allowed_on_the_team_">"Máximo de jogadores permitidos na equipa:"</string>
-    <string name="Name_is_already_in_use_">"Esse nome já está a ser utilizado."</string>
+    <string name="Name_is_already_in_use_">"Este nome já está a ser utilizado."</string>
     <string name="User_is_not_in_the_team_">"O utilizador não pertence à equipa."</string>
     <string name="You_are_not_invited_to_team_">"Não estás convidado para a equipa:"</string>
     <string name="Team_does_not_exist_">"A equipa não existe:"</string>
@@ -629,7 +629,7 @@
     <string name="Powerups_Used_">"Poderes utilizados:"</string>
     <string name="Power_Hungry">"Fome de Poderes"</string>
     <string name="Over_9000">"Mais de 9000"</string>
-    <string name="Omnipresence">"Onipresença"</string>
+    <string name="Omnipresence">"Omnipresença"</string>
 
     <string name="Shoot_9001_Powerups">"Atirar 9001 Poderes"</string>
     <string name="Teleport_100_Times">"Teletransportar 100 vezes"</string>
@@ -674,7 +674,7 @@
     <string name="Cancel_Invitation">"Anular convite"</string>
     <string name="DOWNLOAD">"TRANSFERIR"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"Rejeitar todos os pedidos de amizade?"</string>
-    <string name="suns_">"Sóis."</string>
+    <string name="suns_">"sóis."</string>
     <string name="Sun_Collector">"Coletor de Sóis</string>
     <string name="Sun_Hoarder">"Acumulador de Sóis"</string>
     <string name="Sun_Mogul">"Magnata de Sóis"</string>
@@ -683,7 +683,7 @@
     <string name="Collect_10_000_suns_">"Coletar 10 000 sóis"</string>
     <string name="Reward_Videos_">"Vídeos de recompensa!"</string>
     <string name="Free_Plasma_">"Plasma Grátis!"</string>
-    <string name="moons_">"Luas."</string>
+    <string name="moons_">"luas."</string>
     <string name="Moon_Collector">"Coletor de Luas"</string>
     <string name="Moon_Hoarder">"Acumulador de Luas"</string>
     <string name="Moon_Mogul">"Magnata de Luas"</string>
@@ -717,7 +717,7 @@
     <string name="Eject">"Ejetar"</string>
     <string name="Eject_Skin">"Skin de ejetar"</string>
     <string name="Double_Plasma__">"Plasma a dobrar!!"</string>
-    <string name="Ends">"Termina"</string>
+    <string name="Ends">"Termina em"</string>
     <string name="Select_Clan_Member">"Selecionar membro do Clã"</string>
     <string name="Inappropriate_Skin">"Skin inapropriada"</string>
     <string name="Approved">"Aprovado"</string>
@@ -784,7 +784,7 @@
     <string name="Failed_to_send_mail_">"Falha ao enviar e-mail."</string>
     <string name="In_Game_Mail">"Mail no Jogo"</string>
     <string name="Nav_Buttons_">"Botões de Nav.:"</string>
-    <string name="account_warning">"Nunca compartilha a tua palavra-passe da conta ou informações pessoais com ninguém por qualquer motivo!"</string>
+    <string name="account_warning">"Nunca compartilhes a tua palavra-passe da conta ou informações pessoais com ninguém por qualquer motivo!"</string>
     <string name="Clan_Hero">"Herói do Clã"</string>
     <string name="Win_1000_Clan_Wars">"Vencer 1 000 Guerras de Clãs"</string>
     <string name="NAME_COLOR">"COR DO NOME"</string>
@@ -1337,6 +1337,7 @@ Comandos:
     <string name="You_are_already_friends_">Vocês já são amigos.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">A conta tem de ter ao menos 1 dia de criação para enviar e-mails.</string>
     <string name="Translator">Tradutor</string>
+    <string name="SUCCESS">SUCCESS</string>
 
 
     <string-array name="control_modes">
