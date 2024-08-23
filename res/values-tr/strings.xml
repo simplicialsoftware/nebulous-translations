@@ -1426,3 +1426,25 @@ Oturum açmak istemiyorsanız, tek oyunculu oynamaya devam edebilirsiniz."
         <item>"Normal (8'e 8)"</item>
     </string-array>
 </resources>
+<STATISTICS>
+<string name="Max_XP_Chain">"Max XP Zinciri"</string>
+<string name="Dots_Eaten">"Toplanan Benek"</string>
+<string name="Blobs_Eaten">"Emilen Baloncuk"</string>
+<string name="Blobs_Lost">"Kaybedilen Baloncuk"</string>
+<string name="Mass_Gained">"Kazanılan Hacim"</string>
+<string name="Mass_Ejected">"Atılan Yem Hacmi"</string>
+<string name="Times_Ejected">"Atılan Yem"</string>
+<string name="Times_Split">"Toplam Bölünme"</string>
+<string name="Biggest_Blob">"En Büyük Baloncuk"</string>
+<string name="Highest_Score">"En Yüksek Puan"</string>
+<string name="Average_Score">"Puan Ortalaması"</string>
+<string name="Times_Played">"Toplam Oynama"</string>
+<string name="Longest_Life">"En Uzun Yaşam"</string>
+<string name="Games_Won">"Kazanılan Oyun"</string>
+<string name="Powerups_Used">"Kullanılan Powerups Sayısı"</string>
+<string name="Tricks_Performed">"Gerçekleştirilen Trickler"</string>
+<string name="Arenas_Won">"Kazanılan Arena"</string>
+<string name="Clan_Wars_Won">"Kazanılan Klan Savaşları"</string>
+<string name="Tournament_Matches_won">"Kazanılan Turnuva Maçları"</string>
+<string name="Challenges_Won">"Kazanılan Meydan Okuma Sayısı"</string>
+<string name="Times_Teleported">"Kullanılan Işınlanma Sayısı"</string>
