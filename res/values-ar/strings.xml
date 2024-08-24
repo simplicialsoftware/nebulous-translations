@@ -55,12 +55,12 @@
 
 
     <string name="SERVER">"سيرفر"</string>
-    <string name="Joining_game_in_">"الانضمام للعبة "</string>
+    <string name="Joining_game_in_">"الأنضمام للعبة "</string>
     <string name="Game_Full">"اللعبه ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
     <string name="Europe">"اوروبا"</string>
-    <string name="South_America">"امريكا الجنوبية"</string>
+    <string name="South_America">"أمريكا الجنوبية"</string>
 
 
     <string name="SINGLE_PLAYER">"لاعب واحد"</string>
@@ -1177,7 +1177,7 @@
     <string name="Enable_Profile_Colors">تفعيل الوان الخلفية</string>
     <string name="Session_Stats">احصائيات الجلسة</string>
     <string name="Time_">:الزمن</string>
-    <string name="Show_Session_Stats">إظهار احصائيات الموسم</string>
+    <string name="Show_Session_Stats">إظهار إحصائيات الموسم</string>
     <string name="VALENTINES_DAY">"يوم الحب"</string>
     <string name="Giveaways_">!هدايا</string>
     <string name="Max_XP_Chain_">:سلسلة الخبرة القصوى</string>
