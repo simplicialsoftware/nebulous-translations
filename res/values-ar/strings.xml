@@ -108,7 +108,7 @@
 
 
     <string name="FRIENDS">"صَـديـق"</string>
-    <string name="Warning">"تحذير"</string>
+    <string name="Warning">"تَحذير"</string>
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
     <string name="REQUEST_FRIEND">"إرسال طلب صداقة"</string>
@@ -174,7 +174,7 @@
     <string name="Expert_Nebulator">"لاعب خبير"</string>
     <string name="Master_Nebulator">"لاعب متدرب"</string>
     <string name="Grand_Master_Nebulator">"لاعب محترف"</string>
-    <string name="Impossible">"مستحيل"</string>
+    <string name="Impossible">"مُستحيل"</string>
 
     <string name="Perfection">"الإتقان"</string>
     <string name="Single_Handedly">"عمل فردي"</string>
@@ -294,7 +294,7 @@
     <string name="Other_user_is_not_a_member_of_your_clan_">"هذا المستخدم ليس عضو في عشيرتك:"</string>
     <string name="_You_can_t_be_your_own_friend_">"لا يمكنك أن تكون صديق لنفسك:"</string>
     <string name="A_clan_with_that_name_already_exists_">"عشيرة بهذا الإسم موجودة مسبقا:"</string>
-    <string name="Duration_">"المدة:"</string>
+    <string name="Duration_">"المُدة:"</string>
 
     <string name="FFA_Time_Domination">"سيطرة بالتوقيت"</string>
     <string name="Teams_Time_Domination">"السيطرة في الفرق بالتوقيت"</string>
@@ -343,7 +343,7 @@
 
 
     <string name="pumpkins_">"اليقطين."</string>
-    <string name="To_use_this_skin_you_must_collect">"لاستخدام هذه الصورة يجب عليك جمع"</string>
+    <string name="To_use_this_skin_you_must_collect">"لأستخدام هذه الصورة يجب عليك جمع"</string>
     <string name="Australia">"أستراليا"</string>
     <string name="Pumpkin_Collector">"جامع اليقطين"</string>
     <string name="Collect_1000_pumpkins_">"جمع 1000 يقطينة."</string>
@@ -406,7 +406,7 @@
 
 
     <string name="Arena">"تَحدي!"</string>
-    <string name="Enter_the_Arena">"دخول تحدي"</string>
+    <string name="Enter_the_Arena">"دخول تَحدي"</string>
 
 
     <string name="Purchase_History">"سِجِل المشتريات"</string>
