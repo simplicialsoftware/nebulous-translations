@@ -1236,8 +1236,8 @@
     <string name="You_Have_Mail_">Peyama te ji %s hat!</string>
     <string name="Clan_Request_Reviewed_Notification">Daxwaza te yê bihevkirinê klanê %s hate kontrolkirin!</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
-    <string name="Sold_Community_Skins_">"Skinên Komelî yên firotin: "</string>
-    <string name="Estimated_Earnings_">"Hesabkirîna Xercan: "</string>
+    <string name="Sold_Community_Skins_">"Skinên Komelî yên firotin:"</string>
+    <string name="Estimated_Earnings_">"Hesabkirîna Xercan:"</string>
     <string name="South_Africa">Afrîkaya Başûr</string>
     <string name="SPLIT_">PARÇE BİBE:</string>
     <string name="WALLS">Dîwaran</string>
@@ -1260,7 +1260,7 @@ FERMAN:
 !hidden ( veşartî )
 !guests ( temaşevanan )
 !slowchat ( Peyivînê hêdî )
-!pausechat (Peyivînê raweste)
+!pausechat ( Peyivînê raweste )
 !mute {id} ( bêdengî/bêdengiyê rakin )
 !admin {id ( gerînendêr )
 !allow {id} ( destûr bidin )
