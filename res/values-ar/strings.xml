@@ -2,9 +2,9 @@
     <string name="Players">"اللاعبين."</string>
     <string name="Control_">"التحكم"</string>
     <string name="CLOSE">"إغلاق"</string>
-    <string name="Stick_Size_">"حجم موجه الدائرة:"</string>
+    <string name="Stick_Size_">"حَجم موجه الدائرة:"</string>
     <string name="Stick_Margin_">"إرتفاع موجه الدائرة:"</string>
-    <string name="Button_Size_">"حجم الأزرار:"</string>
+    <string name="Button_Size_">"حَجم الأزرار:"</string>
     <string name="Button_Margin_">"إرتفاع الأزرار:"</string>
     <string name="Buttons_">"الأزرار:"</string>
     <string name="DEFAULTS">"الإفتراضي"</string>
@@ -23,11 +23,11 @@
     <string name="Loading___">"جاري التحميل…"</string>
     <string name="Connecting___">"جاري الإتصال…"</string>
 
-    <string name="Are_You_Sure_">"هل أنت متأكد؟"</string>
+    <string name="Are_You_Sure_">"هل أنت مُتأكد؟"</string>
     <string name="Yes">"نعم"</string>
     <string name="No">"لا"</string>
-    <string name="WAIT">"انتظر …"</string>
-    <string name="Must_Specify_Name_">"يجب تحديد الإسم."</string>
+    <string name="WAIT">"أنْتَظر …"</string>
+    <string name="Must_Specify_Name_">"يَجِبْ تحديد الإسم."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
 
@@ -36,7 +36,7 @@
     <string name="_Score_">" النقاط "</string>
     <string name="Score__">"النقاط: "</string>
     <string name="Recombine_">"إعادة التجميع: "</string>
-    <string name="WINNER_">"الفائز:"</string>
+    <string name="WINNER_">"ألفائِز:"</string>
     <string name="IDLE">"الخمول"</string>
     <string name="Name_Invalid_">"الإسم غير صالح !"</string>
     <string name="Name_Taken_">"الاسم مستعمل."</string>
@@ -48,14 +48,14 @@
     <string name="JOIN">"إنضم"</string>
 
 
-    <string name="Lobby_Name">"اسم السيرفر"</string>
+    <string name="Lobby_Name">"أسم السيرفر"</string>
     <string name="Not_found_">"لم يتم العثور عليه."</string>
 
-    <string name="Hidden">"مخفي"</string>
+    <string name="Hidden">"مَخفي"</string>
 
 
     <string name="SERVER">"سيرفر"</string>
-    <string name="Joining_game_in_">"الانضمام للعبة "</string>
+    <string name="Joining_game_in">"انضمام الى اللعبة "</string>
     <string name="Game_Full">"اللعبه ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
