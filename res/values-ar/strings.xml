@@ -1082,7 +1082,7 @@
 - الناس يستخدمون السلاح
 - إشارات فاحشة باليد"</string>
     <string name="PLAY_ONLINE_">اللعِب أونلاين !</string>
-    <string name="Absorb_10_000_000_dots">اجمع 10,000,000 نقطة</string>
+    <string name="Absorb_10_000_000_dots">إجمع 10,000,000 نقطة</string>
     <string name="Dot_Deity">آله النقاط</string>
     <string name="Mass_Mastery">السيطرة على الكتلة</string>
     <string name="Gain_100_000_000_mass">كسب 100,000,000 من الكتلة</string>
@@ -1147,7 +1147,7 @@
     <string name="Slow">بطئ</string>
     <string name="Rainbow">ثُقب مُلوَّن</string>
     <string name="Horizontal">أفقي</string>
-    <string name="Vertical">رأسي</string>
+    <string name="Vertical">أفقي</string>
     <string name="GROUP">مجموعة</string>
     <string name="LEAVE">غادر</string>
     <string name="Group">مجموعة</string>
