@@ -38,7 +38,7 @@
     <string name="Score__">"Skor:"</string>
     <string name="Recombine_">"Bergabung kembali:"</string>
     <string name="WINNER_">"PEMENANG:"</string>
-    <string name="IDLE">"IDLE"</string>
+    <string name="IDLE">"MENGANGGUR"</string>
     <string name="Name_Invalid_">"Nama tidak berlaku."</string>
     <string name="Name_Taken_">"Nama yang diambil."</string>
     <string name="CONNECTED">"TERHUBUNG"</string>
@@ -46,7 +46,7 @@
     <string name="PLAYING">"BERMAIN"</string>
     <string name="MULTIPLAYER">"MULTIPEMAIN"</string>
 
-    <string name="JOIN">"JOIN"</string>
+    <string name="JOIN">"BERGABUNG"</string>
     <string name="Lobby_Name">"Nama Lobi"</string>
     <string name="Not_found_">"Tidak ditemukan."</string>
     <string name="Hidden">"Tersembunyi"</string>
@@ -59,18 +59,18 @@
     <string name="South_America">"Amerika Selatan"</string>
     <string name="SINGLE_PLAYER">"PEMAIN TUNGGAL"</string>
     <string name="Background_">"Latar Belakang:"</string>
-    <string name="Difficulty_">"Difficulty:"</string>
+    <string name="Difficulty_">"Kesulitan:"</string>
     <string name="Delay_Disconnect">"Memperlambat Disconnect"</string>
     <string name="Max_Players">"Maks Pemain"</string>
     <string name="Min_Players">"Min Pemain"</string>
-    <string name="OK">"OK"</string>
+    <string name="OK">"OKE"</string>
     <string name="CANCEL">"BATAL"</string>
     <string name="Chat_Name">"Nama Chat"</string>
     <string name="Max_People">"Maks Pemain"</string>
     <string name="START">"MULAI"</string>
     <string name="CREATE">"BUAT"</string>
     <string name="CUSTOM_GAMES">"KUSTOM PERMAINAN"</string>
-    <string name="CHAT">"CHAT"</string>
+    <string name="CHAT">"MENGOBROL"</string>
     <string name="CUSTOM_SETUP">"KUSTOM PENGATURAN"</string>
     <string name="CHAT_SETUP">"PENGATURAN CHAT"</string>
     <string name="ACCOUNT">"AKUN"</string>
@@ -152,7 +152,7 @@
     <string name="Impossible">"Mustahil"</string>
     <string name="Perfection">"Kesempurnaan"</string>
     <string name="Single_Handedly">"Seorang diri"</string>
-    <string name="Dodgey">"Dodgey"</string>
+    <string name="Dodgey">"menghindar"</string>
     <string name="Self_Contained">"Serba lengkap"</string>
     <string name="Survivalist">"Bertahan Hidup"</string>
     <string name="Ultramassive">"Ultramassive"</string>
@@ -358,7 +358,7 @@
     <string name="Double">"Double"</string>
     <string name="Hour">"Jam"</string>
     <string name="Hours">"Jam"</string>
-    <string name="Triple">"Triple"</string>
+    <string name="Triple">"Tiga Kali Lipat"</string>
     <string name="Leaf_Hoarder">"Hoarder Daun"</string>
     <string name="Collect_5000_leaves_">"Mengumpulkan 5.000 Daun."</string>
     <string name="Arena">"Arena"</string>
