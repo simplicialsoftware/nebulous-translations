@@ -258,12 +258,12 @@
     <string name="SOCCER">"كرة القدم"</string>
     <string name="DRAW">"تعادل"</string>
 
-    <string name="Clan_Name">"اسم العشيرة"</string>
+    <string name="Clan_Name">"أسم العشيرة"</string>
     <string name="Clan">"العشيرة"</string>
 
 
     <string name="JOIN_CLAN">"انضم للعشيرة"</string>
-    <string name="JOIN_RANDOM_CLAN">"انضمام لعشيرة عشوائية"</string>
+    <string name="JOIN_RANDOM_CLAN">"أنضمام لعشيرة عشوائية"</string>
     <string name="LEAVE_CLAN">"الخروج من العشيرة"</string>
     <string name="INVITE_MEMBER">"دعوة لاعب"</string>
     <string name="REMOVE_MEMBER">"إزالة العضو"</string>
@@ -276,7 +276,7 @@
     <string name="ELDER">"نائب المشرف"</string>
 
 
-    <string name="Not_in_a_clan_">"انت لست عضواً في أي عشيرة."</string>
+    <string name="Not_in_a_clan_">"انت لست عضوًا في أي عشيرة."</string>
 
 
     <string name="CLAN">"العشيرة"</string>
@@ -313,13 +313,13 @@
     <string name="Win_by_8_points_in_a_Soccer_game_">"الفوز بـ 8 أهداف او اكثر في لعبة كرة القدم."</string>
     <string name="Score_3_goals_in_a_single_Soccer_game_">"تسجيل 3 أهداف في مباراة لكرة القدم واحدة."</string>
     <string name="Total_Domination">"إجمالي السيطرة"</string>
-    <string name="Win_500_games_of_any_type_">"الفوز بـ 500 لعبة من اي نوع."</string>
+    <string name="Win_500_games_of_any_type_">"الفوز بـ 500 لعبة من أي نوع."</string>
     <string name="Translations">"المـتـرجمـون"</string>
     <string name="Developers">"المـطـورون"</string>
     <string name="Special_Thanks">"شُـكـر خـاص"</string>
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"شُـكـر كـبـيـر لـكـل مـشـجـعي Nebulous!"</string>
     <string name="Color_Blind">"عمى الألوان"</string>
-    <string name="Daily_Quest_Complete_">"تم إنجاز المهمة اليومية !"</string>
+    <string name="Daily_Quest_Complete_">"تَم إنجاز المهمة اليومية !"</string>
     <string name="COPY_ID">"نسخ رقم الهوية"</string>
     <string name="My_Account_ID">"نسخ رقم هوية حسابي"</string>
 
