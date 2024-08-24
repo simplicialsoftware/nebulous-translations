@@ -100,7 +100,7 @@
     <string name="Information">"Bilgi"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Bu avatarı kullanmak için ilgili kazanımı edinmelisiniz."</string>
     <string name="To_use_this_skin_you_must_reach_level">"Bu avatarı kullanmak için erişmeniz gereken seviye"</string>
-    <string name="SIGN_IN">"GİRİŞ YAP"</string>
+    <string name="SIGN_IN">"KAYIT OLMAK"</string>
 
     <string name="Single_Player_Stats">"Tek Kişilik Oyun İstatistikleri"</string>
 
@@ -121,7 +121,7 @@
     <string name="This_player_is_not_signed_in">"Bu oyuncu giriş yapmamış."</string>
 
     <string name="Online">"Çevrim içi"</string>
-    <string name="Unknown">"Bilinmeyen"</string>
+    <string name="Unknown">"Bilinmiyor"</string>
     <string name="Offline">"Çevrim dışı"</string>
     <string name="Achievement_Earned">"Kazanım edinildi"</string>
     <string name="REFRESH">"YENİLE"</string>
@@ -132,7 +132,7 @@
     <string name="Global_" formatted="false">"Küresel %"</string>
     <string name="FRIEND_CHAT">"ARKADAŞINLA SOHBET"</string>
     <string name="LOBBY_NAME">"LOBİ ADI"</string>
-    <string name="NULL">"GEÇERSİZ"</string>
+    <string name="NULL">"HÜKÜMSÜZ"</string>
 
 
     <string name="ALL">"TÜMÜ"</string>
