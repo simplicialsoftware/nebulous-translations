@@ -778,7 +778,7 @@
     <string name="REPLY">"පිලිතුරු"</string>
     <string name="Delete_Message">"පණිවුඩය Delete"</string>
     <string name="BLOCK">"කුට්ටිය"</string>
-    <string name="DELETE">"DELETE"</string>
+    <string name="DELETE">"මකන්න"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"සටහන: ඔබ ඔවුන්ට මිතුරෙකු ඉල්ලීම යැවීම මගින් කෙනෙක් වාරණය කළ හැකිය."</string>
     <string name="Select_Friend">"මිතුරා තෝරන්න"</string>
     <string name="Failed_to_send_mail_">"තැපැල් යැවීමට නොහැකි විය."</string>
