@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"اللاعبين."</string>
-    <string name="Control_">"التحكم"</string>
+    <string name="Control_">"التحكّم"</string>
     <string name="CLOSE">"إغلاق"</string>
     <string name="Stick_Size_">"حجم موجه الدائرة:"</string>
     <string name="Stick_Margin_">"إرتفاع موجه الدائرة:"</string>
