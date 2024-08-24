@@ -60,7 +60,7 @@
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
     <string name="Europe">"اوروبا"</string>
-    <string name="South_America">"امريكا الجنوبية"</string>
+    <string name="South_America">"أمريكا الجنوبية"</string>
 
 
     <string name="SINGLE_PLAYER">"لاعب واحد"</string>
@@ -71,7 +71,7 @@
     <string name="Max_Players">"الحد الأقصى للاعبين"</string>
     <string name="Min_Players">"الحد الأدنى للاعبين"</string>
 
-    <string name="OK">"حسنا"</string>
+    <string name="OK">"حسنًا"</string>
     <string name="CANCEL">"إلغاء"</string>
     <string name="Chat_Name">"اسم الدردشة"</string>
     <string name="Max_People">"الحد الأقصى للناس"</string>
@@ -91,7 +91,7 @@
     <string name="Signed_in_as_">"تم تسجيل الدخول كـ:"</string>
     <string name="Not_signed_in_">"لم يتم تسجيل الدخول"</string>
     <string name="SET_NAME">"تحديد الإسم"</string>
-    <string name="SIGN_OUT">"تسجيل الخروج من الحساب"</string>
+    <string name="SIGN_OUT">"تسجيل خروج من الحساب"</string>
     <string name="ACHIEVEMENTS">"الإنجازات"</string>
     <string name="STATISTICS">"الإحصائيات"</string>
     <string name="XP_">"نقاط الخبرة:"</string>
@@ -99,7 +99,7 @@
     <string name="Information">"معلومات"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"لاستخدام هذه الصورة يجب أن تحقق الإنجاز"</string>
     <string name="To_use_this_skin_you_must_reach_level">"لاستخدام هذه الصورة يجب أن تصل إلى المستوى"</string>
-    <string name="SIGN_IN">"تسجيل الدخول"</string>
+    <string name="SIGN_IN">"تسجيل دخول"</string>
 
     <string name="Single_Player_Stats">"إحصائيات لاعب واحد"</string>
 
@@ -109,7 +109,7 @@
 
     <string name="FRIENDS">"صَـديـق"</string>
     <string name="Warning">"تحذير"</string>
-    <string name="SIGNING_IN">"تسجيل الدخول…"</string>
+    <string name="SIGNING_IN">"تسجيل دخول…"</string>
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
     <string name="REQUEST_FRIEND">"إرسال طلب صداقة"</string>
     <string name="Private">"خاص"</string>
@@ -164,17 +164,17 @@
 
     <string name="Blobicide">"قاتل الدوائر"</string>
     <string name="Blobtrocity">"مستبد الدوائر"</string>
-    <string name="Blobaccre">"مفترس الدوائر"</string>
-    <string name="Blobastrophe">"ملتهم الدوائر"</string>
-    <string name="Blobihilation">"مبيد الدوائر"</string>
+    <string name="Blobaccre">"مُفترس الدوائر"</string>
+    <string name="Blobastrophe">"مُلتهم الدوائر"</string>
+    <string name="Blobihilation">"مُبيد الدوائر"</string>
     <string name="Blobageddon">"ماسح الدوائر"</string>
-    <string name="Blobocalypse">"مدمر الدوائر"</string>
+    <string name="Blobocalypse">"مُدمر الدوائر"</string>
 
     <string name="Experienced_Nebulator">"لاعب متمرس"</string>
     <string name="Expert_Nebulator">"لاعب خبير"</string>
     <string name="Master_Nebulator">"لاعب متدرب"</string>
     <string name="Grand_Master_Nebulator">"لاعب محترف"</string>
-    <string name="Impossible">"مستحيل"</string>
+    <string name="Impossible">"مُستحيل"</string>
 
     <string name="Perfection">"الإتقان"</string>
     <string name="Single_Handedly">"عمل فردي"</string>
