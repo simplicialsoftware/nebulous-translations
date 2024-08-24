@@ -977,7 +977,7 @@
     <string name="Open_Present">فتح الهدية</string>
     <string name="OPEN">فتح</string>
     <string name="Halo">صورة حافة الدائرة</string>
-    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"لإستخدم حافة الدائرة هذه يجب ان تكون على الأقل في المستوى %1$s و الحصول على %2$s إنجاز."</string>
+    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"لإستخدام حافة الدائرة هذه يجب ان تكون على الأقل في المستوى %1$s و الحصول على %2$s إنجاز."</string>
     <string name="Halos">إظهار صور حافة الدائرة</string>
     <string name="CAMPAIGN">حملة ضد الآليين</string>
     <string name="Mission">المهمة</string>
@@ -1116,7 +1116,7 @@
     <string name="POP_SPLIT">إنقسام الانفجار</string>
     <string name="PUSH_SPLIT">إنقسام الدفع</string>
     <string name="Level_Colors">اللوان المستوى</string>
-    <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكيه!</string>
+    <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكية!</string>
     <string name="Hooked">مُعلَق</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">لقد علقت في خطاف لمدة 10ثواني</string>
     <string name="Pack">حزمة</string>
@@ -1193,11 +1193,11 @@
     <string name="DISABLED">الغاء التفعيل</string>
 
     <string name="Refund__Multiskin">استعادة نقودك /nMultiskin</string>
-    <string name="Invalid_Clan_ID_">اسم الكلان غير صالح</string>
+    <string name="Invalid_Clan_ID_">أسم الكلان غير صالح</string>
     <string name="MUTED">"حُظِر من الدَردَشة"</string>
     <string name="SKIN">سكن</string>
     <string name="Choose_Skin_Size">اختر حجم سكنك</string>
-    <string name="Other_players_will_not_be_able_to_hear_you_">لن يتمكن اللاعبين الاخرين من سماعك!</string>
+    <string name="Other_players_will_not_be_able_to_hear_you_">لن يتمكن اللاعبين الآخرين من سماعك!</string>
     <string name="Allow_permission_to_enable_voice_recording_">السماح بأذن لتمكين التسجيل الصوتي</string>
     <string name="voice_chat_prompt">للحصول على أفضل صوت أستخدم سماعة الرأس..</string>
     <string name="Only_leader_can_answer_requests_">"فَقط القائد يستطيع قبول الطلبات</string>
@@ -1216,7 +1216,7 @@
     <string name="RECEIVE_PLASMA">تلقي البلازما</string>
     <string name="MULTIBLOB">مُتعددة النُسَخ</string>
     <string name="Play_Nebulous_For_1_Year_">ألعب نيبلوس لمُدَّة 1 سنة!</string>
-    <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سنة!</string>
+    <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سَنة!</string>
     <string name="Starting___">بدء…</string>
     <string name="Tournament_Starting">البُطولة بدأءت</string>
     <string name="Max_Tilt_Angle_3D_">زاوية الميل القصوى ثلاثي الأبعاد</string>
