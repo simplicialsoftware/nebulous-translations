@@ -849,7 +849,7 @@
     <string name="Ultraclick_1_Hour">مُسرع الضَغط الفائق لمُدة ساعة.</string>
     <string name="Ultraclick">مسرع الضغط الفائق</string>
     <string name="May_Reduce_Lag">(قد يكون هناك القليل من التأخير)</string>
-    <string name="Ultraclick_Permanent">"مسرع الضغط الفائق الدائم"</string>
+    <string name="Ultraclick_Permanent">"مسرع الضغط 7 just الدائم"</string>
     <string name="Autoclick_Permanent">"مسرع الضغط الدائم"</string>
     <string name="x3_XP_Permanent">"مسرع نقاط الخبرة x3 الدائم"</string>
     <string name="x2_XP_Permanent">"مسرع نقاط الخبرة x2 الدائم"</string>
@@ -1303,7 +1303,7 @@
     <string name="BATTLE_ROYALE">صراع حتى النهاية!</string>
     <string name="Battle_Royale">صِراع حتى النهاية!</string>
     <string name="The_winner_will_receive_x_plasma_">الفائِز سوف يَحصُل على %s بلازما!</string>
-    <string name="admin_commands">"
+    <string name="admin_commands"> أوامر الادمن<"
 Commands:
 !kick [0–31]
 !reset
