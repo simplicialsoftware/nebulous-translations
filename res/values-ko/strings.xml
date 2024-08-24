@@ -457,6 +457,10 @@
     <string name="Send_Message">"메세지 보내기"</string>
     <string name="Account_ID">"계정 ID"</string>
     <string name="Player_Name">"플레이어 이름"</string>
+    <string name="Arena History">"아레나 전적"</string>
+    <string name="Set Profile Pic">"프로필 사진 설정"</string>
+    <string name="Set Privacy">"공개범위 설정"</string>
+	
 
     <string name="Daily_Reward">"일일 보상"</string>
     <string name="Reset">"재설정"</string>
