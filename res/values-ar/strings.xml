@@ -1303,7 +1303,7 @@
     <string name="BATTLE_ROYALE">صراع حتى النهاية!</string>
     <string name="Battle_Royale">صِراع حتى النهاية!</string>
     <string name="The_winner_will_receive_x_plasma_">الفائِز سوف يَحصُل على %s بلازما!</string>
-    <string name="admin_commands">"
+    <string name="admin_commands">أوامر المشرف "
 Commands:
 !kick [0–31]
 !reset
