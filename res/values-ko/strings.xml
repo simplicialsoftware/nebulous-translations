@@ -1376,7 +1376,7 @@ Nebulous 규칙\n
 
 로그인하고 싶지 않다면, 싱글 플레이어 모드로도 게임을 할 수 있습니다."
     </string>
-    <string name="_2x_skin_resolution">이배 스킨 해상도</string>
+    <string name="_2x_skin_resolution">2배 스킨 해상도</string>
     <string name="pm">귓속말</string>
     <string name="You_are_already_friends_">당신은 이미 친구입니다.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">메일을 보내려면 계정이 최소 하루 이상 경과해야 합니다.</string>
