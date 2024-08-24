@@ -1023,7 +1023,7 @@
     <string name="POSITION_EJECT_BUTTON">POSITION EJECT BUTTON</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">POSITION EJECT TOGGLE BUTTON</string>
     <string name="WIFI">WIFI</string>
-    <string name="JOIN_IP">JOIN_IP"</string>
+    <string name="JOIN_IP">HAT_IP"</string>
     <string name="Specify_Host_IP">Specify Host IP</string>
     <string name="ADVANCED_SETUP">ADVANCED SETUP</string>
     <string name="WORLD_CUP_EVENT___">WORLD CUP EVENT!!!</string>
@@ -1248,8 +1248,8 @@
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
     <string name="Win_a_Battle_Royale_">Battle Royale qezenc bikin.</string>
     <string name="Battle_">ŞER!</string>
-    <string name="BATTLE_ROYALE">Şerê mezin</string>
-    <string name="Battle_Royale">Şerê mezin</string>
+    <string name="BATTLE_ROYALE">ŞERE MEZIN</string>
+    <string name="Battle_Royale">Şerê Mezin</string>
     <string name="The_winner_will_receive_x_plasma_">Serketî dê %s plasma bistîne!!</string>
     <string name="admin_commands">"
 FERMAN:
