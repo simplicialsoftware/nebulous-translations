@@ -26,7 +26,7 @@
     <string name="Are_You_Sure_">"هل أنت متأكد؟"</string>
     <string name="Yes">"نعم"</string>
     <string name="No">"لا"</string>
-    <string name="WAIT">"انتظر …"</string>
+    <string name="WAIT">"أنتظر …"</string>
     <string name="Must_Specify_Name_">"يجب تحديد الإسم."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
@@ -48,7 +48,7 @@
     <string name="JOIN">"إنضم"</string>
 
 
-    <string name="Lobby_Name">"اسم السيرفر"</string>
+    <string name="Lobby_Name">"أسم السيرفر"</string>
     <string name="Not_found_">"لم يتم العثور عليه."</string>
 
     <string name="Hidden">"مخفي"</string>
@@ -263,7 +263,7 @@
 
 
     <string name="JOIN_CLAN">"انضم للعشيرة"</string>
-    <string name="JOIN_RANDOM_CLAN">"انضمام لعشيرة عشوائية"</string>
+    <string name="JOIN_RANDOM_CLAN">"أنضمام الى عشيرة عشوائية"</string>
     <string name="LEAVE_CLAN">"الخروج من العشيرة"</string>
     <string name="INVITE_MEMBER">"دعوة لاعب"</string>
     <string name="REMOVE_MEMBER">"إزالة العضو"</string>
