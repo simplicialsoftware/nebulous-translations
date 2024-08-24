@@ -394,14 +394,14 @@
     <string name="leaves_">"الأوراق."</string>
     <string name="Leaf_Collector">"جامع الأوراق"</string>
     <string name="Collect_1000_leaves_">"جمع 1000 من الأوراق."</string>
-    <string name="XP_Boost">"مسرع نقاط الخبرة"</string>
-    <string name="Double">"مزدوج"</string>
-    <string name="Hour">"ساعة"</string>
-    <string name="Hours">"ساعات"</string>
+    <string name="XP_Boost">"مُسرع نقاط الخبرة"</string>
+    <string name="Double">"مُزدوج"</string>
+    <string name="Hour">"سَاعة"</string>
+    <string name="Hours">"سَاعات"</string>
 
 
-    <string name="Triple">"ثلاثي"</string>
-    <string name="Leaf_Hoarder">"مكدس الأوراق"</string>
+    <string name="Triple">"ثُلاثي"</string>
+    <string name="Leaf_Hoarder">"مُكدس الأوراق"</string>
     <string name="Collect_5000_leaves_">"جمع 5000من الأوراق."</string>
 
 
@@ -454,14 +454,14 @@
     <string name="View_Profile">"عرض الصفحة الشخصية"</string>
     <string name="Send_Message">"إرسال رسالة"</string>
     <string name="Account_ID">"رقم هوية الحساب"</string>
-    <string name="Player_Name">"اسم اللاعب"</string>
+    <string name="Player_Name">"أسم اللاعب"</string>
 
     <string name="Daily_Reward">"المكافأة اليومية"</string>
     <string name="Reset">"إعادة تعيين"</string>
     <string name="Plasma">"بلازما"</string>
     <string name="Plasma_Mogul">"ملك البلازما"</string>
     <string name="Plasma_Collector">"جامع البلازما"</string>
-    <string name="Plasma_Hoarder">"مكدس البلازما"</string>
+    <string name="Plasma_Hoarder">"مُكدس البلازما"</string>
     <string name="Collect_1_000_Plasma">"جمع 1000 من البلازما."</string>
     <string name="Collect_10_000_Plasma_">"جمع 10000 من البلازما."</string>
     <string name="Collect_100_000_Plasma">"جمع 100،000 من البلازما."</string>
