@@ -132,7 +132,7 @@
     <string name="Global_" formatted="false">"Küresel %"</string>
     <string name="FRIEND_CHAT">"ARKADAŞINLA SOHBET"</string>
     <string name="LOBBY_NAME">"LOBİ ADI"</string>
-    <string name="NULL">"HÜKÜMSÜZ"</string>
+    <string name="NULL">"GEÇERSİZ"</string>
 
 
     <string name="ALL">"TÜMÜ"</string>
@@ -596,10 +596,10 @@
     <string name="Rejoin_Game">"Oyuna Yeniden Gir"</string>
     <string name="PRIZES">"ÖDÜLLER "</string>
 
-    <string name="Enable_Custom_Skin">"Özel Avatarı Etkinleştir"</string>
-    <string name="Use_Custom_Skin">"Özel Avatar kullanmak"</string>
-    <string name="custom_skin_description">"Bu özellik sizin profil resminizi veya bir dosyayı avatar olarak kullanabilmenizi sağlar. Ancak bu özellik sadece sizin gördüğünüz avatarı değiştirir. Diğer oyuncular sizin özel avatarınızı göremez."</string>
-    <string name="CUSTOM_SKIN">"ÖZEL AVATAR"</string>
+    <string name="Enable_Custom_Skin">"Özel Cildi Etkinleştir"</string>
+    <string name="Use_Custom_Skin">"Özel Cilt Kullan"</string>
+    <string name="custom_skin_description">"Bu özellik sizin profil resminizi veya bir dosyayı cilt olarak kullanabilmenizi sağlar. Ancak bu özellik sadece sizin gördüğünüz cildi değiştirir. Diğer oyuncular sizin özel cildinizi göremez."</string>
+    <string name="CUSTOM_SKIN">"ÖZEL CİLT"</string>
 
     <string name="Facebook_Profile">"Facebook profili"</string>
     <string name="You_must_be_signed_in_to_Facebook_">"Facebook'ta oturum açmış olmanız gerekiyor."</string>
@@ -619,8 +619,8 @@
     <string name="Collect_1_000_eggs_">"1,000 adet yumurta topla."</string>
     <string name="Collect_5_000_eggs_">"5,000 adet yumurta topla. "</string>
     <string name="Collect_10_000_eggs_">"10,000 adet yumurta topla."</string>
-    <string name="HISTORY">"GEÇMİŞ"</string>
-    <string name="CLAN_HISTORY">"KLAN GEÇMİŞİ"</string>
+    <string name="HISTORY">"TARİH"</string>
+    <string name="CLAN_HISTORY">"KLAN TARİHİ"</string>
 
 
     <string name="Love_Nebulous_">"Nebulous'u Sevdiniz Mi?"</string>
@@ -734,8 +734,8 @@
     <string name="Account_Uploads">"Hesap Yüklemeleri"</string>
     <string name="Clan_Uploads">"Klan Yüklemeleri"</string>
     <string name="Empty">"Boş"</string>
-    <string name="Select">"Seçmek"</string>
-    <string name="Current_Skin">"Güncel Avatar"</string>
+    <string name="Select">"Seç"</string>
+    <string name="Current_Skin">"Güncel Cilt"</string>
     <string name="Status">"Durum"</string>
     <string name="upload_size_failure">"Dosya çok büyük olduğu için bu resimi yükleyemezsiniz. Farklı bir resim deneyin."</string>
     <string name="CONTRIBUTE_PLASMA">"PLAZMA KATKISI YAP"</string>
@@ -743,26 +743,26 @@
     <string name="Clan_Contribution">"Klan Katkısı"</string>
     <string name="FILTER">"FİLTRE"</string>
     <string name="List_Count_">"Liste Sayısı:"</string>
-    <string name="Download_Skins">"Avatar İndir"</string>
+    <string name="Download_Skins">"Cilt İndir"</string>
     <string name="ARENA_HISTORY">"ARENA TARİHİ"</string>
     <string name="WIN">"KAZANMAK"</string>
     <string name="LOSS">"KAYBETMEK"</string>
-    <string name="Other_players_can_not_see_your_skin_">"Diğer oyuncular Avatarınızı (Skin) göremez."</string>
-    <string name="Other_players_can_see_your_skin_">"Diğer oyuncular Avatarınızı (Skin) görebilir."</string>
+    <string name="Other_players_can_not_see_your_skin_">"Diğer oyuncular Cildinizi (Skin) göremez."</string>
+    <string name="Other_players_can_see_your_skin_">"Diğer oyuncular Cildinizi (Skin) görebilir."</string>
     <string name="LEGEND">"EFSANE"</string>
     <string name="Win_10000_Arenas">"10.000 adet Arena oyunu kazanın."</string>
     <string name="UPLOAD_PREVIEW">"YÜKLEME ÖNİZLEMESİ"</string>
     <string name="Transparency">"Opaklık"</string>
     <string name="upload_info">"Opaklık veya basit resimler ile daha kaliteli görüntü elde edebilirsiniz."</string>
     <string name="Compression_Quality_">"Sıkıştırma Kalitesi:"</string>
-    <string name="inapproriate_info">"Uygunsuz avatarlar : cinsel, nefret, kan pıhtısı, müstehcenlik, şiddet, uyuşturucu, seks, çıplaklık, tam vücut Selfie'ler, bilinmezlik, anlaşılmayan ve değiştirilmeyen Nebulous avatarlarıdır."</string>
-    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Bu avatarı yüklemek istediğinizden emin misiniz?"</string>
+    <string name="inapproriate_info">"Uygunsuz ciltler : cinsel, nefret, kan pıhtısı, müstehcenlik, şiddet, uyuşturucu, seks, çıplaklık, tam vücut Selfie'ler, bilinmezlik, anlaşılmayan ve değiştirilmeyen Nebulous ciltleridir."</string>
+    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Bu cildi yüklemek istediğinizden emin misiniz?"</string>
     <string name="Grant_Permission">"İzin ver"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous tek oyunculu kaydınızı depolamak için depolama izini gerektiriyor!"</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous'un yakındaki Bluetooth cihazlarını bulması için Konum izinlerini vermeniz gerek."</string>
-    <string name="FFA_ULTRA">"ULTRA FFA"</string>
-    <string name="FFAU">"FFAU"</string>
-    <string name="_in_a_FFAU_Game">"Bir ULTRA FFA Oyununda"</string>
+    <string name="FFA_ULTRA">"HERKES TEK ULTRA"</string>
+    <string name="FFAU">"HERKES TEK U"</string>
+    <string name="_in_a_FFAU_Game">"Bir HERKES TEK ULTRA Oyununda"</string>
 
     <string name="BANNED_PLAYERS">"YASAKLANMIŞ OYUNCULAR"</string>
     <string name="MAIL">"POSTA"</string>
@@ -808,7 +808,7 @@
     <string name="Tournament_Registered">"Turnuva Kayıtı"</string>
     <string name="Tournament">"Turnuva"</string>
     <string name="TourneyDescription">"Turnuvada oynamak için kayıt yaptırman gerek. Turnuva başlamadan kaydını geri çekebilirsin ve kaydını geri çekersen plazman iade edilecektir. En az %d kişi olunca turnuva başlar."</string>
-    <string name="Register">"Kayıt olmak"</string>
+    <string name="Register">"Kayıt ol"</string>
 
     <string name="Registered">"Kayıt Yaptırıldı"</string>
     <string name="Not_Registered">"Kayıt Yaptırılmadı"</string>
@@ -1103,7 +1103,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Manage_Configurations">"Yapılandırmaları Yönet"</string>
     <string name="Leave_blank_for_all_uploaders_">"Tüm Yüklemeleri Görmek İçin Boş Bırakın."</string>
     <string name="More___">"Daha Fazla…"</string>
-    <string name="This_cannot_be_used_in_FFA_Classic_">"Bu FFA Klasik'te kullanılamaz."</string>
+    <string name="This_cannot_be_used_in_FFA_Classic_">"Bu HERKES TEK Klasik'te kullanılamaz."</string>
     <string name="ENEMY">"DÜŞMAN"</string>
     <string name="ALLY">"MÜTTEFİK"</string>
     <string name="Rename">"Yeniden adlandır"</string>
@@ -1111,16 +1111,16 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Leave_blank_for_none_">"Ayarlamamak istiyorsan boş bırak."</string>
     <string name="Vote_Kick">"Oyuncuyu At"</string>
     <string name="FONT">"YAZI TİPİ"</string>
-    <string name="CIRCLE">"DAİRE"</string>
+    <string name="CIRCLE">"ÇEMBER"</string>
     <string name="SQUARES">"KARELER"</string>
     <string name="TRICK_MODE">"TRİCK MODU"</string>
-    <string name="ICE_SPLIT">"BUZ BÖLÜNME"</string>
+    <string name="ICE_SPLIT">"BUZLU BÖLÜNME"</string>
     <string name="TRICK_SPLIT">"TRİCK BÖLÜNME"</string>
-    <string name="POP_SPLIT">"POP BÖLÜNME"</string>
-    <string name="PUSH_SPLIT">"PUSH BÖLÜNME"</string>
+    <string name="POP_SPLIT">"PATLATAN BÖLÜNME"</string>
+    <string name="PUSH_SPLIT">"İTEN BÖLÜNME"</string>
     <string name="Level_Colors">"Seviye Renkleri"</string>
     <string name="click_info">"Autoclick / Hızlı yem atma Herkes Tek Klasik'te çalışmaz!"</string>
-    <string name="Hooked">"Kancalı"</string>
+    <string name="Hooked">"Kancalandı"</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">"10 saniye boyunca kanca büyüsü ile çekil"</string>
     <string name="Pack">"Paket"</string>
     <string name="Skin_Pack">"Cilt Paketi"</string>
@@ -1186,6 +1186,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Max_XP_Chain_">"Max XP Zinciri:"</string>
     <string name="POSITION_CANCEL_BUTTON">"İPTAL DÜĞMESİ KONUMU"</string>
     <string name="INVISIBILITY">"GÖRÜNMEZLİK"</string>
+    <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Bu cildi tek bir oyun için deneyebilirsiniz. Yeniden başlattıktan veya değiştirdikten sonra kaybolacaktır. Bir görünümü denediğinde onu senden başka kimse göremez.\nFiyat: %s plazma.</string>
     <string name="Set_Skin">"Cilt Ayarla"</string>
     <string name="Primary">"Birincil"</string>
     <string name="Secondary">"İkincil"</string>
@@ -1256,6 +1257,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="HERO">"KAHRAMAN"</string>
     <string name="CHAMPION">"ŞAMPİYON"</string>
     <string name="DASH">"İleri Atılma"</string>
+    <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">"Cihazınızın sunucuyla bağlantısı zayıf. Bu gecikmeye neden olabilir. Lütfen wifi veya cep telefonu hizmetinizi kontrol edin veya farklı bir internet bağlantısı deneyin. Ayrıca size en yakın sunucuda oynadığınızdan emin olun."</string>
     <string name="setting_changed">"Ayarlar güncellendi. Etkinleşmesi için sunucuya yeniden bağlanmanız gerekebilir."</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">"Toplam 10.000 Trick sayısına ulaşın."</string>
     <string name="Tricky">"TRICKY"</string>
@@ -1287,19 +1289,29 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Plain_Score_Text">"Sade Skor Metni"</string>
     <string name="Custom_Skin_Reviewed_Notification">Özel Skininiz İncelendi!</string>
     <string name="You_Have_Mail_">"%s Kişisinden Gelen Postalarınız Var!"</string>
+    <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">"Bu modda XP veya Plazma Kazanılmaz!"</string>
     <string name="Clan_Request_Reviewed_Notification">"Klana Katılım Talebiniz %s Gözden Geçirildi!"</string>
     <string name="CRAZY_SPLIT">"ÇILGIN BÖLÜNME 32x"</string>
     <string name="Sold_Community_Skins_">"Satılan Topluluk Skinleri: "</string>
     <string name="Estimated_Earnings_">"Tahmini Kazanç: "</string>
     <string name="South_Africa">"Güney Afrika"</string>
     <string name="SPLIT_">"BÖLÜNME:"</string>
+    <string name="mother_cell" translatable="true" tools:ignore="Untranslatable">"Ana Hücre"</string>
+    <string name="collect_all" translatable="true" tools:ignore="Untranslatable">"Hepsini Topla"</string>
+    <string name="magic_blob" translatable="true" tools:ignore="Untranslatable">"Sihirli Baloncuk"</string>
+    <string name="ice_split" translatable="true" tools:ignore="Untranslatable">"Buzlu Bölünme"</string>
+    <string name="circle" translatable="true" tools:ignore="Untranslatable">"Çember"</string>
+    <string name="mega_pop" translatable="true" tools:ignore="Untranslatable">"Büyük Patlama"</string>
+    <string name="no_virus" translatable="true" tools:ignore="Untranslatable">"Diken Yok"</string>
+    <string name="plasma_hunt" translatable="true" tools:ignore="Untranslatable">"Plazma Avı"</string>
+    <string name="speed" translatable="true" tools:ignore="Untranslatable">"Hız"</string>
     <string name="WALLS">"DUVARLAR"</string>
     <string name="COMP_BANNED">"REKABET YASAĞI"</string>
     <string name="FIND_GAMES">"Oyun Bul"</string>
     <string name="PLAY_SOLO">"Tek oyna"</string>
     <string name="SET_EMOTE">"EMOJİ AYARLA"</string>
     <string name="Winner_Winner_Chicken_Dinner">"Hadi İyisin, Çorba Parası Çıktı"</string>
-    <string name="Win_a_Battle_Royale_">"Bir Battle Royale maçı kazan"</string>
+    <string name="Win_a_Battle_Royale_">"Bir Savaş Royale maçı kazan"</string>
     <string name="Battle_">"Savaş!"</string>
     <string name="BATTLE_ROYALE">"SAVAŞ ROYALE"</string>
     <string name="Battle_Royale">"Savaş Royale"</string>
@@ -1321,13 +1333,13 @@ Komutlar:
 !team {id} 1-2-3 (Yalnızca takımlı modlar)
 </string>
     <string name="ID_Sort">"ID Sırala"</string>
-    <string name="Master_Tamer">"Master Evcilleştirici"</string>
+    <string name="Master_Tamer">"Usta Evcilleştirici"</string>
     <string name="Get_ALL_Pets_To_Level_100_">"Tüm Evcil Hayvanları 100 seviye yap"</string>
     <string name="TAMER">"EVCİLLEŞTİRİCİ"</string>
     <string name="Allow_Recombine">"Yeniden birleşmeye izin ver"</string>
     <string name="Defenders">"Koruyucular"</string>
     <string name="Attackers">"Saldıranlar"</string>
-    <string name="MEGA_SPLIT">"MEGA BÖLÜNME 64x"</string>
+    <string name="MEGA_SPLIT">"BÜYÜK BÖLÜNME 64x"</string>
     <string name="Missing_Permissions">"İzinler Yetersiz"</string>
     <string name="DELETE_ACCOUNT">"HESABI SİL"</string>
     <string name="delete_prompt">"Hesabınızı silmek istediğinizden emin misiniz? Bu KALICIDIR ve GERİ ALINAMAZ"</string>
@@ -1376,7 +1388,7 @@ Oturum açmak istemiyorsanız, tek oyunculu oynamaya devam edebilirsiniz."
     <string name="You_are_already_friends_">Siz zaten arkadaşsınız.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Posta gönderebilmek için hesabın en az 1 günlük olması gerekir.</string>
     <string name="Translator">Çevirmen</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">BAŞARI</string>
 
     <string-array name="control_modes">
         <item>"Normal"</item>
