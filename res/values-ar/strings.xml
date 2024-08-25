@@ -1204,7 +1204,8 @@
     <string name="Sent_request_not_invited_">تم ارسال طلبك (لست مدعو).</string>
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">أحذف السكن من المُجتمع!</string>
     <string name="This_cannot_be_undone_">هذه لا يمكن التراجع عنها.!</string>
-    <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">شاهد فيديو للحصول على مكافآة  %d مؤقتة!</string>
+    <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">شاهد فيديو للحصول على 
+مكافأة   %d مؤقتة!</string>
     <string name="WATCH_VIDEO_">شاهد فيديو!</string>
     <string name="PERMANENT_BOOSTS">مسرع دائم</string>
     <string name="Video_failed_to_load_">فشل تحميل الفيديو!</string>
