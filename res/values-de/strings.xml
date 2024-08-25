@@ -539,7 +539,7 @@
     <string name="CLAN_INVITE">"Clan Einladung senden"</string>
     <string name="TEAM_INVITE">"Team Einladung senden"</string>
     <string name="Team_Size">"Teamgröße"</string>
-    <string name="Team_Name">"Teamname"</string>
+    <string name="Team_Name">"Team Name"</string>
     <string name="CREATE_TEAM">"Team erstellen"</string>
     <string name="Solo">"Solo"</string>
     <string name="Teams">"TEAMS"</string>
@@ -672,7 +672,7 @@
     <string name="Incompatible_versions_">"Inkompatible Versionen."</string>
     <string name="Update_Available_">"Ein neues Update ist verfügbar!"</string>
     <string name="VIEW_INVITES">"Einladungen"</string>
-    <string name="CLAN_INVITES">"Claneinladungen"</string>
+    <string name="CLAN_INVITES">"Clan Einladungen"</string>
     <string name="Cancel_Invitation">"Einladung stornieren"</string>
     <string name="DOWNLOAD">"Herunterladen"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"ALLE Freundschaftseinladungen ablehnen?"</string>
@@ -1183,7 +1183,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Specify_amount_">Menge angeben:</string>
     <string name="Specify_amount_again_to_confirm_">Menge erneut angeben um es zu bestätigen:</string>
     <string name="Amounts_did_not_match_">Mengen stimmen nicht überein!</string>
-    <string name="RECEIVE_PLASMA">PLASMA ERHALTEN:</string>
+    <string name="RECEIVE_PLASMA">ERHALTE PLASMA</string>
     <string name="MULTIBLOB">MULTIBLOB</string>
     <string name="Play_Nebulous_For_1_Year_">Spiele Nebulous für 1 Jahr!</string>
     <string name="Play_Nebulous_For_X_Years_">Spiele Nebulous für %d Jahre!</string>
