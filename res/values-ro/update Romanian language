@@ -830,7 +830,7 @@
     <string name="Tuber">"Tuber"</string>
     <string name="youtube_prompt">"Doriți să vizitați acest canal de YouTube? Aceste canale nu sunt afiliate cu creatorii Nebulous."</string>
     <string name="Tournament_Matches_Won_">"Meciuri Câştigate în Turnee:"</string>
-    <string name="PAINT">"PAINT"</string>
+    <string name="PAINT">"VOPSEA"</string>
     <string name="BLOCKED_ACCOUNTS">"CONTURI BLOCATE"</string>
     <string name="UNBLOCK">"DEBLOCAȚI"</string>
     <string name="Emotes">"Emoții"</string>
@@ -1276,10 +1276,10 @@ Comenzi:
     <string name="TAMER">TAMER</string>
     <string name="Allow_Recombine">Allow Recombine</string>
     <string name="Defenders">Defenders</string>
-    <string name="Attackers">Attackers</string>
+    <string name="Attackers">Atacatori</string>
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Missing Permissions</string>
-    <string name="DELETE_ACCOUNT">DELETE ACCOUNT</string>
+    <string name="DELETE_ACCOUNT">ȘTERGEȚI CONT</string>
     <string name="delete_prompt">Are you sure you want to delete your account? This is PERMANENT and CANNOT BE UNDONE!</string>
 
 
