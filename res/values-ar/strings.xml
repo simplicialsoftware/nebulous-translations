@@ -1142,7 +1142,7 @@
     <string name="Asia">آسيا</string>
     <string name="SET_PRIVACY">ضبط الخصوصية</string>
     <string name="ANIMATION">رسوم مُتحركة</string>
-    <string name="Color_Cycle">درة الألوان</string>
+    <string name="Color_Cycle">دورة الألوان</string>
     <string name="Fast">سريع</string>
     <string name="Slow">بطئ</string>
     <string name="Rainbow">ثُقب مُلوَّن</string>
@@ -1167,7 +1167,7 @@
     <string name="Requests">الطلبات</string>
     <string name="Invites">الدعوات</string>
     <string name="Show_Spectator_Count">إظهار عداد المشاهدة</string>
-    <string name="TRY_IT_">جربه</string>
+    <string name="TRY_IT_">تجربة</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">تحتاج لشراء حزمه لتستخدم هذه</string>
     <string name="GET_PACK">العودة للوراء</string>
     <string name="Position_in_queue">الموضع في قائمة الأنتظار</string>
@@ -1176,9 +1176,9 @@
     <string name="Textures_will_be_regenerated_">سيتم تجديد القوام الأسود والأشكال المخصصة</string>
     <string name="Enable_Profile_Colors">تفعيل الوان الخلفية</string>
     <string name="Session_Stats">احصائيات الجلسة</string>
-    <string name="Time_">:الزمن</string>
+    <string name="Time_">:الوقت</string>
     <string name="Show_Session_Stats">إظهار احصائيات الموسم</string>
-    <string name="VALENTINES_DAY">"يوم الحب"</string>
+    <string name="VALENTINES_DAY">"عيد الحب"</string>
     <string name="Giveaways_">!هدايا</string>
     <string name="Max_XP_Chain_">:سلسلة الخبرة القصوى</string>
     <string name="POSITION_CANCEL_BUTTON">الغاء موقع الزر</string>
@@ -1195,7 +1195,7 @@
     <string name="Refund__Multiskin">استعادة نقودك /nMultiskin</string>
     <string name="Invalid_Clan_ID_">اسم الكلان غير صالح</string>
     <string name="MUTED">"حُظِر من الدَردَشة"</string>
-    <string name="SKIN">سكن</string>
+    <string name="SKIN">جِلد</string>
     <string name="Choose_Skin_Size">اختر حجم سكنك</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">لن يتمكن اللاعبين الاخرين من سماعك!</string>
     <string name="Allow_permission_to_enable_voice_recording_">السماح بأذن لتمكين التسجيل الصوتي</string>
