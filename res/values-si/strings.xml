@@ -159,14 +159,14 @@
     <string name="Multi_Gulp">"බහු ඔවුන්ගේ උගුරෙන් පහළට"</string>
     <string name="Mega_Gulp">"මෙගා ඔවුන්ගේ උගුරෙන් පහළට"</string>
     <string name="Ultra_Gulp">"අල්ට්රා ඔවුන්ගේ උගුරෙන් පහළට"</string>
-    <string name="Monster_Gulp">"Monster ඔවුන්ගේ උගුරෙන් පහළට"</string>
+    <string name="Monster_Gulp">"රකුසා ඔවුන්ගේ උගුරෙන් පහළට"</string>
     <string name="Ludicrous_Gulp">"හාස්යජනක ඔවුන්ගේ උගුරෙන් පහළට"</string>
 
     <string name="Blobicide">"Blobicide"</string>
     <string name="Blobtrocity">"Blobtrocity"</string>
     <string name="Blobaccre">"Blobaccre"</string>
     <string name="Blobastrophe">"Blobastrophe"</string>
-    <string name="Blobihilation">"Blobihilation"</string>
+    <string name="Blobihilation">"බ්ලොබිහිලේෂන්"</string>
     <string name="Blobageddon">"Blobageddon"</string>
     <string name="Blobocalypse">"Blobocalypse"</string>
 
@@ -178,9 +178,9 @@
 
     <string name="Perfection">"පරිපූර්ණත්වය"</string>
     <string name="Single_Handedly">"තනි-Handedly"</string>
-    <string name="Dodgey">"Dodgey"</string>
+    <string name="Dodgey">"ඩොජි"</string>
     <string name="Self_Contained">"ස්වයං-අඩංගු"</string>
-    <string name="Survivalist">"Survivalist"</string>
+    <string name="Survivalist">"දිවි ගලවා ගන්න"</string>
     <string name="Ultramassive">"Ultramassive"</string>
     <string name="Rapid_Ascension">"වේගවත් සමිදාණන්ගේ"</string>
     <string name="Revenge">"පලි"</string>
