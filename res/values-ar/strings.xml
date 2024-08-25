@@ -411,7 +411,7 @@
 
     <string name="Purchase_History">"سِجِل المشتريات"</string>
 
-    <string name="Purchases_Unavailable_">"غير متوفر!"</string>
+    <string name="Purchases_Unavailable_">"المُشتريات غير متوفرة!"</string>
     <string name="You_can_purchase_this_skin_for">"يمكنك شراء هذه الصورة!"</string>
     <string name="PURCHASE">"شراء"</string>
     <string name="Error_in_backup_data_">"خطأ في البيانات الاحتياطية!"</string>
