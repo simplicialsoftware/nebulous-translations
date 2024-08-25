@@ -848,7 +848,7 @@
     <string name="Ultraclick_24_Hours">مسرع الضَغط الفائق لمُدة 24 ساعة.</string>
     <string name="Ultraclick_1_Hour">مُسرع الضَغط الفائق لمُدة ساعة.</string>
     <string name="Ultraclick">مسرع الضغط الفائق</string>
-    <string name="May_Reduce_Lag">(قد يكون هناك القليل من التأخير)</string>
+    <string name="May_Reduce_Lag">(قد يكون هناك القليل من تأخير)</string>
     <string name="Ultraclick_Permanent">"مسرع الضغط الفائق الدائم"</string>
     <string name="Autoclick_Permanent">"مسرع الضغط الدائم"</string>
     <string name="x3_XP_Permanent">"مسرع نقاط الخبرة x3 الدائم"</string>
@@ -875,7 +875,7 @@
     <string name="One_Spin">تدوير واحد (1)</string>
     <string name="Bundle_of_Spins">حزمة من التدويرات (10)</string>
     <string name="Plethora_of_Spins">حزمة كبيرة من التدويرات (50)</string>
-    <string name="SIGN_OUT_ALL_DEVICES">تسجيل الخروج من كل الأجهزة</string>
+    <string name="SIGN_OUT_ALL_DEVICES">تسجيل الخروج من جميع الأجهزة</string>
     <string name="Tournament_Forming">يتم تشكيل البطولة الآن</string>
     <string name="TeamTourneyDescription">يجب عليك أنت وزميلك التسجيل للعب في بطولة الفرق. سوف يتم احتساب كل البلازما عند بدء البطولة ولكن يمكنك إلغاء التسجيل قبل أن تبدأ. تحتاج إلى%d من المتسابقين على الأقل للبدء.</string>
     <string name="Free_Agent">لاعب حر</string>
@@ -891,7 +891,7 @@
     <string name="CO_LEADER">قائِد مُساعد</string>
     <string name="CLAN_HOUSE">بَيتُ العشيرة!</string>
 
-    <string name="ROOM">مقر</string>
+    <string name="ROOM">المقر</string>
     <string name="EXPERIMENTAL">تجريبي</string>
     <string name="members">أعضاء</string>
     <string name="Delete_ALL_Messages_">حذف كل الرسائل!</string>
@@ -1029,7 +1029,7 @@
     <string name="trophy_info">يتم منح الجوائز في نهاية كل ملعب أو موسم حلبة الفريق للفوز بالمركز الأول والثاني والثالث. يتم منح الجوائز فقط في المناطق النشطة مع الكثير من اللاعبين.</string>
     <string name="BLOCKED">محظور</string>
     <string name="CLAN_WAR_HISTORY">تاريخ حروب العشيرة !</string>
-    <string name="Particle">حُبيْبات</string>
+    <string name="Particle">الحُبيْبات</string>
     <string name="Privacy">سياسة الخصوصية</string>
     <string name="EULA">الترخيص</string>
     <string name="You_can_purchase_this_hat_for">تستطيع شراء هذه القبعة بمقابل</string>
@@ -1224,7 +1224,7 @@
     <string name="Names_Below_Blobs">معلومات اللاعب تحت الدائرة</string>
     <string name="Name_Scale_">"مقياس الأسم:"</string>
     <string name="Button_3D">زر ثلاثي الأبعاد</string>
-    <string name="Hide_Button_">أخفاء زر?</string>
+    <string name="Hide_Button_">أخفاء الزر?</string>
     <string name="Show_Boost_Button">إظهار زر التعزيز</string>
     <string name="Spectate_Killer_On_Death">مُشاهدة القاتل</string>
     <string name="Rainbow_Holes">ثُقب قوس قزح</string>
@@ -1353,7 +1353,7 @@ Commands:
     <string name="activate">تفعيل</string>
     <string name="clan_id">رقم هوية العشيرة</string>
     <string name="language_change_warning">سيؤدي تغيير اللغة إلى إعادة تشغيل التطبيق.</string>
-    <string name="xmas_gift_boost_message">لقد تلقيت هدية تعزيز البلازما 3 مرات ليوم واحد!</string>
+    <string name="xmas_gift_boost_message">لقد تلقيت هدية التعزيز البلازما 3 مرات ليوم واحد!</string>
     <string name="no_response">لا توجد استجابة من الخادم. يرجى التحقق من اتصال الإنترنت.</string>
     <string name="RAMADAN">رمضان</string>
     <string name="SUDDEN_ATTACK">هجوم مفاجئ</string>
