@@ -889,7 +889,7 @@
     <string name="UI_Opacity_">レベル等の透明度</string>
     <string name="LOAD">負荷</string>
     <string name="REMOVE">除去する</string>
-    <string name="BAN">禁止</string>
+    <string name="BAN">追放する</string>
     <string name="MODERATORS">モデレーター</string>
     <string name="ALL_CLAN">すべてのクラン</string>
     <string name="CO_LEADER">Coリーダー</string>
@@ -977,7 +977,7 @@
     <string name="COPY">コピー</string>
     <string name="_1v1_Ultra">1対1ウルトラ</string>
     <string name="ArenaDescriptionUltra">勝者は%sプラズマ獲得できます</string>
-    <string name="BANNED">禁止プレイヤー</string>
+    <string name="BANNED">追放した</string>
     <string name="CLAN_MEMBERS">クランメンバー</string>
     <string name="CLAN_REQUESTS">クラン加入申請</string>
     <string name="Pet_1">ペット1</string>
@@ -1147,7 +1147,7 @@
 
     <string name="Refund__Multiskin">マルチスキン\nを返金する</string>
     <string name="Invalid_Clan_ID_">Invalid clan ID.</string>
-    <string name="MUTED">ミュート人</string>
+    <string name="MUTED">ミュートしました</string>
     <string name="SKIN">スキン</string>
     <string name="Choose_Skin_Size">Choose Skin Size</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Other players will not be able to hear you!</string>
