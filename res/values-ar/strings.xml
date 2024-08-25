@@ -107,7 +107,7 @@
     <string name="PAUSED">"توقف"</string>
 
 
-    <string name="FRIENDS">"صَـديـق"</string>
+    <string name="FRIENDS">صديق"</string>
     <string name="Warning">"تحذير"</string>
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
@@ -791,7 +791,7 @@
     <string name="name_color_instructions">"حدد الحروف التي تريد تغييرها ثم قم بـإختيار اللون."</string>
     <string name="Cannot_change_this_character_">"لا يمكن تغيير هذه الشخصية"</string>
     <string name="ZOMBIE_APOCALYPSE">"هجوم الزومبي"</string>
-    <string name="Survive_a_Zombie_Apocalypse">"االنجاة في هجوم الزومبي"</string>
+    <string name="Survive_a_Zombie_Apocalypse">"النجاة في هجوم الزومبي"</string>
     <string name="ZA">"الزومبي"</string>
     <string name="Pandemic">"الزومبي"</string>
     <string name="Immunity">"حصانة"</string>
@@ -1119,7 +1119,7 @@
     <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكيه!</string>
     <string name="Hooked">مُعلَق</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">لقد علقت في خطاف لمدة 10ثواني</string>
-    <string name="Pack">حزمة</string>
+    <string name="Pack">حزمه</string>
     <string name="Skin_Pack">حزمة اشكال</string>
     <string name="SKIN_PACK">حزمة اشكال</string>
     <string name="HALLOWEEN">هالويين</string>
