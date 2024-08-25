@@ -835,7 +835,7 @@
     <string name="UNBLOCK">DESBLOQUEAR</string>
     <string name="Emotes">EMOTICONOS</string>
     <string name="Support">Soporte</string>
-    <string name="Already_Blocked">Bloqueado</string>
+    <string name="Already_Blocked">Ya has bloqueado</string>
     <string name="Cannot_block_more_than_x_accounts_">No se pueden bloquear más de %d cuentas </string>
     <string name="This_is_you_">Este es usted.</string>
     <string name="Win_a_Paint_Game">Gana una partida de Pintar</string>
@@ -928,7 +928,7 @@
     <string name="Choose_Menu">"Elije el menú"</string>
     <string name="SPECTATE">"OBSERBAR"</string>
     <string name="INVITE">INVITAR</string>
-    <string name="error_1">únicamente el líder o colíderes pueden enviar un correo al clan</string>
+    <string name="error_1">Únicamente el líder o colíderes pueden enviar un correo al clan</string>
     <string name="Hat">Sombrero</string>
     <string name="Hats">Sombreros</string>
     <string name="Pet_Uploads">Skins de mascota</string>
@@ -1043,7 +1043,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="POSITION_SPLIT_BUTTON">POSICIÓN DE BOTÓN PARA SEPARARSE</string>
     <string name="POSITION_EJECT_BUTTON">POSICIÓN DE BOTÓN PARA DAR MASA</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">POSICIÓN DE BOTÓN PARA DAR MASA ALTERNADAMENTE</string>
-    <string name="WIFI">INTERNET</string>
+    <string name="WIFI">WIFI</string>
     <string name="JOIN_IP">UNIRSE A IP</string>
     <string name="Specify_Host_IP">Especificar IP del Anfitrión</string>
     <string name="ADVANCED_SETUP">CONFIGURACIÓN AVANZADA</string>
@@ -1328,13 +1328,13 @@ Subir la misma skin NO aprobada varias veces resultará en más sanciones o en u
     <string name="Custom_Skin_Reviewed_Notification">¡Tu skin personalizada ha sido revisada!</string>
     <string name="You_Have_Mail_">Tienes un correo de %s!</string>
     <string name="Clan_Request_Reviewed_Notification">¡Tu solicitud para unirte al Clan %s ha sido revisada!</string>
-    <string name="CRAZY_SPLIT">SEPARARSE LOCO 32x</string>
+    <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
     <string name="Sold_Community_Skins_">"Skins de comunidad vendidas:"</string>
     <string name="Estimated_Earnings_">"Ganancias estimadas:"</string>
     <string name="South_Africa">Sudáfrica</string>
     <string name="SPLIT_">SEPARARSE:</string>
     <string name="WALLS">PAREDES:</string>
-    <string name="COMP_BANNED">BANEO COMPETITIVO</string>
+    <string name="COMP_BANNED">BANEADO DE COMPETICIÓN</string>
     <string name="FIND_GAMES">BUSCAR JUEGOS</string>
     <string name="PLAY_SOLO">JUGAR SOLO</string>
     <string name="SET_EMOTE">ESTABLECER EMOTICONO</string>
@@ -1369,7 +1369,7 @@ Comandos:
     <string name="Allow_Recombine">Permitir recombinar</string>
     <string name="Defenders">Defensores</string>
     <string name="Attackers">Atacantes</string>
-    <string name="MEGA_SPLIT">MEGA SEPARARSE 64x</string>
+    <string name="MEGA_SPLIT">MEGA SLIT 64x</string>
     <string name="Missing_Permissions">Permisos que faltan</string>
     <string name="DELETE_ACCOUNT">ELIMINAR CUENTA</string>
     <string name="delete_prompt">¿Estás seguro de que deseas eliminar su cuenta? ¡Esto es PERMANENTE y NO SE PUEDE DESHACER!</string>
@@ -1416,7 +1416,7 @@ Si no deseas registrarte, aún puedes jugar en modo individual."
     </string>
     <string name="_2x_skin_resolution">Doble resolución de skin</string>
     <string name="pm">MP</string>
-    <string name="You_are_already_friends_">Ya son amigos.</string>
+    <string name="You_are_already_friends_">Ustedes ya son amigos.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">La cuenta debe tener al menos 1 día de creación para enviar mensajes.</string>
     <string name="Translator">Traductor</string>
     <string name="SUCCESS">CON ÉXITO</string>
