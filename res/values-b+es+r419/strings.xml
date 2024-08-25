@@ -561,7 +561,7 @@
 
     <string name="Remove_Player">"Eliminar jugador"</string>
     <string name="Reject_Invitation">"Rechazar invitacion"</string>
-    <string name="Leave_Game">"Dejar el juego"</string>
+    <string name="Leave_Game">"Abandonar el juego"</string>
     <string name="Remove_Friend">"Eliminar amigo"</string>
     <string name="Remove_Clan_Member">"Expulsar miembro del clan"</string>
     <string name="Flag_lobby_as_inappropriate">"Marcar sala como inadecuada"</string>
@@ -764,7 +764,7 @@
     <string name="FFAU">"TCTU"</string>
     <string name="_in_a_FFAU_Game">" en una partida de TCT ULTRA"</string>
 
-    <string name="BANNED_PLAYERS">"LISTA NEGRA"</string>
+    <string name="BANNED_PLAYERS">"JUGADORES BANEADOS"</string>
     <string name="MAIL">"CORREO"</string>
     <string name="WRITE_MAIL">"ESCRIBIR MENSAJE"</string>
     <string name="Days">"Días"</string>
@@ -1339,26 +1339,26 @@ Subir la misma skin NO aprobada varias veces resultará en más sanciones o en u
     <string name="PLAY_SOLO">JUGAR SOLO</string>
     <string name="SET_EMOTE">ESTABLECER EMOTICONO</string>
     <string name="Winner_Winner_Chicken_Dinner">¡¡Quien Parte y Reparte se Lleva la Mejor Parte!!</string>
-    <string name="Win_a_Battle_Royale_">Gana una Batalla Royal.</string>
+    <string name="Win_a_Battle_Royale_">Gana una Batalla Real.</string>
     <string name="Battle_">¡Batalla!</string>
-    <string name="BATTLE_ROYALE">BATALLA ROYAL</string>
-    <string name="Battle_Royale">Batalla Royal</string>
+    <string name="BATTLE_ROYALE">BATALLA REAL</string>
+    <string name="Battle_Royale">Batalla Real</string>
     <string name="The_winner_will_receive_x_plasma_">El ganador recibirá %s plasma!</string>
     <string name="admin_commands">"
 Comandos:
 !kick [0–31]
 !reset
-!bienvenido {mensaje}
-!Dificultad [0-3] o [1-4] para Campaña
-!ocultar
-!chatlento
-!pausarchat
+!welcome {mensaje}
+!difficulty [0-3] o [1-4] para Campaña
+!hidden
+!slowchat
+!pausechat
 !mute {id}
 !admin {id}
 !allow {id}
 !allow reset
-!equipo [1-4] {id} (Solo en modos con equipos)
-!ganador
+!team [1-4] {id} (Solo en modos con equipos)
+!winner
 !stats
 !info"
 </string>
