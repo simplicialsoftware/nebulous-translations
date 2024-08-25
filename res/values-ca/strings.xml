@@ -42,7 +42,7 @@
     <string name="Name_Invalid_">"Nom no vàlid."</string>
     <string name="Name_Taken_">"Nom en ús."</string>
     <string name="CONNECTED">"CONNECTAT"</string>
-    <string name="JOINING___">"UNINT…"</string>
+    <string name="JOINING___">"UNINT…" </string>
     <string name="PLAYING">"JUGANT"</string>
     <string name="MULTIPLAYER">"MULTIJUGADOR"</string>
 
