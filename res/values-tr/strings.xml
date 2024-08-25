@@ -1122,6 +1122,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="click_info">"Autoclick / Hızlı yem atma Herkes Tek Klasik'te çalışmaz!"</string>
     <string name="Hooked">"Kancalandı"</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">"10 saniye boyunca kanca büyüsü ile çekil"</string>
+    <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"Çoklu Cilt, dönüşümlü olarak iki dış görünüm kullanmanıza olanak tanır. Görünümlerin ne kadar hızlı değişeceğini siz seçersiniz. 1.000. seviyeye ulaştığınızda bu özellik ücretsizdir. Eğer çoklu deriyi 1.000. seviyeden önce satın alırsanız, 1.000. seviyeye ulaştığınızda plazmayı geri alacaksınız."</string>
     <string name="Pack">"Paket"</string>
     <string name="Skin_Pack">"Cilt Paketi"</string>
     <string name="SKIN_PACK">"CILT PAKETI"</string>
@@ -1318,16 +1319,16 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="The_winner_will_receive_x_plasma_">"Kazanan %s plazma alacak" </string>
     <string name="admin_commands">"Yönetici Komutları"
 Komutlar:
-!kick [0–31]( Oyuncu at )
-!reset( sıfırla )
-!welcome {message} ( karşılama mesajı )
-!difficulty [0-3] ya da [1-4] for Kampanya ( Zorluk )
+!kick [0–31]( Oyuncuyu at )
+!reset( Sıfırla )
+!welcome {message} ( Karşılama Mesajı )
+!difficulty [0-3] ya da [1-4] Kampanya için ( Zorluk )
 !hidden ( Gizli )
-!guests ( Misafirler )
-!slowchat ( Yavaş Chat )
-!pausechat ( Chat durdur )
+!guests ( İzleyiciler )
+!slowchat ( Yavaş Sohbet )
+!pausechat ( Sohbeti Durdur )
 !mute {id} ( Sustur )
-!admin {id} ( Admin ekle/kaldır )
+!admin {id} ( Yönetici ekle/kaldır )
 !allow {id} ( İzin ver )
 !allow reset ( İzinleri Sıfırla )"
 !team {id} 1-2-3 (Yalnızca takımlı modlar)
