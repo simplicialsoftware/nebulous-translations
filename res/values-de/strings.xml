@@ -9,8 +9,8 @@
     <string name="Button_Margin_">"Schaltflächen Position:"</string>
     <string name="Buttons_">"Schaltflächen:"</string>
     <string name="DEFAULTS">"Vorgaben"</string>
-    <string name="WEEKLY">"Woche"</string>
-    <string name="DAILY">"Tag"</string>
+    <string name="WEEKLY">"Wöchentlich"</string>
+    <string name="DAILY">"Täglich"</string>
     <string name="Server_">"Server"</string>
     <string name="Game_Mode_">"Spielmodus:"</string>
     <string name="Show_Names">"Namen anzeigen"</string>
