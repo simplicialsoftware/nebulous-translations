@@ -1116,7 +1116,7 @@
     <string name="POP_SPLIT">إنقسام الانفجار</string>
     <string name="PUSH_SPLIT">إنقسام الدفع</string>
     <string name="Level_Colors">اللوان المستوى</string>
-    <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكيه!</string>
+    <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكية!</string>
     <string name="Hooked">مُعلَق</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">لقد علقت في خطاف لمدة 10ثواني</string>
     <string name="Pack">حزمة</string>
@@ -1186,7 +1186,7 @@
     <string name="Set_Skin">وضع البشرة </string>
     <string name="Primary">ابتدائي )اساسي)</string>
     <string name="Secondary">ثانوي</string>
-    <string name="Both">اثنين معا</string>
+    <string name="Both">اثنين معاً</string>
 
     <string name="Enable__Multiskin">"تفعيل \n متعددة الجلد"</string>
     <string name="MULTISKIN">مُتعددة الجِلد</string>
