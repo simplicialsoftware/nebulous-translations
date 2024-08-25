@@ -944,7 +944,7 @@
     <string name="PROMOTE_MEMBER">PROMOTE MEMBER</string>
     <string name="DEMOTE_MEMBER">DEMOTE MEMBER</string>
     <string name="HAPPY_BIRTHDAY_">HAPPY NEBULOUS BIRTHDAY!</string>
-    <string name="Years">Years</string>
+    <string name="Years">අවුරුදු</string>
     <string name="Friend_Added_">Friend Added!</string>
     <string name="_in_a_16x_Split_Game">in a 16x Split Game</string>
     <string name="Rules">Rules</string>
@@ -964,7 +964,7 @@
     <string name="Mission_d_Failed">Mission %d Failed!</string>
     <string name="Next_Mission">Next Mission</string>
     <string name="Objective">Objective</string>
-    <string name="GAME">GAME</string>
+    <string name="GAME">ක්රීඩාව</string>
     <string name="Saved_">Saved!</string>
     <string name="Name_Opacity_">Name Opacity:</string>
     <string name="SET_PROFILE_PIC">SET PROFILE PIC</string>
@@ -1016,7 +1016,7 @@
     <string name="You_can_purchase_this_eject_skin_for">You can purchase this eject skin for</string>
     <string name="Skin">Skin</string>
     <string name="Custom_Skin">Custom Skin</string>
-    <string name="Color">Color</string>
+    <string name="Color">වර්ණය</string>
     <string name="RECENT_PLAYERS">RECENT PLAYERS</string>
     <string name="POSITION_CONTROL_STICK">"POSITION CONTROL STICK"</string>
     <string name="POSITION_SPLIT_BUTTON">POSITION SPLIT BUTTON</string>
@@ -1044,7 +1044,7 @@
     <string name="You_can_purchase_this_community_skin_for_">You can purchase this community skin for</string>
     <string name="VIEW_UPLOADER">VIEW UPLOADER</string>
     <string name="POPULAR">POPULAR</string>
-    <string name="NEW">NEW</string>
+    <string name="NEW">නව</string>
     <string name="Manage_Configurations">Manage Configurations</string>
     <string name="Leave_blank_for_all_uploaders_">Leave blank for all uploaders.</string>
     <string name="More___">More…</string>
