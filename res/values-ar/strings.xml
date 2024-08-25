@@ -94,7 +94,7 @@
     <string name="SIGN_OUT">"تسجيل الخروج من الحساب"</string>
     <string name="ACHIEVEMENTS">"الإنجازات"</string>
     <string name="STATISTICS">"الإحصائيات"</string>
-    <string name="XP_">"نقاط الخبرة:"</string>
+    <string name="XP_">"نـقـاط الخبـرةَ:"</string>
 
     <string name="Information">"معلومات"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"لاستخدام هذه الصورة يجب أن تحقق الإنجاز"</string>
@@ -183,7 +183,7 @@
     <string name="Survivalist">"المكافح"</string>
     <string name="Ultramassive">"العملاق"</string>
     <string name="Rapid_Ascension">"الصعود السريع"</string>
-    <string name="Revenge">"انتقام"</string>
+    <string name="Revenge">"انـتقام"</string>
     <string name="Doge_Pound">"جامع الكلاب"</string>
 
     <string name="Absorb_50_dots">"استيعاب ٥٠ نقطة"</string>
@@ -256,7 +256,7 @@
     <string name="Server_Restart_">"إعادة تشغيل السيرفر:"</string>
     <string name="GOAL_">"هدف!"</string>
     <string name="SOCCER">"كرة القدم"</string>
-    <string name="DRAW">"تعادل"</string>
+    <string name="DRAW">"!تعادل"</string>
 
     <string name="Clan_Name">"اسم العشيرة"</string>
     <string name="Clan">"العشيرة"</string>
@@ -276,7 +276,7 @@
     <string name="ELDER">"نائب المشرف"</string>
 
 
-    <string name="Not_in_a_clan_">"انت لست عضواً في أي عشيرة."</string>
+    <string name="Not_in_a_clan_">"انـت لسـت في عشـيرة."</string>
 
 
     <string name="CLAN">"العشيرة"</string>
@@ -303,7 +303,7 @@
     <string name="Survival_Domination">"السيطرة في النجاة"</string>
     <string name="I_Will_Survive">"سأنجو"</string>
     <string name="Soccer_Domination">"السيطرة في كرة القدم"</string>
-    <string name="Soccer_Hat_Trick">"ثلاثية في كرة القدم"</string>
+    <string name="Soccer_Hat_Trick">"هاتـرك في كرة القدم"</string>
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"الفوز بـ 2500 درجة او اكثر في لعبة حر للجميع بالتوقيت."</string>
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"الفوز بـ 7500 درجة او اكثر في لعبة الفرق بالتوقيت."</string>
     <string name="Win_by_3_points_in_a_CTF_game_">"الفوز بـ 3 نقاط في لعبة إمساك العلم."</string>
@@ -360,7 +360,7 @@
     <string name="Wins">"انتصارات"</string>
 
     <string name="Score">"النقاط"</string>
-    <string name="Rating">"تصنيف"</string>
+    <string name="Rating">"التصـنيف"</string>
     <string name="You_are_about_to_make_a_new_leader_">"انت على وشك تعيين قائداً جديداً!"</string>
     <string name="XP">"نقاط الخبرة"</string>
     <string name="High_Score">" أعلى نتيجة "</string>
