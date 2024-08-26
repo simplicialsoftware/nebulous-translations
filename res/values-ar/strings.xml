@@ -34,7 +34,7 @@
     <string name="_Rank_">" المرتبة "</string>
     <string name="_Alias_">" الإسم المُستعار "</string>
     <string name="_Score_">" النقاط "</string>
-    <string name="Score__">"النقاط: "</string>
+    <string name="Score__">"النُقاط: "</string>
     <string name="Recombine_">"إعادة التجميع: "</string>
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"الخمول"</string>
@@ -51,7 +51,7 @@
     <string name="Lobby_Name">"اسم السيرفر"</string>
     <string name="Not_found_">"لم يتم العثور عليه."</string>
 
-    <string name="Hidden">"مخفي"</string>
+    <string name="Hidden">"ّمخَفِي"</string>
 
 
     <string name="SERVER">"سيرفر"</string>
@@ -71,10 +71,10 @@
     <string name="Max_Players">"الحد الأقصى للاعبين"</string>
     <string name="Min_Players">"الحد الأدنى للاعبين"</string>
 
-    <string name="OK">"حسنا"</string>
+    <string name="OK">"حسنًا"</string>
     <string name="CANCEL">"إلغاء"</string>
-    <string name="Chat_Name">"اسم الدردشة"</string>
-    <string name="Max_People">"الحد الأقصى للناس"</string>
+    <string name="Chat_Name">"إسم الدردشة"</string>
+    <string name="Max_People">"ألحد الأقصى للناس"</string>
     <string name="START">"البداية"</string>
     <string name="CREATE">"إنشاء"</string>
     <string name="CUSTOM_GAMES">"ألعاب مخصصة"</string>
@@ -89,7 +89,7 @@
     <string name="Blue_Team">"الفريق الأزرق"</string>
     <string name="Yellow_Team">"الفريق الأصفر"</string>
     <string name="Signed_in_as_">"تم تسجيل الدخول كـ:"</string>
-    <string name="Not_signed_in_">"لم يتم تسجيل الدخول"</string>
+    <string name="Not_signed_in_">"لم يتم تسجيل إلدخول"</string>
     <string name="SET_NAME">"تحديد الإسم"</string>
     <string name="SIGN_OUT">"تسجيل الخروج من الحساب"</string>
     <string name="ACHIEVEMENTS">"الإنجازات"</string>
@@ -99,16 +99,16 @@
     <string name="Information">"معلومات"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"لاستخدام هذه الصورة يجب أن تحقق الإنجاز"</string>
     <string name="To_use_this_skin_you_must_reach_level">"لاستخدام هذه الصورة يجب أن تصل إلى المستوى"</string>
-    <string name="SIGN_IN">"تسجيل الدخول"</string>
+    <string name="SIGN_IN">"تسجيل ألدخول"</string>
 
     <string name="Single_Player_Stats">"إحصائيات لاعب واحد"</string>
 
-    <string name="Level">"المستوى"</string>
+    <string name="Level">"إلمستوى"</string>
     <string name="PAUSED">"توقف"</string>
 
 
     <string name="FRIENDS">"صَـديـق"</string>
-    <string name="Warning">"تحذير"</string>
+    <string name="Warning">"تَـحذير"</string>
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
     <string name="REQUEST_FRIEND">"إرسال طلب صداقة"</string>
@@ -131,10 +131,10 @@
     <string name="Global_" formatted="false">"عالميا"</string>
     <string name="FRIEND_CHAT">"دردشة الأصدقاء"</string>
     <string name="LOBBY_NAME">"اسم الردهة"</string>
-    <string name="NULL">"لا شيء"</string>
+    <string name="NULL">"لأ شـيء"</string>
 
 
-    <string name="ALL">"الجميع"</string>
+    <string name="ALL">"ِالجَمِيـع"</string>
     <string name="FFA">"حر للجميع"</string>
     <string name="FFA_TIME">"حر للجميع 'بالتوقيت' "</string>
     <string name="TEAMS">"الفِرق"</string>
@@ -143,7 +143,7 @@
     <string name="SURVIVAL">"النجاة"</string>
 
 
-    <string name="Clan_XP">"نقاط خبرة العشيرة"</string>
+    <string name="Clan_XP">"نقاط خبرة العشـيرة"</string>
 
 
     <string name="Dot_Nibbler">"قاضم النقاط"</string>
@@ -178,9 +178,9 @@
 
     <string name="Perfection">"الإتقان"</string>
     <string name="Single_Handedly">"عمل فردي"</string>
-    <string name="Dodgey">"ملاحق الكلاب"</string>
+    <string name="Dodgey">"ُملاحق الكُـلاَّب"</string>
     <string name="Self_Contained">"اللاعب المتحفظ"</string>
-    <string name="Survivalist">"المكافح"</string>
+    <string name="Survivalist">"ٌالمُـكَافِح"</string>
     <string name="Ultramassive">"العملاق"</string>
     <string name="Rapid_Ascension">"الصعود السريع"</string>
     <string name="Revenge">"انتقام"</string>
