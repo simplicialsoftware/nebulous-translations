@@ -120,9 +120,9 @@
     <string name="This_player_is_a_bot">"Bu oyunçu bot'dur."</string>
     <string name="This_player_is_not_signed_in">"Bu oyunçu daxil olmayıb."</string>
 
-    <string name="Online">"Onlayn"</string>
+    <string name="Online">"aktiv"</string>
     <string name="Unknown">"Naməlum"</string>
-    <string name="Offline">"Oflayn"</string>
+    <string name="Offline">"qeyri-aktiv"</string>
     <string name="Achievement_Earned">"Nailiyyət Qazanıldı"</string>
     <string name="REFRESH">"Yeniləmək"</string>
     <string name="DONE">"Bitdi"</string>
@@ -217,7 +217,7 @@
     <string name="Reach_a_score_of_15_000">"15,000 xala çatın"</string>
     <string name="Reach_a_score_of_20_000">"20.000 xala çatın"</string>
 
-    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Heç bir blob itirmədən 10.000 xala çatın"</string>
+    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Heç bir baloncuq itirmədən 10.000 xala çatın"</string>
     <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Bölünmədən və ya çıxarmadan 5,000 xala çatın"</string>
     <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Qara dəliklə toqquşmadan düz 5 dəqiqə oynayın"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"Heç bir baloncuq itirmədən düz 5 dəqiqə oynayın"</string>
@@ -328,7 +328,7 @@
     <string name="COMPLETE">"Tamamlandı"</string>
     <string name="INCOMPLETE">"Tamamlanmadı"</string>
     <string name="Win_a_FFA_Time_Game">"FFA (Vaxtlı) Oyununu qazanın"</string>
-    <string name="Win_a_CTF_Game">"CTF Oyununu Qazanın"</string>
+    <string name="Win_a_CTF_Game">"Bayraq qapma Oyununu Qazanın"</string>
     <string name="Win_a_Soccer_Game">"Futbol Oyununu Qazan"</string>
     <string name="Win_a_Survival_Game">"Sağ qalma oyununu qazanın"</string>
     <string name="Win_a_Teams_Time_Game">"Komandalar (Vaxtlı) oyununu qazanın"</string>
@@ -418,7 +418,7 @@
     <string name="Error_in_backup_data_">"Məlumat nüsxəsində xəta baş verdi!"</string>
 
 
-    <string name="Remove_Ads">"Reklamları Təmizlə"</string>
+    <string name="Remove_Ads">"Reklamları çıxart"</string>
     <string name="Reward">"Mükafat"</string>
     <string name="Please_Wait___">"Zəhmət olmasa gözləyin…"</string>
     <string name="Purchasing">"Ödəniş olunur"</string>
@@ -426,11 +426,11 @@
     <string name="Purchase_Successful_">"Ödəniş edildi"</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"İstifadə etmək üçün yenidən qoşulmaq lazım ola bilər"</string>
     <string name="Confirm_Purchase">"Ödənişi Təsdiqləyin"</string>
-    <string name="x3_XP_24_hours">"24 Saatlıq 3x XP"</string>
-    <string name="x3_XP_1_Hour">"1 Saatlıq 3x XP"</string>
-    <string name="x2_XP_24_Hour">"24 Saatlıq 2x XP"</string>
-    <string name="x2_XP_1_Hour">"1 Saatlıq 2x XP"</string>
-    <string name="Cost_">"Qiymət:"</string>
+    <string name="x3_XP_24_hours">"24 Saatlıq 3 qat XP"</string>
+    <string name="x3_XP_1_Hour">"1 Saatlıq 3 qat XP"</string>
+    <string name="x2_XP_24_Hour">"24 Saatlıq 2 qat XP"</string>
+    <string name="x2_XP_1_Hour">"1 Saatlıq 2 qat XP"</string>
+    <string name="Cost_">"dəyəri:"</string>
     <string name="You_cannot_purchase_this_right_now_">"Hal-hazırda bunu ala bilməzsiniz"</string>
 
 
@@ -476,7 +476,7 @@
     <string name="Contestant">"Müsabiqə iştirakçısı"</string>
     <string name="Duelist">"Duelçi"</string>
     <string name="Gladiator">"Qladyator"</string>
-    <string name="Challenger">"Challencçi"</string>
+    <string name="Challenger">"Meydan oxuyan"</string>
     <string name="Win_1_1v1_Arenas_">"Bir Arena oyununu qazanın."</string>
     <string name="Win_10_Arenas_">"10 Arena oyununu qazanın."</string>
     <string name="Win_100_Arenas_">"100 Arena oyununu qazanın."</string>
@@ -499,11 +499,11 @@
     <string name="Standard">"Standart"</string>
     <string name="Achievement">"Nailiyyət"</string>
     <string name="Flag">"Bayraq"</string>
-    <string name="Win_10_Clan_Wars">"10 Klan Döyüşü qazanın"</string>
-    <string name="Win_100_Clan_Wars">"100 klan Döyüşü qazanın"</string>
+    <string name="Win_10_Clan_Wars">"10 Klan müharibəsi qazanın"</string>
+    <string name="Win_100_Clan_Wars">"100 klan müharibəsi qazanın"</string>
     <string name="Clan_Commander">"Klan Komandiri"</string>
     <string name="Clan_General">"Klan Generalı"</string>
-    <string name="Clan_Wars_Won_">"Qazanılan Klan Döyüşləri"</string>
+    <string name="Clan_Wars_Won_">"Qazanılan Klan müharibələri"</string>
     <string name="Arenas_Won_">"Qazanılan Arenalar"</string>
     <string name="Arena_Mode">"Arena Modu"</string>
     <string name="Connection_Lost">"Bağlantı Kəsildi"</string>
@@ -563,8 +563,8 @@
     <string name="Remove_Player">"Oyunçunu Sil"</string>
     <string name="Reject_Invitation">"Dəvəti rədd et"</string>
     <string name="Leave_Game">"Oyundan ayrıl"</string>
-    <string name="Remove_Friend">"Dostu sil"</string>
-    <string name="Remove_Clan_Member">"Klan Üzvünü Sil"</string>
+    <string name="Remove_Friend">"Dostu çıxart"</string>
+    <string name="Remove_Clan_Member">"Klan Üzvünü çıxart"</string>
     <string name="Flag_lobby_as_inappropriate">"Lobbini uyğunsuz olaraq Qeyd et"</string>
     <string name="Promote_Clan_Member">"Klan Üzvünün Rütbəsini artırmaq"</string>
     <string name="Leave_Clan">"Klandan ayrıl"</string>
@@ -850,15 +850,15 @@
     <string name="May_Reduce_Lag">"(Gecikməni Azalda bilər)"</string>
     <string name="Ultraclick_Permanent">"Daimi Ultraklik"</string>
     <string name="Autoclick_Permanent">"Daimi Avtoklik"</string>
-    <string name="x3_XP_Permanent">"Daimi 3x XP"</string>
-    <string name="x2_XP_Permanent">"Daimi 2x XP"</string>
+    <string name="x3_XP_Permanent">"Daimi 3 qat XP"</string>
+    <string name="x2_XP_Permanent">"Daimi 2 qat XP"</string>
     <string name="Permanent">"Daimi"</string>
     <string name="Apply_To_Account">"Hesaba müraciət edin"</string>
     <string name="Spin_">"Fırlat!"</string>
     <string name="Next_Spin">"Növbəti Fırlatma"</string>
     <string name="Wheel_Of_Nebulous_">"Nebulous Çarxı"</string>
-    <string name="XP_2x">"2x XP"</string>
-    <string name="XP_3x">"3x XP"</string>
+    <string name="XP_2x">"2 qat XP"</string>
+    <string name="XP_3x">"3 qat XP"</string>
     <string name="NOW">"Hal-Hazırda"</string>
     <string name="Team_Deathmatch_Domination">"Komanda Ölüm Matçı Hökmranlığı"</string>
     <string name="We_Will_Survive">"Biz sağ qalacağıq"</string>
@@ -894,7 +894,7 @@
     <string name="members">"Üzvlər"</string>
     <string name="Delete_ALL_Messages_">"Bütün Mesajları silin!"</string>
     <string name="SAVE_PROFILE">"Profili yaddaşa yazın"</string>
-    <string name="Move">"Yerini Dəyiş"</string>
+    <string name="Move">"hərəkət etdir"</string>
     <string name="New_Position">"Yeni Pozisiya"</string>
     <string name="ALLIANCES">"İttifaqlar"</string>
     <string name="ENEMIES">"Düşmənlər"</string>
@@ -902,15 +902,15 @@
     <string name="NEW_ENEMY">"Yeni Düşmən"</string>
     <string name="CLAN_RELATIONS">"Klan Münasibətləri"</string>
     <string name="Clan_XP_Boost">"Klan XP Gücləndirməsi"</string>
-    <string name="x3_Clan_XP_7_days">"7 Günlük 3x Klan XP"</string>
-    <string name="x3_Clan_XP_1_Day">"1 Günlük 3x Klan XP"</string>
-    <string name="x2_Clan_XP_1_Day">"1 Günlük 2x Klan XP"</string>
+    <string name="x3_Clan_XP_7_days">"7 Günlük 3 qat Klan XP"</string>
+    <string name="x3_Clan_XP_1_Day">"1 Günlük 3 qat Klan XP"</string>
+    <string name="x2_Clan_XP_1_Day">"1 Günlük 2 qat Klan XP"</string>
     <string name="Pets">"Ev Heyvanları"</string>
     <string name="Pet">"Ev Heyvanı"</string>
     <string name="You_can_purchase_this_pet_for">"Bu ev heyvanını satın ala bilərsiniz"</string>
     <string name="gift_to_friend">"Dosta Hədiyyə et"</string>
     <string name="gift_purchase_warning">"Bu alışı dostunuza hədiyyə etməyi seçdiyiniz üçün bu alış-verişi siz qəbul etməyəcəksiniz"</string>
-    <string name="x2_Clan_XP_7_Days">"7 Günlük 2x Klan XP"</string>
+    <string name="x2_Clan_XP_7_Days">"7 Günlük 2 qat Klan XP"</string>
     <string name="RECEIVED">"Qəbul Edilmiş"</string>
     <string name="SENT">"Göndərilmiş"</string>
     <string name="Enable_Invites">"Dəvətlərə İcazə Verin"</string>
@@ -1079,7 +1079,7 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
 - Silahdan istifadə edən insanlar \n
 - Əl ilə ədəbsiz siqnallar \n
     </string>
-    <string name="PLAY_ONLINE_">"ONLINE OYNA!"</string>
+    <string name="PLAY_ONLINE_">"CANLI OYNA!"</string>
 
     <string name="Absorb_10_000_000_dots">"10,000,000 nöqtəni udmaq"</string>
     <string name="Dot_Deity">"Nöqtə İlahı"</string>
@@ -1285,16 +1285,16 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
     <string name="SUPPORTER">"VIP"</string>
     <string name="CONQUEROR">"FATEH"</string>
     <string name="TRICKY">"HİYLƏGƏR"</string>
-    <string name="x4_XP_Permanent">"Daimi 4x XP"</string>
-    <string name="x4_XP_24_hours">"24 Saatlıq 4x XP"</string>
-    <string name="x4_XP_1_Hour">"1 Saatlıq 4x XP"</string>
+    <string name="x4_XP_Permanent">"Daimi 4 qat XP"</string>
+    <string name="x4_XP_24_hours">"24 Saatlıq 4 qat XP"</string>
+    <string name="x4_XP_1_Hour">"1 Saatlıq 4 qat XP"</string>
     <string name="Quad">"Dördqat"</string>
     <string name="Middle_East">"Yaxın Şərq"</string>
-    <string name="XP_4x">"4x XP"</string>
+    <string name="XP_4x">"4 qat XP"</string>
     <string name="You_cannot_play_for_x_minutes_">"Siz %d dəqiqə oynaya bilməzsiniz"</string>
-    <string name="x4_Clan_XP_Perm">"Daimi 4x Klan XP"</string>
-    <string name="x4_Clan_XP_7_days">"7 Günlük 4x Klan XP"</string>
-    <string name="x4_Clan_XP_1_Day">"1 Günlük 4x Clan XP"</string>
+    <string name="x4_Clan_XP_Perm">"Daimi 4 qat Klan XP"</string>
+    <string name="x4_Clan_XP_7_days">"7 Günlük 4 qat Klan XP"</string>
+    <string name="x4_Clan_XP_1_Day">"1 Günlük 4 qat Klan XP"</string>
     <string name="CHARGE_UP">"ŞARJ EDİN"</string>
     <string name="CLAN_DESCRIPTION_COLOR">"Klan Təsviri Rəngi"</string>
     <string name="Responsible_Pet_Owner">"Məsulliyyətli Heyvan Sahibi"</string>
@@ -1371,15 +1371,15 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
     <string name="FREE_FOR_ALL">"Hərkəs Üçün Pulsuz"</string>
     <string name="SPECIAL">"Xüsusi"</string>
     <string name="FREE">"Pulsuz"</string>
-    <string name="x5_Clan_XP_1_Day">"1 Günlük 5X KLAN XP"</string>
-    <string name="x5_Clan_XP_7_days">"7 Günlük 5X KLAN XP"</string>
-    <string name="x5_Clan_XP_Perm">"Daimi 5X KLAN XP"</string>
+    <string name="x5_Clan_XP_1_Day">"1 Günlük 5 qat KLAN XP"</string>
+    <string name="x5_Clan_XP_7_days">"7 Günlük 5 qat KLAN XP"</string>
+    <string name="x5_Clan_XP_Perm">"Daimi 5 qat KLAN XP"</string>
     <string name="Quin">"5 qat"</string>
-    <string name="x5_XP_1_Hour">"1 Saatlıq 5X XP"</string>
-    <string name="x5_XP_24_hours">"24 Saatlıq 5X XP"</string>
-    <string name="x5_XP_Permanent">"Daimi 5X XP"</string>
+    <string name="x5_XP_1_Hour">"1 Saatlıq 5 qat XP"</string>
+    <string name="x5_XP_24_hours">"24 Saatlıq 5 qat XP"</string>
+    <string name="x5_XP_Permanent">"Daimi 5 qat XP"</string>
     <string name="CAMPAIGN_2">"KAMPANİYA 2"</string>
-    <string name="XP_5x">"XP 5x"</string>
+    <string name="XP_5x">" 5 qat XP"</string>
     <string name="India">"Hindistan"</string>
     <string name="Tutorial">"Öyrədici"</string>
     <string name="TYCOON">"Maqnat"</string>
