@@ -355,7 +355,7 @@
     <string name="Leaf_Collector">"Kolektor Daun"</string>
     <string name="Collect_1000_leaves_">"Mengumpulkan 1.000 Daun."</string>
     <string name="XP_Boost">"XP Boost"</string>
-    <string name="Double">"Double"</string>
+    <string name="Double">"Dobel"</string>
     <string name="Hour">"Jam"</string>
     <string name="Hours">"Jam"</string>
     <string name="Triple">"Tiga Kali Lipat"</string>
@@ -400,7 +400,7 @@
     <string name="Account_ID">"ID Akun"</string>
     <string name="Player_Name">"Nama Pemain"</string>
     <string name="Daily_Reward">"Hadiah Harian"</string>
-    <string name="Reset">"Reset"</string>
+    <string name="Reset">"Mengatur ulang"</string>
     <string name="Plasma">"Plasma"</string>
     <string name="Plasma_Mogul">"Mogul Plasma"</string>
     <string name="Plasma_Collector">"Kolektor Plasma"</string>
@@ -534,7 +534,7 @@
     <string name="Choose_File">"Pilih File"</string>
     <string name="Google_Profile">"Profil Google"</string>
     <string name="You_must_be_signed_in_to_Google_">"Anda harus masuk ke Google."</string>
-    <string name="MAYHEM">"MAYHEM"</string>
+    <string name="MAYHEM">"ANIAYA"</string>
     <string name="eggs_">"Telur."</string>
     <string name="Egg_Collector">"Kolektor Telur"</string>
     <string name="Egg_Hoarder">"Hoarder Telur"</string>
@@ -618,7 +618,7 @@
     <string name="edit">"EDIT"</string>
     <string name="start_clan_war">"Mulai Perang Klan"</string>
     <string name="join_clan_war">"Gabung Perang Klan"</string>
-    <string name="none">"NONE"</string>
+    <string name="none">"TIDAK ADA"</string>
     <string name="INVALID_TOKEN">"TOKEN TIDAK VALID!"</string>
     <string name="banned_until">"Dibanned sampai "</string>
     <string name="Note_Collector">"Kolektor Catatan"</string>
@@ -645,7 +645,7 @@
     <string name="Rejected">"Ditolak"</string>
     <string name="Refunded">"Dikembalikan"</string>
     <string name="contribution_warning">"Apakah Anda yakin ingin menyumbangkan plasma ini? Kontribusi tidak akan dikembalikan."</string>
-    <string name="Upload">"Upload"</string>
+    <string name="Upload">"Mengunggah"</string>
     <string name="upload_warning">"Apakah Anda yakin ingin meng-upload Skin ini? pemain lain akan dapat melihat Skin ini. Ini bisa memakan waktu hingga satu minggu untuk Skin anda untuk ditinjau. Skin yang tidak pantas akan ditolak dan tidak akan dikembalikan!"</string>
     <string name="In_Review">"Dalam Ulasan"</string>
     <string name="Account_Uploads">"My Skins Upload"</string>
@@ -688,7 +688,7 @@
     <string name="Subject">"Judul Pesan"</string>
     <string name="SEND">"KIRIM"</string>
     <string name="To">"Untuk"</string>
-    <string name="RESET">"RESET"</string>
+    <string name="RESET">"MENGATUR ULANG"</string>
     <string name="Message_Sent_">"Pesan Terkirim!"</string>
     <string name="From">"Dari"</string>
     <string name="Sent">"Terkirim"</string>
@@ -969,7 +969,7 @@
     <string name="Leave_blank_for_none_">Leave blank for none.</string>
     <string name="Vote_Kick">Kick Player</string>
     <string name="FONT">FONT</string>
-    <string name="CIRCLE">CIRCLE</string>
+    <string name="CIRCLE">LINGKARAN</string>
     <string name="SQUARES">SQUARES</string>
     <string name="TRICK_MODE">TRICK MODE</string>
     <string name="ICE_SPLIT">ICE SPLIT</string>
@@ -980,7 +980,7 @@
     <string name="click_info">Autoclick / Ultraclick tidak berfungsi di mode FFA CLASSIC</string>
     <string name="Hooked">Hooked</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Be pulled by a hookshot spell for 10 seconds</string>
-    <string name="Pack">Pack</string>
+    <string name="Pack">Mengemas</string>
     <string name="Skin_Pack">Skin Pack</string>
     <string name="SKIN_PACK">SKIN PACK</string>
     <string name="HALLOWEEN">HALLOWEEN</string>
