@@ -1034,7 +1034,7 @@
     <string name="This_cannot_be_undone_">This cannot be undone!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Watch a video to get a temporary boost for %d lives!</string>
     <string name="WATCH_VIDEO_">WATCH VIDEO!</string>
-    <string name="PERMANENT_BOOSTS">PERMANENT BOOSTS</string>
+    <string name="PERMANENT_BOOSTS">PERMANENT_BOOSTS</string>
     <string name="Video_failed_to_load_">Video failed to load!</string>
     <string name="Video_Ready_">Video Ready!</string>
     <string name="GIVE_PLASMA">GIVE PLASMA</string>
@@ -1061,7 +1061,7 @@
     <string name="Conquest">Conquest</string>
     <string name="Finish_the_last_mission_in_the_campaign_">Finish the last mission in the campaign.</string>
     <string name="Collected_">Collected:</string>
-    <string name="Collisions_">Collisions:</string>
+    <string name="Collisions_">Sadursmes:</string>
     <string name="Absorbed_">Absorbed:</string>
     <string name="team_warning">Teaming up with a player that is not on your team will result in a ban!</string>
     <string name="Search_Filter">Search Filter</string>
