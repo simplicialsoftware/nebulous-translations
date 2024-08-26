@@ -948,7 +948,7 @@
     <string name="Friend_Added_">تم إضافة صديق!</string>
     <string name="_in_a_16x_Split_Game">في لعبة الإنقسام على 16</string>
     <string name="Rules">قوانين اللعبة</string>
-    <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
+    <string name="Nebulous_Rules" قواعد غامضة="true" tools:ignore="Untranslatable">
 اللعبة\n
 \n
 1. لا تقم بمشاركة او تبادل الحسابات مع أي شخص، سيتسبب ذلك بحظر حسابي كِلا اللاعبيْن بشكل دائم.\n
@@ -1050,7 +1050,7 @@
     <string name="WORLD_CUP_EVENT___">حدث كأس العالم!!!</string>
     <string name="world_cup_event_description">مضاعفة نقاط الخبرة و البلازما في لعبة كرة القدم حتى نهاية حدث كأس العالم !!!</string>
     <string name="GIF_Skins">جُلود مُتحركة</string>
-    <string name="upload_details" translatable="true">"
+    <string name="upload_details">تحميل التفاصيل</string>
 الصورة المخصصة
 
 عندما تشتري مظهرًا مخصصًا ، ستنخفض جودة الصورة ، لكن هذا ليس ذا أهمية كبيرة وهو أمر طبيعي (لا فرق تقريبًا عند اللعب).
