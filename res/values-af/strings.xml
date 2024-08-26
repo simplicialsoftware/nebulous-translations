@@ -1320,17 +1320,17 @@ Commands:
     <string name="CLAN_BACKGROUND_COLOR">STAM AGTERGROND KLEUR</string>
     <string name="activate">Activate</string>
     <string name="clan_id">STAM ID</string>
-    <string name="language_change_warning">Changing the language will cause the app to restart.</string>
-    <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma uupstoot for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
+    <string name="language_change_warning">As u die taal verander, sal die toepassing herbegin.</string>
+    <string name="xmas_gift_boost_message">Jy het 'n geskenk van 3x plasma hupstoot vir 1 dag ontvang!</string>
+    <string name="no_response">Geen reaksie vanaf bediener nie. Gaan asseblief die internetverbinding na.</string>
     <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
-    <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUDDEN_ATTACK">SKIELIKE AANVAL</string>
+    <string name="_2x_skin_resolution">2x Velresolusie</string>
+    <string name="pm">PB</string>
+    <string name="You_are_already_friends_">Julle is reeds vriende.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Rekening moet 1 dag oud wees om pos te stuur.</string>
+    <string name="Translator">Vertaler</string>
+    <string name="SUCCESS">SUKSES</string>
 
 
     <string-array name="control_modes">
