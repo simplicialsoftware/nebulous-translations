@@ -1310,7 +1310,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="plasma_boost_info">"¡Ganas tres veces plasma de todas las fuentes DENTRO DEL JUEGO mientras el acelerador está activo! ¡Esto incluye premios de arena y torneos! NO funciona en compras de plasma, giros o recompensas especiales."</string>
     <string name="Plasma_Boost_7_Days_">¡Acelerador de Plasma por 7 Días!</string>
     <string name="Plasma_Boost_1_Day_">¡Acelerador de Plasma por 1 Día!</string>
-    <string name="Plasma_Boost_2_Hours_">Acelerador de Plasma por 2 Horas</string>
+    <string name="Plasma_Boost_2_Hours_">¡Acelerador de Plasma por 2 Horas!</string>
     <string name="Plasma_Boost">Acelerador de Plasma</string>
     <string name="skin_warning" translatable="true" tools:ignore="Untranslatable">
 "Tu skin personalizada no fue aprobada. Aquí están las razones más comunes de esto. NO debes subir:
