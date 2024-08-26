@@ -36,7 +36,7 @@
     <string name="_Score_">" النقاط "</string>
     <string name="Score__">"النقاط: "</string>
     <string name="Recombine_">"إعادة التجميع: "</string>
-    <string name="WINNER_">"ألفائِز:"</string>
+    <string name="WINNER_">"الفائزين:"</string>
     <string name="IDLE">"الخمول"</string>
     <string name="Name_Invalid_">"الإسم غير صالح !"</string>
     <string name="Name_Taken_">"الاسم مستعمل."</string>
@@ -55,12 +55,12 @@
 
 
     <string name="SERVER">"سيرفر"</string>
-    <string name="Joining_game_in">"انضمام الى اللعبة "</string>
+    <string name="Joining_game_in">"أنضمام الى اللعبة "</string>
     <string name="Game_Full">"اللعبه ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
     <string name="Europe">"اوروبا"</string>
-    <string name="South_America">"امريكا الجنوبية"</string>
+    <string name="South_America">"أمريكا الجنوبية"</string>
 
 
     <string name="SINGLE_PLAYER">"لاعب واحد"</string>
