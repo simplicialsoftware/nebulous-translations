@@ -1122,6 +1122,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Hooked">"Kancalandı"</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">"10 saniye boyunca Kanca Büyüsü ile çekilin."</string>
     <string name="Pack">"Paket"</string>
+    <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"Çoklu Cilt, dönüşümlü olarak iki dış görünüm kullanmanıza olanak tanır. Görünümlerin ne kadar hızlı değişeceğini siz seçersiniz. 1.000. seviyeye ulaştığınızda bu özellik ücretsizdir. Eğer çoklu cildi 1.000. seviyeden önce satın alırsanız, 1.000. seviyeye ulaştığınızda plazmanızı geri alacaksınız."</string>
     <string name="Skin_Pack">"Cilt Paketi"</string>
     <string name="SKIN_PACK">"CİLT PAKETİ"</string>
     <string name="HALLOWEEN">"CADILAR BAYRAMI"</string>
