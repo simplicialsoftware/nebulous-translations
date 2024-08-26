@@ -1310,24 +1310,24 @@ Commands:
     <string name="FREE">KOSTENLOS</string>
     <string name="x5_Clan_XP_1_Day">24 Stunden Clan XP 5x</string>
     <string name="x5_Clan_XP_7_days">7 Tage Clan XP 5x</string>
-    <string name="x5_Clan_XP_Perm">Permanent Clan XP 5x</string>
+    <string name="x5_Clan_XP_Perm">Dauerhaft Clan XP 5x</string>
     <string name="Quin">5X</string>
-    <string name="x5_XP_1_Hour">eine stunde XP boost 5x</string>
-    <string name="x5_XP_24_hours">24 Stunden XP boost 5x</string>
-    <string name="x5_XP_Permanent">Permanent XP boost 5x</string>
+    <string name="x5_XP_1_Hour">Eine Stunde XP Boost 5x</string>
+    <string name="x5_XP_24_hours">24 Stunden XP Boost 5x</string>
+    <string name="x5_XP_Permanent">Dauerhaft XP Boost 5x</string>
     <string name="CAMPAIGN_2">KAMPAGNE 2</string>
     <string name="XP_5x">XP 5x</string>
     <string name="India">Indien</string>
     <string name="Tutorial">Tutorial</string>
     <string name="TYCOON">TYCOON</string>
-    <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
-    <string name="activate">Activate</string>
+    <string name="CLAN_BACKGROUND_COLOR">Clan Hintergrundfarbe</string>
+    <string name="activate">Aktivieren</string>
     <string name="clan_id">CLAN ID</string>
-    <string name="language_change_warning">Changing the language will cause the app to restart.</string>
-    <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
+    <string name="language_change_warning">Durch das Ändern der sprache wird die App neu gestartet.</string>
+    <string name="xmas_gift_boost_message">Du hast 3x Plasma-Boost für 1 Tag geschenkt bekommen!</string>
+    <string name="no_response">Keine antwort vom server, bitte überprüfen Sie die Internetverbindung!</string>
     <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="SUDDEN_ATTACK">PLOTZLICHER ANGRIFF</string>
 
     <string name="sign_in_explanation" translatable="true">
 "Spieler melden Sie sich an, um auf den Mehrspielermodus zuzugreifen. Sie werden folgendes tun können:
@@ -1340,10 +1340,10 @@ Commands:
 
 Wenn Sie sich nicht anmelden möchten, können Sie trotzdem im Einzelspielermodus spielen."
     </string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="_2x_skin_resolution">(2x) Doppelte Hautauflösung</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="You_are_already_friends_">Sie sind bereits freunde.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Das konto muss 1 Tag alt sein um Mails senden zu können.</string>
     <string name="Translator">Übersetzer</string>
     <string name="SUCCESS">ERFOLG</string>
 
@@ -1384,8 +1384,8 @@ Wenn Sie sich nicht anmelden möchten, können Sie trotzdem im Einzelspielermodu
         <item>"Winzig"</item>
         <item>"Klein"</item>
         <item>"Normal"</item>
-        <item>"Riesig"</item>
-        <item>"HUGE"</item>
+        <item>"Groß"</item>
+        <item>"RIESIG"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
