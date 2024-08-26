@@ -51,7 +51,7 @@
     <string name="Lobby_Name">"Nave lobîye"</string>
     <string name="Not_found_">"Peyda nebûn."</string>
 
-    <string name="Hidden">"veşartî"</string>
+    <string name="Hidden">"Veşartî"</string>
 
 
     <string name="SERVER">"PESKESKAREN"</string>
@@ -114,7 +114,7 @@
     <string name="REQUEST_FRIEND">"Daxwaza hewaltiye"</string>
     <string name="Private">"Taybet"</string>
     <string name="Public">"Raya gişti"</string>
-    <string name="Bot">"bot"</string>
+    <string name="Bot">"Bot"</string>
     <string name="You">"Tu"</string>
     <string name="This_player_is_a_bot">"Ev lıstıkvanen e a bot e."</string>
     <string name="This_player_is_not_signed_in">"Ev listikvanen tekavim pek na hat."</string>
