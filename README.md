@@ -19,7 +19,7 @@ Open the `res` folder to see all of the supported languages. `res/values` contai
 - Only edit files for which you are a native speaker or have fluency.
 - Try not to change the *length* of a string too much from the length in the English version. The app UI layout is tested with those string lengths.
 - **Do not** submit auto translations (Google Translate, Chat GPT, etc). This is not helpful.
-- Adding comments to your commit that explains why subtle changes were made can help.
+- Adding comments to your commit that explains why subtle changes were made can help. If you are revising something that is already translated, an explanation is **required**.
 
 ### Languages
 `res/values`: English<br>
