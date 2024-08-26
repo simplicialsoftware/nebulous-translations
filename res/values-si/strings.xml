@@ -159,14 +159,14 @@
     <string name="Multi_Gulp">"බහු ඔවුන්ගේ උගුරෙන් පහළට"</string>
     <string name="Mega_Gulp">"මෙගා ඔවුන්ගේ උගුරෙන් පහළට"</string>
     <string name="Ultra_Gulp">"අල්ට්රා ඔවුන්ගේ උගුරෙන් පහළට"</string>
-    <string name="Monster_Gulp">"Monster ඔවුන්ගේ උගුරෙන් පහළට"</string>
+    <string name="Monster_Gulp">"රකුසා ඔවුන්ගේ උගුරෙන් පහළට"</string>
     <string name="Ludicrous_Gulp">"හාස්යජනක ඔවුන්ගේ උගුරෙන් පහළට"</string>
 
     <string name="Blobicide">"Blobicide"</string>
     <string name="Blobtrocity">"Blobtrocity"</string>
     <string name="Blobaccre">"Blobaccre"</string>
     <string name="Blobastrophe">"Blobastrophe"</string>
-    <string name="Blobihilation">"Blobihilation"</string>
+    <string name="Blobihilation">"බ්ලොබිහිලේෂන්"</string>
     <string name="Blobageddon">"Blobageddon"</string>
     <string name="Blobocalypse">"Blobocalypse"</string>
 
@@ -178,9 +178,9 @@
 
     <string name="Perfection">"පරිපූර්ණත්වය"</string>
     <string name="Single_Handedly">"තනි-Handedly"</string>
-    <string name="Dodgey">"Dodgey"</string>
+    <string name="Dodgey">"ඩොජි"</string>
     <string name="Self_Contained">"ස්වයං-අඩංගු"</string>
-    <string name="Survivalist">"Survivalist"</string>
+    <string name="Survivalist">"දිවි ගලවා ගන්න"</string>
     <string name="Ultramassive">"Ultramassive"</string>
     <string name="Rapid_Ascension">"වේගවත් සමිදාණන්ගේ"</string>
     <string name="Revenge">"පලි"</string>
@@ -944,7 +944,7 @@
     <string name="PROMOTE_MEMBER">PROMOTE MEMBER</string>
     <string name="DEMOTE_MEMBER">DEMOTE MEMBER</string>
     <string name="HAPPY_BIRTHDAY_">HAPPY NEBULOUS BIRTHDAY!</string>
-    <string name="Years">Years</string>
+    <string name="Years">අවුරුදු</string>
     <string name="Friend_Added_">Friend Added!</string>
     <string name="_in_a_16x_Split_Game">in a 16x Split Game</string>
     <string name="Rules">Rules</string>
@@ -964,7 +964,7 @@
     <string name="Mission_d_Failed">Mission %d Failed!</string>
     <string name="Next_Mission">Next Mission</string>
     <string name="Objective">Objective</string>
-    <string name="GAME">GAME</string>
+    <string name="GAME">ක්රීඩාව</string>
     <string name="Saved_">Saved!</string>
     <string name="Name_Opacity_">Name Opacity:</string>
     <string name="SET_PROFILE_PIC">SET PROFILE PIC</string>
@@ -1016,7 +1016,7 @@
     <string name="You_can_purchase_this_eject_skin_for">You can purchase this eject skin for</string>
     <string name="Skin">Skin</string>
     <string name="Custom_Skin">Custom Skin</string>
-    <string name="Color">Color</string>
+    <string name="Color">වර්ණය</string>
     <string name="RECENT_PLAYERS">RECENT PLAYERS</string>
     <string name="POSITION_CONTROL_STICK">"POSITION CONTROL STICK"</string>
     <string name="POSITION_SPLIT_BUTTON">POSITION SPLIT BUTTON</string>
@@ -1044,7 +1044,7 @@
     <string name="You_can_purchase_this_community_skin_for_">You can purchase this community skin for</string>
     <string name="VIEW_UPLOADER">VIEW UPLOADER</string>
     <string name="POPULAR">POPULAR</string>
-    <string name="NEW">NEW</string>
+    <string name="NEW">නව</string>
     <string name="Manage_Configurations">Manage Configurations</string>
     <string name="Leave_blank_for_all_uploaders_">Leave blank for all uploaders.</string>
     <string name="More___">More…</string>
@@ -1284,7 +1284,7 @@ Commands:
     <string name="Specify_Reason_">Specify Reason:</string>
     <string name="FREE_FOR_ALL">FREE FOR ALL</string>
     <string name="SPECIAL">SPECIAL</string>
-    <string name="FREE">FREE</string>
+    <string name="FREE">නොමිලේ</string>
     <string name="x5_Clan_XP_1_Day">5X CLAN XP 1 DAY</string>
     <string name="x5_Clan_XP_7_days">5X CLAN XP 7 DAYS</string>
     <string name="x5_Clan_XP_Perm">5X CLAN XP PERMANENT!</string>
@@ -1294,7 +1294,7 @@ Commands:
     <string name="x5_XP_Permanent">5X XP PERMANENT</string>
     <string name="CAMPAIGN_2">CAMPAIGN 2</string>
     <string name="XP_5x">XP 5x</string>
-    <string name="India">India</string>
+    <string name="India">ඉන්දියාව</string>
     <string name="Tutorial">Tutorial</string>
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
@@ -1303,13 +1303,13 @@ Commands:
     <string name="language_change_warning">Changing the language will cause the app to restart.</string>
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
     <string name="no_response">No response from server. Please check the internet connection.</string>
-    <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="RAMADAN">රාමදාන්</string>
+    <string name="SUDDEN_ATTACK">හදිසි ප්‍රහාරයක්</string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
+    <string name="You_are_already_friends_">ඔබ දැනටමත් මිතුරන්.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="Translator">පරිවර්තකයා</string>
     <string name="SUCCESS">SUCCESS</string>
 
 

@@ -1296,7 +1296,7 @@ Commands:
     <string name="XP_5x">ΠΕ 5x</string>
     <string name="India">Ινδία</string>
     <string name="Tutorial">Διδακτικό μάθημα</string>
-    <string name="TYCOON">TYCOON</string>
+    <string name="TYCOON">ΜΕΓΙΣΤΑΝΑΣ</string>
     <string name="CLAN_BACKGROUND_COLOR">Χρώμα φόντου Κλαν</string>
     <string name="activate">Ενεργοποίηση</string>
     <string name="clan_id">Κλαν ID</string>
@@ -1304,13 +1304,13 @@ Commands:
     <string name="xmas_gift_boost_message">Παραλάβατε ένα δώρο ενίσχυση 3x πλάσμα για 1 μέρα!</string>
     <string name="no_response">Δεν υπάρχει σύνδεση στον σέρβερ. Παρακαλώ ελέγξτε την σύνδεση σας.</string>
     <string name="RAMADAN">ΡΑΜΑΖΑΝΙ</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="SUDDEN_ATTACK">ΞΑΦΝΙΚΗ ΕΠΙΘΕΣΗ</string>
+    <string name="_2x_skin_resolution">2x Σκιν Ψήφισμα</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Είσαστε ήδη φίλοι.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Ο λογαριασμός πρέπει να είναι δημιουργημένος 1 μέρα πριν για να στείλει μήνυμσ</string>
-    <string name="Translator">Translator</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="Translator">Μεταφράστης</string>
+    <string name="SUCCESS">ΕΠΙΤΥΧΙΑ</string>
     <string-array name="control_modes">
         <item>"Κανονικός"</item>
         <item>"Σχετικό"</item>
