@@ -1203,7 +1203,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Session_Stats">Estadísticas de Sesión</string>
     <string name="Time_">Tiempo </string>
     <string name="Show_Session_Stats">Mostrar estadísticas de Sesión</string>
-    <string name="VALENTINES_DAY">"DÍA DE SAN VALENTíN"</string>
+    <string name="VALENTINES_DAY">"DÍA DE SAN VALENTIN"</string>
     <string name="shared_pack_info" translatable="true" tools:ignore="Untranslatable">Después de comprar este pack de skins, ¡sus skins exclusivas aparecerán en la parte superior de los menús de selección de skins para ti y tu amigo!</string>
     <string name="shared_pack_purch_description" translatable="true" tools:ignore="Untranslatable">¡Este es un paquete especial, por lo que tanto tú como un amigo recibiréis el paquete!</string>
     <string name="Giveaways_">¡Sorteos!</string>
