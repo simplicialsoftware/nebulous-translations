@@ -149,7 +149,7 @@
     <string name="Dot_Nibbler">"قاضم النقاط"</string>
     <string name="Dot_Muncher">"ماضغ النقاط"</string>
     <string name="Dot_Eater">"آكل النقاط"</string>
-    <string name="Dot_Gulper">"مبتلع النقط"</string>
+    <string name="Dot_Gulper">"مبتلع النقاط"</string>
     <string name="Dot_Gobbler">"آكل النقاط الشره"</string>
     <string name="Dot_Devourer">"ملتهم النقاط"</string>
     <string name="Dot_Gormandizer">"آكل النقاط الجشع"</string>
@@ -908,7 +908,7 @@
     <string name="x3_Clan_XP_1_Day">"مسرع نقاط خبرة العشيرة X3 ليوم واحد"</string>
     <string name="x2_Clan_XP_1_Day">"مسرع نقاط خبرة العشيرة X2 ليوم واحد"</string>
     <string name="Pets">"الحيوانات الأليفة"</string>
-    <string name="Pet">"حيوان اليف"</string>
+    <string name="Pet">"حيوان أليف"</string>
     <string name="You_can_purchase_this_pet_for">" يمكن شراء هذا الحيوان الأليف بـ"</string>
     <string name="gift_to_friend">"هدية لصديق"</string>
     <string name="gift_purchase_warning">"لن تتلقى عملية الشراء هذه لأنك اخترت تقديم هدية لعملية الشراء هذه إلى صديق."</string>
@@ -1188,7 +1188,7 @@
     <string name="Secondary">ثانوي</string>
     <string name="Both">اثنين معا</string>
 
-    <string name="Enable__Multiskin">"تفعيل /n متعددة الجلد"</string>
+    <string name="Enable__Multiskin">"تفعيل \n متعددة الجلد"</string>
     <string name="MULTISKIN">مُتعددة الجِلد</string>
     <string name="DISABLED">الغاء التفعيل</string>
 
@@ -1374,7 +1374,7 @@ Commands:
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
-    <string name="Translator">مـتـرجـم</string>
+    <string name="Translator">مترجم</string>
     <string name="SUCCESS">تم بنجاح</string>
 
 
