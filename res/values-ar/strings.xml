@@ -1400,8 +1400,7 @@ Commands:
         <item>"نجوم (الظلام)"</item>
         <item>"خطوط(الظلام)"</item>
         <item>"خطوط(الأبيض)"</item>
-        <item>"مخصص"</item>
-        <item>"لا شيء"</item>
+        <item>"مخصص"</item>https://github.com/simplicialsoftware/nebulous-translations/pull/222#issuecomment-2309997463<item>"لا شيء"</item>
     </string-array>
 
     <string-array name="difficulties">
