@@ -11,11 +11,11 @@
     <string name="WEEKLY">"Heftane"</string>
     <string name="DAILY">"ROJANE"</string>
     <string name="Server_">"pêşkêşkarên"</string>
-    <string name="Game_Mode_">"Moda Lîstikê"</string>
-    <string name="Show_Names">"Navan Nîşan Bide"</string>
-    <string name="Show_Avatars">"Avataran Nîşan Bide"</string>
-    <string name="PLAY">"Bazî"</string>
-    <string name="OPTIONS">"VEBİJÊRK"</string>
+    <string name="Game_Mode_">"Listik mod"</string>
+    <string name="Show_Names">"Nawi bineser"</string>
+    <string name="Show_Avatars">"Skini Bineser"</string>
+    <string name="PLAY">"BLİZE"</string>
+    <string name="OPTIONS">"VEBİJERKEN"</string>
 
     <string name="Avatar_">"Skin:"</string>
     <string name="Name_">"Nav:"</string>
