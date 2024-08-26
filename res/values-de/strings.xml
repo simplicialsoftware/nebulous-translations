@@ -1344,10 +1344,10 @@ Wenn Sie sich nicht anmelden möchten, können Sie trotzdem im Einzelspielermodu
     <string name="pm">PM</string>
 
     <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">‏Konto muss 1 Tag alt sein, um E-Mails senden zu können</string>
 
     <string name="Translator">Translator</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">ERFOLG</string>
 
     <string-array name="control_modes">
         <item>"Normal"</item>
