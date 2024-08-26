@@ -1050,14 +1050,14 @@
     <string name="Leave_blank_for_all_uploaders_">Leave blank for all uploaders.</string>
     <string name="More___">Mai Mult…</string>
     <string name="This_cannot_be_used_in_FFA_Classic_">This cannot be used in FFA Classic.</string>
-    <string name="ENEMY">ENEMY</string>
+    <string name="ENEMY">INAMIC</string>
     <string name="ALLY">ALLY</string>
-    <string name="Rename">Rename</string>
-    <string name="Set_friendly_name_">Set friendly name.</string>
+    <string name="Rename">Redenumiți</string>
+    <string name="Set_friendly_name_">Setează un nume prietenos.</string>
     <string name="Leave_blank_for_none_">Leave blank for none.</string>
     <string name="Vote_Kick">Kick Player</string>
     <string name="FONT">FONT</string>
-    <string name="CIRCLE">CIRCLE</string>
+    <string name="CIRCLE">CERC</string>
     <string name="SQUARES">SQUARES</string>
     <string name="TRICK_MODE">TRICK MODE</string>
     <string name="ICE_SPLIT">ICE SPLIT</string>
@@ -1076,7 +1076,7 @@
     <string name="pack_info">After you purchase this skin pack your exclusive skins will appear at the top of the skin selection menus.</string>
 
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">EXCLUSIVE Skins, Pets, Hats and More!</string>
-    <string name="BUY_NOW_">BUY NOW!</string>
+    <string name="BUY_NOW_">CUMPĂRĂ ACUM!</string>
     <string name="already_purchased">You or the person you are buying this for already own this.</string>
     <string name="Halo_Animations">Halo Animations</string>
     <string name="Trick_Notifications">Trick Notifications</string>
@@ -1125,7 +1125,7 @@
     <string name="Textures_will_be_regenerated_">Black textures and custom skins will be regenerated.</string>
     <string name="Enable_Profile_Colors">Enable Profile Colors</string>
     <string name="Session_Stats">Session Stats</string>
-    <string name="Time_">Time:</string>
+    <string name="Time_">Timp:</string>
     <string name="Show_Session_Stats">Show Session Stats</string>
     <string name="VALENTINES_DAY">"VALENTINES DAY"</string>
     <string name="Giveaways_">Giveaways!</string>
@@ -1288,7 +1288,7 @@ Comenzi:
     <string name="Specify_Reason_">Precizează motivul:</string>
     <string name="FREE_FOR_ALL">FREE FOR ALL</string>
     <string name="SPECIAL">SPECIAL</string>
-    <string name="FREE">FREE</string>
+    <string name="FREE">GRATUIT</string>
     <string name="x5_Clan_XP_1_Day">5X CLAN XP 1 DAY</string>
     <string name="x5_Clan_XP_7_days">5X CLAN XP 7 DAYS</string>
     <string name="x5_Clan_XP_Perm">5X CLAN XP PERMANENT!</string>
