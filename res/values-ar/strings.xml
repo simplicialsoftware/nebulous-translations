@@ -27,7 +27,7 @@
     <string name="Yes">"نعم"</string>
     <string name="No">"لا"</string>
     <string name="WAIT">"أنتظر …"</string>
-    <string name="Must_Specify_Name_">"يَجِبْ تحديد الإسم."</string>
+    <string name="Must_Specify_Name_">"يجب تحديد الإسم."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
 
