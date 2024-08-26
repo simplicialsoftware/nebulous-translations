@@ -1154,7 +1154,7 @@
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">REMOVE SKIN FROM COMMUNITY!</string>
     <string name="This_cannot_be_undone_">This cannot be undone!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Watch a video to get a temporary boost for %d lives!</string>
-    <string name="WATCH_VIDEO_">WATCH VIDEO!</string>
+    <string name="WATCH_VIDEO_">Video gata!</string>
     <string name="PERMANENT_BOOSTS">PERMANENT BOOSTS</string>
     <string name="Video_failed_to_load_">Video failed to load!</string>
     <string name="Video_Ready_">Video Ready!</string>
@@ -1171,7 +1171,7 @@
     <string name="Max_Tilt_Angle_3D_">Max Tilt Angle 3D:</string>
     <string name="Mode_3D">3D Mode</string>
     <string name="Names_Below_Blobs">Names Below Blobs</string>
-    <string name="Name_Scale_">"Name Scale:"</string>
+    <string name="Name_Scale_">"Scala de nume:"</string>
     <string name="Button_3D">Button 3D</string>
     <string name="Hide_Button_">Hide Button?</string>
     <string name="Show_Boost_Button">Show Boost Button</string>
