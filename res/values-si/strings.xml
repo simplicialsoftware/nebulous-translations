@@ -965,7 +965,7 @@
     <string name="Next_Mission">Next Mission</string>
     <string name="Objective">Objective</string>
     <string name="GAME">ක්රීඩාව</string>
-    <string name="Saved_">Saved!</string>
+    <string name="Saved_">සුරකින ලදී!</string>
     <string name="Name_Opacity_">Name Opacity:</string>
     <string name="SET_PROFILE_PIC">SET PROFILE PIC</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">ACCEPT ALL FRIEND INVITATIONS!</string>
@@ -1091,8 +1091,8 @@
     <string name="SET_PRIVACY">SET PRIVACY</string>
     <string name="ANIMATION">ANIMATION</string>
     <string name="Color_Cycle">Color Cycle</string>
-    <string name="Fast">Fast</string>
-    <string name="Slow">Slow</string>
+    <string name="Fast">වේගවත්</string>
+    <string name="Slow">මන්දගාමී</string>
     <string name="Rainbow">Rainbow</string>
     <string name="Horizontal">Horizontal</string>
     <string name="Vertical">Vertical</string>
