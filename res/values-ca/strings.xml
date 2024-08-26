@@ -478,8 +478,8 @@
     <string name="Gladiator">"Gladiador"</string>
     <string name="Challenger">"Desafiador"</string>
     <string name="Win_1_1v1_Arenas_">"Guanya una Arena."</string>
-    <string name="Win_10_Arenas_">"Guanya 1.000 Arenes."</string>
-    <string name="Win_100_Arenas_">"Guanya 1.000 Arenes."</string>
+    <string name="Win_10_Arenas_">"Guanya 10 Arenes."</string>
+    <string name="Win_100_Arenas_">"Guanya 100 Arenes."</string>
     <string name="Win_1000_Arenas">"Guanya 1.000 Arenes."</string>
 
 
@@ -510,7 +510,7 @@
 
     <string name="Present_Hoarder">"Acaparador de regals."</string>
     <string name="Present_Mogul">"Magnat de regals."</string>
-    <string name="Collect_1_000_presents_">"Recollir 5.000 regals."</string>
+    <string name="Collect_1_000_presents_">"Recollir 1.000 regals."</string>
     <string name="Collect_5_000_presents_">"Recollir 5.000 regals."</string>
     <string name="Collect_10_000_presents_">"Recollir 10.000 regals."</string>
     <string name="Loading_reward_video___">"Carregant vídeo de recompensa…"</string>
@@ -1042,7 +1042,7 @@
     <string name="Buy">Buy</string>
     <string name="Sell">Sell</string>
     <string name="community_skin_requirement">You must purchase Enable Custom Skins to use community skins.</string>
-    <string name="You_can_purchase_this_community_skin_for_">You can purchase this community skin for</string>
+    <string name="You_can_purchase_this_community_skin_for_">You can purchase this community skin for:</string>
     <string name="VIEW_UPLOADER">VIEW UPLOADER</string>
     <string name="POPULAR">POPULAR</string>
     <string name="NEW">NEW</string>
