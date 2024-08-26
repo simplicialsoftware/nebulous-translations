@@ -1266,8 +1266,8 @@ Nebulous 규칙\n
     <string name="x4_Clan_XP_7_days">클랜 경험치 4배: 일주일</string>
     <string name="x4_Clan_XP_1_Day">클랜 경험치 4배: 1일</string>
     <string name="CHARGE_UP">차지 업</string>
-    <string name="CLAN_DESCRIPTION_COLOR">"클랜 설명 색깔"</string>
-    <string name="Responsible_Pet_Owner">책임감있는 주인</string>
+    <string name="CLAN_DESCRIPTION_COLOR">"클랜 설명 색"</string>
+    <string name="Responsible_Pet_Owner">책임감 있는 주인</string>
     <string name="Animal_Tamer">동물 조련사</string>
     <string name="Crocodile_Hunter">악어 사냥꾼</string>
     <string name="Get_A_Pet_To_Level_X_">펫의 레벨을 %d까지 올리세요.</string>
