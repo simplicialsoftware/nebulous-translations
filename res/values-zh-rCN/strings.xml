@@ -528,7 +528,7 @@
     <string name="Start_Clan_War">"开始联盟大战"</string>
     <string name="Min_Level">"最低等级"</string>
     <string name="SAVE">"保存"</string>
-    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"玩家不符合加入联盟的最低等级要求："</string>
+    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"玩家不符合加入联盟的最低等级："</string>
     <string name="Insufficient_Permission">"权限不足"</string>
     <string name="DOMINATION">"统治战"</string>
     <string name="DOM_Domination">"统治战霸主"</string>
@@ -553,7 +553,7 @@
     <string name="team_arena_info">"当你创建了一个团队，你可以任意邀请和删除成员。你也可以参加团队竞技赛。但你不能改变你团队的名字！"</string>
 
 
-    <string name="Invited">"已邀请"</string>
+    <string name="Invited">"拜托接受邀请"</string>
     <string name="Invitation_Sent">"邀请已发送"</string>
     <string name="REPORT">"报告"</string>
     <string name="Reported">"已报告"</string>
@@ -562,7 +562,7 @@
     <string name="Other">"其他"</string>
     <string name="Leave_Team">"离开团队"</string>
 
-    <string name="Remove_Player">"移除玩家"</string>
+    <string name="Remove_Player">"删掉玩家"</string>
     <string name="Reject_Invitation">"拒绝邀请"</string>
     <string name="Leave_Game">"离开游戏"</string>
     <string name="Remove_Friend">"移除好友"</string>
