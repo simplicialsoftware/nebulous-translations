@@ -1321,7 +1321,7 @@ Commands:
     <string name="activate">Activate</string>
     <string name="clan_id">STAM ID</string>
     <string name="language_change_warning">As u die taal verander, sal die toepassing herbegin.</string>
-    <string name="xmas_gift_boost_message">Jy het 'n geskenk van 3x plasma hupstoot vir 1 dag ontvang!</string>
+    <string name="xmas_gift_boost_message">"Jy het 'n geskenk van 3x plasma hupstoot vir 1 dag ontvang!"</string>
     <string name="no_response">Geen reaksie vanaf bediener nie. Gaan asseblief die internetverbinding na.</string>
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">SKIELIKE AANVAL</string>
