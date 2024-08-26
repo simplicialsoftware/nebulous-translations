@@ -20,8 +20,8 @@
     <string name="Avatar_">"الصورة"</string>
     <string name="Name_">"الإسم"</string>
 
-    <string name="Loading___">"جاري التحميل…"</string>
-    <string name="Connecting___">"جاري الإتصال…"</string>
+    <string name="Loading___">"... جاري التحميل"</string>
+    <string name="Connecting___">"... جاري الإتصال"</string>
 
     <string name="Are_You_Sure_">"هل أنت متأكد؟"</string>
     <string name="Yes">"نعم"</string>
@@ -1050,7 +1050,7 @@
     <string name="WORLD_CUP_EVENT___">حدث كأس العالم!!!</string>
     <string name="world_cup_event_description">مضاعفة نقاط الخبرة و البلازما في لعبة كرة القدم حتى نهاية حدث كأس العالم !!!</string>
     <string name="GIF_Skins">جُلود مُتحركة</string>
-    <string name="upload_details" translatable="true">"
+    <string name="upload_details" translatable="صحيح">"
 الصورة المخصصة
 
 عندما تشتري مظهرًا مخصصًا ، ستنخفض جودة الصورة ، لكن هذا ليس ذا أهمية كبيرة وهو أمر طبيعي (لا فرق تقريبًا عند اللعب).
