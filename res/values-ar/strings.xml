@@ -471,7 +471,7 @@
     <string name="ENTER">"أدخل"</string>
     <string name="_1v1">"١ضد١"</string>
     <string name="Practice">"تمرن"</string>
-    <string name="ArenaDescription">"حياة واحدة. وسيحصل الفائز %s البلازما."</string>
+    <string name="ArenaDescription">"وصف الساحة"</string>
     <string name="Contestant">"متنافس"</string>
     <string name="Duelist">"مبارز"</string>
     <string name="Gladiator">"مجالد"</string>
