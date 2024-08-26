@@ -561,7 +561,7 @@
 
     <string name="Remove_Player">"Eliminar jugador"</string>
     <string name="Reject_Invitation">"Rechazar invitacion"</string>
-    <string name="Leave_Game">"Dejar el juego"</string>
+    <string name="Leave_Game">"Abandonar el juego"</string>
     <string name="Remove_Friend">"Eliminar amigo"</string>
     <string name="Remove_Clan_Member">"Expulsar miembro del clan"</string>
     <string name="Flag_lobby_as_inappropriate">"Marcar sala como inadecuada"</string>
@@ -764,7 +764,7 @@
     <string name="FFAU">"TCTU"</string>
     <string name="_in_a_FFAU_Game">" en una partida de TCT ULTRA"</string>
 
-    <string name="BANNED_PLAYERS">"LISTA NEGRA"</string>
+    <string name="BANNED_PLAYERS">"JUGADORES BANEADOS"</string>
     <string name="MAIL">"CORREO"</string>
     <string name="WRITE_MAIL">"ESCRIBIR MENSAJE"</string>
     <string name="Days">"Días"</string>
@@ -1357,7 +1357,7 @@ Comandos:
 !admin {id}
 !allow {id}
 !allow reset
-!team [1-4] {id} (Apenas en modos con equipos)
+!team [1-4] {id} (Solo en modos con equipos)
 !winner
 !stats
 !info"
@@ -1369,7 +1369,7 @@ Comandos:
     <string name="Allow_Recombine">Permitir recombinar</string>
     <string name="Defenders">Defensores</string>
     <string name="Attackers">Atacantes</string>
-    <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
+    <string name="MEGA_SPLIT">MEGA SEPARACION 64x</string>
     <string name="Missing_Permissions">Permisos que faltan</string>
     <string name="DELETE_ACCOUNT">ELIMINAR CUENTA</string>
     <string name="delete_prompt">¿Estás seguro de que deseas eliminar su cuenta? ¡Esto es PERMANENTE y NO SE PUEDE DESHACER!</string>
