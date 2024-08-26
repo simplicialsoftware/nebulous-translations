@@ -590,7 +590,7 @@
     <string name="Bead_Collector">"Coleccionista de Perlas"</string>
     <string name="Bead_Hoarder">"Acaparador de Perlas"</string>
     <string name="Bead_Mogul">"Magnate de Perlas"</string>
-    <string name="beads_">"perlas. "</string>
+    <string name="beads_">"perlas."</string>
 
     <string name="Rejoin_Game">"Volver a unirse a la partida"</string>
     <string name="PRIZES">"PREMIOS"</string>
