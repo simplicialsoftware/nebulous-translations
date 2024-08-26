@@ -1328,14 +1328,14 @@
     <string name="language_change_warning">การเปลี่ยนภาษาจะทำให้แอปรีสตาร์ท</string>
     <string name="xmas_gift_boost_message">คุณได้รับของขวัญเป็น 3X พลาสมาบูสต์เป็นเวลา 1 วัน!</string>
     <string name="no_response">ไม่มีการตอบสนองจากเซิร์ฟเวอร์ โปรดตรวจสอบการเชื่อมต่ออินเตอร์เน็ต</string>
-    <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="RAMADAN">รอมฎอน</string>
+    <string name="SUDDEN_ATTACK">การโจมตีอย่างกะทันหัน</string>
+    <string name="_2x_skin_resolution">ความละเอียดของผิว 2 เท่า</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="You_are_already_friends_">คุณเป็นเพื่อนกันแล้ว.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">บัญชีจะต้องมีอายุ 1 วันจึงจะสามารถส่งจดหมายได้.</string>
+    <string name="Translator">นักแปล</string>
+    <string name="SUCCESS">ความสำเร็จ</string>
 
 
     <string-array name="control_modes">
