@@ -723,7 +723,7 @@
     <string name="Approved">"Aprovado"</string>
     <string name="Rejected">"Rejeitado"</string>
     <string name="Refunded">"Reembolsado"</string>
-    <string name="contribution_warning">"Tem certeza de que deseja contribuir esta plasma? As contribuições não serão reembolsadas."</string>
+    <string name="contribution_warning">"Tem certeza de que deseja contribuir com estas plasmas? As contribuições não serão reembolsadas."</string>
     <string name="Upload">"Enviar"</string>
 
     <string name="upload_warning">"Tem certeza de que deseja enviar esta skin? Outros jogadores serão capazes de ver esta skin. Pode levar até uma semana para a sua skin ser revisada. Skins inapropriadas serão rejeitadas e não serão reembolsadas!"</string>
@@ -805,7 +805,7 @@
     <string name="Tournament_Competing">Competindo Torneio</string>
     <string name="Tournament_Registered">Torneio Registrado</string>
     <string name="Tournament">Torneio</string>
-    <string name="TourneyDescription">Você deve se registrar para jogar no torneio. Você será cobrado a plasma quando o torneio começar, mas você pode cancelar o registro antes que ele comece. O torneio começará quando houver pelo menos %d participantes.</string>
+    <string name="TourneyDescription">Você deve se registrar para jogar no torneio. Você será cobrado em plasmas quando o torneio começar, mas você pode cancelar o registro antes que ele comece. O torneio começará quando houver pelo menos %d participantes.</string>
     <string name="Register">Registrar</string>
 
     <string name="Registered">Registrado</string>
@@ -876,7 +876,7 @@
     <string name="Plethora_of_Spins">Muitos Giros (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">DESCONECTAR-SE DE TODOS OS DISPOSITIVOS</string>
     <string name="Tournament_Forming">Formando Torneio</string>
-    <string name="TeamTourneyDescription">Você e seu companheiro de equipe devem se registrar para jogar no torneio em equipe. Você será cobrado a plasma quando o torneio começar, mas você pode cancelar o registro antes que ele comece. Precisa pelo menos de %d concorrentes para começar.</string>
+    <string name="TeamTourneyDescription">Você e seu companheiro de equipe devem se registrar para jogar no torneio em equipe. Você será cobrado em plasmas quando o torneio começar, mas você pode cancelar o registro antes que ele comece. Precisa pelo menos de %d concorrentes para começar.</string>
     <string name="Free_Agent">Agente Livre</string>
     <string name="This_player_selected_a_different_teammate_">Este jogador selecionou um companheiro de equipe diferente.</string>
     <string name="muted_until">Silenciado até</string>
