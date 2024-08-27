@@ -1340,11 +1340,11 @@ Comenzi:
         <item>"Grilă (negru)"</item>
         <item>"Grilă (alb)"</item>
         <item>"Custom"</item>
-        <item>"NIMIC"</item>
+        <item>"NIMIC"</name>
     </string-array>
 
     <string-array name="difficulties">
-        <item>"Uşor"</item>
+        <itme >"Uşor"</easy>
         <item>"Mediu"</item>
         <item>"Greu"</item>
         <item>"IMPOSIBIL"</item>
