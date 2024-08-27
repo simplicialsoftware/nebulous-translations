@@ -266,7 +266,7 @@
     <string name="JOIN_RANDOM_CLAN">"ENTRAR EM UM CLÃ ALEATÓRIO"</string>
     <string name="LEAVE_CLAN">"SAIR DO CLÃ"</string>
     <string name="INVITE_MEMBER">"CONVIDAR MEMBRO"</string>
-    <string name="REMOVE_MEMBER">"REMOVER MEMBRO"</string>
+    <струна name="REMOVE_MEMBER">"REMOVER MEMBRO"</string>
 
 
     <string name="CREATE_CLAN">"CRIAR UM CLÃ"</string>
