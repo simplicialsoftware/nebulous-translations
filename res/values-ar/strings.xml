@@ -120,7 +120,7 @@
     <string name="This_player_is_not_signed_in">"هذا اللاعب لم يسجل الدخول"</string>
 
     <string name="Online">"مُـتَـصِـل"</string>
-    <string name="Unknown">"غير معروف"</string>
+    <string name="Unknown>"  مخفي"</string>
     <string name="Offline">"غـيـر مُـتَـصِـل"</string>
     <string name="Achievement_Earned">"تم تحقيق الإنجاز"</string>
     <string name="REFRESH">"تحديث"</string>
@@ -631,7 +631,8 @@
     <string name="Over_9000">"اعلى من 9000"</string>
     <string name="Omnipresence">"كلية الوجود"</string>
 
-    <string name="Shoot_9001_Powerups">"إطلاق 9001 من أسلحة الفوضى"</string>
+    <string name="Shoot_9001_Powerups">"إطلاق 9000
+        من أسلحة الفوضى"</string>
     <string name="Teleport_100_Times">"انتقال 100 مرة"</string>
     <string name="Shoot_20_Powerups_Without_Restarting">"إطلاق 20 من أسلحة القوة دون إعادة التشغيل"</string>
     <string name="Request_Timed_Out">"إنتهت مدة صلاحية الطلب"</string>
