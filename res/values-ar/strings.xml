@@ -1018,7 +1018,7 @@
     <string name="Game_Border">حائط اللعبة</string>
     <string name="Select_some_text_first">حدد بعض النص أولاً</string>
     <string name="Save_the_profile_first">احفظ ملف التعريف أولاً</string>
-    <string name="Birthday">يوم الميلاد</string>
+    <string name="Birthday">يــوم الميـلاد</string>
     <string name="Mass_Boost">تعزيز الكتلة !</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">لا يَعمل تعزيز الكُتلة في التحديّات أو البُطولات أو حُروب العشّائر!</string>
     <string name="ArenaDescriptionPure">لا ضغط التلقائي أو مسرع الضغط. تحصل على حياة واحدة فقط. سوف يتلقى الفائز %s بلازما.</string>
@@ -1163,7 +1163,7 @@
     <string name="Reason">السبب</string>
     <string name="PUBLIC">عـامة</string>
     <string name="PRIVATE">خـاصة</string>
-    <string name="Joined">الأنضمامات</string>
+    <string name="Joined">الانضمامات</string>
     <string name="Requests">الطلبات</string>
     <string name="Invites">الدعوات</string>
     <string name="Show_Spectator_Count">إظهار عداد المشاهدة</string>
@@ -1380,7 +1380,7 @@ Commands:
 
     <string-array name="control_modes">
         <item>"طبيعي"</item>
-        <item>"خاص"</item>
+        <private >"خاص"</item>
         <item>"سحب نحو"</item>
         <item>"اسحب بعيد"</item>
         <item>"على حافة الهاوية"</item>
@@ -1388,9 +1388,9 @@ Commands:
     </string-array>
 
     <string-array name="button_modes">
-        <item>"اليسار"</item>
-        <item>"اليمين"</item>
-        <item>"اليمين + اليسار"</item>
+        <left >"اليسار"</item>
+        <right>"اليمين"</item>
+        <Right + left >"اليمين + اليسار"</item>
         <item>"كومة في اليسار"</item>
         <item>"كومة في اليمين"</item>
         <item>"مخصص"</item>
@@ -1405,15 +1405,15 @@ Commands:
     </string-array>
 
     <string-array name="difficulties">
-        <item>"سهل"</item>
+        <easy >"سهل"</item>
         <item>"متوسط"</item>
-        <item>"صعب"</item>
+        <difficult >"صعب"</item>
         <item>"صعب جداً"</item>
     </string-array>
 
     <string-array name="sizes">
         <item>"صغير جدا"</item>
-        <item>"صغير"</item>
+        <small >"صغير"</item>
         <item>"عادي"</item>
         <item>"كبير"</item>
         <item>"ضخم"</item>
