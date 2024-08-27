@@ -10,7 +10,7 @@
     <string name="DEFAULTS">"PADRÕES"</string>
     <string name="WEEKLY">"SEMANAL"</string>
     <string name="DAILY">"DIÁRIO"</string>
-    <string name="Server_">"Servidor:"</string>
+    <string name="Server_">"Servidor:</string>
     <string name="Game_Mode_">"Modo de Jogo:"</string>
     <string name="Show_Names">"Mostrar Nomes"</string>
     <string name="Show_Avatars">"Mostrar Skins"</string>
@@ -31,9 +31,9 @@
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
 
-    <string name="_Rank_">" Posição "</string>
-    <string name="_Alias_">" Apelido "</string>
-    <string name="_Score_">" Ponto "</string>
+    <string name="_Rank_">" Posição:"</string>
+    <string name="_Alias_">" Apelido:"</string>
+    <string name="_Score_">" Ponto:"</string>
     <string name="Score__">"Ponto: "</string>
     <string name="Recombine_">"Recombinar em: "</string>
     <string name="WINNER_">"VENCEDOR:"</string>
@@ -48,7 +48,7 @@
     <string name="JOIN">"ENTRAR"</string>
 
 
-    <string name="Lobby_Name">"Nome da Sala"</string>
+    <string name="Lobby_Name">"Nome da Sala".</string>
     <string name="Not_found_">"Não encontrado."</string>
 
     <string name="Hidden">"Escondido"</string>
@@ -66,7 +66,7 @@
     <string name="SINGLE_PLAYER">"ÚNICO JOGADOR"</string>
     <string name="Background_">"Fundo:"</string>
     <string name="Difficulty_">"Dificuldade:"</string>
-    <string name="Delay_Disconnect">"Atrasar a Desconexão"</string>
+    <string name="Delay_Disconnect">"Atrasar a Desconexão:"</string>
 
     <string name="Max_Players">"Máx. de Jogadores"</string>
     <string name="Min_Players">"Mín. de Jogadores"</string>
@@ -79,8 +79,8 @@
     <string name="CREATE">"CRIAR"</string>
     <string name="CUSTOM_GAMES">"JOGOS PERSONALIZADOS"</string>
     <string name="CHAT">"CHAT"</string>
-    <string name="CUSTOM_SETUP">"AJUSTE PERSONALIZADO"</string>
-    <string name="CHAT_SETUP">"CONFIGURAÇÃO DO CHAT"</string>
+    <string name="CUSTOM_SETUP">"AJUSTE PERSONALIZADO:"</string>
+    <string name="CHAT_SETUP">"CONFIGURAÇÃO DO CHAT:"</string>
 
 
     <string name="ACCOUNT">"CONTA"</string>
