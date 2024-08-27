@@ -1364,7 +1364,7 @@ Comandos:
     <string name="Defenders">Defensores</string>
     <string name="Attackers">Atacantes</string>
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
-    <string name="Missing_Permissions">Permissões ausentes</string>
+    <string name="Missing_Permissions">Permissões em falta</string>
     <string name="DELETE_ACCOUNT">EXCLUIR CONTA</string>
     <string name="delete_prompt">Você tem certeza que quer excluir sua conta? Esta ação é PERMANENTE e NÃO PODE SER DESFEITA!</string>
 
