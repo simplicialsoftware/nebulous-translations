@@ -9,15 +9,15 @@
     <string name="Buttons_">"الأزرار:"</string>
     <string name="DEFAULTS">"الإفتراضي"</string>
     <string name="WEEKLY">"الأسبوعي"</string>
-    <string name="DAILY">"اليومي"</string>
-    <string name="Server_">"السيرفر"</string>
+    <string name="DAILY">"أليومي"</string>
+    <string name="Server_">"ألسيرفر"</string>
     <string name="Game_Mode_">"نوع اللعبة"</string>
     <string name="Show_Names">"إظهار الأسماء"</string>
     <string name="Show_Avatars">"إظهار الصور"</string>
     <string name="PLAY">"إلعب"</string>
     <string name="OPTIONS">"الإعدادات"</string>
 
-    <string name="Avatar_">"الصورة"</string>
+    <string name="Avatar_">"ألصورة"</string>
     <string name="Name_">"الإسم"</string>
 
     <string name="Loading___">"جاري التحميل…"</string>
@@ -26,7 +26,7 @@
     <string name="Are_You_Sure_">"هل أنت متأكد؟"</string>
     <string name="Yes">"نعم"</string>
     <string name="No">"لا"</string>
-    <string name="WAIT">"انتظر …"</string>
+    <string name="WAIT">"أنتظر …"</string>
     <string name="Must_Specify_Name_">"يجب تحديد الإسم."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
@@ -39,7 +39,7 @@
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"الخمول"</string>
     <string name="Name_Invalid_">"الإسم غير صالح !"</string>
-    <string name="Name_Taken_">"الاسم مستعمل."</string>
+    <string name="Name_Taken_">"الإسم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
     <string name="PLAYING">"في طور اللعب"</string>
@@ -55,7 +55,7 @@
 
 
     <string name="SERVER">"سيرفر"</string>
-    <string name="Joining_game_in_">"الانضمام للعبة "</string>
+    <string name="Joining_game_in_">"الإنضمام للعبة "</string>
     <string name="Game_Full">"اللعبه ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
@@ -483,7 +483,7 @@
 
 
     <string name="Already_in_arena_">"أنت في تحدي حاليّا"</string>
-    <string name="Already_in_queue_">"انت في القائمة حاليا."</string>
+    <string name="Already_in_queue_">"أنت في القائمة حاليا."</string>
     <string name="Invalid_Account_ID_">"رقم هوية الحساب غير صالح."</string>
 
     <string name="Validating">"التحقق من صحة"</string>
@@ -628,11 +628,11 @@
     <string name="Times_Teleported_">"عدد مرات الإنتقال:"</string>
     <string name="Powerups_Used_">"أسلحة الفوضى المستعملة:"</string>
     <string name="Power_Hungry">"المتعطش للقوة"</string>
-    <string name="Over_9000">"اعلى من 9000"</string>
+    <string name="Over_9000">"أعلى من 9000"</string>
     <string name="Omnipresence">"كلية الوجود"</string>
 
     <string name="Shoot_9001_Powerups">"إطلاق 9001 من أسلحة الفوضى"</string>
-    <string name="Teleport_100_Times">"انتقال 100 مرة"</string>
+    <string name="Teleport_100_Times">"إنتقال 100 مرة"</string>
     <string name="Shoot_20_Powerups_Without_Restarting">"إطلاق 20 من أسلحة القوة دون إعادة التشغيل"</string>
     <string name="Request_Timed_Out">"إنتهت مدة صلاحية الطلب"</string>
     <string name="You_Are_Spectating_">"أنت مشاهد."</string>
@@ -1375,7 +1375,7 @@ Commands:
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
     <string name="Translator">مترجم</string>
-    <string name="SUCCESS">تم بنجاح</string>
+    <string name="SUCCESS">نَاجح</string>
 
 
     <string-array name="control_modes">
