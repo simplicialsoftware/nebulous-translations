@@ -128,7 +128,7 @@
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
     <string name="CONTINUE">"متابعة"</string>
-    <string name="Global_" formatted="false">"عالميا"</string>
+    <string name="Global_" formatted="false">"عالميًا"</string>
     <string name="FRIEND_CHAT">"دردشة الأصدقاء"</string>
     <string name="LOBBY_NAME">"اسم الردهة"</string>
     <string name="NULL">"لا شيء"</string>
@@ -164,13 +164,13 @@
 
     <string name="Blobicide">"قاتل الدوائر"</string>
     <string name="Blobtrocity">"مستبد الدوائر"</string>
-    <string name="Blobaccre">"مفترس الدوائر"</string>
+    <string name="Blobaccre">"مُفترس الدوائر"</string>
     <string name="Blobastrophe">"ملتهم الدوائر"</string>
     <string name="Blobihilation">"مبيد الدوائر"</string>
     <string name="Blobageddon">"ماسح الدوائر"</string>
     <string name="Blobocalypse">"مدمر الدوائر"</string>
 
-    <string name="Experienced_Nebulator">"لاعب متمرس"</string>
+    <string name="Experienced_Nebulator">"لاعب مُتمرس"</string>
     <string name="Expert_Nebulator">"لاعب خبير"</string>
     <string name="Master_Nebulator">"لاعب متدرب"</string>
     <string name="Grand_Master_Nebulator">"لاعب محترف"</string>
