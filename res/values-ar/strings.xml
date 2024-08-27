@@ -896,8 +896,8 @@
     <string name="members">أعضاء</string>
     <string name="Delete_ALL_Messages_">حذف كل الرسائل!</string>
     <string name="SAVE_PROFILE">حفظ الحالة الشخصية</string>
-    <string name="Move">"نقل"</string>
-    <string name="New_Position">"مركز جديد"</string>
+    <string name="Move">نقل"</string>
+    <string name="New_Position">"موقع جديد"</string>
     <string name="ALLIANCES">"الحلفاء"</string>
     <string name="ENEMIES">"الأعداء"</string>
     <string name="NEW_ALLIANCE">"تحالف جديد"</string>
@@ -1211,7 +1211,7 @@
     <string name="Video_Ready_">الفيديو جاهز!</string>
     <string name="GIVE_PLASMA">"مَنح بلازما"</string>
     <string name="Specify_amount_">حدد المبلغ:</string>
-    <string name="Specify_amount_again_to_confirm_">حدد المبلغ مرة اخرى للإكمال:</string>
+    <string name="">حدد المبلغ مرة اخرى للإكمال:</string>
     <string name="Amounts_did_not_match_">المبلغ غير مُتطابق!</string>
     <string name="RECEIVE_PLASMA">تلقي البلازما</string>
     <string name="MULTIBLOB">مُتعددة النُسَخ</string>
