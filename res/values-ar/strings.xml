@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+ح<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"اللاعبين."</string>
     <string name="Control_">"التحكم"</string>
     <string name="CLOSE">"إغلاق"</string>
@@ -1300,7 +1300,7 @@
     <string name="Winner_Winner_Chicken_Dinner">رابح، والدجاج هو العَشاء!</string>
     <string name="Win_a_Battle_Royale_">حقق إنتصار في صِراع حتى النهاية.</string>
     <string name="Battle_">صِراع !</string>
-    <string name="BATTLE_ROYALE">صراع حتى النهاية!</string>
+    <string name="BATTLE_ROYALE">صِراع حتى النهاية!</string>
     <string name="Battle_Royale">صِراع حتى النهاية!</string>
     <string name="The_winner_will_receive_x_plasma_">الفائِز سوف يَحصُل على %s بلازما!</string>
     <string name="admin_commands">"
@@ -1411,8 +1411,7 @@ Commands:
         <item>"صعب جداً"</item>
     </string-array>
 
-    <string-array name="sizes">
-        <item>"صغير جدا"</item>
+    <string-array name="sizes"ردا"</item>
         <item>"صغير"</item>
         <item>"عادي"</item>
         <item>"كبير"</item>
