@@ -327,9 +327,9 @@
     <string name="COMPLETE">"تم الإنجاز"</string>
     <string name="INCOMPLETE">"لم يتم الإنجاز بعد"</string>
     <string name="Win_a_FFA_Time_Game">"الفوز في لعبة حر للجميع بالتوقيت:"</string>
-    <string name="Win_a_CTF_Game">"الفوز في لعبة إمساك العلم"</string>
+    <string name="Win_a_CTF_Game">"الفوز في لعبة إمساك العَلَمِ"</string>
     <string name="Win_a_Soccer_Game">"الفوز في لعبة كرة القدم"</string>
-    <string name="Win_a_Survival_Game">"الفوز بلعبة النجاة"</string>
+    <string name="Win_a_Survival_Game">"الفوز في لعبة النجاة"</string>
     <string name="Win_a_Teams_Time_Game">"الفوز في لعبة الفرق بالتوقيت"</string>
     <string name="Reach_a_score_of_">"الوصول إلى الدرجة "</string>
     <string name="_in_a_FFA_Game">" في لعبة حر للجميع"</string>
@@ -402,7 +402,7 @@
 
     <string name="Triple">"ثلاثي"</string>
     <string name="Leaf_Hoarder">"مكدس الأوراق"</string>
-    <string name="Collect_5000_leaves_">"جمع 5000من الأوراق."</string>
+    <string name="Collect_5000_leaves_">"جمع 5000 من الأوراق."</string>
 
 
     <string name="Arena">"تَحدي!"</string>
@@ -438,7 +438,7 @@
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"لا يمكن تطبيق مسرع جديد لنقاط الخبرة حتى ينتهي المسرع الحالي."</string>
     <string name="This_purchase_has_already_been_redeemed_">"تم إرجاع الشراء."</string>
 
-    <string name="You_cannot_remove_yourself__Leave_clan_instead_">"لا يمكنك ازالة نفسك .. يمكنك مغادرة العشيرة بدلاً عن ذلك."</string>
+    <string name="You_cannot_remove_yourself__Leave_clan_instead_">"لا يمكنك ازالة نفسك .. يمكنك مغادرة العشيرة بدلاً من ذلك."</string>
 
 
     <string name="until">"حتى"</string>
@@ -547,7 +547,7 @@
     <string name="Team_Created_">"تم إنشاء الفريق!"</string>
     <string name="Team_Arena">"تحدي الفريق"</string>
     <string name="No_Teams">"لا فِرق"</string>
-    <string name="team_arena_info">"بمجرد إنشاء فريق يمكنك دعوة وإزالة الأعضاءالأصدقاء مجانا. كما أنه مجاني للعب التحديات. لا يمكنك تغيير اسم فريقك بعدما يتم إنشاؤه!"</string>
+    <string name="team_arena_info">"بمجرد إنشاء فريق، يمكنك دعوة الأعضاء وإزالتهم مجانًا. كما أن لعب مباريات الساحة الجماعية مجاني أيضًا. لا يمكنك تغيير اسم فريقك بعد إنشائه!"</string>
 
 
     <string name="Invited">"تمت الدعوة"</string>
@@ -788,10 +788,10 @@
     <string name="Clan_Hero">"بطل العشيرة"</string>
     <string name="Win_1000_Clan_Wars">"الفوز بـ1000 حروب العشائر"</string>
     <string name="NAME_COLOR">"لون الإسم"</string>
-    <string name="name_color_instructions">"حدد الحروف التي تريد تغييرها ثم قم بـإختيار اللون."</string>
+    <string name="name_color_instructions">"حدد الحروف التي تريد تغييرها ثم اختر اللون."</string>
     <string name="Cannot_change_this_character_">"لا يمكن تغيير هذه الشخصية"</string>
     <string name="ZOMBIE_APOCALYPSE">"هجوم الزومبي"</string>
-    <string name="Survive_a_Zombie_Apocalypse">"االنجاة في هجوم الزومبي"</string>
+    <string name="Survive_a_Zombie_Apocalypse">"النجاة في هجوم الزومبي"</string>
     <string name="ZA">"الزومبي"</string>
     <string name="Pandemic">"الزومبي"</string>
     <string name="Immunity">"حصانة"</string>
@@ -879,7 +879,7 @@
     <string name="Tournament_Forming">يتم تشكيل البطولة الآن</string>
     <string name="TeamTourneyDescription">يجب عليك أنت وزميلك التسجيل للعب في بطولة الفرق. سوف يتم احتساب كل البلازما عند بدء البطولة ولكن يمكنك إلغاء التسجيل قبل أن تبدأ. تحتاج إلى%d من المتسابقين على الأقل للبدء.</string>
     <string name="Free_Agent">لاعب حر</string>
-    <string name="This_player_selected_a_different_teammate_"> هذا اللاعب المختار قد إختار زميلا ًآخر في الفريق.</string>
+    <string name="This_player_selected_a_different_teammate_"> هذا اللاعب المختار قد إختار زميلاً آخر في الفريق.</string>
     <string name="muted_until"> تم الكتم إلى </string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">تعدد المحتوى من التطبيق قد تتغير عند لعب متعددة.</string>
     <string name="UI_Opacity_">شفافية الواجهة</string>
@@ -994,7 +994,7 @@
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">قُبول جَمِيعْ طلباتِ الصَداقْة</string>
     <string name="App_Perf_Stats">إحصائيات أداء التطبيق</string>
     <string name="COPY">نسخ</string>
-    <string name="_1v1_Ultra">١ضد١ فائقه</string>
+    <string name="_1v1_Ultra">١ضد١ فائقة</string>
     <string name="ArenaDescriptionUltra">سيستلم الفائز %s بلازما.</string>
     <string name="BANNED">محظور</string>
     <string name="CLAN_MEMBERS">أعضاء العشيرة</string>
@@ -1115,7 +1115,7 @@
     <string name="TRICK_SPLIT">إنقسام الحركات</string>
     <string name="POP_SPLIT">إنقسام الانفجار</string>
     <string name="PUSH_SPLIT">إنقسام الدفع</string>
-    <string name="Level_Colors">اللوان المستوى</string>
+    <string name="Level_Colors">ألوان المستوى</string>
     <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكية!</string>
     <string name="Hooked">مُعلَق</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">لقد علقت في خطاف لمدة 10ثواني</string>
@@ -1128,12 +1128,12 @@
 
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">اشكال ,قبعات ,حيوانات وأكثر حصريا!</string>
     <string name="BUY_NOW_">اشتري الآن !</string>
-    <string name="already_purchased">أنت أو الشخص الذي تشتريه لهذا امتلاك هذا بالفعل.</string>
+    <string name="already_purchased">أنت أو الشخص الذي تشتري هذا من أجله يمتلك هذا بالفعل.</string>
     <string name="Halo_Animations">مؤثرات صورة حافة الدائرة</string>
     <string name="Trick_Notifications">اشعارات التلميحات</string>
     <string name="Channel">قناة</string>
     <string name="Choose_Text_Size">اختار حجم النص</string>
-    <string name="LEVEL_COLOR">مستوى اللون</string>
+    <string name="LEVEL_COLOR">لون المستوى</string>
     <string name="INITIATE">عضو جديد</string>
     <string name="x3_Clan_XP_Perm">3× نقاط خبرة العشيرة غير محدود</string>
     <string name="x2_Clan_XP_Perm">2× نقاط خبرة العشيرة غير محدود</string>
@@ -1142,7 +1142,7 @@
     <string name="Asia">آسيا</string>
     <string name="SET_PRIVACY">ضبط الخصوصية</string>
     <string name="ANIMATION">رسوم مُتحركة</string>
-    <string name="Color_Cycle">درة الألوان</string>
+    <string name="Color_Cycle">دورة الألوان</string>
     <string name="Fast">سريع</string>
     <string name="Slow">بطئ</string>
     <string name="Rainbow">ثُقب مُلوَّن</string>
@@ -1246,7 +1246,7 @@
     <string name="Background_Lightness_">شفافيّة الخلفيّة:</string>
     <string name="Background_Image_">الصورة الخلفيّة:</string>
     <string name="INVERT_SELECTION">عكس الأختيار</string>
-    <string name="MINIMAP">لعبة"خريطة"</string>
+    <string name="MINIMAP">"الخريطة المصغرة"</string>
     <string name="Victorious">مُنتصراً</string>
     <string name="Dominant">مُهيمن</string>
     <string name="Champion">بطل</string>
