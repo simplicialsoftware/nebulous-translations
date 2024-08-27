@@ -723,7 +723,7 @@
     <string name="Approved">"Aprovado"</string>
     <string name="Rejected">"Rejeitado"</string>
     <string name="Refunded">"Reembolsado"</string>
-    <string name="contribution_warning">"Tem certeza de que deseja contribuir com estas plasmas? As contribuições não serão reembolsadas."</string>
+    <string name="contribution_warning">"Tem certeza de que deseja contribuir com estes plasmas? As contribuições não serão reembolsadas."</string>
     <string name="Upload">"Enviar"</string>
 
     <string name="upload_warning">"Tem certeza de que deseja enviar esta skin? Outros jogadores serão capazes de ver esta skin. Pode levar até uma semana para a sua skin ser revisada. Skins inapropriadas serão rejeitadas e não serão reembolsadas!"</string>
