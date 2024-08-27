@@ -1193,7 +1193,7 @@
     <string name="DISABLED">الغاء التفعيل</string>
 
     <string name="Refund__Multiskin">استعادة نقودك /nMultiskin</string>
-    <string name="Invalid_Clan_ID_">اسم الكلان غير صالح</string>
+    <string name="Invalid_Clan_ID_">هوية العشيرة غير صالحة</string>
     <string name="MUTED">"حُظِر من الدَردَشة"</string>
     <string name="SKIN">سكن</string>
     <string name="Choose_Skin_Size">اختر حجم سكنك</string>
@@ -1366,7 +1366,7 @@ Commands:
 - مشاركة تقدمك مع اللاعبين
 - إنشاء وتخصيص الملف الشخصي
 - شراء البلازما في المتجر
-- يمكنك تحميل جلود المجتمع اللاعبين
+- تحميل جلود مجتمع اللاعبين
 
 "إذا كنت لا ترغب في تسجيل الدخول، يمكنك أيضًا اللعب الفردي.
     </string>
