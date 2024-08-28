@@ -1294,23 +1294,23 @@ KOMUTÊN RÊVEBİRÊ:
     <string name="x5_XP_Permanent">5x XP Daîmî</string>
     <string name="CAMPAIGN_2">CAMPAIGN 2</string>
     <string name="XP_5x">XP 5x</string>
-    <string name="India">India</string>
+    <string name="India">Hindistan</string>
     <string name="Tutorial">Perwerdekirin</string>
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">RENGE PAŞVERU YE KLAN</string>
     <string name="activate">Çalak Bike</string>
-    <string name="clan_id">CLAN ID</string>
+    <string name="clan_id">Nasnameya qebîleyê</string>
     <string name="language_change_warning">Guhestina ziman dibe sedema jinûve destpêkirina sepanê.</string>
     <string name="xmas_gift_boost_message">Te xelata 3x rojane 1 ya Piştgiriya Plazma wergirt!</string>
     <string name="no_response">Ji serverê bersiv nayê dayîn. Ji kerema xwe ve girêdana înternetê kontrol bikin.</string>
     <string name="RAMADAN">Remezanê</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="SUDDEN_ATTACK">Êrîşa ji nişka ve</string>
     <string name="_2x_skin_resolution">2x Kalîteya Çermê</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Hûn jixwe heval in.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Ji bo ku em bikarin nameyan bişînin divê hesab herî kêm 1 rojî be.</string>
     <string name="Translator">Wergêr</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">SERKETINÎ</string>
 
 
     <string-array name="control_modes">
