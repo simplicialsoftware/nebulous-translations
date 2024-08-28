@@ -851,7 +851,7 @@
     <string name="Clan_Pet_Uploads">Klan Skin Pet Upload</string>
     <string name="YT">YT</string>
     <string name="FREE_TODAY">GRATIS HARI INI!</string>
-    <string name="Cannot_cancel_this_skin_yet_">Belum Bisa Membatalkan Skin Ini.</string>
+    <string name="Cannot_cancel_this_skin_yet_">Belum bisa membatalkan skin ini.</string>
     <string name="SPLIT_16X">SPLIT 16x</string>
     <string name="SET_PUBLIC_DESCRIPTION">ATUR DESKRIPSI PUBLIK</string>
     <string name="SET_NOTE">ATUR CATATAN</string>
@@ -966,7 +966,7 @@
     <string name="ALLY">ALIANSI</string>
     <string name="Rename">GANTI NAMA</string>
     <string name="Set_friendly_name_">Atur nama teman.</string>
-    <string name="Leave_blank_for_none_">Kosongkan Untuk Tidak Ada.</string>
+    <string name="Leave_blank_for_none_">Kosongkan untuk tidak ada.</string>
     <string name="Vote_Kick">Vote Kick</string>
     <string name="FONT">HURUF</string>
     <string name="CIRCLE">LINGKARAN</string>
