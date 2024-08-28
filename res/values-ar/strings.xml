@@ -42,7 +42,7 @@
     <string name="Name_Taken_">"الاسم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
-    <string name="PLAYING">"في طور اللعب"</string>
+    <string name="PLAYING">"اللعب"</string>
     <string name="MULTIPLAYER">"متعدد اللاعبين"</string>
 
     <string name="JOIN">"إنضم"</string>
@@ -104,10 +104,10 @@
     <string name="Single_Player_Stats">"إحصائيات لاعب واحد"</string>
 
     <string name="Level">"المستوى"</string>
-    <string name="PAUSED">"توقف"</string>
+    <string name="PAUSED">"متوقف مؤقتًا"</string>
 
 
-    <string name="FRIENDS">"صَـديـق"</string>
+    <string name="FRIENDS">"الاصدقاء"</string>
     <string name="Warning">"تحذير"</string>
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
