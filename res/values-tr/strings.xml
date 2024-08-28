@@ -426,10 +426,10 @@
     <string name="Purchase_Successful_">"Satın alma işlemi başarı ile tamamlandı."</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Ürünü, kullanabilmeniz için oyuna yeniden bağlanmanız gerekebilmektedir."</string>
     <string name="Confirm_Purchase">"İşlemi Onaylayın"</string>
-    <string name="x3_XP_24_hours">"24 Saat Geçerli 3x XP"</string>
-    <string name="x3_XP_1_Hour">"1 Saat Geçerli 3x XP"</string>
-    <string name="x2_XP_24_Hour">"24 Saat Geçerli 2x XP"</string>
-    <string name="x2_XP_1_Hour">"1 Saat Geçerli 2x XP"</string>
+    <string name="x3_XP_24_hours">"24 Saatlik 3x XP"</string>
+    <string name="x3_XP_1_Hour">"1 Saatlik 3x XP"</string>
+    <string name="x2_XP_24_Hour">"24 Saatlik 2x XP"</string>
+    <string name="x2_XP_1_Hour">"1 Saatlik 2x XP"</string>
     <string name="Cost_">"Ücret:"</string>
     <string name="You_cannot_purchase_this_right_now_">"Üzgünüz, bu ögeyi şu anda satın alamazsınız."</string>
 
@@ -844,10 +844,10 @@
     <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"Bütün rakiplerinin 0 puanı var iken bir Boya Oyunu kazanın."</string>
     <string name="Win_a_Paint_game_in_60_seconds_or_less_">"60 saniye veya daha az bir sürede Boya Oyunu kazanın."</string>
     <string name="Autoclick">"Autoclick"</string>
-    <string name="Autoclick_24_Hours">"24 Saat Geçerli Autoclick"</string>
-    <string name="Autoclick_1_Hour">"1 Saat Geçerli Autoclick"</string>
-    <string name="Ultraclick_24_Hours">"24 Saat Geçerli Ultraclick"</string>
-    <string name="Ultraclick_1_Hour">"1 Saat Geçerli Ultraclick"</string>
+    <string name="Autoclick_24_Hours">"24 Saatlik Autoclick"</string>
+    <string name="Autoclick_1_Hour">"1 Saatlik Autoclick"</string>
+    <string name="Ultraclick_24_Hours">"24 Saatlik Ultraclick"</string>
+    <string name="Ultraclick_1_Hour">"1 Saatlik Ultraclick"</string>
     <string name="Ultraclick">"UltraClick"</string>
     <string name="May_Reduce_Lag">"(Gecikmeyi Azaltabilmektedir)"</string>
     <string name="Ultraclick_Permanent">"Kalıcı Ultraclick"</string>
@@ -1321,7 +1321,7 @@ Komutlar:
 !kick [0–31]( Oyuncuyu At )
 !reset( Sıfırla )
 !welcome {message} ( Karşılama Mesajı )
-!difficulty [0-3] ya da [1-4] for Kampanya ( Zorluk Seviyesi )
+!difficulty [0-3] ya da [1-4] Kampanya İçin ( Zorluk Seviyesi )
 !hidden ( Gizli )
 !guests ( Misafirler )
 !slowchat ( Yavaş Sohbet )
@@ -1336,7 +1336,7 @@ Komutlar:
     <string name="Master_Tamer">"Usta Evcilleştirici"</string>
     <string name="Get_ALL_Pets_To_Level_100_">"Tüm Evcil Hayvanları 100. seviye yapın."</string>
     <string name="TAMER">"EVCİLLEŞTİRİCİ"</string>
-    <string name="Allow_Recombine">"Yeniden Birleşmeye izin ver"</string>
+    <string name="Allow_Recombine">"Yeniden Birleşmeye İzin Ver"</string>
     <string name="Defenders">"Koruyucular"</string>
     <string name="Attackers">"Saldıranlar"</string>
     <string name="MEGA_SPLIT">"BÜYÜK BÖLÜNME 64x"</string>
@@ -1389,6 +1389,7 @@ Oturum açmak istemiyorsanız, tek oyunculu modumuzu oynamaya devam edebilirsini
     <string name="Account_must_be_1_day_old_to_send_mail_">Posta gönderebilmeniz için hesabınızın en az 1 günlük olması gerekmektedir.</string>
     <string name="Translator">Çevirmen</string>
     <string name="SUCCESS">BAŞARI</string>
+    <string name="PLAYER NOT FOUND">"OYUNCU BULUNAMADI"</string>
 
     <string-array name="control_modes">
         <item>"Normal"</item>
