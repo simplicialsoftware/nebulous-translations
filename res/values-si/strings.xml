@@ -1240,16 +1240,16 @@
     <string name="Estimated_Earnings_">"Estimated Earnings: "</string>
     <string name="South_Africa">South Africa</string>
     <string name="SPLIT_">SPLIT:</string>
-    <string name="WALLS">WALLS</string>
-    <string name="COMP_BANNED">COMP BANNED</string>
-    <string name="FIND_GAMES">FIND GAMES</string>
-    <string name="PLAY_SOLO">PLAY SOLO</string>
-    <string name="SET_EMOTE">SET EMOTE</string>
-    <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
-    <string name="Win_a_Battle_Royale_">Win a Battle Royale.</string>
-    <string name="Battle_">Battle!</string>
-    <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
-    <string name="Battle_Royale">Battle Royale</string>
+    <string name="WALLS">බිත්ති</string>
+    <string name="COMP_BANNED">තහනම් සමාගම්</string>
+    <string name="FIND_GAMES">සෙවුම් ක්රීඩා</string>
+    <string name="PLAY_SOLO">තනියම සෙල්ලම් කරන්න</string>
+    <string name="SET_EMOTE">ඉමොජි ප්‍රකාශන සීරුමාරු කරන්න</string>
+    <string name="Winner_Winner_Chicken_Dinner">ජයග්‍රාහකයා ජයග්‍රාහකයා චිකන් රාත්‍රී ආහාරය!</string>
+    <string name="Win_a_Battle_Royale_">දිනනවා සටන් රාජකීය.</string>
+    <string name="Battle_">සටන!</string>
+    <string name="BATTLE_ROYALE">සටන් රාජකීය</string>
+    <string name="Battle_Royale">සටන් රාජකීය</string>
     <string name="The_winner_will_receive_x_plasma_">The winner will receive %s plasma!</string>
     <string name="admin_commands">"
 Commands:
@@ -1298,19 +1298,19 @@ Commands:
     <string name="Tutorial">Tutorial</string>
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
-    <string name="activate">Activate</string>
-    <string name="clan_id">CLAN ID</string>
+    <string name="activate">සක්රිය කරන්න</string>
+    <string name="clan_id">වංශ හැඳුනුම්පත</string>
     <string name="language_change_warning">Changing the language will cause the app to restart.</string>
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
+    <string name="no_response">සේවාදායකයෙන් ප්‍රතිචාරයක් නොමැත කරුණාකර අන්තර්ජාල සම්බන්ධතාව පරීක්ෂා කරන්න.</string>
     <string name="RAMADAN">රාමදාන්</string>
     <string name="SUDDEN_ATTACK">හදිසි ප්‍රහාරයක්</string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
-    <string name="pm">PM</string>
+    <string name="pm">හවස</string>
     <string name="You_are_already_friends_">ඔබ දැනටමත් මිතුරන්.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">තැපැල් යැවීමට ගිණුම දින එකක්ක් පැරණි විය යුතුය..</string>
     <string name="Translator">පරිවර්තකයා</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">සාර්ථකත්වය</string>
 
 
     <string-array name="control_modes">
@@ -1328,22 +1328,22 @@ Commands:
         <item>"අයිතිය + වම"</item>
         <item>"අඩුක්කුව වාමාංශික"</item>
         <item>"අඩුක්කුව අයිතිය"</item>
-        <item>"Custom"</item>
+        <item>"අභිරුචි"</item>
     </string-array>
 
     <string-array name="themes">
         <item>"තරු (තද)"</item>
         <item>"විදුලි බල පද්ධතියට (තද)"</item>
         <item>"විදුලි බල පද්ධතියට (සුදු)"</item>
-        <item>"Custom"</item>
+        <item>"අභිරුචි"</item>
         <item>"නැහැ"</item>
     </string-array>
 
     <string-array name="difficulties">
         <item>"පහසු"</item>
         <item>"මධ්යම"</item>
-        <item>"Hard"</item>
-        <item>"IMPOSSIBLE"</item>
+        <item>"දුෂ්කර"</item>
+        <item>"නොහැකියි"</item>
     </string-array>
 
     <string-array name="sizes">
@@ -1351,11 +1351,11 @@ Commands:
         <item>"කුඩා"</item>
         <item>"සාමාන්ය"</item>
         <item>"මහා"</item>
-        <item>"HUGE"</item>
+        <item>"දැවැන්ත"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
-        <item>"Duo (2v2)"</item>
+        <item>"ද්විපාර්ශ්වික (2v2)"</item>
         <item>"ඉතා කුඩා (3v3)"</item>
         <item>"කුඩා (5v5)"</item>
         <item>"සාමාන්ය (8v8)"</item>
