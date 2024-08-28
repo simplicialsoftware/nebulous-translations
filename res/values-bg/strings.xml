@@ -376,25 +376,25 @@
 
     <string name="W_D_L">"WDL"</string>
     <string name="MATCH_START">"НАЧАЛО НА МАЧА"</string>
-    <string name="Clan_Warrior">"Воин на клана"</string>
-    <string name="Win_a_Clan_War">"Спечели война на кланове"</string>
+    <string name="Clan_Warrior">"Воин на Клана"</string>
+    <string name="Win_a_Clan_War">"Спечели Bойна на Kланове"</string>
     <string name="Global">"Глобално"</string>
     <string name="Spectating">"Зрител"</string>
 
 
     <string name="snowflakes_">"снежинки."</string>
     <string name="presents_">"подаръци."</string>
-    <string name="Snowflake_Collector">"Събирач на снежинки"</string>
-    <string name="Present_Collector">"Събирач на подаръци"</string>
+    <string name="Snowflake_Collector">"Събирач на Cнежинки"</string>
+    <string name="Present_Collector">"Събирач на Подаръци"</string>
 
 
     <string name="Season">"Сезон"</string>
     <string name="The_next_season_begins">"Следващият сезон започва"</string>
 
     <string name="Current">"Ток"</string>
-    <string name="leaves_">"листа."</string>
-    <string name="Leaf_Collector">"Събирач на листа"</string>
-    <string name="Collect_1000_leaves_">"Събирайте 1000 листа."</string>
+    <string name="leaves_">"Листа."</string>
+    <string name="Leaf_Collector">"Събирач на Листа"</string>
+    <string name="Collect_1000_leaves_">"Събирайте 1000 Листа."</string>
     <string name="XP_Boost">"XP Boost"</string>
     <string name="Double">"Двойно"</string>
     <string name="Hour">"Час"</string>
