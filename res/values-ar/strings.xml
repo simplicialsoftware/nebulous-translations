@@ -128,7 +128,7 @@
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
     <string name="CONTINUE">"متابعة"</string>
-    <string name="Global_" formatted="false">"عالميا"</string>
+    <string name="Global_" formatted="false">"عالميآ"</string>
     <string name="FRIEND_CHAT">"دردشة الأصدقاء"</string>
     <string name="LOBBY_NAME">"اسم الردهة"</string>
     <string name="NULL">"لا شيء"</string>
@@ -454,7 +454,7 @@
     <string name="View_Profile">"عرض الصفحة الشخصية"</string>
     <string name="Send_Message">"إرسال رسالة"</string>
     <string name="Account_ID">"رقم هوية الحساب"</string>
-    <string name="Player_Name">"اسم اللاعب"</string>
+    <string name="Player_Name">"إسم اللاعب"</string>
 
     <string name="Daily_Reward">"المكافأة اليومية"</string>
     <string name="Reset">"إعادة تعيين"</string>
