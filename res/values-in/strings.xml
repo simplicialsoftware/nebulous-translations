@@ -966,9 +966,9 @@
     <string name="ALLY">ALIANSI</string>
     <string name="Rename">GANTI NAMA</string>
     <string name="Set_friendly_name_">Atur nama teman.</string>
-    <string name="Leave_blank_for_none_">Kosongkan untuk tidak ada.</string>
+    <string name="Leave_blank_for_none_">Kosongkan Untuk Tidak Ada.</string>
     <string name="Vote_Kick">Vote Kick</string>
-    <string name="FONT">Huruf</string>
+    <string name="FONT">HURUF</string>
     <string name="CIRCLE">LINGKARAN</string>
     <string name="SQUARES">PERSEGI</string>
     <string name="TRICK_MODE">TRIK MODE</string>
@@ -1115,7 +1115,7 @@
     <string name="setting_changed">Pengaturan diperbarui. Anda mungkin perlu menyambung kembali ke server agar dapat diterapkan.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Perform 10,000 tricks in a Trick Mode game.</string>
     <string name="Tricky">Penuh Akal</string>
-    <string name="SUPPORTER">PENDUKUNG</string>
+    <string name="SUPPORTER">VIP</string>
     <string name="CONQUEROR">PENAKLUK</string>
     <string name="TRICKY">PENUH AKAL</string>
     <string name="x4_XP_Permanent">4x XP Permanen</string>
