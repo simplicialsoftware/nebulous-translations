@@ -603,7 +603,7 @@
     <string name="Eject">"Kulki"</string>
     <string name="Eject_Skin">"Kulki"</string>
     <string name="Double_Plasma__">"Podwójna Plazma"</string>
-    <string name="Ends">"kończy się"</string>
+    <string name="Ends">"Kończy się"</string>
     <string name="Select_Clan_Member">"Wybierz Klanowicza"</string>
     <string name="Inappropriate_Skin">"Nieodpowiednia Skórka"</string>
     <string name="Approved">"Zatwierdzona"</string>
@@ -611,7 +611,7 @@
     <string name="Refunded">"Zwrócona"</string>
     <string name="contribution_warning">"Czy na pewno chcesz wpłacić tę plazmę? Nie ma możliwości jej zwrotu."</string>
     <string name="Upload">"PRZEŚLIJ"</string>
-    <string name="upload_warning">"Czy na pewno chcesz przesłać tę skórkę tak, aby inni gracze mogą ją zobaczyć? Rozpatrzenie skórki może potrwać do tygodnia. Nieodpowiednie skórki będą odrzucane i nie będą zwracane!"</string>
+    <string name="upload_warning">"Czy na pewno chcesz przesłać tę skórkę tak, aby inni gracze mogli ją zobaczyć? Rozpatrzenie skórki może potrwać do tygodnia. Nieodpowiednie skórki będą odrzucane i nie będą zwracane!"</string>
     <string name="In_Review">"W Toku Rozpatrzenia"</string>
     <string name="Account_Uploads">"Moje Skórki"</string>
     <string name="Clan_Uploads">"Klanowe Skórki"</string>
@@ -666,7 +666,7 @@
     <string name="Failed_to_send_mail_">"Nie udało się wysłać maila."</string>
     <string name="In_Game_Mail">"Maile w Grze"</string>
     <string name="Nav_Buttons_">"Przyciski Interfejsu:"</string>
-    <string name="account_warning">"Dbaj o bezpieczeństwo swojego konta i nigdy nie udostępniaj innym osobom danych do logowania."</string>
+    <string name="account_warning">"Dbaj o bezpieczeństwo swojego konta i nigdy nie udostępniaj danych do logowania innym osobom!."</string>
     <string name="Clan_Hero">"Klanowy Bohater"</string>
     <string name="Win_1000_Clan_Wars">"Wygraj 1.000 Wojen Klanowych."</string>
     <string name="NAME_COLOR">"KOLOR NAZWY"</string>
@@ -739,8 +739,8 @@
     <string name="Spin_">"Kręć!"</string>
     <string name="Next_Spin">"Następny darmowy los"</string>
     <string name="Wheel_Of_Nebulous_">"Koło Nebulous!"</string>
-    <string name="XP_2x">"XP 2x"</string>
-    <string name="XP_3x">"XP 3x"</string>
+    <string name="XP_2x">"x2 XP"</string>
+    <string name="XP_3x">"x3 XP"</string>
     <string name="NOW">"TERAZ"</string>
     <string name="Team_Deathmatch_Domination">"Dominacja Pojedynku Drużynowego"</string>
     <string name="We_Will_Survive">"W Grupie Siła"</string>
@@ -841,11 +841,11 @@ Zasady Nebulous\n
 8. Przestrzegaj poleceń Moderatorów.\n
 9. Nie wykorzystuj błędów w grze.\n
 10. Nie wyrzucaj wielu członków klanu bez zgody lidera.\n
-10. Nie ufaj niepewnym informacjom.\n
-11. W grach drużynowych nie współpracuj z graczami przeciwnej drużyny.\n
-12. Nigdy nie oszukuj Moderatorów.\n
-13. Nie wymieniaj klanów Nebulous na pieniądze lub plazmę.\n
-13. Nie spamuj na czacie ani w wiadomościach mailowych.\n
+11. Nie ufaj niepewnym informacjom.\n
+12. W grach drużynowych nie współpracuj z graczami przeciwnej drużyny.\n
+13. Nigdy nie oszukuj Moderatorów.\n
+14. Nie wymieniaj klanów Nebulous na pieniądze lub plazmę.\n
+15. Nie spamuj na czacie ani w wiadomościach mailowych.\n
         \n
 Jeśli nie dostosujesz się do którejkolwiek z tych zasad, twoje konto może zostać zbanowane.\n
 (Czas kary może wynosić od kilku godzin do permanentnego bana, w zależności od sytuacji i wagi problemu)..\n
@@ -1046,7 +1046,7 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="Other_players_will_not_be_able_to_hear_you_">"Inni gracze nie będą mogli ciebie usłyszeć!"</string>
     <string name="Allow_permission_to_enable_voice_recording_">"Nebulous potrzebuje uprawnienia do nagrywania głosu."</string>
     <string name="voice_chat_prompt">"Ocena zawartości aplikacji może ulec zmianie po włączeniu czatu głosowego. Aby uzyskać najlepszą jakość dźwięku, użyj słuchawek z wbudowanym mikrofonem."</string>
-    <string name="Only_leader_can_answer_requests_">"Tylko Lider może rozpatrywać prośby o dołączenie." </string>
+    <string name="Only_leader_can_answer_requests_">"Tylko Lider może rozpatrzyć prośbę o dołączenie." </string>
     <string name="Sent_request_not_invited_">"Prośba o dołączenie została wysłana (nie zaproszono)." </string>
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">"USUŃ SKÓRKĘ ZE SPOŁECZNOŚCI!"</string>
     <string name="This_cannot_be_undone_">"Ta decyzja jest nieodwracalna!"</string>

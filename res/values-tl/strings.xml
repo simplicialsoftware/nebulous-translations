@@ -86,7 +86,7 @@
     <string name="To_use_this_skin_you_must_reach_level">"Upang magamit ang skin na ito, kailangan mo munang maabot ang lebel ng:"</string>
     <string name="SIGN_IN">"SIGN IN:"</string>
     <string name="Single_Player_Stats">"Estatistika ng isang manlalaro:"</string>
-    <string name="Level">"Lebel:"</string>
+    <string name="Level">"Antas:"</string>
     <string name="PAUSED">"NAKA-PAUSE"</string>
     <string name="FRIENDS">"MGA KAIBIGAN"</string>
     <string name="Warning">"Babala"</string>
@@ -270,7 +270,7 @@
     <string name="Daily_Quest_Complete_">"Daily Quest Complete:"</string>
     <string name="COPY_ID">"COPY ID:"</string>
     <string name="My_Account_ID">"Ang aking Account ID:"</string>
-    <string name="COMPLETE">"COMPLETE:"</string>
+    <string name="COMPLETE">"KUMPLETO:"</string>
     <string name="INCOMPLETE">"HINDI KUMPLETO:"</string>
     <string name="Win_a_FFA_Time_Game">"Manalo sa isang FFA na may oras na laro:"</string>
     <string name="Win_a_CTF_Game">"Manalo sa isang CTF na laro:"</string>
@@ -451,7 +451,7 @@
     <string name="team_arena_info">"Sa sandaling lumikha ka ng isang pangkat, maaari mong anyayahan at alisin ang mga miyembro ng libre. Ito ay libre upang i-play team arena matches din. Hindi mo maaaring baguhin ang pangalan ng iyong pangkat sa sandaling ito ay nalikha!"</string>
     <string name="Invited">"Inimbitahan"</string>
     <string name="Invitation_Sent">"Ang Imbitasyon ay na-send"</string>
-    <string name="REPORT">"REPORT"</string>
+    <string name="REPORT">"ULAT"</string>
     <string name="Reported">"Naiulat"</string>
     <string name="Threats">Mga banta"</string>
     <string name="Spam">"Spam"</string>

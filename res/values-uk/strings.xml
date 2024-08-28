@@ -1258,10 +1258,10 @@
 !reset
 !welcome {message}
 !difficulty [0-3] чи [1-4] для Кампанії 
-!hidden
+!hidden - змінити приховану кімнату
 !guests
-!slowchat
-!pausechat
+!slowchat - змінити повільний чат
+!pausechat - призупинити чат на деякий час
 !mute {id}
 !admin {id}
 !allow {id}

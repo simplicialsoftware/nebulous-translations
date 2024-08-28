@@ -139,7 +139,7 @@
     <string name="FFA_TIME">"حر للجميع 'بالتوقيت' "</string>
     <string name="TEAMS">"الفِرق"</string>
     <string name="TEAMS_TIME">"الفِرق 'بالتوقيت'"</string>
-    <string name="CTF">"إمساك العلم"</string>
+    <string name="CTF">"إمساك العَلَمِ"</string>
     <string name="SURVIVAL">"النجاة"</string>
 
 
@@ -190,10 +190,10 @@
     <string name="Absorb_300_dots">"استيعاب ٣٠٠ نقطة"</string>
     <string name="Absorb_1_000_dots">"استيعاب ج ١٠٠٠ نقطة"</string>
     <string name="Absorb_5_000_dots">"استيعاب ٥٠٠٠ نقطة"</string>
-    <string name="Absorb_10_000_dots">"استيعاب ١٠٠٠٠ النقاط"</string>
-    <string name="Absorb_50_000_dots">"استيعاب ٥٠٠٠٠ النقاط"</string>
+    <string name="Absorb_10_000_dots">"استيعاب ١٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_50_000_dots">"استيعاب ٥٠،٠٠٠ النقاط"</string>
     <string name="Absorb_100_000_dots">"استيعاب ١٠٠،٠٠٠ النقاط"</string>
-    <string name="Absorb_1_000_000_dots">"استيعاب ١٠٠٠٠٠٠ النقاط"</string>
+    <string name="Absorb_1_000_000_dots">"استيعاب ١،٠٠٠،٠٠٠ النقاط"</string>
 
     <string name="Absorb_4_blobs_quickly">"استيعاب ٤ من الدوائر بسرعة"</string>
     <string name="Absorb_8_blobs_quickly">"استيعاب ٨ من الدوائر بسرعة"</string>
@@ -212,11 +212,11 @@
 
     <string name="Reach_a_score_of_1_000">" الوصول الى ١٠٠٠ درجة"</string>
     <string name="Reach_a_score_of_5_000">"الوصول الى ٥٠٠٠ درجة"</string>
-    <string name="Reach_a_score_of_10_000">"الوصول الى ١٠٠٠٠ درجة"</string>
-    <string name="Reach_a_score_of_15_000">"الوصول إلى ١٥٠٠٠ درجة"</string>
-    <string name="Reach_a_score_of_20_000">"الوصول إلى ٢٠٠٠٠ درجة"</string>
+    <string name="Reach_a_score_of_10_000">"الوصول الى ١٠،٠٠٠ درجة"</string>
+    <string name="Reach_a_score_of_15_000">"الوصول إلى ١٥،٠٠٠ درجة"</string>
+    <string name="Reach_a_score_of_20_000">"الوصول إلى ٢٠،٠٠٠ درجة"</string>
 
-    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"الوصول إلى ١٠٠٠٠ درجة دورة أي دائرة"</string>
+    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"الوصول إلى ١٠،٠٠٠ درجة دورة أي دائرة"</string>
     <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"الوصول إلى ٥٠٠٠ درجة دون تقسيم أو إخراج"</string>
     <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"لعب ٥ دقائق مباشرة دون الإصطدام مع أي ثقب أسود"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"لعب ٥ دقائق مباشرة دون أن تفقد أي دائرة"</string>
@@ -411,7 +411,7 @@
 
     <string name="Purchase_History">"سِجِل المشتريات"</string>
 
-    <string name="Purchases_Unavailable_">"غير متوفر!"</string>
+    <string name="Purchases_Unavailable_">"المُشتريات غير متوفرة!"</string>
     <string name="You_can_purchase_this_skin_for">"يمكنك شراء هذه الصورة!"</string>
     <string name="PURCHASE">"شراء"</string>
     <string name="Error_in_backup_data_">"خطأ في البيانات الاحتياطية!"</string>
@@ -463,7 +463,7 @@
     <string name="Plasma_Collector">"جامع البلازما"</string>
     <string name="Plasma_Hoarder">"مكدس البلازما"</string>
     <string name="Collect_1_000_Plasma">"جمع 1000 من البلازما."</string>
-    <string name="Collect_10_000_Plasma_">"جمع 10000 من البلازما."</string>
+    <string name="Collect_10_000_Plasma_">"جمع 10،000 من البلازما."</string>
     <string name="Collect_100_000_Plasma">"جمع 100،000 من البلازما."</string>
     <string name="Plasma_Collected_">"البلازما المجموعة :"</string>
     <string name="Plasma_Purchases">"مشتريات البلازما"</string>
@@ -586,7 +586,7 @@
     <string name="Please_wait_a_minute_before_sending_another_report_">"يرجى الانتظار لمدة دقيقة قبل أن ترسل تقرير آخر."</string>
     <string name="Collect_1_000_beads_">"جمع 1000 من الكريات."</string>
     <string name="Collect_5_000_beads_">"جمع 5000 من الكريات."</string>
-    <string name="Collect_10_000_beads_">"جمع 10000 من الكريات."</string>
+    <string name="Collect_10_000_beads_">"جمع 10،000 من الكريات."</string>
     <string name="Bead_Collector">"جامع الكريات"</string>
     <string name="Bead_Hoarder">"مكدس الكريات"</string>
     <string name="Bead_Mogul">"ملك الكريات"</string>
@@ -645,7 +645,7 @@
     <string name="Raindrop_Mogul">"ملك تجميع قطرات المطر"</string>
     <string name="Collect_1_000_raindrops_">"جمع 1000 من قطرات المطر."</string>
     <string name="Collect_5_000_raindrops_">"جمع 5000 من قطرات المطر."</string>
-    <string name="Collect_10_000_raindrops_">"جمع 10000 من قطرات المطر."</string>
+    <string name="Collect_10_000_raindrops_">"جمع 10،000 من قطرات المطر."</string>
     <string name="Copy_Message">"نسخ الرسالة"</string>
     <string name="Copied_to_clipboard_">"تم النسخ إلى الحافظة."</string>
     <string name="COPY_NAME">"نسخ الإسم"</string>
@@ -665,7 +665,7 @@
     <string name="Nebula_Mogul">"ملك تجميع السدم"</string>
     <string name="Collect_1_000_nebulas_">"جمع 1000 من السدم."</string>
     <string name="Collect_5_000_nebulas_">"جمع 5000 من السدم."</string>
-    <string name="Collect_10_000_nebulas_">"جمع 10000 من السدم."</string>
+    <string name="Collect_10_000_nebulas_">"جمع 10،000 من السدم."</string>
     <string name="nebulas_">"السدم."</string>
     <string name="Incompatible_versions_">"إصدارات غير متوافقة."</string>
     <string name="Update_Available_">"يوجد تحديث!"</string>
@@ -680,7 +680,7 @@
     <string name="Sun_Mogul">"ملك تجميع الشموس"</string>
     <string name="Collect_1_000_suns_">"جمع 1000 من الشموس."</string>
     <string name="Collect_5_000_suns_">"جمع 5000 من الشموس."</string>
-    <string name="Collect_10_000_suns_">"جمع 10000 من الشموس."</string>
+    <string name="Collect_10_000_suns_">"جمع 10،000 من الشموس."</string>
     <string name="Reward_Videos_">"مكافأة الفيديو!"</string>
     <string name="Free_Plasma_">"بلازما مجانية!"</string>
     <string name="moons_">"أقمار."</string>
@@ -689,7 +689,7 @@
     <string name="Moon_Mogul">"ملك تجميع الأقمار"</string>
     <string name="Collect_1_000_moons_">"جمع 1000 من الأقمار."</string>
     <string name="Collect_5_000_moons_">"جمع 5000 من الأقمار."</string>
-    <string name="Collect_10_000_moons_">"جمع 10000 من الأقمار."</string>
+    <string name="Collect_10_000_moons_">"جمع 10،000 من الأقمار."</string>
     <string name="BLUETOOTH">"بلوتوث"</string>
     <string name="HOST">"مُضيف"</string>
     <string name="This_device_does_not_support_bluetooth_">"هذا الجهاز لا يدعم البلوتوث"</string>
@@ -705,14 +705,14 @@
     <string name="Note_Mogul">"ملك رموز الموسيقى"</string>
     <string name="Collect_1_000_notes_">"جمع 1000 من رموز الموسيقى."</string>
     <string name="Collect_5_000_notes_">"جمع 5000 من رموز الموسيقى."</string>
-    <string name="Collect_10_000_notes_">"جمع 10000 من رموز الموسيقى."</string>
+    <string name="Collect_10_000_notes_">"جمع 10،000 من رموز الموسيقى."</string>
     <string name="notes_">"رموز الموسيقى."</string>
     <string name="CLICK_CHEAT_DETECTED_">"اتم إكتشاف برامج غش!"</string>
     <string name="Pumpkin_Hoarder">"مكدس اليقطين"</string>
     <string name="Pumpkin_Mogul">"ملك تجميع اليقطين"</string>
     <string name="Leaf_Mogul">"ملك تجميع الأوراق"</string>
     <string name="Collect_5000_pumpkins_">"جمع 5000 من اليقطين."</string>
-    <string name="Collect_10000_pumpkins_">"جمع 10000 من اليقطين."</string>
+    <string name="Collect_10000_pumpkins_">"جمع 10،000 من اليقطين."</string>
     <string name="Collect_10000_leaves_">"جمع 10،000 من الأوراق."</string>
     <string name="Eject">"إطلاق"</string>
     <string name="Eject_Skin">"صورة الإطلاق"</string>
@@ -749,7 +749,7 @@
     <string name="Other_players_can_not_see_your_skin_">"اللاعبون الآخرون لا يمكنهم رؤية صورتك."</string>
     <string name="Other_players_can_see_your_skin_">"اللاعبون الآخرون يمكنهم رؤية صورتك."</string>
     <string name="LEGEND">"أسطورة"</string>
-    <string name="Win_10000_Arenas">"الفوز بـ 10000 تحدي"</string>
+    <string name="Win_10000_Arenas">"الفوز بـ 10،000 تحدي"</string>
     <string name="UPLOAD_PREVIEW">" مراجعة للتحميل "</string>
     <string name="Transparency">"الشفافية"</string>
     <string name="upload_info">"كلما كانت الصورة بسيطة كلما تظهر الجودة على دائرتك أفضل"</string>
@@ -884,14 +884,14 @@
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">تعدد المحتوى من التطبيق قد تتغير عند لعب متعددة.</string>
     <string name="UI_Opacity_">شفافية الواجهة</string>
     <string name="LOAD">تحميل المخزن</string>
-    <string name="REMOVE">طرد</string>
+    <string name="REMOVE">ازالة</string>
     <string name="BAN">حظر</string>
     <string name="MODERATORS">المدراء</string>
     <string name="ALL_CLAN">كل العشيرة</string>
     <string name="CO_LEADER">قائِد مُساعد</string>
     <string name="CLAN_HOUSE">بَيتُ العشيرة!</string>
 
-    <string name="ROOM">مقر</string>
+    <string name="ROOM">غرفة</string>
     <string name="EXPERIMENTAL">تجريبي</string>
     <string name="members">أعضاء</string>
     <string name="Delete_ALL_Messages_">حذف كل الرسائل!</string>
@@ -908,7 +908,7 @@
     <string name="x3_Clan_XP_1_Day">"مسرع نقاط خبرة العشيرة X3 ليوم واحد"</string>
     <string name="x2_Clan_XP_1_Day">"مسرع نقاط خبرة العشيرة X2 ليوم واحد"</string>
     <string name="Pets">"الحيوانات الأليفة"</string>
-    <string name="Pet">"حيوان اليف"</string>
+    <string name="Pet">"حيوان أليف"</string>
     <string name="You_can_purchase_this_pet_for">" يمكن شراء هذا الحيوان الأليف بـ"</string>
     <string name="gift_to_friend">"هدية لصديق"</string>
     <string name="gift_purchase_warning">"لن تتلقى عملية الشراء هذه لأنك اخترت تقديم هدية لعملية الشراء هذه إلى صديق."</string>
@@ -1116,7 +1116,7 @@
     <string name="POP_SPLIT">إنقسام الانفجار</string>
     <string name="PUSH_SPLIT">إنقسام الدفع</string>
     <string name="Level_Colors">اللوان المستوى</string>
-    <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكيه!</string>
+    <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكية!</string>
     <string name="Hooked">مُعلَق</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">لقد علقت في خطاف لمدة 10ثواني</string>
     <string name="Pack">حزمة</string>
@@ -1186,7 +1186,7 @@
     <string name="Set_Skin">وضع البشرة </string>
     <string name="Primary">ابتدائي )اساسي)</string>
     <string name="Secondary">ثانوي</string>
-    <string name="Both">اثنين معا</string>
+    <string name="Both">اثنين معاً</string>
 
     <string name="Enable__Multiskin">"تفعيل \n متعددة الجلد"</string>
     <string name="MULTISKIN">مُتعددة الجِلد</string>
@@ -1256,7 +1256,7 @@
     <string name="CHAMPION">بطل</string>
     <string name="DASH">إندفاع</string>
     <string name="setting_changed">تحديث الضبط، قد تحتاج إلى إعادة الأتصال بالخادم حتى يتم تفعيله.</string>
-    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">قم بفِعل 10.000 ترك في طور الحركات.</string>
+    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">قم بفِعل 10،000 ترك في طور الحركات.</string>
     <string name="Tricky">مخادع</string>
     <string name="SUPPORTER">مميز</string>
     <string name="CONQUEROR">المنتصر</string>
@@ -1374,7 +1374,7 @@ Commands:
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
-    <string name="Translator">مـتـرجــم</string>
+    <string name="Translator">مترجم</string>
     <string name="SUCCESS">تم بنجاح</string>
 
 
