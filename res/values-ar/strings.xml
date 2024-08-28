@@ -336,7 +336,7 @@
     <string name="_in_a_Teams_Game">" في لعبة الفرق"</string>
     <string name="_dots">" النقاط"</string>
     <string name="_player_blobs">" دائرة اللاعب"</string>
-    <string name="Absorb_">"استوعب "</string>
+    <string name="Absorb_">"أستيعاب "</string>
     <string name="Collect_">"جمع "</string>
 
     <string name="FFA_CLASSIC">"حر للجميع الكلاسيكية"</string>
@@ -1186,7 +1186,7 @@
     <string name="Set_Skin">وضع البشرة </string>
     <string name="Primary">ابتدائي )اساسي)</string>
     <string name="Secondary">ثانوي</string>
-    <string name="Both">اثنين معاً</string>
+    <string name="Both">أثنين معًا</string>
 
     <string name="Enable__Multiskin">"تفعيل \n متعددة الجلد"</string>
     <string name="MULTISKIN">مُتعددة الجِلد</string>
@@ -1217,7 +1217,7 @@
     <string name="MULTIBLOB">مُتعددة النُسَخ</string>
     <string name="Play_Nebulous_For_1_Year_">ألعب نيبلوس لمُدَّة 1 سنة!</string>
     <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سنة!</string>
-    <string name="Starting___">بدء…</string>
+    <string name="Starting___">بدأ…</string>
     <string name="Tournament_Starting">البُطولة بدأءت</string>
     <string name="Max_Tilt_Angle_3D_">زاوية الميل القصوى ثلاثي الأبعاد</string>
     <string name="Mode_3D">وضع ثلاثي الأبعاد</string>
@@ -1237,7 +1237,7 @@
     <string name="Absorbed_">مُنهَمِك:</string>
     <string name="team_warning">" جعل خصمُك من الفريق سيؤدي ذلك إلى حظرك من اللعبة."</string>
     <string name="Search_Filter">تصفيّة البَحِث</string>
-    <string name="Received_">تم الاستلام:</string>
+    <string name="Received_">تم الأستلام:</string>
     <string name="Opponent_Rating_Limit_">حد تصنيف الخصم</string>
     <string name="TOGGLE_FAVORITE">تبديل المُفَضلة</string>
     <string name="Favorited">مُفضَل</string>
@@ -1247,7 +1247,7 @@
     <string name="Background_Image_">الصورة الخلفيّة:</string>
     <string name="INVERT_SELECTION">عكس الأختيار</string>
     <string name="MINIMAP">لعبة"خريطة"</string>
-    <string name="Victorious">مُنتصراً</string>
+    <string name="Victorious">مُنتصرًا</string>
     <string name="Dominant">مُهيمن</string>
     <string name="Champion">بطل</string>
     <string name="Win_10_Tournaments">حقق 10 فوز في البطولة</string>
