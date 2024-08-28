@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"Spieler"</string>
     <string name="Control_">"Steuerung:"</string>
@@ -9,8 +9,8 @@
     <string name="Button_Margin_">"Schaltflächen Position:"</string>
     <string name="Buttons_">"Schaltflächen:"</string>
     <string name="DEFAULTS">"Vorgaben"</string>
-    <string name="WEEKLY">"wöchentlich"</string>
-    <string name="DAILY">"täglich"</string>
+    <string name="WEEKLY">"Wöchentlich"</string>
+    <string name="DAILY">"Täglich"</string>
     <string name="Server_">"Server"</string>
     <string name="Game_Mode_">"Spielmodus:"</string>
     <string name="Show_Names">"Namen anzeigen"</string>
@@ -58,8 +58,8 @@
     <string name="SERVER">"Server"</string>
     <string name="Joining_game_in_">"Spiel beitreten in "</string>
     <string name="Game_Full">"Das Spiel ist voll!"</string>
-    <string name="US_East">"USA Osten"</string>
-    <string name="US_West">"USA Westen"</string>
+    <string name="US_East">"Osten der USA"</string>
+    <string name="US_West">"Westen der USA"</string>
     <string name="Europe">"Europa"</string>
     <string name="South_America">"Südamerika"</string>
 
@@ -74,13 +74,13 @@
 
     <string name="OK">"Ok"</string>
     <string name="CANCEL">"Abbrechen"</string>
-    <string name="Chat_Name">"Chatname"</string>
+    <string name="Chat_Name">"Chat Name"</string>
     <string name="Max_People">"Max. Personen"</string>
     <string name="START">"Start"</string>
     <string name="CREATE">"Erstellen"</string>
-    <string name="CUSTOM_GAMES">"Individuelle Spiele"</string>
+    <string name="CUSTOM_GAMES">"Benutzerdifinierte Spiele"</string>
     <string name="CHAT">"Chat"</string>
-    <string name="CUSTOM_SETUP">"Individuelle Einstellungen"</string>
+    <string name="CUSTOM_SETUP">"Benutzerdefinierte Einstellungen"</string>
     <string name="CHAT_SETUP">"Chat Einstellungen"</string>
 
 
@@ -92,7 +92,7 @@
     <string name="Yellow_Team">"Gelbes Team"</string>
     <string name="Signed_in_as_">"Angemeldet als:"</string>
     <string name="Not_signed_in_">"Nicht angemeldet"</string>
-    <string name="SET_NAME">"Namen eingeben"</string>
+    <string name="SET_NAME">"Name eingeben"</string>
     <string name="SIGN_OUT">"Abmelden"</string>
     <string name="ACHIEVEMENTS">"Erfolge"</string>
     <string name="STATISTICS">"Statistiken"</string>
@@ -102,7 +102,7 @@
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Um diesen Skin zu verwenden, musst du erst den entsprechenden Erfolg freischalten"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Um diesen Skin zu verwenden, musst du erst das entsprechende Level erreichen"</string>
 
-    <string name="Single_Player_Stats">"Einzelspieler Statistiken"</string>
+    <string name="Single_Player_Stats">"Einzelspieler Statistik"</string>
 
     <string name="Level">"Level"</string>
     <string name="PAUSED">"Pause"</string>
@@ -234,11 +234,11 @@
     <string name="Mass_Gained_">"Masse aufgenommen:"</string>
     <string name="Mass_Ejected_">"Masse ausgeworfen:"</string>
     <string name="Times_Ejected_">"Anzahl Masse ausgeworfen:"</string>
-    <string name="Times_Split_">"Anzahl Teilungen:"</string>
+    <string name="Times_Split_">"Anzahl der Teilungen:"</string>
     <string name="Biggest_Blob_">"Größter Blob:"</string>
     <string name="Highest_Score_">"Höchster Punktestand:"</string>
     <string name="Average_Score_">"Durchschnittliche Punkte:"</string>
-    <string name="Times_Played_">"Anzahl Spiele:"</string>
+    <string name="Times_Played_">"Anzahl der Spiele:"</string>
     <string name="Longest_Life_">"Längste Zeit am Leben:"</string>
     <string name="Games_Won_">"Spiele gewonnen:"</string>
 
@@ -284,17 +284,17 @@
 
 
     <string name="Specify_Clan_ID">"Gebe die Clan ID an"</string>
-    <string name="Show_Clan_Names">"Zeige Clan Namen"</string>
-    <string name="Show_Levels">"Zeige Level"</string>
+    <string name="Show_Clan_Names">"Zeige den Clan Namen"</string>
+    <string name="Show_Levels">"Zeige das Level"</string>
     <string name="SET_MOTD">"Text speichern"</string>
-    <string name="No_such_user_found_">"Kein solcher Spieler gefunden!"</string>
+    <string name="No_such_user_found_">"Solch ein Spieler wurde nicht gefunden!"</string>
     <string name="No_open_public_clans_exist_">"Es gibt keine öffentlichen Clans."</string>
     <string name="You_aren_t_invited_to_that_clan_">"Nicht zu diesem Clan eingeladen."</string>
-    <string name="No_such_clan_exists_">"Kein solcher Clan existiert."</string>
+    <string name="No_such_clan_exists_">"Solch ein Clan existiert nicht."</string>
     <string name="That_clan_is_full_">"Der Clan ist voll."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Anderer Benutzer ist kein Mitglied in deinem Clan"</string>
-    <string name="_You_can_t_be_your_own_friend_">"Du kannst nicht dein eigener Freund sein."</string>
-    <string name="A_clan_with_that_name_already_exists_">"Clanname bereits vergeben."</string>
+    <string name="_You_can_t_be_your_own_friend_">"Du kannst nicht mit dir befreundet sein."</string>
+    <string name="A_clan_with_that_name_already_exists_">"Clan Name bereits vergeben."</string>
     <string name="Duration_">"Dauer:"</string>
 
     <string name="FFA_Time_Domination">"FFA Zeit Herrschaft"</string>
@@ -306,7 +306,7 @@
     <string name="Soccer_Domination">"FUßBALL Herrschaft"</string>
     <string name="Soccer_Hat_Trick">"FUßBALL Kopfball"</string>
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Gewinne mit 2.500 Punkten in einem FFA Zeit Spiel."</string>
-    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Gewinne mit deinem Team mit 7.500 Punkte in einem Teams Zeit Spiel."</string>
+    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Gewinne mit deinem Team 7.500 Punkte in einem Teams Zeit Spiel."</string>
     <string name="Win_by_3_points_in_a_CTF_game_">"Gewinne mit 3 Punkten in einem CTF Spiel."</string>
     <string name="Score_3_points_in_a_single_CTF_game_">"Erziele 3 Punkte in einem CTF Spiel."</string>
     <string name="Win_by_2_500_points_in_a_Survival_game_">"Gewinne mit 2.500 Punkten ein Überleben Spiel"</string>
@@ -362,7 +362,7 @@
 
     <string name="Score">"Punkte"</string>
     <string name="Rating">"Bewertung"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"Du bist dabei, einen neuen Anführer zu befördern!"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"Du bist dabei, einen neuen Anführer zu ernennen!"</string>
     <string name="XP">"Erfahrung"</string>
     <string name="High_Score">"Highscore"</string>
 
@@ -395,7 +395,7 @@
     <string name="leaves_">"verlässt."</string>
     <string name="Leaf_Collector">"Laub-Sammler"</string>
     <string name="Collect_1000_leaves_">"Sammle 1.000 Blätter"</string>
-    <string name="XP_Boost">"XP-Boost"</string>
+    <string name="XP_Boost">"XP-Booster"</string>
     <string name="Double">"Doppelt"</string>
     <string name="Hour">"Stunde"</string>
     <string name="Hours">"Stunden"</string>
@@ -418,10 +418,10 @@
     <string name="Error_in_backup_data_">"Fehler in den Backup-Daten!"</string>
 
 
-    <string name="Remove_Ads">"Werbung entfernen"</string>
+    <string name="Remove_Ads">"Entferne die Werbung"</string>
     <string name="Reward">"Belohnung"</string>
     <string name="Please_Wait___">"Bitte warten!…"</string>
-    <string name="Purchasing">"Einkauf"</string>
+    <string name="Purchasing">"Einkaufen"</string>
 
     <string name="Purchase_Successful_">"Gekauft!"</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Verbinde dich bitte erneut um den Kauf wirksam zumachen."</string>
@@ -435,7 +435,7 @@
 
 
     <string name="Loading_Purchases___">"Lade Einkäufe …"</string>
-    <string name="In_App_Purchases">"In App Einkäufe:"</string>
+    <string name="In_App_Purchases">"Einkäufe in der App:"</string>
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Neuer XP Boost kann erst gekauft werden, wenn der aktuelle abgelaufen ist."</string>
     <string name="This_purchase_has_already_been_redeemed_">"Dieser Einkauf wurde bereits vervollständigt"</string>
 
@@ -444,7 +444,7 @@
 
     <string name="until">"bis"</string>
     <string name="New_Message_">"Neue Nachricht!"</string>
-    <string name="Seasonal">"Jahreszeitlich"</string>
+    <string name="Seasonal">"Jahreszeit"</string>
 
 
     <string name="Temporarily_Disabled_">"Vorübergehend deaktiviert."</string>
@@ -467,7 +467,7 @@
     <string name="Collect_10_000_Plasma_">"Sammle 10.000 Plasma."</string>
     <string name="Collect_100_000_Plasma">"Sammle 100.000 Plasma."</string>
     <string name="Plasma_Collected_">"Plasma gesammelt:"</string>
-    <string name="Plasma_Purchases">"Plasma Käufe"</string>
+    <string name="Plasma_Purchases">"Plasma Aktivitäten"</string>
 
     <string name="ENTER">"EINTRETEN"</string>
     <string name="_1v1">"1v1"</string>
@@ -539,7 +539,7 @@
     <string name="CLAN_INVITE">"Clan Einladung senden"</string>
     <string name="TEAM_INVITE">"Team Einladung senden"</string>
     <string name="Team_Size">"Teamgröße"</string>
-    <string name="Team_Name">"Teamname"</string>
+    <string name="Team_Name">"Team Name"</string>
     <string name="CREATE_TEAM">"Team erstellen"</string>
     <string name="Solo">"Solo"</string>
     <string name="Teams">"TEAMS"</string>
@@ -630,14 +630,14 @@
     <string name="Times_Teleported_">"Mal teleportiert:"</string>
     <string name="Powerups_Used_">"Powerups benutzt:"</string>
     <string name="Power_Hungry">"Machthungrig"</string>
-    <string name="Over_9000">"Über 9000"</string>
+    <string name="Over_9000">"Über 9.000"</string>
     <string name="Omnipresence">"Allgegenwärtig"</string>
 
-    <string name="Shoot_9001_Powerups">"Schieße 9001 Powerups"</string>
+    <string name="Shoot_9001_Powerups">"Schieße 9.001 Powerups"</string>
     <string name="Teleport_100_Times">"Teleportiere 100 mal"</string>
     <string name="Shoot_20_Powerups_Without_Restarting">"Schieße 20 Powerups ohne Neuzustarten"</string>
     <string name="Request_Timed_Out">"Zeitüberschreitung der Anforderung"</string>
-    <string name="You_Are_Spectating_">"Du bist Zuschauer."</string>
+    <string name="You_Are_Spectating_">"Du schaust gerade zu."</string>
     <string name="Account_In_Use_">"Das Konto wird schon genutzt!"</string>
     <string name="Cannot_Join_Arena_">"Kann die Arena nicht betreten."</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"Abmeldung wird dich aus dem aktuellen Spiel trennen!"</string>
@@ -650,7 +650,7 @@
     <string name="Collect_10_000_raindrops_">"Sammle 10.000 Regentropfen."</string>
     <string name="Copy_Message">"Nachricht kopieren"</string>
     <string name="Copied_to_clipboard_">"In die Zwischenablage kopiert."</string>
-    <string name="COPY_NAME">"Namen kopieren"</string>
+    <string name="COPY_NAME">"Name kopieren"</string>
     <string name="Challenge_Sent">"Herausforderung gesendet"</string>
     <string name="_1v1_Challenge_">"1v1 Herausforderung!"</string>
     <string name="__has_challenged_you_to_a_1v1_match_">"%s hat dich zu einem 1v1 Match herausgefordert!"</string>
@@ -672,7 +672,7 @@
     <string name="Incompatible_versions_">"Inkompatible Versionen."</string>
     <string name="Update_Available_">"Ein neues Update ist verfügbar!"</string>
     <string name="VIEW_INVITES">"Einladungen"</string>
-    <string name="CLAN_INVITES">"Claneinladungen"</string>
+    <string name="CLAN_INVITES">"Clan Einladungen"</string>
     <string name="Cancel_Invitation">"Einladung stornieren"</string>
     <string name="DOWNLOAD">"Herunterladen"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"ALLE Freundschaftseinladungen ablehnen?"</string>
@@ -709,7 +709,7 @@
     <string name="Collect_5_000_notes_">"Sammle 5.000 Noten."</string>
     <string name="Collect_10_000_notes_">"Sammle 10.000 Noten."</string>
     <string name="notes_">"Noten."</string>
-    <string name="CLICK_CHEAT_DETECTED_">"Hey, CLICK  CHEATS sind nicht erlaubt!"</string>
+    <string name="CLICK_CHEAT_DETECTED_">"Hey, CLICK  CHEATS sind strengstens verboten!"</string>
     <string name="Pumpkin_Hoarder">"Kürbis-Hamsterer"</string>
     <string name="Pumpkin_Mogul">"Kürbis-Mogul"</string>
     <string name="Leaf_Mogul">"Blätter-Mogul"</string>
@@ -772,18 +772,19 @@
     <string name="Message">"Nachricht"</string>
     <string name="Subject">"Betreff"</string>
     <string name="SEND">"Senden"</string>
-    <string name="To">"Nach"</string>
+    <string name="To">"An"</string>
     <string name="RESET">"Löschen"</string>
     <string name="Message_Sent_">"Nachricht wurde gesendet!"</string>
     <string name="From">"Von"</string>
     <string name="Sent">"Gesendet"</string>
     <string name="REPLY">"Antworten"</string>
-    <string name="Delete_Message">"Diese Nachricht wird für immer verloren sein! (Eine sehr lange Zeit)"</string>
+    <string name="Delete_Message">"Diese Nachricht wird gelöscht! (Für immer)"</string>
     <string name="BLOCK">"Blockieren"</string>
     <string name="DELETE">"Löschen"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Hinweis: Du kannst jemanden Entblocken, indem du eine Freundschaftsanfrage schickst."</string>
     <string name="Select_Friend">"Wähle einen Freund"</string>
     <string name="Failed_to_send_mail_">"Mailversand fehlgeschlagen."</string>
+
     <string name="In_Game_Mail">"Mails im Spiel"</string>
     <string name="Nav_Buttons_">"Navigations-Buttons:"</string>
     <string name="account_warning">"Gebe NIE dein Konto-Passwort oder persönliche Informationen aus irgendwelchen Gründen weiter!"</string>
@@ -855,6 +856,79 @@
     <string name="Autoclick_Permanent">"Permanent Autoklick"</string>
     <string name="x3_XP_Permanent">"Permanent XP boost 3x"</string>
     <string name="x2_XP_Permanent">"Permanent XP boost 2x"</string>
+
+    <string name="In_Game_Mail">Mails im Spiel</string>
+    <string name="Nav_Buttons_">Navigations-Buttons:</string>
+    <string name="account_warning">Gebe NIE dein Konto-Passwort oder persönliche Informationen aus irgendwelchen Gründen weiter!</string>
+    <string name="Clan_Hero">Clan-Held</string>
+    <string name="Win_1000_Clan_Wars">Gewinne 1.000 Clankriege</string>
+    <string name="NAME_COLOR">Namensfarbe</string>
+    <string name="name_color_instructions">Suche die Buchstaben aus, die du verändern willst, dann die Farbe.</string>
+    <string name="Cannot_change_this_character_">Dieser Buchstaben kann nicht verändert werden</string>
+    <string name="ZOMBIE_APOCALYPSE">ZOMBIE-APOKALYPSE</string>
+    <string name="Survive_a_Zombie_Apocalypse">Überlebe eine Zombie-Apokalypse</string>
+    <string name="ZA">ZA</string>
+    <string name="Pandemic">Pandemie</string>
+    <string name="Immunity">Immunität</string>
+    <string name="Win_as_zombies_in_2_minutes_or_less_">Gewinne in 2 Minuten oder weniger als Zombie.</string>
+    <string name="Win_as_survivors_with_no_losses_">Gewinne als Überlebender ohne zu verlieren.</string>
+    <string name="ZOMBIE_">ZOMBIE!</string>
+    <string name="SURVIVOR_">Überlebender!</string>
+    <string name="Zombies">Zombies</string>
+    <string name="Survivors">Überlebende</string>
+    <string name="Enter_a_Tournament">Einem Turnier beitreten</string>
+    <string name="Win_a_Tournament">Gewinne ein Turnier</string>
+    <string name="Tournament_Competing">Turnierkonkurrenten</string>
+    <string name="Tournament_Registered">Turnier-Registriert</string>
+    <string name="Tournament">Turnier</string>
+    <string name="TourneyDescription">Du musst dich registrieren, um im Turnier zu spielen. Dir wird Plasma abgezogen, wenn das Turnier startet, aber du kannst wieder aussteigen, bevor es beginnt. Das Turnier startet, wenn mindestens %d Teilnehmer vorhanden sind.</string>
+    <string name="Register">Registrieren</string>
+
+    <string name="Registered">Teilnehmer</string>
+    <string name="Not_Registered">Nicht Registriert</string>
+    <string name="Prize_Pool">Preis Pool</string>
+    <string name="Registrants">Registrierte</string>
+    <string name="Round_Of">Runde von</string>
+    <string name="Next_Tournament">Nächstes Turnier</string>
+    <string name="Plasma_Won">Plasma gewonnen</string>
+    <string name="Semi_Finals">Halbfinale</string>
+    <string name="Quarter_Finals">Viertelfinale</string>
+    <string name="Competing">Konkurrieren</string>
+    <string name="Finals">Finale</string>
+    <string name="Unregister">Aussteigen</string>
+    <string name="Enter_My_Match">Spiel beitreten</string>
+    <string name="Starts_In">Startet in</string>
+    <string name="Seconds">Sekunden</string>
+    <string name="Tournaments_Temporarily_Disabled">Turniere temporär abgeschaltet</string>
+    <string name="CLAN_NAME_COLOR">Clan Namen-Farbe</string>
+    <string name="Tuber">YouTuber</string>
+    <string name="youtube_prompt">Möchtest du diesen Nebulous YouTube-Kanal besuchen? Die Kanäle gehören nicht den Entwicklern von Nebulous.</string>
+    <string name="Tournament_Matches_Won_">Turnierspiele gewonnen:</string>
+    <string name="PAINT">MALEN</string>
+    <string name="BLOCKED_ACCOUNTS">Blockierte Konten</string>
+    <string name="UNBLOCK">Entblocken</string>
+    <string name="Emotes">Emotes</string>
+    <string name="Support">Support</string>
+    <string name="Already_Blocked">Schon blockiert</string>
+    <string name="Cannot_block_more_than_x_accounts_">Du kannst nicht mehr als %d Konten blockieren.</string>
+    <string name="This_is_you_">Das bist du.</string>
+    <string name="Win_a_Paint_Game">Gewinne ein Malspiel.</string>
+    <string name="Whiteout">Tipp-Ex</string>
+    <string name="Speed_Painter">Schneller Zeichner</string>
+    <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">Gewinne ein Malspiel, in dem alle Gegner 0 Punkte haben.</string>
+    <string name="Win_a_Paint_game_in_60_seconds_or_less_">Gewinne ein Malspiel in 60 oder weniger Sekunden.</string>
+    <string name="Autoclick">Autoklicker</string>
+    <string name="Autoclick_24_Hours">Autoklick für 24 Stunden</string>
+    <string name="Autoclick_1_Hour">Autoklick für 1 Stunde</string>
+    <string name="Ultraclick_24_Hours">Ultraklick für 24 Stunden</string>
+    <string name="Ultraclick_1_Hour">Ultraklick für 1 Stunde</string>
+    <string name="Ultraclick">Ultraklicker</string>
+    <string name="May_Reduce_Lag">(Kann Lag reduzieren)</string>
+    <string name="Ultraclick_Permanent">"Permanenter Ultraklicker"</string>
+    <string name="Autoclick_Permanent">"Permanenter Autoklicker"</string>
+    <string name="x3_XP_Permanent">"Permanenter XP boost 3x"</string>
+    <string name="x2_XP_Permanent">"Permanenter XP boost 2x"</string>
+
     <string name="Permanent">"Permanent"</string>
     <string name="Apply_To_Account">"Auf Konto Anwenden"</string>
     <string name="Spin_">"Drehen!"</string>
@@ -872,7 +946,7 @@
     <string name="Speed_Click_Toggle">"Geschwindigkeit per Knopf umstellen"</string>
     <string name="MOD">"MOD"</string>
     <string name="FAQ">"Häufig gestellte Fragen"</string>
-    <string name="BUY_EXTRA_SPINS">"Mehr Drehs kaufen"</string>
+    <string name="BUY_EXTRA_SPINS">"Kaufe mehr Drehs"</string>
     <string name="Spins_Remaining">"Vorhandene Drehungen"</string>
     <string name="One_Spin">"Ein Dreh (1)"</string>
     <string name="Bundle_of_Spins">"Bündel voller Drehungen (10)"</string>
@@ -884,19 +958,26 @@
     <string name="This_player_selected_a_different_teammate_">"Dieser Spieler hat sich einen anderen Mitspieler ausgewählt."</string>
     <string name="muted_until">"Gemutet bis"</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">"Die Inhalts-Bewertung der App kann sich ändern, wenn du online spielst."</string>
-    <string name="UI_Opacity_">"UI Deckkraft"</string>
+    <string name="UI_Opacity_">"Deckkraft der UI"</string>
     <string name="LOAD">"Laden"</string>
     <string name="REMOVE">"Entfernen"</string>
     <string name="BAN">"Bannen"</string>
     <string name="MODERATORS">"Moderatoren"</string>
     <string name="ALL_CLAN">"Alle\nClan"</string>
     <string name="CO_LEADER">"Co-Anführer"</string>
-    <string name="CLAN_HOUSE">"Clan Haus"</string>
+    <string name="CLAN_HOUSE">"Clan Häuser"</string>
     <string name="ROOM">"Spiel"</string>
+
     <string name="EXPERIMENTAL">"EXPERIMENTEL"</string>
     <string name="members">"Mitglieder"</string>
     <string name="Delete_ALL_Messages_">"Alle Nachrichten werden für immer verloren sein! (Eine sehr lange Zeit)"</string>
     <string name="SAVE_PROFILE">"Speichern"</string>
+
+    <string name="EXPERIMENTAL">EXPERIMENTELL</string>
+    <string name="members">Mitglieder</string>
+    <string name="Delete_ALL_Messages_">"Alle Nachrichten werden gelöscht! (Für immer)"</string>
+    <string name="SAVE_PROFILE">Speichern</string>
+
     <string name="Move">"Bewegung"</string>
     <string name="New_Position">"Neue Position"</string>
     <string name="ALLIANCES">"Allianzen"</string>
@@ -915,10 +996,10 @@
     <string name="gift_purchase_warning">"Nur der Freund wird das Plasma erhalten."</string>
     <string name="x2_Clan_XP_7_Days">"7 Tage Clan XP 2x"</string>
     <string name="RECEIVED">"Posteingang"</string>
-    <string name="SENT">"Gesendete Nachrichten"</string>
+    <string name="SENT">"Postausgang"</string>
     <string name="Enable_Invites">"Aktiviere Einladungen"</string>
     <string name="Game_Invitation">"Spiel Einladung"</string>
-    <string name="__has_invited_you_to_join_their_game_">"%s hat dich eingeladen, deinem Spiel beizutreten!"</string>
+    <string name="__has_invited_you_to_join_their_game_">"%s hat dich eingeladen, seinem Spiel beizutreten!"</string>
     <string name="Invitation_declined_">"Einladung abgelehnt!"</string>
     <string name="Invitation_accepted_">"Einladung akzeptiert!"</string>
     <string name="Invitation_expired_">"Einladung abgelaufen!"</string>
@@ -927,6 +1008,7 @@
     <string name="ENABLED">"Aktiviert"</string>
     <string name="Enable_Custom_Blob_Color">"Custom Blob-Farbe aktivieren"</string>
     <string name="Choose_Menu">"Menü auswählen"</string>
+
     <string name="SPECTATE">"Zuschauen"</string>
     <string name="INVITE">"Einladen"</string>
     <string name="error_1">"Nur der Anführer oder Co-Anführer kann eine Clan Mail versenden."</string>
@@ -949,6 +1031,30 @@
     <string name="Friend_Added_">"Ihr seid jetzt Freunde!"</string>
     <string name="_in_a_16x_Split_Game">"in einem 16x Teilen Spiel"</string>
     <string name="Rules">"Regeln"</string>
+
+    <string name="SPECTATE">Zuschauen</string>
+    <string name="INVITE">Einladen</string>
+    <string name="error_1">Nur der Anführer oder Co-Anführer können eine Clan Mail versenden.</string>
+    <string name="Hat">Hut</string>
+    <string name="Hats">Hüte</string>
+    <string name="Pet_Uploads">Haustier Uploads</string>
+    <string name="BLOB">Blob</string>
+    <string name="Clan_Pet_Uploads">Clan Haustier Uploads</string>
+    <string name="YT">YT</string>
+    <string name="FREE_TODAY">HEUTE KOSTENLOS!</string>
+    <string name="Cannot_cancel_this_skin_yet_">Dieser Skin kann noch nicht storniert werden.</string>
+    <string name="SPLIT_16X">SPLIT 16x</string>
+    <string name="SET_PUBLIC_DESCRIPTION">Öffentliche Beschreibung speichern</string>
+    <string name="SET_NOTE">Notiz speichern</string>
+    <string name="enable_notifications">Benachrichtigungen anschalten</string>
+    <string name="PROMOTE_MEMBER">Mitglied befördern</string>
+    <string name="DEMOTE_MEMBER">Mitglied herabstufen</string>
+    <string name="HAPPY_BIRTHDAY_">ALLES GUTE ZUM GEBURTSTAG, NEBULOUS!</string>
+    <string name="Years">Jahre</string>
+    <string name="Friend_Added_">Ihr seid jetzt Freunde!</string>
+    <string name="_in_a_16x_Split_Game">in einem 16x Teilen Spiel</string>
+    <string name="Rules">Regeln</string>
+
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
 Nebulous Regeln\n
 \n
@@ -957,17 +1063,17 @@ Nebulous Regeln\n
 3. Beleidige keine Spieler.\n
 4. Es ist nicht erlaubt sich als Moderator auszugeben.\n
 5. Es ist nicht erlaubt sich als YouTuber auszugeben.\n
-6. Tausche keine Nebulous Konten mit anderen, im Spiel und außerhalb nicht.\n
+6. Tausche keine Nebulous Konten mit anderen, im Spiel oder außerhalb.\n
 7. Es ist nicht erlaubt sich durch Cheats einen Vorteil zu verschaffen.\n
-8. Erstelle keine Customn Spiele / Chat Räume mit unangemessen Namen.\n
+8. Erstelle keine Custom Spiele / Chat Räume mit unangemessen Namen.\n
 9. Höre auf Moderator.\n
 10. Es ist nicht erlaubt sich einen Vorteil mit Bugs im Spiel zu verschaffen.\n
 11. Banne nicht zu viele Clan Mitglieder ohne die Berechtigung vom Anführer.\n
 \n
-Solltest du diese Regeln nicht einhalten ist es möglich das dein Konto suspendiert wird.\n
+Solltest du diese Regeln nicht einhalten ist es möglich das dein Konto gesperrt wird.\n
 (Die Zeit der Strafe kann von wenigen Stunden bis zu einem Permanenten Ban variieren. Es hängt von der Tat und der Schwere vom Problem ab)\n
 \n
-Wenn du einen Spieler begegnest der die Regeln bricht melde es umgehend einen Moderator.
+Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Moderator.
     </string>
     <string name="Blob_Chat_Bubbles">"Blob Sprechblasen"</string>
     <string name="CHRISTMAS_ADVENT_SKINS">"WEIHNACHTEN ADVENT"</string>
@@ -976,6 +1082,7 @@ Wenn du einen Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="OPEN">"OFFEN"</string>
     <string name="Halo">"Hülle"</string>
     <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Um diese Hülle benutzen zu können musst du mindestens Level %1$s sein und %2$s Erfolge verdienen."</string>
+
     <string name="Halos">"Hüllen"</string>
     <string name="CAMPAIGN">"KAMPAGNE"</string>
     <string name="Mission">"Mission"</string>
@@ -1253,6 +1360,285 @@ Wenn du einen Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Plasma_Boost_2_Hours_">"Plasma Boost 2 Stunden."</string>
     <string name="Plasma_Boost">"Plasma Boost"</string>
     <string name="particle_info">"Sie müssen mindestens Level 50 sein und einen Standartskin mit Partikel verwenden, um Partikel zu sehen."</string>
+
+    <string name="Halos">Hüllen</string>
+    <string name="CAMPAIGN">KAMPAGNE</string>
+    <string name="Mission">Mission</string>
+    <string name="Kill_All_Bots">Töte alle Bots</string>
+    <string name="Survive">Überlebe</string>
+    <string name="Mission_d_Complete">Mission %d Abgeschlossen!</string>
+    <string name="Mission_d_Failed">Mission %d Gescheitert!</string>
+    <string name="Next_Mission">Nächste Mission</string>
+    <string name="Objective">Ziel</string>
+    <string name="GAME">Spiel</string>
+    <string name="Saved_">Gespeichert!</string>
+    <string name="Name_Opacity_">Deckkraft des Namens</string>
+    <string name="SET_PROFILE_PIC">Profilbild auswählen</string>
+    <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">Möchtest du wirklich ALLE Freundschaftsanfragen akzeptieren?</string>
+    <string name="App_Perf_Stats">Debug modus</string>
+    <string name="COPY">Kopieren</string>
+    <string name="_1v1_Ultra">1v1 Ultra</string>
+    <string name="ArenaDescriptionUltra">Der Gewinner erhält %s plasma.</string>
+    <string name="BANNED">GEBANNT</string>
+    <string name="CLAN_MEMBERS">Clan Mitglieder</string>
+    <string name="CLAN_REQUESTS">Clan Anfragen</string>
+    <string name="Pet_1">Haustier 1</string>
+    <string name="Pet_2">Haustier 2</string>
+    <string name="Second_Pet">Dies erlaubt dir, zwei Haustiere auf einmal zu haben!</string>
+    <string name="This_item_requires">Dieses Element benötigt</string>
+    <string name="not_enough_plasma">Nicht ausreichend Plasma.</string>
+    <string name="MARK_UNREAD">Als ungelesen markieren</string>
+    <string name="ROYALE_DUO">ROYALE DUO</string>
+    <string name="Choose_Partner">Wähle Partner</string>
+    <string name="REMOVE_FRIEND">Freund entfernen</string>
+    <string name="Creator">Ersteller</string>
+    <string name="PROFILE_COLOR">Profilfarbe</string>
+    <string name="Enable_Colors">Farben aktivieren</string>
+    <string name="Particles">Partikel</string>
+    <string name="Clan_Particle_Uploads">Hochgeladene Clan Partikel</string>
+    <string name="Particle_Uploads">Hochgeladene Partikel</string>
+    <string name="Blob_Outline">Blobumriss</string>
+    <string name="Game_Border">Spielrand</string>
+    <string name="Select_some_text_first">Wähle zuerst einen Text aus</string>
+    <string name="Save_the_profile_first">Speicher zuerst das Profil</string>
+    <string name="Birthday">Geburtstag</string>
+    <string name="Mass_Boost">Masse Booster</string>
+    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Masse Booster funktioniert nicht in Arenen, Turniere, und Clankriege!</string>
+    <string name="ArenaDescriptionPure">KEIN Autoklicker oder Ultraklicker. Du bekommst nur ein Leben. Der Gewinner erhält %s Plasma. "Trading wins" oder "free wins" wird mit einem Ban bestraft.</string>
+    <string name="_1v1_Pure">1v1 Pure</string>
+    <string name="Allow_Ultraclick">Ultraklicker zulassen</string>
+    <string name="Allow_Mass_Boost">Masse Booster zulassen</string>
+    <string name="Challenges_Won_">Gewonnene Herausforderungen:</string>
+    <string name="trophy_info">Trophäen werden am Ende jeder Arena oder Team-Arena-Saison an den ersten, zweiten und dritten Platz vergeben. Trophäen werden nur in aktiven Regionen mit vielen Spielern vergeben</string>
+    <string name="BLOCKED">Blockiert</string>
+    <string name="CLAN_WAR_HISTORY">Clan Krieg Verlauf</string>
+    <string name="Particle">Partikel</string>
+    <string name="Privacy">Privatsphäre</string>
+    <string name="EULA">EULA</string>
+    <string name="You_can_purchase_this_hat_for">Du kannst diesen Hut kaufen für</string>
+    <string name="You_can_purchase_this_particle_for">Du kannst diese Partikel kaufen für</string>
+    <string name="You_can_purchase_this_eject_skin_for">Du kannst dieses Ausspuck-skin kaufen für</string>
+    <string name="Skin">Skin</string>
+    <string name="Custom_Skin">Custom Skin</string>
+    <string name="Color">Farbe</string>
+    <string name="RECENT_PLAYERS">KÜRZLICHE SPIELER</string>
+    <string name="POSITION_CONTROL_STICK">"STEUERKNÜPPEL POSITION"</string>
+    <string name="POSITION_SPLIT_BUTTON">SPLIT-BUTTON POSITION</string>
+    <string name="POSITION_EJECT_BUTTON">AUSSPUCK-BUTTON POSITION</string>
+    <string name="POSITION_EJECT_TOGGLE_BUTTON">AUSSPUCK-UMSCHALT-BUTTON POSITION</string>
+    <string name="WIFI">W-lan</string>
+    <string name="JOIN_IP">IP beitreten</string>
+    <string name="Specify_Host_IP">Spezifiziere Host IP</string>
+    <string name="ADVANCED_SETUP">Erweiterte Einstellung</string>
+    <string name="WORLD_CUP_EVENT___">WELTMEISTERSCHAFTSEVENT!!!</string>
+    <string name="world_cup_event_description">Doppelt so viel an XP und Plasmas im Fußball-Modus bis zum Ende der Weltmeisterschaft!</string>
+    <string name="GIF_Skins">GIF Skins</string>
+    <string name="PLAY_ONLINE_">SPIELE ONLINE!</string>
+
+    <string name="Absorb_10_000_000_dots">Absorbiere 10.000.000 Punkte</string>
+    <string name="Dot_Deity">Punkt-Gottheit</string>
+    <string name="Mass_Mastery">Masse-Beherrschung</string>
+    <string name="Gain_100_000_000_mass">Erlange 100.000.000 Masse</string>
+    <string name="VET">VET</string>
+    <string name="Mute">Muten</string>
+    <string name="Unmute">Mute aufheben</string>
+    <string name="Community">Gemeinschaft</string>
+    <string name="Buy">Kaufen</string>
+    <string name="Sell">Verkaufen</string>
+    <string name="community_skin_information_for_seller" translatable="false" tools:ignore="Untranslatable">Wenn du deinen Custom Skin zu einem Gemeinschaft-Skin machst, wird er auf dem Gemeinschaft-Skin-Tab aufgeführt. Andere Spieler können deinen Gemeinschaft-Skin sehen und kaufen! Jedes Mal, wenn ein Spieler deinen Gemeinschaft-Skin kauft, erhältst du eine kleine Menge an Plasma. Community-Skins können keine Fotos von echten Menschen sein!</string>
+    <string name="community_skin_requirement">Du musst zuerst Custom Skins aktivieren, um Gemeinschaft-Skins verwenden zu können.</string>
+    <string name="You_can_purchase_this_community_skin_for_">Diesen Gemeinschafts-Skin kaufen</string>
+    <string name="community_skin_information_for_buyer" translatable="false" tools:ignore="Untranslatable">Gemeinschaft-Skins werden von anderen Spielern hochgeladen. Gemeinschaft-Skins funktionieren wie Custom Skins und können mit regulären Skins animiert werden.</string>
+    <string name="VIEW_UPLOADER">Uploader ansehen</string>
+    <string name="POPULAR">Populär</string>
+    <string name="NEW">Neu</string>
+    <string name="Manage_Configurations">Konfigurationen verwalten</string>
+    <string name="Leave_blank_for_all_uploaders_">Für alle Uploader leer lassen.</string>
+    <string name="More___">Mehr…</string>
+    <string name="This_cannot_be_used_in_FFA_Classic_">Dies kann im FFA Classic Modus nicht verwendet werden.</string>
+    <string name="ENEMY">Feind</string>
+    <string name="ALLY">Verbündeter</string>
+    <string name="Rename">Umbenennen</string>
+    <string name="Set_friendly_name_">Freundlichen Namen festlegen.</string>
+    <string name="Leave_blank_for_none_">Für nichts leer lassen.</string>
+    <string name="Vote_Kick">Spieler rauswerfen</string>
+    <string name="FONT">Schriftarten</string>
+    <string name="CIRCLE">Farbkreis</string>
+    <string name="SQUARES">Farbpalette</string>
+    <string name="TRICK_MODE">TRICK MODUS</string>
+    <string name="ICE_SPLIT">ICE SPLIT</string>
+    <string name="TRICK_SPLIT">TRICK SPLIT</string>
+    <string name="POP_SPLIT">POP SPLIT</string>
+    <string name="PUSH_SPLIT">PUSH SPLIT</string>
+    <string name="Level_Colors">Level Farben</string>
+    <string name="click_info">Autoklicker / Ultraklicker funktioniert im FFA Classic Modus nicht!</string>
+    <string name="Hooked">Süchtig</string>
+    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Lass dich 10 Sekunden lang von einem Hookshot-Zauber ziehen</string>
+    <string name="Pack">Pack</string>
+    <string name="Skin_Pack">Skin Pack</string>
+    <string name="SKIN_PACK">SKIN PACK</string>
+    <string name="HALLOWEEN">HALLOWEEN</string>
+
+    <string name="pack_info">Nach dem Kauf dieses Skin-Packs werden deine exklusiven Skins oben in den Skin-Auswahlmenüs angezeigt.</string>
+
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">Exklusive Skins, Haustiere, Hüte und noch mehr!</string>
+    <string name="BUY_NOW_">JETZT KAUFEN!</string>
+    <string name="already_purchased">Du oder die Person, für die du das kaufst, besitzt es bereits.</string>
+    <string name="Halo_Animations">Hüllen Animationen</string>
+    <string name="Trick_Notifications">Trick Benachrichtigungen</string>
+    <string name="Channel">Kanal</string>
+    <string name="Choose_Text_Size">Textgröße auswählen</string>
+    <string name="LEVEL_COLOR">Levelfarbe</string>
+    <string name="INITIATE">INITIATE</string>
+    <string name="x3_Clan_XP_Perm">Permanent Clan XP 3x</string>
+    <string name="x2_Clan_XP_Perm">Permanent Clan XP 2x</string>
+    <string name="Japan">Japan</string>
+    <string name="South_Korea">Südkorea</string>
+    <string name="Asia">Asien</string>
+    <string name="SET_PRIVACY">Privatsphäre einstellen</string>
+    <string name="ANIMATION">ANIMATIONEN</string>
+    <string name="Color_Cycle">Farbzyklus</string>
+    <string name="Fast">Schnell</string>
+    <string name="Slow">Langsam</string>
+    <string name="Rainbow">Regenbogen</string>
+    <string name="Horizontal">Horizontal</string>
+    <string name="Vertical">Vertikal</string>
+    <string name="GROUP">GRUPPE</string>
+    <string name="LEAVE">Verlassen</string>
+    <string name="Group">Gruppe</string>
+    <string name="Not_in_a_group_">Nicht in einer Gruppe.</string>
+    <string name="Failed">Fehlgeschlagen</string>
+    <string name="Failed_to_join">Beitreten ist fehlgeschlagen</string>
+    <string name="Full">Voll</string>
+    <string name="Tricks_Performed_">Tricks ausgeführt:</string>
+    <string name="Not_enough_plasma_">Nicht genug Plasma!</string>
+    <string name="GET_PLASMA">ERHALTE PLASMA</string>
+    <string name="ASTEROIDS">ASTEROIDS</string>
+    <string name="CHRISTMAS">WEINACHTEN</string>
+    <string name="Reason">Grund</string>
+    <string name="PUBLIC">ÖFFENTLICH</string>
+    <string name="PRIVATE">PRIVAT</string>
+    <string name="Joined">Beigetreten am</string>
+    <string name="Requests">Anfragen</string>
+    <string name="Invites">Einladungen</string>
+    <string name="Show_Spectator_Count">Zuschauerzahl anzeigen</string>
+    <string name="TRY_IT_">PROBIERE ES AUS!</string>
+    <string name="You_need_to_buy_a_pack_to_use_this_">Du musst ein Pack kaufen um das benutzen zu können.</string>
+    <string name="GET_PACK">ERHALTE PACK</string>
+    <string name="Position_in_queue">Position in der Warteschlange</string>
+    <string name="PROFILE_MENU_BACKGROUND_COLOR">PROFIL-MENÜ HINTERGRUNDFARBE</string>
+    <string name="DARK_MATTER">DUNKLE MATERIE</string>
+    <string name="Textures_will_be_regenerated_">Schwarze Texturen und Custom Skins werden erneut generiert.</string>
+    <string name="Enable_Profile_Colors">Profil Farben aktivieren</string>
+    <string name="Session_Stats">Sitzungs Statistiken</string>
+    <string name="Time_">Zeit:</string>
+    <string name="Show_Session_Stats">Statistiken anzeigen</string>
+    <string name="VALENTINES_DAY">"VALENTINSTAG"</string>
+    <string name="Giveaways_">Giveaways!</string>
+    <string name="Max_XP_Chain_">Max. XP Kette:</string>
+    <string name="POSITION_CANCEL_BUTTON">POSITION ABBRECHEN BUTTON</string>
+    <string name="INVISIBILITY">UNSICHTBARKEIT</string>
+    <string name="Set_Skin">Skin festlegen</string>
+    <string name="Primary">Primär</string>
+    <string name="Secondary">Sekundär</string>
+    <string name="Both">Beide</string>
+
+    <string name="Enable__Multiskin">"Aktiviere\nMultiskin"</string>
+    <string name="MULTISKIN">MULTISKIN</string>
+    <string name="DISABLED">NICHT AKTIVIERT</string>
+
+    <string name="Refund__Multiskin">Rückerstattung\nMultiskin</string>
+    <string name="Invalid_Clan_ID_">Nicht gültige Clan ID.</string>
+    <string name="MUTED">GEMUTET</string>
+    <string name="SKIN">SKIN</string>
+    <string name="Choose_Skin_Size">Wähle Skingröße</string>
+    <string name="Other_players_will_not_be_able_to_hear_you_">Andere Spieler werden dich nicht hören können!</string>
+    <string name="Allow_permission_to_enable_voice_recording_">Erlaube die Berechtigung um Sprachaufnahme zu aktivieren.</string>
+    <string name="voice_chat_prompt">Die Inhaltsbewertung der App kann sich bei aktiviertem Voice-Chat ändern. Verwenden Sie für optimales Audio Kopfhörer.</string>
+    <string name="Only_leader_can_answer_requests_">Nur Anführer können Anfragen beantworten.</string>
+    <string name="Sent_request_not_invited_">Anfrage gesendet (nicht eingeladen).</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">ENTFERNE SKIN AUS GEMEINSCHAFTSKINS!</string>
+    <string name="This_cannot_be_undone_">Dies kann nicht rückgängig gemacht werden!</string>
+    <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Schau dir ein Video an um einen vorübergehenden Boost für %d Leben zu erhalten!</string>
+    <string name="WATCH_VIDEO_">VIDEO ANSCHAUEN!</string>
+    <string name="PERMANENT_BOOSTS">PERMANENTE BOOSTS</string>
+    <string name="Video_failed_to_load_">Laden des Videos ist fehlgeschlagen!</string>
+    <string name="Video_Ready_">Video ist bereit!</string>
+    <string name="GIVE_PLASMA">PLASMA SPENDEN</string>
+    <string name="Specify_amount_">Menge angeben:</string>
+    <string name="Specify_amount_again_to_confirm_">Menge erneut angeben um es zu bestätigen:</string>
+    <string name="Amounts_did_not_match_">Mengen stimmen nicht überein!</string>
+    <string name="RECEIVE_PLASMA">ERHALTE PLASMA</string>
+    <string name="MULTIBLOB">MULTIBLOB</string>
+    <string name="Play_Nebulous_For_1_Year_">Spiele Nebulous für 1 Jahr!</string>
+    <string name="Play_Nebulous_For_X_Years_">Spiele Nebulous für %d Jahre!</string>
+    <string name="Starting___">Startet…</string>
+    <string name="Tournament_Starting">Turnier beginnt</string>
+    <string name="Max_Tilt_Angle_3D_">Max. Neigungswinkel 3D:</string>
+    <string name="Mode_3D">3D Modus</string>
+    <string name="Names_Below_Blobs">Namen unterhalb der Blobs</string>
+    <string name="Name_Scale_">"Masstab des Namens:"</string>
+    <string name="Button_3D">Button 3D</string>
+    <string name="Hide_Button_">Button verstecken?</string>
+    <string name="Show_Boost_Button">Boost Button anzeigen</string>
+    <string name="Spectate_Killer_On_Death">Killer nach dem Tod zuschauen</string>
+    <string name="Rainbow_Holes">Regenbogen Löcher</string>
+    <string name="LIFE_STEAL">LEBENSRAUB</string>
+    <string name="Kicked_From_Game_">Aus dem Spiel entfernt!</string>
+    <string name="Conquest">Eroberung</string>
+    <string name="Finish_the_last_mission_in_the_campaign_">Beende die letzte Mission in der Kampagne.</string>
+    <string name="Collected_">Gesammelt:</string>
+    <string name="Collisions_">Kollisionen:</string>
+    <string name="Absorbed_">Absorbiert:</string>
+    <string name="team_warning">Wenn du dich mit einem Spieler zusammenschliest, der nicht in deinem Team ist, wird dies mit einem Ban bestraft!</string>
+    <string name="Search_Filter">Suchfilter</string>
+    <string name="Received_">Erhalten:</string>
+    <string name="Opponent_Rating_Limit_">Gegnerbewertungslimit:</string>
+    <string name="TOGGLE_FAVORITE">TOGGLE FAVORITE</string>
+    <string name="Favorited">Bevorzugt</string>
+    <string name="Unfavorited">Nicht Bevorzugt</string>
+    <string name="Background_Scale_">Hintergrund Masstab:</string>
+    <string name="Background_Lightness_">Hintergrund Helligkeit:</string>
+    <string name="Background_Image_">Hintergrund Bild:</string>
+    <string name="INVERT_SELECTION">AUSWAHL\nINVERTIEREN</string>
+    <string name="MINIMAP">MINIMAP</string>
+    <string name="Victorious">Victorious</string>
+    <string name="Dominant">Dominant</string>
+    <string name="Champion">Champion</string>
+    <string name="Win_10_Tournaments">Gewinne 10 Turniere</string>
+    <string name="Win_100_Tournaments">Gewinne 100 Turniere</string>
+    <string name="HERO">HELD</string>
+    <string name="CHAMPION">CHAMPION</string>
+    <string name="DASH">DASH</string>
+    <string name="setting_changed">Einstellungen aktualisiert. Möglicherweise musst du erneut eine Verbindung zum Server herstellen, um die Änderungen wirksam zu machen.</string>
+    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Performiere 10.000 Tricks in einem Trick Modus Spiel.</string>
+    <string name="Tricky">Tricky</string>
+    <string name="SUPPORTER">VIP</string>
+    <string name="CONQUEROR">EROBERER</string>
+    <string name="TRICKY">TRICKY</string>
+    <string name="x4_XP_Permanent">Permanenter XP boost 4x</string>
+    <string name="x4_XP_24_hours">24 Stunden XP boost 4x</string>
+    <string name="x4_XP_1_Hour">Eine Stunde XP boost 4x</string>
+    <string name="Quad">Quadruple</string>
+    <string name="Middle_East">Mittlerer Osten</string>
+    <string name="XP_4x">XP 4x</string>
+    <string name="You_cannot_play_for_x_minutes_">Du kannst für %d Minuten nicht mehr spielen.</string>
+    <string name="x4_Clan_XP_Perm">Permanent Clan XP 4x</string>
+    <string name="x4_Clan_XP_7_days">7 Tage Clan XP 4x</string>
+    <string name="x4_Clan_XP_1_Day">24 Stunden Clan XP 4x</string>
+    <string name="CHARGE_UP">AUFLADEN</string>
+    <string name="CLAN_DESCRIPTION_COLOR">CLAN BESCHREIBUNG FARBE</string>
+    <string name="Responsible_Pet_Owner">Verantwortlicher Haustierbesitzer</string>
+    <string name="Animal_Tamer">Tierbändiger</string>
+    <string name="Crocodile_Hunter">Krokodiljäger</string>
+    <string name="Get_A_Pet_To_Level_X_">Level ein Haustier hoch auf %d.</string>
+    <string name="plasma_boost_info">"Sie erhalten dreimal Plasma aus allen IN-GAME-Quellen, während der Boost aktiv ist! Dies beinhaltet Arena- und Turniergewinne! Funktioniert NICHT bei Plasmakäufen, Spins oder speziellen Belohnungen."</string>
+    <string name="Plasma_Boost_7_Days_">Plasma Boost 7 Tage!!!</string>
+    <string name="Plasma_Boost_1_Day_">Plasma Boost 1 Tag!</string>
+    <string name="Plasma_Boost_2_Hours_">Plasma Boost 2 Stunden.</string>
+    <string name="Plasma_Boost">Plasma Booster</string>
+    <string name="particle_info">Sie müssen mindestens Level 50 sein und einen Standartskin mit Partikel verwenden, um Partikel zu sehen.</string>
+
     <string name="Plain_Score_Text">"Plain Score Text"</string>
     <string name="Custom_Skin_Reviewed_Notification">"Dein Custom Skin wurde überprüft!"</string>
     <string name="You_Have_Mail_">"Du hast eine Mail von %s!"</string>
@@ -1260,6 +1646,7 @@ Wenn du einen Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="CRAZY_SPLIT">"CRAZY SPLIT 32x"</string>
     <string name="Sold_Community_Skins_">"Verkaufte Gemeinschaft Skins: "</string>
     <string name="Estimated_Earnings_">"Geschätzte Einnahmen: "</string>
+
     <string name="South_Africa">"Südafrika"</string>
     <string name="SPLIT_">"SPLIT:"</string>
     <string name="WALLS">"WÄNDE"</string>
@@ -1273,6 +1660,21 @@ Wenn du einen Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="BATTLE_ROYALE">"BATTLE ROYALE"</string>
     <string name="Battle_Royale">"Battle Royale"</string>
     <string name="The_winner_will_receive_x_plasma_">"Der Gewinner wird %s plasma bekommen!"</string>
+
+    <string name="South_Africa">Südafrika</string>
+    <string name="SPLIT_">SPLIT:</string>
+    <string name="WALLS">WÄNDE</string>
+    <string name="COMP_BANNED">COMP BANNED</string>
+    <string name="FIND_GAMES">SPIELE FINDEN</string>
+    <string name="PLAY_SOLO">SPIELE OFFLINE</string>
+    <string name="SET_EMOTE">EMOTE FESTLEGEN</string>
+    <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
+    <string name="Win_a_Battle_Royale_">Gewinne ein Battle Royale Spiel.</string>
+    <string name="Battle_">Battle!</string>
+    <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
+    <string name="Battle_Royale">Battle Royale</string>
+    <string name="The_winner_will_receive_x_plasma_">Der Gewinner wird %s plasma bekommen!</string>
+
     <string name="admin_commands">"
 Commands:
 !kick [0–31]
@@ -1289,6 +1691,7 @@ Commands:
 !allow reset
 !winner"
 </string>
+
     <string name="ID_Sort">"ID Sort"</string>
     <string name="Master_Tamer">"Meister Bändiger"</string>
     <string name="Get_ALL_Pets_To_Level_100_">"Bekomme ALLE Haustiere auf Level 100"</string>
@@ -1329,6 +1732,47 @@ Commands:
     <string name="RAMADAN">"RAMADAN"</string>
     <string name="SUDDEN_ATTACK">"PLOTZLICHER ANGRIFF"</string>
 
+    <string name="ID_Sort">ID Sort</string>
+    <string name="Master_Tamer">Meister Bändiger</string>
+    <string name="Get_ALL_Pets_To_Level_100_">Bekomme ALLE Haustiere auf Level 100</string>
+    <string name="TAMER">BÄNDIGER</string>
+    <string name="Allow_Recombine">Rekombinieren zulassen</string>
+    <string name="Defenders">Verteidiger</string>
+    <string name="Attackers">Angreifer</string>
+    <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
+    <string name="Missing_Permissions">Fehlende Erlaubnis</string>
+    <string name="DELETE_ACCOUNT">KONTO LÖSCHEN</string>
+    <string name="delete_prompt">Bist du dir sicher das du dein Konto löschen möchtest? Das ist für IMMER und kann NICHT rückgängig gemacht werden!</string>
+
+
+    <string name="Type">Schreib</string>
+    <string name="Complete_campaign_mission_">Schließe die Kampagnenmission ab</string>
+    <string name="Specify_Reason_">Genauer Grund:</string>
+    <string name="FREE_FOR_ALL">KOSTENLOS FÜR ALLE</string>
+    <string name="SPECIAL">SPEZIAL</string>
+    <string name="FREE">KOSTENLOS</string>
+    <string name="x5_Clan_XP_1_Day">24 Stunden Clan XP 5x</string>
+    <string name="x5_Clan_XP_7_days">7 Tage Clan XP 5x</string>
+    <string name="x5_Clan_XP_Perm">Permanent Clan XP 5x</string>
+    <string name="Quin">5X</string>
+    <string name="x5_XP_1_Hour">eine stunde XP boost 5x</string>
+    <string name="x5_XP_24_hours">24 Stunden XP boost 5x</string>
+    <string name="x5_XP_Permanent">Permanenter XP boost 5x</string>
+    <string name="CAMPAIGN_2">KAMPAGNE 2</string>
+    <string name="XP_5x">XP 5x</string>
+    <string name="India">Indien</string>
+    <string name="Tutorial">Tutorial</string>
+    <string name="TYCOON">TYCOON</string>
+    <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
+    <string name="activate">Activate</string>
+    <string name="clan_id">CLAN ID</string>
+    <string name="language_change_warning">Die Änderung der Sprache, wird einen Neustart nach sich ziehen.</string>
+    <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
+    <string name="no_response">No response from server. Please check the internet connection.</string>
+    <string name="RAMADAN">RAMADAN</string>
+    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+
+
     <string name="sign_in_explanation" translatable="true">
 Spieler melden Sie sich an, um auf den Mehrspielermodus zuzugreifen. Sie werden folgendes tun können: 
 
@@ -1340,12 +1784,23 @@ Spieler melden Sie sich an, um auf den Mehrspielermodus zuzugreifen. Sie werden 
 
 Wenn Sie sich nicht anmelden möchten, können Sie trotzdem im Einzelspielermodus spielen.
     </string>
+
     <string name="_2x_skin_resolution">"(2x) Doppelte Hautauflösung"</string>
     <string name="pm">"PM"</string>
     <string name="You_are_already_friends_">"Sie sind bereits freunde."</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">"Das konto muss 1 Tag alt sein um Mails senden zu können."</string>
     <string name="Translator">"Übersetzer"</string>
     <string name="SUCCESS">"ERFOLG"</string>
+
+    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="pm">PM</string>
+
+    <string name="You_are_already_friends_">You are already friends.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+
+    <string name="Translator">Translator</string>
+    <string name="SUCCESS">SUCCESS</string>
+
 
     <string-array name="control_modes">
         <item>"Normal"</item>
@@ -1384,8 +1839,13 @@ Wenn Sie sich nicht anmelden möchten, können Sie trotzdem im Einzelspielermodu
         <item>"Winzig"</item>
         <item>"Klein"</item>
         <item>"Normal"</item>
+
         <item>"Groß"</item>
         <item>"RIESIG"</item>
+
+        <item>"Riesig"</item>
+        <item>"Größenwahnsinnig"</item>
+
     </string-array>
 
     <string-array name="clan_war_sizes">

@@ -1,7 +1,7 @@
 # nebulous-translations
 
 ## Purpose
-The sole purpose of this repository is to allow Nebulous players to collectively improve the translated text used in Nebulous.io [[Android](https://play.google.com/store/apps/details?id=software.simplicial.nebulous)][[iOS](https://apps.apple.com/us/app/nebulous-io/id1069691018)]. Include your Nebulous ID in your commit message and you may be granted the translator tag in the game and discord. **Low quality translations (those receiving a high number of comments compared to the number of translations done), will not receive a tag.**
+The sole purpose of this repository is to allow Nebulous players to collectively improve the translated text used in Nebulous.io [[Android](https://play.google.com/store/apps/details?id=software.simplicial.nebulous)][[iOS](https://apps.apple.com/us/app/nebulous-io/id1069691018)]. Include your Nebulous ID in your PR (Pull Request) comments and you may be granted the translator tag in the game and discord after your PR is approved and merged. **Low quality translations (those receiving a high number of comments compared to the number of translations done), will not receive a tag.**
 
 ## Instructions
 If you have general questions or a suggestion, create an [issue](https://github.com/simplicialsoftware/nebulous-translations/issues). You can also submit a [suggestion](https://discord.com/channels/941543004026572811/941680724963123200) in the discord.
@@ -19,7 +19,7 @@ Open the `res` folder to see all of the supported languages. `res/values` contai
 - Only edit files for which you are a native speaker or have fluency.
 - Try not to change the *length* of a string too much from the length in the English version. The app UI layout is tested with those string lengths.
 - **Do not** submit auto translations (Google Translate, Chat GPT, etc). This is not helpful.
-- Adding comments to your commit that explains why subtle changes were made can help.
+- Adding comments to your PR that explains why subtle changes were made can help. If you are revising something that is already translated, an explanation is **required**.
 
 ### Languages
 `res/values`: English<br>
