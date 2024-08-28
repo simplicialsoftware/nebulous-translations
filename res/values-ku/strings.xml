@@ -1226,18 +1226,18 @@
     <string name="Crocodile_Hunter">Crocodile Hunter</string>
     <string name="Get_A_Pet_To_Level_X_">Get A Pet To Level %d.</string>
     <string name="plasma_boost_info">"You gain three times plasma from all IN-GAME sources while the boost is active! This includes arena  and tournament winnings! Does NOT work on plasma purchases, spins, or special rewards."</string>
-    <string name="Plasma_Boost_7_Days_">Plasma Boost 7 Days!!!</string>
-    <string name="Plasma_Boost_1_Day_">Plasma Boost 1 Day!</string>
-    <string name="Plasma_Boost_2_Hours_">Plasma Boost 2 Hours.</string>
+    <string name="Plasma_Boost_7_Days_">Pêşkeftina Plazma 7 Rojan!!!</string>
+    <string name="Plasma_Boost_1_Day_">Pêşkeftina Plazma 1 Roj!</string>
+    <string name="Plasma_Boost_2_Hours_">Pêşkeftina Plazma 2 Saetên.</string>
     <string name="Plasma_Boost">Plasma Boost</string>
-    <string name="particle_info">You must be at least level 50 and use a base skin with particles in order to see any particles.</string>
-    <string name="Plain_Score_Text">"Plain Score Text"</string>
-    <string name="Custom_Skin_Reviewed_Notification">Your Custom Skin Has Been Reviewed!</string>
-    <string name="You_Have_Mail_">You Have Mail From %s!</string>
-    <string name="Clan_Request_Reviewed_Notification">Your Request To Join Clan %s Been Reviewed!</string>
+    <string name="particle_info">Hûn divê herî kêm di asta 50-an de bibin û bi skînê bingehînê yên bi parçeyên da ku şopên bibînin."</string>
+    <string name="Plain_Score_Text">Nivîsa Scoreê Sade"</string>
+    <string name="Custom_Skin_Reviewed_Notification">Skîna xwe ya taybet hatibû kontrol kirin!</string>
+    <string name="You_Have_Mail_">Hûn nameyên ji %s hene!</string>
+    <string name="Clan_Request_Reviewed_Notification">Hewla te ya ku ji bo bûnê clanê %s hatibû kontrol kirin!"</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
-    <string name="Sold_Community_Skins_">"Sold Community Skins: "</string>
-    <string name="Estimated_Earnings_">"Estimated Earnings: "</string>
+    <string name="Sold_Community_Skins_">"Skînên Komîteya Firotin: "</string>
+    <string name="Estimated_Earnings_">"Tevlîya Qeyran: "</string>
     <string name="South_Africa">Afrîkaya Başûr</string>
     <string name="SPLIT_">PARÇE BİBE:</string>
     <string name="WALLS">Dîwaran</string>
@@ -1252,19 +1252,19 @@
     <string name="Battle_Royale">Battle Royale</string>
     <string name="The_winner_will_receive_x_plasma_">Serketî dê %s plasma bistîne!!</string>
     <string name="admin_commands">"
-FERMAN:
-!kick [0–31] ( wî ji odeyê derxînin )
-!reset
-!welcome {message} ( peyama pêşwazî )
-!difficulty [0-3] or [1-4] for Campaign  ( zehmetiyên )
-!hidden ( veşartî )
-!guests ( temaşevanan )
-!slowchat ( sohbet hêdî )
-!pausechat
-!mute {id} ( bêdengî/bêdengiyê rakin )
-!admin {id ( gerînendêr )
-!allow {id} ( destûr bidin )
-!allow reset" ( destûrên sifir bikin )
+KOMUTÊN RÊVEBİRÊ:
+!kick [0–31] ( Lîstikvanê bigire )
+!reset ( Nûvekirin )
+!welcome {message} ( Piştgirîya mesajê )
+!difficulty [0-3] an [1-4] bo Kampanya ( Asta zorê )
+!hidden ( Neqed )
+!guests ( Mîşterî )
+!slowchat ( Nivîsîna hêsan )
+!pausechat ( Nivîsîna rawestînin )
+!mute {id} ( Bêdengî/Bêdengiyê Rakin )
+!admin {id ( Rêvebir Zêde/Bikujînin) )
+!allow {id} ( Rêd bike )
+!allow reset" ( Rêdên nûve bike )
 </string>
     <string name="ID_Sort">ID Sort</string>
     <string name="Master_Tamer">Master Tamer</string>
