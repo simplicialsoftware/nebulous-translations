@@ -622,7 +622,7 @@
     <string name="CLAN_HISTORY">"سِجِل العشيرة"</string>
 
 
-    <string name="Love_Nebulous_">"أحب Nebulous"</string>
+    <string name="Love_Nebulous_">"Nebulous أحب"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"يرجى دعم Nebulous من خلال تقييمها ."</string>
     <string name="MAYHEM_MODE">"تفعيل نمط الفوضى"</string>
     <string name="Times_Teleported_">"عدد مرات الإنتقال:"</string>
@@ -948,7 +948,7 @@
     <string name="Friend_Added_">تم إضافة صديق!</string>
     <string name="_in_a_16x_Split_Game">في لعبة الإنقسام على 16</string>
     <string name="Rules">قوانين اللعبة</string>
-    <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
+    <string name="Nebulous_Rules" translatable="حقيقي" tools:ignore="Untranslatable">
 اللعبة\n
 \n
 1. لا تقم بمشاركة او تبادل الحسابات مع أي شخص، سيتسبب ذلك بحظر حسابي كِلا اللاعبيْن بشكل دائم.\n
@@ -1050,7 +1050,7 @@
     <string name="WORLD_CUP_EVENT___">حدث كأس العالم!!!</string>
     <string name="world_cup_event_description">مضاعفة نقاط الخبرة و البلازما في لعبة كرة القدم حتى نهاية حدث كأس العالم !!!</string>
     <string name="GIF_Skins">جُلود مُتحركة</string>
-    <string name="upload_details" translatable="true">"
+    <string name="upload_details" translatable="حقيقي">"
 الصورة المخصصة
 
 عندما تشتري مظهرًا مخصصًا ، ستنخفض جودة الصورة ، لكن هذا ليس ذا أهمية كبيرة وهو أمر طبيعي (لا فرق تقريبًا عند اللعب).
