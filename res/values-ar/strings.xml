@@ -26,7 +26,7 @@
     <string name="Are_You_Sure_">"هل أنت متأكد؟"</string>
     <string name="Yes">"نعم"</string>
     <string name="No">"لا"</string>
-    <string name="WAIT">"انتظر …"</string>
+    <string name="WAIT">"أنتـظر …"</string>
     <string name="Must_Specify_Name_">"يجب تحديد الإسم."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
@@ -39,7 +39,7 @@
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"الخمول"</string>
     <string name="Name_Invalid_">"الإسم غير صالح !"</string>
-    <string name="Name_Taken_">"الاسم مستعمل."</string>
+    <string name="Name_Taken_">"الإسـم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
     <string name="PLAYING">"في طور اللعب"</string>
@@ -48,7 +48,7 @@
     <string name="JOIN">"إنضم"</string>
 
 
-    <string name="Lobby_Name">"اسم السيرفر"</string>
+    <string name="Lobby_Name">"إسـم السيرفر"</string>
     <string name="Not_found_">"لم يتم العثور عليه."</string>
 
     <string name="Hidden">"مخفي"</string>
@@ -73,7 +73,7 @@
 
     <string name="OK">"حسنا"</string>
     <string name="CANCEL">"إلغاء"</string>
-    <string name="Chat_Name">"اسم الدردشة"</string>
+    <string name="Chat_Name">"إسم الدردشة"</string>
     <string name="Max_People">"الحد الأقصى للناس"</string>
     <string name="START">"البداية"</string>
     <string name="CREATE">"إنشاء"</string>
@@ -122,15 +122,15 @@
     <string name="Online">"مُـتَـصِـل"</string>
     <string name="Unknown">"غير معروف"</string>
     <string name="Offline">"غـيـر مُـتَـصِـل"</string>
-    <string name="Achievement_Earned">"تم تحقيق الإنجاز"</string>
+    <string name="Achievement_Earned">"تَـم تحقيق الإنجاز"</string>
     <string name="REFRESH">"تحديث"</string>
     <string name="DONE">"تَـم"</string>
-    <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
+    <string name="Friend_Request_Sent">"تَـم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
     <string name="CONTINUE">"متابعة"</string>
     <string name="Global_" formatted="false">"عالميا"</string>
     <string name="FRIEND_CHAT">"دردشة الأصدقاء"</string>
-    <string name="LOBBY_NAME">"اسم الردهة"</string>
+    <string name="LOBBY_NAME">"إسـم الردهة"</string>
     <string name="NULL">"لا شيء"</string>
 
 
@@ -223,7 +223,7 @@
     <string name="Play_20_minutes_straight_without_restarting">"لعب ٢٠ دقيقة مباشرة دون إعادة تشغيل"</string>
     <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"استيعاب ٥ من الثقوب السوداء بعد ٣٠ ثانية من البداية"</string>
     <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"الوصول إلى ٥٠٠٠ درجة في حدود ١ دقيقة من البداية"</string>
-    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"اطلاق ثقب أسود على آخر لاعب أطلق عليك ثقب أسود قبل إعادة التشغيل"</string>
+    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"اطلاق ثقب أسود على آخر لاعب أطلق عليك ثقب أسود قبل إعإطلاق تشغيل"</string>
     <string name="Absorb_5_doges_without_restarting">"استيعاب ٥ من اللاعبين بصورة الكلب دون إعادة تشغيل"</string>
 
     <string name="Friends">" الأصدقاء"</string>
@@ -248,7 +248,7 @@
     <string name="Special_Effects">"المؤثرات الخاصة"</string>
     <string name="Blob_Mushiness">"طراء الدائرة"</string>
 
-    <string name="Specify_private_game_name">"تحديد اسم اللعبة الخاصة"</string>
+    <string name="Specify_private_game_name">"تحديد أسـم اللعبة الخاصة"</string>
     <string name="In_Game_Chat">" الدردشة في اللعبة"</string>
     <string name="My_Status_">"حالتي:"</string>
     <string name="Game_Size_">"حجم اللعبة :"</string>
@@ -262,7 +262,7 @@
     <string name="Clan">"العشيرة"</string>
 
 
-    <string name="JOIN_CLAN">"انضم للعشيرة"</string>
+    <string name="JOIN_CLAN">"إنضـم للعشيرة"</string>
     <string name="JOIN_RANDOM_CLAN">"انضمام لعشيرة عشوائية"</string>
     <string name="LEAVE_CLAN">"الخروج من العشيرة"</string>
     <string name="INVITE_MEMBER">"دعوة لاعب"</string>
@@ -319,7 +319,7 @@
     <string name="Special_Thanks">"شُـكـر خـاص"</string>
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"شُـكـر كـبـيـر لـكـل مـشـجـعي Nebulous!"</string>
     <string name="Color_Blind">"عمى الألوان"</string>
-    <string name="Daily_Quest_Complete_">"تم إنجاز المهمة اليومية !"</string>
+    <string name="Daily_Quest_Complete_">"تَـم إنجـاز المهـمة اليوميـة !"</string>
     <string name="COPY_ID">"نسخ رقم الهوية"</string>
     <string name="My_Account_ID">"نسخ رقم هوية حسابي"</string>
 
@@ -406,7 +406,7 @@
 
 
     <string name="Arena">"تَحدي!"</string>
-    <string name="Enter_the_Arena">"دخول تحدي"</string>
+    <string name="Enter_the_Arena">"دخول تَـحدي"</string>
 
 
     <string name="Purchase_History">"سِجِل المشتريات"</string>
@@ -483,7 +483,7 @@
 
 
     <string name="Already_in_arena_">"أنت في تحدي حاليّا"</string>
-    <string name="Already_in_queue_">"انت في القائمة حاليا."</string>
+    <string name="Already_in_queue_">"أنـت في القائمة حاليا."</string>
     <string name="Invalid_Account_ID_">"رقم هوية الحساب غير صالح."</string>
 
     <string name="Validating">"التحقق من صحة"</string>
@@ -533,7 +533,7 @@
     <string name="Win_by_50_points_in_a_DOM_game_">"الفوز بفارق 50 نقطة في لعبة الهيمنة."</string>
     <string name="Score_33_points_in_a_single_DOM_game_">"تسجيل 33 نقطة في لعبة سيطرة واحدة."</string>
     <string name="Win_a_Domination_Game">"الفوز في لعبة السيطرة"</string>
-    <string name="Select_Team">"اختر فريق"</string>
+    <string name="Select_Team">"أخـتر فريق"</string>
     <string name="MANAGE_TEAMS">"إدارة الفِرق"</string>
     <string name="CLAN_INVITE">"الدعوة إلى العشيرة"</string>
     <string name="TEAM_INVITE">"الدعوة الى الفريق"</string>
@@ -1329,7 +1329,7 @@ Commands:
     <string name="MEGA_SPLIT">64x قسمة كبير</string>
     <string name="Missing_Permissions">أذونات مفقودة</string>
     <string name="DELETE_ACCOUNT">حذف الحساب</string>
-    <string name="delete_prompt">هل أنت متأكد انك تريد حذف حسابك؟ هذا دائم ولا يمكن التراجع عن ذلك! اكتب للحذف!: DELETE ID</string>
+    <string name="delete_prompt">هل أنت متأكد انك تريد حذف حسابك؟ هذا دائم ولا يمكن التراجع عن ذلك! أكتب للحذف!: DELETE ID</string>
 
 
     <string name="Type">أكتب</string>
@@ -1412,7 +1412,7 @@ Commands:
     </string-array>
 
     <string-array name="sizes">
-        <item>"صغير جدا"</item>
+        <item>"صغير جـداً"</item>
         <item>"صغير"</item>
         <item>"عادي"</item>
         <item>"كبير"</item>
