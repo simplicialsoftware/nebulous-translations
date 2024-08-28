@@ -1329,8 +1329,9 @@ Commands:
     <string name="pm">PB</string>
     <string name="You_are_already_friends_">Julle is reeds vriende.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Rekening moet 1 dag oud wees om pos te stuur.</string>
-    <string name="Translator">Vertaler</string>
-    <string name="SUCCESS">SUKSES</string>
+    <string name="Translator">vertaler</string>
+    <string name="SUCCESS">Met succes gedaan
+</string>
 
 
     <string-array name="control_modes">
