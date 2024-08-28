@@ -20,8 +20,8 @@
     <string name="Avatar_">"Skins:"</string>
     <string name="Name_">"Nama:"</string>
 
-    <string name="Loading___">"Memuat …"</string>
-    <string name="Connecting___">"Menghubungkan …"</string>
+    <string name="Loading___">"unduh …"</string>
+    <string name="Connecting___">"terhubung …"</string>
 
     <string name="Are_You_Sure_">"Apakah Kamu yakin?"</string>
     <string name="Yes">"Ya"</string>
