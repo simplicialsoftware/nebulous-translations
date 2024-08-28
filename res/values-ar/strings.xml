@@ -120,7 +120,7 @@
     <string name="This_player_is_not_signed_in">"هذا اللاعب لم يسجل الدخول"</string>
 
     <string name="Online">"مُـتَـصِـل"</string>
-    <string name="Unknown">"غير معروف"</string>
+    <string name="Unknown ">" مخفي"</string>
     <string name="Offline">"غـيـر مُـتَـصِـل"</string>
     <string name="Achievement_Earned">"تم تحقيق الإنجاز"</string>
     <string name="REFRESH">"تحديث"</string>
@@ -250,7 +250,7 @@
 
     <string name="Specify_private_game_name">"تحديد اسم اللعبة الخاصة"</string>
     <string name="In_Game_Chat">" الدردشة في اللعبة"</string>
-    <string name="My_Status_">"حالتي:"</string>
+    <string name="My_Status__">"حالتي:"</string>
     <string name="Game_Size_">"حجم اللعبة :"</string>
 
     <string name="Server_Restart_">"إعادة تشغيل السيرفر:"</string>
@@ -314,9 +314,9 @@
     <string name="Score_3_goals_in_a_single_Soccer_game_">"تسجيل 3 أهداف في مباراة لكرة القدم واحدة."</string>
     <string name="Total_Domination">"إجمالي السيطرة"</string>
     <string name="Win_500_games_of_any_type_">"الفوز بـ 500 لعبة من اي نوع."</string>
-    <string name="Translations">"المـتـرجمـون"</string>
+    <string name="Translations">"ترجمات"</string>
     <string name="Developers">"المـطـورون"</string>
-    <string name="Special_Thanks">"شُـكـر خـاص"</string>
+    <string name="Special_Thanks">"شُـكـر خـاص"</string>7
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"شُـكـر كـبـيـر لـكـل مـشـجـعي Nebulous!"</string>
     <string name="Color_Blind">"عمى الألوان"</string>
     <string name="Daily_Quest_Complete_">"تم إنجاز المهمة اليومية !"</string>
@@ -348,7 +348,7 @@
     <string name="Pumpkin_Collector">"جامع اليقطين"</string>
     <string name="Collect_1000_pumpkins_">"جمع 1000 يقطينة."</string>
 
-    <string name="FFAC">"حر للجميع الكلاسيكية"</string>
+    <string name="FFAC">"مترجم "</string>
     <string name="NONE">"لا شيء"</string>
     <string name="CLAN_WAR">"حرب العشائر"</string>
     <string name="Clan_War">"حرب العشائر"</string>
@@ -373,8 +373,8 @@
     <string name="My_Ranks">"رتبتي"</string>
     <string name="Player_XP">"نقاط خبرة اللاعب"</string>
 
-    <string name="W_D_L">"ف-ت-خ"</string>
-    <string name="MATCH_START">"بداية المباراة بعد"</string>
+    <string name="W_D_L">"و_د_ل"</string>
+    <string name="MATCH_START">"بداية المباراة"</string>
     <string name="Clan_Warrior">"محارب العشيرة"</string>
     <string name="Win_a_Clan_War">"فوز بحرب عشائر"</string>
     <string name="Global">"عالمي"</string>
@@ -527,8 +527,8 @@
     <string name="SAVE">"حفظ"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"هذا اللاعب لا يملك المستوى الأدنى المسموح به للانضمام إلى هذه العشيرة:"</string>
     <string name="Insufficient_Permission">"لا تملك الإذن"</string>
-    <string name="DOMINATION">"السيطرة"</string>
-    <string name="DOM_Domination">"السيطرة"</string>
+    <string name="DOMINATION">"هيمنة"</string>
+    <string name="DOM_Domination">"السيطرة الهيمنة"</string>
     <string name="DOM_Hat_Trick">"سيطرة ثلاثية"</string>
     <string name="Win_by_50_points_in_a_DOM_game_">"الفوز بفارق 50 نقطة في لعبة الهيمنة."</string>
     <string name="Score_33_points_in_a_single_DOM_game_">"تسجيل 33 نقطة في لعبة سيطرة واحدة."</string>
