@@ -15,7 +15,7 @@
     <string name="Show_Names">"إظهار الأسماء"</string>
     <string name="Show_Avatars">"إظهار الصور"</string>
     <string name="PLAY">"إلعب"</string>
-    <string name="OPTIONS">"الإعدادات"</string>
+    <string name="OPTIONS">"خيارات"</string>
 
     <string name="Avatar_">"الصورة"</string>
     <string name="Name_">"الإسم"</string>
@@ -107,7 +107,7 @@
     <string name="PAUSED">"توقف"</string>
 
 
-    <string name="FRIENDS">"صَـديـق"</string>
+    <string name="FRIENDS">"أصدقاء"</string>
     <string name="Warning">"تحذير"</string>
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
@@ -256,7 +256,7 @@
     <string name="Server_Restart_">"إعادة تشغيل السيرفر:"</string>
     <string name="GOAL_">"هدف!"</string>
     <string name="SOCCER">"كرة القدم"</string>
-    <string name="DRAW">"تعادل"</string>
+    <string name="DRAW">"رسم"</string>
 
     <string name="Clan_Name">"اسم العشيرة"</string>
     <string name="Clan">"العشيرة"</string>
@@ -470,7 +470,7 @@
 
     <string name="ENTER">"أدخل"</string>
     <string name="_1v1">"١ضد١"</string>
-    <string name="Practice">"تمرن"</string>
+    <string name="Practice">"تمرين"</string>
     <string name="ArenaDescription">"حياة واحدة. وسيحصل الفائز %s البلازما."</string>
     <string name="Contestant">"متنافس"</string>
     <string name="Duelist">"مبارز"</string>
@@ -771,7 +771,7 @@
     <string name="Subject">"الموضوع"</string>
     <string name="SEND">"إرسال"</string>
     <string name="To">"إلى"</string>
-    <string name="RESET">"إرجاع"</string>
+    <string name="RESET">"إعادة ضبط"</string>
     <string name="Message_Sent_">"تم إرسال الرسالة!"</string>
     <string name="From">"من عند"</string>
     <string name="Sent">"تم الإرسال"</string>
@@ -793,7 +793,7 @@
     <string name="ZOMBIE_APOCALYPSE">"هجوم الزومبي"</string>
     <string name="Survive_a_Zombie_Apocalypse">"االنجاة في هجوم الزومبي"</string>
     <string name="ZA">"الزومبي"</string>
-    <string name="Pandemic">"الزومبي"</string>
+    <string name="Pandemic">"جائحة"</string>
     <string name="Immunity">"حصانة"</string>
     <string name="Win_as_zombies_in_2_minutes_or_less_">" الفوز مع الزومبي قبل النهاية بدقيقتين او اقل."</string>
     <string name="Win_as_survivors_with_no_losses_">"الفوز مع الناجين من دون أي خسائر."</string>
@@ -877,7 +877,7 @@
     <string name="Plethora_of_Spins">حزمة كبيرة من التدويرات (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">تسجيل الخروج من كل الأجهزة</string>
     <string name="Tournament_Forming">يتم تشكيل البطولة الآن</string>
-    <string name="TeamTourneyDescription">يجب عليك أنت وزميلك التسجيل للعب في بطولة الفرق. سوف يتم احتساب كل البلازما عند بدء البطولة ولكن يمكنك إلغاء التسجيل قبل أن تبدأ. تحتاج إلى%d من المتسابقين على الأقل للبدء.</string>
+    <string name="TeamTourneyDescription">.وصف بطولة الفريق</string>
     <string name="Free_Agent">لاعب حر</string>
     <string name="This_player_selected_a_different_teammate_"> هذا اللاعب المختار قد إختار زميلا ًآخر في الفريق.</string>
     <string name="muted_until"> تم الكتم إلى </string>
@@ -928,7 +928,7 @@
     <string name="Choose_Menu">"اختر القائمة"</string>
     <string name="SPECTATE">مشاهدة</string>
     <string name="INVITE">دعوة</string>
-    <string name="error_1">القائد ومساعديه هم الوحيدون الذي يُسمح لهم بأرسال رساله للعشيرة !.</string>
+    <string name="error_1">خطأ !.</string>
     <string name="Hat">القبعة</string>
     <string name="Hats">القبعات</string>
     <string name="Pet_Uploads">تحميلات الحيوانات</string>
@@ -1037,7 +1037,7 @@
     <string name="You_can_purchase_this_eject_skin_for">تستطيع شراء صورة الإطلاق هذه بمقابل</string>
     <string name="Skin">جِلد</string>
     <string name="Custom_Skin">الصورة المُخصصة.</string>
-    <string name="Color">لوْنَ الدائرة.</string>
+    <string name="Color">لوْنَ .</string>
     <string name="RECENT_PLAYERS">تم زيارتها مؤخراً</string>
     <string name="POSITION_CONTROL_STICK">"ضع عصا التحكم في المكان المراد"</string>
     <string name="POSITION_SPLIT_BUTTON">ضع زر التقسيم في المكان المراد</string>
@@ -1116,7 +1116,7 @@
     <string name="POP_SPLIT">إنقسام الانفجار</string>
     <string name="PUSH_SPLIT">إنقسام الدفع</string>
     <string name="Level_Colors">اللوان المستوى</string>
-    <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكية!</string>
+    <string name="click_info">انقر للمعلومات !</string>
     <string name="Hooked">مُعلَق</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">لقد علقت في خطاف لمدة 10ثواني</string>
     <string name="Pack">حزمة</string>
@@ -1193,13 +1193,13 @@
     <string name="DISABLED">الغاء التفعيل</string>
 
     <string name="Refund__Multiskin">استعادة نقودك /nMultiskin</string>
-    <string name="Invalid_Clan_ID_">اسم الكلان غير صالح</string>
+    <string name="Invalid_Clan_ID_">معرف العشيرة غير صالح</string>
     <string name="MUTED">"حُظِر من الدَردَشة"</string>
     <string name="SKIN">سكن</string>
     <string name="Choose_Skin_Size">اختر حجم سكنك</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">لن يتمكن اللاعبين الاخرين من سماعك!</string>
     <string name="Allow_permission_to_enable_voice_recording_">السماح بأذن لتمكين التسجيل الصوتي</string>
-    <string name="voice_chat_prompt">للحصول على أفضل صوت أستخدم سماعة الرأس..</string>
+    <string name="voice_chat_prompt">موجه الدردشة الصوتية..</string>
     <string name="Only_leader_can_answer_requests_">"فَقط القائد يستطيع قبول الطلبات</string>
     <string name="Sent_request_not_invited_">تم ارسال طلبك (لست مدعو).</string>
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">أحذف السكن من المُجتمع!</string>
@@ -1216,7 +1216,7 @@
     <string name="RECEIVE_PLASMA">تلقي البلازما</string>
     <string name="MULTIBLOB">مُتعددة النُسَخ</string>
     <string name="Play_Nebulous_For_1_Year_">ألعب نيبلوس لمُدَّة 1 سنة!</string>
-    <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سنة!</string>
+    <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d لسنوات!</string>
     <string name="Starting___">بدء…</string>
     <string name="Tournament_Starting">البُطولة بدأءت</string>
     <string name="Max_Tilt_Angle_3D_">زاوية الميل القصوى ثلاثي الأبعاد</string>
@@ -1252,13 +1252,13 @@
     <string name="Champion">بطل</string>
     <string name="Win_10_Tournaments">حقق 10 فوز في البطولة</string>
     <string name="Win_100_Tournaments">حقق 100 فوز في البطولة</string>
-    <string name="HERO">محارب</string>
-    <string name="CHAMPION">بطل</string>
+    <string name="HERO">بطل</string>
+    <string name="CHAMPION">محارب</string>
     <string name="DASH">إندفاع</string>
     <string name="setting_changed">تحديث الضبط، قد تحتاج إلى إعادة الأتصال بالخادم حتى يتم تفعيله.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">قم بفِعل 10،000 ترك في طور الحركات.</string>
     <string name="Tricky">مخادع</string>
-    <string name="SUPPORTER">مميز</string>
+    <string name="SUPPORTER">داعم</string>
     <string name="CONQUEROR">المنتصر</string>
     <string name="TRICKY">مخادع</string>
     <string name="x4_XP_Permanent">4x نقاط خبرة دائِم.</string>
@@ -1277,17 +1277,17 @@
     <string name="Animal_Tamer">مُروِّض الحيوان</string>
     <string name="Crocodile_Hunter">صياد التمساح</string>
     <string name="Get_A_Pet_To_Level_X_">أجعل الحيوان مستوى %d.</string>
-    <string name="plasma_boost_info">"تحصُل على مُعزِز البلازما من جميع أطوَّار اللعب بينما يكون التعزيزُ نشطاً، وهذا يشمُل أرباح الحلبة والبطولات! "لايعمل على مشتريّات البلازما أو عجلة الحظ او المُكافآت الخاصة"</string>
+    <string name="plasma_boost_info">"معلومات مُعزِز البلازما   "</string>
     <string name="Plasma_Boost_7_Days_">مُسرِّع البلازما لمُدَّة 7 أيَّام!!!</string>
     <string name="Plasma_Boost_1_Day_">مُسرِّع البلازما لمُدَّة يوم!</string>
     <string name="Plasma_Boost_2_Hours_">مُسرِّع البلازما لمُدَّة ساعتين.</string>
     <string name="Plasma_Boost">مُسرِّع البلازما</string>
-    <string name="particle_info">يجِب أن تكون في المستوى الـ 50 على الأقل وتستخدم سكن اساسي به جزئيَّات. من أجل رؤية أي جزئيات أخرى.</string>
+    <string name="particle_info">معلومات الجسيمات .</string>
     <string name="Plain_Score_Text">"نص النقاط"</string>
     <string name="Custom_Skin_Reviewed_Notification">لقد قمنا بمُراجعة سكنك!</string>
     <string name="You_Have_Mail_">لديك رسالة من %s!</string>
     <string name="Clan_Request_Reviewed_Notification">طلبك للإنضمام للعشيرة %s تمَّت مُراجعتهُ!</string>
-    <string name="CRAZY_SPLIT">قسمة على 32x</string>
+    <string name="CRAZY_SPLIT">انقسام مجنون</string>
     <string name="Sold_Community_Skins_">"سكنّات المُجتمع المُباعةُ: "</string>
     <string name="Estimated_Earnings_">"الأرباح المُتوقعة: "</string>
     <string name="South_Africa">جَنوب أفريقيّا</string>
@@ -1336,7 +1336,7 @@ Commands:
     <string name="Complete_campaign_mission_">أكمل مهمات الحملة</string>
     <string name="Specify_Reason_">حدد السبب:</string>
     <string name="FREE_FOR_ALL">حر للجميع</string>
-    <string name="SPECIAL">مميز</string>
+    <string name="SPECIAL">خاص</string>
     <string name="FREE">مجانا</string>
     <string name="x5_Clan_XP_1_Day">مسرع العشيرةX5  لمدة يوم واحد </string>
     <string name="x5_Clan_XP_7_days">مسرع العشيرةX5  لمدة سبع ايام</string>
