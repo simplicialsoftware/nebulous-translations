@@ -1,7 +1,7 @@
 <resources>
     <string name="Players">"ක්රීඩකයන්"</string>
     <string name="Control_">"පාලනය:"</string>
-    <string name="CLOSE">"මිත්ර"</string>
+    <string name="CLOSE">"වසා දමයි"</string>
     <string name="Stick_Size_">"දණ්ඩ තරම:"</string>
     <string name="Stick_Margin_">"ආන්තිකය ඇලුම්:"</string>
     <string name="Button_Size_">"බොත්තම තරම:"</string>
