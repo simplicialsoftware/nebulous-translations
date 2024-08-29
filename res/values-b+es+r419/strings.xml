@@ -435,8 +435,8 @@
 
     <string name="Loading_Purchases___">"Cargando compras…"</string>
     <string name="In_App_Purchases">"Compras en la aplicación"</string>
-    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"No se puede aplicar otro acelerador de EXP hasta que el acelerador actual termine. "</string>
-    <string name="This_purchase_has_already_been_redeemed_">"Esta compra ya ha sido canjeada. "</string>
+    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"No se puede aplicar otro acelerador de EXP hasta que el acelerador actual termine."</string>
+    <string name="This_purchase_has_already_been_redeemed_">"Esta compra ya ha sido canjeada."</string>
 
     <string name="You_cannot_remove_yourself__Leave_clan_instead_">"No te puedes expulsar a ti mismo. En su lugar, solamente abandona el clan "</string>
 
