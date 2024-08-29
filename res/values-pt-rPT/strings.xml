@@ -1084,10 +1084,10 @@
     <string name="CIRCLE">CÍRCULO</string>
     <string name="SQUARES">QUADRADOS</string>
     <string name="TRICK_MODE">MODO DE TRICK</string>
-    <string name="ICE_SPLIT">ICE SPLIT</string>
-    <string name="TRICK_SPLIT">TRICK SPLIT</string>
-    <string name="POP_SPLIT">POP SPLIT</string>
-    <string name="PUSH_SPLIT">PUSH SPLIT</string>
+    <string name="ICE_SPLIT">GELO DIVIDIDO</string>
+    <string name="TRICK_SPLIT">TRICK DIVIDIDO</string>
+    <string name="POP_SPLIT">POP DIVIDIDO</string>
+    <string name="PUSH_SPLIT">DIVIDIR EMPURRÃO</string>
     <string name="Level_Colors">Cores do Nível</string>
     <string name="click_info">Autoclick ou Ultraclick não funcionam no FFA Clássico!</string>
     <string name="Hooked">Enganchado</string>
@@ -1258,7 +1258,7 @@
     <string name="Custom_Skin_Reviewed_Notification">A tua skin personalizada foi revista!</string>
     <string name="You_Have_Mail_">Tens Mensagens De %s!</string>
     <string name="Clan_Request_Reviewed_Notification">O Teu Pedido Para Entrar no Clã %s Foi Revisto!</string>
-    <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
+    <string name="CRAZY_SPLIT">DIVISÃO LOUCA 32x</string>
     <string name="Sold_Community_Skins_">"Skins da Comunidade Vendidas: "</string>
     <string name="Estimated_Earnings_">"Ganhos Estimados: "</string>
     <string name="South_Africa">África do Sul</string>
@@ -1271,8 +1271,8 @@
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
     <string name="Win_a_Battle_Royale_">Ganhar uma Batalha Real.</string>
     <string name="Battle_">Batalha!</string>
-    <string name="BATTLE_ROYALE">BATALHA REAL</string>
-    <string name="Battle_Royale">Batalha Real</string>
+    <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
+    <string name="Battle_Royale">Battle Royale</string>
     <string name="The_winner_will_receive_x_plasma_">O ganhador receberá %s plasma!</string>
     <string name="admin_commands">"
 Comandos:
@@ -1300,7 +1300,7 @@ Comandos:
     <string name="Allow_Recombine">Permitir Recombinar</string>
     <string name="Defenders">Defensores</string>
     <string name="Attackers">Atacantes</string>
-    <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
+    <string name="MEGA_SPLIT">MEGA DIVISÃO 64x</string>
     <string name="Missing_Permissions">Permissões em Falta</string>
     <string name="DELETE_ACCOUNT">ELIMINAR CONTA</string>
     <string name="delete_prompt">Tens a certeza que queres eliminar a tua conta? Esta ação é PERMANENTE e NÃO PODE SER DESFEITA!</string>
@@ -1337,7 +1337,7 @@ Comandos:
     <string name="You_are_already_friends_">Vocês já são amigos.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">A conta tem de ter ao menos 1 dia de criação para enviar e-mails.</string>
     <string name="Translator">Tradutor</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">SUCESSO</string>
 
 
     <string-array name="control_modes">
