@@ -691,7 +691,7 @@
     <string name="Collect_5_000_moons_">"චන්ද්රයන් 5000 එකතු කරන්න."</string>
     <string name="Collect_10_000_moons_">"චන්ද්රයන් 10,000 එකතු කරන්න."</string>
     <string name="BLUETOOTH">"බ්ලූටූත්"</string>
-    <string name="HOST">"HOST"</string>
+    <string name="HOST">"සත්කාරක"</string>
     <string name="This_device_does_not_support_bluetooth_">"මෙම උපාංගය bluetooth සඳහා පහසුකම් සපයන්නේ නැත."</string>
     <string name="member_permissions">"මන්ත්රී අවසර"</string>
     <string name="edit">"සංස්කරණය කරන්න"</string>
@@ -701,7 +701,7 @@
     <string name="INVALID_TOKEN">"වලංගු නොවන ටෝකනය!"</string>
     <string name="banned_until">"තෙක් තහනම් "</string>
     <string name="Note_Collector">"සටහන එකතුකරන්නාගේ"</string>
-    <string name="Note_Hoarder">"සටහන Hoarder"</string>
+    <string name="Note_Hoarder">"සටහන හෝඩර්"</string>
     <string name="Note_Mogul">"සටහන ෙමෝගල්"</string>
     <string name="Collect_1_000_notes_">"සටහන් 1000 එකතු කරන්න."</string>
     <string name="Collect_5_000_notes_">"සටහන් 5000 එකතු කරන්න."</string>
@@ -743,14 +743,14 @@
     <string name="FILTER">"පෙරහන"</string>
     <string name="List_Count_">"ලැයිස්තුව ගණන්:"</string>
     <string name="Download_Skins">"බාගත හම්"</string>
-    <string name="ARENA_HISTORY">"Arena අතීතයේදී"</string>
-    <string name="WIN">"WIN"</string>
+    <string name="ARENA_HISTORY">"කලාපය ඉතිහාසය"</string>
+    <string name="WIN">"දිනන්න"</string>
     <string name="LOSS">"අලාභය"</string>
     <string name="Other_players_can_not_see_your_skin_">"වෙනත් ක්රීඩකයන් ඔබේ සම පේන්නේ නැහැ."</string>
     <string name="Other_players_can_see_your_skin_">"වෙනත් ක්රීඩකයන් ඔබේ සම බලන්න පුළුවන්."</string>
     <string name="LEGEND">"ෙලජන්ඩ්"</string>
     <string name="Win_10000_Arenas">"පසුබිම්වල 10,000 දිනා"</string>
-    <string name="UPLOAD_PREVIEW">"UPLOAD පෙරදසුනෙහි"</string>
+    <string name="UPLOAD_PREVIEW">"පෙරදසුන උඩුගත කරන්න"</string>
     <string name="Transparency">"ට්රාන්ස්පේරන්සි"</string>
     <string name="upload_info">"නැහැ, ඔබ විනිවිදභාවයකින් යුතුව හෝ සරල රූප සමඟ වඩා හොඳ ගුණාත්මක ලබා ගත හැකි වනු ඇත."</string>
     <string name="Compression_Quality_">"සම්පීඩන තත්ත්ව:"</string>
@@ -769,9 +769,9 @@
     <string name="Days">"දින"</string>
     <string name="Message">"පණිවුඩය"</string>
     <string name="Subject">"විෂය"</string>
-    <string name="SEND">"SEND"</string>
+    <string name="SEND">"යවන්න"</string>
     <string name="To">"දක්වා"</string>
-    <string name="RESET">"RESET"</string>
+    <string name="RESET">"යළි පිහිටුවන්න"</string>
     <string name="Message_Sent_">"පණිවිඩය යැව්වා!"</string>
     <string name="From">"සිට"</string>
     <string name="Sent">"එවා"</string>
