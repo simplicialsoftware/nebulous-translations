@@ -188,7 +188,7 @@
 
     <string name="Absorb_50_dots">"استيعاب ٥٠ نقطة"</string>
     <string name="Absorb_300_dots">"استيعاب ٣٠٠ نقطة"</string>
-    <string name="Absorb_1_000_dots">"استيعاب ج ١٠٠٠ نقطة"</string>
+    <string name="Absorb_1_000_dots">"استيعاب ١٠٠٠ نقطة"</string>
     <string name="Absorb_5_000_dots">"استيعاب ٥٠٠٠ نقطة"</string>
     <string name="Absorb_10_000_dots">"استيعاب ١٠،٠٠٠ النقاط"</string>
     <string name="Absorb_50_000_dots">"استيعاب ٥٠،٠٠٠ النقاط"</string>
@@ -216,7 +216,7 @@
     <string name="Reach_a_score_of_15_000">"الوصول إلى ١٥،٠٠٠ درجة"</string>
     <string name="Reach_a_score_of_20_000">"الوصول إلى ٢٠،٠٠٠ درجة"</string>
 
-    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"الوصول إلى ١٠،٠٠٠ درجة دورة أي دائرة"</string>
+    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"الوصول إلى ١٠،٠٠٠ درجة دون أن تفقد أي دائرة"</string>
     <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"الوصول إلى ٥٠٠٠ درجة دون تقسيم أو إخراج"</string>
     <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"لعب ٥ دقائق مباشرة دون الإصطدام مع أي ثقب أسود"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"لعب ٥ دقائق مباشرة دون أن تفقد أي دائرة"</string>
@@ -1422,7 +1422,7 @@ Commands:
     </string-array>
 
     <string-array name="clan_war_sizes">
-        <item>"صغير (٢ضد٢)"</item>
+        <item>"صغير جداً (٢ضد٢)"</item>
         <item>"صغير (٣ضد٣)"</item>
         <item>"عادي (٥ضد٥)"</item>
         <item>"كبير (٨ضد٨)"</item>
