@@ -1389,7 +1389,6 @@ Oturum açmak istemiyorsanız, tek oyunculu modumuzu oynamaya devam edebilirsini
     <string name="Account_must_be_1_day_old_to_send_mail_">Posta gönderebilmeniz için hesabınızın en az 1 günlük olması gerekmektedir.</string>
     <string name="Translator">Çevirmen</string>
     <string name="SUCCESS">BAŞARI</string>
-    <string name="PLAYER NOT FOUND">"OYUNCU BULUNAMADI"</string>
 
     <string-array name="control_modes">
         <item>"Normal"</item>
