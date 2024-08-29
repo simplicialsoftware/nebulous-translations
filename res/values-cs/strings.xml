@@ -195,7 +195,7 @@
     <string name="Absorb_100_000_dots">"Sněz 100.000 teček"</string>
     <string name="Absorb_1_000_000_dots">"Sněz 1.000.000 teček"</string>
 
-    <string name="Absorb_4_blobs_quickly">"Rychle sněz 4 bloby"</string>
+    <string name="Absorb_4_blobs_quickly">"Rychle sněz 4 blobů"</string>
     <string name="Absorb_8_blobs_quickly">"Rychle sněz 8 blobů"</string>
     <string name="Absorb_16_blobs_quickly">"Rychle sněz 16 blobů"</string>
     <string name="Absorb_24_blobs_quickly">"Rychle sněz 24 blobů"</string>
@@ -309,7 +309,7 @@
     <string name="Win_by_3_points_in_a_CTF_game_">"Vyhraj o 3 body v CTF hře."</string>
     <string name="Score_3_points_in_a_single_CTF_game_">"Získej 3 body v jedné CTF hře."</string>
     <string name="Win_by_2_500_points_in_a_Survival_game_">"Získej 2.500 bodů ve Hře o Přežití."</string>
-    <string name="Survive_but_do_not_win_a_survival_game_">"Přežij, ale nevyhraj Hru o Přežití"</string>
+    <string name="Survive_but_do_not_win_a_survival_game_">"Přežij, ale nevyhraj Hru o Přežití."</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"Vyhrajte o 8 bodů ve hře Fotbal."</string>
     <string name="Score_3_goals_in_a_single_Soccer_game_">"Dej 3 góly během jednoho fotbalového zápasu."</string>
     <string name="Total_Domination">"Totální Nadvláda"</string>
@@ -570,9 +570,9 @@
     <string name="Candy_Hoarder">"Bonbónový Chamtivec"</string>
     <string name="Candy_Collector">"Bonbónový Sběratel"</string>
     <string name="Candy_Mogul">"Bonbónový Magnát"</string>
-    <string name="Collect_1_000_candies_">"Sesbírej 1.000 bonbónů"</string>
-    <string name="Collect_5_000_candies_">"Sesbírej 5.000 bonbónů"</string>
-    <string name="Collect_10_000_candies_">"Sesbírej 10.000 bonbónů"</string>
+    <string name="Collect_1_000_candies_">"Sesbírej 1.000 bonbónů."</string>
+    <string name="Collect_5_000_candies_">"Sesbírej 5.000 bonbónů."</string>
+    <string name="Collect_10_000_candies_">"Sesbírej 10.000 bonbónů."</string>
     <string name="candies_">"bonbóny"</string>
     <string name="Language">"Jazyk"</string>
     <string name="Control_Opacity_">"Průhlednost joysticku:"</string>
