@@ -842,10 +842,10 @@
     <string name="Speed_Painter">رسام سريع</string>
     <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">ربح لعبة رسم مع كل المنافسين الذين لديهم 0 من نقاطهم.</string>
     <string name="Win_a_Paint_game_in_60_seconds_or_less_">ربح لعبة رسم في 60 ثانية أو أقل.</string>
-    <string name="Autoclick">مسرع الضغط</string>
-    <string name="Autoclick_24_Hours">مسرع الضَغط لمُدة 24 ساعة.</string>
-    <string name="Autoclick_1_Hour">مسرع الضغط لمُدة ساعة.</string>
-    <string name="Ultraclick_24_Hours">مسرع الضَغط الفائق لمُدة 24 ساعة.</string>
+    <string name="Autoclick">مُسرع الضَغط</string>
+    <string name="Autoclick_24_Hours">مُسرع الضَغط لمُدة 24 ساعة.</string>
+    <string name="Autoclick_1_Hour">مُسرع الَضغط لمُدة ساعة.</string>
+    <string name="Ultraclick_24_Hours">مُسرع الضَغط الفائق لمُدة 24 ساعة.</string>
     <string name="Ultraclick_1_Hour">مُسرع الضَغط الفائق لمُدة ساعة.</string>
     <string name="Ultraclick">مسرع الضغط الفائق</string>
     <string name="May_Reduce_Lag">(قد يكون هناك القليل من التأخير)</string>
@@ -1033,7 +1033,7 @@
     <string name="Privacy">سياسة الخصوصية</string>
     <string name="EULA">الترخيص</string>
     <string name="You_can_purchase_this_hat_for">تستطيع شراء هذه القبعة بمقابل</string>
-    <string name="You_can_purchase_this_particle_for">تستطيع شراء هذه الحبيبات بمقابل</string>
+    <string name="You_can_purchase_this_particle_for">تستطيع شراء هذه الحُبيْبات بمقابل</string>
     <string name="You_can_purchase_this_eject_skin_for">تستطيع شراء صورة الإطلاق هذه بمقابل</string>
     <string name="Skin">جِلد</string>
     <string name="Custom_Skin">الصورة المُخصصة.</string>
@@ -1374,7 +1374,7 @@ Commands:
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
-    <string name="Translator">مترجم</string>
+    <string name="Translator">متـرجـم</string>
     <string name="SUCCESS">تم بنجاح</string>
 
 
