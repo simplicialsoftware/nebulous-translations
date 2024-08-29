@@ -15,7 +15,7 @@
     <string name="Show_Names">"إظهار الأسماء"</string>
     <string name="Show_Avatars">"إظهار الصور"</string>
     <string name="PLAY">"إلعب"</string>
-    <string name="OPTIONS">"الإعدادات"</string>
+    <string name="OPTIONS">"الخيارات"</string>
 
     <string name="Avatar_">"الصورة"</string>
     <string name="Name_">"الإسم"</string>
@@ -314,8 +314,8 @@
     <string name="Score_3_goals_in_a_single_Soccer_game_">"تسجيل 3 أهداف في مباراة لكرة القدم واحدة."</string>
     <string name="Total_Domination">"إجمالي السيطرة"</string>
     <string name="Win_500_games_of_any_type_">"الفوز بـ 500 لعبة من اي نوع."</string>
-    <string name="Translations">"المـتـرجمـون"</string>
-    <string name="Developers">"المـطـورون"</string>
+    <string name="Translations">"المترجمين"</string>
+    <string name="Developers">"المـطـورين"</string>
     <string name="Special_Thanks">"شُـكـر خـاص"</string>
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"شُـكـر كـبـيـر لـكـل مـشـجـعي Nebulous!"</string>
     <string name="Color_Blind">"عمى الألوان"</string>
@@ -387,7 +387,7 @@
     <string name="Present_Collector">"جامع الهدايا"</string>
 
 
-    <string name="Season">"الموسم"</string>
+    <string name="Season">"موسم"</string>
     <string name="The_next_season_begins">"يبدأ الموسم المقبل"</string>
 
     <string name="Current">"الحالي"</string>
@@ -459,7 +459,7 @@
     <string name="Daily_Reward">"المكافأة اليومية"</string>
     <string name="Reset">"إعادة تعيين"</string>
     <string name="Plasma">"بلازما"</string>
-    <string name="Plasma_Mogul">"ملك البلازما"</string>
+    <string name="Plasma_King">"ملك البلازما"</string>
     <string name="Plasma_Collector">"جامع البلازما"</string>
     <string name="Plasma_Hoarder">"مكدس البلازما"</string>
     <string name="Collect_1_000_Plasma">"جمع 1000 من البلازما."</string>
