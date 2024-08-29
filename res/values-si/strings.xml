@@ -159,14 +159,14 @@
     <string name="Multi_Gulp">"බහු ඔවුන්ගේ උගුරෙන් පහළට"</string>
     <string name="Mega_Gulp">"මෙගා ඔවුන්ගේ උගුරෙන් පහළට"</string>
     <string name="Ultra_Gulp">"අල්ට්රා ඔවුන්ගේ උගුරෙන් පහළට"</string>
-    <string name="Monster_Gulp">"Monster ඔවුන්ගේ උගුරෙන් පහළට"</string>
+    <string name="Monster_Gulp">"රකුසා ඔවුන්ගේ උගුරෙන් පහළට"</string>
     <string name="Ludicrous_Gulp">"හාස්යජනක ඔවුන්ගේ උගුරෙන් පහළට"</string>
 
     <string name="Blobicide">"Blobicide"</string>
     <string name="Blobtrocity">"Blobtrocity"</string>
     <string name="Blobaccre">"Blobaccre"</string>
     <string name="Blobastrophe">"Blobastrophe"</string>
-    <string name="Blobihilation">"Blobihilation"</string>
+    <string name="Blobihilation">"බ්ලොබිහිලේෂන්"</string>
     <string name="Blobageddon">"Blobageddon"</string>
     <string name="Blobocalypse">"Blobocalypse"</string>
 
@@ -178,9 +178,9 @@
 
     <string name="Perfection">"පරිපූර්ණත්වය"</string>
     <string name="Single_Handedly">"තනි-Handedly"</string>
-    <string name="Dodgey">"Dodgey"</string>
+    <string name="Dodgey">"ඩොජි"</string>
     <string name="Self_Contained">"ස්වයං-අඩංගු"</string>
-    <string name="Survivalist">"Survivalist"</string>
+    <string name="Survivalist">"දිවි ගලවා ගන්න"</string>
     <string name="Ultramassive">"Ultramassive"</string>
     <string name="Rapid_Ascension">"වේගවත් සමිදාණන්ගේ"</string>
     <string name="Revenge">"පලි"</string>
@@ -691,7 +691,7 @@
     <string name="Collect_5_000_moons_">"චන්ද්රයන් 5000 එකතු කරන්න."</string>
     <string name="Collect_10_000_moons_">"චන්ද්රයන් 10,000 එකතු කරන්න."</string>
     <string name="BLUETOOTH">"බ්ලූටූත්"</string>
-    <string name="HOST">"HOST"</string>
+    <string name="HOST">"සත්කාරක"</string>
     <string name="This_device_does_not_support_bluetooth_">"මෙම උපාංගය bluetooth සඳහා පහසුකම් සපයන්නේ නැත."</string>
     <string name="member_permissions">"මන්ත්රී අවසර"</string>
     <string name="edit">"සංස්කරණය කරන්න"</string>
@@ -701,7 +701,7 @@
     <string name="INVALID_TOKEN">"වලංගු නොවන ටෝකනය!"</string>
     <string name="banned_until">"තෙක් තහනම් "</string>
     <string name="Note_Collector">"සටහන එකතුකරන්නාගේ"</string>
-    <string name="Note_Hoarder">"සටහන Hoarder"</string>
+    <string name="Note_Hoarder">"සටහන හෝඩර්"</string>
     <string name="Note_Mogul">"සටහන ෙමෝගල්"</string>
     <string name="Collect_1_000_notes_">"සටහන් 1000 එකතු කරන්න."</string>
     <string name="Collect_5_000_notes_">"සටහන් 5000 එකතු කරන්න."</string>
@@ -743,14 +743,14 @@
     <string name="FILTER">"පෙරහන"</string>
     <string name="List_Count_">"ලැයිස්තුව ගණන්:"</string>
     <string name="Download_Skins">"බාගත හම්"</string>
-    <string name="ARENA_HISTORY">"Arena අතීතයේදී"</string>
-    <string name="WIN">"WIN"</string>
+    <string name="ARENA_HISTORY">"කලාපය ඉතිහාසය"</string>
+    <string name="WIN">"දිනන්න"</string>
     <string name="LOSS">"අලාභය"</string>
     <string name="Other_players_can_not_see_your_skin_">"වෙනත් ක්රීඩකයන් ඔබේ සම පේන්නේ නැහැ."</string>
     <string name="Other_players_can_see_your_skin_">"වෙනත් ක්රීඩකයන් ඔබේ සම බලන්න පුළුවන්."</string>
     <string name="LEGEND">"ෙලජන්ඩ්"</string>
     <string name="Win_10000_Arenas">"පසුබිම්වල 10,000 දිනා"</string>
-    <string name="UPLOAD_PREVIEW">"UPLOAD පෙරදසුනෙහි"</string>
+    <string name="UPLOAD_PREVIEW">"පෙරදසුන උඩුගත කරන්න"</string>
     <string name="Transparency">"ට්රාන්ස්පේරන්සි"</string>
     <string name="upload_info">"නැහැ, ඔබ විනිවිදභාවයකින් යුතුව හෝ සරල රූප සමඟ වඩා හොඳ ගුණාත්මක ලබා ගත හැකි වනු ඇත."</string>
     <string name="Compression_Quality_">"සම්පීඩන තත්ත්ව:"</string>
@@ -769,16 +769,16 @@
     <string name="Days">"දින"</string>
     <string name="Message">"පණිවුඩය"</string>
     <string name="Subject">"විෂය"</string>
-    <string name="SEND">"SEND"</string>
+    <string name="SEND">"යවන්න"</string>
     <string name="To">"දක්වා"</string>
-    <string name="RESET">"RESET"</string>
+    <string name="RESET">"යළි පිහිටුවන්න"</string>
     <string name="Message_Sent_">"පණිවිඩය යැව්වා!"</string>
     <string name="From">"සිට"</string>
     <string name="Sent">"එවා"</string>
     <string name="REPLY">"පිලිතුරු"</string>
     <string name="Delete_Message">"පණිවුඩය Delete"</string>
     <string name="BLOCK">"කුට්ටිය"</string>
-    <string name="DELETE">"DELETE"</string>
+    <string name="DELETE">"මකන්න"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"සටහන: ඔබ ඔවුන්ට මිතුරෙකු ඉල්ලීම යැවීම මගින් කෙනෙක් වාරණය කළ හැකිය."</string>
     <string name="Select_Friend">"මිතුරා තෝරන්න"</string>
     <string name="Failed_to_send_mail_">"තැපැල් යැවීමට නොහැකි විය."</string>
@@ -869,39 +869,39 @@
     <string name="TEAM_DEATHMATCH">"කණ්ඩායම DEATHMATCH"</string>
     <string name="Speed_Click_Toggle">"ස්පීඩ් ක්ලික් කරන්න ටොගල් කරන්න"</string>
     <string name="MOD">"ආරක්ෂක අමාත්යාංශයේ"</string>
-    <string name="FAQ">Frequently Asked Questions</string>
-    <string name="BUY_EXTRA_SPINS">BUY EXTRA SPINS</string>
-    <string name="Spins_Remaining">Spins Remaining</string>
-    <string name="One_Spin">One Spin (1)</string>
-    <string name="Bundle_of_Spins">Bundle Of Spins (10)</string>
-    <string name="Plethora_of_Spins">Plethora Of Spins (50)</string>
-    <string name="SIGN_OUT_ALL_DEVICES">SIGN OUT ALL DEVICES</string>
-    <string name="Tournament_Forming">Tournament Forming</string>
-    <string name="TeamTourneyDescription">You and your teammate must register to play in the team tournament. You will both be charged the plasma when the tournament starts but you can unregister before it starts. Needs at least %d contestants to start.</string>
-    <string name="Free_Agent">Free Agent</string>
-    <string name="This_player_selected_a_different_teammate_">This player selected a different teammate.</string>
-    <string name="muted_until">Muted until</string>
-    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Content rating of the app may change when playing multiplayer.</string>
-    <string name="UI_Opacity_">UI Opacity</string>
-    <string name="LOAD">LOAD</string>
-    <string name="REMOVE">REMOVE</string>
-    <string name="BAN">BAN</string>
-    <string name="MODERATORS">MODERATORS</string>
-    <string name="ALL_CLAN">ALL\nCLAN</string>
-    <string name="CO_LEADER">CO LEADER</string>
-    <string name="CLAN_HOUSE">CLAN HOUSE</string>
+    <string name="FAQ">නිතර අසන ප්‍රශ්න</string>
+    <string name="BUY_EXTRA_SPINS">අමතර ස්පිනයන් මිලදී ගන්න</string>
+    <string name="Spins_Remaining">ඉතිරි තිබෙන වට</string>
+    <string name="One_Spin">එක් ස්පිනයක් (1)</string>
+    <string name="Bundle_of_Spins">ස්පිනයන්ගේ පැකේජය (10)</string>
+    <string name="Plethora_of_Spins">විශාල ප්‍රමාණයේ ස්පිනයන්ගේ පැකේජය (50)"</string>
+    <string name="SIGN_OUT_ALL_DEVICES">සියලු උපකරණවලින් පිටවන්න</string>
+    <string name="Tournament_Forming">ටුර්නමන්ට් දැන් නිර්මාණය වමින් පවතී</string>
+    <string name="TeamTourneyDescription">ඔබ සහ ඔබේ කණ්ඩායම් සාමාජිකයාට කණ්ඩායම් තරඟය සඳහා ලියාපදිංචි විය යුතුය. තරඟය ආරම්භ වන විට සියලුම ප්ලාසමා ගාස්තු අය කෙරේ, නමුත් එය ආරම්භ කිරීමට පෙර ඔබ ලියාපදිංචි ඉවත් කළ හැක. ආරම්භ කිරීමට අවශ්‍ය අයෙකුගේ සංඛ්‍යාව: %d.</string>
+    <string name="Free_Agent">නිදහස් ක්‍රීඩකයා</string>
+    <string name="This_player_selected_a_different_teammate_">මෙම ක්‍රීඩකයා වෙනත් කණ්ඩායම් සාමාජිකයෙකු තෝරාගෙන ඇත.</string>
+    <string name="muted_until">කටහඬ කරන ලදි තෙක්</string>
+    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">බහුනොවුන් ක්‍රීඩා කරන විට යෙදුමේ අන්තර්ගත ශ්‍රේණිගත කිරීම වෙනස් විය හැකිය.</string>
+    <string name="UI_Opacity_">අතුරු මුහුණත විනිවිදභාවය</string>
+    <string name="LOAD">පැටවීම</string>
+    <string name="REMOVE">ඉවත් කරන්න</string>
+    <string name="BAN">හරහා</string>
+    <string name="MODERATORS">පරිපාලකයන්</string>
+    <string name="ALL_CLAN">සියලු කුලය</string>
+    <string name="CO_LEADER">අධ්‍යක්ෂක සහායක</string>
+    <string name="CLAN_HOUSE">කුල මන්ඩපය</string>
 
-    <string name="ROOM">ROOM</string>
-    <string name="EXPERIMENTAL">EXPERIMENTAL</string>
-    <string name="members">Members</string>
-    <string name="Delete_ALL_Messages_">Delete ALL Messages!</string>
-    <string name="SAVE_PROFILE">SAVE PROFILE</string>
-    <string name="Move">Move</string>
-    <string name="New_Position">New Position</string>
-    <string name="ALLIANCES">ALLIANCES</string>
-    <string name="ENEMIES">ENEMIES</string>
-    <string name="NEW_ALLIANCE">NEW ALLIANCE</string>
-    <string name="NEW_ENEMY">NEW ENEMY</string>
+    <string name="ROOM">කාමරය</string>
+    <string name="EXPERIMENTAL">පරීක්ෂණාත්මක</string>
+    <string name="members">සාමාජිකයින්</string>
+    <string name="Delete_ALL_Messages_">සියලුම පණිවිඩ මකන්න!</string>
+    <string name="SAVE_PROFILE">පැතිකඩ සුරකින්න</string>
+    <string name="Move">මාරු කිරීම</string>
+    <string name="New_Position">නව මධ්‍යස්ථානය</string>
+    <string name="ALLIANCES">සන්ධාන</string>
+    <string name="ENEMIES">සතුරන්</string>
+    <string name="NEW_ALLIANCE">නව සන්ධානය</string>
+    <string name="NEW_ENEMY">නව සතුරා</string>
     <string name="CLAN_RELATIONS">CLAN RELATIONS</string>
     <string name="Clan_XP_Boost">CLAN XP BOOST</string>
     <string name="x3_Clan_XP_7_days">3x Clan XP 7 Days</string>
@@ -922,20 +922,20 @@
     <string name="Invitation_accepted_">Invitation accepted!</string>
     <string name="Invitation_expired_">Invitation expired!</string>
     <string name="Wait_for_the_current_invitation_to_expire_">Waiting for the current invitation to expire.</string>
-    <string name="BLOB_COLOR">BLOB COLOR</string>
-    <string name="ENABLED">ENABLED</string>
-    <string name="Enable_Custom_Blob_Color">Enable Custom Blob Color</string>
-    <string name="Choose_Menu">Choose Menu</string>
-    <string name="SPECTATE">SPECTATE</string>
-    <string name="INVITE">INVITE</string>
-    <string name="error_1">Only leader or diamond can send clan mail.</string>
-    <string name="Hat">Hat</string>
-    <string name="Hats">Hats</string>
-    <string name="Pet_Uploads">Pet Uploads</string>
-    <string name="BLOB">BLOB</string>
-    <string name="Clan_Pet_Uploads">Clan Pet Uploads</string>
-    <string name="YT">YT</string>
-    <string name="FREE_TODAY">FREE TODAY!</string>
+    <string name="BLOB_COLOR">බ්ලොබ් වර්ණය</string>
+    <string name="ENABLED">සබල කර ඇත</string>
+    <string name="Enable_Custom_Blob_Color">අභිරුචි බ්ලොබ් වර්ණය සබල කරන්න</string>
+    <string name="Choose_Menu">මෙනුව තෝරන්න</string>
+    <string name="SPECTATE">නරඹන්න</string>
+    <string name="INVITE">ආරාධනා කරන්න</string>
+    <string name="error_1">ක්ලැන් තැපැල් යැවිය හැක්කේ නායකයාට හෝ දියමන්තියට පමණි.</string>
+    <string name="Hat">තොප්පිය</string>
+    <string name="Hats">තොප්පි</string>
+    <string name="Pet_Uploads">සුරතල් උඩුගත කිරීම්</string>
+    <string name="BLOB">බ්ලොබ්</string>
+    <string name="Clan_Pet_Uploads">බාගැනීම් වංශය සතුන්</string>
+    <string name="YT">යූටියුබර්</string>
+    <string name="FREE_TODAY">අද නොමිලේ!</string>
     <string name="Cannot_cancel_this_skin_yet_">Cannot cancel this skin yet.</string>
     <string name="SPLIT_16X">SPLIT 16x</string>
     <string name="SET_PUBLIC_DESCRIPTION">SET PUBLIC DESCRIPTION</string>
@@ -944,7 +944,7 @@
     <string name="PROMOTE_MEMBER">PROMOTE MEMBER</string>
     <string name="DEMOTE_MEMBER">DEMOTE MEMBER</string>
     <string name="HAPPY_BIRTHDAY_">HAPPY NEBULOUS BIRTHDAY!</string>
-    <string name="Years">Years</string>
+    <string name="Years">අවුරුදු</string>
     <string name="Friend_Added_">Friend Added!</string>
     <string name="_in_a_16x_Split_Game">in a 16x Split Game</string>
     <string name="Rules">Rules</string>
@@ -964,8 +964,8 @@
     <string name="Mission_d_Failed">Mission %d Failed!</string>
     <string name="Next_Mission">Next Mission</string>
     <string name="Objective">Objective</string>
-    <string name="GAME">GAME</string>
-    <string name="Saved_">Saved!</string>
+    <string name="GAME">ක්රීඩාව</string>
+    <string name="Saved_">සුරකින ලදී!</string>
     <string name="Name_Opacity_">Name Opacity:</string>
     <string name="SET_PROFILE_PIC">SET PROFILE PIC</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">ACCEPT ALL FRIEND INVITATIONS!</string>
@@ -1016,7 +1016,7 @@
     <string name="You_can_purchase_this_eject_skin_for">You can purchase this eject skin for</string>
     <string name="Skin">Skin</string>
     <string name="Custom_Skin">Custom Skin</string>
-    <string name="Color">Color</string>
+    <string name="Color">වර්ණය</string>
     <string name="RECENT_PLAYERS">RECENT PLAYERS</string>
     <string name="POSITION_CONTROL_STICK">"POSITION CONTROL STICK"</string>
     <string name="POSITION_SPLIT_BUTTON">POSITION SPLIT BUTTON</string>
@@ -1038,13 +1038,13 @@
     <string name="Mute">Mute</string>
     <string name="Unmute">Unmute</string>
     <string name="Community">Community</string>
-    <string name="Buy">Buy</string>
+    <string name="Buy">බොක්ක</string>
     <string name="Sell">Sell</string>
     <string name="community_skin_requirement">You must purchase Enable Custom Skins to use community skins.</string>
     <string name="You_can_purchase_this_community_skin_for_">You can purchase this community skin for</string>
     <string name="VIEW_UPLOADER">VIEW UPLOADER</string>
     <string name="POPULAR">POPULAR</string>
-    <string name="NEW">NEW</string>
+    <string name="NEW">නව</string>
     <string name="Manage_Configurations">Manage Configurations</string>
     <string name="Leave_blank_for_all_uploaders_">Leave blank for all uploaders.</string>
     <string name="More___">More…</string>
@@ -1091,8 +1091,8 @@
     <string name="SET_PRIVACY">SET PRIVACY</string>
     <string name="ANIMATION">ANIMATION</string>
     <string name="Color_Cycle">Color Cycle</string>
-    <string name="Fast">Fast</string>
-    <string name="Slow">Slow</string>
+    <string name="Fast">වේගවත්</string>
+    <string name="Slow">මන්දගාමී</string>
     <string name="Rainbow">Rainbow</string>
     <string name="Horizontal">Horizontal</string>
     <string name="Vertical">Vertical</string>
@@ -1124,7 +1124,7 @@
     <string name="Textures_will_be_regenerated_">Black textures and custom skins will be regenerated.</string>
     <string name="Enable_Profile_Colors">Enable Profile Colors</string>
     <string name="Session_Stats">Session Stats</string>
-    <string name="Time_">Time:</string>
+    <string name="Time_">කාලය:</string>
     <string name="Show_Session_Stats">Show Session Stats</string>
     <string name="VALENTINES_DAY">"VALENTINES DAY"</string>
     <string name="Giveaways_">Giveaways!</string>
@@ -1194,26 +1194,26 @@
     <string name="Background_Lightness_">Background Lightness:</string>
     <string name="Background_Image_">Background Image:</string>
     <string name="INVERT_SELECTION">INVERT\nSELECTION</string>
-    <string name="MINIMAP">MINIMAP</string>
-    <string name="Victorious">Victorious</string>
-    <string name="Dominant">Dominant</string>
-    <string name="Champion">Champion</string>
+    <string name="MINIMAP">කුඩා සිතියම</string>
+    <string name="Victorious">ජයග්රාහී</string>
+    <string name="Dominant">අධිපති</string>
+    <string name="Champion">වීරයා</string>
     <string name="Win_10_Tournaments">Win 10 Tournaments</string>
     <string name="Win_100_Tournaments">Win 100 Tournaments</string>
-    <string name="HERO">HERO</string>
-    <string name="CHAMPION">CHAMPION</string>
-    <string name="DASH">DASH</string>
+    <string name="HERO">වීරයා</string>
+    <string name="CHAMPION">වීරයා</string>
+    <string name="DASH">ආවේගශීලී</string>
     <string name="setting_changed">Settings updated. You may need to reconnect to the server for it to take effect.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Perform 10,000 tricks in a Trick Mode game.</string>
-    <string name="Tricky">Tricky</string>
-    <string name="SUPPORTER">VIP</string>
-    <string name="CONQUEROR">CONQUEROR</string>
-    <string name="TRICKY">TRICKY</string>
+    <string name="Tricky">කපටි</string>
+    <string name="SUPPORTER">වෙනස්</string>
+    <string name="CONQUEROR">ජයග්රාහකයා</string>
+    <string name="TRICKY">උපක්‍රමශීලී</string>
     <string name="x4_XP_Permanent">4x XP Permanent</string>
     <string name="x4_XP_24_hours">4x XP 24 Hours</string>
     <string name="x4_XP_1_Hour">4x XP 1 Hour</string>
     <string name="Quad">Quadruple</string>
-    <string name="Middle_East">Middle East</string>
+    <string name="Middle_East">මැද පෙරදිග</string>
     <string name="XP_4x">XP 4x</string>
     <string name="You_cannot_play_for_x_minutes_">You cannot play for %d minutes.</string>
     <string name="x4_Clan_XP_Perm">4x Clan XP Permanent!</string>
@@ -1240,16 +1240,16 @@
     <string name="Estimated_Earnings_">"Estimated Earnings: "</string>
     <string name="South_Africa">South Africa</string>
     <string name="SPLIT_">SPLIT:</string>
-    <string name="WALLS">WALLS</string>
-    <string name="COMP_BANNED">COMP BANNED</string>
-    <string name="FIND_GAMES">FIND GAMES</string>
-    <string name="PLAY_SOLO">PLAY SOLO</string>
-    <string name="SET_EMOTE">SET EMOTE</string>
-    <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
-    <string name="Win_a_Battle_Royale_">Win a Battle Royale.</string>
-    <string name="Battle_">Battle!</string>
-    <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
-    <string name="Battle_Royale">Battle Royale</string>
+    <string name="WALLS">බිත්ති</string>
+    <string name="COMP_BANNED">තහනම් සමාගම්</string>
+    <string name="FIND_GAMES">සෙවුම් ක්රීඩා</string>
+    <string name="PLAY_SOLO">තනියම සෙල්ලම් කරන්න</string>
+    <string name="SET_EMOTE">ඉමොජි ප්‍රකාශන සීරුමාරු කරන්න</string>
+    <string name="Winner_Winner_Chicken_Dinner">ජයග්‍රාහකයා ජයග්‍රාහකයා චිකන් රාත්‍රී ආහාරය!</string>
+    <string name="Win_a_Battle_Royale_">දිනනවා සටන් රාජකීය.</string>
+    <string name="Battle_">සටන!</string>
+    <string name="BATTLE_ROYALE">සටන් රාජකීය</string>
+    <string name="Battle_Royale">සටන් රාජකීය</string>
     <string name="The_winner_will_receive_x_plasma_">The winner will receive %s plasma!</string>
     <string name="admin_commands">"
 Commands:
@@ -1284,7 +1284,7 @@ Commands:
     <string name="Specify_Reason_">Specify Reason:</string>
     <string name="FREE_FOR_ALL">FREE FOR ALL</string>
     <string name="SPECIAL">SPECIAL</string>
-    <string name="FREE">FREE</string>
+    <string name="FREE">නොමිලේ</string>
     <string name="x5_Clan_XP_1_Day">5X CLAN XP 1 DAY</string>
     <string name="x5_Clan_XP_7_days">5X CLAN XP 7 DAYS</string>
     <string name="x5_Clan_XP_Perm">5X CLAN XP PERMANENT!</string>
@@ -1294,23 +1294,23 @@ Commands:
     <string name="x5_XP_Permanent">5X XP PERMANENT</string>
     <string name="CAMPAIGN_2">CAMPAIGN 2</string>
     <string name="XP_5x">XP 5x</string>
-    <string name="India">India</string>
+    <string name="India">ඉන්දියාව</string>
     <string name="Tutorial">Tutorial</string>
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
-    <string name="activate">Activate</string>
-    <string name="clan_id">CLAN ID</string>
+    <string name="activate">සක්රිය කරන්න</string>
+    <string name="clan_id">වංශ හැඳුනුම්පත</string>
     <string name="language_change_warning">Changing the language will cause the app to restart.</string>
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
-    <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="no_response">සේවාදායකයෙන් ප්‍රතිචාරයක් නොමැත කරුණාකර අන්තර්ජාල සම්බන්ධතාව පරීක්ෂා කරන්න.</string>
+    <string name="RAMADAN">රාමදාන්</string>
+    <string name="SUDDEN_ATTACK">හදිසි ප්‍රහාරයක්</string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
-    <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="pm">හවස</string>
+    <string name="You_are_already_friends_">ඔබ දැනටමත් මිතුරන්.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">තැපැල් යැවීමට ගිණුම දින එකක්ක් පැරණි විය යුතුය..</string>
+    <string name="Translator">පරිවර්තකයා</string>
+    <string name="SUCCESS">සාර්ථකත්වය</string>
 
 
     <string-array name="control_modes">
@@ -1328,22 +1328,22 @@ Commands:
         <item>"අයිතිය + වම"</item>
         <item>"අඩුක්කුව වාමාංශික"</item>
         <item>"අඩුක්කුව අයිතිය"</item>
-        <item>"Custom"</item>
+        <item>"අභිරුචි"</item>
     </string-array>
 
     <string-array name="themes">
         <item>"තරු (තද)"</item>
         <item>"විදුලි බල පද්ධතියට (තද)"</item>
         <item>"විදුලි බල පද්ධතියට (සුදු)"</item>
-        <item>"Custom"</item>
+        <item>"අභිරුචි"</item>
         <item>"නැහැ"</item>
     </string-array>
 
     <string-array name="difficulties">
         <item>"පහසු"</item>
         <item>"මධ්යම"</item>
-        <item>"Hard"</item>
-        <item>"IMPOSSIBLE"</item>
+        <item>"දුෂ්කර"</item>
+        <item>"නොහැකියි"</item>
     </string-array>
 
     <string-array name="sizes">
@@ -1351,11 +1351,11 @@ Commands:
         <item>"කුඩා"</item>
         <item>"සාමාන්ය"</item>
         <item>"මහා"</item>
-        <item>"HUGE"</item>
+        <item>"දැවැන්ත"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
-        <item>"Duo (2v2)"</item>
+        <item>"ද්විපාර්ශ්වික (2v2)"</item>
         <item>"ඉතා කුඩා (3v3)"</item>
         <item>"කුඩා (5v5)"</item>
         <item>"සාමාන්ය (8v8)"</item>
