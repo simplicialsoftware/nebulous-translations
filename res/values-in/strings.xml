@@ -1167,7 +1167,6 @@ Perintah:
 !welcome {pesan}
 !difficulty [0-3] atau [1-4] dengan Kampanye
 !hidden
-!guests
 !slowchat
 !pausechat
 !mute {id}
