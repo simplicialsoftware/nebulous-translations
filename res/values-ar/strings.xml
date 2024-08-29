@@ -210,7 +210,7 @@
     <string name="Absorb_160_player_blobs_without_restarting">"استيعاب ١٦٠ من دوائر اللاعبين دون إعادة التشغيل"</string>
     <string name="Absorb_240_player_blobs_without_restarting">"استيعاب ٢٤٠ من دوائر اللاعبين دون إعادة التشغيل"</string>
 
-    <string name="Reach_a_score_of_1_000">" الوصول الى ١٠٠٠ درجة"</string>
+    <string name="Reach_a_score_of_1_000">" ألوصول الى ١٠٠٠ درجة"</string>
     <string name="Reach_a_score_of_5_000">"الوصول الى ٥٠٠٠ درجة"</string>
     <string name="Reach_a_score_of_10_000">"الوصول الى ١٠،٠٠٠ درجة"</string>
     <string name="Reach_a_score_of_15_000">"الوصول إلى ١٥،٠٠٠ درجة"</string>
@@ -1337,7 +1337,7 @@ Commands:
     <string name="Specify_Reason_">حدد السبب:</string>
     <string name="FREE_FOR_ALL">حر للجميع</string>
     <string name="SPECIAL">مميز</string>
-    <string name="FREE">مجانا</string>
+    <string name="FREE">ًمجانا</string>
     <string name="x5_Clan_XP_1_Day">مسرع العشيرةX5  لمدة يوم واحد </string>
     <string name="x5_Clan_XP_7_days">مسرع العشيرةX5  لمدة سبع ايام</string>
     <string name="x5_Clan_XP_Perm">5X مسرع العشيرة دائم</string>
