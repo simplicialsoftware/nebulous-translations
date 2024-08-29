@@ -1387,7 +1387,7 @@ Si vous ne souhaitez pas vous connecter, vous pouvez toujours jouer en mode solo
     <string name="You_are_already_friends_">Vous êtes déjà amis.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Le compte doit avoir 1 jour pour pouvoir envoyer un mail.</string>
     <string name="Translator">Traducteur</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">SUCCÈS</string>
 
     <string-array name="control_modes">
         <item>"Moyen"</item>
