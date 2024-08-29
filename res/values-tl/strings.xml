@@ -763,7 +763,7 @@
     <string name="SIGN_OUT_ALL_DEVICES">I-SIGN OUT ANG LAHAT NG DEVICES</string>
     <string name="Tournament_Forming">Ang Tournament ay nagf-forming</string>
     <string name="TeamTourneyDescription">Ikaw at ang iyong mga teammate ay dapat munang mag-register para makalaro sa pangkatang-tournament. Ikaw at ang iyong teammate ay kailangang magbayad ng plasma kapag ang tournament ay nagsimula na, pero puwede kang mag-unregister bago pa man ito magsimula. Kailangan ng kahit %d kalahok para magsimula.</string>
-    <string name="Free_Agent">Libreng Agent</string>
+    <string name="Free_Agent">Libreng Ahente</string>
     <string name="This_player_selected_a_different_teammate_">Ang player na ito ay nakapili na ng ibang kakampi.</string>
     <string name="muted_until">Muted hanggang</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Ang Content rating ng app ay maaaring mabago kapag naglalaro ng multiplayer.</string>
@@ -939,7 +939,7 @@
     <string name="Vote_Kick">I-Kick ang Manlalaro</string>
     <string name="FONT">FONT</string>
     <string name="CIRCLE">BILOG</string>
-    <string name="SQUARES">SQUARE</string>
+    <string name="SQUARES">PARISUKAT</string>
     <string name="TRICK_MODE">TRICK MODE</string>
     <string name="ICE_SPLIT">ICE SPLIT</string>
     <string name="TRICK_SPLIT">TRICK SPLIT</string>

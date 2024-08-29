@@ -770,7 +770,7 @@
     <string name="WRITE_MAIL">"Mail schreiben"</string>
     <string name="Days">"Tage"</string>
     <string name="Message">"Nachricht"</string>
-    <string name="Subject">"Betreff"</string>
+    <string name="Subject">"Thema"</string>
     <string name="SEND">"Senden"</string>
     <string name="To">"Nach"</string>
     <string name="RESET">"Löschen"</string>
@@ -1343,7 +1343,7 @@ Wenn Sie sich nicht anmelden möchten, können Sie trotzdem im Einzelspielermodu
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">‏Konto muss 1 Tag alt sein, um E-Mails senden zu können</string>
     <string name="Translator">Übersetzer</string>
     <string name="SUCCESS">ERFOLG</string>
 

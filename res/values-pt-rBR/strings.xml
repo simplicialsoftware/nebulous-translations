@@ -1181,7 +1181,7 @@ Esta é uma lista de coisas que é * PROIBIDO * para usar nas skins personalizad
     <string name="GET_PACK">OBTER PACOTE</string>
     <string name="Position_in_queue">Posição na fila</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">COR DE FUNDO DO MENU DE PERFIL</string>
-    <string name="DARK_MATTER">MATÉRIA NEGRA</string>
+    <string name="DARK_MATTER">MATÉRIA ESCURA</string>
     <string name="Textures_will_be_regenerated_">Texturas pretas e skins personalizadas serão regeneradas.</string>
     <string name="Enable_Profile_Colors">Ativar Cores do Perfil</string>
     <string name="mother_cell" translatable="true" tools:ignore="Untranslatable">CÉLULA MÃE</string>
