@@ -1226,11 +1226,11 @@
     <string name="Crocodile_Hunter">Bergê Krokodîlê</string>
     <string name="Get_A_Pet_To_Level_X_">Hevîkek Bi Astê Xwe Bigire %d.</string>
     <string name="plasma_boost_info">"You gain three times plasma from all IN-GAME sources while the boost is active! This includes arena  and tournament winnings! Does NOT work on plasma purchases, spins, or special rewards."</string>
-    <string name="Plasma_Boost_7_Days_">Plazma Zêdekirin 7 Rojek!!!</string>
-    <string name="Plasma_Boost_1_Day_">Plazma Zêdekirin 1 Roj!</string>
-    <string name="Plasma_Boost_2_Hours_">Plazma Zêdekirin 2 Saetek.</string>
-    <string name="Plasma_Boost">Plazma Zêdekirin</string>
-    <string name="particle_info">Pertîkul Zanîn.</string>
+    <string name="Plasma_Boost_7_Days_">Plazma Teşvik 7 Rojek!!!</string>
+    <string name="Plasma_Boost_1_Day_">Plazma Teşvik 1 Roj!</string>
+    <string name="Plasma_Boost_2_Hours_">Plazma Teşvik 2 Saetek.</string>
+    <string name="Plasma_Boost">Plazma Teşvik</string>
+    <string name="particle_info">Hûn Hewce Ne Ku Bi Kêmî 50-ê Xwe Bidin û Bi Skinê Bingehînê Yên Bi Partîkîlên De Kar Bînin Da Ku Hûn Tiştek Partîkîlê Bibînin.</string>
     <string name="Plain_Score_Text">"Nivîska Skora Sade"</string>
     <string name="Custom_Skin_Reviewed_Notification">Skinê Taybetîya Te Nêrînîye!</string>
     <string name="You_Have_Mail_">Hûn Pêdivîyê Hêviya Ji %s!</string>
