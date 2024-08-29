@@ -183,24 +183,24 @@
     <string name="Survivalist">"المكافح"</string>
     <string name="Ultramassive">"العملاق"</string>
     <string name="Rapid_Ascension">"الصعود السريع"</string>
-    <string name="Revenge">"انتقام"</string>
+    <string name="Revenge">"أنتقام"</string>
     <string name="Doge_Pound">"جامع الكلاب"</string>
 
-    <string name="Absorb_50_dots">"استيعاب ٥٠ نقطة"</string>
-    <string name="Absorb_300_dots">"استيعاب ٣٠٠ نقطة"</string>
-    <string name="Absorb_1_000_dots">"استيعاب ج ١٠٠٠ نقطة"</string>
-    <string name="Absorb_5_000_dots">"استيعاب ٥٠٠٠ نقطة"</string>
-    <string name="Absorb_10_000_dots">"استيعاب ١٠،٠٠٠ النقاط"</string>
-    <string name="Absorb_50_000_dots">"استيعاب ٥٠،٠٠٠ النقاط"</string>
-    <string name="Absorb_100_000_dots">"استيعاب ١٠٠،٠٠٠ النقاط"</string>
-    <string name="Absorb_1_000_000_dots">"استيعاب ١،٠٠٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_50_dots">"إستيعاب ٥٠ نقطة"</string>
+    <string name="Absorb_300_dots">"إستيعاب ٣٠٠ نقطة"</string>
+    <string name="Absorb_1_000_dots">"إستيعاب ١٠٠٠ نقطة"</string>
+    <string name="Absorb_5_000_dots">"إستيعاب ٥٠٠٠ نقطة"</string>
+    <string name="Absorb_10_000_dots">"إستيعاب ١٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_50_000_dots">"إستيعاب ٥٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_100_000_dots">"إستيعاب ١٠٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_1_000_000_dots">"إستيعاب ١،٠٠٠،٠٠٠ النقاط"</string>
 
-    <string name="Absorb_4_blobs_quickly">"استيعاب ٤ من الدوائر بسرعة"</string>
-    <string name="Absorb_8_blobs_quickly">"استيعاب ٨ من الدوائر بسرعة"</string>
-    <string name="Absorb_16_blobs_quickly">"استيعاب ١٦ من الدوائر بسرعة"</string>
-    <string name="Absorb_24_blobs_quickly">"استيعاب ٢٤ من الدوائر بسرعة"</string>
-    <string name="Absorb_32_blobs_quickly">"استيعاب ٣٢ من الدوائر بسرعة"</string>
-    <string name="Absorb_40_blobs_quickly">"استيعاب ٤٠ من الدوائر بسرعة"</string>
+    <string name="Absorb_4_blobs_quickly">"إستيعاب ٤ من الدوائر بسرعة"</string>
+    <string name="Absorb_8_blobs_quickly">"إستيعاب ٨ من الدوائر بسرعة"</string>
+    <string name="Absorb_16_blobs_quickly">"إستيعاب ١٦ من الدوائر بسرعة"</string>
+    <string name="Absorb_24_blobs_quickly">"إستيعاب ٢٤ من الدوائر بسرعة"</string>
+    <string name="Absorb_32_blobs_quickly">"إستيعاب ٣٢ من الدوائر بسرعة"</string>
+    <string name="Absorb_40_blobs_quickly">"إستيعاب ٤٠ من الدوائر بسرعة"</string>
 
     <string name="Absorb_8_player_blobs_without_restarting">"استيعاب ٨ من دوائر اللاعبين دون إعادة التشغيل"</string>
     <string name="Absorb_16_player_blobs_without_restarting">"استيعاب ١٦ من دوائر اللاعبين دون إعادة التشغيل"</string>
@@ -376,7 +376,7 @@
     <string name="W_D_L">"ف-ت-خ"</string>
     <string name="MATCH_START">"بداية المباراة بعد"</string>
     <string name="Clan_Warrior">"محارب العشيرة"</string>
-    <string name="Win_a_Clan_War">"فوز بحرب عشائر"</string>
+    <string name="Win_a_Clan_War">"الفوز بحرب العشائر"</string>
     <string name="Global">"عالمي"</string>
     <string name="Spectating">"مشاهدة"</string>
 
