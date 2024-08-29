@@ -830,7 +830,7 @@
     <string name="Tuber">"Tuber"</string>
     <string name="youtube_prompt">"Doriți să vizitați acest canal de YouTube? Aceste canale nu sunt afiliate cu creatorii Nebulous."</string>
     <string name="Tournament_Matches_Won_">"Meciuri Câştigate în Turnee:"</string>
-    <string name="PAINT">"PAINT"</string>
+    <string name="PAINT">"VOPSEA"</string>
     <string name="BLOCKED_ACCOUNTS">"CONTURI BLOCATE"</string>
     <string name="UNBLOCK">"DEBLOCAȚI"</string>
     <string name="Emotes">"Emoții"</string>
@@ -1154,7 +1154,7 @@
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">REMOVE SKIN FROM COMMUNITY!</string>
     <string name="This_cannot_be_undone_">This cannot be undone!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Watch a video to get a temporary boost for %d lives!</string>
-    <string name="WATCH_VIDEO_">WATCH VIDEO!</string>
+    <string name="WATCH_VIDEO_">VIDEO GATA!</string>
     <string name="PERMANENT_BOOSTS">PERMANENT BOOSTS</string>
     <string name="Video_failed_to_load_">Video failed to load!</string>
     <string name="Video_Ready_">Video Ready!</string>
@@ -1171,7 +1171,7 @@
     <string name="Max_Tilt_Angle_3D_">Max Tilt Angle 3D:</string>
     <string name="Mode_3D">3D Mode</string>
     <string name="Names_Below_Blobs">Names Below Blobs</string>
-    <string name="Name_Scale_">"Name Scale:"</string>
+    <string name="Name_Scale_">"Scala de nume:"</string>
     <string name="Button_3D">Button 3D</string>
     <string name="Hide_Button_">Hide Button?</string>
     <string name="Show_Boost_Button">Show Boost Button</string>
@@ -1276,10 +1276,10 @@ Comenzi:
     <string name="TAMER">TAMER</string>
     <string name="Allow_Recombine">Allow Recombine</string>
     <string name="Defenders">Defenders</string>
-    <string name="Attackers">Attackers</string>
+    <string name="Attackers">Atacatori</string>
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Missing Permissions</string>
-    <string name="DELETE_ACCOUNT">DELETE ACCOUNT</string>
+    <string name="DELETE_ACCOUNT">ȘTERGEȚI CONT</string>
     <string name="delete_prompt">Are you sure you want to delete your account? This is PERMANENT and CANNOT BE UNDONE!</string>
 
 
