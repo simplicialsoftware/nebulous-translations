@@ -1355,7 +1355,7 @@ Commands:
     <string name="language_change_warning">سيؤدي تغيير اللغة إلى إعادة تشغيل التطبيق.</string>
     <string name="xmas_gift_boost_message">لقد تلقيت هدية تعزيز البلازما 3 مرات ليوم واحد!</string>
     <string name="no_response">لا توجد استجابة من الخادم. يرجى التحقق من اتصال الإنترنت.</string>
-    <string name="RAMADAN">رمضان</string>
+    <string name="RAMADAN">تم بنجاح</string>
     <string name="SUDDEN_ATTACK">هجوم مفاجئ</string>
 
     <string name="sign_in_explanation" translatable="true">
