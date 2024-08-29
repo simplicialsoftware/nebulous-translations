@@ -1405,7 +1405,7 @@ Commands:
     </string-array>
 
     <string-array name="difficulties">
-        <item>سهل "</item>
+        <item>"سهل"</item>
         <item>"متوسط"</item>
         <item>"صعب"</item>
         <item>"صعب جداً"</item>
