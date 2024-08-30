@@ -3,7 +3,7 @@
     <string name="Players">"플레이어"</string>
     <string name="Control_">"조작 :"</string>
     <string name="CLOSE">"닫기"</string>
-    <string name="Stick_Size_">"스틱 사이즈 :"</string>
+    <string name="Stick_Size_">"스틱 크기 :"</string>
     <string name="Stick_Margin_">"스틱 여백 : "</string>
     <string name="Button_Size_">"버튼 크기 :"</string>
     <string name="Button_Margin_">"버튼 여백 :"</string>
@@ -13,8 +13,8 @@
     <string name="DAILY">"일간"</string>
     <string name="Server_">"서버:"</string>
     <string name="Game_Mode_">"게임 모드:"</string>
-    <string name="Show_Names">"이름 표시하기"</string>
-    <string name="Show_Avatars">"스킨 표시하기"</string>
+    <string name="Show_Names">"이름 보이기"</string>
+    <string name="Show_Avatars">"스킨 보이기"</string>
     <string name="PLAY">"플레이"</string>
     <string name="OPTIONS">"옵션"</string>
 
