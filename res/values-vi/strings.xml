@@ -759,9 +759,9 @@
     <string name="Grant_Permission">"Cấp phép"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous cần quyền truy cập để lưu lại tiến trình game của bạn!"</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous cần quyền để có thể kết nối với các thiết bị Bluetooth khi cần."</string>
-    <string name="FFA_ULTRA">"TỰ NHANH"</string>
-    <string name="FFAU">"TỰ NHANH"</string>
-    <string name="_in_a_FFAU_Game">" ở một Chơi Tự Nhanh"</string>
+    <string name="FFA_ULTRA">"TỰ DO NHANH"</string>
+    <string name="FFAU">"TỰ DO NHANH"</string>
+    <string name="_in_a_FFAU_Game">" ở một Chơi Tự Do Nhanh"</string>
 
     <string name="BANNED_PLAYERS">"NGƯỜI CHƠI BỊ CẤM"</string>
     <string name="MAIL">"THƯ"</string>
