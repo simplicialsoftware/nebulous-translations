@@ -1309,7 +1309,7 @@ Commands:
     <string name="SUDDEN_ATTACK">ВНЕЗАПНА АТАКА</string>
     <string name="_2x_skin_resolution">2x Резолюция на Кожата</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">Вече сте приятели friends.</string>
+    <string name="You_are_already_friends_">Вече сте приятели.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Акаунтът трябва да е на един ден, за да изпратите имейл.</string>
     <string name="Translator">Преводач</string>
     <string name="SUCCESS">УСПЕХ</string>
