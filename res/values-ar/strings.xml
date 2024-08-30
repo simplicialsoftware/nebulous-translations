@@ -1330,7 +1330,7 @@ Commands:
     <string name="Attackers">المُهاجِمون</string>
     <string name="MEGA_SPLIT">64x قسمة كبير</string>
     <string name="Missing_Permissions">أذونات مفقودة</string>
-    <string name="DELETE_ACCOUNT">حذف الحساب</string>
+    <string name="DELETE_ACCOUNT">حذفَ الحساب</string>
     <string name="delete_prompt">هل أنت متأكد انك تريد حذف حسابك؟ هذا دائم ولا يمكن التراجع عن ذلك! اكتب للحذف!: DELETE ID</string>
 
 
