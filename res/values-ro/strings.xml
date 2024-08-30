@@ -8,7 +8,7 @@
     <string name="Button_Margin_">"Deplasare Buton:"</string>
     <string name="Buttons_">"Butoane:"</string>
     <string name="DEFAULTS">"PRESTABILITE"</string>
-    <string name="WEEKLY">"SĂPTĂM NAL"</string>
+    <string name="WEEKLY">"SĂPTĂMÂNAL"</string>
     <string name="DAILY">"ZILNIC"</string>
     <string name="Server_">"Server:"</string>
     <string name="Game_Mode_">"Mod de Joc:"</string>
@@ -128,7 +128,7 @@
     <string name="Friend_Request_Sent">"Cerere de prietenie trimisă"</string>
     <string name="ERROR">"EROARE"</string>
     <string name="CONTINUE">"CONTINUĂ"</string>
-    <string name="Global_" formatted="false">"Global%"</string>
+    <string name="Global_" formatted="false">"Global"</string>
     <string name="FRIEND_CHAT">"CHAT DE PRIETENI"</string>
     <string name="LOBBY_NAME">"NUMELE LOBBY-ULUI"</string>
     <string name="NULL">"NUL"</string>
@@ -232,12 +232,12 @@
     <string name="Blobs_Lost_">"Bloburi pierdute:"</string>
     <string name="Mass_Gained_">"Masă câștigată:"</string>
     <string name="Mass_Ejected_">"Masă ejectată:"</string>
-    <string name="Times_Ejected_">"De câte ori ai dat masă:"</string>
+    <string name="Times_Ejected_">"De câte ori te-ai ejectat:"</string>
     <string name="Times_Split_">"De câte ori te-ai despărţit:"</string>
     <string name="Biggest_Blob_">"Cel mai mare blob:"</string>
     <string name="Highest_Score_">"Cel mai mare scor:"</string>
     <string name="Average_Score_">"Scor mediu:"</string>
-    <string name="Times_Played_">"Accesări:"</string>
+    <string name="Times_Played_">"Timpul jucat:"</string>
     <string name="Longest_Life_">"Cea mai lungă viață:"</string>
     <string name="Games_Won_">"Jocuri câștigate:"</string>
 
