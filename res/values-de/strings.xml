@@ -426,10 +426,10 @@
     <string name="Purchase_Successful_">"Gekauft!"</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Verbinde dich bitte erneut um den Kauf wirksam zumachen."</string>
     <string name="Confirm_Purchase">"Kauf bestätigen"</string>
-    <string name="x3_XP_24_hours">"24 Stunden XP boost 3x"</string>
-    <string name="x3_XP_1_Hour">"Eine Stunde XP boost 3x"</string>
-    <string name="x2_XP_24_Hour">"24 Stunden XP boost 2x"</string>
-    <string name="x2_XP_1_Hour">"eine Stunde XP boost 2x"</string>
+    <string name="x3_XP_24_hours">"24 Stunden XP Schub 3x"</string>
+    <string name="x3_XP_1_Hour">"Eine Stunde XP Schub 3x"</string>
+    <string name="x2_XP_24_Hour">"24 Stunden XP Schub 2x"</string>
+    <string name="x2_XP_1_Hour">"eine Stunde XP Schub 2x"</string>
     <string name="Cost_">"Preis:"</string>
     <string name="You_cannot_purchase_this_right_now_">"Du kannst das im Moment nicht kaufen!"</string>
 
