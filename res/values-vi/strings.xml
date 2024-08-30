@@ -1258,7 +1258,6 @@ Lệnh:
 !welcome {tin nhắn}
 !difficulty [0-3] hay là [1-4] cho Chiến Dịch
 !hidden
-!guests
 !slowchat
 !pausechat
 !mute {id}
