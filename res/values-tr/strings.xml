@@ -1420,7 +1420,7 @@ Oturum açmak istemiyorsanız, tek oyunculu modumuzu oynamaya devam edebilirsini
         <item>"Kolay"</item>
         <item>"Orta"</item>
         <item>"Zor"</item>
-        <item>"İmkânsız"</item>
+        <item>"Imkânsız"</item>
     </string-array>
 
     <string-array name="sizes">
@@ -1428,10 +1428,10 @@ Oturum açmak istemiyorsanız, tek oyunculu modumuzu oynamaya devam edebilirsini
         <item>"Küçük"</item>
         <item>"Normal"</item>
         <item>"Büyük"</item>
-        <item>"DEVASA"</item>
+        <item>"Devasa"</item>
     </string-array>
 
-    <string-array name="clan_war_sizes">
+    <string-array name="Clan_War_Sizes">
         <item>"İkili (2'e 2)"</item>
         <item>"Küçücük (3'e 3)"</item>
         <item>"Küçük (5'e 5)"</item>
