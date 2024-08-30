@@ -1376,7 +1376,7 @@ Comandos:
 
 
     <string name="Type">Escribir</string>
-    <string name="Complete_campaign_mission_">Completar misión de campaña</string>
+    <string name="Complete_campaign_mission_">Completar MISIÓN de campaña</string>
     <string name="Specify_Reason_">Especifica el motivo:</string>
     <string name="FREE_FOR_ALL">TODOS CONTRA TODOS</string>
     <string name="SPECIAL">ESPECIAL</string>
@@ -1434,8 +1434,8 @@ Si no deseas registrarte, aún puedes jugar en modo individual."
         <item>"Izquierda"</item>
         <item>"Derecha"</item>
         <item>"Derecha + Izquierda"</item>
-        <item>"Apilados a la izquierda"</item>
-        <item>"Apilados a la derecha"</item>
+        <item>"Apilados a la Izquierda"</item>
+        <item>"Apilados a la Derecha"</item>
         <item>"Personalizado"</item>
     </string-array>
 
