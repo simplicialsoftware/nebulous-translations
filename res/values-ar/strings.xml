@@ -847,12 +847,12 @@
     <string name="Autoclick_1_Hour">مُسرع الَضغط لمُدة ساعة.</string>
     <string name="Ultraclick_24_Hours">مُسرع الضَغط الفائق لمُدة 24 ساعة.</string>
     <string name="Ultraclick_1_Hour">مُسرع الضَغط الفائق لمُدة ساعة.</string>
-    <string name="Ultraclick">مسرع الضغط الفائق</string>
+    <string name="Ultraclick">مُسرع الضغط الفائق</string>
     <string name="May_Reduce_Lag">(قد يكون هناك القليل من التأخير)</string>
-    <string name="Ultraclick_Permanent">"مسرع الضغط الفائق الدائم"</string>
-    <string name="Autoclick_Permanent">"مسرع الضغط الدائم"</string>
-    <string name="x3_XP_Permanent">"مسرع نقاط الخبرة x3 الدائم"</string>
-    <string name="x2_XP_Permanent">"مسرع نقاط الخبرة x2 الدائم"</string>
+    <string name="Ultraclick_Permanent">"مٌسرع الضَغط الفائق الدائم"</string>
+    <string name="Autoclick_Permanent">"مُسرع الضَغط الدائم"</string>
+    <string name="x3_XP_Permanent">"مُسرع نقاط الخبرة x3 الدائم"</string>
+    <string name="x2_XP_Permanent">"مُسرع نقاط الخبرة x2 الدائم"</string>
     <string name="Permanent">"دائم"</string>
     <string name="Apply_To_Account">"التشغيل في الحساب"</string>
     <string name="Spin_">"تدوير!"</string>
@@ -896,7 +896,7 @@
     <string name="members">أعضاء</string>
     <string name="Delete_ALL_Messages_">حذف كل الرسائل!</string>
     <string name="SAVE_PROFILE">حفظ الحالة الشخصية</string>
-    <string name="Move">"نقل"</string>
+    <string name="Move">نقل"</string>
     <string name="New_Position">"مركز جديد"</string>
     <string name="ALLIANCES">"الحلفاء"</string>
     <string name="ENEMIES">"الأعداء"</string>
@@ -1120,7 +1120,7 @@
     <string name="Level_Colors">ألوان المستوى</string>
     <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكية!</string>
     <string name="Hooked">مُعلَق</string>
-    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">لقد علقت في خطاف لمدة 10ثواني</string>
+    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">لقد علِقت في خطاف لمدة 10ثواني</string>
     <string name="Pack">حزمة</string>
     <string name="Skin_Pack">حزمة اشكال</string>
     <string name="SKIN_PACK">حزمة اشكال</string>
@@ -1171,7 +1171,7 @@
     <string name="Show_Spectator_Count">إظهار عداد المشاهدة</string>
     <string name="TRY_IT_">جربه</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">تحتاج لشراء حزمه لتستخدم هذه</string>
-    <string name="GET_PACK">العودة للوراء</string>
+    <string name="GET_PACK">الرجوع للوراء</string>
     <string name="Position_in_queue">الموضع في قائمة الأنتظار</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">لون ملفك الشخصي في الخلفية</string>
     <string name="DARK_MATTER">مادة مُظلِمه</string>
@@ -1280,7 +1280,7 @@
     <string name="Crocodile_Hunter">صياد التمساح</string>
     <string name="Get_A_Pet_To_Level_X_">أجعل الحيوان مستوى %d.</string>
     <string name="plasma_boost_info">"تحصُل على مُعزِز البلازما من جميع أطوَّار اللعب بينما يكون التعزيزُ نشطاً، وهذا يشمُل أرباح الحلبة والبطولات! "لايعمل على مشتريّات البلازما أو عجلة الحظ او المُكافآت الخاصة"</string>
-    <string name="Plasma_Boost_7_Days_">مُسرِّع البلازما لمُدَّة 7 أيَّام!!!</string>
+    <string name="Plasma_Boost_7_Days_">مُسرِّع البلازما لمُدَّة 7 أيًّام!!!</string>
     <string name="Plasma_Boost_1_Day_">مُسرِّع البلازما لمُدَّة يوم!</string>
     <string name="Plasma_Boost_2_Hours_">مُسرِّع البلازما لمُدَّة ساعتين.</string>
     <string name="Plasma_Boost">مُسرِّع البلازما</string>
@@ -1347,7 +1347,7 @@ Commands:
     <string name="x5_XP_1_Hour">  مسرع X5 لمدة ساعة</string>
     <string name="x5_XP_24_hours">مسرع X5 لمدة 24ساعة</string>
     <string name="x5_XP_Permanent">مسرع دائم X5</string>
-    <string name="CAMPAIGN_2">حملة ضد الاَليين 2</string>
+    <string name="CAMPAIGN_2">حملة ضد الاليين 2</string>
     <string name="India">الهند</string>
     <string name="Tutorial">الدورة التعليمية</string>
     <string name="TYCOON">حاصِد</string>
