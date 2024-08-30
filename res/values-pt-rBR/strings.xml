@@ -570,9 +570,9 @@
     <string name="Candy_Hoarder">"Colecionador de Doces"</string>
     <string name="Candy_Collector">"Coletor de Doces"</string>
     <string name="Candy_Mogul">"Magnata de Doces"</string>
-    <string name="Collect_1_000_candies_">"Colete 1.000 doces"</string>
-    <string name="Collect_5_000_candies_">"Colete 5.000 doces"</string>
-    <string name="Collect_10_000_candies_">"Colete 10.000 doces"</string>
+    <string name="Collect_1_000_candies_">"Colete 1.000 doces."</string>
+    <string name="Collect_5_000_candies_">"Colete 5.000 doces."</string>
+    <string name="Collect_10_000_candies_">"Colete 10.000 doces."</string>
     <string name="candies_">"doces."</string>
     <string name="Language">"Idioma"</string>
     <string name="Control_Opacity_">"Opacidade do Controlador:"</string>
@@ -586,7 +586,7 @@
     <string name="Please_wait_a_minute_before_sending_another_report_">"Por favor, aguarde um minuto antes de enviar uma outra denúncia."</string>
     <string name="Collect_1_000_beads_">"Colete 1.000 pérolas."</string>
     <string name="Collect_5_000_beads_">"Colete 5.000 pérolas."</string>
-    <string name="Collect_10_000_beads_">"Colete 10.000 pérolas"</string>
+    <string name="Collect_10_000_beads_">"Colete 10.000 pérolas."</string>
     <string name="Bead_Collector">"Coletor de Pérolas"</string>
     <string name="Bead_Hoarder">"Colecionador de Pérolas"</string>
     <string name="Bead_Mogul">"Magnata de Pérolas"</string>
@@ -1181,7 +1181,7 @@ Esta é uma lista de coisas que é * PROIBIDO * para usar nas skins personalizad
     <string name="GET_PACK">OBTER PACOTE</string>
     <string name="Position_in_queue">Posição na fila</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">COR DE FUNDO DO MENU DE PERFIL</string>
-    <string name="DARK_MATTER">MATÉRIA NEGRA</string>
+    <string name="DARK_MATTER">MATÉRIA ESCURA</string>
     <string name="Textures_will_be_regenerated_">Texturas pretas e skins personalizadas serão regeneradas.</string>
     <string name="Enable_Profile_Colors">Ativar Cores do Perfil</string>
     <string name="mother_cell" translatable="true" tools:ignore="Untranslatable">CÉLULA MÃE</string>

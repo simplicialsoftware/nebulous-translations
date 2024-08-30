@@ -14,7 +14,7 @@
     <string name="Game_Mode_">"Listik mod"</string>
     <string name="Show_Names">"Nawi bineser"</string>
     <string name="Show_Avatars">"Skini Bineser"</string>
-    <string name="PLAY">"BLİZE"</string>
+    <string name="PLAY">"BAZÎ"</string>
     <string name="OPTIONS">"VEBİJERKEN"</string>
 
     <string name="Avatar_">"Skin:"</string>
@@ -51,7 +51,7 @@
     <string name="Lobby_Name">"Nave lobîye"</string>
     <string name="Not_found_">"Peyda nebûn."</string>
 
-    <string name="Hidden">"veşartî"</string>
+    <string name="Hidden">"Veşartî"</string>
 
 
     <string name="SERVER">"PESKESKAREN"</string>
@@ -114,7 +114,7 @@
     <string name="REQUEST_FRIEND">"Daxwaza hewaltiye"</string>
     <string name="Private">"Taybet"</string>
     <string name="Public">"Raya gişti"</string>
-    <string name="Bot">"bot"</string>
+    <string name="Bot">"Bot"</string>
     <string name="You">"Tu"</string>
     <string name="This_player_is_a_bot">"Ev lıstıkvanen e a bot e."</string>
     <string name="This_player_is_not_signed_in">"Ev listikvanen tekavim pek na hat."</string>
@@ -135,10 +135,10 @@
 
 
     <string name="ALL">"GIŞT"</string>
-    <string name="FFA">"FFA"</string>
-    <string name="FFA_TIME">"FFA zeman"</string>
-    <string name="TEAMS">"tîmên"</string>
-    <string name="TEAMS_TIME">"tîmên TIME"</string>
+    <string name="FFA">"HEMU KES"</string>
+    <string name="FFA_TIME">"HEMU KES ZEMAN"</string>
+    <string name="TEAMS">"TIMEN"</string>
+    <string name="TEAMS_TIME">"TIMEN ZEMAN"</string>
     <string name="CTF">"CTF"</string>
     <string name="SURVIVAL">"Sax mayi "</string>
 
@@ -174,10 +174,10 @@
     <string name="Expert_Nebulator">"Profesyonel Nebulator"</string>
     <string name="Master_Nebulator">"Mamosta Nebulator"</string>
     <string name="Grand_Master_Nebulator">"Mamoste mezın  Nebulator"</string>
-    <string name="Impossible">"Nemimkûn"</string>
+    <string name="Impossible">"Neçar"</string>
 
-    <string name="Perfection">"Gîhiştî"</string>
-    <string name="Single_Handedly">"Yek-sere xwe"</string>
+    <string name="Perfection">"Xweşbînî"</string>
+    <string name="Single_Handedly">"Destekî yek"</string>
     <string name="Dodgey">"Şelevane"</string>
     <string name="Self_Contained">"Self-eyên"</string>
     <string name="Survivalist">"Ye mayi sax"</string>
@@ -1023,7 +1023,7 @@
     <string name="POSITION_EJECT_BUTTON">POSITION EJECT BUTTON</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">POSITION EJECT TOGGLE BUTTON</string>
     <string name="WIFI">WIFI</string>
-    <string name="JOIN_IP">JOIN IP</string>
+    <string name="JOIN_IP">HAT IP</string>
     <string name="Specify_Host_IP">Specify Host IP</string>
     <string name="ADVANCED_SETUP">ADVANCED SETUP</string>
     <string name="WORLD_CUP_EVENT___">WORLD CUP EVENT!!!</string>
@@ -1207,24 +1207,24 @@
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Perform 10,000 tricks in a Trick Mode game.</string>
     <string name="Tricky">Tricky</string>
     <string name="SUPPORTER">VIP</string>
-    <string name="CONQUEROR">CONQUEROR</string>
+    <string name="CONQUEROR">Fetihkar</string>
     <string name="TRICKY">TRICKY</string>
     <string name="x4_XP_Permanent">4x XP Daîmî</string>
-    <string name="x4_XP_24_hours">4x XP 24 Hours</string>
-    <string name="x4_XP_1_Hour">4x XP 1 Hour</string>
-    <string name="Quad">Quadruple</string>
-    <string name="Middle_East">Middle East</string>
+    <string name="x4_XP_24_hours">4x XP 24 Saetek</string>
+    <string name="x4_XP_1_Hour">4x XP 1 Saet</string>
+    <string name="Quad">Çare</string>
+    <string name="Middle_East">Navenda Rojhilatê Navîn</string>
     <string name="XP_4x">XP 4x</string>
-    <string name="You_cannot_play_for_x_minutes_">You cannot play for %d minutes.</string>
+    <string name="You_cannot_play_for_x_minutes_">Tu Nikarî Bi %d Deqîqe.</string>
     <string name="x4_Clan_XP_Perm">4x Clan XP Daîmî!</string>
-    <string name="x4_Clan_XP_7_days">4x Clan XP 7 Days</string>
-    <string name="x4_Clan_XP_1_Day">4x Clan XP 1 Day</string>
-    <string name="CHARGE_UP">CHARGE UP</string>
-    <string name="CLAN_DESCRIPTION_COLOR">CLAN DESCRIPTION COLOR</string>
-    <string name="Responsible_Pet_Owner">Responsible Pet Owner</string>
-    <string name="Animal_Tamer">Animal Tamer</string>
-    <string name="Crocodile_Hunter">Crocodile Hunter</string>
-    <string name="Get_A_Pet_To_Level_X_">Get A Pet To Level %d.</string>
+    <string name="x4_Clan_XP_7_days">4x Clan XP 7 Rojek</string>
+    <string name="x4_Clan_XP_1_Day">4x Clan XP 1 Roj</string>
+    <string name="CHARGE_UP">TÊKILIYA XWE</string>
+    <string name="CLAN_DESCRIPTION_COLOR">RENGÊ TERÎFÊ KLANÊ</string>
+    <string name="Responsible_Pet_Owner">Xwedîya Hevîkê Ya Berpêş</string>
+    <string name="Animal_Tamer">Heywan Tamer</string>
+    <string name="Crocodile_Hunter">Bergê Krokodîlê</string>
+    <string name="Get_A_Pet_To_Level_X_">Hevîkek Bi Astê Xwe Bigire %d.</string>
     <string name="plasma_boost_info">"You gain three times plasma from all IN-GAME sources while the boost is active! This includes arena  and tournament winnings! Does NOT work on plasma purchases, spins, or special rewards."</string>
     <string name="Plasma_Boost_7_Days_">Pêşkeftina Plazma 7 Rojan!!!</string>
     <string name="Plasma_Boost_1_Day_">Pêşkeftina Plazma 1 Roj!</string>
@@ -1240,16 +1240,16 @@
     <string name="Estimated_Earnings_">"Tevlîya Qeyran: "</string>
     <string name="South_Africa">Afrîkaya Başûr</string>
     <string name="SPLIT_">PARÇE BİBE:</string>
-    <string name="WALLS">Dîwaran</string>
+    <string name="WALLS">DIWARAN</string>
     <string name="COMP_BANNED">Hemû Qedexe Kirin</string>
     <string name="FIND_GAMES">Lîstikê Bibîne</string>
     <string name="PLAY_SOLO">Bİ Tenê Bilîze</string>
     <string name="SET_EMOTE">Emojiyê Lê Zêde Bike</string>
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
     <string name="Win_a_Battle_Royale_">Battle Royale qezenc bikin.</string>
-    <string name="Battle_">Battle!</string>
-    <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
-    <string name="Battle_Royale">Battle Royale</string>
+    <string name="Battle_">ŞER!</string>
+    <string name="BATTLE_ROYALE">ŞERE MEZIN</string>
+    <string name="Battle_Royale">Şerê Mezin</string>
     <string name="The_winner_will_receive_x_plasma_">Serketî dê %s plasma bistîne!!</string>
     <string name="admin_commands">"
 KOMUTÊN RÊVEBİRÊ:
@@ -1266,10 +1266,10 @@ KOMUTÊN RÊVEBİRÊ:
 !allow {id} ( Rêd bike )
 !allow reset" ( Rêdên nûve bike )
 </string>
-    <string name="ID_Sort">ID Sort</string>
-    <string name="Master_Tamer">Master Tamer</string>
+    <string name="ID_Sort">ID Rêz</string>
+    <string name="Master_Tamer">Mester Terbiye</string>
     <string name="Get_ALL_Pets_To_Level_100_">Hemû Heyvanên Pîran 100 ast bikin</string>
-    <string name="TAMER">TAMER</string>
+    <string name="TAMER">TERBIYE</string>
     <string name="Allow_Recombine">Allow Recombine</string>
     <string name="Defenders">Parêzvanan</string>
     <string name="Attackers">Êrîşkar</string>
@@ -1282,7 +1282,7 @@ KOMUTÊN RÊVEBİRÊ:
     <string name="Type">Binivîse</string>
     <string name="Complete_campaign_mission_">Erka kampanyayê temam bike</string>
     <string name="Specify_Reason_">Sedema xwe diyar bike:</string>
-    <string name="FREE_FOR_ALL">FREE FOR ALL</string>
+    <string name="FREE_FOR_ALL">JI BO HEMU KESAN BELAŞ</string>
     <string name="SPECIAL">TAYBETİ</string>
     <string name="FREE">BELAŞ</string>
     <string name="x5_Clan_XP_1_Day">5x CLAN XP 1 Rojan</string>
@@ -1304,13 +1304,13 @@ KOMUTÊN RÊVEBİRÊ:
     <string name="xmas_gift_boost_message">Te xelata 3x rojane 1 ya Piştgiriya Plazma wergirt!</string>
     <string name="no_response">Ji serverê bersiv nayê dayîn. Ji kerema xwe ve girêdana înternetê kontrol bikin.</string>
     <string name="RAMADAN">Remezanê</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="SUDDEN_ATTACK">HEŞİYA ANİ</string>
     <string name="_2x_skin_resolution">2x Kalîteya Çermê</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Hûn jixwe heval in.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Ji bo ku em bikarin nameyan bişînin divê hesab herî kêm 1 rojî be.</string>
     <string name="Translator">Wergêr</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">SERKEFTİN</string>
 
 
     <string-array name="control_modes">

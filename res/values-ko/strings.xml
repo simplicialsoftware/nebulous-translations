@@ -886,7 +886,7 @@
     <string name="UI_Opacity_">UI 투명도</string>
     <string name="LOAD">불러오기</string>
     <string name="REMOVE">추방</string>
-    <string name="BAN">영구추방</string>
+    <string name="BAN">영구 추방</string>
     <string name="MODERATORS">관리자들</string>
     <string name="ALL_CLAN">클랜\n전체</string>
     <string name="CO_LEADER">부대표</string>
@@ -1030,7 +1030,7 @@ Nebulous 규칙\n
     <string name="BLOCKED">차단됨</string>
     <string name="CLAN_WAR_HISTORY">클랜 전쟁 기록</string>
     <string name="Particle">파티클</string>
-    <string name="Privacy">개인정보처리방침</string>
+    <string name="Privacy">개인정보 처리방침</string>
     <string name="EULA">소프트웨어 사용권 동의</string>
     <string name="You_can_purchase_this_hat_for">당신은 이 모자를 다음 가격에 구매할 수 있습니다: </string>
     <string name="You_can_purchase_this_particle_for">당신은 이 파티클을 다음 가격에 구매할 수 있습니다: </string>

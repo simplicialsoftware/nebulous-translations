@@ -1348,7 +1348,7 @@
     <string name="You_are_already_friends_">Вы уже друзья.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Для отправки почты аккаунт должен быть старше 1 дня.</string>
     <string name="Translator">Переводчик</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">УСПЕХ</string>
 
 
     <string-array name="control_modes">
