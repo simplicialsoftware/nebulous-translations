@@ -289,7 +289,7 @@
     <string name="No_such_user_found_">"لم يتم العثور على هذا المستخدم."</string>
     <string name="No_open_public_clans_exist_">"لا يوجد عشيرة عامة مفتوحة."</string>
     <string name="You_aren_t_invited_to_that_clan_">"لم يتم دعوتك إلى هذه العشيرة."</string>
-    <string name="No_such_clan_exists_">"لا يوجد مثل هذه العشيرة !"</string>
+    <string name="No_such_clan_exists_">"لا يوجد مثل هذة العشيرة !"</string>
     <string name="That_clan_is_full_">"هذه العَشيرة ممتَلئة!"</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"هذا المستخدم ليس عضو في عشيرتك:"</string>
     <string name="_You_can_t_be_your_own_friend_">"لا يمكنك أن تكون صديق لنفسك:"</string>
