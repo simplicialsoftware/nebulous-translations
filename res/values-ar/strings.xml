@@ -1269,7 +1269,7 @@
     <string name="Quad">رُباعي</string>
     <string name="Middle_East">الشرق الأوسَط</string>
     <string name="XP_4x">نقاط خبرة 4x</string>
-    <string name="You_cannot_play_for_x_minutes_">لاتستطيع اللعب لمُدَّة %d دقيقة.</string>
+    <string name="You_cannot_play_for_x_minutes_">لاستطيع لعب لمدة x دقيقة.</string>
     <string name="x4_Clan_XP_Perm">4x نقاط خبرة عشيرة دائم!</string>
     <string name="x4_Clan_XP_7_days">4x نقاط خبرة العشيرة لمُدَّة 7 ايَّام.</string>
     <string name="x4_Clan_XP_1_Day">4x نقاط خبرة العشيرة لمُدَّة يوم</string>
@@ -1287,7 +1287,7 @@
     <string name="particle_info">يجِب أن تكون في المستوى الـ 50 على الأقل وتستخدم سكن اساسي به جزئيَّات. من أجل رؤية أي جزئيات أخرى.</string>
     <string name="Plain_Score_Text">"نص النقاط"</string>
     <string name="Custom_Skin_Reviewed_Notification">لقد قمنا بمُراجعة سكنك!</string>
-    <string name="You_Have_Mail_">لديك رسالة من %s!</string>
+    <string name="You_Have_Mail_">لديك رسالة %s!</string>
     <string name="Clan_Request_Reviewed_Notification">طلبك للإنضمام للعشيرة %s تمَّت مُراجعتهُ!</string>
     <string name="CRAZY_SPLIT">قسمة على 32x</string>
     <string name="Sold_Community_Skins_">"سكنّات المُجتمع المُباعةُ: "</string>
