@@ -880,9 +880,9 @@
     <string name="TeamTourneyDescription">Bạn và đồng đội của bạn phải đăng ký tham dự giải đấu đội. Bạn sẽ phải trả phí plasma khi giải đấu bắt đầu nhưng bạn có thể hủy đăng ký trước khi bắt đầu. Cần ít nhất %d người chơi để bắt đầu.</string>
     <string name="Free_Agent">Free Agent</string>
     <string name="This_player_selected_a_different_teammate_">Người này đã chọn đội khác</string>
-    <string name="muted_until">chặn chat trong</string>
+    <string name="muted_until">Chặn chat trong</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Chơi online có thể sẽ không mượt bằng chơi offline nhưng vui hơn nhiều.</string>
-    <string name="UI_Opacity_">UI Opacity</string>
+    <string name="UI_Opacity_">Độ mờ đục Giao Diện:</string>
     <string name="LOAD">TẢI</string>
     <string name="REMOVE">Gỡ</string>
     <string name="BAN">CẤM</string>
@@ -946,7 +946,7 @@
     <string name="HAPPY_BIRTHDAY_">CHÚC MỪNG SINH NHẬT NEBULOUS !</string>
     <string name="Years">Năm</string>
     <string name="Friend_Added_">Đã thêm bạn !</string>
-    <string name="_in_a_16x_Split_Game"> ở một Chơi Tách x16</string>
+    <string name="_in_a_16x_Split_Game"> ở một Chơi Tách 16x</string>
     <string name="Rules">Quy tắc</string>
     <string name="Blob_Chat_Bubbles">Bong bóng chat</string>
     <string name="CHRISTMAS_ADVENT_SKINS">SỰ KIỆN GIÁNG SINH</string>
