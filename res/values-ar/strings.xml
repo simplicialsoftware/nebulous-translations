@@ -59,8 +59,8 @@
     <string name="Game_Full">"اللعبه ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
-    <string name="Europe">"اوروبا"</string>
-    <string name="South_America">"امريكا الجنوبية"</string>
+    <string name="Europe">"أوروبا"</string>
+    <string name="South_America">"أمريكا الجنوبية"</string>
 
 
     <string name="SINGLE_PLAYER">"لاعب واحد"</string>
@@ -71,7 +71,7 @@
     <string name="Max_Players">"الحد الأقصى للاعبين"</string>
     <string name="Min_Players">"الحد الأدنى للاعبين"</string>
 
-    <string name="OK">"حسنا"</string>
+    <string name="OK">"حسناً"</string>
     <string name="CANCEL">"إلغاء"</string>
     <string name="Chat_Name">"اسم الدردشة"</string>
     <string name="Max_People">"الحد الأقصى للناس"</string>
@@ -122,13 +122,13 @@
     <string name="Online">"مُـتَـصِـل"</string>
     <string name="Unknown">"غير معروف"</string>
     <string name="Offline">"غـيـر مُـتَـصِـل"</string>
-    <string name="Achievement_Earned">"تم تحقيق الإنجاز"</string>
+    <string name="Achievement_Earned">"تَم تحقيق الإنجاز"</string>
     <string name="REFRESH">"تحديث"</string>
     <string name="DONE">"تَـم"</string>
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
     <string name="CONTINUE">"متابعة"</string>
-    <string name="Global_" formatted="false">"عالميا"</string>
+    <string name="Global_" formatted="false">"عالمياً"</string>
     <string name="FRIEND_CHAT">"دردشة الأصدقاء"</string>
     <string name="LOBBY_NAME">"اسم الردهة"</string>
     <string name="NULL">"لا شيء"</string>
@@ -155,12 +155,12 @@
     <string name="Dot_Gormandizer">"آكل النقاط الجشع"</string>
     <string name="Dot_Sommelier">"ساقي النقاط!"</string>
 
-    <string name="Quadra_Gulp">"ابتلاع رباعي"</string>
-    <string name="Multi_Gulp">"ابتلاع متعدد"</string>
-    <string name="Mega_Gulp">"ابتلاع ضخم"</string>
-    <string name="Ultra_Gulp">"ابتلاع فائق"</string>
-    <string name="Monster_Gulp">"ابتلاع وحشي"</string>
-    <string name="Ludicrous_Gulp">"ابتلاع لا يصدق"</string>
+    <string name="Quadra_Gulp">"إبتلاع رباعي"</string>
+    <string name="Multi_Gulp">"إبتلاع متعدد"</string>
+    <string name="Mega_Gulp">"إبتلاع ضخم"</string>
+    <string name="Ultra_Gulp">"إبتلاع فائق"</string>
+    <string name="Monster_Gulp">"إبتلاع وحشي"</string>
+    <string name="Ludicrous_Gulp">"إبتلاع لا يصدق"</string>
 
     <string name="Blobicide">"قاتل الدوائر"</string>
     <string name="Blobtrocity">"مستبد الدوائر"</string>
@@ -183,7 +183,7 @@
     <string name="Survivalist">"المكافح"</string>
     <string name="Ultramassive">"العملاق"</string>
     <string name="Rapid_Ascension">"الصعود السريع"</string>
-    <string name="Revenge">"انتقام"</string>
+    <string name="Revenge">"إنتقام"</string>
     <string name="Doge_Pound">"جامع الكلاب"</string>
 
     <string name="Absorb_50_dots">"استيعاب ٥٠ نقطة"</string>
@@ -224,7 +224,7 @@
     <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"استيعاب ٥ من الثقوب السوداء بعد ٣٠ ثانية من البداية"</string>
     <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"الوصول إلى ٥٠٠٠ درجة في حدود ١ دقيقة من البداية"</string>
     <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"اطلاق ثقب أسود على آخر لاعب أطلق عليك ثقب أسود قبل إعادة التشغيل"</string>
-    <string name="Absorb_5_doges_without_restarting">"استيعاب ٥ من اللاعبين بصورة الكلب دون إعادة تشغيل"</string>
+    <string name="Absorb_5_doges_without_restarting">"استيعاب ٥ من اللاعبين بصورة الكلب دون إعادة التشغيل"</string>
 
     <string name="Friends">" الأصدقاء"</string>
     <string name="Dots_Eaten_">"النقاط المأكولة:"</string>
@@ -357,7 +357,7 @@
     <string name="Searching">"جاري البحث"</string>
     <string name="In_Progress">"قيد التقدم"</string>
 
-    <string name="Wins">"انتصارات"</string>
+    <string name="Wins">"إنتصارات"</string>
 
     <string name="Score">"النقاط"</string>
     <string name="Rating">"تصنيف"</string>
@@ -446,7 +446,7 @@
     <string name="Seasonal">"موسمي"</string>
 
 
-    <string name="Temporarily_Disabled_">"موقوف مؤقتا."</string>
+    <string name="Temporarily_Disabled_">"متوقف مؤقتا."</string>
     <string name="BIGGEST">"أكبر"</string>
 
 
@@ -562,7 +562,7 @@
     <string name="Remove_Player">"إزالة لاعب"</string>
     <string name="Reject_Invitation">"رفض الدعوة"</string>
     <string name="Leave_Game">"الخروج من اللعبة"</string>
-    <string name="Remove_Friend">"أزالة صديق"</string>
+    <string name="Remove_Friend">"إزالة صديق"</string>
     <string name="Remove_Clan_Member">"طرد العضو من العشيرة"</string>
     <string name="Flag_lobby_as_inappropriate">" غير ملائمة"</string>
     <string name="Promote_Clan_Member">"ترقية العضو "</string>
@@ -744,7 +744,7 @@
     <string name="List_Count_">"عدد القائمة:"</string>
     <string name="Download_Skins">"تحميل الصور"</string>
     <string name="ARENA_HISTORY">" سجل التحديات"</string>
-    <string name="WIN">"انتصار"</string>
+    <string name="WIN">"إنتصار"</string>
     <string name="LOSS">"خسارة"</string>
     <string name="Other_players_can_not_see_your_skin_">"اللاعبون الآخرون لا يمكنهم رؤية صورتك."</string>
     <string name="Other_players_can_see_your_skin_">"اللاعبون الآخرون يمكنهم رؤية صورتك."</string>
@@ -861,11 +861,11 @@
     <string name="XP_2x">"مسرع نقاط الخبرة x2"</string>
     <string name="XP_3x">"مسرع نقاط الخبرة x3"</string>
     <string name="NOW">"الآن"</string>
-    <string name="Team_Deathmatch_Domination">"السيطرة في فرق الموت"</string>
+    <string name="Team_Deathmatch_Domination">"السيطرة في فِرق الموت"</string>
     <string name="We_Will_Survive">"سنبقى على قيد الحياة"</string>
-    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"الفوز بفارق لا يقل عن 5 لاعبين في لعبة فريق الموت."</string>
-    <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">" يفوز لعبة فريق الموت من دون الفوز في لعبة فريق الموت."</string>
-    <string name="Win_a_Team_Deathmatch_Game">"الفوز في لعبة فريق الموت"</string>
+    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"الفوز بفارق لا يقل عن 5 لاعبين في لعبة فِرق الموت."</string>
+    <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">" يفوز لعبة فريق الموت من دون الفوز في لعبة فِرق الموت."</string>
+    <string name="Win_a_Team_Deathmatch_Game">"الفوز في لعبة فِرق الموت"</string>
     <string name="TEAM_DEATHMATCH">"فِرق الموت"</string>
     <string name="Speed_Click_Toggle">"تبديل سرعة الضغط"</string>
     <string name="MOD">"مُدير"</string>
@@ -884,7 +884,7 @@
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">تعدد المحتوى من التطبيق قد تتغير عند لعب متعددة.</string>
     <string name="UI_Opacity_">شفافية الواجهة</string>
     <string name="LOAD">تحميل المخزن</string>
-    <string name="REMOVE">ازالة</string>
+    <string name="REMOVE">إزالة</string>
     <string name="BAN">حظر</string>
     <string name="MODERATORS">المدراء</string>
     <string name="ALL_CLAN">كل العشيرة</string>
@@ -999,8 +999,8 @@
     <string name="BANNED">محظور</string>
     <string name="CLAN_MEMBERS">أعضاء العشيرة</string>
     <string name="CLAN_REQUESTS">طلبات الإنضِمام للعشيرة !</string>
-    <string name="Pet_1">حيوان اليف 1</string>
-    <string name="Pet_2">حيوان اليف 2</string>
+    <string name="Pet_1">حيوان أليف 1</string>
+    <string name="Pet_2">حيوان أليف 2</string>
     <string name="Second_Pet">يسمح لك أن يكون لديك اثنين من الحيوانات الأليفة في نفس الوقت!</string>
     <string name="This_item_requires">هذا العنصر يتطلب</string>
     <string name="not_enough_plasma">لايوجد بلازما كافية.</string>
@@ -1023,7 +1023,7 @@
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">لا يَعمل تعزيز الكُتلة في التحديّات أو البُطولات أو حُروب العشّائر!</string>
     <string name="ArenaDescriptionPure">لا ضغط التلقائي أو مسرع الضغط. تحصل على حياة واحدة فقط. سوف يتلقى الفائز %s بلازما.</string>
     <string name="_1v1_Pure">١ضد١ نقي</string>
-    <string name="Allow_Ultraclick"> تشغيل مسرع الضغط</string>
+    <string name="Allow_Ultraclick"> تشغيل مُسرع الضغط</string>
     <string name="Allow_Mass_Boost"> تفعيل مُعزز الكُتلة</string>
     <string name="Challenges_Won_">التحديات التي تم الفوز بها:</string>
     <string name="trophy_info">يتم منح الجوائز في نهاية كل ملعب أو موسم حلبة الفريق للفوز بالمركز الأول والثاني والثالث. يتم منح الجوائز فقط في المناطق النشطة مع الكثير من اللاعبين.</string>
@@ -1096,18 +1096,18 @@
     <string name="community_skin_requirement">يجب عليك شراء الجلد المخصص لكي تستطيع شراء واستعمال جلود المجتمع.</string>
     <string name="You_can_purchase_this_community_skin_for_">تستطيع شراء جلد المجتمع هذا بمقابل</string>
     <string name="community_skin_information_for_buyer" translatable="true">يتم تحميل سكنات المجتمع من قبل لاعبين آخرين. تعمل هذه السكنات المجتمعية تمامًا مثل السكنات المخصصة، ويمكن تحريكها باستخدام السكنات العادية.</string>
-    <string name="VIEW_UPLOADER">اظهار صاحب الجلد</string>
+    <string name="VIEW_UPLOADER">إظهار صاحب الجلد</string>
     <string name="POPULAR">الشائع</string>
     <string name="NEW">جديد</string>
     <string name="Manage_Configurations">إدارة التكوينات</string>
-    <string name="Leave_blank_for_all_uploaders_">اترك فراغا لرؤية جميع المحملين</string>
+    <string name="Leave_blank_for_all_uploaders_">اترك فراغاً لرؤية جميع المحملين</string>
     <string name="More___">المزيد…</string>
     <string name="This_cannot_be_used_in_FFA_Classic_">هذه لا يمكن استخدامها في لعبة الحر للجميع الكلاسيكية.</string>
     <string name="ENEMY">عدو</string>
     <string name="ALLY">حليف</string>
     <string name="Rename">إعادة التسمية</string>
-    <string name="Set_friendly_name_">ضع اسما لصديقك.</string>
-    <string name="Leave_blank_for_none_">اترك فراغا لعدم التغيير.</string>
+    <string name="Set_friendly_name_">ضع اسماً لصديقك.</string>
+    <string name="Leave_blank_for_none_">اترك فراغاً لعدم التغيير.</string>
     <string name="Vote_Kick">طرد اللاعب</string>
     <string name="FONT">نوع الخط</string>
     <string name="CIRCLE">دائرة</string>
@@ -1115,7 +1115,7 @@
     <string name="TRICK_MODE">طور الحركات</string>
     <string name="ICE_SPLIT">إنقسام الثلج</string>
     <string name="TRICK_SPLIT">إنقسام الحركات</string>
-    <string name="POP_SPLIT">إنقسام الانفجار</string>
+    <string name="POP_SPLIT">إنقسام الأنفجار</string>
     <string name="PUSH_SPLIT">إنقسام الدفع</string>
     <string name="Level_Colors">ألوان المستوى</string>
     <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكية!</string>
@@ -1146,7 +1146,7 @@
     <string name="ANIMATION">رسوم مُتحركة</string>
     <string name="Color_Cycle">دورة الألوان</string>
     <string name="Fast">سريع</string>
-    <string name="Slow">بطئ</string>
+    <string name="Slow">بطيء</string>
     <string name="Rainbow">ثُقب مُلوَّن</string>
     <string name="Horizontal">أفقي</string>
     <string name="Vertical">رأسي</string>
@@ -1158,7 +1158,7 @@
     <string name="Failed_to_join">فشل في الدخول</string>
     <string name="Full">ممتلئ</string>
     <string name="Tricks_Performed_">:أداء الحركات</string>
-    <string name="Not_enough_plasma_">بلازما غير كافية</string>
+    <string name="Not_enough_plasma_">البلازما غير كافية</string>
     <string name="GET_PLASMA">إحصل على بلازما</string>
     <string name="ASTEROIDS">شُهُب</string>
     <string name="CHRISTMAS">كريسماس</string>
@@ -1170,7 +1170,7 @@
     <string name="Invites">الدعوات</string>
     <string name="Show_Spectator_Count">إظهار عداد المشاهدة</string>
     <string name="TRY_IT_">جربه</string>
-    <string name="You_need_to_buy_a_pack_to_use_this_">تحتاج لشراء حزمه لتستخدم هذه</string>
+    <string name="You_need_to_buy_a_pack_to_use_this_">تحتاج لشراء حزمة لتستخدم هذه</string>
     <string name="GET_PACK">العودة للوراء</string>
     <string name="Position_in_queue">الموضع في قائمة الأنتظار</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">لون ملفك الشخصي في الخلفية</string>
@@ -1254,7 +1254,7 @@
     <string name="Champion">بطل</string>
     <string name="Win_10_Tournaments">حقق 10 فوز في البطولة</string>
     <string name="Win_100_Tournaments">حقق 100 فوز في البطولة</string>
-    <string name="HERO">محارب</string>
+    <string name="HERO">مُحارب</string>
     <string name="CHAMPION">بطل</string>
     <string name="DASH">إندفاع</string>
     <string name="setting_changed">تحديث الضبط، قد تحتاج إلى إعادة الأتصال بالخادم حتى يتم تفعيله.</string>
