@@ -1317,12 +1317,12 @@ Lệnh:
 
 
     <string-array name="control_modes">
-        <item>"bình thường"</item>
+        <item>"Bình thường"</item>
         <item>"Phím Thả nổi"</item>
         <item>"kéo Hướng"</item>
         <item>"Điều khiển đuôi"</item>
         <item>"Chạm Và đi"</item>
-        <item>"nghiên"</item>
+        <item>"Nghiên"</item>
     </string-array>
 
     <string-array name="button_modes">
@@ -1339,7 +1339,7 @@ Lệnh:
         <item>"Kẻ ô (đen)"</item>
         <item>"Kẻ ô (trắng)"</item>
         <item>"Custom"</item>
-        <item>"không"</item>
+        <item>"Không"</item>
     </string-array>
 
     <string-array name="difficulties">
@@ -1352,8 +1352,8 @@ Lệnh:
     <string-array name="sizes">
         <item>"Nhỏ bé"</item>
         <item>"Nhỏ"</item>
-        <item>"bình thường"</item>
-        <item>"lớn"</item>
+        <item>"Bình thường"</item>
+        <item>"Lớn"</item>
         <item>"KHỔNG LỒ"</item>
     </string-array>
 
