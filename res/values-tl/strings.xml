@@ -28,7 +28,7 @@
     <string name="No">"Hindi:"</string>
     <string name="WAIT">"SANDALI:"</string>
     <string name="Must_Specify_Name_">"Kailangang tukuyin ang Pangalan:"</string>
-    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Nilalamang marka ng app ay maaaring magbago kapag naghahanap ng grupo:"</string>
+    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Nilalamang marka ng app ay maaaring magbago kapag naghahanap ng grupo.:"</string>
     <string name="_Rank_">"Ranggo:"</string>
     <string name="_Alias_">"Alyas:"</string>
     <string name="_Score_">"Puntos:"</string>
@@ -98,14 +98,14 @@
     <string name="Bot">"Bot"</string>
     <string name="You">"Ikaw"</string>
     <string name="This_player_is_a_bot">"Ang manlalarong ito ay isang bot"</string>
-    <string name="This_player_is_not_signed_in">"Ang manlalarong ito ay hindi naka-sign in"</string>
+    <string name="This_player_is_not_signed_in">"Ang manlalarong ito ay hindi naka-sign in."</string>
     <string name="Online">"Naka-Online"</string>
     <string name="Unknown">"Hindi kilala:"</string>
     <string name="Offline">"Naka-Offline:"</string>
     <string name="Achievement_Earned">"Mga nakamit:"</string>
     <string name="REFRESH">"REFRESH:"</string>
     <string name="DONE">"TAPOS:"</string>
-    <string name="Friend_Request_Sent">"Naipadala ang kahilingang makipag-kaibigan:"</string>
+    <string name="Friend_Request_Sent">"Naipadala ang kahilingang makipag-kaibigan.:"</string>
     <string name="ERROR">"ERROR:"</string>
     <string name="CONTINUE">"MAGPATULOY:"</string>
     <string name="Global_" formatted="false">"Pandaigdigan"</string>
