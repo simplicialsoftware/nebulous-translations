@@ -23,18 +23,18 @@
     <string name="Loading___">"Cargando…"</string>
     <string name="Connecting___">"Conectando…"</string>
 
-    <string name="Are_You_Sure_">"¿Estás seguro?"</string>
+    <string name="Are_You_Sure_">"¿Estás de acuerdo?"</string>
     <string name="Yes">"Sí"</string>
     <string name="No">"No"</string>
     <string name="WAIT">"ESPERA…"</string>
-    <string name="Must_Specify_Name_">"Debes especificar un nombre "</string>
+    <string name="Must_Specify_Name_">"Debes aclarar un nombre "</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"El contenido de esta aplicación puede variar cuando se buscan grupos "</string>
 
     <string name="_Rank_">" Posición "</string>
     <string name="_Alias_">" Apodo "</string>
-    <string name="_Score_">" Puntuación "</string>
-    <string name="Score__">"Puntuación: "</string>
+    <string name="_Score_">" Puntajes "</string>
+    <string name="Score__">"Puntaje: "</string>
     <string name="Recombine_">"Juntarse: "</string>
     <string name="WINNER_">"GANADOR: "</string>
     <string name="IDLE">"INACTIVO"</string>
@@ -51,7 +51,7 @@
     <string name="Lobby_Name">"Nombre de la sala"</string>
     <string name="Not_found_">"No encontrado "</string>
 
-    <string name="Hidden">"Oculto"</string>
+    <string name="Hidden">"Escondido"</string>
 
 
     <string name="SERVER">"SERVIDOR"</string>
@@ -63,7 +63,7 @@
     <string name="South_America">"Sudamérica"</string>
 
 
-    <string name="SINGLE_PLAYER">"UN JUGADOR"</string>
+    <string name="SINGLE_PLAYER">"UN SOlO JUGADOR"</string>
     <string name="Background_">"Fondo:"</string>
     <string name="Difficulty_">"Dificultad:"</string>
     <string name="Delay_Disconnect">"Retraso en la desconexión"</string>
@@ -75,7 +75,7 @@
     <string name="CANCEL">"CANCELAR"</string>
     <string name="Chat_Name">"Nombre del chat"</string>
     <string name="Max_People">"Personas máximas"</string>
-    <string name="START">"EMPEZAR"</string>
+    <string name="START">"COMENZAR"</string>
     <string name="CREATE">"CREAR"</string>
     <string name="CUSTOM_GAMES">"PARTIDAS PERSONALIZADAS"</string>
     <string name="CHAT">"CHAT"</string>
@@ -84,14 +84,14 @@
 
 
     <string name="SIGN_IN">"INICIAR SESIÓN"</string>
-    <string name="ACCOUNT">"CUENTA"</string>
+    <string name="ACCOUNT">"TU CUENTA"</string>
     <string name="Red_Team">"Equipo Rojo"</string>
     <string name="Green_Team">"Equipo Verde"</string>
     <string name="Blue_Team">"Equipo Azul"</string>
     <string name="Yellow_Team">"Equipo Amarillo"</string>
     <string name="Signed_in_as_">"Conectado como:"</string>
-    <string name="Not_signed_in_">"¡No registrado!"</string>
-    <string name="SET_NAME">"CAMBIAR NOMBRE"</string>
+    <string name="Not_signed_in_">"¡No estás registrado!"</string>
+    <string name="SET_NAME">"CAMBIAR TU NOMBRE"</string>
     <string name="SIGN_OUT">"CERRAR SESIÓN"</string>
     <string name="ACHIEVEMENTS">"LOGROS"</string>
     <string name="STATISTICS">"ESTADÍSTICAS"</string>
@@ -139,7 +139,7 @@
     <string name="FFA_TIME">"TCT TIEMPO"</string>
     <string name="TEAMS">"EQUIPOS"</string>
     <string name="TEAMS_TIME">"EQUIPOS TIEMPO"</string>
-    <string name="CTF">"CLB"</string>
+    <string name="CTF">"CAPTURA LA BANDERA"</string>
     <string name="SURVIVAL">"SUPERVIVENCIA"</string>
 
 
@@ -170,14 +170,14 @@
     <string name="Blobageddon">"Blobagedón"</string>
     <string name="Blobocalypse">"Blobocalípsis"</string>
 
-    <string name="Experienced_Nebulator">"Jugador experimentado"</string>
-    <string name="Expert_Nebulator">"Jugador experto"</string>
+    <string name="Experienced_Nebulator">"Jugador con experiencia"</string>
+    <string name="Expert_Nebulator">"Jugador profesional"</string>
     <string name="Master_Nebulator">"Maestro de Nebulous"</string>
     <string name="Grand_Master_Nebulator">"Gran Maestro de Nebulous"</string>
     <string name="Impossible">"Imposible"</string>
 
     <string name="Perfection">"Perfección"</string>
-    <string name="Single_Handedly">"Sin ayuda de nadie"</string>
+    <string name="Single_Handedly">"Individual sin ayuda"</string>
     <string name="Dodgey">"Escurridizo"</string>
     <string name="Self_Contained">"Autónomo"</string>
     <string name="Survivalist">"Superviviente"</string>
@@ -195,12 +195,12 @@
     <string name="Absorb_100_000_dots">"Absorbe 100.000 puntos"</string>
     <string name="Absorb_1_000_000_dots">"Absorbe 1.000.000 de puntos"</string>
 
-    <string name="Absorb_4_blobs_quickly">"Absorbe 4 blobs rápidamente"</string>
-    <string name="Absorb_8_blobs_quickly">"Absorbe 8 blobs rápidamente"</string>
-    <string name="Absorb_16_blobs_quickly">"Absorbe 16 blobs rápidamente"</string>
-    <string name="Absorb_24_blobs_quickly">"Absorbe 24 blobs rápidamente"</string>
-    <string name="Absorb_32_blobs_quickly">"Absorbe 32 blobs rápidamente"</string>
-    <string name="Absorb_40_blobs_quickly">"Absorbe 40 blobs rápidamente"</string>
+    <string name="Absorb_4_blobs_quickly">"Absorbe 4 blobs velozmente"</string>
+    <string name="Absorb_8_blobs_quickly">"Absorbe 8 blobs velozmente"</string>
+    <string name="Absorb_16_blobs_quickly">"Absorbe 16 blobs velozmente"</string>
+    <string name="Absorb_24_blobs_quickly">"Absorbe 24 blobs velozmente"</string>
+    <string name="Absorb_32_blobs_quickly">"Absorbe 32 blobs velozmente"</string>
+    <string name="Absorb_40_blobs_quickly">"Absorbe 40 blobs velozmente"</string>
 
     <string name="Absorb_8_player_blobs_without_restarting">"Absorbe 8 jugadores sin reiniciar"</string>
     <string name="Absorb_16_player_blobs_without_restarting">"Absorbe 16 jugadores sin reiniciar"</string>
@@ -210,19 +210,19 @@
     <string name="Absorb_160_player_blobs_without_restarting">"Absorbe 160 jugadores sin reiniciar"</string>
     <string name="Absorb_240_player_blobs_without_restarting">"Absorbe 240 jugadores sin reiniciar"</string>
 
-    <string name="Reach_a_score_of_1_000">"Alcanza una puntuación de 1.000"</string>
-    <string name="Reach_a_score_of_5_000">"Alcanza una puntuación de 5.000"</string>
-    <string name="Reach_a_score_of_10_000">"Alcanza una puntuación de 10.000"</string>
-    <string name="Reach_a_score_of_15_000">"Alcanza una puntuación de 15.000"</string>
-    <string name="Reach_a_score_of_20_000">"Alcanza una puntuación de 20.000"</string>
+    <string name="Reach_a_score_of_1_000">"Llega a una puntuación de 1.000"</string>
+    <string name="Reach_a_score_of_5_000">"Llega a una puntuación de 5.000"</string>
+    <string name="Reach_a_score_of_10_000">"Llega a una puntuación de 10.000"</string>
+    <string name="Reach_a_score_of_15_000">"Llega a una puntuación de 15.000"</string>
+    <string name="Reach_a_score_of_20_000">"Llega a una puntuación de 20.000"</string>
 
-    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Alcanza una puntuación de 10.000 sin perder ningún blob"</string>
+    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Llega a una puntuación de 10.000 sin perder ningún blob"</string>
     <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Alcanza una puntuación de 5.000 sin dividirte o expulsar masa"</string>
-    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Juega 5 minutos seguidos sin chocar con un agujero negro"</string>
+    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Juega 5 minutos seguidos sin estrellarte con un agujero negro"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"Juega 5 minutos seguidos sin perder ningún blob"</string>
-    <string name="Play_20_minutes_straight_without_restarting">"Juega 20 minutos seguidos sin reiniciar"</string>
+    <string name="Play_20_minutes_straight_without_restarting">"Juega 20 minutos seguidos sin resetear"</string>
     <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"Absorbe 5 agujeros negros supermasivos en los primeros 30 segundos de la partida"</string>
-    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Alcanza una puntuación de 5.000 al minuto de comenzar la partida"</string>
+    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Llega a una puntuación de 5.000 al minuto de comenzar la partida"</string>
     <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Dispara un agujero negro al último jugador que te disparó un agujero negro sin reiniciar"</string>
     <string name="Absorb_5_doges_without_restarting">"Absorbe 5 doges sin reiniciar"</string>
 
@@ -241,14 +241,14 @@
     <string name="Longest_Life_">"Vida más larga:"</string>
     <string name="Games_Won_">"Partidas ganadas:"</string>
 
-    <string name="You_must_wait_until_the_end_of_the_round_">"Debes esperar hasta el final de la ronda"</string>
+    <string name="You_must_wait_until_the_end_of_the_round_">"Debes esperar hasta que la ronda termine"</string>
     <string name="Dont_show_again">"No mostrar de nuevo"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Se encontró un respaldo de modo Un Jugador con más experiencia. ¿Deseas restaurarlo?"</string>
 
     <string name="Special_Effects">"Efectos especiales"</string>
     <string name="Blob_Mushiness">"Blandura del blob"</string>
 
-    <string name="Specify_private_game_name">"Especificar nombre de la partida privada"</string>
+    <string name="Specify_private_game_name">"Aclara nombre de la partida privada"</string>
     <string name="In_Game_Chat">"Chat en la partida"</string>
     <string name="My_Status_">"Mi estado:"</string>
     <string name="Game_Size_">"Tamaño del mapa:"</string>
@@ -262,11 +262,11 @@
     <string name="Clan">"Clan"</string>
 
 
-    <string name="JOIN_CLAN">"UNIRSE AL CLAN"</string>
-    <string name="JOIN_RANDOM_CLAN">"UNIRSE A UN CLAN ALEATORIO"</string>
-    <string name="LEAVE_CLAN">"ABANDONAR EL CLAN"</string>
+    <string name="JOIN_CLAN">"ENTRAR AL CLAN"</string>
+    <string name="JOIN_RANDOM_CLAN">"ENTRAR A UN CLAN ALEATORIO"</string>
+    <string name="LEAVE_CLAN">"DEJAR EL CLAN"</string>
     <string name="INVITE_MEMBER">"INVITAR MIEMBRO"</string>
-    <string name="REMOVE_MEMBER">"EXPULSAR MIEMBRO"</string>
+    <string name="REMOVE_MEMBER">"PATEAR MIEMBRO"</string>
 
 
     <string name="CREATE_CLAN">"CREAR CLAN"</string>
@@ -287,7 +287,7 @@
     <string name="Show_Levels">"Mostrar niveles"</string>
     <string name="SET_MOTD">"ESTABLECER DESCRIPCIÓN"</string>
     <string name="No_such_user_found_">"No se encontró dicho usuario "</string>
-    <string name="No_open_public_clans_exist_">"No existen clanes públicos abiertos "</string>
+    <string name="No_open_public_clans_exist_">"No existen clanes públicos disponibles "</string>
     <string name="You_aren_t_invited_to_that_clan_">"No has sido invitado a ese clan "</string>
     <string name="No_such_clan_exists_">"El clan no existe "</string>
     <string name="That_clan_is_full_">"El clan está lleno "</string>
@@ -324,8 +324,8 @@
     <string name="My_Account_ID">"Mi ID"</string>
 
 
-    <string name="COMPLETE">"COMPLETA"</string>
-    <string name="INCOMPLETE">"INCOMPLETA"</string>
+    <string name="COMPLETE">"COMPLETA!"</string>
+    <string name="INCOMPLETE">"INCOMPLETA!"</string>
     <string name="Win_a_FFA_Time_Game">"Gana una partida de TCT Tiempo"</string>
     <string name="Win_a_CTF_Game">"Gana una partida CLB"</string>
     <string name="Win_a_Soccer_Game">"Gana un partido de Fútbol"</string>
@@ -334,7 +334,7 @@
     <string name="Reach_a_score_of_">"Alcanza una puntuación de "</string>
     <string name="_in_a_FFA_Game">" en una partida de TCT"</string>
     <string name="_in_a_Teams_Game">" en un partida de Equipos"</string>
-    <string name="_dots">" puntos"</string>
+    <string name="_dots">" puntaje"</string>
     <string name="_player_blobs">" blobs del jugador"</string>
     <string name="Absorb_">"Absorber "</string>
     <string name="Collect_">"Recoger "</string>
@@ -359,9 +359,9 @@
 
     <string name="Wins">"Ganadas"</string>
 
-    <string name="Score">"Puntuación"</string>
+    <string name="Score">"Puntaje"</string>
     <string name="Rating">"Calificación"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"¡Estás a punto de dejar el liderazgo!"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"¡Estás a punto de abandonar el liderazgo!"</string>
     <string name="XP">"EXP"</string>
     <string name="High_Score">"Mejores Puntuaciones"</string>
 
@@ -369,12 +369,12 @@
     <string name="_3v3">" 3vs3"</string>
     <string name="_5v5">" 5vs5"</string>
     <string name="_8v8">" 8vs8"</string>
-    <string name="Top_Ranks">"Ranking mundial"</string>
+    <string name="Top_Ranks">"Ranking Universal"</string>
     <string name="My_Ranks">"Mi posición"</string>
     <string name="Player_XP">"EXP Jugadores"</string>
 
     <string name="W_D_L">"G-E-P"</string>
-    <string name="MATCH_START">"COMIENZA PARTIDA"</string>
+    <string name="MATCH_START">"INICIAR PARTIDA"</string>
     <string name="Clan_Warrior">"Guerrero del Clan"</string>
     <string name="Win_a_Clan_War">"Gana una Guerra de Clanes"</string>
     <string name="Global">"Global"</string>
@@ -383,8 +383,8 @@
 
     <string name="snowflakes_">"copos de nieve "</string>
     <string name="presents_">"regalos "</string>
-    <string name="Snowflake_Collector">"Coleccionista de Copos de Nieve"</string>
-    <string name="Present_Collector">"Coleccionista de Regalos"</string>
+    <string name="Snowflake_Collector">"Coleccionista de muchos Copos de Nieve"</string>
+    <string name="Present_Collector">"Coleccionista de muchos Regalos"</string>
 
 
     <string name="Season">"Temporada"</string>
@@ -392,7 +392,7 @@
 
     <string name="Current">"Actual"</string>
     <string name="leaves_">"hojas "</string>
-    <string name="Leaf_Collector">"Coleccionista de Hojas"</string>
+    <string name="Leaf_Collector">"Coleccionista de muchas Hojas"</string>
     <string name="Collect_1000_leaves_">"Recoge 1.000 hojas "</string>
     <string name="XP_Boost">"Acelerador de EXP"</string>
     <string name="Double">"Doble"</string>
@@ -409,17 +409,17 @@
     <string name="Enter_the_Arena">"Entrar a la Arena"</string>
 
 
-    <string name="Purchase_History">"Historial de compras"</string>
+    <string name="Purchase_History">"Historial de tus compras"</string>
 
     <string name="Purchases_Unavailable_">"¡Compras no disponibles!"</string>
     <string name="You_can_purchase_this_skin_for">"Puedes comprar esta skin por"</string>
     <string name="PURCHASE">"COMPRAR"</string>
-    <string name="Error_in_backup_data_">"¡Error en la copia de seguridad!"</string>
+    <string name="Error_in_backup_data_">"¡Error en guardar la copia de seguridad!"</string>
 
 
-    <string name="Remove_Ads">"Quitar anuncios"</string>
+    <string name="Remove_Ads">"Eliminar anuncios"</string>
     <string name="Reward">"Recompensa"</string>
-    <string name="Please_Wait___">"Por favor, espera…"</string>
+    <string name="Please_Wait___">"Por favor, espere…"</string>
     <string name="Purchasing">"Comprando"</string>
 
     <string name="Purchase_Successful_">"¡Compra realizada con éxito!"</string>
@@ -430,12 +430,12 @@
     <string name="x2_XP_24_Hour">"2x EXP 24 horas"</string>
     <string name="x2_XP_1_Hour">"2x EXP 1 hora"</string>
     <string name="Cost_">"Precio:"</string>
-    <string name="You_cannot_purchase_this_right_now_">"No puedes comprar esto en este momento "</string>
+    <string name="You_cannot_purchase_this_right_now_">"No puedes comprar este articulo en este momento "</string>
 
 
     <string name="Loading_Purchases___">"Cargando compras…"</string>
     <string name="In_App_Purchases">"Compras en la aplicación"</string>
-    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"No se puede aplicar otro acelerador de EXP hasta que el acelerador actual termine "</string>
+    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"No se puede agregar otro acelerador de EXP hasta que el acelerador actual se acabe "</string>
     <string name="This_purchase_has_already_been_redeemed_">"Esta compra ya ha sido canjeada "</string>
 
     <string name="You_cannot_remove_yourself__Leave_clan_instead_">"No te puedes expulsar a ti mismo. En su lugar, abandona el clan "</string>
@@ -483,7 +483,7 @@
 
 
     <string name="Already_in_arena_">"Ya en la arena "</string>
-    <string name="Already_in_queue_">"Ya en la cola "</string>
+    <string name="Already_in_queue_">"Ya en la fila "</string>
     <string name="Invalid_Account_ID_">"ID de cuenta inválida "</string>
 
     <string name="Validating">"Validando"</string>
@@ -534,7 +534,7 @@
     <string name="Score_33_points_in_a_single_DOM_game_">"Consigue 33 puntos en una sola partida de Dominación"</string>
     <string name="Win_a_Domination_Game">"Gana una partida de Dominación"</string>
     <string name="Select_Team">"Seleccionar Equipo"</string>
-    <string name="MANAGE_TEAMS">"GESTIONAR EQUIPOS"</string>
+    <string name="MANAGE_TEAMS">"ADMINISTRAR EQUIPOS"</string>
     <string name="CLAN_INVITE">"INVITAR AL CLAN"</string>
     <string name="TEAM_INVITE">"INVITAR AL EQUIPO"</string>
     <string name="Team_Name">"Nombre del equipo"</string>
@@ -544,7 +544,7 @@
     <string name="Teams">"Equipos"</string>
     <string name="Team">"Equipo"</string>
     <string name="Specify_Account_ID">"Escribe la ID de tu Amigo"</string>
-    <string name="Team_Created_">"¡Equipo Creado!"</string>
+    <string name="Team_Created_">"¡Equipo Creado exitosamente!"</string>
     <string name="Team_Arena">"Arena por Equipos"</string>
     <string name="No_Teams">"No hay equipos"</string>
     <string name="team_arena_info">"Una vez crees un equipo, puedes invitar y eliminar miembros de forma gratuita. También podrás jugar partidas por equipos en la arena. ¡No se puede cambiar el nombre del equipo una vez creado!"</string>
@@ -560,13 +560,13 @@
     <string name="Leave_Team">"Abandonar equipo"</string>
 
     <string name="Remove_Player">"Eliminar jugador"</string>
-    <string name="Reject_Invitation">"Rechazar invitación"</string>
+    <string name="Reject_Invitation">"Cancelar invitación"</string>
     <string name="Leave_Game">"Salir del juego"</string>
-    <string name="Remove_Friend">"Eliminar amigo"</string>
-    <string name="Remove_Clan_Member">"Expulsar Miembro del Clan"</string>
+    <string name="Remove_Friend">"Quitar amigo"</string>
+    <string name="Remove_Clan_Member">"Patear Miembro del Clan"</string>
     <string name="Flag_lobby_as_inappropriate">"Marcar sala como inapropiada"</string>
     <string name="Promote_Clan_Member">"Ascender miembro"</string>
-    <string name="Leave_Clan">"Dejar el Clan"</string>
+    <string name="Leave_Clan">"Abandonar el Clan"</string>
     <string name="Candy_Hoarder">"Acaparador de Caramelos"</string>
     <string name="Candy_Collector">"Coleccionista de Caramelos"</string>
     <string name="Candy_Mogul">"Magnate de Caramelos"</string>
@@ -592,7 +592,7 @@
     <string name="Bead_Mogul">"Magnate de Perlas"</string>
     <string name="beads_">"perlas."</string>
 
-    <string name="Rejoin_Game">"Volver a unirse a la partida"</string>
+    <string name="Rejoin_Game">"Volver a entrar a la partida"</string>
     <string name="PRIZES">"PREMIOS"</string>
 
     <string name="Enable_Custom_Skin">"Activar Skin Personalizada"</string>
@@ -613,7 +613,7 @@
 
     <string name="MAYHEM">"MAYHEM"</string>
     <string name="eggs_">"huevos "</string>
-    <string name="Egg_Collector">"Coleccionista de Huevos"</string>
+    <string name="Egg_Collector">"Coleccionista de muchos Huevos"</string>
     <string name="Egg_Hoarder">"Acaparador de Huevos"</string>
     <string name="Egg_Mogul">"Magnate de Huevos"</string>
     <string name="Collect_1_000_eggs_">"Recoge 1.000 huevos "</string>
@@ -623,7 +623,7 @@
     <string name="CLAN_HISTORY">"HISTORIAL DEL CLAN"</string>
 
 
-    <string name="Love_Nebulous_">"Ama Nebulous "</string>
+    <string name="Love_Nebulous_">"Adora Nebulous "</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoya a Nebulous dándole una calificación "</string>
     <string name="MAYHEM_MODE">"MAYHEM"</string>
     <string name="Times_Teleported_">"Veces teletransportado:"</string>
@@ -657,9 +657,9 @@
     <string name="Enable_Challenges">"Activar retos"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"Espera a que el reto actual termine "</string>
     <string name="CHALLENGE_OPTIONS">"OPCIONES DE RETO"</string>
-    <string name="Accept">"Aceptar"</string>
-    <string name="Decline">"Rechazar"</string>
-    <string name="Challenge_Declined">"Reto rechazado"</string>
+    <string name="Accept">"Confirmar"</string>
+    <string name="Decline">"cancelar"</string>
+    <string name="Challenge_Declined">"Reto cancelado"</string>
     <string name="Spectators_">"Espectadores:"</string>
     <string name="Nebula_Collector">"Coleccionista de Nebulosas"</string>
     <string name="Nebula_Hoarder">"Acaparador de Nebulosas"</string>
@@ -777,7 +777,7 @@
     <string name="From">"De"</string>
     <string name="Sent">"Enviado"</string>
     <string name="REPLY">"RESPONDER"</string>
-    <string name="Delete_Message">"Borrar mensaje"</string>
+    <string name="Delete_Message">"Eliminar mensaje"</string>
     <string name="BLOCK">"BLOQUEAR"</string>
     <string name="DELETE">"BORRAR"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Nota: Se puede desbloquear a alguien enviándole una solicitud de amistad "</string>
@@ -823,7 +823,7 @@
     <string name="Finals">Final</string>
     <string name="Unregister">Cancelar registro</string>
     <string name="Enter_My_Match">Entrar a mi partida</string>
-    <string name="Starts_In">Comienza En</string>
+    <string name="Starts_In">Inicia En</string>
     <string name="Seconds">Segundos</string>
     <string name="Tournaments_Temporarily_Disabled">Torneos temporalmente desactivados</string>
     <string name="CLAN_NAME_COLOR">COLOR NOMBRE DEL CLAN</string>
@@ -833,7 +833,7 @@
     <string name="PAINT">PINTAR</string>
     <string name="BLOCKED_ACCOUNTS">CUENTAS BLOQUEADAS</string>
     <string name="UNBLOCK">DESBLOQUEAR</string>
-    <string name="Emotes">EMOTICONOS</string>
+    <string name="Emotes">EMOJIS</string>
     <string name="Support">Soporte</string>
     <string name="Already_Blocked">Ya bloqueado</string>
     <string name="Cannot_block_more_than_x_accounts_">No se pueden bloquear más de %d cuentas </string>
@@ -855,7 +855,7 @@
     <string name="x3_XP_Permanent">"3x EXP Permanente"</string>
     <string name="x2_XP_Permanent">"2x EXP Permanente"</string>
     <string name="Permanent">"Permanente"</string>
-    <string name="Apply_To_Account">Aplicar a la cuenta</string>
+    <string name="Apply_To_Account">Aplicar a tu cuenta</string>
     <string name="Spin_">¡Girar!</string>
     <string name="Next_Spin">Nuevo Giro</string>
     <string name="Wheel_Of_Nebulous_">¡Ruleta de Nebulous!</string>
@@ -869,13 +869,13 @@
     <string name="Win_a_Team_Deathmatch_Game">Gana un Duelo a muerte por equipos</string>
     <string name="TEAM_DEATHMATCH">DUELO A MUERTE POR EQUIPOS</string>
     <string name="Speed_Click_Toggle">Alternar velocidad de click</string>
-    <string name="MOD">MOD</string>
+    <string name="MOD">MODERADOR</string>
     <string name="FAQ">Preguntas frecuentes</string>
-    <string name="BUY_EXTRA_SPINS">COMPRAR GIROS ADICIONALES</string>
+    <string name="BUY_EXTRA_SPINS">COMPRAR GIROS EXTRAS</string>
     <string name="Spins_Remaining">Giros restantes</string>
     <string name="One_Spin">Un Giro (1)</string>
     <string name="Bundle_of_Spins">Paquete de Giros (10)</string>
-    <string name="Plethora_of_Spins">Plétora de Giros (50)</string>
+    <string name="Plethora_of_Spins">Abunancia de Giros (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">DESCONECTAR TODOS LOS DISPOSITIVOS</string>
     <string name="Tournament_Forming">Formando Torneo</string>
     <string name="TeamTourneyDescription">Tú y tu compañero deben registrarse para jugar en el torneo por equipos. Se descontará el plasma una vez haya comenzado el torneo, pero pueden cancelar el registro antes de que comience. Se requieren al menos %d participantes para empezar.</string>
@@ -886,7 +886,7 @@
     <string name="UI_Opacity_">Opacidad de la interfaz</string>
     <string name="LOAD">CARGAR</string>
     <string name="REMOVE">ELIMINAR</string>
-    <string name="BAN">BANEAR</string>
+    <string name="BAN">PATEAR</string>
     <string name="MODERATORS">MODERADORES</string>
     <string name="ALL_CLAN">TODOS LOS\nCLANES</string>
     <string name="CO_LEADER">COLÍDER</string>
@@ -898,10 +898,10 @@
     <string name="SAVE_PROFILE">GUARDAR PERFIL</string>
     <string name="Move">Mover</string>
     <string name="New_Position">Nueva Posición</string>
-    <string name="ALLIANCES">ALIANZAS</string>
-    <string name="ENEMIES">ENEMIGOS</string>
+    <string name="ALLIANCES">ALIANDOS</string>
+    <string name="ENEMIES">ENEMISTADES</string>
     <string name="NEW_ALLIANCE">NUEVA ALIANZA</string>
-    <string name="NEW_ENEMY">NUEVO ENEMIGO</string>
+    <string name="NEW_ENEMY">NUEVO ENEMISTAD</string>
     <string name="CLAN_RELATIONS">RELACIONES DEL CLAN</string>
     <string name="Clan_XP_Boost">ACELERADOR de EXP para CLAN</string>
     <string name="x3_Clan_XP_7_days">3x EXP Clan 7 días</string>
@@ -949,36 +949,36 @@
     <string name="_in_a_16x_Split_Game"> en un Juego de Separarse x16</string>
     <string name="Rules">Reglas</string>
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
-Reglas de Nebulous\n
+Reglamento de Nebulous\n
 \n
 1. Nunca pedir el Rango Líder en un Clan.\n
-2. Nunca pedir cuentas a nadie.\n
+2. Nunca pedir datos de cuentas a nadie.\n
 3. No insultar a los jugadores.\n
-4. No hacerse pasar por un Moderador.\n
-5. No hacerse pasar por un YouTuber.\n
-6. No intercambiar cuentas de Nebulous fuera ni dentro del juego.\n
+4. No fingir ser un Moderador.\n
+5. No fingir ser un YouTuber.\n
+6. No intercambiar cuentas de Nebulous, ni vender cuentas fuera ni dentro del juego.\n
 7. No hacer trampa para llegar a lo más alto de la Clasificación del juego en Guerras de Clanes / Arenas (Dar Puntos Gratis).\n
 8. No crear Partidas Personalizadas o Chats con nombres inapropiados.\n
-9. Obedecer a los Moderadores.\n
+9. Hacer caso a los Moderadores.\n
 10. No aprovecharse de Bugs en el juego.\n
 11. No banear muchos miembros de un Clan sin la autorización del Líder.\n
-12. Nunca mentir a un Moderador.\n
-13. No hacer "Equipo" con un oponente en modos de juego de Equipos.\n
+12. Nunca decirle mentiras a un Moderador.\n
+13. No hacer "Equipo" con oponentes del equipo contrario en cualquier modo de juego en equipo.\n
 14. No cambiar Clanes de Nebulous por dinero real o plasma.\n
         \n
 Si no cumples con alguna de estas reglas, tu cuenta podría ser suspendida.\n
 (El tiempo del castigo puede ser de unas pocas horas a un ban permanente, dependiendo de la situación y gravedad del problema).\n
         \n
-Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciarlo a un Moderador.
+Si ves a un jugador que esté rompiendo las reglas del juego, favor de reportarlo a un Moderador.
     </string>
     <string name="Blob_Chat_Bubbles">Burbuja de chat</string>
     <string name="CHRISTMAS_ADVENT_SKINS">ADVIENTO NAVIDEÑO</string>
     <string name="You_cannot_open_this_present_yet_">¡No puedes abrir este regalo todavía!</string>
     <string name="Open_Present">Abrir Regalo</string>
     <string name="OPEN">ABRIR</string>
-    <string name="Halo">Halo</string>
+    <string name="Halo">Anillo</string>
     <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Para usar este halo debes tener un nivel mínimo %1$s y desbloquear los logros %2$s."</string>
-    <string name="Halos">Halos</string>
+    <string name="Halos">Anillos</string>
     <string name="CAMPAIGN">CAMPAÑA</string>
     <string name="Mission">Misión</string>
     <string name="Kill_All_Bots">MATA TODOS LOS BOTS</string>
@@ -989,7 +989,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="Objective">Objetivo</string>
     <string name="GAME">JUEGO</string>
     <string name="Saved_">¡Guardado!</string>
-    <string name="Name_Opacity_">Opacidad del Nombre:</string>
+    <string name="Name_Opacity_">Transparencia del Nombre:</string>
     <string name="SET_PROFILE_PIC">ESTABLECER FOTO DE PERFIL</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">¡ACEPTAR TODAS LAS SOLICITUDES DE AMIGOS!</string>
     <string name="App_Perf_Stats">Estadísticas Rendimiento App</string>
@@ -1007,7 +1007,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="MARK_UNREAD">MARCAR NO LEÍDO</string>
     <string name="ROYALE_DUO">DUO ROYALE</string>
     <string name="Choose_Partner">Elegir Compañero</string>
-    <string name="REMOVE_FRIEND">ELIMINAR AMIGO</string>
+    <string name="REMOVE_FRIEND">QUITAR AMIGO</string>
     <string name="Creator">Creador</string>
     <string name="PROFILE_COLOR">COLOR DE PERFIL</string>
     <string name="Enable_Colors">Activar Colores</string>
@@ -1072,18 +1072,18 @@ Si tu skin personalizada es reembolsada, no la vuelvas a comprar porque será re
 
 Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compras una skin con lo siguiente, será reembolsada o rechazada:
 - Contenido y/o alguna referencia Sexual
-- Skins que están en el juego (sin modificar)
+- Skins originales del juego (sin modificar)
 - Contenido Gore/Suicidio
 - Desnudos (sin camisa)
 - Skins muy oscuras
-- Skins transparentes
+- Skins transparentes vacias
 - Drogas (Alcohol/Cigarros/Hoja de Marihuana)
 - Nombre de páginas para adultos (pornografía)
 - Personas con poca ropa (Escotes en el cuerpo)
 - Fotos de cuerpo completo
 - Racismo/Nazismo/Violencia
 - Personas usando un arma
-- Señales obscenas con las manos (dedo de enmedio)"
+- Señales obscenas con las manos (dedo medio)"
     </string>
     <string name="PLAY_ONLINE_">¡JUEGA EN LÍNEA!</string>
 
@@ -1149,7 +1149,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="SET_PRIVACY">ESTABLECER PRIVACIDAD</string>
     <string name="ANIMATION">ANIMACIÓN</string>
     <string name="Color_Cycle">Ciclo del Color</string>
-    <string name="Fast">Rápido</string>
+    <string name="FaViol</string>
     <string name="Slow">Lento</string>
     <string name="Rainbow">Arcoíris</string>
     <string name="Horizontal">Horizontal</string>
@@ -1183,7 +1183,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="TRY_IT_">PROBAR SKIN </string>
     <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Puedes probar esta skin para un juego. Después de que mueras o la cambies, desaparecerá. Cuando estás probando una skin, nadie más puede verla.\nPrecio: %s plasma.</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Necesitas comprar un pack para usar esto </string>
-    <string name="GET_PACK">CONSEGUIR PACK</string>
+    <string name="GET_PACK">ADQUIRIR PACK</string>
     <string name="Position_in_queue">Posición en fila</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">COLOR FONDO DE PERFIL</string>
     <string name="DARK_MATTER">MATERIA OSCURA</string>
@@ -1236,9 +1236,9 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="WATCH_VIDEO_">¡MIRAR VIDEO!</string>
     <string name="PERMANENT_BOOSTS">ACELERADOR PERMANENTE</string>
     <string name="Video_failed_to_load_">¡El video no se pudo cargar!</string>
-    <string name="Video_Ready_">¡Video Listo!</string>
-    <string name="GIVE_PLASMA">REGALAR PLASMA</string>
-    <string name="Specify_amount_">Especifica la cantidad:</string>
+    <string name="Video_Ready_">¡Video Disponible!</string>
+    <string name="GIVE_PLASMA">DAR PLASMA</string>
+    <string name="Specify_amount_">Aclara la cantidad:</string>
     <string name="Specify_amount_again_to_confirm_">Especifica la cantidad de nuevo para confirmar:</string>
     <string name="Amounts_did_not_match_">¡Las cantidades no coinciden!</string>
     <string name="RECEIVE_PLASMA">RECIBIR PLASMA</string>
@@ -1253,7 +1253,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Name_Scale_">"Tamaño de Nombre:"</string>
     <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">Tu dispositivo tiene una mala conexión con el servidor. Esto podría causar lag. Por favor, verifica tu servicio de wifi o datos o prueba una conexión a internet diferente. También asegúrate de jugar en el servidor más cercano a ti.</string>
     <string name="Button_3D">Botón 3D</string>
-    <string name="Hide_Button_">¿Ocultar botón?</string>
+    <string name="Hide_Button_">¿Esconder botón?</string>
     <string name="Show_Boost_Button">Mostrar botón de acelerador</string>
     <string name="Spectate_Killer_On_Death">Observar quien te comió</string>
     <string name="Rainbow_Holes">Agujero Arcoíris</string>
@@ -1268,7 +1268,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Search_Filter">Filtro de búsqueda</string>
     <string name="Received_">Recibido:</string>
     <string name="Opponent_Rating_Limit_">Límite de calificación del oponente:</string>
-    <string name="TOGGLE_FAVORITE">ALTERNAR FAVORITO</string>
+    <string name="TOGGLE_FAVORITE">GUARDAR FAVORITO</string>
     <string name="Favorited">Favorito</string>
     <string name="Unfavorited">No favorito</string>
     <string name="Background_Scale_">Escala del Fondo:</string>
@@ -1284,7 +1284,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="HERO">HÉROE</string>
     <string name="CHAMPION">CAMPEÓN</string>
     <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">¡No puedes ganar EXP o plasma en modo sandbox!</string>
-    <string name="DASH">LÁNZATE</string>
+    <string name="DASH">PROPULSATE</string>
     <string name="setting_changed">Ajustes actualizados. Es posible que deba volver a conectarse al servidor para que surta efecto.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Realiza 10,000 trucos en MODO TRICKS.</string>
     <string name="Tricky">Tricky</string>
