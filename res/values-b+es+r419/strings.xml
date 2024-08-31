@@ -1255,7 +1255,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="Button_3D">Botón 3D</string>
     <string name="Hide_Button_">¿Ocultar botón?</string>
     <string name="Show_Boost_Button">Mostrar botón de acelerador</string>
-    <string name="Spectate_Killer_On_Death">Obserbar quien te comió</string>
+    <string name="Spectate_Killer_On_Death">Observa quien te comió</string>
     <string name="Rainbow_Holes">Agujero Arcoíris</string>
     <string name="LIFE_STEAL">ROBAR VIDA</string>
     <string name="Kicked_From_Game_">¡Expulsado de un Juego!</string>
