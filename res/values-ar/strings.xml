@@ -867,9 +867,9 @@
     <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">" يفوز لعبة فريق الموت من دون الفوز في لعبة فريق الموت."</string>
     <string name="Win_a_Team_Deathmatch_Game">"الفوز في لعبة فريق الموت"</string>
     <string name="TEAM_DEATHMATCH">"فِرق الموت"</string>
-    <string name="Speed_Click_Toggle">"تبديل سرعة الضغط"</string>
+    <string name="Speed_Click_Toggle">"سرعة النقر فوق التبديل"</string>
     <string name="MOD">"مُدير"</string>
-    <string name="FAQ">الأسئلة الأكثر طرحاً</string>
+    <string name="FAQ">التعليمات </string>
     <string name="BUY_EXTRA_SPINS">شراء حزمات تدوير إضافية</string>
     <string name="Spins_Remaining">التدويرات المتبقية</string>
     <string name="One_Spin">تدوير واحد (1)</string>
@@ -897,7 +897,7 @@
     <string name="Delete_ALL_Messages_">حذف كل الرسائل!</string>
     <string name="SAVE_PROFILE">حفظ الحالة الشخصية</string>
     <string name="Move">"نقل"</string>
-    <string name="New_Position">"مركز جديد"</string>
+    <string name="New_Position">"موقف جديد"</string>
     <string name="ALLIANCES">"الحلفاء"</string>
     <string name="ENEMIES">"الأعداء"</string>
     <string name="NEW_ALLIANCE">"تحالف جديد"</string>
@@ -929,7 +929,7 @@
     <string name="SPECTATE">مشاهدة</string>
     <string name="INVITE">دعوة</string>
     <string name="error_1">القائد ومساعديه هم الوحيدون الذي يُسمح لهم بأرسال رساله للعشيرة !.</string>
-    <string name="Hat">القبعة</string>
+    <string name="Hat">قبعة</string>
     <string name="Hats">القبعات</string>
     <string name="Pet_Uploads">تحميلات الحيوانات</string>
     <string name="BLOB">الدائرة</string>
@@ -1260,7 +1260,7 @@
     <string name="setting_changed">تحديث الضبط، قد تحتاج إلى إعادة الأتصال بالخادم حتى يتم تفعيله.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">قم بفِعل 10،000 ترك في طور الحركات.</string>
     <string name="Tricky">مخادع</string>
-    <string name="SUPPORTER">مميز</string>
+    <string name="SUPPORTER">داعم</string>
     <string name="CONQUEROR">المنتصر</string>
     <string name="TRICKY">مخادع</string>
     <string name="x4_XP_Permanent">4x نقاط خبرة دائِم.</string>
@@ -1277,14 +1277,14 @@
     <string name="CLAN_DESCRIPTION_COLOR">لونِ وصف العشيرة</string>
     <string name="Responsible_Pet_Owner">مسؤول الحيوانات الأليفة</string>
     <string name="Animal_Tamer">مُروِّض الحيوان</string>
-    <string name="Crocodile_Hunter">صياد التمساح</string>
+    <string name="Crocodile_Hunter">صياد التماسيح</string>
     <string name="Get_A_Pet_To_Level_X_">أجعل الحيوان مستوى %d.</string>
     <string name="plasma_boost_info">"تحصُل على مُعزِز البلازما من جميع أطوَّار اللعب بينما يكون التعزيزُ نشطاً، وهذا يشمُل أرباح الحلبة والبطولات! "لايعمل على مشتريّات البلازما أو عجلة الحظ او المُكافآت الخاصة"</string>
     <string name="Plasma_Boost_7_Days_">مُسرِّع البلازما لمُدَّة 7 أيَّام!!!</string>
     <string name="Plasma_Boost_1_Day_">مُسرِّع البلازما لمُدَّة يوم!</string>
     <string name="Plasma_Boost_2_Hours_">مُسرِّع البلازما لمُدَّة ساعتين.</string>
     <string name="Plasma_Boost">مُسرِّع البلازما</string>
-    <string name="particle_info">يجِب أن تكون في المستوى الـ 50 على الأقل وتستخدم سكن اساسي به جزئيَّات. من أجل رؤية أي جزئيات أخرى.</string>
+    <string name="particle_info">يجِب أن تكون في المستوى الـ 50 على الأقل وتستخدم سكن اساسي به جزئيَّات. من أجل رؤية أي جزئيًات أخرى.</string>
     <string name="Plain_Score_Text">"نص النقاط"</string>
     <string name="Custom_Skin_Reviewed_Notification">لقد قمنا بمُراجعة سكنك!</string>
     <string name="You_Have_Mail_">لديك رسالة من %s!</string>
@@ -1334,7 +1334,7 @@ Commands:
     <string name="delete_prompt">هل أنت متأكد انك تريد حذف حسابك؟ هذا دائم ولا يمكن التراجع عن ذلك! اكتب للحذف!: DELETE ID</string>
 
 
-    <string name="Type">أكتب</string>
+    <string name="Type">يكتب</string>
     <string name="Complete_campaign_mission_">أكمل مهمات الحملة</string>
     <string name="Specify_Reason_">حدد السبب:</string>
     <string name="FREE_FOR_ALL">حر للجميع</string>
