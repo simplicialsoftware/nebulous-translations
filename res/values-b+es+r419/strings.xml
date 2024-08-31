@@ -1350,14 +1350,14 @@ Comandos:
 !reset - Reiniciar el juego
 !welcome {mensaje de bienvenida}
 !difficulty [0-3] o [1-4] para Campaña
-!hidden - Colocar sala oculta
-!slowchat - Colocar chat lento
+!hidden - Cambiar a sala oculta
+!slowchat - Cambiar a chat lento
 !pausechat - Pausar chat por un tiempo
 !mute {id} - Silenciar a un jugador
 !admin {id} - Agregar un administrador de sala
 !allow {id} - Conceder permiso a un jugador
 !allow reset - Reiniciar permisos
-!team [1-4] {id} - (Solo en modos con equipos)
+!team [1-4] {id} - Solo en modos con equipos
 !winner - Ganador de una partida con tiempo
 !stats - Estadísticas de sesión
 !info - Informaciones de la sala
