@@ -903,10 +903,10 @@
     <string name="NEW_ALLIANCE">"تحالف جديد"</string>
     <string name="NEW_ENEMY">"عدو جديد"</string>
     <string name="CLAN_RELATIONS">"العلاقات بين العشائر"</string>
-    <string name="Clan_XP_Boost">"مسرع نقاط خبرة العشيرة "</string>
-    <string name="x3_Clan_XP_7_days">"مسرع نقاط خبرة العشيرة X3 لـ7أيام"</string>
-    <string name="x3_Clan_XP_1_Day">"مسرع نقاط خبرة العشيرة X3 ليوم واحد"</string>
-    <string name="x2_Clan_XP_1_Day">"مسرع نقاط خبرة العشيرة X2 ليوم واحد"</string>
+    <string name="Clan_XP_Boost">"مُسرِّع نقاط خبرة العشيرة "</string>
+    <string name="x3_Clan_XP_7_days">"مُسرِّع نقاط خبرة العشيرة X3 لـ7أيام"</string>
+    <string name="x3_Clan_XP_1_Day">"مُسرِّع نقاط خبرة العشيرة X3 ليوم واحد"</string>
+    <string name="x2_Clan_XP_1_Day">"مُسرِّع نقاط خبرة العشيرة X2 ليوم واحد"</string>
     <string name="Pets">"الحيوانات الأليفة"</string>
     <string name="Pet">"حيوان أليف"</string>
     <string name="You_can_purchase_this_pet_for">" يمكن شراء هذا الحيوان الأليف بـ"</string>
@@ -1007,7 +1007,7 @@
     <string name="MARK_UNREAD">وضع علامة غير مقروء</string>
     <string name="ROYALE_DUO">رويال ثنائي</string>
     <string name="Choose_Partner">إختر شريك</string>
-    <string name="REMOVE_FRIEND">حذف صديق</string>
+    <string name="REMOVE_FRIEND">حذف صَديق</string>
     <string name="Creator">المنشِئ</string>
     <string name="PROFILE_COLOR">لون الحالة</string>
     <string name="Enable_Colors">تفعيل الألوان</string>
@@ -1019,11 +1019,11 @@
     <string name="Select_some_text_first">حدد بعض النص أولاً</string>
     <string name="Save_the_profile_first">احفظ ملف التعريف أولاً</string>
     <string name="Birthday">يوم الميلاد</string>
-    <string name="Mass_Boost">تعزيز الكتلة !</string>
+    <string name="Mass_Boost">تعزيز الكُتلة !</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">لا يَعمل تعزيز الكُتلة في التحديّات أو البُطولات أو حُروب العشّائر!</string>
     <string name="ArenaDescriptionPure">لا ضغط التلقائي أو مسرع الضغط. تحصل على حياة واحدة فقط. سوف يتلقى الفائز %s بلازما.</string>
     <string name="_1v1_Pure">١ضد١ نقي</string>
-    <string name="Allow_Ultraclick"> تشغيل مسرع الضغط</string>
+    <string name="Allow_Ultraclick"> تشغيل مُسرِّع الضغط</string>
     <string name="Allow_Mass_Boost"> تفعيل مُعزز الكُتلة</string>
     <string name="Challenges_Won_">التحديات التي تم الفوز بها:</string>
     <string name="trophy_info">يتم منح الجوائز في نهاية كل ملعب أو موسم حلبة الفريق للفوز بالمركز الأول والثاني والثالث. يتم منح الجوائز فقط في المناطق النشطة مع الكثير من اللاعبين.</string>
@@ -1096,7 +1096,7 @@
     <string name="community_skin_requirement">يجب عليك شراء الجلد المخصص لكي تستطيع شراء واستعمال جلود المجتمع.</string>
     <string name="You_can_purchase_this_community_skin_for_">تستطيع شراء جلد المجتمع هذا بمقابل</string>
     <string name="community_skin_information_for_buyer" translatable="true">يتم تحميل سكنات المجتمع من قبل لاعبين آخرين. تعمل هذه السكنات المجتمعية تمامًا مثل السكنات المخصصة، ويمكن تحريكها باستخدام السكنات العادية.</string>
-    <string name="VIEW_UPLOADER">اظهار صاحب الجلد</string>
+    <string name="VIEW_UPLOADER">اظهار صاحب الجِلد</string>
     <string name="POPULAR">الشائع</string>
     <string name="NEW">جديد</string>
     <string name="Manage_Configurations">إدارة التكوينات</string>
@@ -1177,9 +1177,9 @@
     <string name="DARK_MATTER">مادة مُظلِمه</string>
     <string name="Textures_will_be_regenerated_">سيتم تجديد القوام الأسود والأشكال المخصصة</string>
     <string name="Enable_Profile_Colors">تفعيل الوان الخلفية</string>
-    <string name="Session_Stats">احصائيات الجلسة</string>
+    <string name="Session_Stats">إحصائيّات الجلسة</string>
     <string name="Time_">:الزمن</string>
-    <string name="Show_Session_Stats">إظهار احصائيات الموسم</string>
+    <string name="Show_Session_Stats">إظهار إحصائيّات الموسم</string>
     <string name="VALENTINES_DAY">"يوم الحب"</string>
     <string name="Giveaways_">!هدايا</string>
     <string name="Max_XP_Chain_">:سلسلة الخبرة القصوى</string>
@@ -1208,7 +1208,7 @@
     <string name="This_cannot_be_undone_">هذه لا يمكن التراجع عنها.!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">شاهد فيديو للحصول على مكافآة  %d مؤقتة!</string>
     <string name="WATCH_VIDEO_">شاهد فيديو!</string>
-    <string name="PERMANENT_BOOSTS">مسرع دائم</string>
+    <string name="PERMANENT_BOOSTS">مُسرِّع دائِم</string>
     <string name="Video_failed_to_load_">فشل تحميل الفيديو!</string>
     <string name="Video_Ready_">الفيديو جاهز!</string>
     <string name="GIVE_PLASMA">"مَنح بلازما"</string>
@@ -1340,13 +1340,13 @@ Commands:
     <string name="FREE_FOR_ALL">حر للجميع</string>
     <string name="SPECIAL">مميز</string>
     <string name="FREE">مجانا</string>
-    <string name="x5_Clan_XP_1_Day">مسرع العشيرةX5  لمدة يوم واحد </string>
-    <string name="x5_Clan_XP_7_days">مسرع العشيرةX5  لمدة سبع ايام</string>
-    <string name="x5_Clan_XP_Perm">5X مسرع العشيرة دائم</string>
+    <string name="x5_Clan_XP_1_Day">مُسرِّع العشيرةX5  لمُدَّة يوم واحد </string>
+    <string name="x5_Clan_XP_7_days">مُسرِّع العشيرةX5  لمُدَّة سبع أيَّام</string>
+    <string name="x5_Clan_XP_Perm">5X مُسرِّع العشيرة دائِم</string>
     <string name="Quin">5X</string>
-    <string name="x5_XP_1_Hour">  مسرع X5 لمدة ساعة</string>
-    <string name="x5_XP_24_hours">مسرع X5 لمدة 24ساعة</string>
-    <string name="x5_XP_Permanent">مسرع دائم X5</string>
+    <string name="x5_XP_1_Hour">  مُسرِّع X5 لمُدَّة ساعة</string>
+    <string name="x5_XP_24_hours">مُسرِّع X5 لمُدَّة 24ساعة</string>
+    <string name="x5_XP_Permanent">مُسرِّع دائِم X5</string>
     <string name="CAMPAIGN_2">حملة ضد الاَليين 2</string>
     <string name="India">الهند</string>
     <string name="Tutorial">الدورة التعليمية</string>
