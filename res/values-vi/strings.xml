@@ -699,7 +699,7 @@
     <string name="join_clan_war">"Vào Hội Chiến"</string>
     <string name="none">"không"</string>
     <string name="INVALID_TOKEN">"Mã không hợp lệ!"</string>
-    <string name="banned_until">"Cấm cho đến khi"</string>
+    <string name="banned_until">"Cấm cho đến khi: "</string>
     <string name="Note_Collector">"Nhà thu thập giai điệu"</string>
     <string name="Note_Hoarder">"Người soạn giai điệu"</string>
     <string name="Note_Mogul">"Lưu ý Mogul"</string>
