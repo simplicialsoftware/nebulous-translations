@@ -24,7 +24,7 @@
     <string name="Loading___">"Wird geladen…"</string>
     <string name="Connecting___">"Verbinden…"</string>
 
-    <string name="Are_You_Sure_">"Bist du dir sicher?"</string>
+    <string name="Are_You_Sure_">"Sind Sie sich sicher?"</string>
     <string name="Yes">"Ja"</string>
     <string name="No">"Nein"</string>
     <string name="WAIT">"Bitte warten…"</string>
@@ -99,8 +99,8 @@
     <string name="XP_">"Erfahrungspunkte:"</string>
 
     <string name="Information">"Informationen"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Um diesen Skin zu verwenden, musst du erst den entsprechenden Erfolg freischalten"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Um diesen Skin zu verwenden, musst du erst das entsprechende Level erreichen"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Um diesen Skin zu verwenden, müssen Sie erst den entsprechenden Erfolg freischalten"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Um diesen Skin zu verwenden, müssen Sie erst das entsprechende Level erreichen"</string>
 
     <string name="Single_Player_Stats">"Einzelspieler Statistiken"</string>
 
@@ -116,7 +116,7 @@
     <string name="Private">"Privat"</string>
     <string name="Public">"Öffentlich"</string>
     <string name="Bot">"Bot"</string>
-    <string name="You">"Du"</string>
+    <string name="You">"Sie"</string>
     <string name="This_player_is_a_bot">"Dieser Spieler ist ein Bot."</string>
     <string name="This_player_is_not_signed_in">"Dieser Spieler ist nicht angemeldet."</string>
 
@@ -242,9 +242,9 @@
     <string name="Longest_Life_">"Längste Zeit am Leben:"</string>
     <string name="Games_Won_">"Spiele gewonnen:"</string>
 
-    <string name="You_must_wait_until_the_end_of_the_round_">"Du musst bis zum Ende der Runde warten"</string>
+    <string name="You_must_wait_until_the_end_of_the_round_">"Sie müssen bis zum Ende der Runde warten"</string>
     <string name="Dont_show_again">"Nicht mehr anzeigen"</string>
-    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Eine Einzelspielerstatistik mit mehr XP wurde gefunden. Möchtest du die Statistik wiederherstellen?"</string>
+    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Eine Einzelspielerstatistik mit mehr XP wurde gefunden. Möchten Sie die Statistik wiederherstellen?"</string>
 
     <string name="Special_Effects">"Spezialeffekte"</string>
     <string name="Blob_Mushiness">"Blob Elastizität"</string>
@@ -277,7 +277,7 @@
     <string name="ELDER">"Ältester"</string>
 
 
-    <string name="Not_in_a_clan_">"Du bist in keinem Clan."</string>
+    <string name="Not_in_a_clan_">"Sie sind in keinem Clan."</string>
 
 
     <string name="CLAN">"Clan"</string>
@@ -293,7 +293,7 @@
     <string name="No_such_clan_exists_">"DIeser Clan existiert nicht."</string>
     <string name="That_clan_is_full_">"Der Clan ist voll."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Anderer Benutzer ist kein Mitglied in deinem Clan"</string>
-    <string name="_You_can_t_be_your_own_friend_">"Du kannst nicht dein eigener Freund sein."</string>
+    <string name="_You_can_t_be_your_own_friend_">"Sie können nicht Ihr eigener Freund sein."</string>
     <string name="A_clan_with_that_name_already_exists_">"Clanname bereits vergeben."</string>
     <string name="Duration_">"Dauer:"</string>
 
@@ -344,7 +344,7 @@
 
 
     <string name="pumpkins_">"Kürbisse."</string>
-    <string name="To_use_this_skin_you_must_collect">"Um diese nutzen zu können, musst du etwas sammeln"</string>
+    <string name="To_use_this_skin_you_must_collect">"Um diese nutzen zu können, müssen Sie etwas sammeln"</string>
     <string name="Australia">"Australien"</string>
     <string name="Pumpkin_Collector">"Kürbis-Sammler"</string>
     <string name="Collect_1000_pumpkins_">"Sammle 1.000 Kürbisse."</string>
@@ -362,7 +362,7 @@
 
     <string name="Score">"Punkte"</string>
     <string name="Rating">"Bewertung"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"Du bist dabei, einen neuen Anführer zu ernennen!"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"Sie sind dabei, einen neuen Anführer zu ernennen!"</string>
     <string name="XP">"Erfahrung"</string>
     <string name="High_Score">"Highscore"</string>
 
@@ -413,7 +413,7 @@
     <string name="Purchase_History">"Letzte Einkäufe"</string>
 
     <string name="Purchases_Unavailable_">"Käufe sind nicht verfügbar!"</string>
-    <string name="You_can_purchase_this_skin_for">"Du kannst diesen Skin kaufen für"</string>
+    <string name="You_can_purchase_this_skin_for">"Sie können diesen Skin kaufen für"</string>
     <string name="PURCHASE">"kaufen"</string>
     <string name="Error_in_backup_data_">"Fehler in den Backup-Daten!"</string>
 
@@ -431,7 +431,7 @@
     <string name="x2_XP_24_Hour">"24 Stunden XP boost 2x"</string>
     <string name="x2_XP_1_Hour">"eine Stunde XP boost 2x"</string>
     <string name="Cost_">"Preis:"</string>
-    <string name="You_cannot_purchase_this_right_now_">"Du kannst das im Moment nicht kaufen!"</string>
+    <string name="You_cannot_purchase_this_right_now_">"Sie können das im Moment nicht kaufen!"</string>
 
 
     <string name="Loading_Purchases___">"Lade Einkäufe …"</string>
@@ -439,7 +439,7 @@
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Neuer XP Boost kann erst gekauft werden, wenn der aktuelle abgelaufen ist."</string>
     <string name="This_purchase_has_already_been_redeemed_">"Dieser Einkauf wurde bereits vervollständigt"</string>
 
-    <string name="You_cannot_remove_yourself__Leave_clan_instead_">Du kannst dich nicht selbst entfernen. Verlasse stattdessen den Clan.</string>
+    <string name="You_cannot_remove_yourself__Leave_clan_instead_">Sie können sich nicht selbst entfernen. Verlasse stattdessen den Clan.</string>
 
 
     <string name="until">"bis"</string>
@@ -472,7 +472,7 @@
     <string name="ENTER">"EINTRETEN"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Training"</string>
-    <string name="ArenaDescription">"Du erhälst nur ein Leben. Der Gewinner erhält %s Plasma."</string>
+    <string name="ArenaDescription">"Sie erhalten nur ein Leben. Der Gewinner erhält %s Plasma."</string>
     <string name="Contestant">"Kandidat"</string>
     <string name="Duelist">"Duelist"</string>
     <string name="Gladiator">"Gladiator"</string>
@@ -548,7 +548,7 @@
     <string name="Team_Created_">"Team erstellt!"</string>
     <string name="Team_Arena">"Team Arena"</string>
     <string name="No_Teams">"Keine Teams"</string>
-    <string name="team_arena_info">"Sobald du ein Team erstellt hast, kannst du Mitglieder kostenlos einladen und entfernen. Es ist auch kostenlos, Team Arena Spiele zu spielen. Du kannst Teamnamen nicht mehr ändern, nachdem es erstellt wurde!"</string>
+    <string name="team_arena_info">"Sobald Sie ein Team erstellt haben, können Sie Mitglieder kostenlos einladen und entfernen. Es ist auch kostenlos, Team Arena Spiele zu spielen. Sie können Teamnamen nicht mehr ändern, nachdem es erstellt wurde!"</string>
 
 
     <string name="Invited">"Eingeladen"</string>
@@ -577,14 +577,14 @@
     <string name="candies_">"Süßigkeiten."</string>
     <string name="Language">"Sprache"</string>
     <string name="Control_Opacity_">"Steuerdeckkraft:"</string>
-    <string name="You_dont_own_the_team_">"Du bist nicht Besitzer des Teams."</string>
+    <string name="You_dont_own_the_team_">"Sie sind nicht Besitzer des Teams."</string>
     <string name="User_has_already_been_invited_">"Spieler wurde bereits eingeladen."</string>
     <string name="Maximum_players_allowed_on_the_team_">"Maximale Spielerzahl im Team erlaubt:"</string>
     <string name="Name_is_already_in_use_">"Dieser Name wird bereits verwendet."</string>
     <string name="User_is_not_in_the_team_">"Spieler ist nicht im Team."</string>
-    <string name="You_are_not_invited_to_team_">"Du bist nicht in das Team eingeladen."</string>
+    <string name="You_are_not_invited_to_team_">"Sie sind nicht in das Team eingeladen."</string>
     <string name="Team_does_not_exist_">"Team existiert nicht:"</string>
-    <string name="Please_wait_a_minute_before_sending_another_report_">"Bitte warte eine Minute, bevor du eine weitere Meldung sendest."</string>
+    <string name="Please_wait_a_minute_before_sending_another_report_">"Bitte warte eine Minute, bevor Sie eine weitere Meldung senden."</string>
     <string name="Collect_1_000_beads_">"Sammle 1.000 Perlen."</string>
     <string name="Collect_5_000_beads_">"Sammle 5.000 Perlen."</string>
     <string name="Collect_10_000_beads_">"Sammle 10.000 Perlen."</string>
@@ -598,18 +598,18 @@
 
     <string name="Enable_Custom_Skin">"Customn Skin aktivieren"</string>
     <string name="Use_Custom_Skin">"Custom Skins aktivieren"</string>
-    <string name="custom_skin_description">"Mit dieser Funktion kannst du dein Profilbild oder ein anderes Bild als deinen Skin auswählen. Allerdings wirst NUR DU den individuellen Skin sehen. Andere Spieler werden deinen Skin nicht sehen bis du dafür bezahlst ihn hochzuladen."</string><!--manual correction-->
+    <string name="custom_skin_description">"Mit dieser Funktion können Sie Ihr Profilbild oder ein anderes Bild als deinen Skin auswählen. Allerdings werden NUR Sie den individuellen Skin sehen. Andere Spieler werden deinen Skin nicht sehen bis du dafür bezahlst ihn hochzuladen."</string><!--manual correction-->
     <string name="CUSTOM_SKIN">"Custom Skin"</string>
 
     <string name="Facebook_Profile">"Facebook-Profil"</string>
-    <string name="You_must_be_signed_in_to_Facebook_">"Du musst bei Facebook angemeldet sein."</string>
+    <string name="You_must_be_signed_in_to_Facebook_">"Sie müssen bei Facebook angemeldet sein."</string>
     <string name="copy_details">"Details kopieren"</string>
     <string name="copied_error_details_to_clipboard">"Fehlerdetails in die Zwischenablage kopiert"</string>
 
     <string name="No_file_browser_installed_">"Keinen Datei-Browser installiert!"</string>
     <string name="Choose_File">"Bild auswählen"</string>
     <string name="Google_Profile">"Google-Profil"</string>
-    <string name="You_must_be_signed_in_to_Google_">"Du musst in Google angemeldet sein."</string>
+    <string name="You_must_be_signed_in_to_Google_">"Sie müssen in Google angemeldet sein."</string>
 
 
     <string name="MAYHEM">"MAYHEM"</string>
@@ -624,7 +624,7 @@
     <string name="CLAN_HISTORY">"Verlauf"</string>
 
 
-    <string name="Love_Nebulous_">"Du liebst Nebulous?"</string>
+    <string name="Love_Nebulous_">"Sie lieben Nebulous?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Bitte unterstütze Nebulous durch eine Bewertung."</string>
     <string name="MAYHEM_MODE">"MAYHEM MODUS"</string>
     <string name="Times_Teleported_">"Mal teleportiert:"</string>
@@ -637,7 +637,7 @@
     <string name="Teleport_100_Times">"Teleportiere 100 mal"</string>
     <string name="Shoot_20_Powerups_Without_Restarting">"Schieße 20 Powerups ohne Neuzustarten"</string>
     <string name="Request_Timed_Out">"Zeitüberschreitung der Anforderung"</string>
-    <string name="You_Are_Spectating_">"Du bist Zuschauer."</string>
+    <string name="You_Are_Spectating_">"Sie sind Zuschauer."</string>
     <string name="Account_In_Use_">"Das Konto wird schon genutzt!"</string>
     <string name="Cannot_Join_Arena_">"Kann die Arena nicht betreten."</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"Abmeldung wird dich aus dem aktuellen Spiel trennen!"</string>
@@ -727,9 +727,9 @@
     <string name="Refunded">"Erstattet."</string>
 
 
-    <string name="contribution_warning">"Bist du sicher, diesen Plasmabetrag zu spenden? Die Beiträge werden nicht erstattet."</string>
+    <string name="contribution_warning">"Sind Sie sicher, diesen Plasmabetrag zu spenden? Die Beiträge werden nicht erstattet."</string>
     <string name="Upload">"Hochladen"</string>
-    <string name="upload_warning">Möchtest du diesen Skin wirklich hochladen? Andere Spieler werden in der Lage sein, diesen Skin zu sehen. Es kann bis zu einer Woche dauern, bis dein Skin überprüft wurde. Unangemesse Skins werden abgelehnt und nicht zurückerstattet!"</string>
+    <string name="upload_warning">Möchten Sie diesen Skin wirklich hochladen? Andere Spieler werden in der Lage sein, diesen Skin zu sehen. Es kann bis zu einer Woche dauern, bis dein Skin überprüft wurde. Unangemesse Skins werden abgelehnt und nicht zurückerstattet!"</string>
 
     <string name="In_Review">"Wird überprüft"</string>
     <string name="Account_Uploads">"Konto Skins"</string>
@@ -754,10 +754,10 @@
     <string name="Win_10000_Arenas">"Gewinne 10.000 Arenas."</string>
     <string name="UPLOAD_PREVIEW">"Vorschau"</string>
     <string name="Transparency">"Transparenz"</string>
-    <string name="upload_info">"Du kannst eine bessere Qualität ohne Transparenz oder mit einfachen Bildern erzielen."</string>
+    <string name="upload_info">"Sie können eine bessere Qualität ohne Transparenz oder mit einfachen Bildern erzielen."</string>
     <string name="Compression_Quality_">"Komprimierungsqualität:"</string>
     <string name="inapproriate_info">"Unangemessene Skins enthalten, Hass, Blut, Obszönitäten, Gewalt, Drogen, Sex, Nacktheit, Ganzkörper-Selfies, Düsterthemen, Unverständlichkeit und unmodifizierte Nebulous Skins."</string>
-    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Möchtest du wirklich diesen Skin hochladen?"</string>
+    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Möchten Sie wirklich diesen Skin hochladen?"</string>
     <string name="Grant_Permission">"Berechtigung erteilen"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous benötigt die Speicherberechtigung zur Sicherung deines Einzelspieler-Fortschritts!"</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous benötigt die Standortberechtigung um Bluetooth-Geräte in der Nähe zu finden."</string>
@@ -781,7 +781,7 @@
     <string name="Delete_Message">"Diese Nachricht wird für immer verloren sein! (Eine sehr lange Zeit)"</string>
     <string name="BLOCK">"Blockieren"</string>
     <string name="DELETE">"Löschen"</string>
-    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Hinweis: Du kannst jemanden Entblocken, indem du eine Freundschaftsanfrage schickst."</string>
+    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Hinweis: Sie können jemanden Entblocken, indem Sie eine Freundschaftsanfrage schicken."</string>
     <string name="Select_Friend">"Wähle einen Freund"</string>
     <string name="Failed_to_send_mail_">"Mailversand fehlgeschlagen."</string>
     <string name="In_Game_Mail">Mails im Spiel</string>
@@ -790,7 +790,7 @@
     <string name="Clan_Hero">Clan-Held</string>
     <string name="Win_1000_Clan_Wars">Gewinne 1.000 Clankriege</string>
     <string name="NAME_COLOR">Namenfarbe</string>
-    <string name="name_color_instructions">Suche die Buchstaben aus, die du verändern willst, dann die Farbe.</string>
+    <string name="name_color_instructions">Suche die Buchstaben aus, die Sie verändern wollen, dann die Farbe.</string>
     <string name="Cannot_change_this_character_">Dieser Buchstaben kann nicht verändert werden</string>
     <string name="ZOMBIE_APOCALYPSE">ZOMBIE-APOKALYPSE</string>
     <string name="Survive_a_Zombie_Apocalypse">Überlebe eine Zombie-Apokalypse</string>
@@ -808,7 +808,7 @@
     <string name="Tournament_Competing">Turnierkonkurrenten</string>
     <string name="Tournament_Registered">Turnier-Registriert</string>
     <string name="Tournament">Turnier</string>
-    <string name="TourneyDescription">Du musst dich registrieren, um im Turnier zu spielen. Dir wird Plasma abgezogen, wenn das Turnier startet, aber du kannst wieder aussteigen, bevor es beginnt. Das Turnier startet, wenn mindestens %d Teilnehmer vorhanden sind.</string>
+    <string name="TourneyDescription">Sie müssen sich registrieren, um im Turnier zu spielen. Ihnen wird Plasma abgezogen, wenn das Turnier startet, aber Sie können wieder aussteigen, bevor es beginnt. Das Turnier startet, wenn mindestens %d Teilnehmer vorhanden sind.</string>
     <string name="Register">Registrieren</string>
 
     <string name="Registered">Teilnehmer</string>
@@ -829,7 +829,7 @@
     <string name="Tournaments_Temporarily_Disabled">Turniere temporär abgeschaltet</string>
     <string name="CLAN_NAME_COLOR">Clan Namen-Farbe</string>
     <string name="Tuber">YouTuber</string>
-    <string name="youtube_prompt">Möchtest du diesen Nebulous YouTube-Kanal besuchen? Die Kanäle gehören nicht den Entwicklern von Nebulous.</string>
+    <string name="youtube_prompt">Möchten Sie diesen Nebulous YouTube-Kanal besuchen? Die Kanäle gehören nicht den Entwicklern von Nebulous.</string>
     <string name="Tournament_Matches_Won_">Turnierspiele gewonnen:</string>
     <string name="PAINT">MALEN</string>
     <string name="BLOCKED_ACCOUNTS">Blockierte Konten</string>
@@ -837,8 +837,8 @@
     <string name="Emotes">Emotionen</string>
     <string name="Support">Support</string>
     <string name="Already_Blocked">Schon blockiert</string>
-    <string name="Cannot_block_more_than_x_accounts_">Du kannst nicht mehr als %d Konten blockieren.</string>
-    <string name="This_is_you_">Das bist du.</string>
+    <string name="Cannot_block_more_than_x_accounts_">Sie können nicht mehr als %d Konten blockieren.</string>
+    <string name="This_is_you_">Das sind Sie.</string>
     <string name="Win_a_Paint_Game">Gewinne ein Malspiel.</string>
     <string name="Whiteout">Tipp-Ex</string>
     <string name="Speed_Painter">Schneller Zeichner</string>
@@ -879,11 +879,11 @@
     <string name="Plethora_of_Spins">"Eine Vielzahl von Drehs (50)"</string>
     <string name="SIGN_OUT_ALL_DEVICES">"Alle Geräte abmelden"</string>
     <string name="Tournament_Forming">"Turnier wird geformt"</string>
-    <string name="TeamTourneyDescription">"Du und dein Mitspieler müssen sich registrieren, um im Team-Turnier zu spielen. Dir wird Plasma abgezogen, wenn das Turnier startet, aber du kannst wieder aussteigen, bevor es beginnt. Das Turnier startet, wenn mindestens %d Teilnehmer vorhanden sind."</string>
+    <string name="TeamTourneyDescription">"Sie und Ihr Mitspieler müssen sich registrieren, um im Team-Turnier zu spielen. Dir wird Plasma abgezogen, wenn das Turnier startet, aber Sie können wieder aussteigen, bevor es beginnt. Das Turnier startet, wenn mindestens %d Teilnehmer vorhanden sind."</string>
     <string name="Free_Agent">"Random Spieler"</string>
     <string name="This_player_selected_a_different_teammate_">"Dieser Spieler hat sich einen anderen Mitspieler ausgewählt."</string>
     <string name="muted_until">"Gemutet bis"</string>
-    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">"Die Inhalts-Bewertung der App kann sich ändern, wenn du online spielst."</string>
+    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">"Die Inhalts-Bewertung der App kann sich ändern, wenn Sie online spielen."</string>
     <string name="UI_Opacity_">"UI Deckkraft"</string>
     <string name="LOAD">"Laden"</string>
     <string name="REMOVE">"Entfernen"</string>
@@ -910,7 +910,7 @@
     <string name="x2_Clan_XP_1_Day">"24 Stunden Clan XP 2x"</string>
     <string name="Pets">"Haustiere"</string>
     <string name="Pet">"Haustier"</string>
-    <string name="You_can_purchase_this_pet_for">"Dieses Haustier bekommst du für"</string>
+    <string name="You_can_purchase_this_pet_for">"Dieses Haustier bekommen Sie für"</string>
     <string name="gift_to_friend">"Für einen Freund"</string>
     <string name="gift_purchase_warning">"Nur der Freund wird das Plasma erhalten."</string>
     <string name="x2_Clan_XP_7_Days">"7 Tage Clan XP 2x"</string>
@@ -964,14 +964,14 @@ Nebulous Regeln\n
 10. Es ist nicht erlaubt sich einen Vorteil mit Bugs im Spiel zu verschaffen.\n
 11. Banne nicht zu viele Clan Mitglieder ohne die Berechtigung vom Anführer.\n
 \n
-Solltest du diese Regeln nicht einhalten ist es möglich das dein Konto gesperrt wird.\n
+Solltest Sie diese Regeln nicht einhalten ist es möglich das Ihr Konto gesperrt wird.\n
 (Die Zeit der Strafe kann von wenigen Stunden bis zu einem Permanenten Ban variieren. Es hängt von der Tat und der Schwere vom Problem ab)\n
 \n
 Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Moderator.
     </string>
     <string name="Blob_Chat_Bubbles">Blob Sprechblasen</string>
     <string name="CHRISTMAS_ADVENT_SKINS">WEIHNACHTEN ADVENT</string>
-    <string name="You_cannot_open_this_present_yet_">Du kannst dieses Geschenk noch nicht öffnen!</string>
+    <string name="You_cannot_open_this_present_yet_">Sie können dieses Geschenk noch nicht öffnen!</string>
     <string name="Open_Present">Geschenk öffnen</string>
     <string name="OPEN">OFFEN</string>
     <string name="Halo">Hülle</string>
@@ -989,7 +989,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Saved_">Gespeichert!</string>
     <string name="Name_Opacity_">Namen Deckkraft</string>
     <string name="SET_PROFILE_PIC">Profilbild auswählen</string>
-    <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">Möchtest du wirklich ALLE Freundschaftsanfragen akzeptieren?</string>
+    <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">Möchten Sie wirklich ALLE Freundschaftsanfragen akzeptieren?</string>
     <string name="App_Perf_Stats">Debug modus</string>
     <string name="COPY">Kopieren</string>
     <string name="_1v1_Ultra">1v1 Ultra</string>
@@ -1019,7 +1019,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Birthday">Geburtstag</string>
     <string name="Mass_Boost">Masse Boost</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Masse Boost funktioniert nicht in Arenen, Turniere, und Clankriege!</string>
-    <string name="ArenaDescriptionPure">KEIN Autoklick oder Ultraklick. Du bekommst nur ein Leben. Der Gewinner erhält %s Plasma. "Trading wins" oder "free wins" wird mit einem Ban bestraft.</string>
+    <string name="ArenaDescriptionPure">KEIN Autoklick oder Ultraklick. Sie bekommen nur ein Leben. Der Gewinner erhält %s Plasma. "Trading wins" oder "free wins" wird mit einem Ban bestraft.</string>
     <string name="_1v1_Pure">1v1 Pure</string>
     <string name="Allow_Ultraclick">Ultraklick zulassen</string>
     <string name="Allow_Mass_Boost">Masse Boost zulassen</string>
@@ -1030,9 +1030,9 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Particle">Partikel</string>
     <string name="Privacy">Privatsphäre</string>
     <string name="EULA">EULA</string>
-    <string name="You_can_purchase_this_hat_for">Du kannst diesen Hut kaufen für</string>
-    <string name="You_can_purchase_this_particle_for">Du kannst diese Partikel kaufen für</string>
-    <string name="You_can_purchase_this_eject_skin_for">Du kannst dieses Ausspuck-skin kaufen für</string>
+    <string name="You_can_purchase_this_hat_for">Sie können diesen Hut kaufen für</string>
+    <string name="You_can_purchase_this_particle_for">Sie können diese Partikel kaufen für</string>
+    <string name="You_can_purchase_this_eject_skin_for">Sie können dieses Ausspuck-skin kaufen für</string>
     <string name="Skin">Skin</string>
     <string name="Custom_Skin">Custom Skin</string>
     <string name="Color">Farbe</string>
@@ -1060,8 +1060,8 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Community">Gemeinschaft</string>
     <string name="Buy">Kaufen</string>
     <string name="Sell">Verkaufen</string>
-    <string name="community_skin_information_for_seller" translatable="false" tools:ignore="Untranslatable">Wenn du deinen Custom Skin zu einem Gemeinschaft-Skin machst, wird er auf dem Gemeinschaft-Skin-Tab aufgeführt. Andere Spieler können deinen Gemeinschaft-Skin sehen und kaufen! Jedes Mal, wenn ein Spieler deinen Gemeinschaft-Skin kauft, erhältst du eine kleine Menge an Plasma. Community-Skins können keine Fotos von echten Menschen sein!</string>
-    <string name="community_skin_requirement">Du musst zuerst Custom Skins aktivieren, um Gemeinschaft-Skins verwenden zu können.</string>
+    <string name="community_skin_information_for_seller" translatable="false" tools:ignore="Untranslatable">Wenn Sie Ihren Custom Skin zu einem Gemeinschaft-Skin machen, wird er auf dem Gemeinschaft-Skin-Tab aufgeführt. Andere Spieler können deinen Gemeinschaft-Skin sehen und kaufen! Jedes Mal, wenn ein Spieler deinen Gemeinschaft-Skin kauft, erhältst du eine kleine Menge an Plasma. Community-Skins können keine Fotos von echten Menschen sein!</string>
+    <string name="community_skin_requirement">Sie müssen zuerst Custom Skins aktivieren, um Gemeinschaft-Skins verwenden zu können.</string>
     <string name="You_can_purchase_this_community_skin_for_">Diesen Gemeinschafts-Skin kaufen</string>
     <string name="community_skin_information_for_buyer" translatable="false" tools:ignore="Untranslatable">Gemeinschaft-Skins werden von anderen Spielern hochgeladen. Gemeinschaft-Skins funktionieren wie Custom Skins und können mit regulären Skins animiert werden.</string>
     <string name="VIEW_UPLOADER">Uploader ansehen</string>
@@ -1098,7 +1098,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
 
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">Exklusive Skins, Haustiere, Hüte und noch mehr!</string>
     <string name="BUY_NOW_">JETZT KAUFEN!</string>
-    <string name="already_purchased">Du oder die Person, für die du das kaufst, besitzt es bereits.</string>
+    <string name="already_purchased">Sie oder die Person, für die Sie das kaufen, besitzt es bereits.</string>
     <string name="Halo_Animations">Hüllen Animationen</string>
     <string name="Trick_Notifications">Trick Benachrichtigungen</string>
     <string name="Channel">Kanal</string>
@@ -1138,7 +1138,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Invites">Einladungen</string>
     <string name="Show_Spectator_Count">Zuschauerzahl anzeigen</string>
     <string name="TRY_IT_">PROBIERE ES AUS!</string>
-    <string name="You_need_to_buy_a_pack_to_use_this_">Du musst ein Pack kaufen um das benutzen zu können.</string>
+    <string name="You_need_to_buy_a_pack_to_use_this_">Sie müssen ein Pack kaufen um das benutzen zu können.</string>
     <string name="GET_PACK">ERHALTE PACK</string>
     <string name="Position_in_queue">Position in der Warteschlange</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">PROFIL-MENÜ HINTERGRUNDFARBE</string>
@@ -1205,7 +1205,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Collected_">Gesammelt:</string>
     <string name="Collisions_">Kollisionen:</string>
     <string name="Absorbed_">Absorbiert:</string>
-    <string name="team_warning">Wenn du dich mit einem Spieler zusammenschliest, der nicht in deinem Team ist, wird dies mit einem Ban bestraft!</string>
+    <string name="team_warning">Wenn Sie sich mit einem Spieler zusammenschließen, der nicht in deinem Team ist, wird dies mit einem Ban bestraft!</string>
     <string name="Search_Filter">Suchfilter</string>
     <string name="Received_">Erhalten:</string>
     <string name="Opponent_Rating_Limit_">Gegnerbewertungslimit:</string>
@@ -1225,7 +1225,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="HERO">HELD</string>
     <string name="CHAMPION">CHAMPION</string>
     <string name="DASH">DASH</string>
-    <string name="setting_changed">Einstellungen aktualisiert. Möglicherweise musst du erneut eine Verbindung zum Server herstellen, um die Änderungen wirksam zu machen.</string>
+    <string name="setting_changed">Einstellungen aktualisiert. Möglicherweise müssen Sie erneut eine Verbindung zum Server herstellen, um die Änderungen wirksam zu machen.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Performiere 10.000 Tricks in einem Trick Modus Spiel.</string>
     <string name="Tricky">Tricky</string>
     <string name="SUPPORTER">VIP</string>
@@ -1237,7 +1237,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Quad">Quadruple</string>
     <string name="Middle_East">Mittlerer Osten</string>
     <string name="XP_4x">XP 4x</string>
-    <string name="You_cannot_play_for_x_minutes_">Du kannst für %d Minuten nicht mehr spielen.</string>
+    <string name="You_cannot_play_for_x_minutes_">Sie können für %d Minuten nicht mehr spielen.</string>
     <string name="x4_Clan_XP_Perm">Permanent Clan XP 4x</string>
     <string name="x4_Clan_XP_7_days">7 Tage Clan XP 4x</string>
     <string name="x4_Clan_XP_1_Day">24 Stunden Clan XP 4x</string>
@@ -1255,7 +1255,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="particle_info">Sie müssen mindestens Level 50 sein und einen Standartskin mit Partikel verwenden, um Partikel zu sehen.</string>
     <string name="Plain_Score_Text">"Plain Score Text"</string>
     <string name="Custom_Skin_Reviewed_Notification">Dein Custom Skin wurde überprüft!</string>
-    <string name="You_Have_Mail_">Du hast eine Mail von %s!</string>
+    <string name="You_Have_Mail_">Sie haben eine Mail von %s!</string>
     <string name="Clan_Request_Reviewed_Notification">Deine Anfrage um dem Clan %s beizutreten wurde überprüft!</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
     <string name="Sold_Community_Skins_">"Verkaufte Gemeinschaft Skins: "</string>
@@ -1299,7 +1299,7 @@ Commands:
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Fehlende Erlaubnis</string>
     <string name="DELETE_ACCOUNT">KONTO LÖSCHEN</string>
-    <string name="delete_prompt">Bist du dir sicher das du dein Konto löschen möchtest? Das ist für IMMER und kann NICHT rückgängig gemacht werden!</string>
+    <string name="delete_prompt">Sind Sie sich sicher, dass Sie Ihr Konto löschen möchten? Das ist für IMMER und kann NICHT rückgängig gemacht werden!</string>
 
 
     <string name="Type">Schreib</string>
