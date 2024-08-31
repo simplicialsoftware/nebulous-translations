@@ -1177,9 +1177,9 @@
     <string name="DARK_MATTER">مادة مُظلِمه</string>
     <string name="Textures_will_be_regenerated_">سيتم تجديد القوام الأسود والأشكال المخصصة</string>
     <string name="Enable_Profile_Colors">تفعيل الوان الخلفية</string>
-    <string name="Session_Stats">احصائيات الجلسة</string>
+    <string name="Session_Stats">إحصائيّات الجلسة</string>
     <string name="Time_">:الزمن</string>
-    <string name="Show_Session_Stats">إظهار احصائيات الموسم</string>
+    <string name="Show_Session_Stats">إظهار إحصائيّات الموسم</string>
     <string name="VALENTINES_DAY">"يوم الحب"</string>
     <string name="Giveaways_">!هدايا</string>
     <string name="Max_XP_Chain_">:سلسلة الخبرة القصوى</string>
@@ -1190,8 +1190,8 @@
     <string name="Secondary">ثانوي</string>
     <string name="Both">اثنين معاً</string>
 
-    <string name="Enable__Multiskin">"تفعيل \n متعددة الجلد"</string>
-    <string name="MULTISKIN">مُتعددة الجِلد</string>
+    <string name="Enable__Multiskin">"تفعيل \n متعددة الجلد "</string>
+    <string name="MULTISKIN">مُتعددة الجِلد </string>
     <string name="DISABLED">الغاء التفعيل</string>
 
     <string name="Refund__Multiskin">استعادة نقودك /nMultiskin</string>
@@ -1208,7 +1208,7 @@
     <string name="This_cannot_be_undone_">هذه لا يمكن التراجع عنها.!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">شاهد فيديو للحصول على مكافآة  %d مؤقتة!</string>
     <string name="WATCH_VIDEO_">شاهد فيديو!</string>
-    <string name="PERMANENT_BOOSTS">مسرع دائم</string>
+    <string name="PERMANENT_BOOSTS">مُسرِّع دائم</string>
     <string name="Video_failed_to_load_">فشل تحميل الفيديو!</string>
     <string name="Video_Ready_">الفيديو جاهز!</string>
     <string name="GIVE_PLASMA">"مَنح بلازما"</string>
@@ -1217,7 +1217,7 @@
     <string name="Amounts_did_not_match_">المبلغ غير مُتطابق!</string>
     <string name="RECEIVE_PLASMA">تلقي البلازما</string>
     <string name="MULTIBLOB">مُتعددة النُسَخ</string>
-    <string name="Play_Nebulous_For_1_Year_">ألعب نيبلوس لمُدَّة 1 سنة!</string>
+    <string name="Play_Nebulous_For_1_Year_">ألعب نيبلوس لمُدَّة 1 سَنة!</string>
     <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سنة!</string>
     <string name="Starting___">بدء…</string>
     <string name="Tournament_Starting">البُطولة بدأءت</string>
@@ -1340,13 +1340,13 @@ Commands:
     <string name="FREE_FOR_ALL">حر للجميع</string>
     <string name="SPECIAL">مميز</string>
     <string name="FREE">مجانا</string>
-    <string name="x5_Clan_XP_1_Day">مسرع العشيرةX5  لمدة يوم واحد </string>
-    <string name="x5_Clan_XP_7_days">مسرع العشيرةX5  لمدة سبع ايام</string>
-    <string name="x5_Clan_XP_Perm">5X مسرع العشيرة دائم</string>
+    <string name="x5_Clan_XP_1_Day">مُسرِّع العشيرةX5  لمُدَّة يوم واحد </string>
+    <string name="x5_Clan_XP_7_days">مُسرِّع العشيرةX5  لمُدَّة سبع ايام</string>
+    <string name="x5_Clan_XP_Perm">5X مُسرِّع العشيرة دائِم</string>
     <string name="Quin">5X</string>
-    <string name="x5_XP_1_Hour">  مسرع X5 لمدة ساعة</string>
-    <string name="x5_XP_24_hours">مسرع X5 لمدة 24ساعة</string>
-    <string name="x5_XP_Permanent">مسرع دائم X5</string>
+    <string name="x5_XP_1_Hour">  مُسرِّع X5 لمدة ساعة</string>
+    <string name="x5_XP_24_hours">مُسرِّع X5 لمدة 24ساعة</string>
+    <string name="x5_XP_Permanent">مُسرِّع دائِم X5</string>
     <string name="CAMPAIGN_2">حملة ضد الاَليين 2</string>
     <string name="India">الهند</string>
     <string name="Tutorial">الدورة التعليمية</string>
