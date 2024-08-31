@@ -1381,17 +1381,17 @@ Commands:
 
 
     <string-array name="control_modes">
-        <item>"طبيعي"</item>
-        <item>"خاص"</item>
-        <item>"سحب نحو"</item>
+        <item>"normal طبيعي"</item>
+        <item>"private خاص"</item>
+        <item>"Pull towards سحب نحو"</item>
         <item>"اسحب بعيد"</item>
         <item>"على حافة الهاوية"</item>
-        <item>"إمالة"</item>
+        <item>"tilt إمالة"</item>
     </string-array>
 
     <string-array name="button_modes">
-        <item>"اليسار"</item>
-        <item>"اليمين"</item>
+        <item>"left اليسار"</item>
+        <item>"right اليمين"</item>
         <item>"اليمين + اليسار"</item>
         <item>"كومة في اليسار"</item>
         <item>"كومة في اليمين"</item>
@@ -1407,18 +1407,18 @@ Commands:
     </string-array>
 
     <string-array name="difficulties">
-        <item>"سهل"</item>
-        <item>"متوسط"</item>
-        <item>"صعب"</item>
-        <item>"صعب جداً"</item>
+        <item>"easy سهل"</item>
+        <item>"middle متوسط"</item>
+        <item>"difficult صعب"</item>
+        <item>"Very difficult صعب جداً"</item>
     </string-array>
 
     <string-array name="sizes">
         <item>"صغير جدا"</item>
         <item>"صغير"</item>
-        <item>"عادي"</item>
-        <item>"كبير"</item>
-        <item>"ضخم"</item>
+        <item>"national عادي"</item>
+        <item>"big كبير"</item>
+        <item>"huge ضخم"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
