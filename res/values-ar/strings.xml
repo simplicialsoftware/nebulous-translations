@@ -1295,7 +1295,7 @@
     <string name="South_Africa">جَنوب أفريقيّا</string>
     <string name="SPLIT_">قسْمَةُ:</string>
     <string name="WALLS">جُدران</string>
-    <string name="COMP_BANNED">"حُظِر من الحَلبة</string>
+   <string name="COMP_BANNED">"حُظِر من الحَلبة</string>
     <string name="FIND_GAMES">البحث عن غرفة!</string>
     <string name="PLAY_SOLO">اللعِب الفردي</string>
     <string name="SET_EMOTE">ضع مُلصقاً</string>
@@ -1328,7 +1328,7 @@ Commands:
     <string name="Allow_Recombine">السماح بإعادة التجميع</string>
     <string name="Defenders">المُدافِعون</string>
     <string name="Attackers">المُهاجِمون</string>
-    <string name="MEGA_SPLIT">64x قسمة كبير</string>
+    <string name="MEGA_SPLIT">64× الانقسام علي</string>
     <string name="Missing_Permissions">أذونات مفقودة</string>
     <string name="DELETE_ACCOUNT">حذف الحساب</string>
     <string name="delete_prompt">هل أنت متأكد انك تريد حذف حسابك؟ هذا دائم ولا يمكن التراجع عن ذلك! اكتب للحذف!: DELETE ID</string>
@@ -1337,8 +1337,8 @@ Commands:
     <string name="Type">أكتب</string>
     <string name="Complete_campaign_mission_">أكمل مهمات الحملة</string>
     <string name="Specify_Reason_">حدد السبب:</string>
-    <string name="FREE_FOR_ALL">حر للجميع</string>
-    <string name="SPECIAL">مميز</string>
+    <string name="FREE_FOR_ALL">مجانا للجميع</string>
+    <string name="SPECIAL">خاص</string>
     <string name="FREE">مجانا</string>
     <string name="x5_Clan_XP_1_Day">مسرع العشيرةX5  لمدة يوم واحد </string>
     <string name="x5_Clan_XP_7_days">مسرع العشيرةX5  لمدة سبع ايام</string>
@@ -1349,17 +1349,17 @@ Commands:
     <string name="x5_XP_Permanent">مسرع دائم X5</string>
     <string name="CAMPAIGN_2">حملة ضد الاَليين 2</string>
     <string name="India">الهند</string>
-    <string name="Tutorial">الدورة التعليمية</string>
+    <string name="Tutorial">درس تعليمي</string>
     <string name="TYCOON">حاصِد</string>
     <string name="CLAN_BACKGROUND_COLOR">لون خلفية العشيرة</string>
-    <string name="activate">تفعيل</string>
+    <string name="activate">فعل</string>
     <string name="clan_id">رقم هوية العشيرة</string>
     <string name="language_change_warning">سيؤدي تغيير اللغة إلى إعادة تشغيل التطبيق.</string>
     <string name="xmas_gift_boost_message">لقد تلقيت هدية تعزيز البلازما 3 مرات ليوم واحد!</string>
     <string name="no_response">لا توجد استجابة من الخادم. يرجى التحقق من اتصال الإنترنت.</string>
     <string name="RAMADAN">رمضان</string>
     <string name="SUDDEN_ATTACK">هجوم مفاجئ</string>
-
+    
     <string name="sign_in_explanation" translatable="true">
 قم بتسجيل الدخول للوصول إلى اللعِب أونلاين."
 
@@ -1373,8 +1373,8 @@ Commands:
 "إذا كنت لا ترغب في تسجيل الدخول، يمكنك أيضًا اللعب الفردي.
     </string>
     <string name="_2x_skin_resolution">2X دقة الجلد</string>
-    <string name="pm">الخاص</string>
-    <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
+    <string name="pm">مساءً</string>
+    <string name="You_are_already_friends_">انتم اصدقاء بالفعل</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
     <string name="Translator">متـرجـم</string>
     <string name="SUCCESS">تم بنجاح</string>
