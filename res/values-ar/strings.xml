@@ -1349,7 +1349,7 @@ Commands:
     <string name="x5_XP_Permanent">مسرع دائم X5</string>
     <string name="CAMPAIGN_2">حملة ضد الاَليين 2</string>
     <string name="India">الهند</string>
-    <string name="Tutorial">الدورة التعليمية</string>
+    <string name="Educational course">الدورة التعليمية</string>
     <string name="TYCOON">حاصِد</string>
     <string name="CLAN_BACKGROUND_COLOR">لون خلفية العشيرة</string>
     <string name="activate">تفعيل</string>
@@ -1380,16 +1380,16 @@ Commands:
     <string name="SUCCESS">تم بنجاح</string>
 
 
-    <string-array name="control_modes">
-        <item>"طبيعي"</item>
-        <item>"خاص"</item>
+    <string-array name="control_modes">يتحكم 
+        <item>"natural">طبيعي</item>
+        <item>"private">خاص</item>
         <item>"سحب نحو"</item>
         <item>"اسحب بعيد"</item>
         <item>"على حافة الهاوية"</item>
         <item>"إمالة"</item>
     </string-array>
 
-    <string-array name="button_modes">
+    <string-array name="button_modes">زر 
         <item>"اليسار"</item>
         <item>"اليمين"</item>
         <item>"اليمين + اليسار"</item>
@@ -1398,7 +1398,7 @@ Commands:
         <item>"مخصص"</item>
     </string-array>
 
-    <string-array name="themes">
+    <string-array name="themes">المواضيع 
         <item>"نجوم (الظلام)"</item>
         <item>"خطوط(الظلام)"</item>
         <item>"خطوط(الأبيض)"</item>
@@ -1406,14 +1406,14 @@ Commands:
         <item>"لا شيء"</item>
     </string-array>
 
-    <string-array name="difficulties">
-        <item>"سهل"</item>
-        <item>"متوسط"</item>
-        <item>"صعب"</item>
-        <item>"صعب جداً"</item>
+    <string-array name="difficulties">صعوبات
+        <item>"easy">سهل</item>
+        <item>"middle">متوسط</item>
+        <item>"difficult">صعب</item>
+        <item>"Very difficult">صعب جداً"</item>
     </string-array>
 
-    <string-array name="sizes">
+    <string-array name="sizes">الأحجام 
         <item>"صغير جدا"</item>
         <item>"صغير"</item>
         <item>"عادي"</item>
