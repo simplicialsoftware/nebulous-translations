@@ -1,7 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"اللاعبين."</string>
     <string name="Control_">"التحكم"</string>
-    <string name="CLOSE">"إغلاق"</string>
+    <string name="CLOSE">"مغلق"</string>
     <string name="Stick_Size_">"حجم موجه الدائرة:"</string>
     <string name="Stick_Margin_">"إرتفاع موجه الدائرة:"</string>
     <string name="Button_Size_">"حجم الأزرار:"</string>
@@ -45,7 +45,7 @@
     <string name="PLAYING">"في طور اللعب"</string>
     <string name="MULTIPLAYER">"متعدد اللاعبين"</string>
 
-    <string name="JOIN">"إنضم"</string>
+    <string name="JOIN">"الانظمام"</string>
 
 
     <string name="Lobby_Name">"اسم السيرفر"</string>
@@ -74,11 +74,11 @@
     <string name="OK">"حسنا"</string>
     <string name="CANCEL">"إلغاء"</string>
     <string name="Chat_Name">"اسم الدردشة"</string>
-    <string name="Max_People">"الحد الأقصى للناس"</string>
+    <string name="Max_People">" الحد الاقصى للأشخاص "</string>
     <string name="START">"البداية"</string>
     <string name="CREATE">"إنشاء"</string>
     <string name="CUSTOM_GAMES">"ألعاب مخصصة"</string>
-    <string name="CHAT">"الدردشة"</string>
+    <string name="CHAT">"دردشة"</string>
     <string name="CUSTOM_SETUP">"إعدادات مخصصة"</string>
     <string name="CHAT_SETUP">"إعدادات الدردشة"</string>
 
