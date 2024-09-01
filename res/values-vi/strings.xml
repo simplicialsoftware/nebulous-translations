@@ -279,20 +279,20 @@
     <string name="Not_in_a_clan_">"Không trong băng đảng"</string>
 
 
-    <string name="CLAN">"BĂNG ĐẢNG"</string>
+    <string name="CLAN">"HỘI"</string>
 
 
-    <string name="Specify_Clan_ID">"ID Băng đảng"</string>
-    <string name="Show_Clan_Names">"Hiện tên băng đảng"</string>
+    <string name="Specify_Clan_ID">Chỉ rõ ID Hội"</string>
+    <string name="Show_Clan_Names">"Hiện tên hội"</string>
     <string name="Show_Levels">"Hiện cấp độ"</string>
     <string name="SET_MOTD">"Cài Đặt Thông Điệp"</string>
     <string name="No_such_user_found_">"Không tìm thấy người này."</string>
-    <string name="No_open_public_clans_exist_">"Băng đảng mở này không tồn tại."</string>
-    <string name="You_aren_t_invited_to_that_clan_">"Bạn không được mời vào băng đảng đó."</string>
-    <string name="No_such_clan_exists_">"Băng đảng không tồn tại."</string>
-    <string name="That_clan_is_full_">"Băng đảng đã đủ người"</string>
-    <string name="Other_user_is_not_a_member_of_your_clan_">"Người này không phải là thành viên trong băng đảng của bạn."</string>
-    <string name="_You_can_t_be_your_own_friend_">"Đây là bạn mà :D"</string>
+    <string name="No_open_public_clans_exist_">"Hội mở này không tồn tại."</string>
+    <string name="You_aren_t_invited_to_that_clan_">"Bạn không được mời vào hội đó."</string>
+    <string name="No_such_clan_exists_">"Hội không tồn tại."</string>
+    <string name="That_clan_is_full_">"Hội đã đủ người"</string>
+    <string name="Other_user_is_not_a_member_of_your_clan_">"Người này không phải là thành viên trong hội của bạn."</string>
+    <string name="_You_can_t_be_your_own_friend_">"Bạn không thế tự làm bạn của mình."</string>
     <string name="A_clan_with_that_name_already_exists_">"Tên băng đảng đó đã tồn tại."</string>
     <string name="Duration_">"Giới hạn:"</string>
 
@@ -373,7 +373,7 @@
     <string name="My_Ranks">"Hạng của tôi"</string>
     <string name="Player_XP">"EXP người chơi"</string>
 
-    <string name="W_D_L">"WDL"</string>
+    <string name="W_D_L">"W-D-L"</string>
     <string name="MATCH_START">"Trận đấu bắt đầu"</string>
     <string name="Clan_Warrior">"Tân Binh"</string>
     <string name="Win_a_Clan_War">"Thắng 1 trận đấu hội chiến"</string>
@@ -458,15 +458,15 @@
 
     <string name="Daily_Reward">"Phần thưởng hàng ngày"</string>
     <string name="Reset">"Thiết lập lại"</string>
-    <string name="Plasma">"Huyết Tương"</string>
-    <string name="Plasma_Mogul">"Kẻ ham nhặt Huyết Tương"</string>
-    <string name="Plasma_Collector">"Nhà sưu tầm Huyết Tương"</string>
-    <string name="Plasma_Hoarder">"Người tích lũy Huyết Tương"</string>
-    <string name="Collect_1_000_Plasma">"Thu thập 1.000 Huyết Tương."</string>
-    <string name="Collect_10_000_Plasma_">"Thu thập 10.000 Huyết Tương."</string>
-    <string name="Collect_100_000_Plasma">"Thu thập 100.000 Huyết Tương."</string>
-    <string name="Plasma_Collected_">"Thu thập Huyết Tương:"</string>
-    <string name="Plasma_Purchases">"mua Huyết Tương"</string>
+    <string name="Plasma">"Plasma"</string>
+    <string name="Plasma_Mogul">"Kẻ ham nhặt Plasma"</string>
+    <string name="Plasma_Collector">"Nhà sưu tầm Plasma"</string>
+    <string name="Plasma_Hoarder">"Người tích lũy Plasma"</string>
+    <string name="Collect_1_000_Plasma">"Thu thập 1.000 Plasma."</string>
+    <string name="Collect_10_000_Plasma_">"Thu thập 10.000 Plasma."</string>
+    <string name="Collect_100_000_Plasma">"Thu thập 100.000 Plasma."</string>
+    <string name="Plasma_Collected_">"Thu thập Plasma:"</string>
+    <string name="Plasma_Purchases">"Mua Plasma"</string>
 
     <string name="ENTER">"Đăng Ký"</string>
     <string name="_1v1">"1v1"</string>
@@ -500,7 +500,7 @@
     <string name="Flag">"Cờ"</string>
     <string name="Win_10_Clan_Wars">"Thắng 10 trận đấu hội chiến"</string>
     <string name="Win_100_Clan_Wars">"Thắng 100 trận đấu hội chiến"</string>
-    <string name="Clan_Commander">"Người lãnh đạo băng đảng"</string>
+    <string name="Clan_Commander">"Người lãnh đạo Hội"</string>
     <string name="Clan_General">"Tướng Quân"</string>
     <string name="Clan_Wars_Won_">"Thắng hội chiến:"</string>
     <string name="Arenas_Won_">"Thắng Đấu Trường:"</string>
@@ -902,17 +902,17 @@
     <string name="ENEMIES">KẺ THÙ</string>
     <string name="NEW_ALLIANCE">ĐỒNG MINH MỚI</string>
     <string name="NEW_ENEMY">KẺ THÙ MỚI</string>
-    <string name="CLAN_RELATIONS">CÁC MỐI QUAN HỆ </string>
-    <string name="Clan_XP_Boost">TĂNG XP CHO BĂNG ĐẢNG</string>
-    <string name="x3_Clan_XP_7_days">3x XP Băng Đảng 7 Ngày</string>
-    <string name="x3_Clan_XP_1_Day">3x XP Băng Đảng 1 Ngày</string>
-    <string name="x2_Clan_XP_1_Day">2x XP Băng Đảng 1 Ngày</string>
+    <string name="CLAN_RELATIONS">CÁC MỐI QUAN HỆ</string>
+    <string name="Clan_XP_Boost">TĂNG XP CHO HỘI</string>
+    <string name="x3_Clan_XP_7_days">3x XP Hội 7 Ngày</string>
+    <string name="x3_Clan_XP_1_Day">3x XP Hội 1 Ngày</string>
+    <string name="x2_Clan_XP_1_Day">2x XP Hội 1 Ngày</string>
     <string name="Pets">Thú cưng</string>
     <string name="Pet">Thú</string>
     <string name="You_can_purchase_this_pet_for">Bạn có thể mua thú cưng này với</string>
     <string name="gift_to_friend">Tặng cho bạn bè</string>
     <string name="gift_purchase_warning">Bạn sẽ không nhận được giao dịch mua hàng này bởi vì bạn đã chọn tặng món quà này cho bạn bè.</string>
-    <string name="x2_Clan_XP_7_Days">2x XP Băng Đảng 7 Ngày</string>
+    <string name="x2_Clan_XP_7_Days">2x XP Hội 7 Ngày</string>
     <string name="RECEIVED">ĐÃ NHẬN</string>
     <string name="SENT">GỬI</string>
     <string name="Enable_Invites">Cho phép lời mời</string>
@@ -1216,11 +1216,11 @@
     <string name="Middle_East">Trung Đông</string>
     <string name="XP_4x">XP 4x</string>
     <string name="You_cannot_play_for_x_minutes_">Bạn không thể chơi trong %d phút.</string>
-    <string name="x4_Clan_XP_Perm">4x XP Băng Đảng Vĩnh Viễn!</string>
-    <string name="x4_Clan_XP_7_days">4x XP Băng Đảng 7 Ngày</string>
-    <string name="x4_Clan_XP_1_Day">4x XP Băng Đảng 1 Ngày</string>
+    <string name="x4_Clan_XP_Perm">4x XP Hội Vĩnh Viễn!</string>
+    <string name="x4_Clan_XP_7_days">4x XP Hội 7 Ngày</string>
+    <string name="x4_Clan_XP_1_Day">4x XP Hội 1 Ngày</string>
     <string name="CHARGE_UP">SẠC NHANH</string>
-    <string name="CLAN_DESCRIPTION_COLOR">MÀU CHỮ MÔ TẢ BĂNG ĐẢNG</string>
+    <string name="CLAN_DESCRIPTION_COLOR">MÀU CHỮ MÔ TẢ HỘI</string>
     <string name="Responsible_Pet_Owner">Nuôi thú trách nhiệm</string>
     <string name="Animal_Tamer">Người cho ăn</string>
     <string name="Crocodile_Hunter">Kẻ săn cá sấu</string>
@@ -1300,9 +1300,9 @@ Lệnh:
     <string name="India">Ấn Độ</string>
     <string name="Tutorial">Hướng dẫn</string>
     <string name="TYCOON">GIÀU CÓ</string>
-    <string name="CLAN_BACKGROUND_COLOR">MÀU NỀN CỦA BĂNG ĐẢNG</string>
+    <string name="CLAN_BACKGROUND_COLOR">MÀU NỀN CỦA HỘI</string>
     <string name="activate">Kích hoạt</string>
-    <string name="clan_id">ID BĂNG ĐẢNG</string>
+    <string name="clan_id">ID Hội</string>
     <string name="language_change_warning">Thay đổi ngôn ngữ sẽ khiến game tải lại.</string>
     <string name="xmas_gift_boost_message">Bạn đã nhận được món quà 3x tăng plasma trong 1 ngày!</string>
     <string name="no_response">Không có phản hồi từ máy chủ. Đề nghị kiểm tra kết nối mạng.</string>
