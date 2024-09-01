@@ -1268,9 +1268,9 @@ Commands:
 !allow reset"
 </string>
     <string name="ID_Sort">ID Sort</string>
-    <string name="Master_Tamer">Master Tamer</string>
+    <string name="Master_Tamer">Meister taltsutaja</string>
     <string name="Get_ALL_Pets_To_Level_100_">Get ALL Pets To Level 100</string>
-    <string name="TAMER">TAMER</string>
+    <string name="TAMER">TALTSUTAJA</string>
     <string name="Allow_Recombine">Allow Recombine</string>
     <string name="Defenders">Defenders</string>
     <string name="Attackers">Attackers</string>
@@ -1296,22 +1296,22 @@ Commands:
     <string name="CAMPAIGN_2">KAMPAANIA 2</string>
     <string name="XP_5x">XP 5x</string>
     <string name="India">India</string>
-    <string name="Tutorial">Tutorial</string>
+    <string name="Tutorial">Õpetus</string>
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
-    <string name="activate">Activate</string>
+    <string name="activate">Aktiveerima</string>
     <string name="clan_id">CLAN ID</string>
     <string name="language_change_warning">Changing the language will cause the app to restart.</string>
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
     <string name="no_response">No response from server. Please check the internet connection.</string>
     <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="SUDDEN_ATTACK">ÄKILINE RÜNNAK</string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">You are already friends.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="Translator">Tõlk</string>
+    <string name="SUCCESS">EDU</string>
 
 
     <string-array name="control_modes">
