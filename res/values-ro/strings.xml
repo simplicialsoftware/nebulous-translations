@@ -8,7 +8,7 @@
     <string name="Button_Margin_">"Deplasare Buton:"</string>
     <string name="Buttons_">"Butoane:"</string>
     <string name="DEFAULTS">"PRESTABILITE"</string>
-    <string name="WEEKLY">"SĂPTĂM NAL"</string>
+    <string name="WEEKLY">"SĂPTĂMÂNAL"</string>
     <string name="DAILY">"ZILNIC"</string>
     <string name="Server_">"Server:"</string>
     <string name="Game_Mode_">"Mod de Joc:"</string>
@@ -36,7 +36,7 @@
     <string name="_Score_">" Scor "</string>
     <string name="Score__">"Scor: "</string>
     <string name="Recombine_">"Recombină:  "</string>
-    <string name="WINNER_">"C ŞTIGĂTOR"</string>
+    <string name="WINNER_">"CÂŞTIGĂTOR"</string>
     <string name="IDLE">"INACTIV"</string>
     <string name="Name_Invalid_">"Nume invalid."</string>
     <string name="Name_Taken_">"Nume luat."</string>
@@ -128,7 +128,7 @@
     <string name="Friend_Request_Sent">"Cerere de prietenie trimisă"</string>
     <string name="ERROR">"EROARE"</string>
     <string name="CONTINUE">"CONTINUĂ"</string>
-    <string name="Global_" formatted="false">"Global%"</string>
+    <string name="Global_" formatted="false">"Global"</string>
     <string name="FRIEND_CHAT">"CHAT DE PRIETENI"</string>
     <string name="LOBBY_NAME">"NUMELE LOBBY-ULUI"</string>
     <string name="NULL">"NUL"</string>
