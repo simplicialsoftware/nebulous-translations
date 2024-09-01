@@ -8,7 +8,7 @@
     <string name="Button_Margin_">"Deplasare Buton:"</string>
     <string name="Buttons_">"Butoane:"</string>
     <string name="DEFAULTS">"PRESTABILITE"</string>
-    <string name="WEEKLY">"SĂPTĂM NAL"</string>
+    <string name="WEEKLY">"SĂPTĂMÂNAL"</string>
     <string name="DAILY">"ZILNIC"</string>
     <string name="Server_">"Server:"</string>
     <string name="Game_Mode_">"Mod de Joc:"</string>
@@ -36,7 +36,7 @@
     <string name="_Score_">" Scor "</string>
     <string name="Score__">"Scor: "</string>
     <string name="Recombine_">"Recombină:  "</string>
-    <string name="WINNER_">"C ŞTIGĂTOR"</string>
+    <string name="WINNER_">"CÂŞTIGĂTOR"</string>
     <string name="IDLE">"INACTIV"</string>
     <string name="Name_Invalid_">"Nume invalid."</string>
     <string name="Name_Taken_">"Nume luat."</string>
@@ -596,7 +596,7 @@
     <string name="PRIZES">"PREMII"</string>
 
     <string name="Enable_Custom_Skin">"Activează Skin-ul Personalizat"</string>
-    <string name="Use_Custom_Skin">"Skin-ul\nPersonalizat"</string>
+    <string name="Use_Custom_Skin">"Folosește Skin-ul Personalizat"</string>
     <string name="custom_skin_description">"Această caracteristică vă permite să utilizați fotografia de profil sau un fişier ca skin-ul tău. Acest skin îl vei vedea numai TU. Alte persoane NU vor vedea skinul tău personalizat."</string>
     <string name="CUSTOM_SKIN">"SKIN PERSONALIZAT"</string>
 
@@ -824,7 +824,7 @@
     <string name="Unregister">"Anulați înregistrarea"</string>
     <string name="Enter_My_Match">"Intră în meciul meu"</string>
     <string name="Starts_In">"Începe în"</string>
-    <string name="Seconds">"secunde"</string>
+    <string name="Seconds">"Secunde"</string>
     <string name="Tournaments_Temporarily_Disabled">"Turnee dezactivate temporar"</string>
     <string name="CLAN_NAME_COLOR">"CULOARE NUME CLAN"</string>
     <string name="Tuber">"Tuber"</string>
@@ -836,7 +836,7 @@
     <string name="Emotes">"Emoții"</string>
     <string name="Support">"Susține"</string>
     <string name="Already_Blocked">"Deja Blocat"</string>
-    <string name="Cannot_block_more_than_x_accounts_">"Nu se pot bloca mai mult de %d conturi."</string>
+    <string name="Cannot_block_more_than_x_accounts_">"Nu se pot bloca mai mult de x conturi."</string>
     <string name="This_is_you_">"Acesta ești tu."</string>
     <string name="Win_a_Paint_Game">"Câștiga un joc Paint"</string>
     <string name="Whiteout">"Fără adversar"</string>
