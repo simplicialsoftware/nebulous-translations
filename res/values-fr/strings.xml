@@ -393,7 +393,7 @@
 
     <string name="Current">"Actuel"</string>
     <string name="leaves_">"feuilles."</string>
-    <string name="Leaf_Collector">"Collecteur de feuilles"</string>
+    <string name="Leaf_Collector">"Collecteur des feuilles"</string>
     <string name="Collect_1000_leaves_">"Collecter 1 000 feuilles"</string>
     <string name="XP_Boost">"Boost d'XP"</string>
     <string name="Double">"Double"</string>
@@ -402,7 +402,7 @@
 
 
     <string name="Triple">"Triple"</string>
-    <string name="Leaf_Hoarder">"Entasseur compulsif de Feuilles"</string>
+    <string name="Leaf_Hoarder">"Entasseur compulsif des Feuilles"</string>
     <string name="Collect_5000_leaves_">"Collecter 5 000 feuilles"</string>
 
 
@@ -509,10 +509,10 @@
     <string name="Connection_Lost">"Connexion perdue"</string>
 
     <string name="Present_Hoarder">"Accumulateur de Cadeaux"</string>
-    <string name="Present_Mogul">"Magnat des Cadeaux"</string>
-    <string name="Collect_1_000_presents_">"Collecter 1 000 cadeaux."</string>
-    <string name="Collect_5_000_presents_">"Collecter 1 000 cadeaux."</string>
-    <string name="Collect_10_000_presents_">"Collecter 1 000 cadeaux."</string>
+    <string name="Present_Mogul">"Magnat des Cadeaus"</string>
+    <string name="Collect_1_000_presents_">"Collecter 1 000 cadeaus."</string>
+    <string name="Collect_5_000_presents_">"Collecter 1 000 cadeaus."</string>
+    <string name="Collect_10_000_presents_">"Collecter 1 000 cadeaus."</string>
     <string name="Loading_reward_video___">"Chargement de la vidéo …"</string>
     <string name="Progress">"Progrès"</string>
     <string name="Snowflake_Hoarder">"Accumulateur de Flocons de Neige "</string>
@@ -568,8 +568,8 @@
     <string name="Flag_lobby_as_inappropriate">"Signaler la partie comme inappropriée"</string>
     <string name="Promote_Clan_Member">"Promouvoir ce membre"</string>
     <string name="Leave_Clan">"Quitter le clan"</string>
-    <string name="Candy_Hoarder">"Accumulateur de Bonbons"</string>
-    <string name="Candy_Collector">"Collecteur de Bonbons"</string>
+    <string name="Candy_Hoarder">"Accumulateur des Bonbons"</string>
+    <string name="Candy_Collector">"Collecteur des Bonbons"</string>
     <string name="Candy_Mogul">"Magnat des Bonbons"</string>
     <string name="Collect_1_000_candies_">"Recueillir 1.000 bonbons"</string>
     <string name="Collect_5_000_candies_">"Recueillir 5.000 bonbons"</string>
@@ -579,7 +579,7 @@
     <string name="Control_Opacity_">"Opacité des Contrôles:"</string>
     <string name="You_dont_own_the_team_">"Vous n'êtes pas le Propriétaire de l'Équipe:"</string>
     <string name="User_has_already_been_invited_">"L'utilisateur a déjà été invité."</string>
-    <string name="Maximum_players_allowed_on_the_team_">"Nombre maximum de joueurs autorisés dans l'Équipe:"</string>
+    <string name="Maximum_players_allowed_on_the_team_">"Nombre maximum des joueurs autorisés dans l'Équipe:"</string>
     <string name="Name_is_already_in_use_">"Ce nom est déjà utilisé."</string>
     <string name="User_is_not_in_the_team_">"L'utilisateur n'est pas dans l'Équipe."</string>
     <string name="You_are_not_invited_to_team_">"Vous n'êtes pas invité dans l'Équipe:"</string>
@@ -641,8 +641,8 @@
     <string name="Cannot_Join_Arena_">"Tu ne peux pas rejoindre l'Arène."</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"Si vous vous déconnectez, vous serez déconnecté de la partie en cours."</string>
     <string name="raindrops_">"Gouttes de pluie."</string>
-    <string name="Raindrop_Collector">"Collecteur de Gouttes de pluie"</string>
-    <string name="Raindrop_Hoarder">"Accumulateur de Gouttes de pluie"</string>
+    <string name="Raindrop_Collector">"Collecteur des Gouttes de pluie"</string>
+    <string name="Raindrop_Hoarder">"Accumulateur des Gouttes de pluie"</string>
     <string name="Raindrop_Mogul">"Magnat des Gouttes de pluie"</string>
     <string name="Collect_1_000_raindrops_">"Recueillir 1.000 gouttes de pluie."</string>
     <string name="Collect_5_000_raindrops_">"Recueillir 5.000 gouttes de pluie."</string>
@@ -675,8 +675,8 @@
     <string name="DOWNLOAD">"TÉLÉCHARGER"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"REFUSER TOUTES LES DEMANDES D'AMIS ?"</string>
     <string name="suns_">"Soleils."</string>
-    <string name="Sun_Collector">"Collecteur de soleils"</string>
-    <string name="Sun_Hoarder">"Accumulateur de Soleils"</string>
+    <string name="Sun_Collector">"Collecteur des soleils"</string>
+    <string name="Sun_Hoarder">"Accumulateur des Soleils"</string>
     <string name="Sun_Mogul">"Magnat des Soleils"</string>
     <string name="Collect_1_000_suns_">"Recueillir 1000 soleils."</string>
     <string name="Collect_5_000_suns_">"Collecter 5000 soleils."</string>
@@ -700,15 +700,15 @@
     <string name="none">"Aucun"</string>
     <string name="INVALID_TOKEN">"JETON INVALIDE."</string>
     <string name="banned_until">"Banni jusqu'au "</string>
-    <string name="Note_Collector">"Collecteur de Notes"</string>
-    <string name="Note_Hoarder">"Accumulateur de Notes"</string>
+    <string name="Note_Collector">"Collecteur des Notes"</string>
+    <string name="Note_Hoarder">"Accumulateur des Notes"</string>
     <string name="Note_Mogul">"Magnat des Notes"</string>
     <string name="Collect_1_000_notes_">"Recueillir 1000 notes."</string>
     <string name="Collect_5_000_notes_">"Collecter 5000 notes."</string>
     <string name="Collect_10_000_notes_">"Collecter 10.000 notes."</string>
     <string name="notes_">"Notes."</string>
     <string name="CLICK_CHEAT_DETECTED_">"AUTOCLIQUE EXTERNE DÉTECTÉ !"</string>
-    <string name="Pumpkin_Hoarder">"Accumulateur de Citrouilles"</string>
+    <string name="Pumpkin_Hoarder">"Accumulateur des Citrouilles"</string>
     <string name="Pumpkin_Mogul">"Magnat des Citrouilles "</string>
     <string name="Leaf_Mogul">"Magnat des Feuilles"</string>
     <string name="Collect_5000_pumpkins_">"Collecter 5 000 citrouilles."</string>
