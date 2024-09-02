@@ -1297,7 +1297,7 @@ Esta é uma lista de coisas que é * PROIBIDO * para usar nas skins personalizad
     <string name="x4_Clan_XP_1_Day">4x Clã XP 1 Dia</string>
     <string name="CHARGE_UP">CARREGAR</string>
     <string name="CLAN_DESCRIPTION_COLOR">COR DA DESCRIÇÃO DO CLÃ</string>
-    <string name="Responsible_Pet_Owner">Dono Responsável do Mascote</string>
+    <string name="Responsible_Pet_Owner">Dono lResponsável do Mascote</string>
     <string name="Animal_Tamer">Domador de Animais</string>
     <string name="Crocodile_Hunter">Caçador de Crocodilos</string>
     <string name="Get_A_Pet_To_Level_X_">Subir um Mascote ao Nível %d.</string>
