@@ -237,7 +237,7 @@
     <string name="MEMBER">"ANGGOTA"</string>
     <string name="ADMIN">"ADMIN"</string>
     <string name="LEADER">"PEMIMPIN"</string>
-    <string name="ELDER">"SENIOR"</string>
+    <string name="ELDER">"LEBIH TUA"</string>
 
 
     <string name="Not_in_a_clan_">"Tidak dalam klan."</string>
@@ -358,7 +358,7 @@
     <string name="Double">"Dobel"</string>
     <string name="Hour">"Jam"</string>
     <string name="Hours">"Jam"</string>
-    <string name="Triple">"Tripel"</string>
+    <string name="Triple">"Tiga kali lipat"</string>
     <string name="Leaf_Hoarder">"Penimbun Daun"</string>
     <string name="Collect_5000_leaves_">"Mengumpulkan 5.000 Daun."</string>
     <string name="Arena">"Arena"</string>
@@ -415,8 +415,8 @@
     <string name="Practice">"Latihan"</string>
     <string name="ArenaDescription">"Anda hanya mendapatkan satu kehidupan. Pemenang akan mendapatkan %s plasma."</string>
     <string name="Contestant">"Kontestan"</string>
-    <string name="Duelist">"Duelist"</string>
-    <string name="Gladiator">"Gladiator"</string>
+    <string name="Duelist">"Daftar Pertarungan"</string>
+    <string name="Gladiator">"Budak"</string>
     <string name="Challenger">"Penantang"</string>
     <string name="Win_1_1v1_Arenas_">"Memenangkan Arena."</string>
     <string name="Win_10_Arenas_">"Menang 10 Arena."</string>
@@ -436,8 +436,8 @@
     <string name="Win_100_Clan_Wars">"Menang 100 Klan War"</string>
     <string name="Clan_Commander">"Klan Komandan"</string>
     <string name="Clan_General">"Klan Umum"</string>
-    <string name="Clan_Wars_Won_">"Klan Wars Won:"</string>
-    <string name="Arenas_Won_">"Arenas Won:"</string>
+    <string name="Clan_Wars_Won_">"Perang_Klan_Menang_:"</string>
+    <string name="Arenas_Won_">"Arena_Menang_:"</string>
     <string name="Arena_Mode">"Mode Arena"</string>
     <string name="Connection_Lost">"Koneksi Terputus"</string>
     <string name="Present_Hoarder">"Penimbun Kado"</string>
@@ -546,7 +546,7 @@
     <string name="CLAN_HISTORY">"RIWAYAT KLAN"</string>
     <string name="Love_Nebulous_">"Cinta Nebulous?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Mohon Dukungan Nebula oleh Rating ini."</string>
-    <string name="MAYHEM_MODE">"MAYHEM MODE"</string>
+    <string name="MAYHEM_MODE">"MODE KEKACAUAN"</string>
     <string name="Times_Teleported_">"Kali Teleport:"</string>
     <string name="Powerups_Used_">"Peningkatan Daya Digunakan:"</string>
     <string name="Power_Hungry">"Kekuatan Lapar"</string>
@@ -717,7 +717,7 @@
     <string name="ZOMBIE_">"ZOMBI!"</string>
     <string name="SURVIVOR_">"SELAMAT!"</string>
     <string name="Zombies">"Zombi"</string>
-    <string name="Survivors">"Selamat"</string>
+    <string name="Survivors">"Korban selamat"</string>
     <string name="Enter_a_Tournament">"Masuk Turnamen"</string>
     <string name="Win_a_Tournament">"Memenangkan Turnamen"</string>
     <string name="Tournament_Competing">"Turnamen Bersaing"</string>
@@ -731,7 +731,7 @@
     <string name="Registrants">"Pendaftar"</string>
     <string name="Round_Of">"Babak"</string>
     <string name="Next_Tournament">"Berikutnya Turnamen"</string>
-    <string name="Plasma_Won">"Plasma Won"</string>
+    <string name="Plasma_Won">"Plasma_Menang"</string>
     <string name="Semi_Finals">"Semi-Final"</string>
     <string name="Quarter_Finals">"Perempat Final"</string>
     <string name="Competing">"Bersaing"</string>
@@ -742,7 +742,7 @@
     <string name="Seconds">"Detik"</string>
     <string name="Tournaments_Temporarily_Disabled">"Turnamen sementara Dinonaktifkan"</string>
     <string name="CLAN_NAME_COLOR">"WARNA NAMA KLAN"</string>
-    <string name="Tuber">"Tuber"</string>
+    <string name="Tuber">"Umbi"</string>
     <string name="youtube_prompt">"Apakah Anda ingin mengunjungi channel Youtube Nebulous ini? Saluran ini tidak berafiliasi dengan pencipta Nebulous."</string>
     <string name="Tournament_Matches_Won_">"Turnamen Won:"</string>
     <string name="PAINT">"CAT"</string>
