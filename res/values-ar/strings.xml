@@ -15,7 +15,7 @@
     <string name="Show_Names">"إظهار الأسماء"</string>
     <string name="Show_Avatars">"إظهار الصور"</string>
     <string name="PLAY">"إلعب"</string>
-    <string name="OPTIONS">"الإعدادات"</string>
+    <string name="OPTIONS">"االخيارات</string>
 
     <string name="Avatar_">"الصورة"</string>
     <string name="Name_">"الإسم"</string>
@@ -124,7 +124,7 @@
     <string name="Offline">"غـيـر مُـتَـصِـل"</string>
     <string name="Achievement_Earned">"تم تحقيق الإنجاز"</string>
     <string name="REFRESH">"تحديث"</string>
-    <string name="DONE">"تَـم"</string>
+    <string name="DONE">"منتهي"</string>
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
     <string name="CONTINUE">"متابعة"</string>
@@ -1354,9 +1354,9 @@ Commands:
     <string name="CLAN_BACKGROUND_COLOR">لون خلفية العشيرة</string>
     <string name="activate">تفعيل</string>
     <string name="clan_id">رقم هوية العشيرة</string>
-    <string name="language_change_warning">سيؤدي تغيير اللغة إلى إعادة تشغيل التطبيق.</string>
-    <string name="xmas_gift_boost_message">لقد تلقيت هدية تعزيز البلازما 3 مرات ليوم واحد!</string>
-    <string name="no_response">لا توجد استجابة من الخادم. يرجى التحقق من اتصال الإنترنت.</string>
+    <string name="language_change_warning">  تحذير بشأن تغير اللغه .</string>
+    <string name="xmas_gift_boost_message"> رسالة تعزيز هديه عيد ميلاد!</string>
+    <string name="no_response">لا يوجد رد/string>
     <string name="RAMADAN">رمضان</string>
     <string name="SUDDEN_ATTACK">هجوم مفاجئ</string>
 
