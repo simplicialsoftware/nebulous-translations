@@ -27,7 +27,7 @@
     <string name="Yes">"Sim"</string>
     <string name="No">"Não"</string>
     <string name="WAIT">"AGUARDE…"</string>
-    <string name="Must_Specify_Name_">"Necessário especificar um nome."</string>
+    <string name="Must_Specify_Name_">"É Necessário especificar um nome."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
 
@@ -68,13 +68,13 @@
     <string name="Difficulty_">"Dificuldade:"</string>
     <string name="Delay_Disconnect">"Atrasar a Desconexão"</string>
 
-    <string name="Max_Players">"Máx. de Jogadores"</string>
-    <string name="Min_Players">"Mín. de Jogadores"</string>
+    <string name="Max_Players">"Máximo de Jogadores"</string>
+    <string name="Min_Players">"Mínimo de Jogadores"</string>
 
     <string name="OK">"OK"</string>
     <string name="CANCEL">"CANCELAR"</string>
     <string name="Chat_Name">"Nome do Chat"</string>
-    <string name="Max_People">"Máx. de Pessoas"</string>
+    <string name="Max_People">"Limite de Pessoas"</string>
     <string name="START">"COMEÇAR"</string>
     <string name="CREATE">"CRIAR"</string>
     <string name="CUSTOM_GAMES">"JOGOS PERSONALIZADOS"</string>
@@ -289,8 +289,8 @@
     <string name="No_such_user_found_">"Nenhum usuário encontrado."</string>
     <string name="No_open_public_clans_exist_">"Não existem clãs públicos abertos."</string>
     <string name="You_aren_t_invited_to_that_clan_">"Você não está convidado para este clã."</string>
-    <string name="No_such_clan_exists_">"Não existe tal clã."</string>
-    <string name="That_clan_is_full_">"Esse clã está cheio."</string>
+    <string name="No_such_clan_exists_">"Este clã não existe."</string>
+    <string name="That_clan_is_full_">"Este clã está cheio."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Outro usuário não é um membro de seu clã."</string>
     <string name="_You_can_t_be_your_own_friend_">"Você não pode ser seu próprio amigo."</string>
     <string name="A_clan_with_that_name_already_exists_">"Um clã com este nome já existe."</string>
@@ -378,7 +378,7 @@
     <string name="Clan_Warrior">"Guerreiro do Clã"</string>
     <string name="Win_a_Clan_War">"Ganhar uma Guerra de Clã"</string>
     <string name="Global">"Global"</string>
-    <string name="Spectating">"Espectador"</string>
+    <string name="Spectating">"Espectar um Jogador"</string>
 
 
     <string name="snowflakes_">"flocos de neve."</string>
@@ -451,8 +451,8 @@
 
 
     <string name="Copy_ID">"Copiar ID"</string>
-    <string name="View_Profile">"Ver Perfil"</string>
-    <string name="Send_Message">"Enviar Mensagem"</string>
+    <string name="View_Profile">"Visualizar Perfil"</string>
+    <string name="Send_Message">"Enviar Uma Mensagem"</string>
     <string name="Account_ID">"ID:"</string>
     <string name="Player_Name">"Nome do Jogador"</string>
 
@@ -471,7 +471,7 @@
     <string name="ENTER">"ENTRAR"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Praticar"</string>
-    <string name="ArenaDescription">Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
+    <string name="ArenaDescription">Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em banimento.</string>
     <string name="Contestant">"Competidor"</string>
     <string name="Duelist">"Duelista"</string>
     <string name="Gladiator">"Gladiador"</string>
@@ -566,7 +566,7 @@
     <string name="Remove_Clan_Member">"Remover Membro do Clã"</string>
     <string name="Flag_lobby_as_inappropriate">"Denunciar sala como inapropriada "</string>
     <string name="Promote_Clan_Member">"Promover Membro do Clã"</string>
-    <string name="Leave_Clan">"Sair do Clã"</string>
+    <string name="Leave_Clan">"Sair deste Clã"</string>
     <string name="Candy_Hoarder">"Colecionador de Doces"</string>
     <string name="Candy_Collector">"Coletor de Doces"</string>
     <string name="Candy_Mogul">"Magnata de Doces"</string>
@@ -623,7 +623,7 @@
 
 
     <string name="Love_Nebulous_">"Ama o Nebulous?"</string>
-    <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoie o Nebulous classificando-o."</string>
+    <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoie o Nebulous avaliando-o."</string>
     <string name="MAYHEM_MODE">"MODO MAYHEM"</string>
     <string name="Times_Teleported_">"Vezes Teleportado:"</string>
     <string name="Powerups_Used_">"Poderes Usado:"</string>
@@ -729,8 +729,8 @@
     <string name="upload_warning">"Tem certeza de que deseja enviar esta skin? Outros jogadores serão capazes de ver esta skin. Pode levar até uma semana para a sua skin ser revisada. Skins inapropriadas serão rejeitadas e não serão reembolsadas!"</string>
 
     <string name="In_Review">"Em Revisão"</string>
-    <string name="Account_Uploads">"Envios para a Conta"</string>
-    <string name="Clan_Uploads">"Envios para o Clã"</string>
+    <string name="Account_Uploads">"Suas Skins Enviadas"</string>
+    <string name="Clan_Uploads">"Skins Do Clã Enviadas"</string>
     <string name="Empty">"Vazio"</string>
     <string name="Select">"Selecionar"</string>
     <string name="Current_Skin">"Skin Atual"</string>
@@ -756,7 +756,7 @@
     <string name="inapproriate_info">Skins inapropriadas incluem qualquer coisa que envolva ódio, gore, obscenidade, violência, drogas, sexo, nudez, selfies de corpo inteiro, obscuridade, ininteligibilidade e skins Nebulous não modificadas. Lembrando também que skins sem camisa, mostrando dedo do meio, que contenham drogas/cigarros, decotes, barriga tanquinho, serão reembolsadas ou rejeitadas de acordo com o revisor.</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">Você tem certeza de que deseja enviar esta skin?</string>
     <string name="Grant_Permission">Conceder Permissão</string>
-    <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">Nebulous precisa permissão de Armazenamento para backup de seu progresso único jogador!</string>
+    <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">Nebulous precisa de permissão de Armazenamento para salvar seu progresso de único jogador!</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">Nebulous precisa de permissão de Localização para encontrar dispositivos Bluetooth próximos.</string>
     <string name="FFA_ULTRA">FFA ULTRA</string>
     <string name="FFAU">FFAU</string>
@@ -764,14 +764,14 @@
 
     <string name="BANNED_PLAYERS">JOGADORES BANIDOS</string>
     <string name="MAIL">E-MAIL</string>
-    <string name="WRITE_MAIL">ESCREVER MENSAGEM</string>
+    <string name="WRITE_MAIL">ESCREVER E-MAIL</string>
     <string name="Days">Dias</string>
     <string name="Message">Mensagem</string>
     <string name="Subject">Assunto</string>
     <string name="SEND">ENVIAR</string>
     <string name="To">Para</string>
     <string name="RESET">RESTAURAR</string>
-    <string name="Message_Sent_">Mensagem Enviada!</string>
+    <string name="Message_Sent_">E-mail Enviado!</string>
     <string name="From">De</string>
     <string name="Sent">Enviado</string>
     <string name="REPLY">RESPONDER</string>
@@ -780,7 +780,7 @@
     <string name="DELETE">EXCLUIR</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">Nota: Você pode desbloquear alguém, enviando-lhes um pedido de amizade.</string>
     <string name="Select_Friend">Selecionar Amigo</string>
-    <string name="Failed_to_send_mail_">Falha ao enviar a mensagem.</string>
+    <string name="Failed_to_send_mail_">Falha ao enviar o e-mail.</string>
     <string name="In_Game_Mail">E-mail no Jogo</string>
     <string name="Nav_Buttons_">Botões de Nav.:</string>
     <string name="account_warning">Nunca compartilhe a senha da sua conta ou informações pessoais com ninguém por nenhuma razão!</string>
@@ -872,7 +872,7 @@
     <string name="BUY_EXTRA_SPINS">COMPRAR GIROS EXTRAS</string>
     <string name="Spins_Remaining">Giros Restantes</string>
     <string name="One_Spin">Um Giro (1)</string>
-    <string name="Bundle_of_Spins">Pacote para Girar (10)</string>
+    <string name="Bundle_of_Spins">Pacote de Giros (10)</string>
     <string name="Plethora_of_Spins">Muitos Giros (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">DESCONECTAR-SE DE TODOS OS DISPOSITIVOS</string>
     <string name="Tournament_Forming">Formando Torneio</string>
