@@ -39,7 +39,7 @@
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"الخمول"</string>
     <string name="Name_Invalid_">"الإسم غير صالح !"</string>
-    <string name="Name_Taken_">"الاسم مستعمل."</string>
+    <string name="Name_Taken_">"الاسم مُستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
     <string name="PLAYING">"في طور اللعب"</string>
@@ -56,7 +56,7 @@
 
     <string name="SERVER">"سيرفر"</string>
     <string name="Joining_game_in_">"الانضمام للعبة "</string>
-    <string name="Game_Full">"اللعبه ممتلئة"</string>
+    <string name="Game_Full">"اللعبه مُمتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
     <string name="Europe">"اوروبا"</string>
@@ -77,9 +77,9 @@
     <string name="Max_People">"الحد الأقصى للناس"</string>
     <string name="START">"البداية"</string>
     <string name="CREATE">"إنشاء"</string>
-    <string name="CUSTOM_GAMES">"ألعاب مخصصة"</string>
+    <string name="CUSTOM_GAMES">"ألعاب مُخصصة"</string>
     <string name="CHAT">"الدردشة"</string>
-    <string name="CUSTOM_SETUP">"إعدادات مخصصة"</string>
+    <string name="CUSTOM_SETUP">"إعدادات مُخصصة"</string>
     <string name="CHAT_SETUP">"إعدادات الدردشة"</string>
 
 
@@ -155,7 +155,7 @@
     <string name="Dot_Gormandizer">"آكل النقاط الجشع"</string>
     <string name="Dot_Sommelier">"ساقي النقاط!"</string>
 
-    <string name="Quadra_Gulp">"ابتلاع رباعي"</string>
+    <string name="Quadra_Gulp">"ابتلاع رُباعي"</string>
     <string name="Multi_Gulp">"ابتلاع متعدد"</string>
     <string name="Mega_Gulp">"ابتلاع ضخم"</string>
     <string name="Ultra_Gulp">"ابتلاع فائق"</string>
@@ -1156,13 +1156,13 @@
     <string name="Not_in_a_group_">ليس في المجموعة</string>
     <string name="Failed">فشل</string>
     <string name="Failed_to_join">فشل في الدخول</string>
-    <string name="Full">ممتلئ</string>
+    <string name="Full">مُمتلئ</string>
     <string name="Tricks_Performed_">:أداء الحركات</string>
     <string name="Not_enough_plasma_">بلازما غير كافية</string>
     <string name="GET_PLASMA">إحصل على بلازما</string>
     <string name="ASTEROIDS">شُهُب</string>
     <string name="CHRISTMAS">كريسماس</string>
-    <string name="Reason">السبب</string>
+    <string name="Reason">سبب</string>
     <string name="PUBLIC">عـامة</string>
     <string name="PRIVATE">خـاصة</string>
     <string name="Joined">الأنضمامات</string>
@@ -1239,7 +1239,7 @@
     <string name="Absorbed_">مُنهَمِك:</string>
     <string name="team_warning">" جعل خصمُك من الفريق سيؤدي ذلك إلى حظرك من اللعبة."</string>
     <string name="Search_Filter">تصفيّة البَحِث</string>
-    <string name="Received_">تم الاستلام:</string>
+    <string name="Received_">تم ألاستلام:</string>
     <string name="Opponent_Rating_Limit_">حد تصنيف الخصم</string>
     <string name="TOGGLE_FAVORITE">تبديل المُفَضلة</string>
     <string name="Favorited">مُفضَل</string>
