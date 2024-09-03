@@ -1262,10 +1262,10 @@
 !guests
 !slowchat - змінити повільний чат
 !pausechat - призупинити чат на деякий час
-!mute {id}
+!mute {id} - вимкнути звук гравця
 !admin {id}
 !allow {id}
-!allow reset"
+!allow reset" - Відновити дозволи
 </string>
     <string name="ID_Sort">ID Sort</string>
     <string name="Master_Tamer">"Майстерний приборкувач"</string>
