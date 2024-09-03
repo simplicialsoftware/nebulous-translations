@@ -527,12 +527,12 @@
     <string name="SAVE">"حفظ"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"هذا اللاعب لا يملك المستوى الأدنى المسموح به للانضمام إلى هذه العشيرة:"</string>
     <string name="Insufficient_Permission">"لا تملك الإذن"</string>
-    <string name="DOMINATION">"السيطرة"</string>
-    <string name="DOM_Domination">"السيطرة"</string>
-    <string name="DOM_Hat_Trick">"سيطرة ثلاثية"</string>
+    <string name="DOMINATION">"الهيمنة"</string>
+    <string name="DOM_Domination">"الهيمنة"</string>
+    <string name="DOM_Hat_Trick">"الهيمنة ثلاثية"</string>
     <string name="Win_by_50_points_in_a_DOM_game_">"الفوز بفارق 50 نقطة في لعبة الهيمنة."</string>
-    <string name="Score_33_points_in_a_single_DOM_game_">"تسجيل 33 نقطة في لعبة سيطرة واحدة."</string>
-    <string name="Win_a_Domination_Game">"الفوز في لعبة السيطرة"</string>
+    <string name="Score_33_points_in_a_single_DOM_game_">"تسجيل 33 نقطة في لعبة الهيمنة واحدة."</string>
+    <string name="Win_a_Domination_Game">"الفوز في لعبة الهيمنة"</string>
     <string name="Select_Team">"اختر فريق"</string>
     <string name="MANAGE_TEAMS">"إدارة الفِرق"</string>
     <string name="CLAN_INVITE">"الدعوة إلى العشيرة"</string>
@@ -611,13 +611,13 @@
     <string name="You_must_be_signed_in_to_Google_">"يجب تسجيل الدخول إلى برنامج Google."</string>
 
     <string name="MAYHEM">"نمط الفوضى"</string>
-    <string name="eggs_">"البيوض."</string>
+    <string name="eggs_">"البيض"</string>
     <string name="Egg_Collector">"جامع البيض"</string>
     <string name="Egg_Hoarder">"مكدس تجميع البيض"</string>
     <string name="Egg_Mogul">"ملك تجميع البيض"</string>
-    <string name="Collect_1_000_eggs_">"جمع 1000 من البيوض."</string>
-    <string name="Collect_5_000_eggs_">"جمع 5000 من البيوض."</string>
-    <string name="Collect_10_000_eggs_">"جمع 10،000 من البيوض."</string>
+    <string name="Collect_1_000_eggs_">"جمع 1000 من البيض."</string>
+    <string name="Collect_5_000_eggs_">"جمع 5000 من البيض."</string>
+    <string name="Collect_10_000_eggs_">"جمع 10،000 من البيض."</string>
     <string name="HISTORY">"السِجِل"</string>
     <string name="CLAN_HISTORY">"سِجِل العشيرة"</string>
 
@@ -943,7 +943,7 @@
     <string name="enable_notifications">تفعيل الإشعارات</string>
     <string name="PROMOTE_MEMBER">ترقية العضو</string>
     <string name="DEMOTE_MEMBER">تخفيض رتبة العضو</string>
-    <string name="HAPPY_BIRTHDAY_">يوم ميلاد سعيد Nebulous!</string>
+    <string name="HAPPY_BIRTHDAY_">يوم ميلاد سعيد</string>
     <string name="Years">سنوات</string>
     <string name="Friend_Added_">تم إضافة صديق!</string>
     <string name="_in_a_16x_Split_Game">في لعبة الإنقسام على 16</string>
