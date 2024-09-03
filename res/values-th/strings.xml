@@ -1327,7 +1327,7 @@
     <string name="clan_id">แคลนไอดี</string>
     <string name="language_change_warning">การเปลี่ยนภาษาจะทำให้แอปรีสตาร์ท</string>
     <string name="xmas_gift_boost_message">คุณได้รับของขวัญเป็น 3X พลาสมาบูสต์เป็นเวลา 1 วัน!</string>
-    <string name="no_response">ไม่มีการตอบสนองจากเซิร์ฟเวอร์ โปรดตรวจสอบการเชื่อมต่ออินเตอร์เน็ต</string>
+    <string name="no_response">ไม่มีการตอบสนองจากเซิร์ฟเวอร์ โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ต</string>
     <string name="RAMADAN">รอมฎอน</string>
     <string name="SUDDEN_ATTACK">การโจมตีอย่างกะทันหัน</string>
     <string name="_2x_skin_resolution">ความละเอียดของผิว 2 เท่า</string>
