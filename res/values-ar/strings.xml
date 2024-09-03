@@ -31,7 +31,7 @@
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
 
-    <string name="_Rank_">" المرتبة "</string>
+    <string name="_Rank_">"الرتبة "</string>
     <string name="_Alias_">" الإسم المُستعار "</string>
     <string name="_Score_">" النقاط "</string>
     <string name="Score__">"النقاط: "</string>
@@ -56,7 +56,7 @@
 
     <string name="SERVER">"سيرفر"</string>
     <string name="Joining_game_in_">"الانضمام للعبة "</string>
-    <string name="Game_Full">"اللعبه ممتلئة"</string>
+    <string name="Game_Full">"اللعبة ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
     <string name="Europe">"اوروبا"</string>
@@ -186,35 +186,35 @@
     <string name="Revenge">"انتقام"</string>
     <string name="Doge_Pound">"جامع الكلاب"</string>
 
-    <string name="Absorb_50_dots">"استيعاب ٥٠ نقطة"</string>
-    <string name="Absorb_300_dots">"استيعاب ٣٠٠ نقطة"</string>
-    <string name="Absorb_1_000_dots">"استيعاب ج ١٠٠٠ نقطة"</string>
-    <string name="Absorb_5_000_dots">"استيعاب ٥٠٠٠ نقطة"</string>
-    <string name="Absorb_10_000_dots">"استيعاب ١٠،٠٠٠ النقاط"</string>
-    <string name="Absorb_50_000_dots">"استيعاب ٥٠،٠٠٠ النقاط"</string>
-    <string name="Absorb_100_000_dots">"استيعاب ١٠٠،٠٠٠ النقاط"</string>
-    <string name="Absorb_1_000_000_dots">"استيعاب ١،٠٠٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_50_dots">"استيعاب 50 نقطة"</string>
+    <string name="Absorb_300_dots">"استيعاب 300 نقطة"</string>
+    <string name="Absorb_1_000_dots">"استيعاب ج 1000 نقطة"</string>
+    <string name="Absorb_5_000_dots">"استيعاب 5000 نقطة"</string>
+    <string name="Absorb_10_000_dots">"استيعاب 10،000 النقاط"</string>
+    <string name="Absorb_50_000_dots">"استيعاب 50،000 النقاط"</string>
+    <string name="Absorb_100_000_dots">"استيعاب 100،000 النقاط"</string>
+    <string name="Absorb_1_000_000_dots">"استيعاب 1،000،000 النقاط"</string>
 
-    <string name="Absorb_4_blobs_quickly">"استيعاب ٤ من الدوائر بسرعة"</string>
-    <string name="Absorb_8_blobs_quickly">"استيعاب ٨ من الدوائر بسرعة"</string>
-    <string name="Absorb_16_blobs_quickly">"استيعاب ١٦ من الدوائر بسرعة"</string>
-    <string name="Absorb_24_blobs_quickly">"استيعاب ٢٤ من الدوائر بسرعة"</string>
-    <string name="Absorb_32_blobs_quickly">"استيعاب ٣٢ من الدوائر بسرعة"</string>
-    <string name="Absorb_40_blobs_quickly">"استيعاب ٤٠ من الدوائر بسرعة"</string>
+    <string name="Absorb_4_blobs_quickly">"استيعاب 4 من الدوائر بسرعة"</string>
+    <string name="Absorb_8_blobs_quickly">"استيعاب 8 من الدوائر بسرعة"</string>
+    <string name="Absorb_16_blobs_quickly">"استيعاب 16 من الدوائر بسرعة"</string>
+    <string name="Absorb_24_blobs_quickly">"استيعاب 24 من الدوائر بسرعة"</string>
+    <string name="Absorb_32_blobs_quickly">"استيعاب 32 من الدوائر بسرعة"</string>
+    <string name="Absorb_40_blobs_quickly">"استيعاب 40 من الدوائر بسرعة"</string>
 
-    <string name="Absorb_8_player_blobs_without_restarting">"استيعاب ٨ من دوائر اللاعبين دون إعادة التشغيل"</string>
-    <string name="Absorb_16_player_blobs_without_restarting">"استيعاب ١٦ من دوائر اللاعبين دون إعادة التشغيل"</string>
-    <string name="Absorb_32_player_blobs_without_restarting">"استيعاب ٣٢ من دوائر اللاعبين دون إعادة التشغيل"</string>
-    <string name="Absorb_48_player_blobs_without_restarting">"استيعاب ٤٨ من دوائر اللاعبين دون إعادة التشغيل"</string>
-    <string name="Absorb_80_player_blobs_without_restarting">"استيعاب ٨٠ من دوائر اللاعبين دون إعادة التشغيل"</string>
-    <string name="Absorb_160_player_blobs_without_restarting">"استيعاب ١٦٠ من دوائر اللاعبين دون إعادة التشغيل"</string>
-    <string name="Absorb_240_player_blobs_without_restarting">"استيعاب ٢٤٠ من دوائر اللاعبين دون إعادة التشغيل"</string>
+    <string name="Absorb_8_player_blobs_without_restarting">"استيعاب 8 من دوائر اللاعبين دون إعادة التشغيل"</string>
+    <string name="Absorb_16_player_blobs_without_restarting">"استيعاب 16 من دوائر اللاعبين دون إعادة التشغيل"</string>
+    <string name="Absorb_32_player_blobs_without_restarting">"استيعاب 32 من دوائر اللاعبين دون إعادة التشغيل"</string>
+    <string name="Absorb_48_player_blobs_without_restarting">"استيعاب 48 من دوائر اللاعبين دون إعادة التشغيل"</string>
+    <string name="Absorb_80_player_blobs_without_restarting">"استيعاب 80 من دوائر اللاعبين دون إعادة التشغيل"</string>
+    <string name="Absorb_160_player_blobs_without_restarting">"استيعاب 160 من دوائر اللاعبين دون إعادة التشغيل"</string>
+    <string name="Absorb_240_player_blobs_without_restarting">"استيعاب 240 من دوائر اللاعبين دون إعادة التشغيل"</string>
 
-    <string name="Reach_a_score_of_1_000">" الوصول الى ١٠٠٠ درجة"</string>
-    <string name="Reach_a_score_of_5_000">"الوصول الى ٥٠٠٠ درجة"</string>
-    <string name="Reach_a_score_of_10_000">"الوصول الى ١٠،٠٠٠ درجة"</string>
-    <string name="Reach_a_score_of_15_000">"الوصول إلى ١٥،٠٠٠ درجة"</string>
-    <string name="Reach_a_score_of_20_000">"الوصول إلى ٢٠،٠٠٠ درجة"</string>
+    <string name="Reach_a_score_of_1_000">" الوصول الى 1000 درجة"</string>
+    <string name="Reach_a_score_of_5_000">"الوصول الى 5000 درجة"</string>
+    <string name="Reach_a_score_of_10_000">"الوصول الى 10.000 درجة"</string>
+    <string name="Reach_a_score_of_15_000">"الوصول إلى 15.000 درجة"</string>
+    <string name="Reach_a_score_of_20_000">"الوصول إلى 20.000 درجة"</string>
 
     <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"الوصول إلى ١٠،٠٠٠ درجة دورة أي دائرة"</string>
     <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"الوصول إلى ٥٠٠٠ درجة دون تقسيم أو إخراج"</string>
@@ -607,7 +607,7 @@
 
     <string name="No_file_browser_installed_">"لا ملف متصفح مثبت!"</string>
     <string name="Choose_File">"اختر ملف"</string>
-    <string name="Google_Profile">"الملف الشخصي في Google"</string>
+    <string name="Google_Profile">"الملف الشخصي في جوجل"</string>
     <string name="You_must_be_signed_in_to_Google_">"يجب تسجيل الدخول إلى برنامج Google."</string>
 
     <string name="MAYHEM">"نمط الفوضى"</string>
@@ -869,7 +869,7 @@
     <string name="TEAM_DEATHMATCH">"فِرق الموت"</string>
     <string name="Speed_Click_Toggle">"تبديل سرعة الضغط"</string>
     <string name="MOD">"مُدير"</string>
-    <string name="FAQ">الأسئلة الأكثر طرحاً</string>
+    <string name="FAQ">الأسئلة الأكثر اطرحاً</string>
     <string name="BUY_EXTRA_SPINS">شراء حزمات تدوير إضافية</string>
     <string name="Spins_Remaining">التدويرات المتبقية</string>
     <string name="One_Spin">تدوير واحد (1)</string>
@@ -952,9 +952,9 @@
 اللعبة\n
 \n
 1. لا تقم بمشاركة او تبادل الحسابات مع أي شخص، سيتسبب ذلك بحظر حسابي كِلا اللاعبيْن بشكل دائم.\n
-2. لا تقم بطلب حساب من أي شخص، سيتسبب ذلك بحضر حسابك بشكل دائم\n
-3. لا تقم بالتظاهر أنك مُدير او يوتيوبر، سيتسبب ذلك بحضر حسابك بشكل دائم\n
-4. لا تقم بالغش للوصول إلى مراتب عالية في حروب العشيرة او التحديات، سيتسبب ذلك بإعادة نقاط و إنجازات حسابك من الصفر و قد تصل الأمور حتى حضر حسابك بشكل دائم\n
+2. لا تقم بطلب حساب من أي شخص، سيتسبب ذلك بحظر حسابك بشكل دائم\n
+3. لا تقم بالتظاهر أنك مُدير او يوتيوبر، سيتسبب ذلك بحظر حسابك بشكل دائم\n
+4. لا تقم بالغش للوصول إلى مراتب عالية في حروب العشيرة او التحديات، سيتسبب ذلك بإعادة نقاط و إنجازات حسابك من الصفر و قد تصل الأمور حتى بحظر حسابك بشكل دائم\n
 5. لا تسأل عن مرتبة القائد داخل العشائر\n
 6. لا تقم بمضايقة او إهانة أي أحد\n
 7. لا تقم بإنشاء ردهات دردشة بأسماء غير لائِقة\n
@@ -966,7 +966,7 @@
 13. لا تقم بتبادل العشائر من أجل المال أو البلازما\n
 14. لا تقم بإزعاج أي احد في الدردشة أو إرسال بريد مزعج\n
         \n
-إذا لم تقم بإحترام أو خرق أي قانون من هذه القوانين سيتم حضر حسابك\n
+إذا لم تقم بإحترام أو خرق أي قانون من هذه القوانين سيتم بحظر حسابك\n
 (قد تمتد مدة الحظر من عدة ساعات إلى مدى الحياة، وذلك حسب شدة المشكلة التي تم التسبب فيها).\n
 \n
 اذا لاحظت وجود لاعب يخالف قوانين اللعبة، فيرجى ابلاغ المُدراء.
@@ -1053,15 +1053,15 @@
     <string name="upload_details" translatable="true">"
 الصورة المخصصة
 
-عندما تشتري مظهرًا مخصصًا ، ستنخفض جودة الصورة ، لكن هذا ليس ذا أهمية كبيرة وهو أمر طبيعي (لا فرق تقريبًا عند اللعب).
-
+عندما تشتري جلود مخصصة ستنخفض جودة الصورة ، لكن هذا ليس ذا أهمية كبيرة وهو أمر طبيعي (لا فرق تقريبًا عند اللعب).
+ 
 قيد المراجعة (أصفر): يعني أن الجلد قيد المراجعة ، يجب عليك الانتظار حتى تتم الموافقة عليه.
 
 تم الموافقة عليه (باللون الأخضر): يمكن للاعبين الآخرين رؤية الجلد.
 
 تم التعويض (برتقالي): لقد تلقيت استردادًا للجلد، لأنه لا يفي بالمعايير المعمول بها ، يجب عليك تحديد صورة أخرى ليست نفسها.
 
-مرفوض (أحمر): يعني أن بشرتك لا يمكن رؤيتها من قبل اللاعبين الآخرين لأنها تحتوي على محتوى غير لائق ، فلن يتم إرجاع البلازما لك
+مرفوض (أحمر): يعني أن بشرتك لا يمكن رؤيتها من قبل اللاعبين الآخرين لأنها تحتوي على محتوى غير لائق ، ولن يتم إرجاع البلازما لك
 
 
 لماذا تم تجديد أو رفض بشرتي المخصصة؟
@@ -1135,7 +1135,7 @@
     <string name="Trick_Notifications">اشعارات التلميحات</string>
     <string name="Channel">قناة</string>
     <string name="Choose_Text_Size">اختار حجم النص</string>
-    <string name="LEVEL_COLOR">لون المستوى</string>
+    <string name="LEVEL_COLOR">تلوين المستوى</string>
     <string name="INITIATE">عضو جديد</string>
     <string name="x3_Clan_XP_Perm">3× نقاط خبرة العشيرة غير محدود</string>
     <string name="x2_Clan_XP_Perm">2× نقاط خبرة العشيرة غير محدود</string>
@@ -1144,9 +1144,9 @@
     <string name="Asia">آسيا</string>
     <string name="SET_PRIVACY">ضبط الخصوصية</string>
     <string name="ANIMATION">رسوم مُتحركة</string>
-    <string name="Color_Cycle">دورة الألوان</string>
+    <string name="Color_Cycle">دائرة الالوان</string>
     <string name="Fast">سريع</string>
-    <string name="Slow">بطئ</string>
+    <string name="Slow">بطيئ</string>
     <string name="Rainbow">ثُقب مُلوَّن</string>
     <string name="Horizontal">أفقي</string>
     <string name="Vertical">رأسي</string>
@@ -1185,7 +1185,7 @@
     <string name="Max_XP_Chain_">:سلسلة الخبرة القصوى</string>
     <string name="POSITION_CANCEL_BUTTON">الغاء موقع الزر</string>
     <string name="INVISIBILITY">خاصية الاخفاء</string>
-    <string name="Set_Skin">وضع البشرة </string>
+    <string name="Set_Skin">وضع الجلد </string>
     <string name="Primary">ابتدائي )اساسي)</string>
     <string name="Secondary">ثانوي</string>
     <string name="Both">اثنين معاً</string>
@@ -1418,7 +1418,7 @@ Commands:
         <item>"صغير"</item>
         <item>"عادي"</item>
         <item>"كبير"</item>
-        <item>"ضخم"</item>
+        <item>"كبير جدا"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
