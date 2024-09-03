@@ -972,7 +972,7 @@
     <string name="App_Perf_Stats">Thống kê Hiệu suất ứng dụng</string>
     <string name="COPY">SAO CHÉP</string>
     <string name="_1v1_Ultra">1v1 Ultra</string>
-    <string name="ArenaDescriptionUltra">Người chiến thắng sẽ nhận được %s plasma.</string>
+    <string name="ArenaDescriptionUltra">Người chiến thắng sẽ nhận được % plasma.</string>
     <string name="BANNED">BỊ CẤM</string>
     <string name="CLAN_MEMBERS">THÀNH VIÊN HỘI</string>
     <string name="CLAN_REQUESTS">NGƯỜI XIN VÀO</string>
