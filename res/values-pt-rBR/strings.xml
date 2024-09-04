@@ -15,7 +15,7 @@
     <string name="Show_Names">"Mostrar Nomes"</string>
     <string name="Show_Avatars">"Mostrar Skins"</string>
     <string name="PLAY">"JOGAR"</string>
-    <string name="OPTIONS">"OPÇÕES"</string>
+    <string name="OPTIONS">"OPTIONS"</string>
 
     <string name="Avatar_">"Skin:"</string>
     <string name="Name_">"Nome:"</string>
@@ -25,7 +25,7 @@
 
     <string name="Are_You_Sure_">"Você tem certeza?"</string>
     <string name="Yes">"Sim"</string>
-    <string name="No">"Não"</string>
+    <string name="No">"No"</string>
     <string name="WAIT">"AGUARDE…"</string>
     <string name="Must_Specify_Name_">"Necessário especificar um nome."</string>
 
