@@ -80,7 +80,7 @@
     <string name="CUSTOM_GAMES">"JOGOS PERSONALIZADOS"</string>
     <string name="CHAT">"CHAT"</string>
     <string name="CUSTOM_SETUP">"AJUSTE PERSONALIZADO"</string>
-    <string name="CHAT_SETUP">"CONFIGURAÇÃO DO CHAT"</string>
+    <string name="CHAT_SETUP.">"CONFIGURAÇÃO DO CHAT"</string>
 
 
     <string name="ACCOUNT">"CONTA"</string>
