@@ -31,7 +31,7 @@
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
 
-    <string name="_Rank_">" Posição "</string>
+    <string name="_Rank_">" 위치 "</string>
     <string name="_Alias_">" Apelido "</string>
     <string name="_Score_">" Ponto "</string>
     <string name="Score__">"Ponto: "</string>
@@ -178,7 +178,7 @@
 
     <string name="Perfection">"Perfeição"</string>
     <string name="Single_Handedly">"Uma só Tacada"</string>
-    <string name="Dodgey">"Espertalhão"</string>
+    <string name="Dodgey">"사기꾼"</string>
     <string name="Self_Contained">"Auto-Suficiente"</string>
     <string name="Survivalist">"Sobrevivente"</string>
     <string name="Ultramassive">"Ultramassivo"</string>
