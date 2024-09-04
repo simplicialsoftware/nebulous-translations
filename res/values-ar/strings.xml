@@ -527,12 +527,12 @@
     <string name="SAVE">"حفظ"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"هذا اللاعب لا يملك المستوى الأدنى المسموح به للانضمام إلى هذه العشيرة:"</string>
     <string name="Insufficient_Permission">"لا تملك الإذن"</string>
-    <string name="DOMINATION">"السيطرة"</string>
-    <string name="DOM_Domination">"السيطرة"</string>
-    <string name="DOM_Hat_Trick">"سيطرة ثلاثية"</string>
+    <string name="DOMINATION">"الهيمنة /string>
+    <string name="DOM_Domination">"الهيمنة "</string>
+    <string name="DOM_Hat_Trick">"الهيمنة ثلاثية"</string>
     <string name="Win_by_50_points_in_a_DOM_game_">"الفوز بفارق 50 نقطة في لعبة الهيمنة."</string>
-    <string name="Score_33_points_in_a_single_DOM_game_">"تسجيل 33 نقطة في لعبة سيطرة واحدة."</string>
-    <string name="Win_a_Domination_Game">"الفوز في لعبة السيطرة"</string>
+    <string name="Score_33_points_in_a_single_DOM_game_">"تسجيل 33 نقطة في لعبة الهيمنة واحدة."</string>
+    <string name="Win_a_Domination_Game">"الفوز في لعبة الهيمنة"</string>
     <string name="Select_Team">"اختر فريق"</string>
     <string name="MANAGE_TEAMS">"إدارة الفِرق"</string>
     <string name="CLAN_INVITE">"الدعوة إلى العشيرة"</string>
@@ -611,13 +611,13 @@
     <string name="You_must_be_signed_in_to_Google_">"يجب تسجيل الدخول إلى برنامج Google."</string>
 
     <string name="MAYHEM">"نمط الفوضى"</string>
-    <string name="eggs_">"البيوض."</string>
+    <string name="eggs_">"البيض."</string>
     <string name="Egg_Collector">"جامع البيض"</string>
     <string name="Egg_Hoarder">"مكدس تجميع البيض"</string>
     <string name="Egg_Mogul">"ملك تجميع البيض"</string>
-    <string name="Collect_1_000_eggs_">"جمع 1000 من البيوض."</string>
-    <string name="Collect_5_000_eggs_">"جمع 5000 من البيوض."</string>
-    <string name="Collect_10_000_eggs_">"جمع 10،000 من البيوض."</string>
+    <string name="Collect_1_000_eggs_">"جمع 1000 من البيض."</string>
+    <string name="Collect_5_000_eggs_">"جمع 5000 من البيض."</string>
+    <string name="Collect_10_000_eggs_">"جمع 10،000 من البيض."</string>
     <string name="HISTORY">"السِجِل"</string>
     <string name="CLAN_HISTORY">"سِجِل العشيرة"</string>
 
@@ -861,7 +861,7 @@
     <string name="XP_2x">"مسرع نقاط الخبرة x2"</string>
     <string name="XP_3x">"مسرع نقاط الخبرة x3"</string>
     <string name="NOW">"الآن"</string>
-    <string name="Team_Deathmatch_Domination">"السيطرة في فرق الموت"</string>
+    <string name="Team_Deathmatch_Domination">"الهيمنة في فرق الموت"</string>
     <string name="We_Will_Survive">"سنبقى على قيد الحياة"</string>
     <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"الفوز بفارق لا يقل عن 5 لاعبين في لعبة فريق الموت."</string>
     <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">" يفوز لعبة فريق الموت من دون الفوز في لعبة فريق الموت."</string>
