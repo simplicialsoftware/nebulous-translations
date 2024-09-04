@@ -32,7 +32,7 @@
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
 
     <string name="_Rank_">" المرتبة "</string>
-    <string name="_Alias_">" الإسم المُستعار "</string>
+    <string name="_Alias_">" الإسم مُستعار "</string>
     <string name="_Score_">" النقاط "</string>
     <string name="Score__">"النقاط: "</string>
     <string name="Recombine_">"إعادة التجميع: "</string>
@@ -63,7 +63,7 @@
     <string name="South_America">"امريكا الجنوبية"</string>
 
 
-    <string name="SINGLE_PLAYER">"لاعب واحد"</string>
+    <string name="SINGLE_PLAYER">"لاعب واحِد"</string>
     <string name="Background_">"الخلفية:"</string>
     <string name="Difficulty_">"الصعوبة"</string>
     <string name="Delay_Disconnect">"تأخير قطع الإتصال"</string>
@@ -127,7 +127,7 @@
     <string name="DONE">"تَـم"</string>
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
-    <string name="CONTINUE">"متابعة"</string>
+    <string name="CONTINUE">"مُتابعة"</string>
     <string name="Global_" formatted="false">"عالميا"</string>
     <string name="FRIEND_CHAT">"دردشة الأصدقاء"</string>
     <string name="LOBBY_NAME">"اسم الردهة"</string>
