@@ -782,7 +782,7 @@
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"ملاحظة: يمكنك إلغاء حظر شخص ما عن طريق إرسال طلب صداقة إليه."</string>
     <string name="Select_Friend">"حدد صديق"</string>
     <string name="Failed_to_send_mail_">"فشل في إرسال البريد."</string>
-    <string name="In_Game_Mail">"البريد داخل اللعبة"</string>
+    <string name="In_Game_Mail">"البريد في اللعبة"</string>
     <string name="Nav_Buttons_">"أزرار التواصل:"</string>
     <string name="account_warning">"لا تقم بمشاركة كلمة مرور حسابك مع أي شخص لأي سبب كان.. لايمكننا إسترجاع حسابك إذا تم إختراقه!"</string>
     <string name="Clan_Hero">"بطل العشيرة"</string>
