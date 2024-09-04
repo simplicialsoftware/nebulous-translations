@@ -1272,8 +1272,7 @@
     <string name="You_cannot_play_for_x_minutes_">لاتستطيع اللعب لمُدَّة %d دقيقة.</string>
     <string name="x4_Clan_XP_Perm">4x نقاط خبرة عشيرة دائم!</string>
     <string name="x4_Clan_XP_7_days">4x نقاط خبرة العشيرة لمُدَّة 7 ايَّام.</string>
-    <string name="x4_Clan_XP_1_Day">4x نقاط خبرة العشيرة لمُدَّة يوم</string>
-    <string name="CHARGE_UP">الشُحنْةُ</string>
+    <string name="x4_Clan_XP_1_Day">4x نقاط خبرة العشيرة لمُدَّة يوم</string>   <string name="CHARGE_UP">الشُحنْةُ</string>
     <string name="CLAN_DESCRIPTION_COLOR">لونِ وصف العشيرة</string>
     <string name="Responsible_Pet_Owner">مسؤول الحيوانات الأليفة</string>
     <string name="Animal_Tamer">مُروِّض الحيوان</string>
@@ -1288,7 +1287,7 @@
     <string name="Plain_Score_Text">"نص النقاط"</string>
     <string name="Custom_Skin_Reviewed_Notification">لقد قمنا بمُراجعة سكنك!</string>
     <string name="You_Have_Mail_">لديك رسالة من %s!</string>
-    <string name="Clan_Request_Reviewed_Notification">طلبك للإنضمام للعشيرة %s تمَّت مُراجعتهُ!</string>
+    <string name="Clan_Request_Reviewed_Notification">طلبك للإنضمام للعشيرة %s تمَّت مُراجعه!</string>
     <string name="CRAZY_SPLIT">قسمة على 32x</string>
     <string name="Sold_Community_Skins_">"سكنّات المُجتمع المُباعةُ: "</string>
     <string name="Estimated_Earnings_">"الأرباح المُتوقعة: "</string>
@@ -1343,7 +1342,7 @@ Commands:
     <string name="x5_Clan_XP_1_Day">مسرع العشيرةX5  لمدة يوم واحد </string>
     <string name="x5_Clan_XP_7_days">مسرع العشيرةX5  لمدة سبع ايام</string>
     <string name="x5_Clan_XP_Perm">5X مسرع العشيرة دائم</string>
-    <string name="Quin">5X</string>
+    <string name="Quin">كوين</string>
     <string name="x5_XP_1_Hour">  مسرع X5 لمدة ساعة</string>
     <string name="x5_XP_24_hours">مسرع X5 لمدة 24ساعة</string>
     <string name="x5_XP_Permanent">مسرع دائم X5</string>
@@ -1368,7 +1367,7 @@ Commands:
 - مشاركة تقدمك مع اللاعبين
 - إنشاء وتخصيص الملف الشخصي
 - شراء البلازما في المتجر
-- يمكنك تحميل جلود المجتمع اللاعبين
+- يمكنك تحميل جلود مجتمع اللاعبين
 
 "إذا كنت لا ترغب في تسجيل الدخول، يمكنك أيضًا اللعب الفردي.
     </string>
