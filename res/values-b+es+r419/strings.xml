@@ -926,7 +926,7 @@
     <string name="ENABLED">"HABILITADO"</string>
     <string name="Enable_Custom_Blob_Color">"Habilitar color personalizado del blob"</string>
     <string name="Choose_Menu">"Elije el menú"</string>
-    <string name="SPECTATE">"OBSERBAR"</string>
+    <string name="SPECTATE">"OBSERVAR"</string>
     <string name="INVITE">INVITAR</string>
     <string name="error_1">Únicamente el líder o colíderes pueden enviar un correo al clan</string>
     <string name="Hat">Sombrero</string>
@@ -1255,7 +1255,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="Button_3D">Botón 3D</string>
     <string name="Hide_Button_">¿Ocultar botón?</string>
     <string name="Show_Boost_Button">Mostrar botón de acelerador</string>
-    <string name="Spectate_Killer_On_Death">Obserbar quien te comió</string>
+    <string name="Spectate_Killer_On_Death">Observar quien te comió</string>
     <string name="Rainbow_Holes">Agujero Arcoíris</string>
     <string name="LIFE_STEAL">ROBAR VIDA</string>
     <string name="Kicked_From_Game_">¡Expulsado de un Juego!</string>
