@@ -21,7 +21,7 @@
     <string name="Avatar_">"Skin :"</string>
     <string name="Name_">"Nom :"</string>
 
-    <string name="Loading___">"Chargements… "</string>
+    <string name="Loading___">"Chargement… "</string>
     <string name="Connecting___">"Connexion… "</string>
 
     <string name="Are_You_Sure_">"Êtes-vous sûr ?"</string>
@@ -58,13 +58,13 @@
     <string name="SERVER">"SERVEUR"</string>
     <string name="Joining_game_in_">"Rejoindre la partie "</string>
     <string name="Game_Full">"Partie complète"</string>
-    <string name="US_East">"Amérique Centrale"</string>
-    <string name="US_West">"Amérique du Nord"</string>
+    <string name="US_East">"Amérique de l'ouest"</string>
+    <string name="US_West">"Amérique de l'est"</string>
     <string name="Europe">"Europe"</string>
     <string name="South_America">"Amérique du Sud"</string>
 
 
-    <string name="SINGLE_PLAYER">"UN JOUEUR"</string>
+    <string name="SINGLE_PLAYER">"UN SEUL JOUEUR"</string>
     <string name="Background_">"Arrière-plan :"</string>
     <string name="Difficulty_">"Difficulté :"</string>
     <string name="Delay_Disconnect">"Retarder la déconnexion"</string>
