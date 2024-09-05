@@ -726,7 +726,7 @@
     <string name="contribution_warning">"Tem certeza de que deseja contribuir esta plasma? As contribuições não serão reembolsadas."</string>
     <string name="Upload">"Enviar"</string>
 
-    <string name="upload_warning">"Tem certeza de que deseja enviar esta skin? Outros jogadores serão capazes de ver esta skin. Pode levar até uma semana para a sua skin ser revisada. Skins inapropriadas poderão ser reembolsadas ou rejeitadas, dependendo da gravidade!"</string>
+    <string name="upload_warning">"Tem certeza de que deseja enviar esta skin? Os outros jogadores serão capazes de ver esta skin. Pode levar até uma semana para a sua skin ser revisada. Skins inapropriadas poderão ser reembolsadas ou rejeitadas, dependendo da gravidade!"</string>
 
     <string name="In_Review">"Em Revisão"</string>
     <string name="Account_Uploads">"Envios para a Conta"</string>
@@ -756,7 +756,7 @@
     <string name="inapproriate_info">Skins inapropriadas incluem qualquer coisa que envolva ódio, gore, obscenidade, violência, drogas, sexo, nudez, selfies de corpo inteiro, obscuridade, ininteligibilidade e skins Nebulous não modificadas. Lembrando também que skins sem camisa, mostrando dedo do meio, que contenham drogas/cigarros, decotes, barriga tanquinho, serão reembolsadas ou rejeitadas de acordo com o revisor.</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">Você tem certeza de que deseja enviar esta skin?</string>
     <string name="Grant_Permission">Conceder Permissão</string>
-    <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">O Nebulous precisa da permissão de Armazenamento para backup de seu progresso único jogador!</string>
+    <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">O Nebulous precisa da permissão de Armazenamento para fazer o backup do seu progresso de jogador único!</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">O Nebulous precisa da permissão de Localização para encontrar dispositivos Bluetooth próximos.</string>
     <string name="FFA_ULTRA">FFA ULTRA</string>
     <string name="FFAU">FFAU</string>
