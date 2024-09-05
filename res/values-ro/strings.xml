@@ -1,3 +1,4 @@
+hi
 <resources>
     <string name="Players">"Jucători"</string>
     <string name="Control_">"Control"</string>
@@ -27,9 +28,9 @@
     <string name="Yes">"Da"</string>
     <string name="No">"Nu"</string>
     <string name="WAIT">"AŞTEAPTĂ"</string>
-    <string name="Must_Specify_Name_">"Trebuie să specificați numele"</string>
+    <string name="Must_Specify_Name_">"Trebuie să specificați numele."</string>
 
-    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Evaluarea de conținut a aplicației se poate modifica atunci când găseşti grupuri"</string>
+    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Evaluarea de conținut a aplicației se poate modifica atunci când găseşti grupuri."</string>
 
     <string name="_Rank_">" Rang "</string>
     <string name="_Alias_">" Alias "</string>
