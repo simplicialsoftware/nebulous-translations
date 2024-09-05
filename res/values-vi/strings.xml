@@ -258,13 +258,13 @@
     <string name="SOCCER">"BÓNG ĐÁ"</string>
     <string name="DRAW">"HOÀ"</string>
 
-    <string name="Clan_Name">"Tên Băng Đảng"</string>
-    <string name="Clan">"Băng Đảng"</string>
+    <string name="Clan_Name">"Tên Hội"</string>
+    <string name="Clan">"Hội"</string>
 
 
-    <string name="JOIN_CLAN">"VÀO BĂNG ĐẢNG"</string>
-    <string name="JOIN_RANDOM_CLAN">"VÀO BĂNG ĐẢNG BẤT KÌ"</string>
-    <string name="LEAVE_CLAN">"RỜI BĂNG ĐẢNG"</string>
+    <string name="JOIN_CLAN">"VÀO HỘI"</string>
+    <string name="JOIN_RANDOM_CLAN">"VÀO HỘI BẤT KÌ"</string>
+    <string name="LEAVE_CLAN">"RỜI HỘI"</string>
     <string name="INVITE_MEMBER">"MỜI THÀNH VIÊN"</string>
     <string name="REMOVE_MEMBER">"ĐUỔI THÀNH VIÊN"</string>
 
@@ -276,7 +276,7 @@
     <string name="ELDER">"ĐÀN ANH"</string>
 
 
-    <string name="Not_in_a_clan_">"Không trong băng đảng"</string>
+    <string name="Not_in_a_clan_">"Không trong hội"</string>
 
 
     <string name="CLAN">"HỘI"</string>
