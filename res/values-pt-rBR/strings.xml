@@ -1024,7 +1024,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="Allow_Ultraclick">Permitir Ultraclick</string>
     <string name="Allow_Mass_Boost">Permitir Impulso de Massa</string>
     <string name="Challenges_Won_">Desafios Vencidos:</string>
-    <string name="trophy_info">Troféus são concedidos no final da temporada de cada arena ou arena equipe para o 1º, 2º e 3º lugar. Os troféus serão concedidos apenas em regiões ativas com muitos jogadores.</string>
+    <string name="trophy_info">Os troféus são concedidos no final da temporada de cada arena ou arena equipe para o 1º, 2º e 3º lugar. Os troféus serão concedidos apenas em regiões ativas com muitos jogadores.</string>
     <string name="BLOCKED">BLOQUEADO</string>
     <string name="CLAN_WAR_HISTORY">Histórico de Guerras de Clãs</string>
     <string name="Particle">Partícula</string>
@@ -1041,11 +1041,11 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="POSITION_SPLIT_BUTTON">POSIÇÃO DO BOTÃO DE DIVIDIR-SE</string>
     <string name="POSITION_EJECT_BUTTON">POSIÇÃO DO BOTÃO DE EJETAR</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">POSIÇÃO DO BOTÃO DE ALT. EJETAR</string>
-    <string name="WIFI">WIFI</string>
-    <string name="JOIN_IP">ENTRAR IP</string>
-    <string name="Specify_Host_IP">Especifique o IP</string>
+    <string name="WIFI">WI-FI</string>
+    <string name="JOIN_IP">ENTRAR NO IP</string>
+    <string name="Specify_Host_IP">Especifique o Endereço IP</string>
     <string name="ADVANCED_SETUP">CONFIGURAÇÃO AVANÇADA</string>
-    <string name="WORLD_CUP_EVENT___">EVENTO COPA DO MUNDO!!!</string>
+    <string name="WORLD_CUP_EVENT___">EVENTO DA COPA DO MUNDO!!!</string>
     <string name="world_cup_event_description">XP e Plasma Duplo no Modo Futebol até o fim da copa do mundo!</string>
     <string name="GIF_Skins">Skins Animadas</string>
     <string name="upload_details" translatable="true" tools:ignore="Untranslatable">
@@ -1085,7 +1085,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Absorb_10_000_000_dots">Absorva 10,000,000 pontos</string>
     <string name="Dot_Deity">Divino de Pontos</string>
     <string name="Mass_Mastery">Domínio de Massa</string>
-    <string name="Gain_100_000_000_mass">Obtenha 100,000,000 massa</string>
+    <string name="Gain_100_000_000_mass">Obtenha 100,000,000 de massa</string>
     <string name="VET">VET</string>
     <string name="Mute">Silenciar</string>
     <string name="Unmute">Dessilenciar</string>
@@ -1120,7 +1120,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Level_Colors">Cores do Nível</string>
     <string name="click_info">O Autoclick/Ultraclick não funciona no FFA Clássico!</string>
     <string name="Hooked">Enganchado</string>
-    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Ser puxado por um poder de gancho por 10 segundos</string>
+    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Seja puxado por um poder de gancho por 10 segundos</string>
     <string name="Pack">Pacote</string>
     <string name="Skin_Pack">Pacote de Skin</string>
     <string name="SKIN_PACK">PACOTE DE SKIN</string>
@@ -1153,7 +1153,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="LEAVE">SAIR</string>
     <string name="Group">Grupo</string>
     <string name="Not_in_a_group_">Não está em um grupo.</string>
-    <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">Envie esta ID do grupo para os seus amigos, então eles poderão entrar no grupo:</string>
+    <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">Envie este ID do grupo para os seus amigos, então eles poderão entrar no grupo:</string>
     <string name="Specify_Group_ID" translatable="true" tools:ignore="Untranslatable">Especifique o ID do Grupo</string>
     <string name="Failed">Falhou</string>
     <string name="Joined_group" translatable="true" tools:ignore="Untranslatable">Entrou no grupo</string>
