@@ -286,11 +286,11 @@
     <string name="Show_Clan_Names">"Mostrar clanes"</string>
     <string name="Show_Levels">"Mostrar niveles"</string>
     <string name="SET_MOTD">"ESTABLECER DESCRIPCIÓN"</string>
-    <string name="No_such_user_found_">"No se encontró dicho usuario "</string>
+    <string name="No_such_user_found_">"No se encontró dicho usuario. "</string>
     <string name="No_open_public_clans_exist_">"No existen clanes públicos abiertos "</string>
     <string name="You_aren_t_invited_to_that_clan_">"No has sido invitado a ese clan "</string>
-    <string name="No_such_clan_exists_">"El clan no existe "</string>
-    <string name="That_clan_is_full_">"El clan está lleno "</string>
+    <string name="No_such_clan_exists_">"El clan no existe. "</string>
+    <string name="That_clan_is_full_">"El clan está lleno. "</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Este otro usuario no es un miembro de tu clan "</string>
     <string name="_You_can_t_be_your_own_friend_">"No puedes ser tu propio amigo "</string>
     <string name="A_clan_with_that_name_already_exists_">"Ya existe un clan con ese nombre "</string>
@@ -353,8 +353,8 @@
     <string name="CLAN_WAR">"GUERRA DE CLANES"</string>
     <string name="Clan_War">"Guerra de Clanes"</string>
 
-    <string name="Forming">"Formando"</string>
-    <string name="Searching">"Buscando"</string>
+    <string name="Forming">"Formando…"</string>
+    <string name="Searching">"Buscando…"</string>
     <string name="In_Progress">"En progreso"</string>
 
     <string name="Wins">"Ganadas"</string>
@@ -486,7 +486,7 @@
     <string name="Already_in_queue_">"Ya en la cola "</string>
     <string name="Invalid_Account_ID_">"ID de cuenta inválida "</string>
 
-    <string name="Validating">"Validando"</string>
+    <string name="Validating">"Validando…"</string>
 
     <string name="Randomize">"Aleatorio"</string>
 
@@ -575,7 +575,7 @@
     <string name="Collect_10_000_candies_">"Recoge 10.000 caramelos "</string>
     <string name="candies_">"caramelos "</string>
     <string name="Language">"Idioma"</string>
-    <string name="Control_Opacity_">"Opacidad del control:"</string>
+    <string name="Control_Opacity_">"Controlar Opacidad:"</string>
     <string name="You_dont_own_the_team_">"No eres el dueño del equipo"</string>
     <string name="User_has_already_been_invited_">"Este usuario ya ha sido invitado."</string>
     <string name="Maximum_players_allowed_on_the_team_">"Máximos jugadores permitidos en el equipo"</string>
@@ -623,7 +623,7 @@
     <string name="CLAN_HISTORY">"HISTORIAL DEL CLAN"</string>
 
 
-    <string name="Love_Nebulous_">"Ama Nebulous "</string>
+    <string name="Love_Nebulous_">"Amor Nebuloso "</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoya a Nebulous dándole una calificación "</string>
     <string name="MAYHEM_MODE">"MAYHEM"</string>
     <string name="Times_Teleported_">"Veces teletransportado:"</string>
