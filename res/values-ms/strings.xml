@@ -57,7 +57,7 @@
 
     <string name="SERVER">"SERVER"</string>
     <string name="Joining_game_in_">"Menyertai permainan dalam "</string>
-    <string name="Game_Full">"Permainan Full"</string>
+    <string name="Game_Full">"Permainan Penuh"</string>
     <string name="US_East">"Amerika Timur"</string>
     <string name="US_West">"Amerika Barat"</string>
     <string name="Europe">"Eropah"</string>
@@ -73,13 +73,13 @@
     <string name="Min_Players">"Pemain Minimum"</string>
 
     <string name="OK">"Okay"</string>
-    <string name="CANCEL">"CANCEL"</string>
-    <string name="Chat_Name">"Nama Chat"</string>
+    <string name="CANCEL">"BATAL"</string>
+    <string name="Chat_Name">"Nama Pembual"</string>
     <string name="Max_People">"Maksimum Orang"</string>
     <string name="START">"MULA"</string>
     <string name="CREATE">"MENCIPTA"</string>
     <string name="CUSTOM_GAMES">"PERMAINAN SUAI"</string>
-    <string name="CHAT">"CHAT"</string>
+    <string name="CHAT">"BERBUAL"</string>
     <string name="CUSTOM_SETUP">"SETUP SUAI"</string>
     <string name="CHAT_SETUP">"SETUP CHAT"</string>
 
