@@ -42,13 +42,13 @@
     <string name="Name_Taken_">"الاسم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
-    <string name="PLAYING">"في طور اللعب"</string>
+    <string name="PLAYING">"يلعب"</string>
     <string name="MULTIPLAYER">"متعدد اللاعبين"</string>
 
     <string name="JOIN">"إنضم"</string>
 
 
-    <string name="Lobby_Name">"اسم السيرفر"</string>
+    <string name="Lobby_Name">"اسم الردهة"</string>
     <string name="Not_found_">"لم يتم العثور عليه."</string>
 
     <string name="Hidden">"مخفي"</string>
@@ -91,7 +91,7 @@
     <string name="Signed_in_as_">"تم تسجيل الدخول كـ:"</string>
     <string name="Not_signed_in_">"لم يتم تسجيل الدخول"</string>
     <string name="SET_NAME">"تحديد الإسم"</string>
-    <string name="SIGN_OUT">"تسجيل الخروج من الحساب"</string>
+    <string name="SIGN_OUT">"تسجيل الخروج "</string>
     <string name="ACHIEVEMENTS">"الإنجازات"</string>
     <string name="STATISTICS">"الإحصائيات"</string>
     <string name="XP_">"نقاط الخبرة:"</string>
@@ -104,10 +104,10 @@
     <string name="Single_Player_Stats">"إحصائيات لاعب واحد"</string>
 
     <string name="Level">"المستوى"</string>
-    <string name="PAUSED">"توقف"</string>
+    <string name="PAUSED">"متوقف مؤقتًا"</string>
 
 
-    <string name="FRIENDS">"صَـديـق"</string>
+    <string name="FRIENDS">"اصدقاء"</string>
     <string name="Warning">"تحذير"</string>
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
