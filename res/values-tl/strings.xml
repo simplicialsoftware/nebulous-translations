@@ -292,7 +292,7 @@
     <string name="Pumpkin_Collector">"Pumpkin Kolektor"</string>
     <string name="Collect_1000_pumpkins_">"Kolektahin 1,000 pumpkins."</string>
     <string name="FFAC">"FFAC"</string>
-    <string name="NONE">"NONE"</string>
+    <string name="NONE">"WALA"</string>
     <string name="CLAN_WAR">"CLAN WAR"</string>
     <string name="Clan_War">"Clan War"</string>
     <string name="Forming">"Pagbabalangkas"</string>
@@ -587,7 +587,7 @@
     <string name="edit">"EDIT"</string>
     <string name="start_clan_war">"Simulan ang Clan War"</string>
     <string name="join_clan_war">"Sumali sa Clan War"</string>
-    <string name="none">"Wala"</string>
+    <string name="none">"wala"</string>
     <string name="INVALID_TOKEN">"Hindi wastong Token!"</string>
     <string name="banned_until">"Na-banned hanggang "</string>
     <string name="Note_Collector">"Note Kolektor"</string>
@@ -769,7 +769,7 @@
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Ang Content rating ng app ay maaaring mabago kapag naglalaro ng multiplayer.</string>
     <string name="UI_Opacity_">UI Opacity</string>
     <string name="LOAD">LOAD</string>
-    <string name="REMOVE">REMOVE</string>
+    <string name="REMOVE">TANGGALIN</string>
     <string name="BAN">BAN</string>
     <string name="MODERATORS">MODERATORS</string>
     <string name="ALL_CLAN">ALL\nCLAN</string>
@@ -848,7 +848,7 @@
     <string name="Mission_d_Failed">Ang Misyon %d ay Nabigo (Natalo kayo)!</string>
     <string name="Next_Mission">Susunod na Misyon</string>
     <string name="Objective">Layunin</string>
-    <string name="GAME">GAME</string>
+    <string name="GAME">LARO</string>
     <string name="Saved_">Saved!</string>
     <string name="Name_Opacity_">Ang Opacity ng Pangalan:</string>
     <string name="SET_PROFILE_PIC">I-SET ANG PROFILE PIC</string>
@@ -1079,7 +1079,7 @@
     <string name="Win_10_Tournaments">Manalo ng 10 Tournaments</string>
     <string name="Win_100_Tournaments">Manalo ng 100 Tournaments</string>
     <string name="HERO">HERO</string>
-    <string name="CHAMPION">CKampeon</string>
+    <string name="CHAMPION">Kampeon</string>
     <string name="DASH">DASH</string>
     <string name="setting_changed">Ang Setings ay na-update na. Maaari ka munang mag-reconnect sa server para ito ay um-epekto.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Mag-Perform ng 10,000 tricks sa isang Trick Mode game.</string>
