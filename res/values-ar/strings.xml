@@ -128,7 +128,7 @@
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
     <string name="CONTINUE">"متابعة"</string>
-    <string name="Global_" formatted="false">"عالميا"</string>
+    <string name="Global_" formatted="false">عالمي"</string>
     <string name="FRIEND_CHAT">"دردشة الأصدقاء"</string>
     <string name="LOBBY_NAME">"اسم الردهة"</string>
     <string name="NULL">"لا شيء"</string>
@@ -1171,7 +1171,7 @@
     <string name="Show_Spectator_Count">إظهار عداد المشاهدة</string>
     <string name="TRY_IT_">جربه</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">تحتاج لشراء حزمه لتستخدم هذه</string>
-    <string name="GET_PACK">العودة للوراء</string>
+    <string name="GET_PACK">الحصول على الحزمة</string>
     <string name="Position_in_queue">الموضع في قائمة الأنتظار</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">لون ملفك الشخصي في الخلفية</string>
     <string name="DARK_MATTER">مادة مُظلِمه</string>
