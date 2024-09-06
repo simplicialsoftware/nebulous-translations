@@ -149,18 +149,18 @@
     <string name="Dot_Nibbler">"Punctul Nemâncat"</string>
     <string name="Dot_Muncher">"Punctul Noobalău"</string>
     <string name="Dot_Eater">"Punctul Mâncător"</string>
-    <string name="Dot_Gulper">"Punctul Mărişor"</string>
+    <string name="Dot_Gulper">"Punctul Mărișor"</string>
     <string name="Dot_Gobbler">"Punctul Mâncăcios"</string>
     <string name="Dot_Devourer">"Punctul Devorator"</string>
     <string name="Dot_Gormandizer">"Punctul Gurmand"</string>
     <string name="Dot_Sommelier">"Punctul Nebunatic"</string>
 
-    <string name="Quadra_Gulp">"Cvartet-ul Înghiţiturii"</string>
-    <string name="Multi_Gulp">"Multi Înghiţitura"</string>
-    <string name="Mega_Gulp">"Mega Înghiţitura"</string>
-    <string name="Ultra_Gulp">"Ultra Înghiţitura"</string>
-    <string name="Monster_Gulp">"Înghiţitura Monstru"</string>
-    <string name="Ludicrous_Gulp">"Înghiţitura Ridicolă"</string>
+    <string name="Quadra_Gulp">"Cvartet-ul Înghițiturii"</string>
+    <string name="Multi_Gulp">"Multi Înghițitura"</string>
+    <string name="Mega_Gulp">"Mega Înghițitura"</string>
+    <string name="Ultra_Gulp">"Ultra Înghițitura"</string>
+    <string name="Monster_Gulp">"Înghițitura Monstru"</string>
+    <string name="Ludicrous_Gulp">"Înghițitura Ridicolă"</string>
 
     <string name="Blobicide">"Blobicid"</string>
     <string name="Blobtrocity">"Blobtrocitate"</string>
