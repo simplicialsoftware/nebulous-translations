@@ -1300,10 +1300,10 @@
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">КОЛІР ФОНУ КЛАНУ</string>
     <string name="activate">активувати</string>
-    <string name="clan_id">CLAN ID</string>
-    <string name="language_change_warning">Changing the language will cause the app to restart.</string>
-    <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
+    <string name="clan_id">ІДЕНТИФІКАТОР КЛАНУ</string>
+    <string name="language_change_warning">Зміна мови призведе до перезавантаження програми.</string>
+    <string name="xmas_gift_boost_message">Ви отримали подарунок 3x збільшення плазми на 1 день!</string>
+    <string name="no_response">Немає відповіді від сервера. Будь ласка, перевірте підключення до Інтернету.</string>
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
 
