@@ -498,11 +498,11 @@
     <string name="Standard">"Standard"</string>
     <string name="Achievement">"Realizare"</string>
     <string name="Flag">"Steag"</string>
-    <string name="Win_10_Clan_Wars">"Câștigă 10 Clan War-uri"</string>
-    <string name="Win_100_Clan_Wars">"Câștigă 100 de Clan War-uri"</string>
+    <string name="Win_10_Clan_Wars">"Câștigă 10 Războaie de Clan"</string>
+    <string name="Win_100_Clan_Wars">"Câștigă 100 de Războaie de Clan"</string>
     <string name="Clan_Commander">"Comandant De Clan"</string>
     <string name="Clan_General">"General De Clan"</string>
-    <string name="Clan_Wars_Won_">"Clan War-uri Câștigate:"</string>
+    <string name="Clan_Wars_Won_">"Războaie de Clan Câștigați:"</string>
     <string name="Arenas_Won_">"Arene Câștigate:"</string>
     <string name="Arena_Mode">"Mod Arenă"</string>
     <string name="Connection_Lost">"Conexiune Pierdută"</string>
@@ -522,7 +522,7 @@
     <string name="Show_All">"Arată tot"</string>
 
     <string name="SET_PERMISSIONS">"SETEAZĂ PERMISIUNI"</string>
-    <string name="Start_Clan_War">"Pornește Clan War"</string>
+    <string name="Start_Clan_War">"Pornește Război de Clan"</string>
     <string name="Min_Level">"Nivel Minim"</string>
     <string name="SAVE">"SALVEAZĂ"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Jucătorul nu are nivelul minim necesar pentru a intra în clan."</string>
@@ -696,11 +696,11 @@
     <string name="This_device_does_not_support_bluetooth_">"Acest dispozitiv nu suportă Bluetooth."</string>
     <string name="member_permissions">"permisiuni membri"</string>
     <string name="edit">"editează"</string>
-    <string name="start_clan_war">"pornește clan war"</string>
-    <string name="join_clan_war">"intră în clan war"</string>
+    <string name="start_clan_war">"Pornește Un Război de Clan"</string>
+    <string name="join_clan_war">"Intră În Război de Clan"</string>
     <string name="none">"nimic"</string>
     <string name="INVALID_TOKEN">"TOKEN INVALID"</string>
-    <string name="banned_until">"banat până "</string>
+    <string name="banned_until">"Banat până: "</string>
     <string name="Note_Collector">"Colector de Note"</string>
     <string name="Note_Hoarder">"Acaparatorul Notei"</string>
     <string name="Note_Mogul">"Mogulul Notei"</string>
@@ -762,7 +762,7 @@
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous are nevoie de permisiunea aflării locului de amplasare pentru a găsi dispozitive Bluetooth din apropiere."</string>
     <string name="FFA_ULTRA">"FFA ULTRA"</string>
     <string name="FFAU">"FFAU"</string>
-    <string name="_in_a_FFAU_Game">"într-un joc de FFA ULTRA"</string>
+    <string name="_in_a_FFAU_Game">" într-un joc de FFA ULTRA"</string>
 
     <string name="BANNED_PLAYERS">"JUCĂTORI BLOCAȚI"</string>
     <string name="MAIL">"MAIL"</string>
@@ -787,8 +787,8 @@
     <string name="Nav_Buttons_">"Butoane Navigare:"</string>
     <string name="account_warning">"Niciodată nu partajați parola contului sau informațiile personale cu oricine pentru orice motiv!"</string>
     <string name="Clan_Hero">"Eroul Clanului"</string>
-    <string name="Win_1000_Clan_Wars">"Câștigă 1.000 de Clan War-uri"</string>
-    <string name="NAME_COLOR">"NUME COLOR"</string>
+    <string name="Win_1000_Clan_Wars">"Câștigă 1.000 Războaie de Clan"</string>
+    <string name="NAME_COLOR">"COLOR DE NUME"</string>
     <string name="name_color_instructions">"Selectați caracterele pe care doriți să le modificați, apoi selectați culoarea pentru a le schimba."</string>
     <string name="Cannot_change_this_character_">"Nu se poate schimba acest caracter"</string>
     <string name="ZOMBIE_APOCALYPSE">"APOCALIPSĂ ZOMBIE"</string>
