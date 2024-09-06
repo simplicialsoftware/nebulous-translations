@@ -1048,7 +1048,7 @@ Nebulous 규칙\n
     <string name="Specify_Host_IP">호스트 IP 입력</string>
     <string name="ADVANCED_SETUP">고급 설정</string>
     <string name="WORLD_CUP_EVENT___">월드컵 이벤트!!! </string>
-    <string name="world_cup_event_description">Double XP and Double Plasma in Soccer Mode until the end of the world cup!</string>
+    <string name="world_cup_event_description">월드컵이 끝날 때까지 축구 모드에서 XP 두 배와 플라즈마를 두 배로 획득하세요!</string>
     <string name="GIF_Skins">GIF 스킨들</string>
     <string name="PLAY_ONLINE_">온라인으로 플레이하세요!</string>
     <string name="Absorb_10_000_000_dots">도트 10,000,000 먹기</string>
@@ -1132,7 +1132,7 @@ Nebulous 규칙\n
     <string name="new_person_joined" translatable="true" tools:ignore="Untranslatable">누군가 그룹에 참여했습니다</string>
     <string name="person_left" translatable="true" tools:ignore="Untranslatable">누군가 그룹을 떠났습니다.</string>
     <string name="Left_the_group" translatable="true" tools:ignore="Untranslatable">그룹을 떠났습니다.</string>
-    <string name="Tricks_Performed_">수행 된 트릭 :</string>
+    <string name="Tricks_Performed_">수행된 트릭 :</string>
     <string name="Not_enough_plasma_">플라즈마가 충분하지 않습니다!</string>
     <string name="GET_PLASMA">혈장 도망</string>
     <string name="ASTEROIDS">소행성</string>
