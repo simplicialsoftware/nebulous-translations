@@ -14,7 +14,7 @@
     <string name="Game_Mode_">"نوع اللعبة"</string>
     <string name="Show_Names">"إظهار الأسماء"</string>
     <string name="Show_Avatars">"إظهار الصور"</string>
-    <string name="PLAY">"إلعب"</string>
+    <string name="PLAY">"ألعب"</string>
     <string name="OPTIONS">"الإعدادات"</string>
 
     <string name="Avatar_">"الصورة"</string>
@@ -32,7 +32,7 @@
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
 
     <string name="_Rank_">" المرتبة "</string>
-    <string name="_Alias_">" الإسم المُستعار "</string>
+    <string name="_Alias_">" الإسم المستعار "</string>
     <string name="_Score_">" النقاط "</string>
     <string name="Score__">"النقاط: "</string>
     <string name="Recombine_">"إعادة التجميع: "</string>
@@ -45,7 +45,7 @@
     <string name="PLAYING">"في طور اللعب"</string>
     <string name="MULTIPLAYER">"متعدد اللاعبين"</string>
 
-    <string name="JOIN">"إنضم"</string>
+    <string name="JOIN">"أنضم"</string>
 
 
     <string name="Lobby_Name">"اسم السيرفر"</string>
