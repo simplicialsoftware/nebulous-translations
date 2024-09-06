@@ -128,7 +128,7 @@
     <string name="Friend_Request_Sent">"Pedido de Amizade enviado…"</string>
     <string name="ERROR">"ERRO"</string>
     <string name="CONTINUE">"CONTINUAR"</string>
-    <string name="Global_" formatted="false">"Global %"</string>
+    <string name="Global_" formatted="false">"Global"</string>
     <string name="FRIEND_CHAT">"CHAT DE AMIGOS"</string>
     <string name="LOBBY_NAME">"NOME DA SALA"</string>
     <string name="NULL">"NULL"</string>
