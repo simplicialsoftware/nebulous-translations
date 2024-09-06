@@ -878,7 +878,7 @@
     <string name="SIGN_OUT_ALL_DEVICES">تسجيل الخروج من كل الأجهزة</string>
     <string name="Tournament_Forming">يتم تشكيل البطولة الآن</string>
     <string name="TeamTourneyDescription">يجب عليك أنت وزميلك التسجيل للعب في بطولة الفرق. سوف يتم احتساب كل البلازما عند بدء البطولة ولكن يمكنك إلغاء التسجيل قبل أن تبدأ. تحتاج إلى%d من المتسابقين على الأقل للبدء.</string>
-    <string name="Free_Agent">لاعب حر</string>
+    <string name="Free_Agent">ّلاعب حر</string>
     <string name="This_player_selected_a_different_teammate_"> هذا اللاعب المختار قد إختار زميلاً آخر في الفريق.</string>
     <string name="muted_until"> تم الكتم إلى </string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">تعدد المحتوى من التطبيق قد تتغير عند لعب متعددة.</string>
