@@ -8,7 +8,7 @@
     <string name="Button_Margin_">"إرتفاع الأزرار:"</string>
     <string name="Buttons_">"الأزرار:"</string>
     <string name="DEFAULTS">"الإفتراضي"</string>
-    <string name="WEEKLY">"الأسبوعي"</string>
+    <string name="WEEKLY">"الإسبوعي"</string>
     <string name="DAILY">"اليومي"</string>
     <string name="Server_">"السيرفر"</string>
     <string name="Game_Mode_">"نوع اللعبة"</string>
@@ -482,7 +482,7 @@
     <string name="Win_1000_Arenas">"الفوز بـ1000 تحدي."</string>
 
 
-    <string name="Already_in_arena_">"أنت في تحدي حاليّا"</string>
+    <string name="Already_in_arena_">"أنت في تحدي حاليا"</string>
     <string name="Already_in_queue_">"انت في القائمة حاليا."</string>
     <string name="Invalid_Account_ID_">"رقم هوية الحساب غير صالح."</string>
 
@@ -622,7 +622,7 @@
     <string name="CLAN_HISTORY">"سِجِل العشيرة"</string>
 
 
-    <string name="Love_Nebulous_">"أحب Nebulous"</string>
+    <string name="Love_Nebulous_">"الحب"Nebulous"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"يرجى دعم Nebulous من خلال تقييمها ."</string>
     <string name="MAYHEM_MODE">"تفعيل نمط الفوضى"</string>
     <string name="Times_Teleported_">"عدد مرات الإنتقال:"</string>
@@ -1414,7 +1414,7 @@ Commands:
     </string-array>
 
     <string-array name="sizes">
-        <item>"صغير جدا"</item>
+        <item>"صغير جداً"</item>
         <item>"صغير"</item>
         <item>"عادي"</item>
         <item>"كبير"</item>
