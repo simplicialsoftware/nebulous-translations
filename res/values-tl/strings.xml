@@ -292,7 +292,7 @@
     <string name="Pumpkin_Collector">"Pumpkin Kolektor"</string>
     <string name="Collect_1000_pumpkins_">"Kolektahin 1,000 pumpkins."</string>
     <string name="FFAC">"FFAC"</string>
-    <string name="NONE">"NONE"</string>
+    <string name="NONE">"WALA"</string>
     <string name="CLAN_WAR">"CLAN WAR"</string>
     <string name="Clan_War">"Clan War"</string>
     <string name="Forming">"Pagbabalangkas"</string>
@@ -769,7 +769,7 @@
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Ang Content rating ng app ay maaaring mabago kapag naglalaro ng multiplayer.</string>
     <string name="UI_Opacity_">UI Opacity</string>
     <string name="LOAD">LOAD</string>
-    <string name="REMOVE">REMOVE</string>
+    <string name="REMOVE">TANGGALIN</string>
     <string name="BAN">BAN</string>
     <string name="MODERATORS">MODERATORS</string>
     <string name="ALL_CLAN">ALL\nCLAN</string>
@@ -848,7 +848,7 @@
     <string name="Mission_d_Failed">Ang Misyon %d ay Nabigo (Natalo kayo)!</string>
     <string name="Next_Mission">Susunod na Misyon</string>
     <string name="Objective">Layunin</string>
-    <string name="GAME">GAME</string>
+    <string name="GAME">LARO</string>
     <string name="Saved_">Saved!</string>
     <string name="Name_Opacity_">Ang Opacity ng Pangalan:</string>
     <string name="SET_PROFILE_PIC">I-SET ANG PROFILE PIC</string>
