@@ -1106,16 +1106,16 @@
     <string name="ENEMY">عدو</string>
     <string name="ALLY">حليف</string>
     <string name="Rename">إعادة التسمية</string>
-    <string name="Set_friendly_name_">ضع اسما لصديقك.</string>
-    <string name="Leave_blank_for_none_">اترك فراغا لعدم التغيير.</string>
-    <string name="Vote_Kick">طرد اللاعب</string>
+    <string name="Set_friendly_name_">ضع اسماً لصديقك.</string>
+    <string name="Leave_blank_for_none_">اترك فراغاً لعدم التغيير.</string>
+    <string name="Vote_Kick">صوت لطرد اللاعب</string>
     <string name="FONT">نوع الخط</string>
     <string name="CIRCLE">دائرة</string>
     <string name="SQUARES">مربعات</string>
     <string name="TRICK_MODE">طور الحركات</string>
     <string name="ICE_SPLIT">إنقسام الثلج</string>
     <string name="TRICK_SPLIT">إنقسام الحركات</string>
-    <string name="POP_SPLIT">إنقسام الانفجار</string>
+    <string name="POP_SPLIT">إنقسام الإنفجار</string>
     <string name="PUSH_SPLIT">إنقسام الدفع</string>
     <string name="Level_Colors">ألوان المستوى</string>
     <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكية!</string>
@@ -1173,7 +1173,7 @@
     <string name="You_need_to_buy_a_pack_to_use_this_">تحتاج لشراء حزمه لتستخدم هذه</string>
     <string name="GET_PACK">العودة للوراء</string>
     <string name="Position_in_queue">الموضع في قائمة الأنتظار</string>
-    <string name="PROFILE_MENU_BACKGROUND_COLOR">لون ملفك الشخصي في الخلفية</string>
+    <string name="PROFILE_MENU_BACKGROUND_COLOR">لون الخلفية في ملفك الشخصي</string>
     <string name="DARK_MATTER">مادة مُظلِمه</string>
     <string name="Textures_will_be_regenerated_">سيتم تجديد القوام الأسود والأشكال المخصصة</string>
     <string name="Enable_Profile_Colors">تفعيل الوان الخلفية</string>
@@ -1213,7 +1213,7 @@
     <string name="Video_Ready_">الفيديو جاهز!</string>
     <string name="GIVE_PLASMA">"مَنح بلازما"</string>
     <string name="Specify_amount_">حدد المبلغ:</string>
-    <string name="Specify_amount_again_to_confirm_">حدد المبلغ مرة اخرى للإكمال:</string>
+    <string name="Specify_amount_again_to_confirm_">حدد المبلغ مرة أخرى للتأكيد:</string>
     <string name="Amounts_did_not_match_">المبلغ غير مُتطابق!</string>
     <string name="RECEIVE_PLASMA">تلقي البلازما</string>
     <string name="MULTIBLOB">مُتعددة النُسَخ</string>
@@ -1260,7 +1260,7 @@
     <string name="setting_changed">تحديث الضبط، قد تحتاج إلى إعادة الأتصال بالخادم حتى يتم تفعيله.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">قم بفِعل 10،000 ترك في طور الحركات.</string>
     <string name="Tricky">مخادع</string>
-    <string name="SUPPORTER">مميز</string>
+    <string name="SUPPORTER">مؤيد</string>
     <string name="CONQUEROR">المنتصر</string>
     <string name="TRICKY">مخادع</string>
     <string name="x4_XP_Permanent">4x نقاط خبرة دائِم.</string>
