@@ -216,15 +216,15 @@
     <string name="Reach_a_score_of_15_000">"الوصول إلى 15.000 درجة"</string>
     <string name="Reach_a_score_of_20_000">"الوصول إلى 20.000 درجة"</string>
 
-    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"الوصول إلى ١٠،٠٠٠ درجة دورة أي دائرة"</string>
-    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"الوصول إلى ٥٠٠٠ درجة دون تقسيم أو إخراج"</string>
-    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"لعب ٥ دقائق مباشرة دون الإصطدام مع أي ثقب أسود"</string>
+    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"الوصول إلى 10000 درجة دورة أي دائرة"</string>
+    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"الوصول إلى 5000 درجة دون تقسيم أو إخراج"</string>
+    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"لعب 5 دقائق مباشرة دون الإصطدام مع أي ثقب أسود"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"لعب ٥ دقائق مباشرة دون أن تفقد أي دائرة"</string>
-    <string name="Play_20_minutes_straight_without_restarting">"لعب ٢٠ دقيقة مباشرة دون إعادة تشغيل"</string>
-    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"استيعاب ٥ من الثقوب السوداء بعد ٣٠ ثانية من البداية"</string>
-    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"الوصول إلى ٥٠٠٠ درجة في حدود ١ دقيقة من البداية"</string>
+    <string name="Play_20_minutes_straight_without_restarting">"لعب 20 دقيقة مباشرة دون إعادة تشغيل"</string>
+    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"استيعاب 5 من الثقوب السوداء بعد 30 ثانية من البداية"</string>
+    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"الوصول إلى 5000 درجة في حدود 1 دقيقة من البداية"</string>
     <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"اطلاق ثقب أسود على آخر لاعب أطلق عليك ثقب أسود قبل إعادة التشغيل"</string>
-    <string name="Absorb_5_doges_without_restarting">"استيعاب ٥ من اللاعبين بصورة الكلب دون إعادة تشغيل"</string>
+    <string name="Absorb_5_doges_without_restarting">"استيعاب 5 من اللاعبين بصورة الكلب دون إعادة تشغيل"</string>
 
     <string name="Friends">" الأصدقاء"</string>
     <string name="Dots_Eaten_">"النقاط المأكولة:"</string>
@@ -317,7 +317,7 @@
     <string name="Translations">"المـتـرجمـون"</string>
     <string name="Developers">"المـطـورون"</string>
     <string name="Special_Thanks">"شُـكـر خـاص"</string>
-    <string name="Many_Thanks_To_Every_Nebulous_Fan">"شُـكـر كـبـيـر لـكـل مـشـجـعي Nebulous!"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"شُـكـر كثـيـرًا لـكـل مُـشـجـعي Nebulous!"</string>
     <string name="Color_Blind">"عمى الألوان"</string>
     <string name="Daily_Quest_Complete_">"تم إنجاز المهمة اليومية !"</string>
     <string name="COPY_ID">"نسخ رقم الهوية"</string>
@@ -454,7 +454,7 @@
     <string name="View_Profile">"عرض الصفحة الشخصية"</string>
     <string name="Send_Message">"إرسال رسالة"</string>
     <string name="Account_ID">"رقم هوية الحساب"</string>
-    <string name="Player_Name">"اسم اللاعب"</string>
+    <string name="Player_Name">"إسم اللاعب"</string>
 
     <string name="Daily_Reward">"المكافأة اليومية"</string>
     <string name="Reset">"إعادة تعيين"</string>
@@ -547,7 +547,7 @@
     <string name="Team_Created_">"تم إنشاء الفريق!"</string>
     <string name="Team_Arena">"تحدي الفريق"</string>
     <string name="No_Teams">"لا فِرق"</string>
-    <string name="team_arena_info">"بمجرد إنشاء فريق، يمكنك دعوة الأعضاء وإزالتهم مجانًا. كما أن لعب مباريات الساحة الجماعية مجاني أيضًا. لا يمكنك تغيير اسم فريقك بعد إنشائه!"</string>
+    <string name="team_arena_info">"بمجرد إنشاء فريق، يمكنك دعوة الأعضاء وإزالتهم مجانًا. كما أن لعب مباريات الساحة الجماعية مجاني أيضًا. لا يمكنك تغيير إسم فريقك بعد إنشائه!"</string>
 
 
     <string name="Invited">"تمت الدعوة"</string>
@@ -562,7 +562,7 @@
     <string name="Remove_Player">"إزالة لاعب"</string>
     <string name="Reject_Invitation">"رفض الدعوة"</string>
     <string name="Leave_Game">"الخروج من اللعبة"</string>
-    <string name="Remove_Friend">"أزالة صديق"</string>
+    <string name="Remove_Friend">"إزالة صديق"</string>
     <string name="Remove_Clan_Member">"طرد العضو من العشيرة"</string>
     <string name="Flag_lobby_as_inappropriate">" غير ملائمة"</string>
     <string name="Promote_Clan_Member">"ترقية العضو "</string>
@@ -622,7 +622,7 @@
     <string name="CLAN_HISTORY">"سِجِل العشيرة"</string>
 
 
-    <string name="Love_Nebulous_">"أحب Nebulous"</string>
+    <string name="Love_Nebulous_">"أحب نيبلوس"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"يرجى دعم Nebulous من خلال تقييمها ."</string>
     <string name="MAYHEM_MODE">"تفعيل نمط الفوضى"</string>
     <string name="Times_Teleported_">"عدد مرات الإنتقال:"</string>
@@ -740,11 +740,11 @@
     <string name="CONTRIBUTE_PLASMA">"المساهمة بالبلازما"</string>
     <string name="Specify_Contribution_Amount">" تحديد مبلغ المساهمة"</string>
     <string name="Clan_Contribution">"مساهمة العشيرة "</string>
-    <string name="FILTER">"تصفيّه"</string>
+    <string name="FILTER">"تصفيّة"</string>
     <string name="List_Count_">"عدد القائمة:"</string>
     <string name="Download_Skins">"تحميل الصور"</string>
     <string name="ARENA_HISTORY">" سجل التحديات"</string>
-    <string name="WIN">"انتصار"</string>
+    <string name="WIN">"إنتصار"</string>
     <string name="LOSS">"خسارة"</string>
     <string name="Other_players_can_not_see_your_skin_">"اللاعبون الآخرون لا يمكنهم رؤية صورتك."</string>
     <string name="Other_players_can_see_your_skin_">"اللاعبون الآخرون يمكنهم رؤية صورتك."</string>
@@ -1092,10 +1092,10 @@
     <string name="Community">المجتمع</string>
     <string name="Buy">شراء</string>
     <string name="Sell">بيع</string>
-    <string name="community_skin_information_for_seller" translatable="true">عند جعل سكنك المخصص سكن مجتمعي، سيظهر في علامة التبويب الخاصة بالإسكنات المجتمعية. سيكون بإمكان الآخرين مشاهدة وشراء سكنك المجتمعي! في كل مرة يشتري فيها شخص سكنك المجتمعي، ستحصل أنت (أو عشيرتك) على كمية صغيرة من البلازما. يجب أن تكون الإسكنات المجتمعية خالية من صور لأشخاص حقيقيين!</string>
+    <string name="community_skin_information_for_seller" translatable="true">عند جعل سكنك المخصص سكن مجتمعي، سيظهر في علامة التبويب الخاصة بالإسكنات المجتمعية. سيكون بإمكان الآخرين مشاهدة وشراء سكنك المجتمعي! في كل مرة يشتري فيها شخص سكنك المجتمعي، ستحصل أنت (أو عشيرتك) على كمية صغيرة من البلازما. يجب أن تكون الجلود المجتمعية خالية من صور لأشخاص حقيقيين!</string>
     <string name="community_skin_requirement">يجب عليك شراء الجلد المخصص لكي تستطيع شراء واستعمال جلود المجتمع.</string>
     <string name="You_can_purchase_this_community_skin_for_">تستطيع شراء جلد المجتمع هذا بمقابل</string>
-    <string name="community_skin_information_for_buyer" translatable="true">يتم تحميل سكنات المجتمع من قبل لاعبين آخرين. تعمل هذه السكنات المجتمعية تمامًا مثل السكنات المخصصة، ويمكن تحريكها باستخدام السكنات العادية.</string>
+    <string name="community_skin_information_for_buyer" translatable="true">يتم تحميل جلود المجتمع من قبل لاعبين آخرين. تعمل هذه الجلود المجتمعية تمامًا مثل الجلود المخصصة، ويمكن تحريكها باستخدام الجلود العادية.</string>
     <string name="VIEW_UPLOADER">اظهار صاحب الجلد</string>
     <string name="POPULAR">الشائع</string>
     <string name="NEW">جديد</string>
