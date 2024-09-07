@@ -1396,7 +1396,7 @@ Commands:
         <item>"كومة في اليسار"</item>
         <item>"كومة في اليمين"</item>
         <item>"مخصص"</item>
-    </string-array>
+    </string-array>" صفيف سلسلة">/item> 
 
     <string-array name="themes">
         <item>"نجوم (الظلام)"</item>
