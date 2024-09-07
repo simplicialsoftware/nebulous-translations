@@ -1421,7 +1421,7 @@ Commands:
         <item>"ضخم"</item>
     </string-array>
 
-    <string-array name="clan_war_sizes">
+    <string-array name="أحجام حرب العشائر">
         <item>"صغير (٢ضد٢)"</item>
         <item>"صغير (٣ضد٣)"</item>
         <item>"عادي (٥ضد٥)"</item>
