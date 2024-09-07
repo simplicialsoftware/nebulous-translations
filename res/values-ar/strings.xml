@@ -108,7 +108,7 @@
 
 
     <string name="FRIENDS">"صَـديـق"</string>
-    <string name="Warning">"تحذير"</string>
+    <string name="Warning">"تَحـذيـر"</string>
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
     <string name="REQUEST_FRIEND">"إرسال طلب صداقة"</string>
@@ -397,7 +397,7 @@
     <string name="XP_Boost">"مسرع نقاط الخبرة"</string>
     <string name="Double">"مزدوج"</string>
     <string name="Hour">"ساعة"</string>
-    <string name="Hours">"ساعات"</string>
+    <string name="Hours">"سَاعَات"</string>
 
 
     <string name="Triple">"ثلاثي"</string>
@@ -447,7 +447,7 @@
 
 
     <string name="Temporarily_Disabled_">"موقوف مؤقتا."</string>
-    <string name="BIGGEST">"أكبر"</string>
+    <string name="BIGGEST">"إكبر"</string>
 
 
     <string name="Copy_ID">"نسخ رقم الهوية"</string>
@@ -541,7 +541,7 @@
     <string name="Team_Name">"اسم الفريق"</string>
     <string name="CREATE_TEAM">"إنشاء فريق"</string>
     <string name="Solo">"منفرد"</string>
-    <string name="Teams">"الفِرق"</string>
+    <string name="Teams">"فرق"</string>
     <string name="Team">"الفريق"</string>
     <string name="Specify_Account_ID">"تحديد رقم هوية الحساب"</string>
     <string name="Team_Created_">"تم إنشاء الفريق!"</string>
