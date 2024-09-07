@@ -1160,7 +1160,7 @@
     <string name="Tricks_Performed_">:أداء الحركات</string>
     <string name="Not_enough_plasma_">بلازما غير كافية</string>
     <string name="GET_PLASMA">إحصل على بلازما</string>
-    <string name="ASTEROIDS">شُهُب</string>
+    <string name="ASTEROIDS">الكويكبات</string>
     <string name="CHRISTMAS">كريسماس</string>
     <string name="Reason">السبب</string>
     <string name="PUBLIC">عـامة</string>
@@ -1414,7 +1414,7 @@ Commands:
     </string-array>
 
     <string-array name="sizes">
-        <item>"صغير جدا"</item>
+        <item>"صغير جدأ"</item>
         <item>"صغير"</item>
         <item>"عادي"</item>
         <item>"كبير"</item>
