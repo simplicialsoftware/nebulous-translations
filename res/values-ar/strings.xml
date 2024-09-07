@@ -1019,7 +1019,7 @@
     <string name="Select_some_text_first">حدد بعض النص أولاً</string>
     <string name="Save_the_profile_first">احفظ ملف التعريف أولاً</string>
     <string name="Birthday">يوم الميلاد</string>
-    <string name="Mass_Boost">تعزيز الكتلة !</string>
+    <string name="Mass_Boost">تعزيز الكُتلة !</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">لا يَعمل تعزيز الكُتلة في التحديّات أو البُطولات أو حُروب العشّائر!</string>
     <string name="ArenaDescriptionPure">لا ضغط التلقائي أو مسرع الضغط. تحصل على حياة واحدة فقط. سوف يتلقى الفائز %s بلازما.</string>
     <string name="_1v1_Pure">١ضد١ نقي</string>
