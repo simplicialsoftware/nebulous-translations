@@ -285,7 +285,7 @@
     <string name="Specify_Clan_ID">"Specifică ID-ul Clanului"</string>
     <string name="Show_Clan_Names">"Arată Numele Clanurilor"</string>
     <string name="Show_Levels">"Arată Nivele"</string>
-    <string name="SET_MOTD">"SETEAZĂ MZ"</string>
+    <string name="SET_MOTD">"SETEAZĂ MD"</string>
     <string name="No_such_user_found_">"Niciun astfel de utilizator găsit."</string>
     <string name="No_open_public_clans_exist_">"Nu există niciun clan public deschis."</string>
     <string name="You_aren_t_invited_to_that_clan_">"Nu ești invitat în acest clan."</string>
