@@ -499,7 +499,7 @@
     <string name="Achievement">"Realizare"</string>
     <string name="Flag">"Steag"</string>
     <string name="Win_10_Clan_Wars">"Câștigă 10 Războaie de Clan"</string>
-    <string name="Win_100_Clan_Wars">"Câștigă 100 de Războaie de Clan"</string>
+    <string name="Win_100_Clan_Wars">"Câștigă 100 Războaie de Clan"</string>
     <string name="Clan_Commander">"Comandant De Clan"</string>
     <string name="Clan_General">"General De Clan"</string>
     <string name="Clan_Wars_Won_">"Războaie de Clan Câștigați:"</string>
@@ -527,7 +527,7 @@
     <string name="SAVE">"SALVEAZĂ"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Jucătorul nu are nivelul minim necesar pentru a intra în clan."</string>
     <string name="Insufficient_Permission">"Permisiune Insuficientă"</string>
-    <string name="DOMINATION">"DOMINAŢIE"</string>
+    <string name="DOMINATION">"DOMINAȚIE"</string>
     <string name="DOM_Domination">"Dominarea Dominației"</string>
     <string name="DOM_Hat_Trick">"Hat Trick în Dominație"</string>
     <string name="Win_by_50_points_in_a_DOM_game_">"Câștigă cu 50 de puncte diferență într-un joc de Dominație"</string>
@@ -552,7 +552,7 @@
 
     <string name="Invited">"Invitat"</string>
     <string name="Invitation_Sent">"Invitația a fost trimisă"</string>
-    <string name="REPORT">"REPORT"</string>
+    <string name="REPORT">"RAPORT"</string>
     <string name="Reported">"Raportat"</string>
     <string name="Threats">"Amenințări"</string>
     <string name="Spam">"Spam"</string>
