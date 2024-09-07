@@ -285,10 +285,10 @@
     <string name="Specify_Clan_ID">"Specifică ID-ul Clanului"</string>
     <string name="Show_Clan_Names">"Arată Numele Clanurilor"</string>
     <string name="Show_Levels">"Arată Nivele"</string>
-    <string name="SET_MOTD">"SETEAZĂ MOTD"</string>
+    <string name="SET_MOTD">"SETEAZĂ MZ"</string>
     <string name="No_such_user_found_">"Niciun astfel de utilizator găsit."</string>
     <string name="No_open_public_clans_exist_">"Nu există niciun clan public deschis."</string>
-    <string name="You_aren_t_invited_to_that_clan_">"Nu eşti invitat în acest clan."</string>
+    <string name="You_aren_t_invited_to_that_clan_">"Nu ești invitat în acest clan."</string>
     <string name="No_such_clan_exists_">"Nu există un astfel de clan."</string>
     <string name="That_clan_is_full_">"Clanul e plin."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Alt utilizator nu este un membru al clanului tău."</string>
@@ -309,7 +309,7 @@
     <string name="Win_by_3_points_in_a_CTF_game_">"Câștigă cu 3 puncte diferență într-un joc CTF."</string>
     <string name="Score_3_points_in_a_single_CTF_game_">"Adună 3 puncte într-un singur joc CTF."</string>
     <string name="Win_by_2_500_points_in_a_Survival_game_">"Câștigă cu 2.500 de puncte diferență într-un joc de Supraviețuire."</string>
-    <string name="Survive_but_do_not_win_a_survival_game_">"Supraviețuieşte dar nu câștiga un joc de Supraviețuire."</string>
+    <string name="Survive_but_do_not_win_a_survival_game_">"Supraviețuiește dar nu câștiga un joc de Supraviețuire."</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"Câștigă cu 8 puncte diferență într-un meci de fotbal."</string>
     <string name="Score_3_goals_in_a_single_Soccer_game_">"Dă 3 goluri într-un singur meci de fotbal."</string>
     <string name="Total_Domination">"Dominare Totală"</string>
