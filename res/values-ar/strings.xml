@@ -553,7 +553,7 @@
     <string name="Invited">"تمت الدعوة"</string>
     <string name="Invitation_Sent">" تم إرسال الدعوة "</string>
     <string name="REPORT">"تقرير"</string>
-    <string name="Reported">"تم إرسال التقرير"</string>
+    <string name="Reported">"تم الإبلاغ عنه"</string>
     <string name="Threats">"التهديدات"</string>
     <string name="Spam">"إزعاج"</string>
     <string name="Other">"آخر"</string>
@@ -793,7 +793,7 @@
     <string name="ZOMBIE_APOCALYPSE">"هجوم الزومبي"</string>
     <string name="Survive_a_Zombie_Apocalypse">"النجاة في هجوم الزومبي"</string>
     <string name="ZA">"الزومبي"</string>
-    <string name="Pandemic">"الزومبي"</string>
+    <string name="Pandemic">"الوباء"</string>
     <string name="Immunity">"حصانة"</string>
     <string name="Win_as_zombies_in_2_minutes_or_less_">" الفوز مع الزومبي قبل النهاية بدقيقتين او اقل."</string>
     <string name="Win_as_survivors_with_no_losses_">"الفوز مع الناجين من دون أي خسائر."</string>
