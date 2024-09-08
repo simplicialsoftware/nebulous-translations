@@ -48,7 +48,7 @@
     <string name="JOIN">"إنضم"</string>
 
 
-    <string name="Lobby_Name">"اسم السيرفر"</string>
+    <string name="Lobby_Name">"أسم السيرفر"</string>
     <string name="Not_found_">"لم يتم العثور عليه."</string>
 
     <string name="Hidden">"مخفي"</string>
@@ -71,7 +71,7 @@
     <string name="Max_Players">"الحد الأقصى للاعبين"</string>
     <string name="Min_Players">"الحد الأدنى للاعبين"</string>
 
-    <string name="OK">"حسنا"</string>
+    <string name="OK">"حسنًا"</string>
     <string name="CANCEL">"إلغاء"</string>
     <string name="Chat_Name">"اسم الدردشة"</string>
     <string name="Max_People">"الحد الأقصى للناس"</string>
@@ -606,7 +606,7 @@
     <string name="copied_error_details_to_clipboard">"تم نسخ تفاصيل الخطأ إلى الحافظة"</string>
 
     <string name="No_file_browser_installed_">"لا ملف متصفح مثبت!"</string>
-    <string name="Choose_File">"اختر ملف"</string>
+    <string name="Choose_File">"أختر ملف"</string>
     <string name="Google_Profile">"الملف الشخصي في Google"</string>
     <string name="You_must_be_signed_in_to_Google_">"يجب تسجيل الدخول إلى برنامج Google."</string>
 
