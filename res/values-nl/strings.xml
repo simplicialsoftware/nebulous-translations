@@ -1253,9 +1253,9 @@ Merk je dat een speler de spelregels heeft overtreden, meld dit dan aan een Mode
     <string name="Plasma_Boost_1_Day_">Plasma Boost 1 dag!</string>
     <string name="Plasma_Boost_2_Hours_">Plasma Boost 2 uren.</string>
     <string name="Plasma_Boost">Plasma Boost</string>
-    <string name="particle_info">Je moet minimaal level 50 zijn en een basishuid met deeltjes gebruiken om eventuele deeltjes te kunnen zien.</string>
+    <string name="particle_info">>Je moet minstens level 50 zijn en een basisuiterlijk met deeltjes gebruiken om de deeltjes te kunnen zien.</string>
     <string name="Plain_Score_Text">"gewone partituurtekst"</string>
-    <string name="Custom_Skin_Reviewed_Notification">Je aangepaste huid is beoordeeld!</string>
+    <string name="Custom_Skin_Reviewed_Notification">Je aangepaste uiterlijk is beoordeeld!</string>
     <string name="You_Have_Mail_">Je hebt post van %s!</string>
     <string name="Clan_Request_Reviewed_Notification">Your Request To Join Clan %s Been Reviewed!</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
@@ -1278,9 +1278,9 @@ Merk je dat een speler de spelregels heeft overtreden, meld dit dan aan een Mode
 Commands:
 !kick [0–31]
 !reset
-!welkom {bericht}
-!moeilijkheid [0-3] or [1-4] voor campaigne
-!verstopt
+!welcome {bericht}
+!difficulty [0-3] or [1-4] voor campaigne
+!hidden
 !guests
 !slowchat
 !pausechat
@@ -1305,7 +1305,7 @@ Commands:
     <string name="Type">Typen</string>
     <string name="Complete_campaign_mission_">Voltooi Campaign missie</string>
     <string name="Specify_Reason_">Geef reden op:</string>
-    <string name="FREE_FOR_ALL">GRATIS VOOR IEDEREEN</string>
+    <string name="FREE_FOR_ALL">IEDEREEN VOOR ZICH</string>
     <string name="SPECIAL">SPECIAAL</string>
     <string name="FREE">GRATIS</string>
     <string name="x5_Clan_XP_1_Day">5X CLAN XP 1 DAG</string>
@@ -1329,10 +1329,10 @@ Commands:
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">PLOTSELINGE AANVAL</string>
     <string name="_2x_skin_resolution">2x Skin Resolutie</string>
-    <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="pm">PB</string>
+    <string name="You_are_already_friends_">Jullie zijn al vrienden.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Het account moet 1 dag oud zijn om e-mails te kunnen versturen.</string>
+    <string name="Translator">Vertaler</string>
     <string name="SUCCESS">SUCCESS</string>
 
 

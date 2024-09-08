@@ -35,7 +35,7 @@
     <string name="_Alias_">" Kod nav "</string>
     <string name="_Score_">" Jihevkiri "</string>
     <string name="Score__">"Jihevkiri: "</string>
-    <string name="Recombine_">"ji nû ve bibin yek "</string>
+    <string name="Recombine_">"Ji nû ve bibin yek "</string>
     <string name="WINNER_">"SERKETÎ:"</string>
     <string name="IDLE">"BÊÇALAK"</string>
     <string name="Name_Invalid_">"Navê lîstokan"</string>
@@ -65,7 +65,7 @@
 
     <string name="SINGLE_PLAYER">"Listikvan TENÊ"</string>
     <string name="Background_">"Paşî:"</string>
-    <string name="Difficulty_">"zehmetî"</string>
+    <string name="Difficulty_">"Zehmetî"</string>
     <string name="Delay_Disconnect">"Gıredane bıbıre"</string>
 
     <string name="Max_Players">"Zedetir listikvan"</string>
@@ -122,7 +122,7 @@
     <string name="Online">"Liser ser nete"</string>
     <string name="Unknown">"Nezanin"</string>
     <string name="Offline">"Ne girêdayî"</string>
-    <string name="Achievement_Earned">"serkeftinê xistiye"</string>
+    <string name="Achievement_Earned">"Serkeftinê Xistiye"</string>
     <string name="REFRESH">"Nu kırın"</string>
     <string name="DONE">"BILA"</string>
     <string name="Friend_Request_Sent">"Hevalê xwe re bişîne Daxwaza şandin …"</string>

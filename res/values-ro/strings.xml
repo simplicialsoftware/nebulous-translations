@@ -1270,7 +1270,7 @@ Comenzi:
 !stats
 !info"
 </string>
-    <string name="ID_Sort">ID Sort</string>
+    <string name="ID_Sort">Sortare ID</string>
     <string name="Master_Tamer">Master Tamer</string>
     <string name="Get_ALL_Pets_To_Level_100_">Get ALL Pets To Level 100</string>
     <string name="TAMER">TAMER</string>
@@ -1300,19 +1300,19 @@ Comenzi:
     <string name="XP_5x">XP 5x</string>
     <string name="India">India</string>
     <string name="Tutorial">Tutorial</string>
-    <string name="TYCOON">TYCOON</string>
-    <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
-    <string name="activate">Activate</string>
-    <string name="clan_id">CLAN ID</string>
-    <string name="language_change_warning">Changing the language will cause the app to restart.</string>
+    <string name="TYCOON">MAGNAT</string>
+    <string name="CLAN_BACKGROUND_COLOR">CULOAREA FUNDALULUI CLAN-ULUI</string>
+    <string name="activate">Activează</string>
+    <string name="clan_id">ID CLAN</string>
+    <string name="language_change_warning">Schimbarea limbii va determina repornirea aplicației.</string>
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
+    <string name="no_response">Fără răspuns de la server. Vă rugăm să verificați conexiunea la internet.</string>
     <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="SUDDEN_ATTACK">ATAC BRUSC</string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="You_are_already_friends_">Sunteți deja prieteni.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Contul trebuie să aibă o vechime de 1 zi pentru a trimite emailuri.</string>
     <string name="Translator">Traducător</string>
     <string name="SUCCESS">CU SUCCES</string>
 
