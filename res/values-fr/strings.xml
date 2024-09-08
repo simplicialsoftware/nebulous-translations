@@ -1364,7 +1364,7 @@ Commandes:
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">COULEUR DE FOND DU CLAN</string>
     <string name="activate">Activer</string>
-    <string name="clan_id">CLAN ID</string>
+    <string name="clan_id">ID DE CLAN</string>
     <string name="language_change_warning">Vous devrez peut-être redémarrer le jeu.</string>
     <string name="xmas_gift_boost_message">tu as reçu un cadeau de 3x plasma boost pendant 1 jour!</string>
     <string name="no_response">"Pas de réponse du serveur. S'il vous plaît veuillez verifiez votre connexion internet."</string>
