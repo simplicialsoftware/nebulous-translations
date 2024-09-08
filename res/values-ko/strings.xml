@@ -1132,7 +1132,7 @@ Nebulous 규칙\n
     <string name="new_person_joined" translatable="true" tools:ignore="Untranslatable">누군가 그룹에 참여했습니다</string>
     <string name="person_left" translatable="true" tools:ignore="Untranslatable">누군가 그룹을 떠났습니다.</string>
     <string name="Left_the_group" translatable="true" tools:ignore="Untranslatable">그룹을 떠났습니다.</string>
-    <string name="Tricks_Performed_">수행 된 트릭 :</string>
+    <string name="Tricks_Performed_">수행된 트릭 :</string>
     <string name="Not_enough_plasma_">플라즈마가 충분하지 않습니다!</string>
     <string name="GET_PLASMA">혈장 도망</string>
     <string name="ASTEROIDS">소행성</string>
