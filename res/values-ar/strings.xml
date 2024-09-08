@@ -1398,7 +1398,7 @@ Commands:
         <item>"مخصص"</item>
     </string-array>
 
-    <string-array name="themes">
+    <string-array name="خلفيات">
         <item>"نجوم (الظلام)"</item>
         <item>"خطوط(الظلام)"</item>
         <item>"خطوط(الأبيض)"</item>
@@ -1413,7 +1413,7 @@ Commands:
         <item>"صعب جداً"</item>
     </string-array>
 
-    <string-array name="sizes">
+    <string-array name="حجم">
         <item>"صغير جدا"</item>
         <item>"صغير"</item>
         <item>"عادي"</item>
@@ -1421,7 +1421,7 @@ Commands:
         <item>"ضخم"</item>
     </string-array>
 
-    <string-array name="clan_war_sizes">
+    <string-array name="مقاس حرب الكلانات">
         <item>"صغير (٢ضد٢)"</item>
         <item>"صغير (٣ضد٣)"</item>
         <item>"عادي (٥ضد٥)"</item>
