@@ -1263,7 +1263,7 @@
 !slowchat - змінити повільний чат
 !pausechat - призупинити чат на деякий час
 !mute {id}
-!admin {id}
+!admin {id} Додати адміністратора до кімнати
 !allow {id}
 !allow reset"
 </string>
