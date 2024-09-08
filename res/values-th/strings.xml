@@ -1266,7 +1266,7 @@
     <string name="South_Africa">แอฟริกาใต้</string>
     <string name="SPLIT_">แยก:</string>
     <string name="WALLS">ผนัง</string>
-    <string name="COMP_BANNED">COMP BANNED</string>
+    <string name="COMP_BANNED">คอมพ์ถูกแบน</string>
     <string name="FIND_GAMES">หาห้องเกม</string>
     <string name="PLAY_SOLO">เล่นคนเดียว</string>
     <string name="SET_EMOTE">ตั้งค่าอิโมท</string>
@@ -1376,7 +1376,7 @@
         <item>"เล็ก"</item>
         <item>"ปกติ"</item>
         <item>"ใหญ่"</item>
-        <item>"HUGE"</item>
+        <item>"มหึมา"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
