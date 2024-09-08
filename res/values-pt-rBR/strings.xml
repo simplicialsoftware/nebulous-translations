@@ -210,14 +210,14 @@
     <string name="Absorb_160_player_blobs_without_restarting">"Absorva 160 blobs de jogadores sem reiniciar"</string>
     <string name="Absorb_240_player_blobs_without_restarting">"Absorva 240 blobs de jogadores sem reiniciar"</string>
 
-    <string name="Reach_a_score_of_1_000">"Atinja uma pontuação de 1000"</string>
-    <string name="Reach_a_score_of_5_000">"Atinja uma pontuação de 5000"</string>
+    <string name="Reach_a_score_of_1_000">"Atinja uma pontuação de 1.000"</string>
+    <string name="Reach_a_score_of_5_000">"Atinja uma pontuação de 5.000"</string>
     <string name="Reach_a_score_of_10_000">"Atinja uma pontuação de 10.000"</string>
     <string name="Reach_a_score_of_15_000">"Atinja uma pontuação de 15.000"</string>
     <string name="Reach_a_score_of_20_000">"Atinja uma pontuação de 20.000"</string>
 
     <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Atinja uma pontuação de 10.000, sem perder nenhum blob"</string>
-    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Atinja uma pontuação de 5000, sem dividir-se ou ejetar massa"</string>
+    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Atinja uma pontuação de 5.000, sem dividir-se ou ejetar massa"</string>
     <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Jogue 5 minutos seguidos, sem colidir com um buraco negro"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"Jogue 5 minutos seguidos, sem perder nenhum blob"</string>
     <string name="Play_20_minutes_straight_without_restarting">"Jogue 20 minutos seguidos sem reiniciar"</string>
@@ -346,7 +346,7 @@
     <string name="To_use_this_skin_you_must_collect">"Para usar esta skin, você deve coletar"</string>
     <string name="Australia">"Austrália"</string>
     <string name="Pumpkin_Collector">"Coletor de Abóbora"</string>
-    <string name="Collect_1000_pumpkins_">"Coletar 1000 abóboras."</string>
+    <string name="Collect_1000_pumpkins_">"Coletar 1.000 abóboras."</string>
 
     <string name="FFAC">"FFAC"</string>
     <string name="NONE">"NENHUM"</string>
@@ -393,7 +393,7 @@
     <string name="Current">"Atual"</string>
     <string name="leaves_">"folhas."</string>
     <string name="Leaf_Collector">"Coletor de Folhas"</string>
-    <string name="Collect_1000_leaves_">"Colete 1000 folhas."</string>
+    <string name="Collect_1000_leaves_">"Colete 1.000 folhas."</string>
     <string name="XP_Boost">"Impulso de XP"</string>
     <string name="Double">"Duplo"</string>
     <string name="Hour">"Hora"</string>
@@ -402,7 +402,7 @@
 
     <string name="Triple">"Triplo"</string>
     <string name="Leaf_Hoarder">"Acumulador de Folhas"</string>
-    <string name="Collect_5000_leaves_">"Colete 5000 folhas."</string>
+    <string name="Collect_5000_leaves_">"Colete 5.000 folhas."</string>
 
 
     <string name="Arena">"Arena"</string>
@@ -479,7 +479,7 @@
     <string name="Win_1_1v1_Arenas_">"Vencer uma Arena."</string>
     <string name="Win_10_Arenas_">"Vencer 10 Arenas."</string>
     <string name="Win_100_Arenas_">"Vencer 100 Arenas."</string>
-    <string name="Win_1000_Arenas">"Vencer 1000 Arenas."</string>
+    <string name="Win_1000_Arenas">"Vencer 1.000 Arenas."</string>
 
 
     <string name="Already_in_arena_">"Já está na arena."</string>
@@ -622,13 +622,13 @@
     <string name="CLAN_HISTORY">"HISTÓRICO DO CLÃ"</string>
 
 
-    <string name="Love_Nebulous_">"Ama o Nebulous?"</string>
+    <string name="Love_Nebulous_">"Adora o Nebulous?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoie o Nebulous classificando-o."</string>
     <string name="MAYHEM_MODE">"MODO MAYHEM"</string>
     <string name="Times_Teleported_">"Vezes Teleportado:"</string>
     <string name="Powerups_Used_">"Poderes Usado:"</string>
     <string name="Power_Hungry">"Esfomeado de Poderes"</string>
-    <string name="Over_9000">"Mais de 9000"</string>
+    <string name="Over_9000">"Mais de 9.000"</string>
     <string name="Omnipresence">"Onipresença"</string>
 
     <string name="Shoot_9001_Powerups">"Atire 9001 Poderes"</string>
@@ -682,7 +682,7 @@
     <string name="Collect_5_000_suns_">"Colete 5.000 sóis."</string>
     <string name="Collect_10_000_suns_">"Colete 10.000 sóis."</string>
     <string name="Reward_Videos_">"Vídeos de Recompensa!"</string>
-    <string name="Free_Plasma_">"Plasma Grátis!"</string>
+    <string name="Free_Plasma_">"Plasmas Grátis!"</string>
     <string name="moons_">"luas."</string>
     <string name="Moon_Collector">"Coletor de Luas"</string>
     <string name="Moon_Hoarder">"Colecionador de Luas"</string>
