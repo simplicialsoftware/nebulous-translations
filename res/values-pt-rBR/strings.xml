@@ -751,7 +751,7 @@
     <string name="Win_10000_Arenas">Ganhar 10,000 Arenas</string>
     <string name="UPLOAD_PREVIEW">PRÉVIA DO ENVIO</string>
     <string name="Transparency">Transparência</string>
-    <string name="upload_info">Você pode conseguir uma melhor qualidade, sem transparência ou com imagens simples.</string>
+    <string name="upload_info">Você pode conseguir uma qualidade melhor, sem transparência ou com imagens simples.</string>
     <string name="Compression_Quality_">Qualidade de Compressão:</string>
     <string name="inapproriate_info">Skins inapropriadas incluem qualquer coisa que envolva ódio, gore, obscenidade, violência, drogas, sexo, nudez, selfies de corpo inteiro, obscuridade, ininteligibilidade e skins Nebulous não modificadas. Lembrando também que skins sem camisa, mostrando dedo do meio, que contenham drogas/cigarros, decotes, barriga tanquinho, serão reembolsadas ou rejeitadas de acordo com o revisor.</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">Você tem certeza de que deseja enviar esta skin?</string>
@@ -1057,7 +1057,7 @@ Em Revisão (Amarelo): Significa que a skin está sendo revisada, você deve esp
 
 Aprovado (Verde): A skin pode ser vista por outros jogadores.
 
-Reembolsado (Laranja): Você recebeu reembolso da skin pois não atende aos padrões estabelecidos, você deve selecionar alguma outra imagem que não seja a mesma.
+Reembolsado (Laranja): Você recebeu o reembolso da skin pois não atende aos padrões estabelecidos, você deve selecionar alguma outra imagem que não seja a mesma.
 
 Rejeitado (Vermelho): Isso significa que sua skin não poderá ser vista por outros jogadores, porque possui conteúdo inadequado, seu plasma não será devolvido.
 
