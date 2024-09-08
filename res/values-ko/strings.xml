@@ -38,7 +38,7 @@
     <string name="Score__">"점수: "</string>
     <string name="Recombine_">"재결합:"</string>
     <string name="WINNER_">"우승자:"</string>
-    <string name="IDLE">"유휴 상태"</string>
+    <string name="IDLE">"자리비움"</string>
     <string name="Name_Invalid_">"잘못된 이름입니다."</string>
     <string name="Name_Taken_">"이름이 사용중입니다."</string>
     <string name="CONNECTED">"연결 됨"</string>
@@ -129,7 +129,7 @@
     <string name="Friend_Request_Sent">"친구 요청이 전송되었습니다 …"</string>
     <string name="ERROR">"오류"</string>
     <string name="CONTINUE">"계속"</string>
-    <string name="Global_" formatted="false">"글로벌 %"</string>
+    <string name="Global_" formatted="false">"글로벌"</string>
     <string name="FRIEND_CHAT">"친구 채팅"</string>
     <string name="LOBBY_NAME">"방 이름"</string>
     <string name="NULL">"존재하지 않음"</string>
