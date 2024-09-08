@@ -1314,7 +1314,7 @@ Lệnh:
     <string name="You_are_already_friends_">Các bạn đã là bạn.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
     <string name="Translator">Người Dịch</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">THÀNH CÔNG</string>
 
 
     <string-array name="control_modes">
