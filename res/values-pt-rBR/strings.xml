@@ -1366,7 +1366,7 @@ Comandos:
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Permissões ausentes</string>
     <string name="DELETE_ACCOUNT">EXCLUIR CONTA</string>
-    <string name="delete_prompt">Você tem certeza que quer excluir sua conta? Esta ação é PERMANENTE e NÃO PODE SER DESFEITA!</string>
+    <string name="delete_prompt">Você tem certeza de que deseja excluir sua conta? Esta ação é PERMANENTE e NÃO PODE SER DESFEITA!</string>
 
 
     <string name="Type">Digite</string>
