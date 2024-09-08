@@ -596,7 +596,7 @@
     <string name="PRIZES">"PREMII"</string>
 
     <string name="Enable_Custom_Skin">"Activează Skin-ul Personalizat"</string>
-    <string name="Use_Custom_Skin">"Skin-ul/nPersonalizat"</string>
+    <string name="Use_Custom_Skin">"Skin-ul\nPersonalizat"</string>
     <string name="custom_skin_description">"Această caracteristică vă permite să utilizați fotografia de profil sau un fişier ca skin-ul tău. Acest skin îl vei vedea numai TU. Alte persoane NU vor vedea skinul tău personalizat."</string>
     <string name="CUSTOM_SKIN">"SKIN PERSONALIZAT"</string>
 
