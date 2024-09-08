@@ -485,7 +485,7 @@
 
     <string name="Already_in_arena_">"Bereits in der Arena."</string>
     <string name="Already_in_queue_">"Bereits in der Warteschlange."</string>
-    <string name="Invalid_Account_ID_">"Diese Konto-ID gibt es nicht."</string>
+    <string name="Invalid_Account_ID_">"Diese Konto-ID existiert nicht."</string>
 
     <string name="Validating">"Validierung"</string>
 
