@@ -1305,14 +1305,14 @@ Commands:
     <string name="language_change_warning">Changing the language will cause the app to restart.</string>
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
     <string name="no_response">No response from server. Please check the internet connection.</string>
-    <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="RAMADAN">РАМАЗАН</string>
+    <string name="SUDDEN_ATTACK">ВНЕЗАПНА АТАКА</string>
+    <string name="_2x_skin_resolution">2x Резолюция на Кожата</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="You_are_already_friends_">Вече сте приятели.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Акаунтът трябва да е на един ден, за да изпратите имейл.</string>
+    <string name="Translator">Преводач</string>
+    <string name="SUCCESS">УСПЕХ</string>
 
 
     <string-array name="control_modes">
