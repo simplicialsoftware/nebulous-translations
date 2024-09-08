@@ -256,7 +256,7 @@
 
     <string name="Server_Restart_">"Athshlánú Freastalaí:"</string>
     <string name="GOAL_">"SPRIOC!"</string>
-    <string name="SOCCER">"SOCCER"</string>
+    <string name="SOCCER">"SAOIRE"</string>
     <string name="DRAW">"DRAW"</string>
 
     <string name="Clan_Name">"Ainm Clan"</string>
@@ -272,7 +272,7 @@
 
     <string name="CREATE_CLAN">"CLÁR CREATE"</string>
     <string name="MEMBER">"BALLTAÍ"</string>
-    <string name="ADMIN">"ADMIN"</string>
+    <string name="ADMIN">"RIARACHÁN"</string>
     <string name="LEADER">"LEADER"</string>
     <string name="ELDER">"FAOI"</string>
 
@@ -326,7 +326,7 @@
 
 
     <string name="COMPLETE">"COMHLÁNÚ"</string>
-    <string name="INCOMPLETE">"INCOMPLETE"</string>
+    <string name="INCOMPLETE">"NEAMHCHOMHLÁNAIGH"</string>
     <string name="Win_a_FFA_Time_Game">"Win Cluiche Am FFA"</string>
     <string name="Win_a_CTF_Game">"Win cluiche CTF"</string>
     <string name="Win_a_Soccer_Game">"Win Cluiche Sacar"</string>
