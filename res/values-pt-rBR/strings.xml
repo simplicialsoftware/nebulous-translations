@@ -27,7 +27,7 @@
     <string name="Yes">"Sim"</string>
     <string name="No">"Não"</string>
     <string name="WAIT">"AGUARDE…"</string>
-    <string name="Must_Specify_Name_">"Necessário especificar um nome."</string>
+    <string name="Must_Specify_Name_">"É Necessário especificar um nome."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
 
@@ -290,7 +290,7 @@
     <string name="No_open_public_clans_exist_">"Não existem clãs públicos abertos."</string>
     <string name="You_aren_t_invited_to_that_clan_">"Você não está convidado para este clã."</string>
     <string name="No_such_clan_exists_">"Não existe tal clã."</string>
-    <string name="That_clan_is_full_">"Esse clã está cheio."</string>
+    <string name="That_clan_is_full_">"Este clã está cheio."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Outro usuário não é um membro de seu clã."</string>
     <string name="_You_can_t_be_your_own_friend_">"Você não pode ser seu próprio amigo."</string>
     <string name="A_clan_with_that_name_already_exists_">"Um clã com este nome já existe."</string>
@@ -622,8 +622,8 @@
     <string name="CLAN_HISTORY">"HISTÓRICO DO CLÃ"</string>
 
 
-    <string name="Love_Nebulous_">"Adora o Nebulous?"</string>
-    <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoie o Nebulous classificando-o."</string>
+    <string name="Love_Nebulous_">"Ama o Nebulous?"</string>
+    <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoie o Nebulous avaliando-o."</string>
     <string name="MAYHEM_MODE">"MODO MAYHEM"</string>
     <string name="Times_Teleported_">"Vezes Teleportado:"</string>
     <string name="Powerups_Used_">"Poderes Usado:"</string>
