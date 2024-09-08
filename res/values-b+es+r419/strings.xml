@@ -1346,21 +1346,21 @@ Subir la misma skin NO aprobada varias veces resultará en más sanciones o en u
     <string name="The_winner_will_receive_x_plasma_">El ganador recibirá %s plasma!</string>
     <string name="admin_commands">"
 Comandos:
-!kick [0–31]
-!reset
-!welcome {mensaje}
+!kick [0–31] - Expulsar a un jugador
+!reset - Reiniciar el juego
+!welcome {mensaje de bienvenida}
 !difficulty [0-3] o [1-4] para Campaña
-!hidden
-!slowchat
-!pausechat
-!mute {id}
-!admin {id}
-!allow {id}
-!allow reset
-!team [1-4] {id} (Solo en modos con equipos)
-!winner
-!stats
-!info"
+!hidden - Cambiar a sala oculta
+!slowchat - Cambiar a chat lento
+!pausechat - Pausar chat por un tiempo
+!mute {id} - Silenciar a un jugador
+!admin {id} - Agregar un administrador de sala
+!allow {id} - Conceder permiso a un jugador
+!allow reset - Reiniciar permisos
+!team [1-4] {id} - Solo en modos con equipos
+!winner - Ganador de una partida con tiempo
+!stats - Estadísticas de sesión
+!info - Informaciones de la sala
 </string>
     <string name="ID_Sort">Ordenar ID</string>
     <string name="Master_Tamer">Maestro Domador</string>
