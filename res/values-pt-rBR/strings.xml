@@ -242,7 +242,7 @@
     <string name="Games_Won_">"Jogos Ganhos:"</string>
 
     <string name="You_must_wait_until_the_end_of_the_round_">"Você deve esperar até o final da rodada."</string>
-    <string name="Dont_show_again">"Não mostrar novamente."</string>
+    <string name="Dont_show_again">"Não mostrar novamente"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Encontramos um backup de único jogador com XP maior. Você deseja restaurar o backup?"</string>
 
     <string name="Special_Effects">"Efeitos Especiais"</string>
