@@ -117,7 +117,7 @@
     <string name="Private">"Privat"</string>
     <string name="Public">"Öffentlich"</string>
     <string name="Bot">"Bot"</string>
-    <string name="You">"Du"</string>
+    <string name="You">"Sie"</string>
     <string name="This_player_is_a_bot">"Dieser Spieler ist ein Bot."</string>
     <string name="This_player_is_not_signed_in">"Dieser Spieler ist nicht angemeldet."</string>
 
