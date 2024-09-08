@@ -423,7 +423,7 @@
     <string name="Purchasing">"Comprando"</string>
 
     <string name="Purchase_Successful_">"¡Compra realizada con éxito!"</string>
-    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Puede que tengas que reconectarte para utilizar lo comprado"</string>
+    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Es posible que tengas que reconectarte para utilizar lo comprado."</string>
     <string name="Confirm_Purchase">"Confirmar compra"</string>
     <string name="x3_XP_24_hours">"3x EXP 24 horas"</string>
     <string name="x3_XP_1_Hour">"3x EXP 1 hora"</string>
@@ -744,7 +744,7 @@
     <string name="FILTER">"FILTRAR"</string>
     <string name="List_Count_">"Lista:"</string>
     <string name="Download_Skins">"Descargar skins"</string>
-    <string name="ARENA_HISTORY">"HISTORIAL ARENA"</string>
+    <string name="ARENA_HISTORY">"HISTORIAL DE ARENA."</string>
     <string name="WIN">"VICTORIA"</string>
     <string name="LOSS">"DERROTA"</string>
     <string name="Other_players_can_not_see_your_skin_">"Los demás jugadores no pueden ver tu skin "</string>
@@ -888,7 +888,7 @@
     <string name="REMOVE">ELIMINAR</string>
     <string name="BAN">BANEAR</string>
     <string name="MODERATORS">MODERADORES</string>
-    <string name="ALL_CLAN">TODOS LOS\nCLANES</string>
+    <string name="ALL_CLAN">TODOS LOS CLANES.</string>
     <string name="CO_LEADER">COLÍDER</string>
     <string name="CLAN_HOUSE">HOGAR DEL CLAN</string>
     <string name="ROOM">SALA</string>
@@ -1216,11 +1216,11 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Secondary">Secundario</string>
     <string name="Both">Ambos</string>
     <string name="multiskin_period_description" translatable="true" tools:ignore="Untranslatable">"Especifica el período de cambio de multiskin en segundos (0–10). 0 desactivará multiskin."</string>
-    <string name="Enable__Multiskin">"Activar\nMultiskin"</string>
+    <string name="Enable__Multiskin">"Activar\Multiskin."</string>
     <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"Multiskin te permite usar dos skins que se alternan. Tú eliges que tan rápido cambian las skins. Cuando llegues al nivel 1,000, esta característica es gratuita. Si compras Multiskin antes del nivel 1,000, recuperarás el plasma cuando lo alcances."</string>
     <string name="MULTISKIN">MULTISKIN</string>
     <string name="DISABLED">DESACTIVADO</string>
-    <string name="Refund__Multiskin">"Reembolso\nMultiskin"</string>
+    <string name="Refund__Multiskin">"Reembolso\Multiskin."</string>
     <string name="Invalid_Clan_ID_">ID de Clan inválida </string>
     <string name="MUTED">SILENCIADO</string>
     <string name="SKIN">SKIN</string>
@@ -1274,7 +1274,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Background_Scale_">Escala del Fondo:</string>
     <string name="Background_Lightness_">Brillo del Fondo:</string>
     <string name="Background_Image_">Imagen de Fondo:</string>
-    <string name="INVERT_SELECTION">INVERTIR\nSELECCIÓN</string>
+    <string name="INVERT_SELECTION">INVERTIR\SELECCIÓN.</string>
     <string name="MINIMAP">MINIMAPA</string>
     <string name="Victorious">Victorioso</string>
     <string name="Dominant">Dominante</string>
@@ -1416,7 +1416,7 @@ Si no deseas registrarte, aún puedes jugar en modo individual."
     </string>
     <string name="_2x_skin_resolution">Resolución de skin doble</string>
     <string name="pm">MP</string>
-    <string name="You_are_already_friends_">Ya sois amigos </string>
+    <string name="You_are_already_friends_">Ya son amigos. </string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Para enviar correo, la cuenta debe haber sido creada, por lo menos, hace un día </string>
     <string name="Translator">Translator</string>
     <string name="SUCCESS">SUCCESS</string>
