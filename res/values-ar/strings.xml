@@ -37,7 +37,7 @@
     <string name="Score__">"النقاط: "</string>
     <string name="Recombine_">"إعادة التجميع: "</string>
     <string name="WINNER_">"الفائز:"</string>
-    <string name="IDLE">"الخمول"</string>
+    <string name="IDLE">"خمول"</string>
     <string name="Name_Invalid_">"الإسم غير صالح !"</string>
     <string name="Name_Taken_">"الاسم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
@@ -521,7 +521,7 @@
     <string name="Collect_10_000_snowflakes_">"جمع 10،000 من الثلج."</string>
     <string name="Show_All">"عرض الكل"</string>
 
-    <string name="SET_PERMISSIONS">"تعيين الأذونات"</string>
+    <string name="SET_PERMISSIONS">"ضبط الأذونات"</string>
     <string name="Start_Clan_War">"بدأ حرب العشائر"</string>
     <string name="Min_Level">"المستوى الأدنى"</string>
     <string name="SAVE">"حفظ"</string>
@@ -615,9 +615,9 @@
     <string name="Egg_Collector">"جامع البيض"</string>
     <string name="Egg_Hoarder">"مكدس تجميع البيض"</string>
     <string name="Egg_Mogul">"ملك تجميع البيض"</string>
-    <string name="Collect_1_000_eggs_">"جمع 1000 من البيوض."</string>
-    <string name="Collect_5_000_eggs_">"جمع 5000 من البيوض."</string>
-    <string name="Collect_10_000_eggs_">"جمع 10،000 من البيوض."</string>
+    <string name="Collect_1_000_eggs_">"جمع 1000 من البيض."</string>
+    <string name="Collect_5_000_eggs_">"جمع 5000 من البيض."</string>
+    <string name="Collect_10_000_eggs_">"جمع 10،000 من البيض."</string>
     <string name="HISTORY">"السِجِل"</string>
     <string name="CLAN_HISTORY">"سِجِل العشيرة"</string>
 
@@ -707,8 +707,8 @@
     <string name="Collect_5_000_notes_">"جمع 5000 من رموز الموسيقى."</string>
     <string name="Collect_10_000_notes_">"جمع 10،000 من رموز الموسيقى."</string>
     <string name="notes_">"رموز الموسيقى."</string>
-    <string name="CLICK_CHEAT_DETECTED_">"اتم إكتشاف برامج غش!"</string>
-    <string name="Pumpkin_Hoarder">"جامع اليقطين"</string>
+    <string name="CLICK_CHEAT_DETECTED_">"اتم إكتشاف برنامج غش!"</string>
+    <string name="Pumpkin_Hoarder">"مكدس اليقطين"</string>
     <string name="Pumpkin_Mogul">"ملك تجميع اليقطين"</string>
     <string name="Leaf_Mogul">"ملك تجميع الأوراق"</string>
     <string name="Collect_5000_pumpkins_">"جمع 5000 من اليقطين."</string>
@@ -837,11 +837,11 @@
     <string name="Already_Blocked">تم الحظر بالفعل</string>
     <string name="Cannot_block_more_than_x_accounts_">لايمكن حظر أكثر من %d الحسابات.</string>
     <string name="This_is_you_">هذا أنت.</string>
-    <string name="Win_a_Paint_Game">ربح لعبة رسم</string>
+    <string name="Win_a_Paint_Game">ربح لعبة الرسم</string>
     <string name="Whiteout">بيضوي</string>
     <string name="Speed_Painter">رسام سريع</string>
-    <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">ربح لعبة رسم مع كل المنافسين الذين لديهم 0 من نقاطهم.</string>
-    <string name="Win_a_Paint_game_in_60_seconds_or_less_">ربح لعبة رسم في 60 ثانية أو أقل.</string>
+    <string name="Win_a_Paint_game_with_all_opponents_having_0_score_"> اربح لعبة الرسم مع كل المنافسين الذين لديهم 0 من نقاط.</string>
+    <string name="Win_a_Paint_game_in_60_seconds_or_less_">اربح لعبة الرسم في 60 ثانية أو أقل.</string>
     <string name="Autoclick">مُسرع الضَغط</string>
     <string name="Autoclick_24_Hours">مُسرع الضَغط لمُدة 24 ساعة.</string>
     <string name="Autoclick_1_Hour">مُسرع الَضغط لمُدة ساعة.</string>
@@ -861,7 +861,7 @@
     <string name="XP_2x">"مسرع نقاط الخبرة x2"</string>
     <string name="XP_3x">"مسرع نقاط الخبرة x3"</string>
     <string name="NOW">"الآن"</string>
-    <string name="Team_Deathmatch_Domination">"السيطرة في فرق الموت"</string>
+    <string name="Team_Deathmatch_Domination">"الهيمنة في فرق الموت"</string>
     <string name="We_Will_Survive">"سنبقى على قيد الحياة"</string>
     <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"الفوز بفارق لا يقل عن 5 لاعبين في لعبة فريق الموت."</string>
     <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">" يفوز لعبة فريق الموت من دون الفوز في لعبة فريق الموت."</string>
@@ -1195,7 +1195,7 @@
     <string name="DISABLED">الغاء التفعيل</string>
 
     <string name="Refund__Multiskin">استعادة نقودك /nMultiskin</string>
-    <string name="Invalid_Clan_ID_">اسم الكلان غير صالح</string>
+    <string name="Invalid_Clan_ID_">اسم العشيرة غير صالح</string>
     <string name="MUTED">"حُظِر من الدَردَشة"</string>
     <string name="SKIN">سكن</string>
     <string name="Choose_Skin_Size">اختر حجم سكنك</string>
@@ -1361,14 +1361,14 @@ Commands:
     <string name="SUDDEN_ATTACK">هجوم مفاجئ</string>
 
     <string name="sign_in_explanation" translatable="true">
-قم بتسجيل الدخول للوصول إلى اللعِب أونلاين."
+قم بتسجيل الدخول  للعِب الجماعي."
 
 ستتمكن من:
 - اللعب والتواصل مع لاعبين آخرين حول العالم
 - مشاركة تقدمك مع اللاعبين
 - إنشاء وتخصيص الملف الشخصي
 - شراء البلازما في المتجر
-- يمكنك تحميل جلود المجتمع اللاعبين
+- يمكنك تحميل جلود مجتمع اللاعبين
 
 "إذا كنت لا ترغب في تسجيل الدخول، يمكنك أيضًا اللعب الفردي.
     </string>
