@@ -526,7 +526,7 @@
     <string name="Min_Level">"Nível Mínimo"</string>
     <string name="SAVE">"SALVAR"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Este jogador não cumpriu a exigência de nível mínimo para se juntar a este clã:"</string>
-    <string name="Insufficient_Permission">"Permissões Insuficientes."</string>
+    <string name="Insufficient_Permission">"Permissões Insuficientes"</string>
     <string name="DOMINATION">"DOMINAÇÃO"</string>
     <string name="DOM_Domination">"Dominador da Dominação"</string>
     <string name="DOM_Hat_Trick">"Hat-Trick da Dominação"</string>
