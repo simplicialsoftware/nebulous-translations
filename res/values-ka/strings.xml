@@ -391,7 +391,7 @@
     <string name="The_next_season_begins">"შემდეგი სეზონი იწყება"</string>
 
     <string name="Current">"მიმდინარე"</string>
-    <string name="leaves_">"ფოთლები"</string>
+    <string name="leaves_">"ფოთლები."</string>
     <string name="Leaf_Collector">"ფოთლების შემგროვებელი"</string>
     <string name="Collect_1000_leaves_">"შეაგროვეთ 1000 ფოთოლი."</string>
     <string name="XP_Boost">"XP გაძლიერება"</string>
@@ -402,7 +402,7 @@
 
     <string name="Triple">"სამმაგი"</string>
     <string name="Leaf_Hoarder">"ფოთოლი ჰოვარერი"</string>
-    <string name="Collect_5000_leaves_">"შეაგროვეთ 5,000 ფოთოლი"</string>
+    <string name="Collect_5000_leaves_">"შეაგროვეთ 5,000 ფოთოლი."</string>
 
 
     <string name="Arena">"არენაზე"</string>
@@ -446,7 +446,7 @@
     <string name="Seasonal">"სეზონური"</string>
 
 
-    <string name="Temporarily_Disabled_">"დროებით გამორთულია"</string>
+    <string name="Temporarily_Disabled_">"დროებით გამორთულია."</string>
     <string name="BIGGEST">"ყველაზე დიდი"</string>
 
 
@@ -477,9 +477,9 @@
     <string name="Gladiator">"გლადიატორი"</string>
     <string name="Challenger">"Challenger"</string>
     <string name="Win_1_1v1_Arenas_">"გაიმარჯვეთ სტადიონი."</string>
-    <string name="Win_10_Arenas_">"მოიგე 10 არენა"</string>
-    <string name="Win_100_Arenas_">"მოიგე 100 არენა"</string>
-    <string name="Win_1000_Arenas">"მოიგე 1000 არენა"</string>
+    <string name="Win_10_Arenas_">"მოიგე 10 არენა."</string>
+    <string name="Win_100_Arenas_">"მოიგე 100 არენა."</string>
+    <string name="Win_1000_Arenas">"მოიგე 1000 არენა."</string>
 
 
     <string name="Already_in_arena_">"უკვე არენაზე."</string>
@@ -615,9 +615,9 @@
     <string name="Egg_Collector">"კვერცხი კოლექტორი"</string>
     <string name="Egg_Hoarder">"კვერცხის შემგროვებელი"</string>
     <string name="Egg_Mogul">"კვერცხის მაგნატი"</string>
-    <string name="Collect_1_000_eggs_">"შეაგროვეთ 1,000 კვერცხი"</string>
-    <string name="Collect_5_000_eggs_">"შეაგროვეთ 5,000 კვერცხი"</string>
-    <string name="Collect_10_000_eggs_">"მოაგროვეთ 10,000 კვერცხი"</string>
+    <string name="Collect_1_000_eggs_">"შეაგროვეთ 1,000 კვერცხი."</string>
+    <string name="Collect_5_000_eggs_">"შეაგროვეთ 5,000 კვერცხი."</string>
+    <string name="Collect_10_000_eggs_">"მოაგროვეთ 10,000 კვერცხი."</string>
     <string name="HISTORY">"ისტორია"</string>
     <string name="CLAN_HISTORY">"კლანის ისტორია"</string>
 
@@ -643,9 +643,9 @@
     <string name="Raindrop_Collector">"წვიმის წვეთების შემგროვებელი"</string>
     <string name="Raindrop_Hoarder">"წვიმის წვეთების შემგროვებელი"</string>
     <string name="Raindrop_Mogul">"წვიმის წვეთების მაგნატი"</string>
-    <string name="Collect_1_000_raindrops_">"შეაგროვეთ 1,000 წვიმის წვეთი"</string>
-    <string name="Collect_5_000_raindrops_">"შეაგროვეთ 5,000 წვიმის წვეთი"</string>
-    <string name="Collect_10_000_raindrops_">"შეაგროვეთ 1,0000 წვიმის წვეთი"</string>
+    <string name="Collect_1_000_raindrops_">"შეაგროვეთ 1,000 წვიმის წვეთი."</string>
+    <string name="Collect_5_000_raindrops_">"შეაგროვეთ 5,000 წვიმის წვეთი."</string>
+    <string name="Collect_10_000_raindrops_">"შეაგროვეთ 10,000 წვიმის წვეთი."</string>
     <string name="Copy_Message">"ასლის გაგზავნა"</string>
     <string name="Copied_to_clipboard_">"გადაწერა ბუფერში."</string>
     <string name="COPY_NAME">"ასლის სახელი"</string>
@@ -663,10 +663,10 @@
     <string name="Nebula_Collector">"ნებულას კოლექტორი"</string>
     <string name="Nebula_Hoarder">"ნებულა ჰოვარერი"</string>
     <string name="Nebula_Mogul">"ნებულა მოგული"</string>
-    <string name="Collect_1_000_nebulas_">"შეაგროვეთ 1,000 ნისლეული"</string>
-    <string name="Collect_5_000_nebulas_">"შეაგროვეთ 5,000 ნისლეული"</string>
-    <string name="Collect_10_000_nebulas_">"შეაგროვეთ 10,000 ნისლეული"</string>
-    <string name="nebulas_">"ნისლეულები"</string>
+    <string name="Collect_1_000_nebulas_">"შეაგროვეთ 1,000 ნისლეული."</string>
+    <string name="Collect_5_000_nebulas_">"შეაგროვეთ 5,000 ნისლეული."</string>
+    <string name="Collect_10_000_nebulas_">"შეაგროვეთ 10,000 ნისლეული."</string>
+    <string name="nebulas_">"ნისლეულები."</string>
     <string name="Incompatible_versions_">"შეუთავსებელი ვერსიები."</string>
     <string name="Update_Available_">"განახლება შესაძლებელია!"</string>
     <string name="VIEW_INVITES">"იხილეთ შემოთავაზებები"</string>
@@ -674,22 +674,22 @@
     <string name="Cancel_Invitation">"უარი უარი"</string>
     <string name="DOWNLOAD">"ჩამოტვირთვა"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"ყველა მეგობარს შემოწირულობების აღდგენა?"</string>
-    <string name="suns_">"მზეები"</string>
-    <string name="Sun_Collector">"მზის კოლექტორი"</string>
+    <string name="suns_">"მზეები."</string>
+    <string name="Sun_Collector">"მზის კოლექტორი."</string>
     <string name="Sun_Hoarder">"მზის ჰოვარერი"</string>
     <string name="Sun_Mogul">"მზის მაგნატი"</string>
-    <string name="Collect_1_000_suns_">"შეაგროვეთ 1,000 მზე"</string>
-    <string name="Collect_5_000_suns_">"შეაგროვეთ 5,000 მზე"</string>
-    <string name="Collect_10_000_suns_">"მოაგროვეთ 10,000 მზე"</string>
+    <string name="Collect_1_000_suns_">"შეაგროვეთ 1,000 მზე."</string>
+    <string name="Collect_5_000_suns_">"შეაგროვეთ 5,000 მზე."</string>
+    <string name="Collect_10_000_suns_">"მოაგროვეთ 10,000 მზე."</string>
     <string name="Reward_Videos_">"საჩუქრების ვიდეოები!"</string>
     <string name="Free_Plasma_">"უფასო პლაზმური!"</string>
-    <string name="moons_">"მთვარეები"</string>
+    <string name="moons_">"მთვარეები."</string>
     <string name="Moon_Collector">"მთვარე კოლექტორი"</string>
     <string name="Moon_Hoarder">"მთვარე ჰოვარერი"</string>
     <string name="Moon_Mogul">"მთვარის მაგნატი"</string>
-    <string name="Collect_1_000_moons_">"შეაგროვეთ 1,000 მთვარე"</string>
-    <string name="Collect_5_000_moons_">"შეაგროვეთ 5,000 მთვარე"</string>
-    <string name="Collect_10_000_moons_">"მოაგროვეთ 10,000 მთვარე"</string>
+    <string name="Collect_1_000_moons_">"შეაგროვეთ 1,000 მთვარე."</string>
+    <string name="Collect_5_000_moons_">"შეაგროვეთ 5,000 მთვარე."</string>
+    <string name="Collect_10_000_moons_">"მოაგროვეთ 10,000 მთვარე."</string>
     <string name="BLUETOOTH">"ბლუთუზი"</string>
     <string name="HOST">"მასპინძელი"</string>
     <string name="This_device_does_not_support_bluetooth_">"ეს მოწყობილობა Bluetooth ს არ უჭერს მხარს."</string>
@@ -703,10 +703,10 @@
     <string name="Note_Collector">"შენიშვნა კოლექტორი"</string>
     <string name="Note_Hoarder">"შენიშვნა ჰაარდერი"</string>
     <string name="Note_Mogul">"ყურადღება მიაქციე"</string>
-    <string name="Collect_1_000_notes_">"შეაგროვეთ 1,000 მუსიკალური ნოტი"</string>
-    <string name="Collect_5_000_notes_">"შეაგროვეთ 5,000 მუსიკალური ნოტი"</string>
-    <string name="Collect_10_000_notes_">"შეაგროვეთ 10,000 მუსიკალური ნოტი"</string>
-    <string name="notes_">"მუსიკალური ნოტები"</string>
+    <string name="Collect_1_000_notes_">"შეაგროვეთ 1,000 მუსიკალური ნოტი."</string>
+    <string name="Collect_5_000_notes_">"შეაგროვეთ 5,000 მუსიკალური ნოტი."</string>
+    <string name="Collect_10_000_notes_">"შეაგროვეთ 10,000 მუსიკალური ნოტი."</string>
+    <string name="notes_">"მუსიკალური ნოტები."</string>
     <string name="CLICK_CHEAT_DETECTED_">"შეამოწმეთ ჩეთი"</string>
     <string name="Pumpkin_Hoarder">"გოგრა ჰოვარერი"</string>
     <string name="Pumpkin_Mogul">"გოგრა მოგულის"</string>
@@ -795,7 +795,7 @@
     <string name="ZA">"ზ.ა."</string>
     <string name="Pandemic">"პანდემია"</string>
     <string name="Immunity">"იმუნიტეტი"</string>
-    <string name="Win_as_zombies_in_2_minutes_or_less_">"მოიგე როგორც ზომბი 2 წუთში ან ნაკლებ დროში"</string>
+    <string name="Win_as_zombies_in_2_minutes_or_less_">"მოიგე როგორც ზომბი 2 წუთში ან ნაკლებ დროში."</string>
     <string name="Win_as_survivors_with_no_losses_">"გაიმარჯვეთ როგორც გადარჩენილებს, რომლებსაც არ აქვთ დანაკარგები."</string>
     <string name="ZOMBIE_">"ზომბი!"</string>
     <string name="SURVIVOR_">"გადარჩენილი!"</string>
@@ -840,8 +840,8 @@
     <string name="Win_a_Paint_Game">"მოიგეთ საღებავის თამაში"</string>
     <string name="Whiteout">"უიშვიათესი"</string>
     <string name="Speed_Painter">"სიჩქარის მხატვარი"</string>
-    <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"მოიგეთ საღებავის თამაში ყველა ოპონენტთან, რომელსაც აქვს 0 ქულა"</string>
-    <string name="Win_a_Paint_game_in_60_seconds_or_less_">"მოიგეთ საღებავის თამაში 60 წამში ან ნაკლებ დროში"</string>
+    <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"მოიგეთ საღებავის თამაში ყველა ოპონენტთან, რომელსაც აქვს 0 ქულა."</string>
+    <string name="Win_a_Paint_game_in_60_seconds_or_less_">"მოიგეთ საღებავის თამაში 60 წამში ან ნაკლებ დროში."</string>
     <string name="Autoclick">"ავტოკლაკი"</string>
     <string name="Autoclick_24_Hours">"ავტოდაწკაპუნება 24 საათები"</string>
     <string name="Autoclick_1_Hour">"ავტოდაწკაპუნება 1 საათი"</string>
@@ -863,8 +863,8 @@
     <string name="NOW">"ახლავე"</string>
     <string name="Team_Deathmatch_Domination">"გუნდის სიკვდილის მატჩი დომინირება"</string>
     <string name="We_Will_Survive">"ჩვენ გადავრჩებით"</string>
-    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"გაიმარჯვეთ გუნდში სულ მცირე 5 მოთამაშე"</string>
-    <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"გადარჩით, მაგრამ არ მოიგოთ გუნდური სიკვდილის მატჩი"</string>
+    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"გაიმარჯვეთ გუნდში სულ მცირე 5 მოთამაშე."</string>
+    <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"გადარჩით, მაგრამ არ მოიგოთ გუნდური სიკვდილის მატჩი."</string>
     <string name="Win_a_Team_Deathmatch_Game">"მოგება გუნდი Deathmatch თამაშის"</string>
     <string name="TEAM_DEATHMATCH">"გუნდი სიკვდილის შემდეგ"</string>
     <string name="Speed_Click_Toggle">"სიჩქარე დააჭირეთ ღილაკს Toggle"</string>
@@ -881,7 +881,7 @@
     <string name="Free_Agent">"თავისუფალი აგენტი"</string>
     <string name="This_player_selected_a_different_teammate_">"ეს ფეხბურთელი სხვადასხვა თანაგუნდელს შეარჩია."</string>
     <string name="muted_until">"მდუმარე მანამდე"</string>
-    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">"რუკის კონტენტის რეიტინგი შეიძლება შეიცვალოს მრავალმოთამაშიანი თამაშისას"</string>
+    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">"რუკის კონტენტის რეიტინგი შეიძლება შეიცვალოს მრავალმოთამაშიანი თამაშისას."</string>
     <string name="UI_Opacity_">"UI Opacity"</string>
     <string name="LOAD">"იტვირთება"</string>
     <string name="REMOVE">"ამოღება"</string>
@@ -935,7 +935,7 @@
     <string name="Clan_Pet_Uploads">" კლანი სახლი ატვირთვა"</string>
     <string name="YT">"YT"</string>
     <string name="FREE_TODAY">"უფასო დღეს!"</string>
-    <string name="Cannot_cancel_this_skin_yet_">"ამ სკინის გაუქმება ჯერ არ შეიძლება"</string>
+    <string name="Cannot_cancel_this_skin_yet_">"ამ სკინის გაუქმება ჯერ არ შეიძლება."</string>
     <string name="SPLIT_16X">"გაყოფა 16x"</string>
     <string name="SET_PUBLIC_DESCRIPTION">"საჯარო აღწერილობის დაყენება"</string>
     <string name="SET_NOTE">"მითითებული შენიშვნა"</string>
@@ -953,7 +953,7 @@
     <string name="Open_Present">"ღია საჩუქარი"</string>
     <string name="OPEN">"გახსენი"</string>
     <string name="Halo">"ჰალო"</string>
-    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">""ამ ჰალოს გამოსაყენებლად თქვენ უნდა იყოთ მინიმუმ %1$s დონეზე და მიიღოთ %2$s მიღწევები""</string>
+    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"ამ ჰალოს გამოსაყენებლად თქვენ უნდა იყოთ მინიმუმ %1$s დონეზე და მიიღოთ %2$s მიღწევები."</string>
     <string name="Halos">"ჰალოები"</string>
     <string name="CAMPAIGN">"კამპანია"</string>
     <string name="Mission">"მისია"</string>
@@ -971,7 +971,7 @@
     <string name="App_Perf_Stats">"აპლიკაციის მუშაობის სტატისტიკა"</string>
     <string name="COPY">"ასლი"</string>
     <string name="_1v1_Ultra">"1v1 ულტრა"</string>
-    <string name="ArenaDescriptionUltra">"გამარჯვებული მიიღებს %s პლაზმას"</string>
+    <string name="ArenaDescriptionUltra">"გამარჯვებული მიიღებს %s პლაზმას."</string>
     <string name="BANNED">"აკრძალული"</string>
     <string name="CLAN_MEMBERS">"კლანის წევრები"</string>
     <string name="CLAN_REQUESTS">"კლანის მოთხოვნა"</string>
@@ -999,12 +999,12 @@
 
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">"მასობრივი გაძლიერება არ მუშაობს არენებზე, ტურნირებზე ან კლანურ ომებში!"</string>
 
-    <string name="ArenaDescriptionPure">"არა ავტო დაწკაპუნება ან ულტრადაწკაპუნება. თქვენ მიიღებთ მხოლოდ ერთ სიცოცხლეს. გამარჯვებული მიიღებს %s პლაზმას"</string>
+    <string name="ArenaDescriptionPure">"არა ავტო დაწკაპუნება ან ულტრადაწკაპუნება. თქვენ მიიღებთ მხოლოდ ერთ სიცოცხლეს. გამარჯვებული მიიღებს %s პლაზმას."</string>
     <string name="_1v1_Pure">"1v1 სუფთა"</string>
     <string name="Allow_Ultraclick">"ულტრა დაწკაპუნების დაშვება"</string>
     <string name="Allow_Mass_Boost">"დაუშვით მასობრივი გაძლიერება"</string>
     <string name="Challenges_Won_">"გამარჯვებული გამოწვევები:"</string>
-    <string name="trophy_info">"თასები გადაეცემა ყოველი არენის ან გუნდური არენის სეზონის ბოლოს 1-ლი, მე-2 და მე-3 ადგილისთვის. თასები გადაეცემა მხოლოდ აქტიურ რეგიონებში, სადაც ბევრი მოთამაშეა"</string>
+    <string name="trophy_info">"თასები გადაეცემა ყოველი არენის ან გუნდური არენის სეზონის ბოლოს 1-ლი, მე-2 და მე-3 ადგილისთვის. თასები გადაეცემა მხოლოდ აქტიურ რეგიონებში, სადაც ბევრი მოთამაშეა."</string>
     <string name="BLOCKED">"დაბლოკილია"</string>
     <string name="CLAN_WAR_HISTORY">"კლანური ომის ისტორია"</string>
     <string name="Particle">"ნაწილაკი"</string>
@@ -1299,15 +1299,15 @@ Commands:
     <string name="CLAN_BACKGROUND_COLOR">"კლანის ფონის ფერი"</string>
     <string name="activate">"გააქტიურება"</string>
     <string name="clan_id">"კლანის ID"</string>
-    <string name="language_change_warning">"ენის შეცვლა გამოიწვევს აპის გადატვირთვას"</string>
+    <string name="language_change_warning">"ენის შეცვლა გამოიწვევს აპის გადატვირთვას."</string>
     <string name="xmas_gift_boost_message">"თქვენ მიიღეთ საჩუქრად 3x პლაზმური გაძლიერება 1 დღის განმავლობაში!"</string>
-    <string name="no_response">"სერვერისგან პასუხი არ არის. გთხოვთ, შეამოწმოთ ინტერნეტ კავშირი"</string>
+    <string name="no_response">"სერვერისგან პასუხი არ არის. გთხოვთ, შეამოწმოთ ინტერნეტ კავშირი."</string>
     <string name="RAMADAN">"რამადანი"</string>
     <string name="SUDDEN_ATTACK">"უეცარი შეტევა"</string>
     <string name="_2x_skin_resolution">"2x კანის გარჩევადობა"</string>
     <string name="pm">"პშ"</string>
     <string name="You_are_already_friends_">"თქვენ უკვე მეგობრები ხართ"</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">"ანგარიში უნდა იყოს 1 დღის წინანდელი ფოსტის გასაგზავნად"</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">"ანგარიში უნდა იყოს 1 დღის წინანდელი ფოსტის გასაგზავნად."</string>
     <string name="Translator">"მთარგმნელი"</string>
     <string name="SUCCESS">"წარმატება"</string>
 
