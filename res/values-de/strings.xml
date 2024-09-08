@@ -24,7 +24,8 @@
     <string name="Loading___">"Wird geladen…"</string>
     <string name="Connecting___">"Verbinden…"</string>
 
-    <string name="Are_You_Sure_">"Sind Sie sich sicher?"</string>
+
+    <string name="Are_You_Sure_">"Sind Sie sicher?"</string>
     <string name="Yes">"Ja"</string>
     <string name="No">"Nein"</string>
     <string name="WAIT">"Bitte warten…"</string>
@@ -426,10 +427,10 @@
     <string name="Purchase_Successful_">"Gekauft!"</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Verbinde dich bitte erneut um den Kauf wirksam zumachen."</string>
     <string name="Confirm_Purchase">"Kauf bestätigen"</string>
-    <string name="x3_XP_24_hours">"24 Stunden XP boost 3x"</string>
-    <string name="x3_XP_1_Hour">"Eine Stunde XP boost 3x"</string>
-    <string name="x2_XP_24_Hour">"24 Stunden XP boost 2x"</string>
-    <string name="x2_XP_1_Hour">"eine Stunde XP boost 2x"</string>
+    <string name="x3_XP_24_hours">"24 Stunden XP Schub 3x"</string>
+    <string name="x3_XP_1_Hour">"Eine Stunde XP Schub 3x"</string>
+    <string name="x2_XP_24_Hour">"24 Stunden XP Schub 2x"</string>
+    <string name="x2_XP_1_Hour">"eine Stunde XP Schub 2x"</string>
     <string name="Cost_">"Preis:"</string>
     <string name="You_cannot_purchase_this_right_now_">"Sie können das im Moment nicht kaufen!"</string>
 
@@ -485,7 +486,7 @@
 
     <string name="Already_in_arena_">"Bereits in der Arena."</string>
     <string name="Already_in_queue_">"Bereits in der Warteschlange."</string>
-    <string name="Invalid_Account_ID_">"Diese Konto-ID gibt es nicht."</string>
+    <string name="Invalid_Account_ID_">"Diese Konto-ID existiert nicht."</string>
 
     <string name="Validating">"Validierung"</string>
 
@@ -621,7 +622,7 @@
     <string name="Collect_5_000_eggs_">"Sammle 5.000 Eier."</string>
     <string name="Collect_10_000_eggs_">"Sammle 10.000 Eier."</string>
     <string name="HISTORY">"Verlauf"</string>
-    <string name="CLAN_HISTORY">"Verlauf"</string>
+    <string name="CLAN_HISTORY">"Clan Verlauf"</string>
 
 
     <string name="Love_Nebulous_">"Sie lieben Nebulous?"</string>
