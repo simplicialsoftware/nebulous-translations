@@ -57,7 +57,7 @@
 
     <string name="SERVER">"SERVER"</string>
     <string name="Joining_game_in_">"Menyertai permainan dalam "</string>
-    <string name="Game_Full">"Permainan Full"</string>
+    <string name="Game_Full">"Permainan Penuh"</string>
     <string name="US_East">"Amerika Timur"</string>
     <string name="US_West">"Amerika Barat"</string>
     <string name="Europe">"Eropah"</string>
@@ -73,13 +73,13 @@
     <string name="Min_Players">"Pemain Minimum"</string>
 
     <string name="OK">"Okay"</string>
-    <string name="CANCEL">"CANCEL"</string>
-    <string name="Chat_Name">"Nama Chat"</string>
+    <string name="CANCEL">"BATAL"</string>
+    <string name="Chat_Name">"Nama Pembual"</string>
     <string name="Max_People">"Maksimum Orang"</string>
     <string name="START">"MULA"</string>
     <string name="CREATE">"MENCIPTA"</string>
     <string name="CUSTOM_GAMES">"PERMAINAN SUAI"</string>
-    <string name="CHAT">"CHAT"</string>
+    <string name="CHAT">"BERBUAL"</string>
     <string name="CUSTOM_SETUP">"SETUP SUAI"</string>
     <string name="CHAT_SETUP">"SETUP CHAT"</string>
 
@@ -244,13 +244,13 @@
 
     <string name="You_must_wait_until_the_end_of_the_round_">"Kamu perlu menunggu sehingga akhir pusingan"</string>
     <string name="Dont_show_again">"Jangan tunjuk lagi"</string>
-    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Found single-player stats sandaran dengan XP yang lebih tinggi. Adakah kamu ingin memakai untuk memulihkan sandaran?"</string>
+    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Terdapat statistik pemain tunggal dengan XP yang lebih tinggi. Adakah kamu ingin memulihkan sandaran?"</string>
 
     <string name="Special_Effects">"Kesan Khas"</string>
-    <string name="Blob_Mushiness">"Lebikkan Blob"</string>
+    <string name="Blob_Mushiness">"Lembikkan Blob"</string>
 
     <string name="Specify_private_game_name">"Nyatakan nama permainan swasta"</string>
-    <string name="In_Game_Chat">"Chat Permainan"</string>
+    <string name="In_Game_Chat">"Berbual Dalam Permainan"</string>
     <string name="My_Status_">"Status Saya:"</string>
     <string name="Game_Size_">"Saiz Permainan:"</string>
 
@@ -318,10 +318,10 @@
     <string name="Translations">"Penterjemahan"</string>
     <string name="Developers">"Pemaju"</string>
     <string name="Special_Thanks">"Terima Kasih Yang Teristimewa"</string>
-    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Banyak Terimah Kasih Kepada Setiap Penggemar Nebulous"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Banyak Terima Kasih Kepada Setiap Penggemar Nebulous"</string>
     <string name="Color_Blind">"Buta Warna"</string>
     <string name="Daily_Quest_Complete_">"Penyelidikan Hari Tercapai!"</string>
-    <string name="COPY_ID">"CETAT ID"</string>
+    <string name="COPY_ID">"SALIN ID"</string>
     <string name="My_Account_ID">"ID Akaun Saya"</string>
 
 
@@ -370,7 +370,7 @@
     <string name="_3v3">"3v3"</string>
     <string name="_5v5">"5v5"</string>
     <string name="_8v8">"8v8"</string>
-    <string name="Top_Ranks">"Pangkat Top"</string>
+    <string name="Top_Ranks">"Pangkat Tertinggi"</string>
     <string name="My_Ranks">"Pangkat Saya"</string>
     <string name="Player_XP">"XP Pemain"</string>
 
@@ -382,7 +382,7 @@
     <string name="Spectating">"Menonton"</string>
 
 
-    <string name="snowflakes_">"emping salji."</string>
+    <string name="snowflakes_">"keping salji."</string>
     <string name="presents_">"hadiah."</string>
     <string name="Snowflake_Collector">"Pengumpul Salji."</string>
     <string name="Present_Collector">"Pemungut hadiah"</string>
@@ -451,7 +451,7 @@
     <string name="BIGGEST">"TERBESAR"</string>
 
 
-    <string name="Copy_ID">"Cetat ID"</string>
+    <string name="Copy_ID">"Salin ID"</string>
     <string name="View_Profile">"Lihat profil"</string>
     <string name="Send_Message">"Menghantar Mesej"</string>
     <string name="Account_ID">"ID Akaun"</string>
@@ -502,7 +502,7 @@
     <string name="Win_10_Clan_Wars">"Menang 10 Perangan Klan"</string>
     <string name="Win_100_Clan_Wars">"Memenangi 100 Perangan Klan"</string>
     <string name="Clan_Commander">"Klan Komander"</string>
-    <string name="Clan_General">"Penglima Klan"</string>
+    <string name="Clan_General">"Panglima Klan"</string>
     <string name="Clan_Wars_Won_">"Perangan Klan Termenang:"</string>
     <string name="Arenas_Won_">"Arena Termenang:"</string>
     <string name="Arena_Mode">"Mod Arena"</string>
