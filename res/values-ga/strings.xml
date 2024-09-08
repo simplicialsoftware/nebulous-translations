@@ -108,7 +108,7 @@
     <string name="PAUSED">"PAUSED"</string>
 
 
-    <string name="FRIENDS">"FRIENDS"</string>
+    <string name="FRIENDS">"CAIRDE"</string>
     <string name="Warning">"Rabhadh"</string>
     <string name="SIGNING_IN">"Ag síniú i …"</string>
     <string name="New_Friend_Request">"Iarratas ar Chara Nua!"</string>
@@ -138,7 +138,7 @@
     <string name="ALL">"GACH"</string>
     <string name="FFA">"FFA"</string>
     <string name="FFA_TIME">"AMA FFA"</string>
-    <string name="TEAMS">"TEAMS"</string>
+    <string name="TEAMS">"FOIRNE"</string>
     <string name="TEAMS_TIME">"TEAMS AM"</string>
     <string name="CTF">"CTF"</string>
     <string name="SURVIVAL">"SURVIVAL"</string>
