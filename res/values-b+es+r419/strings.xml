@@ -125,7 +125,7 @@
     <string name="Achievement_Earned">"Logro conseguido"</string>
     <string name="REFRESH">"ACTUALIZAR"</string>
     <string name="DONE">"HECHO"</string>
-    <string name="Friend_Request_Sent">"Solicitud de amistad anviada"</string>
+    <string name="Friend_Request_Sent">"Solicitud de amistad enviada"</string>
     <string name="ERROR">"ERROR"</string>
     <string name="CONTINUE">"CONTINUAR"</string>
     <string name="Global_" formatted="false">"Global"</string>
@@ -346,7 +346,7 @@
     <string name="To_use_this_skin_you_must_collect">"Para utilizar esta skin tienes que recoger"</string>
     <string name="Australia">"Australia"</string>
     <string name="Pumpkin_Collector">"Coleccionista de Calabazas"</string>
-    <string name="Collect_1000_pumpkins_">"Recoge 1,000 calabazas "</string>
+    <string name="Collect_1000_pumpkins_">"Recoge 1,000 calabazas."</string>
 
     <string name="FFAC">"TCTC"</string>
     <string name="NONE">"NINGUNO"</string>
@@ -393,7 +393,7 @@
     <string name="Current">"Actual"</string>
     <string name="leaves_">"hojas "</string>
     <string name="Leaf_Collector">"Coleccionista de Hojas"</string>
-    <string name="Collect_1000_leaves_">"Recoge 1,000 hojas "</string>
+    <string name="Collect_1000_leaves_">"Recoge 1,000 hojas."</string>
     <string name="XP_Boost">"Acelerar EXP"</string>
     <string name="Double">"Doble"</string>
     <string name="Hour">"Hora"</string>
@@ -402,7 +402,7 @@
 
     <string name="Triple">"Triple"</string>
     <string name="Leaf_Hoarder">"Acaparador de Hojas"</string>
-    <string name="Collect_5000_leaves_">"Recoge 5,000 hojas "</string>
+    <string name="Collect_5000_leaves_">"Recoge 5,000 hojas."</string>
 
 
     <string name="Arena">"Arena"</string>
@@ -435,8 +435,8 @@
 
     <string name="Loading_Purchases___">"Cargando compras…"</string>
     <string name="In_App_Purchases">"Compras en la aplicación"</string>
-    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"No se puede aplicar otro acelerador de EXP hasta que el acelerador actual termine "</string>
-    <string name="This_purchase_has_already_been_redeemed_">"Esta compra ya ha sido canjeada "</string>
+    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"No se puede aplicar otro acelerador de EXP hasta que el acelerador actual termine."</string>
+    <string name="This_purchase_has_already_been_redeemed_">"Esta compra ya ha sido canjeada."</string>
 
     <string name="You_cannot_remove_yourself__Leave_clan_instead_">"No te puedes expulsar a ti mismo. En su lugar, solamente abandona el clan "</string>
 
@@ -462,9 +462,9 @@
     <string name="Plasma_Mogul">"Magnate de plasma"</string>
     <string name="Plasma_Collector">"Coleccionista de plasma"</string>
     <string name="Plasma_Hoarder">"Acaparador de plasma"</string>
-    <string name="Collect_1_000_Plasma">"Recoge 1,000 plasma "</string>
-    <string name="Collect_10_000_Plasma_">"Recoge 10,000 plasma "</string>
-    <string name="Collect_100_000_Plasma">"Recoge 100,000 plasma "</string>
+    <string name="Collect_1_000_Plasma">"Recoge 1,000 plasma."</string>
+    <string name="Collect_10_000_Plasma_">"Recoge 10,000 plasma."</string>
+    <string name="Collect_100_000_Plasma">"Recoge 100,000 plasma."</string>
     <string name="Plasma_Collected_">"Plasma recogida:"</string>
     <string name="Plasma_Purchases">"Compras de plasma"</string>
 
@@ -477,9 +477,9 @@
     <string name="Gladiator">"Gladiador"</string>
     <string name="Challenger">"Contrincante"</string>
     <string name="Win_1_1v1_Arenas_">"Gana una Arena 1vs1 "</string>
-    <string name="Win_10_Arenas_">"Gana 10 Arenas "</string>
-    <string name="Win_100_Arenas_">"Gana 100 Arenas "</string>
-    <string name="Win_1000_Arenas">"Gana 1,000 Arenas "</string>
+    <string name="Win_10_Arenas_">"Gana 10 Arenas."</string>
+    <string name="Win_100_Arenas_">"Gana 100 Arenas."</string>
+    <string name="Win_1000_Arenas">"Gana 1,000 Arenas."</string>
 
 
     <string name="Already_in_arena_">"En la arena "</string>
@@ -509,16 +509,16 @@
 
     <string name="Present_Hoarder">"Acaparador de regalos"</string>
     <string name="Present_Mogul">"Magnate de regalos"</string>
-    <string name="Collect_1_000_presents_">"Recoge 1,000 regalos "</string>
-    <string name="Collect_5_000_presents_">"Recoge 5,000 regalos "</string>
-    <string name="Collect_10_000_presents_">"Recoge 10,000 regalos "</string>
+    <string name="Collect_1_000_presents_">"Recoge 1,000 regalos."</string>
+    <string name="Collect_5_000_presents_">"Recoge 5,000 regalos."</string>
+    <string name="Collect_10_000_presents_">"Recoge 10,000 regalos."</string>
     <string name="Loading_reward_video___">"Cargando vídeo de recompensa…"</string>
     <string name="Progress">"Progreso"</string>
     <string name="Snowflake_Hoarder">"Acaparador de copos de nieve"</string>
     <string name="Snowflake_Mogul">"Magnate de copos de nieve"</string>
-    <string name="Collect_1_000_snowflakes_">"Recoge 1,000 copos de nieve "</string>
-    <string name="Collect_5_000_snowflakes_">"Recoge 5,000 copos de nieve "</string>
-    <string name="Collect_10_000_snowflakes_">"Recoge 10,000 copos de nieve "</string>
+    <string name="Collect_1_000_snowflakes_">"Recoge 1,000 copos de nieve."</string>
+    <string name="Collect_5_000_snowflakes_">"Recoge 5,000 copos de nieve."</string>
+    <string name="Collect_10_000_snowflakes_">"Recoge 10,000 copos de nieve."</string>
     <string name="Show_All">"Mostrar todo"</string>
 
     <string name="SET_PERMISSIONS">"ESTABLECER PERMISOS"</string>
@@ -570,9 +570,9 @@
     <string name="Candy_Hoarder">"Acaparador de caramelos"</string>
     <string name="Candy_Collector">"Coleccionista de caramelos"</string>
     <string name="Candy_Mogul">"Magnate de caramelos"</string>
-    <string name="Collect_1_000_candies_">"Recoge 1,000 caramelos "</string>
-    <string name="Collect_5_000_candies_">"Recoge 5,000 caramelos "</string>
-    <string name="Collect_10_000_candies_">"Recoge 10,000 caramelos "</string>
+    <string name="Collect_1_000_candies_">"Recoge 1,000 caramelos."</string>
+    <string name="Collect_5_000_candies_">"Recoge 5,000 caramelos."</string>
+    <string name="Collect_10_000_candies_">"Recoge 10,000 caramelos."</string>
     <string name="candies_">"caramelos "</string>
     <string name="Language">"Idioma"</string>
     <string name="Control_Opacity_">"Control de opacidad:"</string>
@@ -584,9 +584,9 @@
     <string name="You_are_not_invited_to_team_">"No has sido invitado al equipo "</string>
     <string name="Team_does_not_exist_">"El equipo no existe "</string>
     <string name="Please_wait_a_minute_before_sending_another_report_">"Por favor, espera un minuto antes de enviar otra denuncia "</string>
-    <string name="Collect_1_000_beads_">"Recoge 1,000 perlas "</string>
-    <string name="Collect_5_000_beads_">"Recoge 5,000 perlas "</string>
-    <string name="Collect_10_000_beads_">"Recoge 10,000 perlas "</string>
+    <string name="Collect_1_000_beads_">"Recoge 1,000 perlas."</string>
+    <string name="Collect_5_000_beads_">"Recoge 5,000 perlas."</string>
+    <string name="Collect_10_000_beads_">"Recoge 10,000 perlas."</string>
     <string name="Bead_Collector">"Coleccionista de perlas"</string>
     <string name="Bead_Hoarder">"Acaparador de perlas"</string>
     <string name="Bead_Mogul">"Magnate de perlas"</string>
@@ -616,9 +616,9 @@
     <string name="Egg_Collector">"Coleccionista de huevos"</string>
     <string name="Egg_Hoarder">"Acaparador de huevos"</string>
     <string name="Egg_Mogul">"Magnate de huevos"</string>
-    <string name="Collect_1_000_eggs_">"Recoge 1,000 huevos "</string>
-    <string name="Collect_5_000_eggs_">"Recoge 5,000 huevos "</string>
-    <string name="Collect_10_000_eggs_">"Recoge 10,000 huevos "</string>
+    <string name="Collect_1_000_eggs_">"Recoge 1,000 huevos."</string>
+    <string name="Collect_5_000_eggs_">"Recoge 5,000 huevos."</string>
+    <string name="Collect_10_000_eggs_">"Recoge 10,000 huevos."</string>
     <string name="HISTORY">"HISTORIAL"</string>
     <string name="CLAN_HISTORY">"HISTORIAL DEL CLAN"</string>
 
@@ -644,9 +644,9 @@
     <string name="Raindrop_Collector">"Coleccionista de gotas de lluvia"</string>
     <string name="Raindrop_Hoarder">"Acaparador de gotas de lluvia"</string>
     <string name="Raindrop_Mogul">"Magnate de gotas de lluvia"</string>
-    <string name="Collect_1_000_raindrops_">"Recoge 1,000 gotas de lluvia "</string>
-    <string name="Collect_5_000_raindrops_">"Recoge 5,000 gotas de lluvia "</string>
-    <string name="Collect_10_000_raindrops_">"Recoge 10,000 gotas de lluvia "</string>
+    <string name="Collect_1_000_raindrops_">"Recoge 1,000 gotas de lluvia."</string>
+    <string name="Collect_5_000_raindrops_">"Recoge 5,000 gotas de lluvia."</string>
+    <string name="Collect_10_000_raindrops_">"Recoge 10,000 gotas de lluvia."</string>
     <string name="Copy_Message">"Copiar mensaje"</string>
     <string name="Copied_to_clipboard_">"Copiado al portapapeles "</string>
     <string name="COPY_NAME">"COPIAR NOMBRE"</string>
@@ -664,9 +664,9 @@
     <string name="Nebula_Collector">"Coleccionista de Nebulosas"</string>
     <string name="Nebula_Hoarder">"Acaparador de Nebulosas"</string>
     <string name="Nebula_Mogul">"Magnate de Nebulosas"</string>
-    <string name="Collect_1_000_nebulas_">"Recoge 1,000 nebulosas "</string>
-    <string name="Collect_5_000_nebulas_">"Recoge 5,000 nebulosas "</string>
-    <string name="Collect_10_000_nebulas_">"Recoge 10,000 nebulosas "</string>
+    <string name="Collect_1_000_nebulas_">"Recoge 1,000 nebulosas."</string>
+    <string name="Collect_5_000_nebulas_">"Recoge 5,000 nebulosas."</string>
+    <string name="Collect_10_000_nebulas_">"Recoge 10,000 nebulosas."</string>
     <string name="nebulas_">"nebulosas "</string>
     <string name="Incompatible_versions_">"Versiones incompatibles "</string>
     <string name="Update_Available_">"¡Actualización disponible!"</string>
@@ -679,18 +679,18 @@
     <string name="Sun_Collector">"Coleccionista de Soles"</string>
     <string name="Sun_Hoarder">"Acaparador de Soles"</string>
     <string name="Sun_Mogul">"Magnate de Soles"</string>
-    <string name="Collect_1_000_suns_">"Recoge 1,000 soles "</string>
-    <string name="Collect_5_000_suns_">"Recoge 5,000 soles "</string>
-    <string name="Collect_10_000_suns_">"Recoge 10,000 soles "</string>
+    <string name="Collect_1_000_suns_">"Recoge 1,000 soles."</string>
+    <string name="Collect_5_000_suns_">"Recoge 5,000 soles."</string>
+    <string name="Collect_10_000_suns_">"Recoge 10,000 soles."</string>
     <string name="Reward_Videos_">"¡Vídeos de recompensa!"</string>
     <string name="Free_Plasma_">"¡Plasma gratis!"</string>
     <string name="moons_">"lunas "</string>
     <string name="Moon_Collector">"Coleccionista de Lunas"</string>
     <string name="Moon_Hoarder">"Atesorador de Lunas"</string>
     <string name="Moon_Mogul">"Magnate de Lunas"</string>
-    <string name="Collect_1_000_moons_">"Recoge 1,000 lunas "</string>
-    <string name="Collect_5_000_moons_">"Recoge 5,000 lunas "</string>
-    <string name="Collect_10_000_moons_">"Recoge 10,000 lunas "</string>
+    <string name="Collect_1_000_moons_">"Recoge 1,000 lunas."</string>
+    <string name="Collect_5_000_moons_">"Recoge 5,000 lunas."</string>
+    <string name="Collect_10_000_moons_">"Recoge 10,000 lunas."</string>
     <string name="BLUETOOTH">"BLUETOOTH"</string>
     <string name="HOST">"ANFITRIÓN"</string>
     <string name="This_device_does_not_support_bluetooth_">"Este dispositivo no es compatible con bluetooth "</string>
@@ -704,17 +704,17 @@
     <string name="Note_Collector">"Coleccionista de Notas"</string>
     <string name="Note_Hoarder">"Acaparador de Notas"</string>
     <string name="Note_Mogul">Magnate de Notas"</string>
-    <string name="Collect_1_000_notes_">"Recoge 1,000 notas "</string>
-    <string name="Collect_5_000_notes_">"Recoge 5,000 notas "</string>
-    <string name="Collect_10_000_notes_">"Recoge 10,000 notas "</string>
+    <string name="Collect_1_000_notes_">"Recoge 1,000 notas."</string>
+    <string name="Collect_5_000_notes_">"Recoge 5,000 notas."</string>
+    <string name="Collect_10_000_notes_">"Recoge 10,000 notas."</string>
     <string name="notes_">"notas "</string>
     <string name="CLICK_CHEAT_DETECTED_">"¡AUTOCLICK DETECTADO!"</string>
     <string name="Pumpkin_Hoarder">"Acaparador de Calabazas"</string>
     <string name="Pumpkin_Mogul">"Magnate de Calabazas"</string>
     <string name="Leaf_Mogul">"Magnate de Hojas"</string>
-    <string name="Collect_5000_pumpkins_">"Recoge 5,000 calabazas "</string>
-    <string name="Collect_10000_pumpkins_">"Recoge 10,000 calabazas "</string>
-    <string name="Collect_10000_leaves_">"Recoge 10,000 hojas "</string>
+    <string name="Collect_5000_pumpkins_">"Recoge 5,000 calabazas."</string>
+    <string name="Collect_10000_pumpkins_">"Recoge 10,000 calabazas."</string>
+    <string name="Collect_10000_leaves_">"Recoge 10,000 hojas."</string>
     <string name="Eject">"Expulsar"</string>
     <string name="Eject_Skin">"Skin de masa expulsada"</string>
     <string name="Double_Plasma__">"¡¡Doble plasma!!"</string>
@@ -926,7 +926,7 @@
     <string name="ENABLED">"HABILITADO"</string>
     <string name="Enable_Custom_Blob_Color">"Habilitar color personalizado del blob"</string>
     <string name="Choose_Menu">"Elije el menú"</string>
-    <string name="SPECTATE">"OBSERBAR"</string>
+    <string name="SPECTATE">"OBSERVAR"</string>
     <string name="INVITE">INVITAR</string>
     <string name="error_1">Únicamente el líder o colíderes pueden enviar un correo al clan</string>
     <string name="Hat">Sombrero</string>
@@ -1129,7 +1129,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="Pack">Paquete</string>
     <string name="Skin_Pack">Paquete de Skins</string>
     <string name="SKIN_PACK">PAQUETE DE SKIN</string>
-    <string name="HALLOWEEN">DÍA DE BRUJAS</string>
+    <string name="HALLOWEEN">NOCHE DE BRUJAS</string>
     <string name="pack_info">Después de comprar este paquete de skins, sus máscaras exclusivas aparecerán en la parte superior de los menús de selección de skins..</string>
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">¡EXCLUSIVO Skins, Mascotas, Sombreros y Más!</string>
     <string name="BUY_NOW_">¡COMPRAR AHORA!</string>
@@ -1255,7 +1255,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="Button_3D">Botón 3D</string>
     <string name="Hide_Button_">¿Ocultar botón?</string>
     <string name="Show_Boost_Button">Mostrar botón de acelerador</string>
-    <string name="Spectate_Killer_On_Death">Obserbar quien te comió</string>
+    <string name="Spectate_Killer_On_Death">Observar quien te comió</string>
     <string name="Rainbow_Holes">Agujero Arcoíris</string>
     <string name="LIFE_STEAL">ROBAR VIDA</string>
     <string name="Kicked_From_Game_">¡Expulsado de un Juego!</string>
@@ -1346,21 +1346,21 @@ Subir la misma skin NO aprobada varias veces resultará en más sanciones o en u
     <string name="The_winner_will_receive_x_plasma_">El ganador recibirá %s plasma!</string>
     <string name="admin_commands">"
 Comandos:
-!kick [0–31]
-!reset
-!welcome {mensaje}
+!kick [0–31] - Expulsar a un jugador
+!reset - Reiniciar el juego
+!welcome {mensaje de bienvenida}
 !difficulty [0-3] o [1-4] para Campaña
-!hidden
-!slowchat
-!pausechat
-!mute {id}
-!admin {id}
-!allow {id}
-!allow reset
-!team [1-4] {id} (Solo en modos con equipos)
-!winner
-!stats
-!info"
+!hidden - Cambiar a sala oculta
+!slowchat - Cambiar a chat lento
+!pausechat - Pausar chat por un tiempo
+!mute {id} - Silenciar a un jugador
+!admin {id} - Agregar un administrador de sala
+!allow {id} - Conceder permiso a un jugador
+!allow reset - Reiniciar permisos
+!team [1-4] {id} - Solo en modos con equipos
+!winner - Ganador de una partida con tiempo
+!stats - Estadísticas de sesión
+!info - Informaciones de la sala
 </string>
     <string name="ID_Sort">Ordenar ID</string>
     <string name="Master_Tamer">Maestro Domador</string>

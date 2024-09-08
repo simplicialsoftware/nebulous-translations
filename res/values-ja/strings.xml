@@ -1033,7 +1033,7 @@
     <string name="WORLD_CUP_EVENT___">世界イベント！</string>
     <string name="world_cup_event_description">ワールドカップ終了までサッカーモードでの経験値2倍とダブルプラズマ！</string>
     <string name="GIF_Skins">GIFスキン</string>
-    <string name="PLAY_ONLINE_">PLAY ONLINE!</string>
+    <string name="PLAY_ONLINE_">オンラインをプレイする！</string>
     <string name="Absorb_10_000_000_dots">ドットを1000万個回収</string>
     <string name="Dot_Deity">Dot Deity</string>
     <string name="Mass_Mastery">Mass Mastery</string>
@@ -1061,7 +1061,7 @@
     <string name="Vote_Kick">Kick Player</string>
     <string name="FONT">フォント</string>
     <string name="CIRCLE">丸</string>
-    <string name="SQUARES">SQUARES</string>
+    <string name="SQUARES">四角</string>
     <string name="TRICK_MODE">トリックモード</string>
     <string name="ICE_SPLIT">ICE SPLIT</string>
     <string name="TRICK_SPLIT">TRICK SPLIT</string>
@@ -1114,8 +1114,8 @@
     <string name="ASTEROIDS">ASTEROIDS</string>
     <string name="CHRISTMAS">クリスマス</string>
     <string name="Reason">Reason</string>
-    <string name="PUBLIC">PUBLIC</string>
-    <string name="PRIVATE">PRIVATE</string>
+    <string name="PUBLIC">公開</string>
+    <string name="PRIVATE">非公開</string>
     <string name="Joined">Joined</string>
     <string name="Requests">Requests</string>
     <string name="Invites">Invites</string>
@@ -1166,7 +1166,7 @@
     <string name="Specify_amount_">Specify amount:</string>
     <string name="Specify_amount_again_to_confirm_">Specify amount again to confirm:</string>
     <string name="Amounts_did_not_match_">Amounts did not match!</string>
-    <string name="RECEIVE_PLASMA">RECEIVE PLASMA</string>
+    <string name="RECEIVE_PLASMA">プラズマを受け取る</string>
     <string name="MULTIBLOB">マルチブロブ</string>
     <string name="Play_Nebulous_For_1_Year_">1年間ネビュラスをプレイしました！</string>
     <string name="Play_Nebulous_For_X_Years_">%d年間ネビュラスをプレイしました！</string>
@@ -1207,7 +1207,7 @@
     <string name="Win_100_Tournaments">Win 100 Tournaments</string>
     <string name="HERO">ヒーロー</string>
     <string name="CHAMPION">CHAMPION</string>
-    <string name="DASH">DASH</string>
+    <string name="DASH">ダッシュ</string>
     <string name="setting_changed">Settings updated. You may need to reconnect to the server for it to take effect.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Perform 10,000 tricks in a Trick Mode game.</string>
     <string name="Tricky">トリッキ</string>
@@ -1237,19 +1237,19 @@
     <string name="Plasma_Boost">プラズマブースト</string>
     <string name="particle_info">You must be at least level 50 and use a base skin with particles in order to see any particles.</string>
     <string name="Plain_Score_Text">"Plain Score Text"</string>
-    <string name="Custom_Skin_Reviewed_Notification">Your Custom Skin Has Been Reviewed!</string>
-    <string name="You_Have_Mail_">You Have Mail From %s!</string>
+    <string name="Custom_Skin_Reviewed_Notification">あなたのカスタムスキンは分析しました！</string>
+    <string name="You_Have_Mail_">あなたは%sからメールがあります！</string>
     <string name="Clan_Request_Reviewed_Notification">Your Request To Join Clan %s Been Reviewed!</string>
-    <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
+    <string name="CRAZY_SPLIT">CRAZYスプリット32x</string>
     <string name="Sold_Community_Skins_">"Sold Community Skins: "</string>
     <string name="Estimated_Earnings_">"Estimated Earnings: "</string>
     <string name="South_Africa">南アフリカ</string>
-    <string name="SPLIT_">SPLIT:</string>
-    <string name="WALLS">WALLS</string>
-    <string name="COMP_BANNED">COMP BANNED</string>
-    <string name="FIND_GAMES">FIND GAMES</string>
-    <string name="PLAY_SOLO">PLAY SOLO</string>
-    <string name="SET_EMOTE">SET EMOTE</string>
+    <string name="SPLIT_">スプリット：</string>
+    <string name="WALLS">壁</string>
+    <string name="COMP_BANNED">競技に禁止された</string>
+    <string name="FIND_GAMES">ゲームを検索する</string>
+    <string name="PLAY_SOLO">一人をプレイする</string>
+    <string name="SET_EMOTE">絵文字を設定する</string>
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
     <string name="Win_a_Battle_Royale_">Win a Battle Royale.</string>
     <string name="Battle_">Battle!</string>
@@ -1281,9 +1281,9 @@
     <string name="Allow_Recombine">Allow Recombine</string>
     <string name="Defenders">Defenders</string>
     <string name="Attackers">Attackers</string>
-    <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
+    <string name="MEGA_SPLIT">MEGAスプリット64x</string>
     <string name="Missing_Permissions">Missing Permissions</string>
-    <string name="DELETE_ACCOUNT">DELETE ACCOUNT</string>
+    <string name="DELETE_ACCOUNT">アカウントを削除する</string>
     <string name="delete_prompt">Are you sure you want to delete your account? This is PERMANENT and CANNOT BE UNDONE!</string>
 
 
@@ -1303,8 +1303,8 @@
     <string name="CAMPAIGN_2">キャンペーン2</string>
     <string name="XP_5x">経験値5倍</string>
     <string name="India">インディア</string>
-    <string name="Tutorial">Tutorial</string>
-    <string name="TYCOON">TYCOON</string>
+    <string name="Tutorial">チュートリアル</string>
+    <string name="TYCOON">タイクーン</string>
     <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
     <string name="activate">Activate</string>
     <string name="clan_id">クランID</string>
@@ -1312,7 +1312,7 @@
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
     <string name="no_response">No response from server. Please check the internet connection.</string>
     <string name="RAMADAN">ラマダン</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="SUDDEN_ATTACK">突然のアタック</string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">あなたはすでに友達です.</string>
@@ -1336,14 +1336,14 @@
         <item>"左と右"</item>
         <item>"左に積む"</item>
         <item>"右に積む"</item>
-        <item>"Custom"</item>
+        <item>"カスタム"</item>
     </string-array>
 
     <string-array name="themes">
         <item>"スター（ダーク）"</item>
         <item>"グリッド（ダーク）"</item>
         <item>"グリッド（ホワイト）"</item>
-        <item>"Custom"</item>
+        <item>"カスタム"</item>
         <item>"なし"</item>
     </string-array>
 
@@ -1351,7 +1351,7 @@
         <item>"易い"</item>
         <item>"普通"</item>
         <item>"難しい"</item>
-        <item>"IMPOSSIBLE"</item>
+        <item>"不可能"</item>
     </string-array>
 
     <string-array name="sizes">
@@ -1359,7 +1359,7 @@
         <item>"小"</item>
         <item>"普通"</item>
         <item>"大"</item>
-        <item>"HUGE"</item>
+        <item>"巨大"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
