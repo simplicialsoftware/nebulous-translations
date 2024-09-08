@@ -20,13 +20,13 @@
     <string name="Avatar_">"अवतार:"</string>
     <string name="Name_">"नाम:"</string>
 
-    <string name="Loading___">"लोड हो रहा है …"</string>
+    <string name="Loading___">"लोड हो रहा है…"</string>
     <string name="Connecting___">"कनेक्ट हो रहा है…"</string>
 
     <string name="Are_You_Sure_">"क्या आपको यकीन है?"</string>
     <string name="Yes">"हाँ"</string>
     <string name="No">"नहीं"</string>
-    <string name="WAIT">"प्रतीक्षा करें …"</string>
+    <string name="WAIT">"प्रतीक्षा करें…"</string>
     <string name="Must_Specify_Name_">"नाम निर्दिष्ट करना होगा।"</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"समूहों की खोज जब अनुप्रयोग की सामग्री मूल्यांकन बदल सकता है।"</string>
@@ -41,7 +41,7 @@
     <string name="Name_Invalid_">"अवैध नाम।"</string>
     <string name="Name_Taken_">"नाम लिया गया है।"</string>
     <string name="CONNECTED">"जुड गए"</string>
-    <string name="JOINING___">"शामिल हो रहे है …"</string>
+    <string name="JOINING___">"शामिल हो रहे है…"</string>
     <string name="PLAYING">"खेल रहे है"</string>
     <string name="MULTIPLAYER">"मल्टीप्लेयर"</string>
 
@@ -109,7 +109,7 @@
 
     <string name="FRIENDS">"दोस्त"</string>
     <string name="Warning">"चेतावनी"</string>
-    <string name="SIGNING_IN">"साइनइन करे.."</string>
+    <string name="SIGNING_IN">"साइनइन करे…"</string>
     <string name="New_Friend_Request">"नए मित्र अनुरोध!"</string>
     <string name="REQUEST_FRIEND">"दोस्त को अनुरोध"</string>
     <string name="Private">"निजी"</string>
@@ -433,7 +433,7 @@
     <string name="You_cannot_purchase_this_right_now_">"अब आप यह अधिकार नहीं खरीद सकते हैं।"</string>
 
 
-    <string name="Loading_Purchases___">"लोड हो रहा है खरीद …"</string>
+    <string name="Loading_Purchases___">"लोड हो रहा है खरीद…"</string>
     <string name="In_App_Purchases">"इन - ऐप खरीदारी"</string>
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"वर्तमान को बढ़ावा देने की समय सीमा समाप्त जब तक नए XP को बढ़ावा देने के लिए लागू नहीं कर सकते हैं।"</string>
     <string name="This_purchase_has_already_been_redeemed_">"इस खरीद के पहले ही भुनाया जा चुका है।"</string>
@@ -512,7 +512,7 @@
     <string name="Collect_1_000_presents_">"1,000 प्रस्तुत एकत्र।"</string>
     <string name="Collect_5_000_presents_">"5,000 प्रस्तुत एकत्र।"</string>
     <string name="Collect_10_000_presents_">"10,000 प्रस्तुत एकत्र।"</string>
-    <string name="Loading_reward_video___">"लोड हो रहा है इनाम वीडियो …"</string>
+    <string name="Loading_reward_video___">"लोड हो रहा है इनाम वीडियो…"</string>
     <string name="Progress">"प्रगति"</string>
     <string name="Snowflake_Hoarder">"बर्फ़ जमाखोर"</string>
     <string name="Snowflake_Mogul">"बर्फ़ मंगोली"</string>
