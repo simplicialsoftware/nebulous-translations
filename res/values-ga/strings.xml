@@ -46,7 +46,7 @@
     <string name="PLAYING">"PLAYING"</string>
     <string name="MULTIPLAYER">"MULTIPLAYER"</string>
 
-    <string name="JOIN">"JOIN"</string>
+    <string name="JOIN">"ISTEACH"</string>
 
 
     <string name="Lobby_Name">"Ainm an Lobaidh"</string>
