@@ -34,7 +34,7 @@
     <string name="_Rank_">" المرتبة "</string>
     <string name="_Alias_">" الإسم المُستعار "</string>
     <string name="_Score_">" النقاط "</string>
-    <string name="Score__">"النقاط: "</string>
+    <string name="Score__">" النقاط "</string>
     <string name="Recombine_">"إعادة التجميع: "</string>
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"خمول"</string>
@@ -49,7 +49,7 @@
 
 
     <string name="Lobby_Name">"أسم السيرفر"</string>
-    <string name="Not_found_">"لم يتم العثور عليه."</string>
+    <string name="Not_found_">"لم يتم العثور عليه"</string>
 
     <string name="Hidden">"مخفي"</string>
 
@@ -1377,7 +1377,7 @@ Commands:
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
     <string name="Translator">متـرجـم</string>
-    <string name="SUCCESS">تم بنجاح</string>
+    <string name="SUCCESS">نَاجح</string>
 
 
     <string-array name="control_modes">
