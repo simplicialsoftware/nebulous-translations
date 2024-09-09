@@ -628,7 +628,7 @@
     <string name="Times_Teleported_">"عدد مرات الإنتقال:"</string>
     <string name="Powerups_Used_">"أسلحة الفوضى المستعملة:"</string>
     <string name="Power_Hungry">"المتعطش للقوة"</string>
-    <string name="Over_9000">"اعلى من 9000"</string>
+    <string name="Over_9000">"أعلى من 9000"</string>
     <string name="Omnipresence">"كلية الوجود"</string>
 
     <string name="Shoot_9001_Powerups">"إطلاق 9001 من أسلحة الفوضى"</string>
@@ -1377,7 +1377,7 @@ Commands:
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
     <string name="Translator">متـرجـم</string>
-    <string name="SUCCESS">تم بنجاح</string>
+    <string name="SUCCESS">نَاجح</string>
 
 
     <string-array name="control_modes">
