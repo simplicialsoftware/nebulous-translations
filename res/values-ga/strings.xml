@@ -337,7 +337,7 @@
     <string name="_in_a_Teams_Game">" i bhfoirne cluiche"</string>
     <string name="_dots">" poncanna"</string>
     <string name="_player_blobs">" blobaí imreoir"</string>
-    <string name="Absorb_">"Absorb "</string>
+    <string name="Absorb_">"Ionsú"</string>
     <string name="Collect_">"Bailigh "</string>
 
     <string name="FFA_CLASSIC">"CLÁR NA FÁTA"</string>
@@ -469,7 +469,7 @@
     <string name="Plasma_Collected_">"Plasma Bailithe:"</string>
     <string name="Plasma_Purchases">"Ceannacháin Plasma"</string>
 
-    <string name="ENTER">"ENTER"</string>
+    <string name="ENTER">"ISTEACH"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Cleachtadh"</string>
     <string name="ArenaDescription">"Ní gheobhaidh tú ach saol amháin. Gheobhaidh an buaiteoir %s plasma."</string>
