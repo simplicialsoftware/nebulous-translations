@@ -340,7 +340,7 @@
     <string name="Reward">"Nagrada"</string>
     <string name="Please_Wait___">"Molimo pričekajte&#x2026;"</string>
     <string name="Purchasing">"Kupovati"</string>
-    <string name="Purchase_Successful_">"Kupovina usješna!"</string>
+    <string name="Purchase_Successful_">"Kupovina uspješna!"</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Možda ćete morati da se ponovo konektujete da dobijete kupljenu stvar."</string>
     <string name="Confirm_Purchase">"Potvrdite kupnju"</string>
     <string name="x3_XP_24_hours">"3x XP 24 sata"</string>
@@ -919,7 +919,7 @@
     <string name="Buy">Kupiti</string>
     <string name="Sell">Prodati</string>
     <string name="community_skin_requirement">Morate kupiti "Omogućite prilagođene skinove" da biste koristili skinove zajednice.</string>
-    <string name="You_can_purchase_this_community_skin_for_">You can purchase this community skin for</string>
+    <string name="You_can_purchase_this_community_skin_for_">Možete kupiti ovaj zajednica skin za</string>
     <string name="VIEW_UPLOADER">POGLEDAJTE UČITAVAČA</string>
     <string name="POPULAR">POPULARNO</string>
     <string name="NEW">NOVO</string>
@@ -950,7 +950,7 @@
     <string name="SKIN_PACK">SKIN PAKET</string>
     <string name="HALLOWEEN">NOĆ VJEŠTICA</string>
     <string name="pack_info">Nakon kupnje ovog paketa skinova, vaši ekskluzivni skinovi će se pojaviti na vrhu izbornika za odabir skina.</string>
-    <string name="EXCLUSIVE_skins_pets_hats_and_more_">EKSKLIZIVNI skinovi, ljubimci, šeširi i više!</string>
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">EKSKLUZIVNI skinovi, ljubimci, šeširi i više!</string>
     <string name="BUY_NOW_">KUPITE SADA!</string>
     <string name="already_purchased">Vi ili osoba kojoj kupujete ovo već posjeduje ovo.</string>
     <string name="Halo_Animations">Animacije vijenaca</string>
@@ -1169,20 +1169,20 @@ Komande admina:
     <string name="India">India</string>
     <string name="Tutorial">Tutorial</string>
     <string name="TYCOON">TYCOON</string>
-    <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
-    <string name="activate">Activate</string>
-    <string name="clan_id">CLAN ID</string>
-    <string name="language_change_warning">Changing the language will cause the app to restart.</string>
-    <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
+    <string name="CLAN_BACKGROUND_COLOR">BOJA POZADINE KLANA</string>
+    <string name="activate">Aktiviraj</string>
+    <string name="clan_id">KLAN ID</string>
+    <string name="language_change_warning">Promjena jezika će uzrokovati ponovno pokretanje aplikacije.</string>
+    <string name="xmas_gift_boost_message">Dobili ste na poklon 3x plazma pojačanje za 1 dan!</string>
     <string name="no_response">No response from server. Please check the internet connection.</string>
-    <string name="RAMADAN">RAMADAN</string>
+    <string name="RAMADAN">RAMAZAN</string>
     <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="_2x_skin_resolution">2x Skin Rezoluciju</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="You_are_already_friends_">Vi ste već prijatelji.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Račun mora biti star 1 dan za slanje pošte.</string>
     <string name="Translator">Translator</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">USPJEH</string>
 
 
     <string-array name="control_modes">

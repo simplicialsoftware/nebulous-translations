@@ -8,7 +8,7 @@
     <string name="Button_Margin_">"Deplasare Buton:"</string>
     <string name="Buttons_">"Butoane:"</string>
     <string name="DEFAULTS">"PRESTABILITE"</string>
-    <string name="WEEKLY">"SĂPTĂM NAL"</string>
+    <string name="WEEKLY">"SĂPTĂMÂNAL"</string>
     <string name="DAILY">"ZILNIC"</string>
     <string name="Server_">"Server:"</string>
     <string name="Game_Mode_">"Mod de Joc:"</string>
@@ -36,7 +36,7 @@
     <string name="_Score_">" Scor "</string>
     <string name="Score__">"Scor: "</string>
     <string name="Recombine_">"Recombină:  "</string>
-    <string name="WINNER_">"C ŞTIGĂTOR"</string>
+    <string name="WINNER_">"CÂSTIGATOR"</string>
     <string name="IDLE">"INACTIV"</string>
     <string name="Name_Invalid_">"Nume invalid."</string>
     <string name="Name_Taken_">"Nume luat."</string>
@@ -128,7 +128,7 @@
     <string name="Friend_Request_Sent">"Cerere de prietenie trimisă"</string>
     <string name="ERROR">"EROARE"</string>
     <string name="CONTINUE">"CONTINUĂ"</string>
-    <string name="Global_" formatted="false">"Global%"</string>
+    <string name="Global_" formatted="false">"Global"</string>
     <string name="FRIEND_CHAT">"CHAT DE PRIETENI"</string>
     <string name="LOBBY_NAME">"NUMELE LOBBY-ULUI"</string>
     <string name="NULL">"NUL"</string>
@@ -136,37 +136,37 @@
 
     <string name="ALL">"TOATE"</string>
     <string name="FFA">"FFA"</string>
-    <string name="FFA_TIME">"FFA TIMP"</string>
+    <string name="FFA_TIME">"FFA CU TIMP"</string>
     <string name="TEAMS">"ECHIPE"</string>
-    <string name="TEAMS_TIME">"ECHIPE TIMP"</string>
+    <string name="TEAMS_TIME">"ECHIPE CU TIMP"</string>
     <string name="CTF">"CTF"</string>
-    <string name="SURVIVAL">"SUPRAVIEŢUIRE"</string>
+    <string name="SURVIVAL">"SUPRAVIEȚUIRE"</string>
 
 
-    <string name="Clan_XP">"XP Clan"</string>
+    <string name="Clan_XP">"XP de Clan"</string>
 
 
     <string name="Dot_Nibbler">"Punctul Nemâncat"</string>
     <string name="Dot_Muncher">"Punctul Noobalău"</string>
     <string name="Dot_Eater">"Punctul Mâncător"</string>
-    <string name="Dot_Gulper">"Punctul Mărişor"</string>
+    <string name="Dot_Gulper">"Punctul Mărișor"</string>
     <string name="Dot_Gobbler">"Punctul Mâncăcios"</string>
     <string name="Dot_Devourer">"Punctul Devorator"</string>
     <string name="Dot_Gormandizer">"Punctul Gurmand"</string>
     <string name="Dot_Sommelier">"Punctul Nebunatic"</string>
 
-    <string name="Quadra_Gulp">"Cvartet-ul Înghiţiturii"</string>
-    <string name="Multi_Gulp">"Multi Înghiţitura"</string>
-    <string name="Mega_Gulp">"Mega Înghiţitura"</string>
-    <string name="Ultra_Gulp">"Ultra Înghiţitura"</string>
-    <string name="Monster_Gulp">"Înghiţitura Monstru"</string>
-    <string name="Ludicrous_Gulp">"Înghiţitura Ridicolă"</string>
+    <string name="Quadra_Gulp">"Cvartet-ul Înghițitura"</string>
+    <string name="Multi_Gulp">"Multi Înghițitura"</string>
+    <string name="Mega_Gulp">"Mega Înghițitura"</string>
+    <string name="Ultra_Gulp">"Ultra Înghițitura"</string>
+    <string name="Monster_Gulp">"Înghițitura Monstru"</string>
+    <string name="Ludicrous_Gulp">"Înghițitura Ridicolă"</string>
 
     <string name="Blobicide">"Blobicid"</string>
-    <string name="Blobtrocity">"Atrocitate"</string>
-    <string name="Blobaccre">"Masacru"</string>
-    <string name="Blobastrophe">"Catastrofă"</string>
-    <string name="Blobihilation">"Blobihilaţie"</string>
+    <string name="Blobtrocity">"Blobtrocitate"</string>
+    <string name="Blobaccre">"Blobacru"</string>
+    <string name="Blobastrophe">"Blobastrofă"</string>
+    <string name="Blobihilation">"Blobihilație"</string>
     <string name="Blobageddon">"Blobarmageddon"</string>
     <string name="Blobocalypse">"Blobocalipsă"</string>
 
@@ -176,11 +176,11 @@
     <string name="Grand_Master_Nebulator">"Marele Maestru Nebulator"</string>
     <string name="Impossible">"Imposibil"</string>
 
-    <string name="Perfection">"Perfecţiune"</string>
+    <string name="Perfection">"Perfecțiune"</string>
     <string name="Single_Handedly">"Unul singur"</string>
     <string name="Dodgey">"Dodgey"</string>
     <string name="Self_Contained">"Independent"</string>
-    <string name="Survivalist">"Supravieţuitor"</string>
+    <string name="Survivalist">"Supraviețuitor"</string>
     <string name="Ultramassive">"Ultramasiv"</string>
     <string name="Rapid_Ascension">"Înălțare Rapidă"</string>
     <string name="Revenge">"Răzbunare"</string>
@@ -253,7 +253,7 @@
     <string name="My_Status_">"Statusul meu"</string>
     <string name="Game_Size_">"Dimensiune joc:"</string>
 
-    <string name="Server_Restart_">"Serverul reporneşte:"</string>
+    <string name="Server_Restart_">"Serverul repornește:"</string>
     <string name="GOAL_">"GOL!"</string>
     <string name="SOCCER">"FOTBAL"</string>
     <string name="DRAW">"EGAL"</string>
@@ -285,10 +285,10 @@
     <string name="Specify_Clan_ID">"Specifică ID-ul Clanului"</string>
     <string name="Show_Clan_Names">"Arată Numele Clanurilor"</string>
     <string name="Show_Levels">"Arată Nivele"</string>
-    <string name="SET_MOTD">"SETEAZĂ MOTD"</string>
+    <string name="SET_MOTD">"SETEAZĂ MD"</string>
     <string name="No_such_user_found_">"Niciun astfel de utilizator găsit."</string>
     <string name="No_open_public_clans_exist_">"Nu există niciun clan public deschis."</string>
-    <string name="You_aren_t_invited_to_that_clan_">"Nu eşti invitat în acest clan."</string>
+    <string name="You_aren_t_invited_to_that_clan_">"Nu ești invitat în acest clan."</string>
     <string name="No_such_clan_exists_">"Nu există un astfel de clan."</string>
     <string name="That_clan_is_full_">"Clanul e plin."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Alt utilizator nu este un membru al clanului tău."</string>
@@ -296,20 +296,20 @@
     <string name="A_clan_with_that_name_already_exists_">"Un clan cu acel nume există deja."</string>
     <string name="Duration_">"Durată:"</string>
 
-    <string name="FFA_Time_Domination">"Dominare FFA Timp"</string>
-    <string name="Teams_Time_Domination">"Dominare Echipe Timp"</string>
+    <string name="FFA_Time_Domination">"Dominare FFA Cu Timp"</string>
+    <string name="Teams_Time_Domination">"Dominare Echipe Cu Timp"</string>
     <string name="CTF_Domination">"Dominare CTF"</string>
     <string name="CTF_Hat_Trick">"CTF Hat-Trick"</string>
     <string name="Survival_Domination">"Dominare Supraviețuire"</string>
     <string name="I_Will_Survive">"Voi supraviețui"</string>
     <string name="Soccer_Domination">"Dominare Fotbal"</string>
     <string name="Soccer_Hat_Trick">"Fotbal Hat-Trick"</string>
-    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Câștiga cu 2.500 de puncte diferență într-un joc FFA Time"</string>
-    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Câștiga cu 7.500 de puncte diferență într-un joc Teams Time"</string>
+    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Câștiga cu 2.500 de puncte diferență într-un joc de FFA Cu Timp"</string>
+    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Câștiga cu 7.500 de puncte diferență într-un joc de Echipe Cu Timp"</string>
     <string name="Win_by_3_points_in_a_CTF_game_">"Câștigă cu 3 puncte diferență într-un joc CTF."</string>
     <string name="Score_3_points_in_a_single_CTF_game_">"Adună 3 puncte într-un singur joc CTF."</string>
     <string name="Win_by_2_500_points_in_a_Survival_game_">"Câștigă cu 2.500 de puncte diferență într-un joc de Supraviețuire."</string>
-    <string name="Survive_but_do_not_win_a_survival_game_">"Supraviețuieşte dar nu câștiga un joc de Supravieţuire."</string>
+    <string name="Survive_but_do_not_win_a_survival_game_">"Supraviețuiește dar nu câștiga un joc de Supraviețuire."</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"Câștigă cu 8 puncte diferență într-un meci de fotbal."</string>
     <string name="Score_3_goals_in_a_single_Soccer_game_">"Dă 3 goluri într-un singur meci de fotbal."</string>
     <string name="Total_Domination">"Dominare Totală"</string>
@@ -326,14 +326,14 @@
 
     <string name="COMPLETE">"COMPLET"</string>
     <string name="INCOMPLETE">"INCOMPLET"</string>
-    <string name="Win_a_FFA_Time_Game">"Câștigă un joc de FFA Timp"</string>
+    <string name="Win_a_FFA_Time_Game">"Câștigă un joc de FFA Cu Timp"</string>
     <string name="Win_a_CTF_Game">"Câștigă un joc de CTF"</string>
     <string name="Win_a_Soccer_Game">"Câștiga un joc de Fotbal"</string>
     <string name="Win_a_Survival_Game">"Câștigă un joc de Supraviețuire"</string>
-    <string name="Win_a_Teams_Time_Game">"Câștigă un joc de Echipe Timp"</string>
+    <string name="Win_a_Teams_Time_Game">"Câștigă un joc de Echipe Cu Timp"</string>
     <string name="Reach_a_score_of_">"Atinge un scor de "</string>
-    <string name="_in_a_FFA_Game">" într-un joc FFA"</string>
-    <string name="_in_a_Teams_Game">" într-un joc Echipe "</string>
+    <string name="_in_a_FFA_Game">" într-un joc de FFA"</string>
+    <string name="_in_a_Teams_Game">" într-un joc de Echipe "</string>
     <string name="_dots">" puncte"</string>
     <string name="_player_blobs">" bloburi de jucători"</string>
     <string name="Absorb_">"Absoarbe "</string>
@@ -350,8 +350,8 @@
 
     <string name="FFAC">"FFAC"</string>
     <string name="NONE">"NIMIC"</string>
-    <string name="CLAN_WAR">"CLAN WAR"</string>
-    <string name="Clan_War">"Clan War"</string>
+    <string name="CLAN_WAR">"RĂZBOI DE CLAN"</string>
+    <string name="Clan_War">"Război de Clan"</string>
 
     <string name="Forming">"Formare"</string>
     <string name="Searching">"Căutare"</string>
@@ -376,7 +376,7 @@
     <string name="W_D_L">"V-E-Î"</string>
     <string name="MATCH_START">"START MECI"</string>
     <string name="Clan_Warrior">"Războinicul Clanului"</string>
-    <string name="Win_a_Clan_War">"Câștigă un Clan War"</string>
+    <string name="Win_a_Clan_War">"Câștigă un Război de Clan"</string>
     <string name="Global">"Global"</string>
     <string name="Spectating">"Spectator"</string>
 
@@ -498,11 +498,11 @@
     <string name="Standard">"Standard"</string>
     <string name="Achievement">"Realizare"</string>
     <string name="Flag">"Steag"</string>
-    <string name="Win_10_Clan_Wars">"Câștigă 10 Clan War-uri"</string>
-    <string name="Win_100_Clan_Wars">"Câștigă 100 de Clan War-uri"</string>
+    <string name="Win_10_Clan_Wars">"Câștigă 10 Războaie de Clan"</string>
+    <string name="Win_100_Clan_Wars">"Câștigă 100 Războaie de Clan"</string>
     <string name="Clan_Commander">"Comandant De Clan"</string>
     <string name="Clan_General">"General De Clan"</string>
-    <string name="Clan_Wars_Won_">"Clan War-uri Câștigate:"</string>
+    <string name="Clan_Wars_Won_">"Războaie de Clan Câștigați:"</string>
     <string name="Arenas_Won_">"Arene Câștigate:"</string>
     <string name="Arena_Mode">"Mod Arenă"</string>
     <string name="Connection_Lost">"Conexiune Pierdută"</string>
@@ -522,12 +522,12 @@
     <string name="Show_All">"Arată tot"</string>
 
     <string name="SET_PERMISSIONS">"SETEAZĂ PERMISIUNI"</string>
-    <string name="Start_Clan_War">"Pornește Clan War"</string>
+    <string name="Start_Clan_War">"Pornește Război de Clan"</string>
     <string name="Min_Level">"Nivel Minim"</string>
     <string name="SAVE">"SALVEAZĂ"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Jucătorul nu are nivelul minim necesar pentru a intra în clan."</string>
     <string name="Insufficient_Permission">"Permisiune Insuficientă"</string>
-    <string name="DOMINATION">"DOMINAŢIE"</string>
+    <string name="DOMINATION">"DOMINAȚIE"</string>
     <string name="DOM_Domination">"Dominarea Dominației"</string>
     <string name="DOM_Hat_Trick">"Hat Trick în Dominație"</string>
     <string name="Win_by_50_points_in_a_DOM_game_">"Câștigă cu 50 de puncte diferență într-un joc de Dominație"</string>
@@ -552,7 +552,7 @@
 
     <string name="Invited">"Invitat"</string>
     <string name="Invitation_Sent">"Invitația a fost trimisă"</string>
-    <string name="REPORT">"REPORT"</string>
+    <string name="REPORT">"RAPORT"</string>
     <string name="Reported">"Raportat"</string>
     <string name="Threats">"Amenințări"</string>
     <string name="Spam">"Spam"</string>
@@ -696,11 +696,11 @@
     <string name="This_device_does_not_support_bluetooth_">"Acest dispozitiv nu suportă Bluetooth."</string>
     <string name="member_permissions">"permisiuni membri"</string>
     <string name="edit">"editează"</string>
-    <string name="start_clan_war">"pornește clan war"</string>
-    <string name="join_clan_war">"intră în clan war"</string>
+    <string name="start_clan_war">"Pornește Un Război de Clan"</string>
+    <string name="join_clan_war">"Intră În Război de Clan"</string>
     <string name="none">"nimic"</string>
     <string name="INVALID_TOKEN">"TOKEN INVALID"</string>
-    <string name="banned_until">"banat până "</string>
+    <string name="banned_until">"Banat până: "</string>
     <string name="Note_Collector">"Colector de Note"</string>
     <string name="Note_Hoarder">"Acaparatorul Notei"</string>
     <string name="Note_Mogul">"Mogulul Notei"</string>
@@ -762,7 +762,7 @@
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous are nevoie de permisiunea aflării locului de amplasare pentru a găsi dispozitive Bluetooth din apropiere."</string>
     <string name="FFA_ULTRA">"FFA ULTRA"</string>
     <string name="FFAU">"FFAU"</string>
-    <string name="_in_a_FFAU_Game">"într-un joc de FFA ULTRA"</string>
+    <string name="_in_a_FFAU_Game">" într-un joc de FFA ULTRA"</string>
 
     <string name="BANNED_PLAYERS">"JUCĂTORI BLOCAȚI"</string>
     <string name="MAIL">"MAIL"</string>
@@ -787,8 +787,8 @@
     <string name="Nav_Buttons_">"Butoane Navigare:"</string>
     <string name="account_warning">"Niciodată nu partajați parola contului sau informațiile personale cu oricine pentru orice motiv!"</string>
     <string name="Clan_Hero">"Eroul Clanului"</string>
-    <string name="Win_1000_Clan_Wars">"Câștigă 1.000 de Clan War-uri"</string>
-    <string name="NAME_COLOR">"NUME COLOR"</string>
+    <string name="Win_1000_Clan_Wars">"Câștigă 1.000 Războaie de Clan"</string>
+    <string name="NAME_COLOR">"CULOARE DE NUME"</string>
     <string name="name_color_instructions">"Selectați caracterele pe care doriți să le modificați, apoi selectați culoarea pentru a le schimba."</string>
     <string name="Cannot_change_this_character_">"Nu se poate schimba acest caracter"</string>
     <string name="ZOMBIE_APOCALYPSE">"APOCALIPSĂ ZOMBIE"</string>
@@ -1270,7 +1270,7 @@ Comenzi:
 !stats
 !info"
 </string>
-    <string name="ID_Sort">ID Sort</string>
+    <string name="ID_Sort">Sortare ID</string>
     <string name="Master_Tamer">Master Tamer</string>
     <string name="Get_ALL_Pets_To_Level_100_">Get ALL Pets To Level 100</string>
     <string name="TAMER">TAMER</string>
@@ -1300,19 +1300,19 @@ Comenzi:
     <string name="XP_5x">XP 5x</string>
     <string name="India">India</string>
     <string name="Tutorial">Tutorial</string>
-    <string name="TYCOON">TYCOON</string>
-    <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
-    <string name="activate">Activate</string>
-    <string name="clan_id">CLAN ID</string>
-    <string name="language_change_warning">Changing the language will cause the app to restart.</string>
+    <string name="TYCOON">MAGNAT</string>
+    <string name="CLAN_BACKGROUND_COLOR">CULOAREA FUNDALULUI CLAN-ULUI</string>
+    <string name="activate">Activează</string>
+    <string name="clan_id">ID CLAN</string>
+    <string name="language_change_warning">Schimbarea limbii va determina repornirea aplicației.</string>
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
+    <string name="no_response">Fără răspuns de la server. Vă rugăm să verificați conexiunea la internet.</string>
     <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="SUDDEN_ATTACK">ATAC BRUSC</string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="You_are_already_friends_">Sunteți deja prieteni.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Contul trebuie să aibă o vechime de 1 zi pentru a trimite emailuri.</string>
     <string name="Translator">Traducător</string>
     <string name="SUCCESS">CU SUCCES</string>
 

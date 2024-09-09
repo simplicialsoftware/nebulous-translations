@@ -108,7 +108,7 @@
     <string name="PAUSED">"PAUSED"</string>
 
 
-    <string name="FRIENDS">"FRIENDS"</string>
+    <string name="FRIENDS">"CAIRDE"</string>
     <string name="Warning">"Rabhadh"</string>
     <string name="SIGNING_IN">"Ag síniú i …"</string>
     <string name="New_Friend_Request">"Iarratas ar Chara Nua!"</string>
@@ -138,7 +138,7 @@
     <string name="ALL">"GACH"</string>
     <string name="FFA">"FFA"</string>
     <string name="FFA_TIME">"AMA FFA"</string>
-    <string name="TEAMS">"TEAMS"</string>
+    <string name="TEAMS">"FOIRNE"</string>
     <string name="TEAMS_TIME">"TEAMS AM"</string>
     <string name="CTF">"CTF"</string>
     <string name="SURVIVAL">"SURVIVAL"</string>
@@ -256,7 +256,7 @@
 
     <string name="Server_Restart_">"Athshlánú Freastalaí:"</string>
     <string name="GOAL_">"SPRIOC!"</string>
-    <string name="SOCCER">"SOCCER"</string>
+    <string name="SOCCER">"SAOIRE"</string>
     <string name="DRAW">"DRAW"</string>
 
     <string name="Clan_Name">"Ainm Clan"</string>
@@ -272,7 +272,7 @@
 
     <string name="CREATE_CLAN">"CLÁR CREATE"</string>
     <string name="MEMBER">"BALLTAÍ"</string>
-    <string name="ADMIN">"ADMIN"</string>
+    <string name="ADMIN">"RIARACHÁN"</string>
     <string name="LEADER">"LEADER"</string>
     <string name="ELDER">"FAOI"</string>
 
@@ -326,7 +326,7 @@
 
 
     <string name="COMPLETE">"COMHLÁNÚ"</string>
-    <string name="INCOMPLETE">"INCOMPLETE"</string>
+    <string name="INCOMPLETE">"NEAMHCHOMHLÁNAIGH"</string>
     <string name="Win_a_FFA_Time_Game">"Win Cluiche Am FFA"</string>
     <string name="Win_a_CTF_Game">"Win cluiche CTF"</string>
     <string name="Win_a_Soccer_Game">"Win Cluiche Sacar"</string>
@@ -1016,7 +1016,7 @@
     <string name="Game_Border">"Teorainn Cluiche"</string>
     <string name="Select_some_text_first">"Roghnaigh téacs áirithe ar dtús"</string>
     <string name="Save_the_profile_first">"Sábháil an chéad phróifíl"</string>
-    <string name="Birthday">Birthday</string>
+    <string name="Birthday">Breithlá</string>
     <string name="Mass_Boost">Mass Boost</string>
 
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Mass Boost does not work in arenas, tournaments, or clan wars!</string>
@@ -1268,7 +1268,7 @@
     <string name="SET_EMOTE">SET EMOTE</string>
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
     <string name="Win_a_Battle_Royale_">Win a Battle Royale.</string>
-    <string name="Battle_">Battle!</string>
+    <string name="Battle_">Cath!</string>
     <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
     <string name="Battle_Royale">Battle Royale</string>
     <string name="The_winner_will_receive_x_plasma_">The winner will receive %s plasma!</string>
@@ -1331,7 +1331,7 @@ Commands:
     <string name="You_are_already_friends_">You are already friends.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
     <string name="Translator">Aistritheoir</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">RATHÚ</string>
 
 
     <string-array name="control_modes">
