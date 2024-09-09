@@ -32,8 +32,8 @@
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"përmbajtja vlerësim të app mund të ndryshojë kur gjetjen e grupeve"</string>
 
-    <string name="_Rank_">"gradë"</string>
-    <string name="_Alias_">" pseudonim "</string>
+    <string name="_Rank_">"Gradë"</string>
+    <string name="_Alias_">" Pseudonim "</string>
     <string name="_Score_">" Pikë "</string>
     <string name="Score__">"Score: "</string>
     <string name="Recombine_">"Ribashkoju:"</string>
@@ -50,7 +50,7 @@
 
 
     <string name="Lobby_Name">"Emri Lobi"</string>
-    <string name="Not_found_">"nuk u gjet"</string>
+    <string name="Not_found_">"Nuk u gjet"</string>
 
     <string name="Hidden">"I Fshehur"</string>
 
@@ -69,23 +69,23 @@
     <string name="Difficulty_">"Vështirësi:"</string>
     <string name="Delay_Disconnect">"Vonesa Qkyçur"</string>
 
-    <string name="Max_Players">"lojtarët max"</string>
-    <string name="Min_Players">"lojtarët min"</string>
+    <string name="Max_Players">"Lojtarët max"</string>
+    <string name="Min_Players">"Lojtarët min"</string>
 
-    <string name="OK">"në rregull"</string>
+    <string name="OK">"Në rregull"</string>
     <string name="CANCEL">"ANULOJ"</string>
     <string name="Chat_Name">"Emri chat"</string>
     <string name="Max_People">"Max Lojtar"</string>
     <string name="START">"FILLIM"</string>
     <string name="CREATE">"HAPE "</string>
     <string name="CUSTOM_GAMES">"LOJES CUSTOM "</string>
-    <string name="CHAT">"bisedë"</string>
+    <string name="CHAT">"Bisedë"</string>
     <string name="CUSTOM_SETUP">"CUSTOM SETUP"</string>
     <string name="CHAT_SETUP">"KONFIGURIMI CHAT"</string>
 
 
     <string name="ACCOUNT">"LLOGARI"</string>
-    <string name="Red_Team">"ekipi Kuq"</string>
+    <string name="Red_Team">"Ekipi Kuq"</string>
     <string name="Green_Team">"Ekipi Gjelbër  "</string>
     <string name="Blue_Team">"Ekipi Kalter"</string>
     <string name="Yellow_Team">"Ekipi Verdhë"</string>
@@ -97,14 +97,14 @@
     <string name="STATISTICS">"STATISTIKAT"</string>
     <string name="XP_">"XP:"</string>
 
-    <string name="Information">"informacion"</string>
+    <string name="Information">"Informacion"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Për të përdorur këtë lëkurës ju duhet të fiton nje arritjen"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Për të përdorur këtë lëkurës ju duhet të arrijnë nivelin"</string>
     <string name="SIGN_IN">"HYNI"</string>
 
     <string name="Single_Player_Stats">"Statistikat e vetme lojtar"</string>
 
-    <string name="Level">"niveli"</string>
+    <string name="Level">"Niveli"</string>
     <string name="PAUSED">"NDALUAR"</string>
 
 
@@ -113,9 +113,9 @@
     <string name="SIGNING_IN">"Nënshkrimit në …"</string>
     <string name="New_Friend_Request">"Kërkesa e re mik"</string>
     <string name="REQUEST_FRIEND">"SHTOJE TE SHOKET"</string>
-    <string name="Private">"privat"</string>
-    <string name="Public">"publik"</string>
-    <string name="Bot">"bot"</string>
+    <string name="Private">"Privat"</string>
+    <string name="Public">"Publik"</string>
+    <string name="Bot">"Bot"</string>
     <string name="You">"ju"</string>
     <string name="This_player_is_a_bot">"Ky lojtar është një bot."</string>
     <string name="This_player_is_not_signed_in">"Ky lojtar nuk është nënshkruar në."</string>
