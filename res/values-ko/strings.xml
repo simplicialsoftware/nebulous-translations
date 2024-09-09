@@ -1311,17 +1311,17 @@ Nebulous 규칙\n
     <string name="The_winner_will_receive_x_plasma_">승자는 %s개의 플라즈마를 획득합니다!</string>
     <string name="admin_commands">"
 명령어:
-!kick [0–31]
-!reset
-!welcome {message}
-!difficulty [0-3] or [1-4] for Campaign
-!hidden
-!guests
-!slowchat
-!pausechat
-!mute {id}
-!admin {id}
-!allow {id}
+!kick [0–31] [0-31] 추방 명령어
+!reset 게임 재시작 명령어
+!welcome {message} 환영 메세지 설정
+!difficulty [0-3] or [1-4] for Campaign 캠페인 0~3단계 또는 1~4단계 어려움 난이도 조절
+!hidden 방을 숨기다 
+!guests 오프라인 모드 출입 금지
+!slowchat 채팅을 느리게 하다
+!pausechat 채팅 금지
+!mute {id} 조용히 시키다
+!admin {id} 권한부여
+!allow {id} 허용하다
 !allow reset
 !winner"
 </string>
