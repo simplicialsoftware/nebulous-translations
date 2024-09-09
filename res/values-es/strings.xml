@@ -1459,7 +1459,7 @@ Si no deseas registrarte, aún puedes jugar en modo individual."
         <item>"Pequeño"</item>
         <item>"Normal"</item>
         <item>"Grande"</item>
-        <item>"ENORME"</item>
+        <item>"Enorme"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
