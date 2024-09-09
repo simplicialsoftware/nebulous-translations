@@ -1,100 +1,22 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="Players">"Jogadores"</string>
-    <string name="Control_">"Controle:"</string>
-    <string name="CLOSE">"FECHAR"</string>
-    <string name="Stick_Size_">"Tamanho do Controlador:"</string>
-    <string name="Stick_Margin_">"Margem do Controlador:"</string>
-    <string name="Button_Size_">"Tamanho dos Botões:"</string>
-    <string name="Button_Margin_">"Margem dos Botões:"</string>
-    <string name="Buttons_">"Botões"</string>
-    <string name="DEFAULTS">"PADRÕES"</string>
-    <string name="WEEKLY">"SEMANAL"</string>
-    <string name="DAILY">"DIÁRIO"</string>
-    <string name="Server_">"Servidor:"</string>
-    <string name="Game_Mode_">"Modo de Jogo:"</string>
-    <string name="Show_Names">"Mostrar Nomes"</string>
-    <string name="Show_Avatars">"Mostrar Skins"</string>
-    <string name="PLAY">"JOGAR"</string>
-    <string name="OPTIONS">"OPÇÕES"</string>
+<resources xmlns:tools="http://schemas.android.com/tools"><resources xmlns:tools="http://schemas.android.com/tools"> <string name="Players">"Players"</string> <string name="Control_">"Control:"</string > <string name="CLOSE">"CLOSE"</string> <string name="Stick_Size_">"Controller Size:"</string> <string name="Stick_Margin_">"Controller Margin:"</ string> <string name="Button_Size_">"Button Size:"</string> <string name="_">"Button Margin:"</string> <string name="Buttons_">"Buttons"< /string> <string name="DEFAULTS">"DEFAULTS"</string> <string name="WEEKLY">"WEEKLY"</string> <string name="DAILY">"DAILY"</string> <string name="Server_">"Server:"</string> <string name="Game_Mode_">"Game Mode:"</string> <string name="Show_Names">"Show Names"</string> <string name="Show_Avatars">"Show Skins"</string> <string name="PLAY">"PLAY"</string> <string name="OPTIONS">"OPTIONS"</string> <string name="Avatar_ ">"Skin:"</string> <string name="Name_">"Name:"</string> <string name="Loading___">"Loading..."</string> <string name="Connecting___"> "Connecting..."</string> <string name="Are_You_Sure_">"Are you sure?"</string> <string name="Yes">"Yes"</string> <string name="No">" No"</string> <string name="WAIT">"WAIT…"</string>
+<string name="Must_Specify_Name_">"Must specify a name."</string>
 
-    <string name="Avatar_">"Skin:"</string>
-    <string name="Name_">"Nome:"</string>
+<string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Content rating of the app may change when finding groups."</string>
 
-    <string name="Loading___">"Carregando…"</string>
-    <string name="Connecting___">"Conectando…"</string>
-
-    <string name="Are_You_Sure_">"Você tem certeza?"</string>
-    <string name="Yes">"Sim"</string>
-    <string name="No">"Não"</string>
-    <string name="WAIT">"AGUARDE…"</string>
-    <string name="Must_Specify_Name_">"É Necessário especificar um nome."</string>
-
-    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
-
-    <string name="_Rank_">" Posição "</string>
-    <string name="_Alias_">" Apelido "</string>
-    <string name="_Score_">" Pontos "</string>
-    <string name="Score__">"Pontuação: "</string>
-    <string name="Recombine_">"Recombinar em: "</string>
-    <string name="WINNER_">"VENCEDOR:"</string>
-    <string name="IDLE">"INATIVO"</string>
-    <string name="Name_Invalid_">"Nome inválido."</string>
-    <string name="Name_Taken_">"Nome em uso."</string>
-    <string name="CONNECTED">"CONECTADO"</string>
-    <string name="JOINING___">"JUNTANDO…"</string>
-    <string name="PLAYING">"JOGANDO"</string>
-    <string name="MULTIPLAYER">"MULTIJOGADOR"</string>
-
-    <string name="JOIN">"ENTRAR"</string>
-
-
-    <string name="Lobby_Name">"Nome da Sala"</string>
-    <string name="Not_found_">"Não encontrado."</string>
-
-    <string name="Hidden">"Escondido"</string>
-
-
-    <string name="SERVER">"SERVIDOR"</string>
-    <string name="Joining_game_in_">"Entrando no jogo em "</string>
-    <string name="Game_Full">"Jogo Cheio"</string>
-    <string name="US_East">"América Central"</string>
-    <string name="US_West">"América do Norte"</string>
-    <string name="Europe">"Europa"</string>
-    <string name="South_America">"Brasil"</string>
-
-
-    <string name="SINGLE_PLAYER">"ÚNICO JOGADOR"</string>
-    <string name="Background_">"Fundo:"</string>
-    <string name="Difficulty_">"Dificuldade:"</string>
-    <string name="Delay_Disconnect">"Atrasar a Desconexão"</string>
-
-    <string name="Max_Players">"Máx. de Jogadores"</string>
-    <string name="Min_Players">"Mín. de Jogadores"</string>
-
-    <string name="OK">"OK"</string>
-    <string name="CANCEL">"CANCELAR"</string>
-    <string name="Chat_Name">"Nome do Chat"</string>
-    <string name="Max_People">"Máx. de Pessoas"</string>
-    <string name="START">"COMEÇAR"</string>
-    <string name="CREATE">"CRIAR"</string>
-    <string name="CUSTOM_GAMES">"JOGOS PERSONALIZADOS"</string>
-    <string name="CHAT">"CHAT"</string>
-    <string name="CUSTOM_SETUP">"AJUSTE PERSONALIZADO"</string>
-    <string name="CHAT_SETUP">"CONFIGURAÇÃO DO CHAT"</string>
-
-
-    <string name="ACCOUNT">"CONTA"</string>
-    <string name="Red_Team">"Equipe Vermelha"</string>
-    <string name="Green_Team">"Equipe Verde"</string>
-    <string name="Blue_Team">"Equipe Azul"</string>
-    <string name="Yellow_Team">"Equipe Amarela"</string>
-    <string name="Signed_in_as_">"Logado como:"</string>
-    <string name="Not_signed_in_">"Não logado!"</string>
-    <string name="SET_NAME">"DEFINIR NOME"</string>
-    <string name="SIGN_OUT">"SAIR"</string>
-    <string name="ACHIEVEMENTS">"CONQUISTAS"</string>
-    <string name="STATISTICS">"ESTATÍSTICAS"</string>
-    <string name="XP_">"XP:"</string>
+<string name="_Rank_">" Position "</string>
+<string name="_Alias_">" Nickname "</string>
+<string name="_Score_">" Points " </string>
+<string name="Score__">"Score: "</string>
+<string name="Recombine_">"Recombine on: "</string>
+<string name="WINNER_">"WINNER:"< /string>
+<string name="IDLE">"INACTIVE"</string>
+<string name="Name_Invalid_">"Invalid name."</string>
+<string name="Name_Taken_">"Name in use."</string> <string name="CONNECTED">"CONNECTED"</string> <string name="JOINING___">"JOINING…"</string> <string name ="PLAYING">"PLAYING"</string> <string name="MULTIPLAYER">"MULTIPLAYER"</string> <string name="JOIN">"JOIN"</string> <string name="Lobby_Name"> "Room Name"</string> <string name="Not_found_">"Not found."</string> <string name="Hidden">"Hidden"</string> <string name="SERVER">" SERVER"</string> <string name="Joining_game_in_">"Joining the game in "</string> <string name="Game_Full">"Jogo Cheio"</string> <string name="US_East">"America Central"</string>
+    <string name="US_West">"North America"</string> <string name="Europe">"Europe"</string> <string name="South_America">"Brazil"</string> <string name ="SINGLE_PLAYER">"SINGLE PLAYER"</string> <string name="Background_">"Background:"</string> <string name="Difficulty_">"Difficulty:"</string> <string name=" Delay_Disconnect">"Delay Disconnect"</string> <string name="Max_Players">"Max Players"</string> <string name="Min_Players">"Min. of Players"</string> <string name="OK">"OK"</string> <string name="CANCEL">"CANCEL"</string> <string name="Chat_Name">"Chat Name" </string> <string name="Max_People">"Max. of People"</string> <string name="START">"START"</string> <string name="CREATE">"CREATE"</string> <string name="CUSTOM_GAMES">"CUSTOM GAMES"< /string> <string name="CHAT">"CHAT"</string> <string name="CUSTOM_SETUP">"CUSTOM SETUP"</string> <string name="CHAT_SETUP">"CHAT SETUP"</string > <string name="ACCOUNT">"ACCOUNT"</string> <string name="Red_Team">"Red Team"</string> <string name="Green_Team">"Green Team"</string> <string name="Blue_Team">"Blue Team"</string> <string name="Yellow_Team">"Yellow Team"</string> <string name="Signed_in_as_">"Logged in like:"</string>
+<string name="Not_signed_in_">"Not signed in!"</string>
+<string name="SET_NAME">"SET NAME"</string>
+<string name="SIGN_OUT">"SIGN OUT "</string>
+button size  "xp"  <string name="XP_">"XP:"</string>
 
     <string name="Information">"Informação"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Para usar esta skin, você deve liberar a conquista"</string>
@@ -126,7 +48,7 @@
     <string name="REFRESH">"ATUALIZAR"</string>
     <string name="DONE">"FEITO"</string>
     <string name="Friend_Request_Sent">"Pedido de Amizade enviado…"</string>
-    <string name="ERROR">"ERRO"</string>
+    <string name="ERRO">"ERRO"</string>
     <string name="CONTINUE">"CONTINUAR"</string>
     <string name="Global_" formatted="false">"Global"</string>
     <string name="FRIEND_CHAT">"CHAT DE AMIGOS"</string>
@@ -279,7 +201,7 @@
     <string name="Not_in_a_clan_">"Você não está em um clã."</string>
 
 
-    <string name="CLAN">"CLÃ"</string>
+    <string name="CLÃ.">"CLÃ"</string>
 
 
     <string name="Specify_Clan_ID">"Especifique ID do clã"</string>
