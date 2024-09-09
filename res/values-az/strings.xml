@@ -347,7 +347,7 @@
     <string name="To_use_this_skin_you_must_collect">"Bu Cilddən istifadə etmək üçün toplamalısan"</string>
     <string name="Australia">"Avstraliya"</string>
     <string name="Pumpkin_Collector">"Balqabaq Toplayan"</string>
-    <string name="Collect_1000_pumpkins_">"1000 balqabaq topla"</string>
+    <string name="Collect_1000_pumpkins_">"1000 balqabaq topla."</string>
 
     <string name="FFAC">"FFAC"</string>
     <string name="NONE">"Heç biri"</string>
@@ -394,7 +394,7 @@
     <string name="Current">"Cari"</string>
     <string name="leaves_">"Yarpaqlar"</string>
     <string name="Leaf_Collector">"Yarpaq Toplayan"</string>
-    <string name="Collect_1000_leaves_">"1000 yarpaq topla"</string>
+    <string name="Collect_1000_leaves_">"1000 yarpaq topla."</string>
     <string name="XP_Boost">"XP Gücləndirici"</string>
     <string name="Double">"İkiqat"</string>
     <string name="Hour">"Saat"</string>
@@ -403,7 +403,7 @@
 
     <string name="Triple">"Üçqat"</string>
     <string name="Leaf_Hoarder">"Yarpaq Yığan"</string>
-    <string name="Collect_5000_leaves_">"5000 yarpaq topla"</string>
+    <string name="Collect_5000_leaves_">"5000 yarpaq topla."</string>
 
 
     <string name="Arena">"Arena"</string>
@@ -436,10 +436,10 @@
 
     <string name="Loading_Purchases___">"Ödənişlər Yüklənir…"</string>
     <string name="In_App_Purchases">"Tətbiqdaxili Ödənişlər"</string>
-    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Cari gücləndirmə bitənə qədər yeni XP gücləndirilməsi alına bilməz"</string>
-    <string name="This_purchase_has_already_been_redeemed_">"Bu satınalma artıq geri qaytarılıb"</string>
+    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Cari gücləndirmə bitənə qədər yeni XP gücləndirilməsi alına bilməz."</string>
+    <string name="This_purchase_has_already_been_redeemed_">"Bu satınalma artıq geri qaytarılıb."</string>
 
-    <string name="You_cannot_remove_yourself__Leave_clan_instead_">"Özünüzü silə bilməzsiniz.Əvəzində klanı tərk edin"</string>
+    <string name="You_cannot_remove_yourself__Leave_clan_instead_">"Özünüzü silə bilməzsiniz.Əvəzində klanı tərk edin."</string>
 
 
     <string name="until">"Qədər"</string>
@@ -464,8 +464,8 @@
     <string name="Plasma_Collector">"Plazma Toplayan"</string>
     <string name="Plasma_Hoarder">"Plazma Yığan"</string>
     <string name="Collect_1_000_Plasma">"1000 Plazma topla."</string>
-    <string name="Collect_10_000_Plasma_">"10.000 Plazma topla"</string>
-    <string name="Collect_100_000_Plasma">"100.000 Plazma topla"</string>
+    <string name="Collect_10_000_Plasma_">"10.000 Plazma topla."</string>
+    <string name="Collect_100_000_Plasma">"100.000 Plazma topla."</string>
     <string name="Plasma_Collected_">"Toplanmış plazma:"</string>
     <string name="Plasma_Purchases">"Plazma Satınalmaları"</string>
 
@@ -510,16 +510,16 @@
 
     <string name="Present_Hoarder">"Hədiyyə Yığan"</string>
     <string name="Present_Mogul">"Hədiyyə Riması"</string>
-    <string name="Collect_1_000_presents_">"1.000 hədiyyə topla"</string>
-    <string name="Collect_5_000_presents_">"5000 hədiyyə topla"</string>
-    <string name="Collect_10_000_presents_">"10.000 hədiyyə topla"</string>
+    <string name="Collect_1_000_presents_">"1.000 hədiyyə topla."</string>
+    <string name="Collect_5_000_presents_">"5000 hədiyyə topla."</string>
+    <string name="Collect_10_000_presents_">"10.000 hədiyyə topla."</string>
     <string name="Loading_reward_video___">"Mükafatlı video yüklənir…"</string>
     <string name="Progress">"İrəliləyiş"</string>
     <string name="Snowflake_Hoarder">"Qar dənəciyi yığan"</string>
     <string name="Snowflake_Mogul">"Qar dənəciyi Riması"</string>
-    <string name="Collect_1_000_snowflakes_">"1000 qar dənəciyi topla"</string>
-    <string name="Collect_5_000_snowflakes_">"5000 qar dənəciyi topla"</string>
-    <string name="Collect_10_000_snowflakes_">"10 000 qar dənəciyi topla"</string>
+    <string name="Collect_1_000_snowflakes_">"1000 qar dənəciyi topla."</string>
+    <string name="Collect_5_000_snowflakes_">"5000 qar dənəciyi topla."</string>
+    <string name="Collect_10_000_snowflakes_">"10 000 qar dənəciyi topla."</string>
     <string name="Show_All">"Hamısını göstər"</string>
 
     <string name="SET_PERMISSIONS">"İcazələri Təyin Etmək"</string>
@@ -532,7 +532,7 @@
     <string name="DOM_Domination">"Hakimiyyət Hökmranlığı"</string>
     <string name="DOM_Hat_Trick">"Hakimiyyət Hat Triki"</string>
     <string name="Win_by_50_points_in_a_DOM_game_">"Bir Hakimiyyət oyununu 50 xal fərq ilə qazanın."</string>
-    <string name="Score_33_points_in_a_single_DOM_game_">"Tək bir Hakimiyyət oyununda 33 xal qazanın"</string>
+    <string name="Score_33_points_in_a_single_DOM_game_">"Tək bir Hakimiyyət oyununda 33 xal qazanın."</string>
     <string name="Win_a_Domination_Game">"Bir Hakimiyyət Oyunu Qazanın"</string>
     <string name="Select_Team">"Komanda seçin"</string>
     <string name="MANAGE_TEAMS">"Komandaları İdarə edin"</string>
@@ -571,9 +571,9 @@
     <string name="Candy_Hoarder">"Konfet yığan"</string>
     <string name="Candy_Collector">"Konfet Toplayan"</string>
     <string name="Candy_Mogul">"Konfet Riması"</string>
-    <string name="Collect_1_000_candies_">"1000 konfet topla"</string>
-    <string name="Collect_5_000_candies_">"5000 konfet topla"</string>
-    <string name="Collect_10_000_candies_">"10.000 konfet topla"</string>
+    <string name="Collect_1_000_candies_">"1000 konfet topla."</string>
+    <string name="Collect_5_000_candies_">"5000 konfet topla."</string>
+    <string name="Collect_10_000_candies_">"10.000 konfet topla."</string>
     <string name="candies_">"Konfetlər"</string>
     <string name="Language">"Dil"</string>
     <string name="Control_Opacity_">"Şəffaflığı təyin etmək":</string>
@@ -585,9 +585,9 @@
     <string name="You_are_not_invited_to_team_">"Siz komandaya dəvət olunmayıbsınız"</string>
     <string name="Team_does_not_exist_">"Komanda mövcud deyil:"</string>
     <string name="Please_wait_a_minute_before_sending_another_report_">"Yeni Xəbərdarlıq göndərməzdən öncə bir dəqiqə gözləyin."</string>
-    <string name="Collect_1_000_beads_">"1000 muncuq topla"</string>
-    <string name="Collect_5_000_beads_">"5000 muncuq topla"</string>
-    <string name="Collect_10_000_beads_">"10.000 muncuq topla"</string>
+    <string name="Collect_1_000_beads_">"1000 muncuq topla."</string>
+    <string name="Collect_5_000_beads_">"5000 muncuq topla."</string>
+    <string name="Collect_10_000_beads_">"10.000 muncuq topla."</string>
     <string name="Bead_Collector">"Muncuq Toplayan"</string>
     <string name="Bead_Hoarder">"Muncuq yığan"</string>
     <string name="Bead_Mogul">"Muncuq Riması"</string>
@@ -616,9 +616,9 @@
     <string name="Egg_Collector">"Yumurta Toplayansı"</string>
     <string name="Egg_Hoarder">"Yumurta yığan"</string>
     <string name="Egg_Mogul">"Yumurta Riması"</string>
-    <string name="Collect_1_000_eggs_">"1000 yumurta topla"</string>
-    <string name="Collect_5_000_eggs_">"5000 yumurta topla"</string>
-    <string name="Collect_10_000_eggs_">"10.000 yumurta topla"</string>
+    <string name="Collect_1_000_eggs_">"1000 yumurta topla."</string>
+    <string name="Collect_5_000_eggs_">"5000 yumurta topla."</string>
+    <string name="Collect_10_000_eggs_">"10.000 yumurta topla."</string>
     <string name="HISTORY">"Tarixçə"</string>
     <string name="CLAN_HISTORY">"Klan Tarixçəsi"</string>
 
@@ -644,9 +644,9 @@
     <string name="Raindrop_Collector">"Yağış Damcısı Toplayan"</string>
     <string name="Raindrop_Hoarder">"Yağış Damcısı Yığan"</string>
     <string name="Raindrop_Mogul">"Yağış damcısı Riması"</string>
-    <string name="Collect_1_000_raindrops_">"1000 yağış damcısı topla"</string>
-    <string name="Collect_5_000_raindrops_">"5000 yağış damcısı topla"</string>
-    <string name="Collect_10_000_raindrops_">"10.000 yağış damcısı topla"</string>
+    <string name="Collect_1_000_raindrops_">"1000 yağış damcısı topla."</string>
+    <string name="Collect_5_000_raindrops_">"5000 yağış damcısı topla."</string>
+    <string name="Collect_10_000_raindrops_">"10.000 yağış damcısı topla."</string>
     <string name="Copy_Message">"Mesajı Kopyala"</string>
     <string name="Copied_to_clipboard_">"Buferə kopyalandı"</string>
     <string name="COPY_NAME">"Adı Kopyala"</string>
@@ -664,9 +664,9 @@
     <string name="Nebula_Collector">"Nebula Toplayan"</string>
     <string name="Nebula_Hoarder">"Nebula Yığan"</string>
     <string name="Nebula_Mogul">"Nebula Riması"</string>
-    <string name="Collect_1_000_nebulas_">"1000 Nebula topla"</string>
-    <string name="Collect_5_000_nebulas_">"5000 Nebula topla"</string>
-    <string name="Collect_10_000_nebulas_">"10.000 Nebula topla"</string>
+    <string name="Collect_1_000_nebulas_">"1000 Nebula topla."</string>
+    <string name="Collect_5_000_nebulas_">"5000 Nebula topla."</string>
+    <string name="Collect_10_000_nebulas_">"10.000 Nebula topla."</string>
     <string name="nebulas_">"Nebulalar"</string>
     <string name="Incompatible_versions_">"Uyğun olmayan versiyalar"</string>
     <string name="Update_Available_">"Yeniləmə Mövcuddur"</string>
@@ -679,18 +679,18 @@
     <string name="Sun_Collector">"Günəş Toplayan"</string>
     <string name="Sun_Hoarder">"Günəş Yığan"</string>
     <string name="Sun_Mogul">"Günəş Riması"</string>
-    <string name="Collect_1_000_suns_">"1000 günəş topla"</string>
-    <string name="Collect_5_000_suns_">"5000 günəş topla"</string>
-    <string name="Collect_10_000_suns_">"10.000 günəş topla"</string>
+    <string name="Collect_1_000_suns_">"1000 günəş topla."</string>
+    <string name="Collect_5_000_suns_">"5000 günəş topla."</string>
+    <string name="Collect_10_000_suns_">"10.000 günəş topla."</string>
     <string name="Reward_Videos_">"Mükafatlı Videolar"</string>
     <string name="Free_Plasma_">"Ödənişsiz Plazma!"</string>
     <string name="moons_">"Aylar"</string>
     <string name="Moon_Collector">"Ay Toplayan"</string>
     <string name="Moon_Hoarder">"Ay Yığan"</string>
     <string name="Moon_Mogul">"Ay Riması"</string>
-    <string name="Collect_1_000_moons_">"1000 ay topla"</string>
-    <string name="Collect_5_000_moons_">"5000 ay topla"</string>
-    <string name="Collect_10_000_moons_">"10.000 ay topla"</string>
+    <string name="Collect_1_000_moons_">"1000 ay topla."</string>
+    <string name="Collect_5_000_moons_">"5000 ay topla."</string>
+    <string name="Collect_10_000_moons_">"10.000 ay topla."</string>
     <string name="BLUETOOTH">"Bluetooth"</string>
     <string name="HOST">"Sahib"</string>
     <string name="This_device_does_not_support_bluetooth_">"Bu cihaz bluetooth dəstəkləmir"</string>
@@ -704,17 +704,17 @@
     <string name="Note_Collector">"Nota Toplayan"</string>
     <string name="Note_Hoarder">"Nota Yığan"</string>
     <string name="Note_Mogul">"Nota Riması"</string>
-    <string name="Collect_1_000_notes_">"1000 Nota topla"</string>
-    <string name="Collect_5_000_notes_">"5000 Nota topla"</string>
-    <string name="Collect_10_000_notes_">"10.000 Nota topla"</string>
+    <string name="Collect_1_000_notes_">"1000 Nota topla."</string>
+    <string name="Collect_5_000_notes_">"5000 Nota topla."</string>
+    <string name="Collect_10_000_notes_">"10.000 Nota topla."</string>
     <string name="notes_">"Notalar"</string>
     <string name="CLICK_CHEAT_DETECTED_">"Klik Hiyləsi Tapıldı"</string>
     <string name="Pumpkin_Hoarder">"Balqabaq Yığıcı"</string>
     <string name="Pumpkin_Mogul">"Balqabaq Riması" </string>
     <string name="Leaf_Mogul">"Yarpaq Riması"</string>
-    <string name="Collect_5000_pumpkins_">"5000 balqabaq topla"</string>
-    <string name="Collect_10000_pumpkins_">"10 000 balqabaq topla"</string>
-    <string name="Collect_10000_leaves_">"10.000 yarpaq topla"</string>
+    <string name="Collect_5000_pumpkins_">"5000 balqabaq topla."</string>
+    <string name="Collect_10000_pumpkins_">"10 000 balqabaq topla."</string>
+    <string name="Collect_10000_leaves_">"10.000 yarpaq topla."</string>
     <string name="Eject">"Çıxar"</string>
     <string name="Eject_Skin">"Cildi çıxar"</string>
     <string name="Double_Plasma__">"İkiqat plazma!!"</string>
