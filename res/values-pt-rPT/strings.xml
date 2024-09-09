@@ -304,16 +304,16 @@
     <string name="I_Will_Survive">"Eu Irei Sobreviver"</string>
     <string name="Soccer_Domination">"Dominador do Futebol"</string>
     <string name="Soccer_Hat_Trick">"Hat-Trick do Futebol"</string>
-    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Vencer por 2 500 pontos num jogo FFA Tempo"</string>
-    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Vencer por 7 500 pontos num jogo de Equipas Tempo"</string>
-    <string name="Win_by_3_points_in_a_CTF_game_">"Vencer por 3 pontos num jogo CAB"</string>
-    <string name="Score_3_points_in_a_single_CTF_game_">"Alcançar 3 pontos num único jogo CAB"</string>
-    <string name="Win_by_2_500_points_in_a_Survival_game_">"Vencer por 2 500 pontos num jogo de Sobrevivência"</string>
-    <string name="Survive_but_do_not_win_a_survival_game_">"Sobreviver, mas não vencer um jogo de Sobrevivência"</string>
-    <string name="Win_by_8_points_in_a_Soccer_game_">"Vencer por 8 pontos num jogo de Futebol"</string>
-    <string name="Score_3_goals_in_a_single_Soccer_game_">"Marcar 3 golos num único jogo de Futebol"</string>
+    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Vencer por 2 500 pontos num jogo FFA Tempo."</string>
+    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Vencer por 7 500 pontos num jogo de Equipas Tempo."</string>
+    <string name="Win_by_3_points_in_a_CTF_game_">"Vencer por 3 pontos num jogo CAB."</string>
+    <string name="Score_3_points_in_a_single_CTF_game_">"Alcançar 3 pontos num único jogo CAB."</string>
+    <string name="Win_by_2_500_points_in_a_Survival_game_">"Vencer por 2 500 pontos num jogo de Sobrevivência."</string>
+    <string name="Survive_but_do_not_win_a_survival_game_">"Sobreviver, mas não vencer um jogo de Sobrevivência."</string>
+    <string name="Win_by_8_points_in_a_Soccer_game_">"Vencer por 8 pontos num jogo de Futebol."</string>
+    <string name="Score_3_goals_in_a_single_Soccer_game_">"Marcar 3 golos num único jogo de Futebol."</string>
     <string name="Total_Domination">"Dominação Total"</string>
-    <string name="Win_500_games_of_any_type_">"Vencer 500 jogos de qualquer tipo"</string>
+    <string name="Win_500_games_of_any_type_">"Vencer 500 jogos de qualquer tipo."</string>
     <string name="Translations">"Traduções"</string>
     <string name="Developers">"Desenvolvedores"</string>
     <string name="Special_Thanks">"Agradecimentos especias"</string>
@@ -346,7 +346,7 @@
     <string name="To_use_this_skin_you_must_collect">"Para utilizar esta skin, tens de coletar"</string>
     <string name="Australia">"Austrália"</string>
     <string name="Pumpkin_Collector">"Coletor de Abóboras"</string>
-    <string name="Collect_1000_pumpkins_">"Coletar 1 000 abóboras"</string>
+    <string name="Collect_1000_pumpkins_">"Coletar 1 000 abóboras."</string>
 
     <string name="FFAC">"FFAC"</string>
     <string name="NONE">"NENHUM"</string>
@@ -462,9 +462,9 @@
     <string name="Plasma_Mogul">"Magnata de Plasmas"</string>
     <string name="Plasma_Collector">"Coletor de Plasmas"</string>
     <string name="Plasma_Hoarder">"Acumulador de Plasmas"</string>
-    <string name="Collect_1_000_Plasma">"Coletar 1 000 Plasmas"</string>
-    <string name="Collect_10_000_Plasma_">"Coletar 10 000 Plasmas"</string>
-    <string name="Collect_100_000_Plasma">"Coletar 100 000 Plasmas"</string>
+    <string name="Collect_1_000_Plasma">"Coletar 1 000 Plasmas."</string>
+    <string name="Collect_10_000_Plasma_">"Coletar 10 000 Plasmas."</string>
+    <string name="Collect_100_000_Plasma">"Coletar 100 000 Plasmas."</string>
     <string name="Plasma_Collected_">"Plasma colectado:"</string>
     <string name="Plasma_Purchases">"Compras de Plasma"</string>
 
@@ -477,9 +477,9 @@
     <string name="Gladiator">"Gladiador"</string>
     <string name="Challenger">"Desafiador"</string>
     <string name="Win_1_1v1_Arenas_">"Vencer 1 Arena"</string>
-    <string name="Win_10_Arenas_">"Vencer 10 Arenas"</string>
-    <string name="Win_100_Arenas_">"Vencer 100 Arenas"</string>
-    <string name="Win_1000_Arenas">"Vencer 1 000 Arenas"</string>
+    <string name="Win_10_Arenas_">"Vencer 10 Arenas."</string>
+    <string name="Win_100_Arenas_">"Vencer 100 Arenas."</string>
+    <string name="Win_1000_Arenas">"Vencer 1 000 Arenas."</string>
 
 
     <string name="Already_in_arena_">"Já está na arena."</string>
