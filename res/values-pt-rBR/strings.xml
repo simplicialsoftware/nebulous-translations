@@ -20,23 +20,23 @@
     <string name="Avatar_">"Skin:"</string>
     <string name="Name_">"Nome:"</string>
 
-    <string name="Loading___">"Carregando…"</string>
+    <string name="Loading___">" estaCarregando…"</string>
     <string name="Connecting___">"Conectando…"</string>
 
-    <string name="Are_You_Sure_">"Você tem certeza?"</string>
+    <string name="Are_You_Sure_">"Você tem certeza mesmo?."</string>
     <string name="Yes">"Sim"</string>
     <string name="No">"Não"</string>
     <string name="WAIT">"AGUARDE…"</string>
-    <string name="Must_Specify_Name_">"É Necessário especificar um nome."</string>
+    <string name="Must_Specify_Name_">"É Necessário especificar um nome do jogandor."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
 
     <string name="_Rank_">" Posição "</string>
-    <string name="_Alias_">" Apelido "</string>
+    <string name="_Alias_">" Apelido sem sentido"</string>
     <string name="_Score_">" Pontos "</string>
     <string name="Score__">"Pontuação: "</string>
     <string name="Recombine_">"Recombinar em: "</string>
-    <string name="WINNER_">"VENCEDOR:"</string>
+    <string name="WINNER_">"VENCEDOR.:"</string>
     <string name="IDLE">"INATIVO"</string>
     <string name="Name_Invalid_">"Nome inválido."</string>
     <string name="Name_Taken_">"Nome em uso."</string>
@@ -486,11 +486,11 @@
     <string name="Already_in_queue_">"Já está na fila."</string>
     <string name="Invalid_Account_ID_">"ID da conta Inválido."</string>
 
-    <string name="Validating">"Validando"</string>
+    <string name="Validating">" você e Validado."</string>
 
-    <string name="Randomize">"Aleatória"</string>
+    <string name="Randomize">"Aleatória."</string>
 
-    <string name="Harassment">"Assédio"</string>
+    <string name="Harassment">"Assédio e crime."</string>
 
     <string name="_2v2">"2v2"</string>
 
@@ -498,11 +498,11 @@
     <string name="Standard">"Padrão"</string>
     <string name="Achievement">"Conquista"</string>
     <string name="Flag">"Bandeira"</string>
-    <string name="Win_10_Clan_Wars">"Vencer 10 Guerras de Clãs"</string>
-    <string name="Win_100_Clan_Wars">"Vencer 100 Guerras de Clãs"</string>
+    <string name="Win_10_Clan_Wars">"Vencer 10 Guerras de um Clãs"</string>
+    <string name="Win_100_Clan_Wars">"Vencer 100 Guerras de um Clãs"</string>
     <string name="Clan_Commander">"Comandante do Clã"</string>
-    <string name="Clan_General">"General do Clã"</string>
-    <string name="Clan_Wars_Won_">"Guerras de Clãs Vencidas:"</string>
+    <string name="Clan_General">"capitão do Clã"</string>
+    <string name="Clan_Wars_Won_">"Guerras de Clãs Vencidos.:"</string>
     <string name="Arenas_Won_">"Arenas Vencidas:"</string>
     <string name="Arena_Mode">"Modo da Arena"</string>
     <string name="Connection_Lost">"Conexão Perdida"</string>
@@ -512,7 +512,7 @@
     <string name="Collect_1_000_presents_">"Colete 1.000 presentes."</string>
     <string name="Collect_5_000_presents_">"Colete 5.000 presentes."</string>
     <string name="Collect_10_000_presents_">"Colete 10.000 presentes."</string>
-    <string name="Loading_reward_video___">"Carregando vídeo de recompensa…"</string>
+    <string name="Loading_reward_video___">"Carregando vídeo de recompensas."</string>
     <string name="Progress">"Progresso"</string>
     <string name="Snowflake_Hoarder">"Colecionador de Flocos de Neve"</string>
     <string name="Snowflake_Mogul">"Magnata de Flocos de Neve"</string>
@@ -1141,8 +1141,8 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Japan">Japão</string>
     <string name="South_Korea">Coreia do Sul</string>
     <string name="Asia">Ásia</string>
-    <string name="SET_PRIVACY">DEFINIR PRIVACIDADE</string>
-    <string name="ANIMATION">ANIMAÇÃO</string>
+    <string name="SET_PRIVACY">DEFINIR PRIVACIDADE.</string>
+    <string name="ANIMATION">ANIMAÇÕES.</string>
     <string name="Color_Cycle">Ciclo de Cor</string>
     <string name="Fast">Rápido</string>
     <string name="Slow">Lento</string>
@@ -1160,7 +1160,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="People" translatable="true" tools:ignore="Untranslatable">Pessoas</string>
     <string name="Failed_to_join">Falha ao entrar</string>
     <string name="Full">Cheio</string>
-    <string name="new_person_joined" translatable="true" tools:ignore="Untranslatable">NOVA PESSOA ENTROU</string>
+    <string name="new_person_joined" translatable="true" tools:ignore="Untranslatable">UMA NOVA PESSOA ENTROU.</string>
     <string name="person_left" translatable="true" tools:ignore="Untranslatable">PESSOA SAIU</string>
     <string name="Left_the_group" translatable="true" tools:ignore="Untranslatable">Deixou o grupo</string>
     <string name="Tricks_Performed_">Tricks Realizados:</string>
@@ -1172,13 +1172,13 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="PUBLIC">PÚBLICO</string>
     <string name="PRIVATE">PRIVADO</string>
     <string name="Joined">Entrou</string>
-    <string name="Requests">Solicitações</string>
+    <string name="Requests">Solicitações..</string>
     <string name="Invites">Convites</string>
     <string name="Show_Spectator_Count">Mostrar Contagem de Espectadores</string>
     <string name="TRY_IT_">EXPERIMENTÁ-LA!</string>
     <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Você pode experimentar esta skin durante uma jogada. Depois que você morrer ou trocar, a skin irá sumir. Quando você estiver experimentando a skin, ninguém mais poderá vê-lá.\nPreço: %s plasma.</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Você precisa comprar um pacote para usar isto.</string>
-    <string name="GET_PACK">OBTER PACOTE</string>
+    <string name="GET_PACK">OBTER PACOTE.</string>
     <string name="Position_in_queue">Posição na fila</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">COR DE FUNDO DO MENU DE PERFIL</string>
     <string name="DARK_MATTER">MATÉRIA ESCURA</string>
@@ -1206,7 +1206,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
 
     <string name="INVISIBILITY">INVISIBILIDADE</string>
     <string name="Set_Skin">Definir Skin</string>
-    <string name="Primary">Primária</string>
+    <string name="Primary">Primárias.</string>
     <string name="Secondary">Secundária</string>
     <string name="Both">Ambos</string>
     <string name="multiskin_period_description" translatable="true" tools:ignore="Untranslatable">"Especifique o período de alteração da multi-skin em segundos (0–10). 0 desativará a multi-skin."</string>
@@ -1218,7 +1218,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Invalid_Clan_ID_">ID do Clã Inválido.</string>
     <string name="MUTED">SILENCIADO</string>
     <string name="SKIN">SKIN</string>
-    <string name="Choose_Skin_Size">Escolha o tamanho da Skin</string>
+    <string name="Choose_Skin_Size">Escolha o tamanho das Skins</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Os outros jogadores não poderão te ouvir!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Conceder a permissão para ativar a gravação de voz.</string>
     <string name="voice_chat_prompt">A classificação do conteúdo do aplicativo pode mudar com o chat por voz ativado. Para um áudio melhor, use um fone de ouvido.</string>
@@ -1247,7 +1247,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Name_Scale_">"Tamanho do Nome:"</string>
     <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">"Seu dispositivo tem uma conexão ruim com o servidor. Isso pode causar lag. Por favor, verifique o seu serviço de Wi-Fi ou celular ou tente uma conexão de internet diferente. Também verifique se você está jogando no servidor mais próximo de você."</string>
     <string name="Button_3D">Botão 3D</string>
-    <string name="Hide_Button_">Ocultar Botão?</string>
+    <string name="Hide_Button_">Ocultar Botões?</string>
     <string name="Show_Boost_Button">Mostrar Botão de Impulso</string>
     <string name="Spectate_Killer_On_Death">Espectar Quem Te Matou</string>
     <string name="Rainbow_Holes">Buracos de Arco-íris</string>
@@ -1273,8 +1273,8 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Victorious">Vitorioso</string>
     <string name="Dominant">Dominante</string>
     <string name="Champion">Campeão</string>
-    <string name="Win_10_Tournaments">Ganhar 10 Torneios</string>
-    <string name="Win_100_Tournaments">Ganhar 100 Torneios</string>
+    <string name="Win_10_Tournaments">Ganhar 10 partidas Torneios.</string>
+    <string name="Win_100_Tournaments">Ganhar 100 partidas Torneios.</string>
     <string name="HERO">HERÓI</string>
     <string name="CHAMPION">CAMPEÃO</string>
     <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">Você não pode ganhar XP ou plasma no modo Sem Vírus (Sandbox)!</string>
@@ -1302,10 +1302,10 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Crocodile_Hunter">Caçador de Crocodilos</string>
     <string name="Get_A_Pet_To_Level_X_">Leve um Mascote ao Nível %d.</string>
     <string name="plasma_boost_info">"Você ganhará três vezes os plasmas de todas as fontes NO JOGO enquanto o impulso está ativo! Isso inclui ganhos em arena e torneio! NÃO funciona em compras de plasma, giros ou recompensas especiais."</string>
-    <string name="Plasma_Boost_7_Days_">Impulso de Plasma 7 Dias!!!</string>
-    <string name="Plasma_Boost_1_Day_">Impulso de Plasma 1 Dia!</string>
-    <string name="Plasma_Boost_2_Hours_">Impulso de Plasma 2 Horas.</string>
-    <string name="Plasma_Boost">Impulso de Plasma</string>
+    <string name="Plasma_Boost_7_Days_">Impulso de Plasmas 7 Dias!!!</string>
+    <string name="Plasma_Boost_1_Day_">Impulso de Plasmas 1 Dia!</string>
+    <string name="Plasma_Boost_2_Hours_">Impulso de Plasmas 2 Horas.</string>
+    <string name="Plasma_Boost">Impulso de Plasmas</string>
     <string name="skin_warning" translatable="true" tools:ignore="Untranslatable">
         "A sua skin não foi aprovada. Aqui estão algumas das razões mais comuns. Você NÃO deve enviar:
 
@@ -1366,7 +1366,7 @@ Comandos:
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Permissões ausentes</string>
     <string name="DELETE_ACCOUNT">EXCLUIR CONTA</string>
-    <string name="delete_prompt">Você tem certeza que quer excluir sua conta? Esta ação é PERMANENTE e NÃO PODERÁ SER DESFEITA!</string>
+    <string name="delete_prompt">Você tem completamente certeza que quer excluir sua conta? Esta ação é PERMANENTE e NÃO PODERÁ SER DESFEITA!</string>
 
 
     <string name="Type">Digite</string>
@@ -1386,14 +1386,14 @@ Comandos:
     <string name="XP_5x">XP 5x</string>
     <string name="India">Índia</string>
     <string name="Tutorial">Tutorial</string>
-    <string name="TYCOON">MAGNATA</string>
+    <string name="TYCOON">MAGNATA.</string>
     <string name="CLAN_BACKGROUND_COLOR">COR DE FUNDO DO CLÃ</string>
     <string name="activate">Ativar</string>
     <string name="clan_id">ID DO CLÃ</string>
     <string name="language_change_warning">Caso pretenda mudar o idioma, o seu jogo precisará ser reiniciado.</string>
     <string name="xmas_gift_boost_message">Você recebeu de presente um impulso de plasma 3x por 1 dia.</string>
     <string name="no_response">Nenhuma resposta do servidor. Verifique a conexão com a Internet.</string>
-    <string name="RAMADAN">RAMADÃ</string>
+    <string name="RAMADAN">RAMADÃ.</string>
     <string name="SUDDEN_ATTACK">ATAQUE REPENTINO</string>
 
     <string name="sign_in_explanation" translatable="true">"
