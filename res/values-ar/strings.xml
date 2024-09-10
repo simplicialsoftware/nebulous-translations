@@ -357,7 +357,7 @@
     <string name="Searching">"جاري البحث"</string>
     <string name="In_Progress">"قيد التقدم"</string>
 
-    <string name="Wins">"انتصارات"</string>
+    <string name="Wins">"إنتصارات"</string>
 
     <string name="Score">"النقاط"</string>
     <string name="Rating">"تصنيف"</string>
@@ -417,8 +417,8 @@
     <string name="Error_in_backup_data_">"خطأ في البيانات الاحتياطية!"</string>
 
 
-    <string name="Remove_Ads">"إزالة الاعلانات"</string>
-    <string name="Reward">" مكافاة"</string>
+    <string name="Remove_Ads">"إزالة الإعلانات"</string>
+    <string name="Reward">" مكافأة"</string>
     <string name="Please_Wait___">"الرجاء الإنتظار…"</string>
     <string name="Purchasing">"المشتريات"</string>
 
