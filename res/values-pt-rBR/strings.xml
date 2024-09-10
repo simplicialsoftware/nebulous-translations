@@ -1113,9 +1113,9 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="CIRCLE">CÍRCULO</string>
     <string name="SQUARES">QUADRADO</string>
     <string name="TRICK_MODE">MODO TRICK</string>
-    <string name="ICE_SPLIT">ICE SPLIT</string>
+    <string name="ICE_SPLIT">DIVISÃO DE GELO</string>
     <string name="TRICK_SPLIT">TRICK SPLIT</string>
-    <string name="POP_SPLIT">POP SPLIT</string>
+    <string name="POP_SPLIT">DIVISÃO POP</string>
     <string name="PUSH_SPLIT">PUSH SPLIT</string>
     <string name="Level_Colors">Cores do Nível</string>
     <string name="click_info">O Autoclick/Ultraclick não funciona no FFA Clássico!</string>
