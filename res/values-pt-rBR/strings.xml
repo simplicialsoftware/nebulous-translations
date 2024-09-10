@@ -949,9 +949,9 @@
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
 Regras do Nebulous\n
 \n
-1. Não compartilhe ou negocie contas com ninguém. Isso fará com que ambos os jogadores sejam banidos permanentemente.\n
+1. Não compartilhe ou negocie contas com ninguém, pois isso resultará no banimento permanente de ambos os jogadores.\n
 2. Não peça contas de ninguém. Isso fará com que você seja banido permanentemente.\n
-3. Não tente se passar por um Moderador ou Youtuber. Isso fará com que você seja banido permanentemente.\n
+3. Não tente se passar por um Moderador ou Youtuber, pois isso resultará em banimento permanente.\n
 4. Não trapaceie para chegar aos Top Classificados do jogo em Guerras de Clã/Arena (FreePoints). Isso redefinirá suas estatísticas e resultará em um banimento permanente.\n
 5. Nunca peça pelo cargo de Líder no Clã.\n
 6. Não insulte ninguém.\n
@@ -964,7 +964,7 @@ Regras do Nebulous\n
 13. Não troque os Clãs do Nebulous por dinheiro ou plasma.\n
 14. Não faça spam no chat ou e-mail.\n
         \n
-Se você não cumprir nenhuma dessas regras, sua conta poderá ser banida.\n
+Caso você não cumprir nenhuma dessas regras, sua conta poderá ser banida.\n
 (O tempo da punição pode ser de algumas horas até o banimento permanente, dependendo da situação e da gravidade do problema).\n
 \n
 Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
@@ -1051,9 +1051,9 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="upload_details" translatable="true" tools:ignore="Untranslatable">
         "SKINS PERSONALIZADAS
 
-Quando você compra uma skin personalizada, a qualidade da imagem reduzirá, mas isso não é de grande importância e é normal (quase nenhuma diferença quando você joga).
+Ao comprar uma skin personalizada, a qualidade da imagem pode ser ligeiramente reduzida, mas isso é normal e não afeta significativamente a experiência de jogo.
 
-Em Revisão (Amarelo): Significa que a skin está sendo revisada, você deve aguardar até que ela seja aprovada.
+Em Revisão (Amarelo): Isso significa que a skin está sendo avaliada. Por favor, aguarde até que ela seja aprovada.
 
 Aprovado (Verde): A skin pode ser vista por outros jogadores.
 
@@ -1313,9 +1313,9 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
 		2. Uma foto de alguém sem camisa.
 		3. Alguém em uma pose ou cena imprópria.
 		4. Representações de álcool ou drogas (incluindo maconha)
-		5. Artes que já existem no nebulous, como skins de nível. Ela deve ser modificada de alguma maneira significativa.
+		5. Artes já existentes no Nebulous, como skins de nível, devem ser modificadas de forma significativa.
 
-        Se você enviar a mesma skin que não foi aprovada várias vezes, isso resultará em mais penalidades ou um banimento."
+        Se você continuar enviando a mesma skin que foi reprovada, poderá enfrentar penalidades crescentes ou até ser banido.
     </string>
     <string name="particle_info">Você deve ter pelo menos nível 50 e usar uma skin de base com partículas para ver as partículas.</string>
     <string name="Plain_Score_Text">"Texto Simplificado no Placar"</string>
@@ -1390,7 +1390,7 @@ Comandos:
     <string name="CLAN_BACKGROUND_COLOR">COR DE FUNDO DO CLÃ</string>
     <string name="activate">Ativar</string>
     <string name="clan_id">ID DO CLÃ</string>
-    <string name="language_change_warning">Caso pretenda mudar o idioma, o seu jogo precisará ser reiniciado.</string>
+    <string name="language_change_warning">Se desejar alterar o idioma, será necessário reiniciar o jogo.</string>
     <string name="xmas_gift_boost_message">Você recebeu de presente um impulso de plasma 3x por 1 dia.</string>
     <string name="no_response">Nenhuma resposta do servidor. Verifique a conexão com a Internet.</string>
     <string name="RAMADAN">RAMADÃ</string>
@@ -1405,7 +1405,7 @@ Faça login para acessar o modo multijogador. Você poderá:
 - Comprar plasma na loja
 - Enviar skins criadas pelos usuários
 
-Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
+Caso prefira não fazer login, ainda poderá jogar no modo para um jogador.
     </string>
     <string name="_2x_skin_resolution">Qualidade da Skin em Dobro</string>
     <string name="pm">PRIV.</string>
