@@ -39,7 +39,7 @@
     <string name="WINNER_">"VENCEDOR:"</string>
     <string name="IDLE">"INATIVO"</string>
     <string name="Name_Invalid_">"Nome inválido."</string>
-    <string name="Name_Taken_">"Nome em uso."</string>
+    <string name="Name_Taken_">"O Nome já está em uso."</string>
     <string name="CONNECTED">"CONECTADO"</string>
     <string name="JOINING___">"JUNTANDO…"</string>
     <string name="PLAYING">"JOGANDO"</string>
@@ -60,10 +60,10 @@
     <string name="US_East">"América Central"</string>
     <string name="US_West">"América do Norte"</string>
     <string name="Europe">"Europa"</string>
-    <string name="South_America">"Brasil"</string>
+    <string name="South_America">"América do Sul"</string>
 
 
-    <string name="SINGLE_PLAYER">"ÚNICO JOGADOR"</string>
+    <string name="SINGLE_PLAYER">"JOGADOR ÚNICO"</string>
     <string name="Background_">"Fundo:"</string>
     <string name="Difficulty_">"Dificuldade:"</string>
     <string name="Delay_Disconnect">"Atrasar a Desconexão"</string>
@@ -73,14 +73,14 @@
 
     <string name="OK">"OK"</string>
     <string name="CANCEL">"CANCELAR"</string>
-    <string name="Chat_Name">"Nome do Chat"</string>
+    <string name="Chat_Name">"Nome do Bate-papo"</string>
     <string name="Max_People">"Máx. de Pessoas"</string>
     <string name="START">"COMEÇAR"</string>
     <string name="CREATE">"CRIAR"</string>
     <string name="CUSTOM_GAMES">"JOGOS PERSONALIZADOS"</string>
-    <string name="CHAT">"CHAT"</string>
+    <string name="CHAT">"BATE-PAPO"</string>
     <string name="CUSTOM_SETUP">"AJUSTE PERSONALIZADO"</string>
-    <string name="CHAT_SETUP">"CONFIGURAÇÃO DO CHAT"</string>
+    <string name="CHAT_SETUP">"AJUSTES DO BATE-PAPO"</string>
 
 
     <string name="ACCOUNT">"CONTA"</string>
@@ -97,7 +97,7 @@
     <string name="XP_">"XP:"</string>
 
     <string name="Information">"Informação"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para usar esta skin, você deve liberar a conquista"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para usar esta skin, você deve desbloquear a conquista"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Para usar esta skin, você deve atingir o nível"</string>
     <string name="SIGN_IN">"ENTRAR"</string>
 
@@ -119,7 +119,7 @@
     <string name="This_player_is_a_bot">"Este jogador é um bot."</string>
     <string name="This_player_is_not_signed_in">"Este jogador não está logado."</string>
 
-    <string name="Online">"Online"</string>
+    <string name="Online">"On-line"</string>
     <string name="Unknown">"Desconhecido"</string>
     <string name="Offline">"Offline"</string>
     <string name="Achievement_Earned">"Conquista Desbloqueada"</string>
@@ -129,7 +129,7 @@
     <string name="ERROR">"ERRO"</string>
     <string name="CONTINUE">"CONTINUAR"</string>
     <string name="Global_" formatted="false">"Global"</string>
-    <string name="FRIEND_CHAT">"CHAT DE AMIGOS"</string>
+    <string name="FRIEND_CHAT">"BATE-PAPO DE AMIGOS"</string>
     <string name="LOBBY_NAME">"NOME DA SALA"</string>
     <string name="NULL">"NULL"</string>
 
@@ -249,7 +249,7 @@
     <string name="Blob_Mushiness">"Blob Amolecido"</string>
 
     <string name="Specify_private_game_name">"Especifique o nome do jogo privado"</string>
-    <string name="In_Game_Chat">"Chat no Jogo"</string>
+    <string name="In_Game_Chat">"Bate-papo no Jogo"</string>
     <string name="My_Status_">"Meu Status:"</string>
     <string name="Game_Size_">"Tamanho do Jogo:"</string>
 
@@ -282,18 +282,18 @@
     <string name="CLAN">"CLÃ"</string>
 
 
-    <string name="Specify_Clan_ID">"Especifique ID do clã"</string>
+    <string name="Specify_Clan_ID">"Especifique o ID do clã"</string>
     <string name="Show_Clan_Names">"Mostrar Nomes de Clã"</string>
     <string name="Show_Levels">"Mostrar Níveis"</string>
     <string name="SET_MOTD">"DEFINIR MDD"</string>
     <string name="No_such_user_found_">"Nenhum usuário encontrado."</string>
     <string name="No_open_public_clans_exist_">"Não existem clãs públicos abertos."</string>
     <string name="You_aren_t_invited_to_that_clan_">"Você não está convidado para este clã."</string>
-    <string name="No_such_clan_exists_">"Não existe tal clã."</string>
+    <string name="No_such_clan_exists_">"Este clã mencionado não existe."</string>
     <string name="That_clan_is_full_">"Este clã está cheio."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Outro usuário não é um membro de seu clã."</string>
     <string name="_You_can_t_be_your_own_friend_">"Você não pode ser seu próprio amigo."</string>
-    <string name="A_clan_with_that_name_already_exists_">"Um clã com este nome já existe."</string>
+    <string name="A_clan_with_that_name_already_exists_">"Já existe clã com este nome."</string>
     <string name="Duration_">"Duração:"</string>
 
     <string name="FFA_Time_Domination">"Dominador do FFA com Tempo"</string>
@@ -434,7 +434,7 @@
 
 
     <string name="Loading_Purchases___">"Carregando Compras…"</string>
-    <string name="In_App_Purchases">"Compras No App"</string>
+    <string name="In_App_Purchases">"Compras No Aplicativo"</string>
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Não é possível aplicar um novo impulso de XP até o impulso atual expirar."</string>
     <string name="This_purchase_has_already_been_redeemed_">"Esta compra já foi resgatada."</string>
 
@@ -603,9 +603,9 @@
     <string name="Facebook_Profile">"Perfil do Facebook"</string>
     <string name="You_must_be_signed_in_to_Facebook_">"Você precisa estar conectado ao Facebook."</string>
     <string name="copy_details">"Copiar Detalhes"</string>
-    <string name="copied_error_details_to_clipboard">"Detalhes do erro copiado para área de transferência"</string>
+    <string name="copied_error_details_to_clipboard">"Detalhes do erro copiado para à área de transferência"</string>
 
-    <string name="No_file_browser_installed_">"Nenhum gerenciador de arquivos instalado!"</string>
+    <string name="No_file_browser_installed_">"Nenhum gerenciador de arquivos está instalado!"</string>
     <string name="Choose_File">"Escolher Arquivo"</string>
     <string name="Google_Profile">"Perfil do Google"</string>
     <string name="You_must_be_signed_in_to_Google_">"Você precisa estar conectado ao Google."</string>
