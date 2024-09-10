@@ -56,7 +56,7 @@
 
     <string name="SERVER">"SERVIDOR"</string>
     <string name="Joining_game_in_">"Entrando no jogo em "</string>
-    <string name="Game_Full">"Jogo Cheio"</string>
+    <string name="Game_Full">"Jogo Cheio."</string>
     <string name="US_East">"América Central"</string>
     <string name="US_West">"América do Norte"</string>
     <string name="Europe">"Europa"</string>
@@ -97,8 +97,8 @@
     <string name="XP_">"XP:"</string>
 
     <string name="Information">"Informação"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para usar esta skin, você deve liberar a conquista"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Para usar esta skin, você deve atingir o nível"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para usar esta skin, você deve liberar a conquista."</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Para usar esta skin, você deve atingir o nível."</string>
     <string name="SIGN_IN">"ENTRAR"</string>
 
     <string name="Single_Player_Stats">"Estatísticas de Único Jogador"</string>
@@ -242,7 +242,7 @@
     <string name="Games_Won_">"Jogos Ganhos:"</string>
 
     <string name="You_must_wait_until_the_end_of_the_round_">"Você deve esperar até o final da rodada."</string>
-    <string name="Dont_show_again">"Não mostrar novamente"</string>
+    <string name="Dont_show_again">"Não mostrar novamente."</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Encontramos um backup de único jogador com XP maior. Você deseja restaurar o backup?"</string>
 
     <string name="Special_Effects">"Efeitos Especiais"</string>
@@ -301,7 +301,7 @@
     <string name="CTF_Domination">"Dominador do CAB"</string>
     <string name="CTF_Hat_Trick">"Hat-Trick do CAB"</string>
     <string name="Survival_Domination">"Dominador de Sobrevivência"</string>
-    <string name="I_Will_Survive">"Eu vou sobreviver"</string>
+    <string name="I_Will_Survive">"Eu vou sobreviver."</string>
     <string name="Soccer_Domination">"Dominador do Futebol"</string>
     <string name="Soccer_Hat_Trick">"Hat-Trick do Futebol"</string>
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Ganhar por 2.500 pontos em um jogo de FFA com Tempo."</string>
@@ -354,8 +354,8 @@
     <string name="Clan_War">"Guerra de Clãs"</string>
 
     <string name="Forming">"Formando"</string>
-    <string name="Searching">"Procurando"</string>
-    <string name="In_Progress">"Em Andamento"</string>
+    <string name="Searching">"Procurando.."</string>
+    <string name="In_Progress">"Em Andamento.."</string>
 
     <string name="Wins">"Vitórias"</string>
 
@@ -388,7 +388,7 @@
 
 
     <string name="Season">"Temporada"</string>
-    <string name="The_next_season_begins">"A próxima temporada começará em"</string>
+    <string name="The_next_season_begins">"A próxima temporada começará em.."</string>
 
     <string name="Current">"Atual"</string>
     <string name="leaves_">"folhas."</string>
