@@ -120,7 +120,7 @@
     <string name="This_player_is_not_signed_in">"Este jogador não está autenticado."</string>
 
     <string name="Online">"Online"</string>
-    <string name="Unknown">"Desconhecido"</string>
+    <string name="Unknown">"DESCONHECIDO"</string>
     <string name="Offline">"Offline"</string>
     <string name="Achievement_Earned">"Conquista realizada"</string>
     <string name="REFRESH">"ATUALIZAR"</string>
