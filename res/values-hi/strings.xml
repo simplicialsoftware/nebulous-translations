@@ -839,7 +839,7 @@
     <string name="Cannot_block_more_than_x_accounts_">"की तुलना में अधिक ब्लॉक नहीं कर सकता %d खातों।"</string>
     <string name="This_is_you_">"यह तुम हो।"</string>
     <string name="Win_a_Paint_Game">"जीतो एक पेंट खेल"</string>
-    <string name="Whiteout">"whiteout"</string>
+    <string name="Whiteout">"व्हाइटआउट"</string>
     <string name="Speed_Painter">"स्पीड पेंटर"</string>
     <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"0 स्कोर वाले सभी विरोधियों के साथ एक पेंट खेल जीतो।"</string>
     <string name="Win_a_Paint_game_in_60_seconds_or_less_">"60 सेकंड या उससे कम में एक पेंट खेल जीतो।"</string>
@@ -888,7 +888,7 @@
     <string name="REMOVE">हटाना</string>
     <string name="BAN">बंद</string>
     <string name="MODERATORS">मध्यस्थों</string>
-    <string name="ALL_CLAN">ALL\nCLAN</string>
+    <string name="ALL_CLAN">सभी\nकबीले</string>
     <string name="CO_LEADER">सीओ नेता</string>
     <string name="CLAN_HOUSE">वंश मकान</string>
 
