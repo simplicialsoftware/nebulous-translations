@@ -1084,7 +1084,7 @@
     <string name="CIRCLE">CÍRCULO</string>
     <string name="SQUARES">QUADRADOS</string>
     <string name="TRICK_MODE">MODO DE TRICK</string>
-    <string name="ICE_SPLIT">ICE SPLIT</string>
+    <string name="ICE_SPLIT">SPLIT DE GELO</string>
     <string name="TRICK_SPLIT">TRICK SPLIT</string>
     <string name="POP_SPLIT">POP SPLIT</string>
     <string name="PUSH_SPLIT">PUSH SPLIT</string>
@@ -1106,7 +1106,7 @@
     <string name="Trick_Notifications">Notificações do Trick</string>
     <string name="Channel">Canal</string>
     <string name="Choose_Text_Size">Escolher o Tamanho do Texto</string>
-    <string name="LEVEL_COLOR">COR DO NÍVEL</string>
+    <string name="LEVEL_COLOR">CORES DO LEVEL</string>
     <string name="INITIATE">INICIANTE</string>
     <string name="x3_Clan_XP_Perm">3x Clã XP Permanente!</string>
     <string name="x2_Clan_XP_Perm">2x Clã XP Permanente!</string>
@@ -1180,7 +1180,7 @@
     <string name="PERMANENT_BOOSTS">IMPULSOS PERMANENTES</string>
     <string name="Video_failed_to_load_">Falha ao carregar o vídeo!</string>
     <string name="Video_Ready_">Vídeo Pronto!</string>
-    <string name="GIVE_PLASMA">DAR PLASMAS</string>
+    <string name="GIVE_PLASMA">DOAR PLASMAS</string>
     <string name="Specify_amount_">Especifica uma quantidade:</string>
     <string name="Specify_amount_again_to_confirm_">Especifica novamente a quantidade para confirmar:</string>
     <string name="Amounts_did_not_match_">Quantidades não coincidem!</string>
