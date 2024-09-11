@@ -244,7 +244,7 @@
 
     <string name="You_must_wait_until_the_end_of_the_round_">"Moraš čekati do kraja runde "</string>
     <string name="Dont_show_again">"Ne prikazuj ponovno"</string>
-    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Pronađena je starija igraj sam statistika  sa višim XP. Želiš li je vratiti?"</string>
+    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Pronađena je sigurnosna kopija statistike jednog igrača s višim XP-om. Želiš li je vratiti?"</string>
 
     <string name="Special_Effects">"Specijalni Efekti"</string>
     <string name="Blob_Mushiness">"Blob Gnjecavost"</string>
@@ -402,7 +402,7 @@
 
 
     <string name="Triple">"Troduplo"</string>
-    <string name="Leaf_Hoarder">"Tvrdica Lišća"</string>
+    <string name="Leaf_Hoarder">"Sakupljač Lišća"</string>
     <string name="Collect_5000_leaves_">"Sakupi 5000 lišća."</string>
 
 
@@ -474,7 +474,7 @@
     <string name="Practice">"Trening"</string>
     <string name="ArenaDescription">"Imate samo jedan život. Pobjednik će dobiti %s plazme."</string>
     <string name="Contestant">"Natjecatelj"</string>
-    <string name="Duelist">"Dualist"</string>
+    <string name="Duelist">"Duelist"</string>
     <string name="Gladiator">"Gladijator"</string>
     <string name="Challenger">"Izazivač"</string>
     <string name="Win_1_1v1_Arenas_">"Pobijedi 1 1v1 Arenu."</string>
@@ -508,7 +508,7 @@
     <string name="Arena_Mode">"Vrsta Arene"</string>
     <string name="Connection_Lost">"Izgubljena Veza"</string>
 
-    <string name="Present_Hoarder">"Hoarder Poklona"</string>
+    <string name="Present_Hoarder">"Tvrdica Poklona"</string>
     <string name="Present_Mogul">"Mogul Poklona"</string>
     <string name="Collect_1_000_presents_">"Sakupi 1 000 poklona."</string>
     <string name="Collect_5_000_presents_">"Sakupi 5 000 poklona."</string>
@@ -597,8 +597,8 @@
     <string name="PRIZES">"NAGRADE"</string>
 
     <string name="Enable_Custom_Skin">"Omogući Prilagođene Skinove"</string>
-    <string name="Use_Custom_Skin">"Prilagođeni\nskin"</string>
-    <string name="custom_skin_description">"Ova značajka omogućuje vam da koristite svoj profil sliku ili datoteku kao svoj skin. Ova postavka će samo promjeniti skin koji vi vidite. Drugi ljudi neće vidjeti vaš vlastiti skin."</string>
+    <string name="Use_Custom_Skin">"Koristiti Prilagođenu Kožu"</string>
+    <string name="custom_skin_description">"Ova značajka omogućuje vam da koristite svoju profil sliku ili datoteku kao svoj skin. Ova postavka će samo promjeniti skin koji vi vidite. Drugi ljudi neće vidjeti vaš vlastiti skin."</string>
     <string name="CUSTOM_SKIN">"PRILAGOĐENI SKIN"</string>
 
     <string name="Facebook_Profile">"Facebook Profil"</string>
