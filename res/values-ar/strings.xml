@@ -607,11 +607,11 @@
 
     <string name="No_file_browser_installed_">"لا ملف متصفح مثبت!"</string>
     <string name="Choose_File">"أختر ملف"</string>
-    <string name="Google_Profile">"الملف الشخصي في Google"</string>
+    <string name="Google_Profile">"الملف الشخصي على Google"</string>
     <string name="You_must_be_signed_in_to_Google_">"يجب تسجيل الدخول إلى برنامج Google."</string>
 
     <string name="MAYHEM">"نمط الفوضى"</string>
-    <string name="eggs_">"البيوض."</string>
+    <string name="eggs_">"البيض."</string>
     <string name="Egg_Collector">"جامع البيض"</string>
     <string name="Egg_Hoarder">"مكدس تجميع البيض"</string>
     <string name="Egg_Mogul">"ملك تجميع البيض"</string>
@@ -717,7 +717,7 @@
     <string name="Eject">"إطلاق"</string>
     <string name="Eject_Skin">"صورة الإطلاق"</string>
     <string name="Double_Plasma__">"بلازما مزدوجة !!"</string>
-    <string name="Ends">"تنتهي"</string>
+    <string name="Ends">"نهايات"</string>
     <string name="Select_Clan_Member">"تحديد عضو العشيرة"</string>
     <string name="Inappropriate_Skin">"صورة غير لائقة"</string>
     <string name="Approved">"تم الموافقة عليها"</string>
@@ -813,7 +813,7 @@
     <string name="Not_Registered">لم يتم التسجيل</string>
     <string name="Prize_Pool">مجموع الجوائز</string>
     <string name="Registrants">المسجلين</string>
-    <string name="Round_Of">الجولة من</string>
+    <string name="Round_Of">جولة من</string>
     <string name="Next_Tournament">البطولة المقبلة</string>
     <string name="Plasma_Won">البلازما المربوحة</string>
     <string name="Semi_Finals">نصف النهائي</string>
