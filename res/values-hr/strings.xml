@@ -244,7 +244,7 @@
 
     <string name="You_must_wait_until_the_end_of_the_round_">"Moraš čekati do kraja runde "</string>
     <string name="Dont_show_again">"Ne prikazuj ponovno"</string>
-    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Pronađena je starija igraj sam statistika  sa višim XP. Želiš li je vratiti?"</string>
+    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Pronađena je kopija statistike jednog igrača s višim XP-om. Želiš li je vratiti?"</string>
 
     <string name="Special_Effects">"Specijalni Efekti"</string>
     <string name="Blob_Mushiness">"Blob Gnjecavost"</string>
@@ -474,7 +474,7 @@
     <string name="Practice">"Trening"</string>
     <string name="ArenaDescription">"Imate samo jedan život. Pobjednik će dobiti %s plazme."</string>
     <string name="Contestant">"Natjecatelj"</string>
-    <string name="Duelist">"Dualist"</string>
+    <string name="Duelist">"Duelist"</string>
     <string name="Gladiator">"Gladijator"</string>
     <string name="Challenger">"Izazivač"</string>
     <string name="Win_1_1v1_Arenas_">"Pobijedi 1 1v1 Arenu."</string>
