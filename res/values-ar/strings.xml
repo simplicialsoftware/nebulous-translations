@@ -628,7 +628,7 @@
     <string name="Times_Teleported_">"عدد مرات الإنتقال:"</string>
     <string name="Powerups_Used_">"أسلحة الفوضى المستعملة:"</string>
     <string name="Power_Hungry">"المتعطش للقوة"</string>
-    <string name="Over_9000">"اعلى من 9000"</string>
+    <string name="Over_9000">"أعلى من 9000"</string>
     <string name="Omnipresence">"كلية الوجود"</string>
 
     <string name="Shoot_9001_Powerups">"إطلاق 9001 من أسلحة الفوضى"</string>
@@ -958,11 +958,11 @@
 5. لا تسأل عن مرتبة القائد داخل العشائر\n
 6. لا تقم بمضايقة او إهانة أي أحد\n
 7. لا تقم بإنشاء ردهات دردشة بأسماء غير لائِقة\n
-8. إحترم المدراء\n
+8. إحترم المُدراء\n
 9. لا تقم بالإستفادة من الأخطاء في اللعبة\n
 10. لا تقم بحضر عدة أعضاء من العشيرة بدون موافقة القائد\ \n
 11. في أطوار اللعبة التي تحتوي على فِرق لا تقم بتشكيل فريق وهمي مع عدوك\n
-12. لا تكذب على المدراء\n
+12. لا تكذب على المُدراء\n
 13. لا تقم بتبادل العشائر من أجل المال أو البلازما\n
 14. لا تقم بإزعاج أي احد في الدردشة أو إرسال بريد مزعج\n
         \n
@@ -1289,7 +1289,7 @@
     <string name="Custom_Skin_Reviewed_Notification">لقد قمنا بمُراجعة سكنك!</string>
     <string name="You_Have_Mail_">لديك رسالة من %s!</string>
     <string name="Clan_Request_Reviewed_Notification">طلبك للإنضمام للعشيرة %s تمَّت مُراجعتهُ!</string>
-    <string name="CRAZY_SPLIT">انقسام مجنونx</string>
+    <string name="CRAZY_SPLIT">إنقسام مجنونx</string>
     <string name="Sold_Community_Skins_">"سكنّات المُجتمع المُباعةُ: "</string>
     <string name="Estimated_Earnings_">"الأرباح المُتوقعة: "</string>
     <string name="South_Africa">جَنوب أفريقيّا</string>
