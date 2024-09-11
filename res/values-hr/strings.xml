@@ -402,7 +402,7 @@
 
 
     <string name="Triple">"Troduplo"</string>
-    <string name="Leaf_Hoarder">"Sakupljač Lišća"</string>
+    <string name="Leaf_Hoarder">"Tvrdica Lišća"</string>
     <string name="Collect_5000_leaves_">"Sakupi 5000 lišća."</string>
 
 
@@ -597,7 +597,7 @@
     <string name="PRIZES">"NAGRADE"</string>
 
     <string name="Enable_Custom_Skin">"Omogući Prilagođene Skinove"</string>
-    <string name="Use_Custom_Skin">"Koristiti Prilagođenu Kožu"</string>
+    <string name="Use_Custom_Skin">"Prilagođeni\nskin"</string>
     <string name="custom_skin_description">"Ova značajka omogućuje vam da koristite svoju profil sliku ili datoteku kao svoj skin. Ova postavka će samo promjeniti skin koji vi vidite. Drugi ljudi neće vidjeti vaš vlastiti skin."</string>
     <string name="CUSTOM_SKIN">"PRILAGOĐENI SKIN"</string>
 
