@@ -1223,7 +1223,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Refund__Multiskin">"Reembolso\nMultiskin"</string>
     <string name="Invalid_Clan_ID_">ID de Clan inválida </string>
     <string name="MUTED">SILENCIADO</string>
-    <string name="SKIN">SKIN</string>
+    <string name="SKIN">PIEL</string>
     <string name="Choose_Skin_Size">Elige el tamaño de la skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">¡Otros jugadores no podrán escucharte!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Permite la grabación de voz en la app </string>
