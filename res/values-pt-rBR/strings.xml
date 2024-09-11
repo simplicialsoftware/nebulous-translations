@@ -453,7 +453,7 @@
     <string name="Copy_ID">"Copiar ID"</string>
     <string name="View_Profile">"Ver Perfil"</string>
     <string name="Send_Message">"Enviar Mensagem"</string>
-    <string name="Account_ID">"ID:"</string>
+    <string name="Account_ID">"ID da Conta:"</string>
     <string name="Player_Name">"Nome do Jogador"</string>
 
     <string name="Daily_Reward">"Recompensa Diária"</string>
