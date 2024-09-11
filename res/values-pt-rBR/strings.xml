@@ -17,7 +17,7 @@
     <string name="PLAY">"JOGAR"</string>
     <string name="OPTIONS">"OPÇÕES"</string>
 
-    <string name="Avatar_">"Skin:"</string>
+    <string name="Avatar">"Skin:"</string>
     <string name="Name_">"Nome:"</string>
 
     <string name="Loading___">"Carregando…"</string>
@@ -26,7 +26,7 @@
     <string name="Are_You_Sure_">"Você tem certeza?"</string>
     <string name="Yes">"Sim"</string>
     <string name="No">"Não"</string>
-    <string name="WAIT">"AGUARDE…"</string>
+    <string name="WAIT">"AGUARDANDO.."</string>
     <string name="Must_Specify_Name_">"É Necessário especificar um nome."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
@@ -38,8 +38,8 @@
     <string name="Recombine_">"Recombinar em: "</string>
     <string name="WINNER_">"VENCEDOR:"</string>
     <string name="IDLE">"INATIVO"</string>
-    <string name="Name_Invalid_">"Nome inválido."</string>
-    <string name="Name_Taken_">"Nome em uso."</string>
+    <string name="Name_Invalid_">"Nomes inválidos."</string>
+    <string name="Name_Taken_">"Nome em inválido."</string>
     <string name="CONNECTED">"CONECTADO"</string>
     <string name="JOINING___">"JUNTANDO…"</string>
     <string name="PLAYING">"JOGANDO"</string>
@@ -48,15 +48,15 @@
     <string name="JOIN">"ENTRAR"</string>
 
 
-    <string name="Lobby_Name">"Nome da Sala"</string>
-    <string name="Not_found_">"Não encontrado."</string>
+    <string name="Lobby_Name">"Sala não encontrada"</string>
+    <string name="Not_found_">"Não encontrado..."</string>
 
-    <string name="Hidden">"Escondido"</string>
+    <string name="Hidden">"este jogador esta Escondido."</string>
 
 
-    <string name="SERVER">"SERVIDOR"</string>
+    <string name="SERVER">"SERVIDORES"</string>
     <string name="Joining_game_in_">"Entrando no jogo em "</string>
-    <string name="Game_Full">"Jogo Cheio"</string>
+    <string name="Game_Full">" este Jogo esta  Cheio"</string>
     <string name="US_East">"América Central"</string>
     <string name="US_West">"América do Norte"</string>
     <string name="Europe">"Europa"</string>
@@ -65,30 +65,30 @@
 
     <string name="SINGLE_PLAYER">"ÚNICO JOGADOR"</string>
     <string name="Background_">"Fundo:"</string>
-    <string name="Difficulty_">"Dificuldade:"</string>
+    <string name="Difficulty_">"Dificuldades:"</string>
     <string name="Delay_Disconnect">"Atrasar a Desconexão"</string>
 
-    <string name="Max_Players">"Máx. de Jogadores"</string>
-    <string name="Min_Players">"Mín. de Jogadores"</string>
+    <string name="Max_Players">"Máximo de Jogadores"</string>
+    <string name="Min_Players">"mínimo de Jogadores"</string>
 
     <string name="OK">"OK"</string>
-    <string name="CANCEL">"CANCELAR"</string>
+    <string name="CANCEL">"CANCELADO"</string>
     <string name="Chat_Name">"Nome do Chat"</string>
-    <string name="Max_People">"Máx. de Pessoas"</string>
+    <string name="Max_People">"Máximo de Pessoas"</string>
     <string name="START">"COMEÇAR"</string>
     <string name="CREATE">"CRIAR"</string>
     <string name="CUSTOM_GAMES">"JOGOS PERSONALIZADOS"</string>
     <string name="CHAT">"CHAT"</string>
     <string name="CUSTOM_SETUP">"AJUSTE PERSONALIZADO"</string>
-    <string name="CHAT_SETUP">"CONFIGURAÇÃO DO CHAT"</string>
+    <string name="CHAT_SETUP">"CONFIGURAÇÕES DE BATE PAPO."</string>
 
 
     <string name="ACCOUNT">"CONTA"</string>
-    <string name="Red_Team">"Equipe Vermelha"</string>
-    <string name="Green_Team">"Equipe Verde"</string>
-    <string name="Blue_Team">"Equipe Azul"</string>
-    <string name="Yellow_Team">"Equipe Amarela"</string>
-    <string name="Signed_in_as_">"Logado como:"</string>
+    <string name="Red_Team">"Equipes Vermelhas"</string>
+    <string name="Green_Team">"Equipes Verdes"</string>
+    <string name="Blue_Team">"Equipes Azul"</string>
+    <string name="Yellow_Team">"Equipes Amarelas"</string>
+    <string name="Signed_in_as_">"Logado como jogador.:"</string>
     <string name="Not_signed_in_">"Não logado!"</string>
     <string name="SET_NAME">"DEFINIR NOME"</string>
     <string name="SIGN_OUT">"SAIR"</string>
@@ -96,15 +96,15 @@
     <string name="STATISTICS">"ESTATÍSTICAS"</string>
     <string name="XP_">"XP:"</string>
 
-    <string name="Information">"Informação"</string>
+    <string name="Information">"Informações"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Para usar esta skin, você deve liberar a conquista"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Para usar esta skin, você deve atingir o nível"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Para usar este Avatar, você deve atingir o nível 1000."</string>
     <string name="SIGN_IN">"ENTRAR"</string>
 
     <string name="Single_Player_Stats">"Estatísticas de Único Jogador"</string>
 
-    <string name="Level">"Nível"</string>
-    <string name="PAUSED">"PAUSADO"</string>
+    <string name="Level">"nivels"</string>
+    <string name="PAUSED">"essa partida esta passando."</string>
 
 
     <string name="FRIENDS">"AMIGOS"</string>
@@ -122,7 +122,7 @@
     <string name="Online">"Online"</string>
     <string name="Unknown">"Desconhecido"</string>
     <string name="Offline">"Offline"</string>
-    <string name="Achievement_Earned">"Conquista Desbloqueada"</string>
+    <string name="Achievement_Earned">"Conquistas Desbloqueadas"</string>
     <string name="REFRESH">"ATUALIZAR"</string>
     <string name="DONE">"FEITO"</string>
     <string name="Friend_Request_Sent">"Pedido de Amizade enviado…"</string>
@@ -130,7 +130,7 @@
     <string name="CONTINUE">"CONTINUAR"</string>
     <string name="Global_" formatted="false">"Global"</string>
     <string name="FRIEND_CHAT">"CHAT DE AMIGOS"</string>
-    <string name="LOBBY_NAME">"NOME DA SALA"</string>
+    <string name="LOBBY_NAME">"NOMES DAS SALAS"</string>
     <string name="NULL">"NULL"</string>
 
 
@@ -147,13 +147,13 @@
 
 
     <string name="Dot_Nibbler">"Mordiscador de Pontos"</string>
-    <string name="Dot_Muncher">"Caçador de Pontos"</string>
-    <string name="Dot_Eater">"Comedor de Pontos"</string>
-    <string name="Dot_Gulper">"Comilão de Pontos"</string>
-    <string name="Dot_Gobbler">"Guloso de Pontos"</string>
-    <string name="Dot_Devourer">"Devorador de Pontos"</string>
+    <string name="Dot_Muncher">"Caçadores de Pontos"</string>
+    <string name="Dot_Eater">"Comedores de Pontos"</string>
+    <string name="Dot_Gulper">"Comilões de  Pontos"</string>
+    <string name="Dot_Gobbler">"Gulosos de Pontos"</string>
+    <string name="Dot_Devourer">"Devoradores de Pontos"</string>
     <string name="Dot_Gormandizer">"Gordice de Pontos"</string>
-    <string name="Dot_Sommelier">"Escançador de Pontos"</string>
+    <string name="Dot_Sommelier">"Escançadores de Pontos"</string>
 
     <string name="Quadra_Gulp">"Devorador Quádruplo"</string>
     <string name="Multi_Gulp">"Multi Devorador"</string>
@@ -176,11 +176,11 @@
     <string name="Grand_Master_Nebulator">"Grande Mestre Nebulador"</string>
     <string name="Impossible">"Impossível"</string>
 
-    <string name="Perfection">"Perfeição"</string>
+    <string name="Perfection">"Perfeiçoes"</string>
     <string name="Single_Handedly">"Uma só Tacada"</string>
     <string name="Dodgey">"Espertalhão"</string>
     <string name="Self_Contained">"Auto-Suficiente"</string>
-    <string name="Survivalist">"Sobrevivente"</string>
+    <string name="Survivalist">"Sobreviventes"</string>
     <string name="Ultramassive">"Ultramassivo"</string>
     <string name="Rapid_Ascension">"Ascensão Rápida"</string>
     <string name="Revenge">"Vingança"</string>
@@ -337,7 +337,7 @@
     <string name="_dots">" pontos"</string>
     <string name="_player_blobs">" blobs de jogadores"</string>
     <string name="Absorb_">"Absorver "</string>
-    <string name="Collect_">"Coletar "</string>
+    <string name="Collect_">"Coletar todos "</string>
 
     <string name="FFA_CLASSIC">"FFA CLÁSSICO"</string>
 
@@ -381,13 +381,13 @@
     <string name="Spectating">"Espectador"</string>
 
 
-    <string name="snowflakes_">"flocos de neve."</string>
+    <string name="snowflakes_">"flocos de neves."</string>
     <string name="presents_">"presentes."</string>
     <string name="Snowflake_Collector">"Coletor de Flocos de Neve"</string>
     <string name="Present_Collector">"Coletor de Presentes"</string>
 
 
-    <string name="Season">"Temporada"</string>
+    <string name="Season">" novas Temporada"</string>
     <string name="The_next_season_begins">"A próxima temporada começará em"</string>
 
     <string name="Current">"Atual"</string>
@@ -442,7 +442,7 @@
 
 
     <string name="until">"até"</string>
-    <string name="New_Message_">"Nova Mensagem!"</string>
+    <string name="New_Message_">"Novas Mensagem!"</string>
     <string name="Seasonal">"Temporada"</string>
 
 
@@ -451,7 +451,7 @@
 
 
     <string name="Copy_ID">"Copiar ID"</string>
-    <string name="View_Profile">"Ver Perfil"</string>
+    <string name="View_Profile">"Ver os Perfils"</string>
     <string name="Send_Message">"Enviar Mensagem"</string>
     <string name="Account_ID">"ID:"</string>
     <string name="Player_Name">"Nome do Jogador"</string>
@@ -466,7 +466,7 @@
     <string name="Collect_10_000_Plasma_">"Colete 10.000 Plasmas."</string>
     <string name="Collect_100_000_Plasma">"Colete 100.000 Plasmas."</string>
     <string name="Plasma_Collected_">"Plasmas Coletados:"</string>
-    <string name="Plasma_Purchases">"Compras de Plasma"</string>
+    <string name="Plasma_Purchases">"Compras de Plasmas"</string>
 
     <string name="ENTER">"ENTRAR"</string>
     <string name="_1v1">"1v1"</string>
