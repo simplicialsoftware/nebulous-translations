@@ -46,7 +46,7 @@
     <string name="PLAYING">"OYNANIYOR"</string>
     <string name="MULTIPLAYER">"ÇOK OYUNCULU"</string>
 
-    <string name="JOIN">"KATIL"</string>
+    <string name="JOIN">"KATıLMAK"</string>
 
 
     <string name="Lobby_Name">"Lobi Adı"</string>
@@ -1211,7 +1211,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="PERMANENT_BOOSTS">"SINIRSIZ AL"</string>
     <string name="Video_failed_to_load_">"Video Yüklenemedi!"</string>
     <string name="Video_Ready_">"Video Hazır"</string>
-    <string name="GIVE_PLASMA">"PLAZMA GÖNDER"</string>
+    <string name="GIVE_PLASMA">"PLAZMA VERILMESI"</string>
     <string name="Specify_amount_">"Lütfen Miktarı Belirtin"</string>
     <string name="Specify_amount_again_to_confirm_">"Onaylamak için miktarı tekrar belirtin:"</string>
     <string name="Amounts_did_not_match_">"Miktarlar eşleşmedi!"</string>
