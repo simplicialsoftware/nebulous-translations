@@ -14,7 +14,7 @@
     <string name="Server_">"Sunucu:"</string>
     <string name="Game_Mode_">"Oyun Modu:"</string>
     <string name="Show_Names">"İsimleri Göster"</string>
-    <string name="Show_Avatars">"Avatarları Göster"</string>
+    <string name="Show_Avatars">"Skinleri Göster"</string>
     <string name="PLAY">"OYNA"</string>
     <string name="OPTIONS">"AYARLAR"</string>
 
@@ -128,7 +128,7 @@
     <string name="DONE">"TAMAMLANDI"</string>
     <string name="Friend_Request_Sent">"Arkadaşlık İsteği Gönderildi…"</string>
     <string name="ERROR">"HATA"</string>
-    <string name="CONTINUE">"DEVAM EDİN"</string>
+    <string name="CONTINUE">"DEVAM ET"</string>
     <string name="Global_" formatted="false">"Küresel %"</string>
     <string name="FRIEND_CHAT">"ARKADAŞINIZ İLE SOHBET"</string>
     <string name="LOBBY_NAME">"LOBİ ADI"</string>
@@ -148,7 +148,7 @@
 
 
     <string name="Dot_Nibbler">"Benek Kemirgeni"</string>
-    <string name="Dot_Muncher">"Benek Kıtırtan"</string>
+    <string name="Dot_Muncher">"Benek Kıtırdatan"</string>
     <string name="Dot_Eater">"Benek Yiyici"</string>
     <string name="Dot_Gulper">"Benek Hamlatan"</string>
     <string name="Dot_Gobbler">"Benek Süpürücü"</string>
@@ -169,7 +169,7 @@
     <string name="Blobastrophe">"Baloncuk  Uzmanı"</string>
     <string name="Blobihilation">"Baloncuk Çıldırtan"</string>
     <string name="Blobageddon">" Baloncuk Kışkırtan"</string>
-    <string name="Blobocalypse">"Baloncuk Kanırtan"</string>
+    <string name="Blobocalypse">"Baloncuk Kanırtıcı"</string>
 
     <string name="Experienced_Nebulator">"Deneyimli Nebulatör"</string>
     <string name="Expert_Nebulator">"Uzman Nebulatör"</string>
