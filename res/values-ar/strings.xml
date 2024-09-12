@@ -1254,7 +1254,7 @@
     <string name="Champion">بطل</string>
     <string name="Win_10_Tournaments">حقق 10 فوز في البطولة</string>
     <string name="Win_100_Tournaments">حقق 100 فوز في البطولة</string>
-    <string name="HERO">محارب</string>
+    <string name="HERO">مُحارب</string>
     <string name="CHAMPION">بطل</string>
     <string name="DASH">إندفاع</string>
     <string name="setting_changed">تحديث الضبط، قد تحتاج إلى إعادة الأتصال بالخادم حتى يتم تفعيله.</string>
@@ -1377,11 +1377,11 @@ Commands:
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
     <string name="Translator">متـرجـم</string>
-    <string name="SUCCESS">تم بنجاح</string>
+    <string name="SUCCESS">نَاجح</string>
 
 
     <string-array name="control_modes">
-        <item>"طبيعي"</item>
+        <item>"طبِيعِي"</item>
         <item>"خاص"</item>
         <item>"سحب نحو"</item>
         <item>"اسحب بعيد"</item>
