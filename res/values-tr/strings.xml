@@ -1179,6 +1179,16 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="DARK_MATTER">"KARANLIK MADDE"</string>
     <string name="Textures_will_be_regenerated_">"Dokular Yenilenecek"</string>
     <string name="Enable_Profile_Colors">"Profil Renklerini Etkinleştir"</string>
+    <string name="mother_cell" translatable="true">ANA HÜCRE</string>
+    <string name="shrink" translatable="true">SHRİNK</string>
+    <string name="collect_all" translatable="true">HEPSİNİ TOPLA</string>
+    <string name="magic_blob" translatable="true">SİHİRLİ BALON</string>
+    <string name="ice_split" translatable="true">BUZLU BÖLÜNME</string>
+    <string name="circle" translatable="true">ÇEMBER</string>
+    <string name="mega_pop" translatable="true">BÜYÜK PATLAMA</string>
+    <string name="no_virus" translatable="true">DİKEN YOK</string>
+    <string name="plasma_hunt" translatable="true">PLAZMA AVI</string>
+    <string name="speed" translatable="true">HIZ</string>
     <string name="Session_Stats">"Oturum İstatistikleri"</string>
     <string name="Time_">"Zaman:"</string>
     <string name="Show_Session_Stats">"Oturum İstatistiklerini Göster"</string>
