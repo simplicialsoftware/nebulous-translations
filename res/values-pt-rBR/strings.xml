@@ -335,7 +335,7 @@
     <string name="_in_a_FFA_Game">" em um Jogo de FFA"</string>
     <string name="_in_a_Teams_Game">" em um Jogo de Equipes"</string>
     <string name="_dots">" pontos"</string>
-    <string name="_player_blobs">" blobs de jogadores"</string>
+    <string name="_player_blobs">" blobs dos jogadores"</string>
     <string name="Absorb_">"Absorver "</string>
     <string name="Collect_">"Coletar "</string>
 
@@ -1030,7 +1030,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="Particle">Partícula</string>
     <string name="Privacy">Privacidade</string>
     <string name="EULA">CLUF</string>
-    <string name="You_can_purchase_this_hat_for">Você pode comprar este boné por</string>
+    <string name="You_can_purchase_this_hat_for">Você pode comprar este chapéu por</string>
     <string name="You_can_purchase_this_particle_for">Você pode comprar esta partícula por</string>
     <string name="You_can_purchase_this_eject_skin_for">Você pode comprar esta skin de ejetar por</string>
     <string name="Skin">Skin</string>
@@ -1184,7 +1184,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="DARK_MATTER">MATÉRIA ESCURA</string>
     <string name="Textures_will_be_regenerated_">Texturas pretas e skins personalizadas serão regeneradas.</string>
     <string name="Enable_Profile_Colors">Ativar Cores do Perfil</string>
-    <string name="mother_cell" translatable="true" tools:ignore="Untranslatable">CÉLULA MÃE</string>
+    <string name="mother_cell" translatable="true" tools:ignore="Untranslatable">MÃE-CÉLULA</string>
     <string name="shrink" translatable="true" tools:ignore="Untranslatable">ENCOLHENDO</string>
     <string name="collect_all" translatable="true" tools:ignore="Untranslatable">COLETE TUDO</string>
     <string name="magic_blob" translatable="true" tools:ignore="Untranslatable">BLOB MÁGICO</string>
@@ -1407,7 +1407,7 @@ Faça login para acessar o modo multijogador. Você poderá:
 
 Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
     </string>
-    <string name="_2x_skin_resolution">Qualidade da Skin em Dobro</string>
+    <string name="_2x_skin_resolution">Qualidade da Skin em Dobro!</string>
     <string name="pm">PRIV.</string>
     <string name="You_are_already_friends_">Você já tem esta pessoa adicionada.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Esta conta deve ter pelo menos 1 dia de criação para enviar mensagens.</string>
