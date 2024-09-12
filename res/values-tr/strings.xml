@@ -1193,7 +1193,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Primary">"Birincil"</string>
     <string name="Secondary">"İkincil"</string>
     <string name="Both">"İkisi de"</string>
-    <string name="multiskin_period_description" translatable="true">"Çoklu görünüm değiştirme periyodunu saniye cinsinden (0-10) belirtin. 0 çoklu görünümü devre dışı bırakacaktır."</string>
+    <string name="multiskin_period_description" translatable="true">"Çoklu cilt değiştirme hızını saniye cinsinden (0-10) belirtin. 0 çoklu cilt değiştirmeyi devre dışı bırakacaktır."</string>
     <string name="Enable__Multiskin">"Çoklu Cilt\n Etkinleştir"</string>
     <string name="MULTISKIN">"ÇOKLU CİLT"</string>
     <string name="DISABLED">"DEVRE DIŞI"</string>
