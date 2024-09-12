@@ -1186,7 +1186,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Max_XP_Chain_">"Max XP Zinciri:"</string>
     <string name="POSITION_CANCEL_BUTTON">"İPTAL DÜĞMESİ KONUMU"</string>
     <string name="INVISIBILITY">"GÖRÜNMEZLİK"</string>
-    <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Bu öge tek seferlik oyun için deneyebilirsiniz. Oyunda yenildiğiniz zaman ya da oyundan ayrıldığınız zaman öge kullanılamayacaktır. Not: Herhangi bir cilt denendiğinde onu senden başka kimse göremez.\nFiyat: %s plazma.</string>
+    <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Bu görünümü sadece 1 oyun için deneyebilirsiniz. Öldükten veya değiştirdikten sonra ortadan kaybolacaktır. Bir görünümü denediğinizde onu senden başka kimse göremez.\nFiyat: %s Plazma.</string>
     <string name="Set_Skin">"Cilt Ayarla"</string>
     <string name="Primary">"Birincil"</string>
     <string name="Secondary">"İkincil"</string>
