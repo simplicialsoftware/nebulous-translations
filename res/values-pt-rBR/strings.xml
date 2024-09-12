@@ -1415,50 +1415,50 @@ Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
     <string name="SUCCESS">BEM-SUCEDIDO</string>
 
     <string-array name="control_modes">
-        <item>"Normal"</item>
-        <item>"Relativo"</item>
-        <item>"Arrastar para Frente"</item>
-        <item>"Arrastar para Longe"</item>
-        <item>"Toque e Vá"</item>
-        <item>"Inclinar"</item>
+        <item>Normal</item>
+        <item>Relativo</item>
+        <item>Arrastar para Frente</item>
+        <item>Arrastar para Longe</item>
+        <item>Toque e Vá</item>
+        <item>Inclinar</item>
     </string-array>
 
     <string-array name="button_modes">
-        <item>"Esquerda"</item>
-        <item>"Direita"</item>
-        <item>"Direita+Esquerda"</item>
-        <item>"Pilha Esquerda"</item>
-        <item>"Pilha Direita"</item>
-        <item>"Personalizado"</item>
+        <item>Esquerda</item>
+        <item>Direita</item>
+        <item>Direita+Esquerda</item>
+        <item>Pilha Esquerda</item>
+        <item>Pilha Direita</item>
+        <item>Personalizado</item>
     </string-array>
 
     <string-array name="themes">
-        <item>"Estrelas (Escuro)"</item>
-        <item>"Grade (Escuro)"</item>
-        <item>"Grade (Branco)"</item>
-        <item>"Personalizado"</item>
-        <item>"Nenhum"</item>
+        <item>Estrelas (Escuro)"</item>
+        <item>Grade (Escuro)</item>
+        <item>Grade (Branco)</item>
+        <item>Personalizado</item>
+        <item>Nenhum</item>
     </string-array>
 
     <string-array name="difficulties">
-        <item>"Fácil"</item>
-        <item>"Médio"</item>
-        <item>"Difícil"</item>
-        <item>"IMPOSSÍVEL"</item>
+        <item>Fácil</item>
+        <item>Médio</item>
+        <item>Difícil</item>
+        <item>IMPOSSÍVEL</item>
     </string-array>
 
     <string-array name="sizes">
-        <item>"Minúsculo"</item>
-        <item>"Pequeno"</item>
-        <item>"Normal"</item>
-        <item>"Grande"</item>
-        <item>"ENORME"</item>
+        <item>Minúsculo</item>
+        <item>Pequeno</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>ENORME</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
-        <item>"Dupla (2vs2)"</item>
-        <item>"Minúsculo (3vs3)"</item>
-        <item>"Pequeno (5vs5)"</item>
-        <item>"Normal (8vs8)"</item>
+        <item>Dupla (2vs2)</item>
+        <item>Minúsculo (3vs3)</item>
+        <item>Pequeno (5vs5)</item>
+        <item>Normal (8vs8)</item>
     </string-array>
 </resources>
