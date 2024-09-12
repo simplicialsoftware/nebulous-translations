@@ -550,7 +550,7 @@
     <string name="team_arena_info">"Depois de criar uma equipe, você pode convidar e remover membros livremente. Também é livre para jogar partidas de arena em equipe. Você não pode mudar o nome da sua equipe, uma vez que for criada!"</string>
 
 
-    <string name="Invited">"Convidado"</string>
+    <string name="Invited">"Você foi confidado"</string>
     <string name="Invitation_Sent">"Convite Enviado"</string>
     <string name="REPORT">"DENUNCIAR"</string>
     <string name="Reported">"Denunciado"</string>
