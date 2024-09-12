@@ -1182,7 +1182,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Time_">"Zaman:"</string>
     <string name="Show_Session_Stats">"Oturum İstatistiklerini Göster"</string>
     <string name="VALENTINES_DAY">"SEVGİLİLER GÜNÜ"</string>
-    <string name="shared_pack_info" translatable="true">After you purchase this skin pack your exclusive skins will appear at the top of the skin selection menus for you and your friend!</string>
+    <string name="shared_pack_info" translatable="true">Bu skin paketini satın aldıktan sonra, özel skinleriniz skin seçim menüsünün en üstünde sizin ve arkadaşınız için görünecektir!</string>
     <string name="shared_pack_purch_description" translatable="true">Bu özel bir paket olduğundan hem siz hem de bir arkadaşınız bu paketi alacaksınız!</string>
     <string name="Giveaways_">"Çekilişler"</string>
     <string name="Max_XP_Chain_">"Max XP Zinciri:"</string>
