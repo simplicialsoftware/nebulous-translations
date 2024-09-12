@@ -1027,7 +1027,7 @@
     <string name="Allow_Mass_Boost"> تفعيل مُعزز الكُتلة</string>
     <string name="Challenges_Won_">التحديات التي تم الفوز بها:</string>
     <string name="trophy_info">يتم منح الجوائز في نهاية كل ملعب أو موسم حلبة الفريق للفوز بالمركز الأول والثاني والثالث. يتم منح الجوائز فقط في المناطق النشطة مع الكثير من اللاعبين.</string>
-    <string name="BLOCKED">محظور</string>
+    <string name="BLOCKED">محظُور</string>
     <string name="CLAN_WAR_HISTORY">تاريخ حروب العشيرة !</string>
     <string name="Particle">حُبيْبات</string>
     <string name="Privacy">سياسة الخصوصية</string>
@@ -1092,7 +1092,7 @@
     <string name="Community">المجتمع</string>
     <string name="Buy">شراء</string>
     <string name="Sell">بيع</string>
-    <string name="community_skin_information_for_seller" translatable="true">عند جعل جلدك المخصص جلد مجتمعي، سيظهر في علامة التبويب الخاصة بالجلود المجتمعية. سيكون بإمكان الآخرين مشاهدة وشراء جلدك المجتمعي! في كل مرة يشتري فيها شخص جلدك المجتمعي، ستحصل أنت (أو عشيرتك) على كمية صغيرة من البلازما. يجب أن تكون الجلود المجتمعية خالية من صور لأشخاص حقيقيين!</string>
+    <string name="community_skin_information_for_seller" translatable="true">عند جعل جلدك المُخصص جلد مجتمعي، سيظهر في علامة التبويب الخاصة بالجلود المجتمعية. سيكون بإمكان الآخرين مشاهدة وشراء جلدك المجتمعي! في كل مرة يشتري فيها شخص جلدك المجتمعي، ستحصل أنت (أو عشيرتك) على كمية صغيرة من البلازما. يجب أن تكون الجلود المجتمعية خالية من صور لأشخاص حقيقيين!</string>
     <string name="community_skin_requirement">يجب عليك شراء الجلد المخصص لكي تستطيع شراء واستعمال جلود المجتمع.</string>
     <string name="You_can_purchase_this_community_skin_for_">تستطيع شراء جلد المجتمع هذا بمقابل</string>
     <string name="community_skin_information_for_buyer" translatable="true">يتم تحميل جلود المجتمع من قبل لاعبين آخرين. تعمل هذه الجلود المجتمعية تمامًا مثل الجلود المخصصة، ويمكن تحريكها باستخدام الجلود العادية.</string>
@@ -1100,14 +1100,14 @@
     <string name="POPULAR">الشائع</string>
     <string name="NEW">جديد</string>
     <string name="Manage_Configurations">إدارة التكوينات</string>
-    <string name="Leave_blank_for_all_uploaders_">اترك فراغا لرؤية جميع المحملين</string>
+    <string name="Leave_blank_for_all_uploaders_">أُترك فراغاً لرؤية جميع المحملين</string>
     <string name="More___">المزيد…</string>
     <string name="This_cannot_be_used_in_FFA_Classic_">لا يمكن استخدام هذا في لعبة حر للجميع الكلاسيكية</string>
     <string name="ENEMY">عدو</string>
     <string name="ALLY">حليف</string>
     <string name="Rename">إعادة التسمية</string>
-    <string name="Set_friendly_name_">حدد اسما لصديقك.</string>
-    <string name="Leave_blank_for_none_">اترك فراغا لعدم التغيير.</string>
+    <string name="Set_friendly_name_">حدد اسماً لصديقك.</string>
+    <string name="Leave_blank_for_none_">اترك فراغاً لعدم التغيير.</string>
     <string name="Vote_Kick">طرد اللاعب</string>
     <string name="FONT">نوع الخط</string>
     <string name="CIRCLE">دائرة</string>
