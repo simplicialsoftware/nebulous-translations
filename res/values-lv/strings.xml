@@ -1076,11 +1076,11 @@
     <string name="INVERT_SELECTION">INVERT\nSELECTION</string>
     <string name="MINIMAP">MINIMAP</string>
     <string name="Victorious">Victorious</string>
-    <string name="Dominant">Dominant</string>
-    <string name="Champion">Champion</string>
+    <string name="Dominant">Dominējošais</string>
+    <string name="Champion">Čempions</string>
     <string name="Win_10_Tournaments">Win 10 Tournaments</string>
     <string name="Win_100_Tournaments">Win 100 Tournaments</string>
-    <string name="HERO">HERO</string>
+    <string name="HERO">VARONIS</string>
     <string name="CHAMPION">CHAMPION</string>
     <string name="DASH">DASH</string>
     <string name="setting_changed">Settings updated. You may need to reconnect to the server for it to take effect.</string>
