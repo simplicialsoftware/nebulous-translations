@@ -547,7 +547,7 @@
     <string name="Team_Created_">"Equipa criada!"</string>
     <string name="Team_Arena">"Arena de Equipa"</string>
     <string name="No_Teams">"Sem Equipas"</string>
-    <string name="team_arena_info">"Depois de criar uma equipa, podes convidar e remover membros livremente. Também és livre de jogar partidas de arena em equipa. Uma vez criada a equipa, não é possível alterar o seu nome."</string>
+    <string name="team_arena_info">"Após criar uma equipa, podes convidar e remover membros livremente. Também és livre de jogar partidas de arena em equipa. Uma vez criada a equipa, não é possível alterar o seu nome."</string>
 
     <string name="Invited">"Convidado"</string>
     <string name="Invitation_Sent">"Convite enviado"</string>
@@ -752,7 +752,7 @@
     <string name="Win_10000_Arenas">"Vencer 10 000 Arenas"</string>
     <string name="UPLOAD_PREVIEW">"PREVISÃO DO UPLOAD"</string>
     <string name="Transparency">"Transparência"</string>
-    <string name="upload_info">"Deverá conseguir uma melhor qualidade se não utilizar transparências ou com imagens simples."</string>
+    <string name="upload_info">"Conseguirá obter uma melhor qualidade se evitar o uso de transparências ou optar por imagens simples."</string>
     <string name="Compression_Quality_">"Qualidade de compressão:"</string>
     <string name="inapproriate_info">"São consideradas skins inapropriadas as que possam sugerir ódio, obscenidade, violência, drogas, sexo, nudez, obscuridade, ininteligibilidade e skins de Nebulous não modificadas."</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">"Tens a certeza de que pretendes enviar esta skin?"</string>
@@ -806,7 +806,7 @@
     <string name="Tournament_Competing">"Torneio a decorrer"</string>
     <string name="Tournament_Registered">"Registado no tourneio"</string>
     <string name="Tournament">"Torneio"</string>
-    <string name="TourneyDescription">"É necessário registar-se para participar no torneio. Ser-lhe-á cobrado plasma aquando do início do torneio, mas podes cancelar o registro antes de começar. O torneio começa quando há, pelo menos, %d competidores."</string>
+    <string name="TourneyDescription">"É necessário registar-se para participar no torneio. Ser-lhe-á cobrado plasma no início do torneio, mas pode cancelar o registo antes de começar. O torneio terá início quando houver pelo menos,%d competidores"</string>
     <string name="Register">"Registar"</string>
 
     <string name="Registered">"Registado"</string>
@@ -863,7 +863,7 @@
     <string name="NOW">"AGORA"</string>
     <string name="Team_Deathmatch_Domination">"Deadmatch Equipa Dominação"</string>
     <string name="We_Will_Survive">"Nós vamos sobreviver"</string>
-    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Vencer por pelo menos 5 jogadores em um jogo Team Deathmatch."</string>
+    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Vencer com uma vantagem de pelo menos 5 jogadores num jogo de Team Deathmatch"</string>
     <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"Sobreviver, mas não ganhar um jogo Deathmatch Equipa."</string>
     <string name="Win_a_Team_Deathmatch_Game">"Ganhar um jogo Deathmatch Equipa"</string>
     <string name="TEAM_DEATHMATCH">"DEATHMATCH EQUIPAS"</string>
