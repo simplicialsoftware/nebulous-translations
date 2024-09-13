@@ -901,7 +901,7 @@
     <string name="NEW_ALLIANCE">NOVA ALIANÇA</string>
     <string name="NEW_ENEMY">NOVO INIMIGO</string>
     <string name="CLAN_RELATIONS">RELAÇÕES DO CLÃ</string>
-    <string name="Clan_XP_Boost">IMPULSO DE XP P/ CLÃ</string>
+    <string name="Clan_XP_Boost">IMPULSO DE XP PARA CLÃ</string>
     <string name="x3_Clan_XP_7_days">3x Clã XP 7 Dias</string>
     <string name="x3_Clan_XP_1_Day">3x Clã XP 1 Dia</string>
     <string name="x2_Clan_XP_1_Day">2x Clã XP 1 Dia</string>
@@ -910,7 +910,7 @@
     <string name="You_can_purchase_this_pet_for">Você pode comprar este mascote por</string>
     <string name="gift_to_friend">Presente Para Amigo</string>
     <string name="gift_purchase_warning">Você não receberá esta compra porque escolheu enviá-la para um amigo.</string>
-    <string name="x2_Clan_XP_7_Days">2x XP p/ Clã 7 Dias</string>
+    <string name="x2_Clan_XP_7_Days">2x XP PARA Clã 7 Dias</string>
     <string name="RECEIVED">RECEBIDO</string>
     <string name="SENT">ENVIADO</string>
     <string name="Enable_Invites">Ativar Convites</string>
