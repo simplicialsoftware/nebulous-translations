@@ -1278,7 +1278,7 @@ Merk je dat een speler de spelregels heeft overtreden, meld dit dan aan een Mode
 Commands:
 !kick [0–31]
 !reset
-!welcome {bericht}
+!welcome {bericht welkom}
 !difficulty [0-3] or [1-4] voor campaigne
 !hidden
 !guests
