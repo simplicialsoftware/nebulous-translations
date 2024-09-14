@@ -947,7 +947,7 @@
     <string name="Years">سنوات</string>
     <string name="Friend_Added_">تم إضافة صديق!</string>
     <string name="_in_a_16x_Split_Game">في لعبة الإنقسام على 16</string>
-    <string name="Rules">قوانين اللعبة</string>
+    <string name="Rules">قواعد</string>
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
 اللعبة\n
 \n
@@ -984,7 +984,7 @@
     <string name="Kill_All_Bots">إلتهم كل الآليين</string>
     <string name="Survive">إبقى على قيد الحياة</string>
     <string name="Mission_d_Complete">المهمة %d إكتملت!</string>
-    <string name="Mission_d_Failed">المهمة %d فشلت!</string>
+    <string name="Mission_d_Failed">المهمة_د_فشلت!</string>
     <string name="Next_Mission">المهمة التالية</string>
     <string name="Objective">الهدف</string>
     <string name="GAME">لعبة</string>
