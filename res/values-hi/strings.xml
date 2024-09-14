@@ -45,11 +45,11 @@
     <string name="PLAYING">"खेल रहे है"</string>
     <string name="MULTIPLAYER">"मल्टीप्लेयर"</string>
 
-    <string name="JOIN">"शामिल हों"</string>
+    <string name="JOIN">"जोड़ना"</string>
 
 
     <string name="Lobby_Name">"लॉबी का नाम"</string>
-    <string name="Not_found_">"नहीं मिला।"</string>
+    <string name="Not_found_">"नहीं मिला"</string>
 
     <string name="Hidden">"हिडन"</string>
 
