@@ -1279,7 +1279,7 @@ Commands:
 !kick [0–31]
 !reset
 !welcome {bericht}
-!difficulty [0-3] or [1-4] voor campaigne
+!difficulty [0-3] or [1-4] voor campagne
 !hidden
 !guests
 !slowchat
