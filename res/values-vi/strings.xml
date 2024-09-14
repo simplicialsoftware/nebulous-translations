@@ -1253,21 +1253,21 @@
     <string name="The_winner_will_receive_x_plasma_">Người chiến thắng nhận %s plasma!</string>
     <string name="admin_commands">"
 Lệnh:
-!kick [0–31]
-!reset
-!welcome {tin nhắn}
+!kick [0–31] - Đuổi một người chơi
+!reset - Khởi động lại trò chơi
+!welcome {Thông điệp chào mừng} 
 !difficulty [0-3] hay là [1-4] cho Chiến Dịch
-!hidden
-!slowchat
-!pausechat
-!mute {id}
-!admin {id}
-!allow {id}
-!allow reset
+!hidden - Chuyển đổi phòng ẩn
+!slowchat - Chuyển đổi trò chuyện chậm
+!pausechat - Tạm dừng trò chuyện một thời gian
+!mute {id} - Tắt tiếng một người chơi
+!admin {id} - Thêm một quản trị viên vào phòng
+!allow {id} - Cấp quyền cho một người chơi
+!allow reset - Chỉ trong các chế độ đội
 !team [1-4] {id} (Chỉ ở chế độ đội)
-!winner
-!stats
-!info"
+!winner - Chiến thắng trận đấu trong thời gian
+!stats - Thống kê phiên
+!info" - Thông tin phòng
 </string>
     <string name="ID_Sort">ID Sort</string>
     <string name="Master_Tamer">Vua Thú Cưng</string>
