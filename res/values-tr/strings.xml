@@ -1205,10 +1205,10 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Secondary">"İkincil"</string>
     <string name="Both">"İkisi de"</string>
     <string name="multiskin_period_description" translatable="true">Çoklu cilt değiştirme hızını saniye cinsinden (0-10) belirtin. 0 çoklu cilt değiştirmeyi devre dışı bırakacaktır.</string>
-    <string name="Enable__Multiskin">"Çoklu Cilt\n Etkinleştir"</string>
+    <string name="Enable__Multiskin">"Çoklu Cilt\nEtkinleştir"</string>
     <string name="MULTISKIN">"ÇOKLU CİLT"</string>
     <string name="DISABLED">"DEVRE DIŞI"</string>
-    <string name="Refund__Multiskin">"Çoklu Cilt\n Geri Ödemesi"</string>
+    <string name="Refund__Multiskin">"Çoklu Cilt\nGeri Ödemesi"</string>
     <string name="Invalid_Clan_ID_">"Geçersiz Klan Kimliği."</string>
     <string name="MUTED">"SUSTURULDU"</string>
     <string name="SKIN">"CİLT"</string>
