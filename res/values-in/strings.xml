@@ -730,8 +730,8 @@
     <string name="Prize_Pool">"Kumpulan Hadiah"</string>
     <string name="Registrants">"Pendaftar"</string>
     <string name="Round_Of">"Babak"</string>
-    <string name="Next_Tournament">"Berikutnya Turnamen"</string>
-    <string name="Plasma_Won">"Plasma Won"</string>
+    <string name="Next_Tournament">"Turnamen Berikutnya"</string>
+    <string name="Plasma_Won">"Plasma Dimenangkan"</string>
     <string name="Semi_Finals">"Semi-Final"</string>
     <string name="Quarter_Finals">"Perempat Final"</string>
     <string name="Competing">"Bersaing"</string>
@@ -1039,7 +1039,7 @@
     <string name="Show_Session_Stats">Tampilkan Statistik Sesi</string>
     <string name="VALENTINES_DAY">"HARI VALENTIN"</string>
     <string name="Giveaways_">Giveaways!</string>
-    <string name="Max_XP_Chain_">Max XP Chain:</string>
+    <string name="Max_XP_Chain_">Max XP Diperoleh:</string>
     <string name="POSITION_CANCEL_BUTTON">POSISI TOMBOL BATAL POWERUP</string>
     <string name="INVISIBILITY">LIMUNAN</string>
     <string name="Set_Skin">Atur Skin</string>
@@ -1076,7 +1076,7 @@
     <string name="Play_Nebulous_For_X_Years_">Bermain Nebulous Untuk %d Tahun!</string>
     <string name="Starting___">Dimulai dalam&#x2026;</string>
     <string name="Tournament_Starting">Turnamen Dimulai</string>
-    <string name="Max_Tilt_Angle_3D_">Max Sudut Kemiringan 3D:</string>
+    <string name="Max_Tilt_Angle_3D_">Maks Sudut Kemiringan 3D:</string>
     <string name="Mode_3D">Mode 3D</string>
     <string name="Names_Below_Blobs">Nama di bawah Gumpalan</string>
     <string name="Name_Scale_">"Ukuran Nama:"</string>
@@ -1261,7 +1261,7 @@ Perintah:
         <item>"Kecil"</item>
         <item>"Normal"</item>
         <item>"Besar"</item>
-        <item>"GEDE"</item>
+        <item>"Sangat Besar"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
