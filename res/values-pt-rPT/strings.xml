@@ -843,10 +843,10 @@
     <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"Vencer um jogo de pintura com todos os adversários com 0 no placar"</string>
     <string name="Win_a_Paint_game_in_60_seconds_or_less_">"Vencer um jogo de pintura em 60 segundos ou menos"</string>
     <string name="Autoclick">"AutoClick"</string>
-    <string name="Autoclick_24_Hours">"AutoClick para 24 Horas"</string>
-    <string name="Autoclick_1_Hour">"AutoClick para 1 Hora"</string>
-    <string name="Ultraclick_24_Hours">"UltraClick para 24 Horas"</string>
-    <string name="Ultraclick_1_Hour">"UltraClick para 1 Hora"</string>
+    <string name="Autoclick_24_Hours">"AutoClick por 24 Horas"</string>
+    <string name="Autoclick_1_Hour">"AutoClick por 1 Hora"</string>
+    <string name="Ultraclick_24_Hours">"UltraClick por 24 Horas"</string>
+    <string name="Ultraclick_1_Hour">"UltraClick por 1 Hora"</string>
     <string name="Ultraclick">"UltraClick"</string>
     <string name="May_Reduce_Lag">"(Pode reduzir o Lag)"</string>
     <string name="Ultraclick_Permanent">"Ultraclick Permanente"</string>
@@ -904,15 +904,15 @@
     <string name="NEW_ENEMY">NOVO INIMIGO</string>
     <string name="CLAN_RELATIONS">RELAÇÕES DE CLÃ</string>
     <string name="Clan_XP_Boost">IMPULSO DE XP DO CLÃ</string>
-    <string name="x3_Clan_XP_7_days">3x Clan XP 7 Dias</string>
-    <string name="x3_Clan_XP_1_Day">3x Clan XP 1 Dia</string>
-    <string name="x2_Clan_XP_1_Day">2x Clan XP 1 Dia</string>
+    <string name="x3_Clan_XP_7_days">3x XP do Clã por 7 Dias</string>
+    <string name="x3_Clan_XP_1_Day">3x XP do Clã por 1 Dia</string>
+    <string name="x2_Clan_XP_1_Day">2x XP do Clã por 1 Dia</string>
     <string name="Pets">Animais</string>
     <string name="Pet">Animal</string>
     <string name="You_can_purchase_this_pet_for">Podes comprar este animal de estimação por</string>
     <string name="gift_to_friend">Presente Para Amigo</string>
     <string name="gift_purchase_warning">Não ganharás esta compra porque escolheste enviar esta compra para um amigo.</string>
-    <string name="x2_Clan_XP_7_Days">2x Clan XP 7 Dias</string>
+    <string name="x2_Clan_XP_7_Days">2x XP do Clã por 7 Dias</string>
     <string name="RECEIVED">RECEBIDO</string>
     <string name="SENT">ENVIADO</string>
     <string name="Enable_Invites">Ativar Convites</string>
@@ -946,7 +946,7 @@
     <string name="HAPPY_BIRTHDAY_">FELIZ ANIVERSÁRIO NO NEBULOUS!</string>
     <string name="Years">Anos</string>
     <string name="Friend_Added_">Amigo Adicionado!</string>
-    <string name="_in_a_16x_Split_Game">em um jogo de 16x Split</string>
+    <string name="_in_a_16x_Split_Game"> em um jogo de 16x Split</string>
     <string name="Rules">Regras</string>
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
     Nebulous Regras
@@ -1029,7 +1029,7 @@
     <string name="Challenges_Won_">Desafios Vencidos:</string>
     <string name="trophy_info">Os troféus são garantidos ao final de cada temporada de arena ou arena em equipas por 1º, 2º e 3º lugares. Os troféus são garantidos somente em regiões ativas com muitos jogadores.</string>
     <string name="BLOCKED">BLOQUEADO</string>
-    <string name="CLAN_WAR_HISTORY">HISTÓRICO DE GUERRA DE CLÃ</string>
+    <string name="CLAN_WAR_HISTORY">HISTÓRICO DE GUERRAS DE CLÃS</string>
     <string name="Particle">Partícula</string>
     <string name="Privacy">Privacidade</string>
     <string name="EULA">CLUF</string>
@@ -1054,7 +1054,7 @@
     <string name="PLAY_ONLINE_">JOGAR ONLINE!</string>
 
     <string name="Absorb_10_000_000_dots">Absorva 10,000,000 pontos</string>
-    <string name="Dot_Deity">Ponto Divino</string>
+    <string name="Dot_Deity">Divino de Pontos</string>
     <string name="Mass_Mastery">Domínio de Massa</string>
     <string name="Gain_100_000_000_mass">Obtenha 100,000,000 massa</string>
     <string name="VET">VET</string>
@@ -1140,7 +1140,7 @@
     <string name="Requests">Pedidos</string>
     <string name="Invites">Convites</string>
     <string name="Show_Spectator_Count">Mostrar Contagem de Espectador</string>
-    <string name="TRY_IT_">EXPERIMENTÁ-LA!</string>
+    <string name="TRY_IT_">EXPERIMENTAR!</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Tens de comprar um pacote para usar isto.</string>
     <string name="GET_PACK">OBTER PACOTE</string>
     <string name="Position_in_queue">Posição na fila</string>
