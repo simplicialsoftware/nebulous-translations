@@ -548,7 +548,7 @@
     <string name="Team_Created_">"Takım  başarıyla oluşturuldu!"</string>
     <string name="Team_Arena">"Takım Arenası"</string>
     <string name="No_Teams">"Takımsız"</string>
-    <string name="team_arena_info">"Bir takım oluşturduğunuz takdirde ücretsiz üye ekleyebilir veya çıkarabilirsiniz. Takım arena maçlarında oynamak da ücretsizdir. Oluşturduğunuz takımın ismini takımınızı oluşturduktan sonra değiştiremezsiniz."</string>
+    <string name="team_arena_info">"Bir takım oluşturduğunuz takdirde ücretsiz bir şekilde üye ekleyebilir veya çıkarabilirsiniz. Takım arena maçlarında oynamak da ücretsizdir. Oluşturduğunuz takımın ismini takımınızı oluşturduktan sonra değiştiremezsiniz."</string>
 
 
     <string name="Invited">"Davet Edildi"</string>
@@ -1061,14 +1061,14 @@ Oyunun kurallarını çiğneyen bir oyuncuyu fark ederseniz, lütfen bir "Modera
     <string name="upload_details" translatable="true" tools:ignore="Untranslatable">
          "ÖZEL DIŞ GÖRÜNÜMLER
 
-Özel bir görünüm satın aldığınız takdirde görüntünün kalitesi düşer, ancak bu çok ta önemli değildir ve normaldir (Oyun esnasında oynadığınızda neredeyse hiçbir fark olmayacaktır).
+Özel bir görünüm satın aldığınız takdirde görüntünün kalitesi düşer, ancak bu çok önemli değildir ve normaldir (Oyun esnasında oynadığınızda neredeyse hiçbir fark olmayacaktır).
 
-İncelemede (Sarı): Cildin yetkililer tarafından incelenmekte olduğu anlamına gelir, onaylanmasını beklemeniz gerekmektedir.
+İncelemede (Sarı): Cildin; yetkililer tarafından incelenmekte olduğu anlamına gelip, onaylanmasını beklemeniz gerekmektedir.
 
-Onaylandı (Yeşil): Görünüm diğer  tüm oyuncular tarafından görülebilir.
+Onaylandı (Yeşil): Görünüm, diğer tüm oyuncular tarafından görülebilir.
 Geri Ödeme Yapıldı (Turuncu): Görünümün geri ödemesini aldınız, cildiniz belirlenen standartları karşılamadığından dolayı sizlere geri ödeme yapılmıştır.  Lütfen aynı olmayan başka bir görsel seçiniz!
 
-Reddedildi (Kırmızı), cildinizin uygunsuz içeriğe sahip olması nedeni ile  cildinizin diğer oyuncular tarafından görüntülenemeyeceği anlamına gelmekte olup,  plazma sizlere iade edilmeyecektir.
+Reddedildi (Kırmızı): Cildinizin, uygunsuz içeriğe sahip olması nedeni ile cildinizin diğer oyuncular tarafından görüntülenemeyeceği anlamına gelmekte olup, plazma sizlere iade edilmeyecektir.
 
 
 ÖZEL CİLT NEDEN GERİ ÖDEME YAPILIR VEYA REDDEDİLİR?
@@ -1321,7 +1321,7 @@ Komutlar:
 !kick [0–31]( Oyuncuyu At )
 !reset( Sıfırla )
 !welcome {message} ( Karşılama Mesajı )
-!difficulty [0-3] ya da [1-4] Kampanya İçin ( Zorluk Seviyesi )
+!difficulty [0-3] ya da [1-4] Kampanya için ( Zorluk Seviyesi )
 !hidden ( Gizli )
 !guests ( Misafirler )
 !slowchat ( Yavaş Sohbet )
@@ -1346,11 +1346,11 @@ Komutlar:
 
 
     <string name="Type">"Yaz"</string>
-    <string name="Complete_campaign_mission_">"Kampanya Görevini tamamlayın."</string>
+    <string name="Complete_campaign_mission_">"Kampanya Görevini Tamamlayın."</string>
     <string name="Specify_Reason_">"Lütfen Nedenini Belirtin:"</string>
     <string name="FREE_FOR_ALL">"POPÜLER MODLAR"</string>
     <string name="SPECIAL">"ÖZEL"</string>
-    <string name="FREE">"BEDAVA"</string>
+    <string name="FREE">"ÜCRETSİZ"</string>
     <string name="x5_Clan_XP_1_Day">"1 Günlük 5X KLAN XP"</string>
     <string name="x5_Clan_XP_7_days">"7 Günlük 5X KLAN XP "</string>
     <string name="x5_Clan_XP_Perm">"KALICI 5X KLAN XP!"</string>
@@ -1385,7 +1385,7 @@ Oturum açmak istemiyorsanız, tek oyunculu modumuzu oynamaya devam edebilirsini
     </string>
     <string name="_2x_skin_resolution">2x Fotoğraf/Cilt Kalitesi</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">Siz Zaten Arkadaşsınız.</string>
+    <string name="You_are_already_friends_">Zaten Arkadaşsınız.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Posta gönderebilmeniz için hesabınızın en az 1 günlük olması gerekmektedir.</string>
     <string name="Translator">Çevirmen</string>
     <string name="SUCCESS">BAŞARI</string>
