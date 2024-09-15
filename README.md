@@ -22,7 +22,7 @@ Open the `res` folder to see all of the supported languages. `res/values` contai
 - Adding comments to your PR that explains why subtle changes were made can help. If you are revising something that is already translated, an explanation is **required**.
 - Only edit files if you see something wrong with the translations. You must check in-game first if there's a typo, missing punctuation, term used on invalid context or any similar mistake.
 - Making small, random or inconsistent changes on the file just for the Translator tag is not worth it. It's mandatory that you have at least knowledge on the English language and make sure you have a good writing on your native language.
-- In case you still feel in need of an assistance, go to [ticket](https://discord.com/channels/941543004026572811/942039671687479336), open in category "Other" and a collaborator from GitHub may assist you in all the steps.
+- In case you still feel in need of an assistance, go to [ticket](https://discord.com/channels/941543004026572811/942039671687479336), open in category "Other" and a collaborator from this repository may assist you in all the steps.
 
 ### Languages
 `res/values`: English<br>
