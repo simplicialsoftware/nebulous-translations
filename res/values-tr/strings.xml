@@ -46,7 +46,7 @@
     <string name="PLAYING">"OYNANIYOR"</string>
     <string name="MULTIPLAYER">"ÇOK OYUNCULU"</string>
 
-    <string name="JOIN">"KATIL"</string>
+    <string name="JOIN">"KATILMAK"</string>
 
 
     <string name="Lobby_Name">"Lobi Adı"</string>
@@ -263,7 +263,7 @@
     <string name="Clan">"Klan"</string>
 
 
-    <string name="JOIN_CLAN">"KLANA KATIL"</string>
+    <string name="JOIN_CLAN">"KLANA  KATILMAK "</string>
     <string name="JOIN_RANDOM_CLAN">"RASTGELE BİR KLANA KATIL"</string>
     <string name="LEAVE_CLAN">"KLANDAN AYRIL"</string>
     <string name="INVITE_MEMBER">"BİR ÜYEYİ DAVET EDİN"</string>
@@ -493,7 +493,7 @@
 
     <string name="Harassment">"Taciz"</string>
 
-    <string name="_2v2">"2'ye 2"</string>
+    <string name="_2v2">"2'e 2"</string>
 
 
     <string name="Standard">"Standart"</string>
@@ -525,7 +525,7 @@
     <string name="SET_PERMISSIONS">"YETKİLERİ DÜZENLE"</string>
     <string name="Start_Clan_War">"Klan Savaşı Başlat"</string>
     <string name="Min_Level">"Minimum Seviye "</string>
-    <string name="SAVE">"KAYDET"</string>
+    <string name="SAVE">"KAYDETMEK"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Bu oyuncunun şuanki seviyesi klana katılmak için yeterli değildir."</string>
     <string name="Insufficient_Permission">"Yetersiz Yetki"</string>
     <string name="DOMINATION">"HAKİMİYET"</string>
@@ -658,7 +658,7 @@
     <string name="Wait_for_the_current_challenge_to_expire_">"Şuanki meydan okuma isteğinin iptal edilmesini beklemelisiniz. "</string>
     <string name="CHALLENGE_OPTIONS">"MEYDAN OKUMA SEÇENEKLERİ"</string>
     <string name="Accept">"Kabul Et"</string>
-    <string name="Decline">"Reddet"</string>
+    <string name="Decline">"Reddetmek"</string>
     <string name="Challenge_Declined">"Meydan Okuma Reddedildi"</string>
     <string name="Spectators_">"Seyirciler: "</string>
     <string name="Nebula_Collector">"Nebula Toplayıcısı"</string>
