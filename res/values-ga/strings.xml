@@ -26,7 +26,7 @@
 
     <string name="Are_You_Sure_">"An bhfuil tú cinnte?"</string>
     <string name="Yes">"Tá"</string>
-    <string name="No">"Níl:"</string>
+    <string name="No">"NIl:"</string>
     <string name="WAIT">"FAN …"</string>
     <string name="Must_Specify_Name_">"Ní mór ainm a shonrú."</string>
 
@@ -52,7 +52,7 @@
     <string name="Lobby_Name">"Ainm an Lobaidh"</string>
     <string name="Not_found_">"Ní bhfuarthas."</string>
 
-    <string name="Hidden">"i bhfolach"</string>
+    <string name="Hidden">"I bhfolach"</string>
 
 
     <string name="SERVER">"FREASTAL"</string>
@@ -72,7 +72,7 @@
     <string name="Max_Players">"Rannpháirtithe Max"</string>
     <string name="Min_Players">"Rannpháirtithe Min"</string>
 
-    <string name="OK">"ceart go leor"</string>
+    <string name="OK">"CEART GO LEOR"</string>
     <string name="CANCEL">"CEAL"</string>
     <string name="Chat_Name">"Ainm Chat"</string>
     <string name="Max_People">"Max daoine"</string>
@@ -105,7 +105,7 @@
     <string name="Single_Player_Stats">"Stats Aonair Imreoir"</string>
 
     <string name="Level">"Leibhéal"</string>
-    <string name="PAUSED">"AR sos"</string>
+    <string name="PAUSED">"AR SOS"</string>
 
 
     <string name="FRIENDS">"CAIRDE"</string>
@@ -181,7 +181,7 @@
     <string name="Single_Handedly">"Aon-lámh"</string>
     <string name="Dodgey">"Dodgey"</string>
     <string name="Self_Contained">"Féin-Chothaithe"</string>
-    <string name="Survivalist">"marthanóir"</string>
+    <string name="Survivalist">"Marthanóir"</string>
     <string name="Ultramassive">"Ultramassive"</string>
     <string name="Rapid_Ascension">"Ascension Mear"</string>
     <string name="Revenge">"Díoltas"</string>
@@ -257,7 +257,7 @@
     <string name="Server_Restart_">"Athshlánú Freastalaí:"</string>
     <string name="GOAL_">"SPRIOC!"</string>
     <string name="SOCCER">"SAOIRE"</string>
-    <string name="DRAW">"Tarraing"</string>
+    <string name="DRAW">"TARRAING"</string>
 
     <string name="Clan_Name">"Ainm Clan"</string>
     <string name="Clan">"Clan"</string>
