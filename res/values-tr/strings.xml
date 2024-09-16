@@ -1309,6 +1309,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
                     5. Seviye görünümleri gibi belirsiz bir şekilde halihazırda var olan sanat eseri. Anlamlı bir şekilde değiştirilmelidir.
 
             Aynı onaylanmamış görünümü birden fazla kez yüklemek daha fazla cezaya veya yasaklanmaya yol açacaktır."
+    </string>
     <string name="particle_info">"Herhangi bir parçacığı görebilmek için en az 50 level olmalısınız ve parçacıklı bir taban cilt kullanmalısınız."</string>
     <string name="Plain_Score_Text">"Sade Skor Metni"</string>
     <string name="Custom_Skin_Reviewed_Notification">Özel Skininiz İncelendi!</string>
