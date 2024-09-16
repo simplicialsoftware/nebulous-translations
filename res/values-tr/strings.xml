@@ -1300,15 +1300,14 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Plasma_Boost_2_Hours_">"2 Saatlik Plazma Takviyesi!"</string>
     <string name="Plasma_Boost">"Plazma Takviyesi"</string>
     <string name="skin_warning" translatable="true">
-            "Özel görünümünüz onalyanmadı. Bunun en yaygın nedenleri şunlardır: Şunları yüklememelisiniz:
+        "Özel görünümünüz onalyanmadı. Bunun en yaygın nedenleri şunlardır: Şunları yüklememelisiniz:
 
-                    1. Bir kisinin topluluk cildi olarak fotoğrafı. Topluluk dışı bir cilt olabilir.
-                    2. Birinin üstü çıplak haldeki fotoğrafı.
-                    3. Müstehcen bir pozda veya sahnede olan biri.
-                    4. Alkol veya uyuşturucu (ot dahil) benzerleri.
-                    5. Seviye görünümleri gibi belirsiz bir şekilde halihazırda var olan sanat eseri. Anlamlı bir şekilde değiştirilmelidir.
+                1. Birinin üstü çıplak haldeki fotoğrafı.
+                2. Müstehcen bir pozda veya sahnede olan biri.
+                3. Alkol veya uyuşturucu (ot dahil) benzerleri.
+                4. Seviye görünümleri gibi belirsiz bir şekilde halihazırda var olan sanat eseri. Anlamlı bir şekilde değiştirilmelidir.
 
-            Aynı onaylanmamış görünümü birden fazla kez yüklemek daha fazla cezaya veya yasaklanmaya yol açacaktır."
+        Aynı onaylanmamış görünümü birden fazla kez yüklemek daha fazla cezaya veya yasaklanmaya yol açacaktır."
     </string>
     <string name="particle_info">"Herhangi bir parçacığı görebilmek için en az 50 level olmalısınız ve parçacıklı bir taban cilt kullanmalısınız."</string>
     <string name="Plain_Score_Text">"Sade Skor Metni"</string>
