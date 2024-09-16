@@ -929,9 +929,9 @@
     <string name="error_1">Apenas o líder ou o vice-líder pode enviar mensagens para todos do clã.</string>
     <string name="Hat">Boné</string>
     <string name="Hats">Bonés</string>
-    <string name="Pet_Uploads">Envios de Mascote</string>
+    <string name="Pet_Uploads">Envios de Mascotes</string>
     <string name="BLOB">BLOB</string>
-    <string name="Clan_Pet_Uploads">Envios de Masc. Clã</string>
+    <string name="Clan_Pet_Uploads">Envios de Mascotes do Clã</string>
     <string name="YT">YT</string>
     <string name="FREE_TODAY">GRÁTIS HOJE!</string>
     <string name="Cannot_cancel_this_skin_yet_">Ainda não é possível cancelar esta Skin.</string>
@@ -976,13 +976,13 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="OPEN">ABRIR</string>
     <string name="Halo">Aréola</string>
     <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Para usar esta aréola, você deve ter pelo menos o nível  %1$s e ganhar %2$s conquistas."</string>
-    <string name="Halos">Aréolas</string>
+    <string name="Halos">Auréolas</string>
     <string name="CAMPAIGN">CAMPANHA</string>
     <string name="Mission">Missão</string>
     <string name="Kill_All_Bots">Mate Todos os Bots</string>
     <string name="Survive">Sobreviva</string>
     <string name="Mission_d_Complete">Missão %d Completa!</string>
-    <string name="Mission_d_Failed">Missão %d Falida!</string>
+    <string name="Mission_d_Failed">Missão %d Falhou!</string>
     <string name="Next_Mission">Próxima Missão</string>
     <string name="Objective">Objetivo</string>
     <string name="GAME">JOGO</string>
@@ -1010,7 +1010,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="PROFILE_COLOR">COR DO PERFIL</string>
     <string name="Enable_Colors">Ativar Cores</string>
     <string name="Particles">Partículas</string>
-    <string name="Clan_Particle_Uploads">Envios de Partíc. Clã</string>
+    <string name="Clan_Particle_Uploads">Envios de Partículas do Clã</string>
     <string name="Particle_Uploads">Envios de Partículas</string>
     <string name="Blob_Outline">Contorno do Blob</string>
     <string name="Game_Border">Borda do Jogo</string>
@@ -1018,7 +1018,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="Save_the_profile_first">Salve o perfil primeiro</string>
     <string name="Birthday">Aniversário</string>
     <string name="Mass_Boost">Impulso de Massa</string>
-    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">O Impulso de Massa não funciona em arenas, torneios, e Guerras de Clãs!</string>
+    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">O Impulso de Massa não funciona em arenas, torneios e Guerras de Clãs!</string>
     <string name="ArenaDescriptionPure">SEM autoclick ou ultraclick. Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
     <string name="_1v1_Pure">1v1 Puro</string>
     <string name="Allow_Ultraclick">Permitir Ultraclick</string>
@@ -1083,7 +1083,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="PLAY_ONLINE_">JOGAR ONLINE!</string>
 
     <string name="Absorb_10_000_000_dots">Absorva 10,000,000 pontos</string>
-    <string name="Dot_Deity">Divino de Pontos</string>
+    <string name="Dot_Deity">Divindade dos Pontos</string>
     <string name="Mass_Mastery">Domínio de Massa</string>
     <string name="Gain_100_000_000_mass">Obtenha 100,000,000 de massa</string>
     <string name="VET">VET</string>
@@ -1126,10 +1126,10 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="SKIN_PACK">PACOTE DE SKIN</string>
     <string name="HALLOWEEN">DIA DAS BRUXAS</string>
     <string name="pack_info">Depois que você comprar este pacote de skin, suas skins exclusivas aparecerão na parte superior dos menus de seleção de skin.</string>
-    <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins, Masc, Bonés EXCLUSIVOS e Mais!</string>
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins, Masc, Bonés EXCLUSIVOS e Muito Mais!</string>
     <string name="BUY_NOW_">COMPRAR AGORA!</string>
     <string name="already_purchased">Você ou a pessoa para qual você está comprando já possui isto.</string>
-    <string name="Halo_Animations">Animações da Aréola</string>
+    <string name="Halo_Animations">Animações da Auréola</string>
     <string name="Trick_Notifications">Notificações do Modo Trick</string>
     <string name="Channel">Canal</string>
     <string name="Choose_Text_Size">Escolher Tamanho do Texto</string>
@@ -1176,7 +1176,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Invites">Convites</string>
     <string name="Show_Spectator_Count">Mostrar Contagem de Espectadores</string>
     <string name="TRY_IT_">EXPERIMENTÁ-LA!</string>
-    <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Você pode experimentar esta skin durante uma jogada. Depois que você morrer ou trocar, a skin irá sumir. Quando você estiver experimentando a skin, ninguém mais poderá vê-lá.\nPreço: %s plasma.</string>
+    <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Você pode experimentar esta skin durante uma jogada. Após morrer ou trocar, a skin desaparecerá. Enquanto estiver experimentando a skin, ninguém mais poderá vê-la.\nPreço: %s plasma."</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Você precisa comprar um pacote para usar isto.</string>
     <string name="GET_PACK">OBTER PACOTE</string>
     <string name="Position_in_queue">Posição na fila</string>
@@ -1360,13 +1360,13 @@ Comandos:
     <string name="Master_Tamer">Domador Magistral</string>
     <string name="Get_ALL_Pets_To_Level_100_">Leve TODOS os mascotes ao nível 100</string>
     <string name="TAMER">DOMADOR</string>
-    <string name="Allow_Recombine">Permitir Recombinar</string>
+    <string name="Allow_Recombine">Permitir Recombinaçaõ</string>
     <string name="Defenders">Defensores</string>
     <string name="Attackers">Atacantes</string>
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Permissões ausentes</string>
     <string name="DELETE_ACCOUNT">EXCLUIR CONTA</string>
-    <string name="delete_prompt">Você tem certeza que quer excluir sua conta? Esta ação é PERMANENTE e NÃO PODERÁ SER DESFEITA!</string>
+    <string name="delete_prompt">Você tem certeza de que quer excluir sua conta? Esta ação é PERMANENTE e NÃO PODERÁ SER DESFEITA!</string>
 
 
     <string name="Type">Digite</string>
@@ -1383,7 +1383,7 @@ Comandos:
     <string name="x5_XP_24_hours">5X XP 24 HORAS</string>
     <string name="x5_XP_Permanent">5X XP PERMANENTE</string>
     <string name="CAMPAIGN_2">CAMPANHA 2</string>
-    <string name="XP_5x">XP 5x</string>
+    <string name="XP_5x">XP 5X</string>
     <string name="India">Índia</string>
     <string name="Tutorial">Tutorial</string>
     <string name="TYCOON">MAGNATA</string>
@@ -1397,20 +1397,20 @@ Comandos:
     <string name="SUDDEN_ATTACK">ATAQUE REPENTINO</string>
 
     <string name="sign_in_explanation" translatable="true">"
-Faça login para acessar o modo multijogador. Você poderá:
+Faça login para acessar o modo multijogador. Assim, você poderá:
 
-- Jogar e se comunicar com outros jogadores de todo o mundo
-- Compartilhar seu progresso com outros
-- Criar e decorar um perfil
-- Comprar plasma na loja
-- Enviar skins criadas pelos usuários
+- Jogar e se comunicar com jogadores de todo o mundo;
+- Compartilhar seu progresso com outros;
+- Criar e personalizar seu perfil;
+- Comprar plasma na loja;
+- Enviar skins criadas por usuários.
 
 Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
     </string>
     <string name="_2x_skin_resolution">Qualidade da Skin em Dobro</string>
     <string name="pm">PRIV.</string>
-    <string name="You_are_already_friends_">Você já tem esta pessoa adicionada.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Esta conta deve ter pelo menos 1 dia de criação para enviar mensagens.</string>
+    <string name="You_are_already_friends_">Você já tem essa pessoa adicionada.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">A conta deve ter pelo menos 1 dia de criação para enviar mensagens.</string>
     <string name="Translator">Tradutor</string>
     <string name="SUCCESS">BEM-SUCEDIDO</string>
 
