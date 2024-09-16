@@ -1309,11 +1309,10 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="skin_warning" translatable="true" tools:ignore="Untranslatable">
         "A sua skin não foi aprovada. Aqui estão algumas das razões mais comuns. Você NÃO deve enviar:
 
-		1. Uma foto de uma pessoa como skin da comunidade. Ela só poderá ser aceita como skin que não seja da comunidade.
-		2. Uma foto de alguém sem camisa.
-		3. Alguém em uma pose ou cena imprópria.
-		4. Representações de álcool ou drogas (incluindo maconha)
-		5. Artes que já existem no nebulous, como skins de nível. Ela deve ser modificada de alguma maneira significativa.
+		1. Uma foto de alguém sem camisa;
+		2. Alguém em uma pose ou cena imprópria;
+		3. Representações de álcool ou drogas (incluindo maconha);
+		4. Artes que já existem no nebulous, como skins de nível. Ela deve ser modificada de alguma maneira significativa.
 
         Se você enviar a mesma skin que não foi aprovada várias vezes, isso resultará em mais penalidades ou um banimento."
     </string>
