@@ -781,7 +781,7 @@
     <string name="BLOCK">"BLOQUEAR"</string>
     <string name="DELETE">"BORRAR"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Nota: Se puede desbloquear a alguien enviándole una solicitud de amistad "</string>
-    <string name="Select_Friend">"Elije un amigo"</string>
+    <string name="Select_Friend">"Elige un amigo"</string>
     <string name="Failed_to_send_mail_">"No se pudo enviar el correo "</string>
     <string name="In_Game_Mail">"Correo del juego"</string>
     <string name="Nav_Buttons_">"Botones chat/desafíos:"</string>
@@ -925,7 +925,7 @@
     <string name="BLOB_COLOR">"COLOR BLOB"</string>
     <string name="ENABLED">"ACTIVADO"</string>
     <string name="Enable_Custom_Blob_Color">"Activar Color Personalizado de Blob"</string>
-    <string name="Choose_Menu">"Elije el menú"</string>
+    <string name="Choose_Menu">"Elige el menú"</string>
     <string name="SPECTATE">"ESPECTAR"</string>
     <string name="INVITE">INVITAR</string>
     <string name="error_1">Sólo el LÍDER o el COLÍDER pueden enviar un correo.</string>
