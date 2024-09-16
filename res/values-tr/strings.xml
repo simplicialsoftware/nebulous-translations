@@ -1206,6 +1206,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Both">"İkisi de"</string>
     <string name="multiskin_period_description" translatable="true">Çoklu cilt değiştirme hızını saniye cinsinden (0-10) belirtin. 0 çoklu cilt değiştirmeyi devre dışı bırakacaktır.</string>
     <string name="Enable__Multiskin">"Çoklu Cilt\nEtkinleştir"</string>
+    <string name="multiskin_description" translatable="true">Çoklu Cilt dönüşümlü olarak iki dış görünüm kullanmanıza olanak tanır. Görünümlerin ne kadar hızlı değişeceğini siz seçersiniz 1.000. seviyeye ulaştığınızda bu özellik ücretsizdir. Çoklu deriyi 1.000. seviyeden önce satın alırsanız 1.000. seviyeye geldiğinizde plazmanız geri iade edilir.</string>
     <string name="MULTISKIN">"ÇOKLU CİLT"</string>
     <string name="DISABLED">"DEVRE DIŞI"</string>
     <string name="Refund__Multiskin">"Çoklu Cilt\nGeri Ödemesi"</string>
