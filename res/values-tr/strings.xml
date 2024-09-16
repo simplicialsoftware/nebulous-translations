@@ -1300,7 +1300,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Plasma_Boost_2_Hours_">"2 Saatlik Plazma Takviyesi!"</string>
     <string name="Plasma_Boost">"Plazma Takviyesi"</string>
     <string name="skin_warning" translatable="true">
-        "Özel görünümünüz onalyanmadı. Bunun en yaygın nedenleri şunlardır: Şunları yüklememelisiniz:
+        "Özel görünümünüz onaylanmadı. Bunun en yaygın nedenleri şunlardır: Şunları yüklememelisiniz:
 
                 1. Birinin üstü çıplak haldeki fotoğrafı.
                 2. Müstehcen bir pozda veya sahnede olan biri.
