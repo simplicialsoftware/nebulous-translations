@@ -982,7 +982,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="Kill_All_Bots">Mate Todos os Bots</string>
     <string name="Survive">Sobreviva</string>
     <string name="Mission_d_Complete">Missão %d Completa!</string>
-    <string name="Mission_d_Failed">Missão %d Falida!</string>
+    <string name="Mission_d_Failed">Missão %d Falhou!</string>
     <string name="Next_Mission">Próxima Missão</string>
     <string name="Objective">Objetivo</string>
     <string name="GAME">JOGO</string>
