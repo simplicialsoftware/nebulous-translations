@@ -949,6 +949,29 @@
     <string name="Friend_Added_">Prieten adaugat</string>
     <string name="_in_a_16x_Split_Game">într-un joc Split 16x</string>
     <string name="Rules">Reguli</string>
+    <string name="Nebulous_Rules" translatable="true">
+Nebulous Rules\n
+\n
+1. Do not share or trade accounts with anyone. This will result in both players being permanently banned.\n
+2. Do not ask for accounts from anyone. This will result in you being permanently banned.\n
+3. Do not pretend to be a Moderator or Youtuber. This will result in you being permanently banned.\n
+4. Do not cheat to reach the top ranking of the game in clan wars or arena (FreePoints). This will reset your stats and result in a permanent ban.\n
+5. Never ask for the leader rank in a clan.\n
+6. Do not insult anyone.\n
+7. Do not create Custom Games or Chats with inappropriate names.\n
+8. Obey the moderators.\n
+9. Do not take advantage of bugs in the game.\n
+10. Do not ban any clan members without the leader\'s authorization.\n
+11. In team games, do not team up with someone on an opposing team.\n
+12. Never lie to a Moderator.\n
+13. Do not exchange Nebulous clans for money or plasma.\n
+14. Do not spam in chat or mail.\n
+\n
+If you do not comply with any of these rules, your account could be banned.\n
+(The time of punishment can be from few hours to permanent ban, depending of the situation and severity of the problem).\n
+\n
+If you notice a player breaking the rules of the game, please report it to a moderator.
+    </string>
     <string name="Blob_Chat_Bubbles">Blob Chat Bubbles</string>
     <string name="CHRISTMAS_ADVENT_SKINS">VENIREA CRĂCIUNULUI</string>
     <string name="You_cannot_open_this_present_yet_">Nu poți deschide acest cadou încă!</string>
@@ -1030,6 +1053,39 @@
     <string name="WORLD_CUP_EVENT___">WORLD CUP EVENT!!!</string>
     <string name="world_cup_event_description">Double XP and Double Plasma in Soccer Mode until the end of the world cup!</string>
     <string name="GIF_Skins">GIF Skins</string>
+    <string name="upload_details" translatable="true">
+        "CUSTOM SKINS
+
+When you buy a custom skin, the quality of the image will decrease, but this is not of great importance and is normal (almost no difference when you play). Here is the status and its meanings:
+
+In Review (Yellow): It means that the skin is being reviewed. You must wait for it to be approved.
+
+Approved (Green): The skin has been approved and can be seen by other players.
+
+Refunded (Orange): You received a refund of the skin, because it does not meet the established standards. You must select some other image that is not the same.
+
+Rejected (Red): It means that your skin cannot be seen by other players because it contains inappropriate content. You won't be returned with plasma.
+
+
+
+WHY HAS MY CUSTOM SKIN REFUNDED OR REJECTED?
+
+If your custom skin is refunded, do not buy it again because it will be rejected and you will lose your plasma.
+
+This is a list of things that are *PROHIBITED* to use in the custom skins. If you buy a skin with this, it will be refunded or rejected:
+- Content and/or some Sexual reference;
+- Unmodified Nebulous Skins/Arts;
+- Content Gore/Suicide;
+- Nudes (no shirt);
+- Very dark skins;
+- Transparent skins;
+- Drugs (alcohol/cigars/marijuana);
+- Name of pages for adults (pornography);
+- People with little clothes (necklines on the body;
+- Racism/Nazism/Violence;
+- People using a weapon;
+- Obscene signals with hands."
+    </string>
     <string name="PLAY_ONLINE_">PLAY ONLINE!</string>
     <string name="Absorb_10_000_000_dots">Absorb 10,000,000 dots</string>
     <string name="Dot_Deity">Dot Deity</string>
@@ -1041,8 +1097,10 @@
     <string name="Community">Community</string>
     <string name="Buy">Buy</string>
     <string name="Sell">Sell</string>
+    <string name="community_skin_information_for_seller" translatable="true">When you turn a custom skin into a community skin, it will be listed in the "Community Skins" tab. Other people can see and buy your community skin! Every time someone buys your community skin, you (or your clan) get a small plasma amount.</string>
     <string name="community_skin_requirement">You must purchase Enable Custom Skins to use community skins.</string>
     <string name="You_can_purchase_this_community_skin_for_">You can purchase this community skin for</string>
+    <string name="community_skin_information_for_buyer" translatable="true">Community skins are uploaded by other players. Community skins work just like custom skins and can be animated with regular skins.</string>
     <string name="VIEW_UPLOADER">VIEW UPLOADER</string>
     <string name="POPULAR">POPULAR</string>
     <string name="NEW">NEW</string>
@@ -1083,6 +1141,7 @@
     <string name="Channel">Channel</string>
     <string name="Choose_Text_Size">Choose Text Size</string>
     <string name="LEVEL_COLOR">LEVEL COLOR</string>
+    <string name="level_color_instructions" translatable="true">Select the color of your level.</string>
     <string name="INITIATE">INITIATE</string>
     <string name="x3_Clan_XP_Perm">3x Clan XP Permanent!</string>
     <string name="x2_Clan_XP_Perm">2x Clan XP Permanent!</string>
@@ -1101,9 +1160,16 @@
     <string name="LEAVE">LEAVE</string>
     <string name="Group">Group</string>
     <string name="Not_in_a_group_">Not in a group.</string>
+    <string name="group_chat_create" translatable="true">Give this group ID to your friends so they can join the group:</string>
+    <string name="Specify_Group_ID" translatable="true">Specify Group ID</string>
     <string name="Failed">Failed</string>
+    <string name="Joined_group" translatable="true">Joined group</string>
+    <string name="People" translatable="true">People</string>
     <string name="Failed_to_join">Failed to join</string>
     <string name="Full">Full</string>
+    <string name="new_person_joined" translatable="true">NEW PERSON JOINED</string>
+    <string name="person_left" translatable="true">PERSON LEFT</string>
+    <string name="Left_the_group" translatable="true">Left the group</string>
     <string name="Tricks_Performed_">Tricks Performed:</string>
     <string name="Not_enough_plasma_">Not enough plasma!</string>
     <string name="GET_PLASMA">GET PLASMA</string>
@@ -1117,6 +1183,7 @@
     <string name="Invites">Invites</string>
     <string name="Show_Spectator_Count">Show Spectator Count</string>
     <string name="TRY_IT_">TRY IT!</string>
+    <string name="skin_trial_info" translatable="true">You can try this skin for one game. After you die or change it, it will go away. When you are trying a skin no one else can see it.\nPrice: %s plasma.</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">You need to buy a pack to use this.</string>
     <string name="GET_PACK">GET PACK</string>
     <string name="Position_in_queue">Poziție în coadă</string>
@@ -1124,10 +1191,22 @@
     <string name="DARK_MATTER">DARK MATTER</string>
     <string name="Textures_will_be_regenerated_">Black textures and custom skins will be regenerated.</string>
     <string name="Enable_Profile_Colors">Enable Profile Colors</string>
+    <string name="mother_cell" translatable="true">MOTHER CELL</string>
+    <string name="shrink" translatable="true">SHRINK</string>
+    <string name="collect_all" translatable="true">COLLECT ALL</string>
+    <string name="magic_blob" translatable="true">MAGIC BLOB"</string>
+    <string name="ice_split" translatable="true">ICE SPLIT</string>
+    <string name="circle" translatable="true">CIRCLE</string>
+    <string name="mega_pop" translatable="true">MEGA POP"</string>
+    <string name="no_virus" translatable="true">SANDBOX (NO VIRUS)</string>
+    <string name="plasma_hunt" translatable="true">PLASMA HUNT"</string>
+    <string name="speed" translatable="true">SPEED</string>
     <string name="Session_Stats">Session Stats</string>
     <string name="Time_">Timp:</string>
     <string name="Show_Session_Stats">Show Session Stats</string>
     <string name="VALENTINES_DAY">"VALENTINES DAY"</string>
+    <string name="shared_pack_info" translatable="true">After you purchase this skin pack, your exclusive skins will appear at the top of the skin selection menus for you and your friend"</string>
+    <string name="shared_pack_purch_description" translatable="true">This is a special pack so you and a friend will receive the pack"</string>
     <string name="Giveaways_">Giveaways!</string>
     <string name="Max_XP_Chain_">Max XP Chain:</string>
     <string name="POSITION_CANCEL_BUTTON">POSITION CANCEL BUTTON</string>
@@ -1136,8 +1215,9 @@
     <string name="Primary">Primar</string>
     <string name="Secondary">Secundar</string>
     <string name="Both">Armandouă</string>
-
+    <string name="multiskin_period_description" translatable="true">Specify multiskin change period in seconds (0-10). 0 will disable multiskin.</string>
     <string name="Enable__Multiskin">"Permite\nMultiskin"</string>
+    <string name="multiskin_description" translatable="true">Multiskin lets you use two skins that alternate. You choose how fast the skins change. When you reach level 1000, this feature is free. If you buy multiskin before level 1000, you will get the plasma back when you reach it.</string>
     <string name="MULTISKIN">MULTISKIN</string>
     <string name="DISABLED">DISABLED</string>
 
@@ -1172,6 +1252,7 @@
     <string name="Mode_3D">3D Mode</string>
     <string name="Names_Below_Blobs">Names Below Blobs</string>
     <string name="Name_Scale_">"Scala de nume:"</string>
+    <string name="poor_connection_quality_warning" translatable="true">Your device has a poor connection to the server. This might cause lag. Please check your Wi-Fi or phone service or try a different Internet connection. Also make sure you are playing on the closest servet to you.</string>
     <string name="Button_3D">Button 3D</string>
     <string name="Hide_Button_">Hide Button?</string>
     <string name="Show_Boost_Button">Show Boost Button</string>
@@ -1203,6 +1284,7 @@
     <string name="Win_100_Tournaments">Win 100 Tournaments</string>
     <string name="HERO">HERO</string>
     <string name="CHAMPION">CHAMPION</string>
+    <string name="sandbox_warning" translatable="true">You cannot earn XP or plasma in sandbox mode!</string>
     <string name="DASH">DASH</string>
     <string name="setting_changed">Settings updated. You may need to reconnect to the server for it to take effect.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Perform 10,000 tricks in a Trick Mode game.</string>
@@ -1231,6 +1313,16 @@
     <string name="Plasma_Boost_1_Day_">Plasma Boost 1 Day!</string>
     <string name="Plasma_Boost_2_Hours_">Plasma Boost 2 Hours.</string>
     <string name="Plasma_Boost">Plasma Boost</string>
+    <string name="skin_warning" translatable="true">
+        "Your custom skin was not approved. Here are the most common reasons for this. You must NOT upload:
+
+                1. A photograph of someone shirtless;
+                2. Someone in a suggestive pose or scene;
+                3. Depictions of alcohol or drugs (including weed);
+                4. Artwork that already exist in Nebulous, such as level skins. It must be modified in some meaningful way.
+
+        Uploading the same non-approved skin multiple times will result in more penalties or ban."
+    </string>
     <string name="particle_info">You must be at least level 50 and use a base skin with particles in order to see any particles.</string>
     <string name="Plain_Score_Text">"Plain Score Text"</string>
     <string name="Custom_Skin_Reviewed_Notification">Your Custom Skin Has Been Reviewed!</string>
@@ -1309,6 +1401,17 @@ Comenzi:
     <string name="no_response">Fără răspuns de la server. Vă rugăm să verificați conexiunea la internet.</string>
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">ATAC BRUSC</string>
+    <string name="sign_in_explanation" translatable="true">
+"Sign in to access multiplayer. You will be able to:
+
+- Play and communicate with players all over the world;
+- Share your progress with others;
+- Create and decorate a profile;
+- Purchase plasma at the shop;
+- Upload user generated skins.
+
+If you do not wish to sign in, you can still player in single-player mode."
+    </string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Sunteți deja prieteni.</string>
