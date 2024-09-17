@@ -950,27 +950,27 @@
     <string name="_in_a_16x_Split_Game">într-un joc Split 16x</string>
     <string name="Rules">Reguli</string>
     <string name="Nebulous_Rules" translatable="true">
-Nebulous Rules\n
+Regulile Nebulous-ul\n
 \n
-1. Do not share or trade accounts with anyone. This will result in both players being permanently banned.\n
-2. Do not ask for accounts from anyone. This will result in you being permanently banned.\n
-3. Do not pretend to be a Moderator or Youtuber. This will result in you being permanently banned.\n
-4. Do not cheat to reach the top ranking of the game in clan wars or arena (FreePoints). This will reset your stats and result in a permanent ban.\n
-5. Never ask for the leader rank in a clan.\n
-6. Do not insult anyone.\n
-7. Do not create Custom Games or Chats with inappropriate names.\n
-8. Obey the moderators.\n
-9. Do not take advantage of bugs in the game.\n
-10. Do not ban any clan members without the leader\'s authorization.\n
-11. In team games, do not team up with someone on an opposing team.\n
-12. Never lie to a Moderator.\n
-13. Do not exchange Nebulous clans for money or plasma.\n
-14. Do not spam in chat or mail.\n
+1. Nu împărtășiți și nu tranzacționați conturi cu nimeni. Acest lucru va duce la interdicție permanentă a ambilor jucatori.\n
+2. Nu cere conturi de la nimeni. Acest lucru va duce la interdicție permanentă.\n
+3. Nu pretindeți că sunteți moderator sau youtuber. Acest lucru va duce la interdicție permanentă.\n
+4. Nu trișați pentru a ajunge în clasamentul de top al jocului în războaiele clanurilor sau în arenă (Puncte Gratis). Acest lucru vă va reseta statusul și va duce la o interdicție permanentă.\n
+5. Nu cere niciodată rangul de lider într-un clan.\n
+6. Nu insulta pe nimeni.\n
+7. Nu creați jocuri sau chat-uri personalizate cu nume nepotrivite.\n
+8. Respectați moderatorii.\n
+9. Nu profita de bug-urile din joc.\n
+10. Nu interziceți niciun membru al clanului fără autorizațua liderului.\n
+11. În jocurile de echipă, nu faceți echipă cu cineva dintr-o echipă adversă.\n
+12. Nu minți niciodată un moderator.\n
+13. Nu cumpărați clanurile Nebulous cu bani sau plasmā.\n
+14. Nu spamați în chat sau e-mail.\n
 \n
-If you do not comply with any of these rules, your account could be banned.\n
-(The time of punishment can be from few hours to permanent ban, depending of the situation and severity of the problem).\n
+Dacă nu respectați niciuna dintre aceste reguli, contul dumneavoastră ar putea fi interzis.\n
+(Timpul de pedeapsă poate varia între câteva ore și o interdicție permanentă, în funcție de situația și gravitatea problemei).\n
 \n
-If you notice a player breaking the rules of the game, please report it to a moderator.
+Dacă observați că un jucător încalcă regulile jocului, vă rugăm să raportați acest lucru unui moderator.
     </string>
     <string name="Blob_Chat_Bubbles">Blob Chat Bubbles</string>
     <string name="CHRISTMAS_ADVENT_SKINS">VENIREA CRĂCIUNULUI</string>
@@ -1081,7 +1081,7 @@ This is a list of things that are *PROHIBITED* to use in the custom skins. If yo
 - Transparent skins;
 - Drugs (alcohol/cigars/marijuana);
 - Name of pages for adults (pornography);
-- People with little clothes (necklines on the body;
+- People with little clothes (necklines on the body);
 - Racism/Nazism/Violence;
 - People using a weapon;
 - Obscene signals with hands."
@@ -1205,8 +1205,8 @@ This is a list of things that are *PROHIBITED* to use in the custom skins. If yo
     <string name="Time_">Timp:</string>
     <string name="Show_Session_Stats">Show Session Stats</string>
     <string name="VALENTINES_DAY">"VALENTINES DAY"</string>
-    <string name="shared_pack_info" translatable="true">After you purchase this skin pack, your exclusive skins will appear at the top of the skin selection menus for you and your friend"</string>
-    <string name="shared_pack_purch_description" translatable="true">This is a special pack so you and a friend will receive the pack"</string>
+    <string name="shared_pack_info" translatable="true">After you purchase this skin pack, your exclusive skins will appear at the top of the skin selection menus for you and your friend!</string>
+    <string name="shared_pack_purch_description" translatable="true">This is a special pack so you and a friend will receive the pack!</string>
     <string name="Giveaways_">Giveaways!</string>
     <string name="Max_XP_Chain_">Max XP Chain:</string>
     <string name="POSITION_CANCEL_BUTTON">POSITION CANCEL BUTTON</string>
