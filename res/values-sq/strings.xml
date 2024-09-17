@@ -32,9 +32,9 @@
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"përmbajtja vlerësim të app mund të ndryshojë kur gjetjen e grupeve"</string>
 
-    <string name="_Rank_">"_Gradë_"</string>
-    <string name="_Alias_">"_Pseudonim_"</string>
-    <string name="_Score_">"_Pikë_"</string>
+    <string name="_Rank_">"Gradë"</string>
+    <string name="_Alias_">"Pseudonim"</string>
+    <string name="_Score_">"Pikë"</string>
     <string name="Score__">"Pikë: "</string>
     <string name="Recombine_">"Ribashkoju:"</string>
     <string name="WINNER_">"FITUESE:"</string>
@@ -42,7 +42,7 @@
     <string name="Name_Invalid_">"Emri i pavlefshëm."</string>
     <string name="Name_Taken_">"Emri i marrur."</string>
     <string name="CONNECTED">"I LIDHUR"</string>
-    <string name="JOINING___">"BASHKANGJINTUR …"</string>
+    <string name="JOINING___">"BASHKANGJINTUR…"</string>
     <string name="PLAYING">"LUAJN"</string>
     <string name="MULTIPLAYER">"MULTIPLAYER"</string>
 
@@ -56,7 +56,7 @@
 
 
     <string name="SERVER">"SERVER"</string>
-    <string name="Joining_game_in_">"Bashkohen në Lojë "</string>
+    <string name="Joining_game_in_">"Bashkohen në Lojë"</string>
     <string name="Game_Full">"Loja të plotë"</string>
     <string name="US_East">"SHBA East"</string>
     <string name="US_West">"SHBA PERËNDIM"</string>
@@ -77,8 +77,8 @@
     <string name="Chat_Name">"Emri chat"</string>
     <string name="Max_People">"Max Lojtar"</string>
     <string name="START">"FILLIM"</string>
-    <string name="CREATE">"HAPE "</string>
-    <string name="CUSTOM_GAMES">"LOJES CUSTOM "</string>
+    <string name="CREATE">"HAPE"</string>
+    <string name="CUSTOM_GAMES">"LOJES CUSTOM"</string>
     <string name="CHAT">"bisedë"</string>
     <string name="CUSTOM_SETUP">"CUSTOM SETUP"</string>
     <string name="CHAT_SETUP">"KONFIGURIMI CHAT"</string>
@@ -110,7 +110,7 @@
 
     <string name="FRIENDS">"MIQ"</string>
     <string name="Warning">"PARALAJMËRIM"</string>
-    <string name="SIGNING_IN">"Nënshkrimit në …"</string>
+    <string name="SIGNING_IN">"Nënshkrimit në…"</string>
     <string name="New_Friend_Request">"Kërkesa e re mik"</string>
     <string name="REQUEST_FRIEND">"SHTOJE TE SHOKET"</string>
     <string name="Private">"Privat"</string>
@@ -215,7 +215,7 @@
     <string name="Reach_a_score_of_5_000">"Arrijnë një rezultat të 5.000 pikë"</string>
     <string name="Reach_a_score_of_10_000">"Arrijnë një rezultat prej 10.000 pikë"</string>
     <string name="Reach_a_score_of_15_000">"Arrijnë një rezultat të 15.000 pikë"</string>
-    <string name="Reach_a_score_of_20_000">"Arrijnë një rezultat prej 20.000 pikë "</string>
+    <string name="Reach_a_score_of_20_000">"Arrijnë një rezultat prej 20.000 pikë"</string>
 
     <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Arrijnë një rezultat prej 10.000 pa humbur asnjë pikë"</string>
     <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Arrijnë një rezultat të 5.000, pa ndarjen ose duke nxjerrë"</string>
@@ -289,7 +289,7 @@
     <string name="SET_MOTD">"SET MOTD"</string>
     <string name="No_such_user_found_">"Asnjë përdorues i tillë nuk u gjet"</string>
     <string name="No_open_public_clans_exist_">"Nuk ka klane të hapura publike ekzistojnë."</string>
-    <string name="You_aren_t_invited_to_that_clan_">"Ju nuk jeni të ftuar për të Klanit "</string>
+    <string name="You_aren_t_invited_to_that_clan_">"Ju nuk jeni të ftuar për të Klanit"</string>
     <string name="No_such_clan_exists_">"Jo Klan tilla ekzistojnë."</string>
     <string name="That_clan_is_full_">"Ky Klan është e plotë"</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Përdorues të tjerë nuk është anëtar i Klanit tuaj."</string>
@@ -382,17 +382,17 @@
     <string name="Spectating">"Duke vëzhguar"</string>
 
 
-    <string name="snowflakes_">"bora "</string>
-    <string name="presents_">"paraqet "</string>
-    <string name="Snowflake_Collector">"Koleksionist i borës "</string>
-    <string name="Present_Collector">"Koleksionist pranishëm "</string>
+    <string name="snowflakes_">"bora"</string>
+    <string name="presents_">"paraqet"</string>
+    <string name="Snowflake_Collector">"Koleksionist i borës"</string>
+    <string name="Present_Collector">"Koleksionist pranishëm"</string>
 
 
     <string name="Season">"Sezoni"</string>
     <string name="The_next_season_begins">"Sezonin e ardhshëm fillon"</string>
 
     <string name="Current">"Aktual"</string>
-    <string name="leaves_">"lë "</string>
+    <string name="leaves_">"lë"</string>
     <string name="Leaf_Collector">"Leaf Koleksionist"</string>
     <string name="Collect_1000_leaves_">"Mblidhni 1.000 gjethet."</string>
     <string name="XP_Boost">"XP Nxitje"</string>
@@ -420,7 +420,7 @@
 
     <string name="Remove_Ads">"Hiqni Reklamet"</string>
     <string name="Reward">"Shperblim"</string>
-    <string name="Please_Wait___">"Ju lutem prisni …"</string>
+    <string name="Please_Wait___">"Ju lutem prisni…"</string>
     <string name="Purchasing">"Blerje"</string>
 
     <string name="Purchase_Successful_">"Blerje suksesshëm."</string>
