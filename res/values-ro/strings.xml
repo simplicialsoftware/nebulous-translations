@@ -1054,37 +1054,37 @@ Dacă observați că un jucător încalcă regulile jocului, vă rugăm să rapo
     <string name="world_cup_event_description">Double XP and Double Plasma in Soccer Mode until the end of the world cup!</string>
     <string name="GIF_Skins">GIF Skins</string>
     <string name="upload_details" translatable="true">
-        "CUSTOM SKINS
+        "SKIN-URI PERSONALIZATE
 
-When you buy a custom skin, the quality of the image will decrease, but this is not of great importance and is normal (almost no difference when you play). Here is the status and its meanings:
+Când cumpărați Skin-uri personalizate, calitatea imaginii va scădea, dar acest lucru nu este de mare importanță și este normal (aproape nicio diferență când jucați). Iată statusul și semnificațiile sale:
 
-In Review (Yellow): It means that the skin is being reviewed. You must wait for it to be approved.
+În Revizuire (Galben): Înseamnă că Skin-ul este în curs de revizuire. Trebuie să așteptați ca acesta să fie aprobat.
 
-Approved (Green): The skin has been approved and can be seen by other players.
+Aprobat (Verde): Skin-ul a fost aprobat și poate fi văzut de alți jucători.
 
-Refunded (Orange): You received a refund of the skin, because it does not meet the established standards. You must select some other image that is not the same.
+Reimbursat (Portocaliu): Ai primit o rambursare a Skin-ului, deoarece nu corespunde standardelor stabilite. Trebuie să selectați altă imagine care nu este aceeaşi.
 
-Rejected (Red): It means that your skin cannot be seen by other players because it contains inappropriate content. You won't be returned with plasma.
+Respins (Roșu): Înseamnă că Skin-ul nu poate fi văzut de alți jucători deoarece conține conținut neadecvat. Nu vei primi plasmă în return.
 
 
 
-WHY HAS MY CUSTOM SKIN REFUNDED OR REJECTED?
+DE CE SKIN-UL MEU A FOST RAMBURSAT SAU RESPINS?
 
-If your custom skin is refunded, do not buy it again because it will be rejected and you will lose your plasma.
+Dacă Skin-ul tau personalizat este rambursat, nu mai cumpărați deoarece va fi respins și vă veți pierde plasma.
 
-This is a list of things that are *PROHIBITED* to use in the custom skins. If you buy a skin with this, it will be refunded or rejected:
-- Content and/or some Sexual reference;
-- Unmodified Nebulous Skins/Arts;
-- Content Gore/Suicide;
-- Nudes (no shirt);
-- Very dark skins;
-- Transparent skins;
-- Drugs (alcohol/cigars/marijuana);
-- Name of pages for adults (pornography);
-- People with little clothes (necklines on the body);
-- Racism/Nazism/Violence;
-- People using a weapon;
-- Obscene signals with hands."
+Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-urile personalizate. Dacă cumpărați un Skin cu aceasta, acesta va fi rambursat sau respins:
+- Conținut și/sau referință sexuală;
+- Skin-uri/Arte Nebuloase nemodificate;
+- Conținut Gore/Sinucidere;
+- Nuduri (fără tricou);
+- Skin-uri foarte închise la culoare;
+- Skin-uri transparente;
+- Droguri (alcool/țigări/marijuana);
+- Nume de pagini pentru adulți (pornografie);
+- Persoane cu haine decoltate (decolteuri pe corp);
+- Rasism/Nazism/Violență;
+- Persoane care folosesc o armă;
+- Semne obscene cu mâinile."
     </string>
     <string name="PLAY_ONLINE_">PLAY ONLINE!</string>
     <string name="Absorb_10_000_000_dots">Absorb 10,000,000 dots</string>
