@@ -15,7 +15,7 @@
     <string name="Game_Mode_">"Mód Cluiche:"</string>
     <string name="Show_Names">"Taispeáin Ainmneacha"</string>
     <string name="Show_Avatars">"Taispeáin Skin:"</string>
-    <string name="PLAY">"PLAY"</string>
+    <string name="PLAY">"IMIRCE"</string>
     <string name="OPTIONS">"ROGHANNA"</string>
 
     <string name="Avatar_">"Skin:"</string>
@@ -26,7 +26,7 @@
 
     <string name="Are_You_Sure_">"An bhfuil tú cinnte?"</string>
     <string name="Yes">"Tá"</string>
-    <string name="No">"No:"</string>
+    <string name="No">"Níl"</string>
     <string name="WAIT">"FAN …"</string>
     <string name="Must_Specify_Name_">"Ní mór ainm a shonrú."</string>
 
@@ -46,7 +46,7 @@
     <string name="PLAYING">"PLAYING"</string>
     <string name="MULTIPLAYER">"MULTIPLAYER"</string>
 
-    <string name="JOIN">"JOIN"</string>
+    <string name="JOIN">"ISTEACH"</string>
 
 
     <string name="Lobby_Name">"Ainm an Lobaidh"</string>
@@ -55,7 +55,7 @@
     <string name="Hidden">"Hidden"</string>
 
 
-    <string name="SERVER">"SERVER"</string>
+    <string name="SERVER">"FREASTAL"</string>
     <string name="Joining_game_in_">"Bí ar an gcluiche … "</string>
     <string name="Game_Full">"Cluiche Iomlán"</string>
     <string name="US_East">"US Thoir"</string>
@@ -77,9 +77,9 @@
     <string name="Chat_Name">"Ainm Chat"</string>
     <string name="Max_People">"Max daoine"</string>
     <string name="START">"TÚCHÁIN"</string>
-    <string name="CREATE">"CREATE"</string>
+    <string name="CREATE">"CRUTHAIGH"</string>
     <string name="CUSTOM_GAMES">"GAMES CUSTOM"</string>
-    <string name="CHAT">"CHAT"</string>
+    <string name="CHAT">"COMHRÁ"</string>
     <string name="CUSTOM_SETUP">"SETUP CUSTOM"</string>
     <string name="CHAT_SETUP">"SETUP CHAT"</string>
 
@@ -105,7 +105,7 @@
     <string name="Single_Player_Stats">"Stats Aonair Imreoir"</string>
 
     <string name="Level">"Leibhéal"</string>
-    <string name="PAUSED">"PAUSED"</string>
+    <string name="PAUSED">"AR SOS"</string>
 
 
     <string name="FRIENDS">"CAIRDE"</string>
@@ -124,7 +124,7 @@
     <string name="Unknown">"Anaithnid"</string>
     <string name="Offline">"Líne"</string>
     <string name="Achievement_Earned">"Gnóthachan a Thuilltear"</string>
-    <string name="REFRESH">"REFRESH"</string>
+    <string name="REFRESH">"NUACHT"</string>
     <string name="DONE">"FÉIDIR"</string>
     <string name="Friend_Request_Sent">"Iarratas ar Chara Seolta …"</string>
     <string name="ERROR">"ERROR"</string>
@@ -257,7 +257,7 @@
     <string name="Server_Restart_">"Athshlánú Freastalaí:"</string>
     <string name="GOAL_">"SPRIOC!"</string>
     <string name="SOCCER">"SAOIRE"</string>
-    <string name="DRAW">"DRAW"</string>
+    <string name="DRAW">"TARRAING"</string>
 
     <string name="Clan_Name">"Ainm Clan"</string>
     <string name="Clan">"Clan"</string>
@@ -401,7 +401,7 @@
     <string name="Hours">"Uaireanta"</string>
 
 
-    <string name="Triple">"Triple"</string>
+    <string name="Triple">"Triarach"</string>
     <string name="Leaf_Hoarder">"Taifeadta Leaf"</string>
     <string name="Collect_5000_leaves_">"Bailigh 5,000 duilleog."</string>
 
