@@ -1214,7 +1214,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Set_Skin">Set Skin</string>
     <string name="Primary">Primar</string>
     <string name="Secondary">Secundar</string>
-    <string name="Both">Armandouă</string>
+    <string name="Both">Amândouă</string>
     <string name="multiskin_period_description" translatable="true">Specify multiskin change period in seconds (0-10). 0 will disable multiskin.</string>
     <string name="Enable__Multiskin">"Permite\nMultiskin"</string>
     <string name="multiskin_description" translatable="true">Multiskin lets you use two skins that alternate. You choose how fast the skins change. When you reach level 1000, this feature is free. If you buy multiskin before level 1000, you will get the plasma back when you reach it.</string>
