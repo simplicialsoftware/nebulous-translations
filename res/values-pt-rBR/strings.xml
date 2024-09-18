@@ -1092,7 +1092,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Community">Comunidade</string>
     <string name="Buy">Comprar</string>
     <string name="Sell">Vender</string>
-    <string name="community_skin_information_for_seller" translatable="true" tools:ignore="Untranslatable" formatted="false">Quando você transforma sua skin personalizada em uma skin da comunidade, ela é listada na guia "Skins da Comunidade". As outras pessoas podem ver e comprar a skin na comunidade! Toda vez que alguém compra sua skin da comunidade, você recebe uma pequena quantidade de plasmas.</string>
+    <string name="community_skin_information_for_seller" translatable="true" tools:ignore="Untranslatable">Quando você transforma sua skin personalizada em uma skin da comunidade, ela é listada na guia &quot;Skins da Comunidade&quot;. As outras pessoas podem ver e comprar a skin na comunidade! Toda vez que alguém compra sua skin da comunidade, você recebe uma pequena quantidade de plasmas.</string>
     <string name="community_skin_requirement">Você deve comprar Ativar Skins Personalizadas para usar as skins da comunidade.</string>
     <string name="You_can_purchase_this_community_skin_for_">Você pode comprar esta skin da comunidade por</string>
     <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">As skins da comunidade são enviadas por outros jogadores. As skins da comunidade funcionam como skins personalizadas e podem ser animadas com as skins padrão do jogo.</string>
