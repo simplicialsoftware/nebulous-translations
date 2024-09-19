@@ -1198,9 +1198,9 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="ice_split" translatable="true">ICE SPLIT</string>
     <string name="circle" translatable="true">CIRCLE</string>
     <string name="mega_pop" translatable="true">MEGA POP"</string>
-    <string name="no_virus" translatable="true">SANDBOX (NO VIRUS)</string>
+    <string name="no_virus" translatable="true">SANDBOX (FĂRĂ VIRUS)</string>
     <string name="plasma_hunt" translatable="true">PLASMA HUNT"</string>
-    <string name="speed" translatable="true">SPEED</string>
+    <string name="speed" translatable="true">VITEZA</string>
     <string name="Session_Stats">Session Stats</string>
     <string name="Time_">Timp:</string>
     <string name="Show_Session_Stats">Show Session Stats</string>
