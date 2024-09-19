@@ -41,7 +41,7 @@
     <string name="IDLE">"자리비움"</string>
     <string name="Name_Invalid_">"잘못된 이름입니다."</string>
     <string name="Name_Taken_">"이름이 사용중입니다."</string>
-    <string name="CONNECTED">"연결 됨"</string>
+    <string name="CONNECTED">"연결됨"</string>
     <string name="JOINING___">"참가 중…"</string>
     <string name="PLAYING">"플레이 중"</string>
     <string name="MULTIPLAYER">"멀티 플레이어"</string>
