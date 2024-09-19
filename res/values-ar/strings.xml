@@ -1239,7 +1239,7 @@
     <string name="Absorbed_">مُنهَمِك:</string>
     <string name="team_warning">" جعل خصمُك من الفريق سيؤدي ذلك إلى حظرك من اللعبة."</string>
     <string name="Search_Filter">تصفيّة البَحِث</string>
-    <string name="Received_">تم الاستلام:</string>
+    <string name="Received_">تم الاستلام</string>
     <string name="Opponent_Rating_Limit_">حد تصنيف الخصم</string>
     <string name="TOGGLE_FAVORITE">تبديل المُفَضلة</string>
     <string name="Favorited">مُفضَل</string>
@@ -1376,8 +1376,8 @@ Commands:
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
-    <string name="Translator">متـرجـم</string>
-    <string name="SUCCESS">تم بنجاح</string>
+    <string name="Translator">متــرجـم</string>
+    <string name="SUCCESS">بنجاح</string>
 
 
     <string-array name="control_modes">
