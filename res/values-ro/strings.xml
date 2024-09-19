@@ -1150,28 +1150,28 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Asia">Asia</string>
     <string name="SET_PRIVACY">SETEAZĂ PRIVAT</string>
     <string name="ANIMATION">ANIMATION</string>
-    <string name="Color_Cycle">Color Cycle</string>
+    <string name="Color_Cycle">Cicloul Culorii</string>
     <string name="Fast">Fast</string>
     <string name="Slow">Slow</string>
     <string name="Rainbow">Rainbow</string>
     <string name="Horizontal">Horizontal</string>
     <string name="Vertical">Vertical</string>
-    <string name="GROUP">GROUP</string>
-    <string name="LEAVE">LEAVE</string>
-    <string name="Group">Group</string>
-    <string name="Not_in_a_group_">Not in a group.</string>
+    <string name="GROUP">GRUP</string>
+    <string name="LEAVE">PĂRĂSEȘTE</string>
+    <string name="Group">Grup</string>
+    <string name="Not_in_a_group_">Nu ești într-un grup.</string>
     <string name="group_chat_create" translatable="true">Give this group ID to your friends so they can join the group:</string>
     <string name="Specify_Group_ID" translatable="true">Specify Group ID</string>
     <string name="Failed">Failed</string>
-    <string name="Joined_group" translatable="true">Joined group</string>
-    <string name="People" translatable="true">People</string>
+    <string name="Joined_group" translatable="true">Ai intrat grupul</string>
+    <string name="People" translatable="true">Persoane</string>
     <string name="Failed_to_join">Failed to join</string>
-    <string name="Full">Full</string>
-    <string name="new_person_joined" translatable="true">NEW PERSON JOINED</string>
-    <string name="person_left" translatable="true">PERSON LEFT</string>
-    <string name="Left_the_group" translatable="true">Left the group</string>
-    <string name="Tricks_Performed_">Tricks Performed:</string>
-    <string name="Not_enough_plasma_">Not enough plasma!</string>
+    <string name="Full">Plin</string>
+    <string name="new_person_joined" translatable="true">O PERSOANĂ NOUĂ A INTRAT</string>
+    <string name="person_left" translatable="true">O PERSOANĂ A PĂRĂSIT</string>
+    <string name="Left_the_group" translatable="true">Ai părăsit grupul</string>
+    <string name="Tricks_Performed_">Trick-uri Efectuate:</string>
+    <string name="Not_enough_plasma_">Plasmă insuficientă!</string>
     <string name="GET_PLASMA">GET PLASMA</string>
     <string name="ASTEROIDS">ASTEROIDS</string>
     <string name="CHRISTMAS">CHRISTMAS</string>
