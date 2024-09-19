@@ -1276,22 +1276,22 @@
     <string name="The_winner_will_receive_x_plasma_">O ganhador receberá %s plasma!</string>
     <string name="admin_commands">"
 Comandos:
-!kick [0–31]
-!reset
-!welcome {mensagem}
+!kick [0–31] (Expulsar um jogador)
+!reset (Reiniciar o jogo)
+!welcome {mensagem de boas-vindas}
 !difficulty [0-3] ou [1-4] para Campanha
-!hidden
-!guests
-!slowchat
-!pausechat
-!mute {id}
-!admin {id}
-!allow {id}
-!allow reset
+!hidden (Alternar sala escondida)
+!guests 
+!slowchat (Alternar chat lento)
+!pausechat (Pausar o chat por um tempo)
+!mute {id} (Silenciar um jogador)
+!admin {id} (Adicionar um admin a sala)
+!allow {id} (Conceider permissões a um jogador)
+!allow reset (Restaurar permissões)
 !team [1-4] {id} (Somente em modos de equipas)
-!winner
-!stats
-!info"
+!winner (Vencedor de uma partida com tempo)
+!stats (Estatísticas da sessão)
+!info" (Informações da sala)
 </string>
     <string name="ID_Sort">Sortear ID</string>
     <string name="Master_Tamer">Mestra Domador</string>
