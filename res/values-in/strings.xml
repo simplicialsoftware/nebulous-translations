@@ -26,7 +26,7 @@
     <string name="Are_You_Sure_">"Apakah Anda yakin?"</string>
     <string name="Yes">"Ya"</string>
     <string name="No">"Tidak"</string>
-    <string name="WAIT">"TUNGGU…"</string>
+    <string name="WAIT">"TUNGGU..."</string>
     <string name="Must_Specify_Name_">"Harus menentukan nama."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Peringkat dapat berubah ketika menemukan kelompok."</string>
@@ -94,7 +94,7 @@
     <string name="PAUSED">"DIJEDA"</string>
     <string name="FRIENDS">"TEMAN"</string>
     <string name="Warning">"Peringatan"</string>
-    <string name="SIGNING_IN">"LOGIN…"</string>
+    <string name="SIGNING_IN">"MASUK…"</string>
     <string name="New_Friend_Request">"Permintaan Teman Baru"</string>
     <string name="REQUEST_FRIEND">"PERMINTAAN TEMAN"</string>
     <string name="Private">"Pribadi"</string>
