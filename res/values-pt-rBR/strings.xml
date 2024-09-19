@@ -949,7 +949,7 @@
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
 Regras do Nebulous\n
 \n
-1. Não compartilhe ou negocie contas com ninguém. Isso fará com que ambos os jogadores sejam banidos permanentemente.\n
+1. Não compartilhe nem negocie contas com ninguém, pois isso resultará no banimento permanente de ambos os jogadores.\n
 2. Não peça contas de ninguém. Isso fará com que você seja banido permanentemente.\n
 3. Não tente se passar por um Moderador ou Youtuber. Isso fará com que você seja banido permanentemente.\n
 4. Não trapaceie para chegar aos Top Classificados do jogo em Guerras de Clã/Arena (FreePoints). Isso redefinirá suas estatísticas e resultará em um banimento permanente.\n
@@ -1340,11 +1340,11 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="The_winner_will_receive_x_plasma_">O vencedor receberá %s plasma!</string>
     <string name="admin_commands">"
 Comandos:
-!kick [0–31] – Expulsar um jogador
+!kick [0–31] – Remover um jogador
 !reset – Reiniciar o jogo
 !welcome {mensagem de boas-vindas}
 !difficulty [0-3] ou [1-4] para Campanha
-!hidden – Alternar sala escondida
+!hidden – Alternar sala oculta
 !slowchat – Alternar chat lento
 !pausechat – Pausar chat por um tempo
 !mute {id} – Silenciar um jogador
