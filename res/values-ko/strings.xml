@@ -11,7 +11,7 @@
     <string name="DEFAULTS">"기본설정"</string>
     <string name="WEEKLY">"주간"</string>
     <string name="DAILY">"일간"</string>
-    <string name="Server_">"서버:"</string>
+    <string name="Server_">"서버:"</string> 
     <string name="Game_Mode_">"게임 모드:"</string>
     <string name="Show_Names">"이름 표시하기"</string>
     <string name="Show_Avatars">"스킨 표시하기"</string>
@@ -57,7 +57,7 @@
 
     <string name="SERVER">"서버"</string>
     <string name="Joining_game_in_">"게임 참여까지 남은시간..  "</string>
-    <string name="Game_Full">"게임이 꽉찼습니다."</string>
+    <string name="Game_Full">"게임이 꽉 찼습니다."</string>
     <string name="US_East">"미국 동부"</string>
     <string name="US_West">"미국 서부"</string>
     <string name="Europe">"유럽"</string>
@@ -219,7 +219,7 @@
 
     <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"손실 없이 10,000 점 달성"</string>
     <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"분할 또는 분사하지 않고 5,000 점 달성"</string>
-    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"블랙홀과 충돌없이 5 분 플레이"</string>
+    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"블랙홀과 충돌 없이 5 분 플레이"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"손실 없이 5 분 플레이"</string>
     <string name="Play_20_minutes_straight_without_restarting">"다시 시작하지 않고 20 분 플레이"</string>
     <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"시작 30 초 이내에 파란 블랙홀 5 개 흡수"</string>
@@ -299,18 +299,18 @@
 
     <string name="FFA_Time_Domination">"혼자서 버텨라!"</string>
     <string name="Teams_Time_Domination">"협동해서 버텨라!"</string>
-    <string name="CTF_Domination">"깃발뺏기 정복자"</string>
-    <string name="CTF_Hat_Trick">"깃발뺏기 해트트릭"</string>
-    <string name="Survival_Domination">"생존게임 정복자"</string>
+    <string name="CTF_Domination">"깃발 뺏기 정복자"</string>
+    <string name="CTF_Hat_Trick">"깃발 뺏기 해트트릭"</string>
+    <string name="Survival_Domination">"생존 게임 정복자"</string>
     <string name="I_Will_Survive">"난 살아남을 것이다!"</string>
     <string name="Soccer_Domination">"축구 정복자"</string>
     <string name="Soccer_Hat_Trick">"축구 해트트릭"</string>
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"개인전 (시간) 에서 2,500 점 이상으로 승리하기"</string>
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"팀전 (시간) 에서 7,500 점 이상으로 승리하기"</string>
-    <string name="Win_by_3_points_in_a_CTF_game_">"깃발뺏기 게임에서 3 점 이상으로 승리하기"</string>
-    <string name="Score_3_points_in_a_single_CTF_game_">"한 번의 깃발뺏기 게임에서 3 점 획득"</string>
+    <string name="Win_by_3_points_in_a_CTF_game_">"깃발 뺏기 게임에서 3 점 이상으로 승리하기"</string>
+    <string name="Score_3_points_in_a_single_CTF_game_">"한 번의 깃발 뺏기 게임에서 3 점 획득"</string>
     <string name="Win_by_2_500_points_in_a_Survival_game_">"생존 게임에서 2,500 점 이상으로 승리하기"</string>
-    <string name="Survive_but_do_not_win_a_survival_game_">"생존했지만 생존게임에서 패배하기"</string>
+    <string name="Survive_but_do_not_win_a_survival_game_">"생존했지만 생존 게임에서 패배하기"</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"축구 경기에서 8 점 이상으로 승리."</string>
     <string name="Score_3_goals_in_a_single_Soccer_game_">"한 번의 축구 게임에서 3 점 획득"</string>
     <string name="Total_Domination">"총 점령"</string>
@@ -328,7 +328,7 @@
     <string name="COMPLETE">"완료"</string>
     <string name="INCOMPLETE">"미완료"</string>
     <string name="Win_a_FFA_Time_Game">"개인전 (시간) 게임 승리"</string>
-    <string name="Win_a_CTF_Game">"깃발뺏기 게임 승리"</string>
+    <string name="Win_a_CTF_Game">"깃발 뺏기 게임 승리"</string>
     <string name="Win_a_Soccer_Game">"축구 게임을 승리"</string>
     <string name="Win_a_Survival_Game">"생존 게임을 승리"</string>
     <string name="Win_a_Teams_Time_Game">"팀전 (시간) 게임을 승리"</string>
@@ -435,7 +435,7 @@
     <string name="You_cannot_purchase_this_right_now_">"당신은 이것을 구매할 수 없습니다."</string>
 
 
-    <string name="Loading_Purchases___">"구매목록 로딩중…"</string>
+    <string name="Loading_Purchases___">"구매 목록 로딩중…"</string>
     <string name="In_App_Purchases">"앱 내 구매"</string>
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"현재 부스터가 만료 될 때까지 새로운 XP 부스트를 적용 할 수 없습니다."</string>
     <string name="This_purchase_has_already_been_redeemed_">"이 구매는 이미 적용되었습니다."</string>
