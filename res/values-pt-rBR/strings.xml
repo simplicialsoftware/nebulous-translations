@@ -1278,7 +1278,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="HERO">HERÓI</string>
     <string name="CHAMPION">CAMPEÃO</string>
     <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">Você não pode ganhar XP ou plasma no modo Sem Vírus (Sandbox)!</string>
-    <string name="DASH">DASH</string>
+    <string name="DASH">TRAÇO</string>
     <string name="setting_changed">Configurações atualizadas. Pode ser necessário que você se reconecte ao servidor para que elas entrem em vigor.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Execute 10,000 tricks em um jogo no Modo Trick.</string>
     <string name="Tricky">Tricky</string>
