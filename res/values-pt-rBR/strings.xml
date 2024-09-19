@@ -153,7 +153,7 @@
     <string name="Dot_Gobbler">"Guloso de Pontos"</string>
     <string name="Dot_Devourer">"Devorador de Pontos"</string>
     <string name="Dot_Gormandizer">"Gordice de Pontos"</string>
-    <string name="Dot_Sommelier">"Escançador de Pontos"</string>
+    <string name="Dot_Sommelier">"Apreciador de Pontos"</string>
 
     <string name="Quadra_Gulp">"Devorador Quádruplo"</string>
     <string name="Multi_Gulp">"Multi Devorador"</string>
@@ -173,7 +173,7 @@
     <string name="Experienced_Nebulator">"Nebulador Experiente"</string>
     <string name="Expert_Nebulator">"Nebulador Especialista"</string>
     <string name="Master_Nebulator">"Nebulador Mestre"</string>
-    <string name="Grand_Master_Nebulator">"Grande Mestre Nebulador"</string>
+    <string name="Grand_Master_Nebulator">"Nebulador Grão-Mestre"</string>
     <string name="Impossible">"Impossível"</string>
 
     <string name="Perfection">"Perfeição"</string>
@@ -230,7 +230,7 @@
     <string name="Dots_Eaten_">"Pontos Comidos:"</string>
     <string name="Blobs_Eaten_">"Blobs Comidos:"</string>
     <string name="Blobs_Lost_">"Blobs Perdidos:"</string>
-    <string name="Mass_Gained_">"Massa Ganhada:"</string>
+    <string name="Mass_Gained_">"Massa Ganha:"</string>
     <string name="Mass_Ejected_">"Massa Ejetada:"</string>
     <string name="Times_Ejected_">"Vezes Ejetado:"</string>
     <string name="Times_Split_">"Vezes Dividido:"</string>
@@ -626,7 +626,7 @@
     <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoie o Nebulous avaliando-o."</string>
     <string name="MAYHEM_MODE">"MODO MAYHEM"</string>
     <string name="Times_Teleported_">"Vezes Teleportado:"</string>
-    <string name="Powerups_Used_">"Poderes Usado:"</string>
+    <string name="Powerups_Used_">"Poderes Usados:"</string>
     <string name="Power_Hungry">"Esfomeado de Poderes"</string>
     <string name="Over_9000">"Mais de 9.000"</string>
     <string name="Omnipresence">"Onipresença"</string>
@@ -814,7 +814,7 @@
     <string name="Registrants">Registrados</string>
     <string name="Round_Of">Rodada De</string>
     <string name="Next_Tournament">Próximo Torneio</string>
-    <string name="Plasma_Won">Plasma Ganhado</string>
+    <string name="Plasma_Won">Plasma Ganho</string>
     <string name="Semi_Finals">Semi-Finais</string>
     <string name="Quarter_Finals">Quartas de Finais</string>
     <string name="Competing">Competindo</string>
@@ -872,7 +872,7 @@
     <string name="BUY_EXTRA_SPINS">COMPRAR GIROS EXTRAS</string>
     <string name="Spins_Remaining">Giros Restantes</string>
     <string name="One_Spin">Um Giro (1)</string>
-    <string name="Bundle_of_Spins">Pacote para Girar (10)</string>
+    <string name="Bundle_of_Spins">Pacote de Giros (10)</string>
     <string name="Plethora_of_Spins">Muitos Giros (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">DESCONECTAR-SE DE TODOS OS DISPOSITIVOS</string>
     <string name="Tournament_Forming">Formando Torneio</string>
