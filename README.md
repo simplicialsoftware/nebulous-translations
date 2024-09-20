@@ -113,9 +113,9 @@ You can always message @critikangel on Discord for help, advice, or support.
 Submit an [issue](https://github.com/simplicialsoftware/nebulous-translations/issues). Include a screenshot of the text and any relevant actions you performed.
 
 #### Why don't all languages have the same strings?
-If a language is missing a line of text, see if it's in values (English). If it is, and it has the `translatable=false` tag, you can:
+If a language is missing a line of text, see if it's in values (English). If it is, and it has the `translatable="false"` tag, you can:
 1. Add it to another language file in the same order as the English file
-2. Change the tag to `translateable=true`
+2. Change the tag to `translatable="true"`
 3. Translate it.
 
 ## License
