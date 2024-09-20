@@ -1161,7 +1161,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Group">Grup</string>
     <string name="Not_in_a_group_">Nu ești într-un grup.</string>
     <string name="group_chat_create" translatable="true">Give this group ID to your friends so they can join the group:</string>
-    <string name="Specify_Group_ID" translatable="true">Specify Group ID</string>
+    <string name="Specify_Group_ID" translatable="true">Specificați ID de Grup</string>
     <string name="Failed">Failed</string>
     <string name="Joined_group" translatable="true">Ai intrat grupul</string>
     <string name="People" translatable="true">Persoane</string>
