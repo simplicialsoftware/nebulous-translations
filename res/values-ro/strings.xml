@@ -1162,10 +1162,10 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Not_in_a_group_">Nu ești într-un grup.</string>
     <string name="group_chat_create" translatable="true">Give this group ID to your friends so they can join the group:</string>
     <string name="Specify_Group_ID" translatable="true">Specificați ID de Grup</string>
-    <string name="Failed">Failed</string>
+    <string name="Failed">Eșec</string>
     <string name="Joined_group" translatable="true">Ai intrat grupul</string>
     <string name="People" translatable="true">Persoane</string>
-    <string name="Failed_to_join">Failed to join</string>
+    <string name="Failed_to_join">Intrare Eșuată</string>
     <string name="Full">Plin</string>
     <string name="new_person_joined" translatable="true">O PERSOANĂ NOUĂ A INTRAT</string>
     <string name="person_left" translatable="true">O PERSOANĂ A PĂRĂSIT</string>
@@ -1178,7 +1178,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Reason">Reason</string>
     <string name="PUBLIC">PUBLIC</string>
     <string name="PRIVATE">PRIVATE</string>
-    <string name="Joined">Joined</string>
+    <string name="Joined">A Intrat</string>
     <string name="Requests">Requests</string>
     <string name="Invites">Invites</string>
     <string name="Show_Spectator_Count">Show Spectator Count</string>
