@@ -1097,10 +1097,10 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Community">Community</string>
     <string name="Buy">Buy</string>
     <string name="Sell">Sell</string>
-    <string name="community_skin_information_for_seller" translatable="true">When you turn a custom skin into a community skin, it will be listed in the "Community Skins" tab. Other people can see and buy your community skin! Every time someone buys your community skin, you (or your clan) get a small plasma amount.</string>
+    <string name="community_skin_information_for_seller" translatable="true">Când transformați un Skin personalizat într-un Skin pentru comunitate, el va apărea în filă „Skin-urile Comunității‟. Alte persoane pot vedea și cumpăra Skin-ul tau în comunitate! De fiecare dată când cineva cumpără Skin-ul tau în comunitate, tu (sau clanul tau) primiți o cantitate mică de plasmă.</string>
     <string name="community_skin_requirement">You must purchase Enable Custom Skins to use community skins.</string>
-    <string name="You_can_purchase_this_community_skin_for_">You can purchase this community skin for</string>
-    <string name="community_skin_information_for_buyer" translatable="true">Community skins are uploaded by other players. Community skins work just like custom skins and can be animated with regular skins.</string>
+    <string name="You_can_purchase_this_community_skin_for_">Puteți cumpăra acest Skin-ul comunității pentru</string>
+    <string name="community_skin_information_for_buyer" translatable="true">Skin-urile comunității sunt trimise de alți jucători. Skin-urile comunității funcționează și pot fi animate cu Skin-urile normale de joc.</string>
     <string name="VIEW_UPLOADER">VIEW UPLOADER</string>
     <string name="POPULAR">POPULAR</string>
     <string name="NEW">NEW</string>
