@@ -1160,8 +1160,8 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="LEAVE">PĂRĂSEȘTE</string>
     <string name="Group">Grup</string>
     <string name="Not_in_a_group_">Nu ești într-un grup.</string>
-    <string name="group_chat_create" translatable="true">Give this group ID to your friends so they can join the group:</string>
-    <string name="Specify_Group_ID" translatable="true">Specificați ID de Grup</string>
+    <string name="group_chat_create" translatable="true">Distribuie acest ID de grup la prietenii tai, apoi ei pot intra în grup:</string>
+    <string name="Specify_Group_ID" translatable="true">Specifică ID de Grup</string>
     <string name="Failed">Eșec</string>
     <string name="Joined_group" translatable="true">Ai intrat grupul</string>
     <string name="People" translatable="true">Persoane</string>
@@ -1182,8 +1182,8 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Requests">Requests</string>
     <string name="Invites">Invites</string>
     <string name="Show_Spectator_Count">Show Spectator Count</string>
-    <string name="TRY_IT_">TRY IT!</string>
-    <string name="skin_trial_info" translatable="true">You can try this skin for one game. After you die or change it, it will go away. When you are trying a skin no one else can see it.\nPrice: %s plasma.</string>
+    <string name="TRY_IT_">ÎNCEARCĂ!</string>
+    <string name="skin_trial_info" translatable="true">Poți incerca acest skin pentru un joc. După ce mori sau schimbați, va dispărea. Când încerci un skin, nimeni nu poate vedea.\nPret: %s plasmă.</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">You need to buy a pack to use this.</string>
     <string name="GET_PACK">GET PACK</string>
     <string name="Position_in_queue">Poziție în coadă</string>
@@ -1205,8 +1205,8 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Time_">Timp:</string>
     <string name="Show_Session_Stats">Show Session Stats</string>
     <string name="VALENTINES_DAY">"VALENTINES DAY"</string>
-    <string name="shared_pack_info" translatable="true">After you purchase this skin pack, your exclusive skins will appear at the top of the skin selection menus for you and your friend!</string>
-    <string name="shared_pack_purch_description" translatable="true">This is a special pack so you and a friend will receive the pack!</string>
+    <string name="shared_pack_info" translatable="true">După cumpărați acest pachetul skin-ul, skin-urile tale exclusive vor apărea în partea superioară de meniuri selectarea skin-ul pentru tine și prietenul tau!</string>
+    <string name="shared_pack_purch_description" translatable="true">Acest este un pachet specială, apoi tu și prietenul tau veți primi pachetul!</string>
     <string name="Giveaways_">Giveaways!</string>
     <string name="Max_XP_Chain_">Max XP Chain:</string>
     <string name="POSITION_CANCEL_BUTTON">POSITION CANCEL BUTTON</string>
@@ -1215,7 +1215,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Primary">Primar</string>
     <string name="Secondary">Secundar</string>
     <string name="Both">Amândouă</string>
-    <string name="multiskin_period_description" translatable="true">Specify multiskin change period in seconds (0-10). 0 will disable multiskin.</string>
+    <string name="multiskin_period_description" translatable="true">Specifică perioada de schimbarea multiskin-ul în secunde (0-10). 0 dezactivă multiskin-ul.</string>
     <string name="Enable__Multiskin">"Permite\nMultiskin"</string>
     <string name="multiskin_description" translatable="true">Multiskin lets you use two skins that alternate. You choose how fast the skins change. When you reach level 1000, this feature is free. If you buy multiskin before level 1000, you will get the plasma back when you reach it.</string>
     <string name="MULTISKIN">MULTISKIN</string>
