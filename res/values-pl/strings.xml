@@ -961,9 +961,9 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="CIRCLE">"OKRĄGŁA PALETA"</string>
     <string name="SQUARES">"KWADRATOWA PALETA"</string>
     <string name="TRICK_MODE">"TRYB TRIKÓW"</string>
-    <string name="ICE_SPLIT">"ICE SPLIT"</string>
-    <string name="TRICK_SPLIT">"TRICK SPLIT"</string>
-    <string name="POP_SPLIT">"POP SPLIT"</string>
+    <string name="ICE_SPLIT">"PODZIAŁ LODU"</string>
+    <string name="TRICK_SPLIT">"PODZIAŁ TRIKÓW"</string>
+    <string name="POP_SPLIT">"POP PODZIAŁ"</string>
     <string name="PUSH_SPLIT">"PUSH SPLIT"</string>
     <string name="Level_Colors">"Kolory Poziomów"</string>
     <string name="click_info">"Autoklik i Ultraklik nie działają w FFA Klasycznym!"</string>
@@ -1217,7 +1217,7 @@ Jeśli nie chcesz się logować, możesz nadal grać w trybie jednego gracza."
     <string name="You_are_already_friends_">Jesteście już znajomymi.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Aby wysłać maila, konto musi mieć 1 dzień.</string>
     <string name="Translator">Tłumacz</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">SUKCES</string>
     <string-array name="control_modes">
         <item>"Domyślne"</item>
         <item>"Względne"</item>
