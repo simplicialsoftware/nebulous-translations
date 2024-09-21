@@ -1236,7 +1236,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Watch a video to get a temporary boost for %d lives!</string>
     <string name="WATCH_VIDEO_">VIZIONEAZĂ VIDEO-UL!</string>
     <string name="PERMANENT_BOOSTS">PERMANENT BOOSTS</string>
-    <string name="Video_failed_to_load_">Video-ul a eșuat la încarcă!</string>
+    <string name="Video_failed_to_load_">Încărcare video-ului a eșuat!</string>
     <string name="Video_Ready_">Video Gata!</string>
     <string name="GIVE_PLASMA">TRIMITE PLASMĂ</string>
     <string name="Specify_amount_">Specify amount:</string>
