@@ -1193,13 +1193,13 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Enable_Profile_Colors">Enable Profile Colors</string>
     <string name="mother_cell" translatable="true">MOTHER CELL</string>
     <string name="shrink" translatable="true">SHRINK</string>
-    <string name="collect_all" translatable="true">COLLECT ALL</string>
-    <string name="magic_blob" translatable="true">MAGIC BLOB"</string>
+    <string name="collect_all" translatable="true">COLECTEAZĂ TOT</string>
+    <string name="magic_blob" translatable="true">BLOB MAGIC</string>
     <string name="ice_split" translatable="true">ICE SPLIT</string>
-    <string name="circle" translatable="true">CIRCLE</string>
+    <string name="circle" translatable="true">CERC</string>
     <string name="mega_pop" translatable="true">MEGA POP"</string>
     <string name="no_virus" translatable="true">SANDBOX (FĂRĂ VIRUS)</string>
-    <string name="plasma_hunt" translatable="true">PLASMA HUNT"</string>
+    <string name="plasma_hunt" translatable="true">VÂNĂTOARE DE PLASMĂ"</string>
     <string name="speed" translatable="true">VITEZA</string>
     <string name="Session_Stats">Session Stats</string>
     <string name="Time_">Timp:</string>
@@ -1207,7 +1207,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="VALENTINES_DAY">"VALENTINES DAY"</string>
     <string name="shared_pack_info" translatable="true">După cumpărați acest pachetul skin-ul, skin-urile tale exclusive vor apărea în partea superioară de meniuri selectarea skin-ul pentru tine și prietenul tau!</string>
     <string name="shared_pack_purch_description" translatable="true">Acest este un pachet specială, apoi tu și prietenul tau veți primi pachetul!</string>
-    <string name="Giveaways_">Giveaways!</string>
+    <string name="Giveaways_">Extrageri!</string>
     <string name="Max_XP_Chain_">Max XP Chain:</string>
     <string name="POSITION_CANCEL_BUTTON">POSITION CANCEL BUTTON</string>
     <string name="INVISIBILITY">INVISIBILITY</string>
