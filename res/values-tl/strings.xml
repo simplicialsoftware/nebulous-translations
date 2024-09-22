@@ -151,7 +151,7 @@
     <string name="Dodgey">"Dodgey:"</string>
     <string name="Self_Contained">"Self-Contained:"</string>
     <string name="Survivalist">"Survivalist:"</string>
-    <string name="Ultramassive">"Ultramassive:"</string>
+    <string name="Ultramassive">"Napakalaki"</string>
     <string name="Rapid_Ascension">"Mabilisang Asensiyon:"</string>
     <string name="Revenge">"Paghihiganti:"</string>
     <string name="Doge_Pound">"Doge Pound:"</string>
@@ -217,8 +217,8 @@
     <string name="GOAL_">"GOAL!:"</string>
     <string name="SOCCER">"SOCCER:"</string>
     <string name="DRAW">"PATAS:"</string>
-    <string name="Clan_Name">"Clan Name:"</string>
-    <string name="Clan">"Clan:"</string>
+    <string name="Clan_Name">"Pangalan ng Clan"</string>
+    <string name="Clan">"Angkan"</string>
     <string name="JOIN_CLAN">"SUMALI SA CLAN:"</string>
     <string name="JOIN_RANDOM_CLAN">"SUMALI SA KAHIT ANONG CLAN:"</string>
     <string name="LEAVE_CLAN">"UMALIS SA CLAN:"</string>
@@ -249,7 +249,7 @@
     <string name="CTF_Domination">"CTF Domination:"</string>
     <string name="CTF_Hat_Trick">"CTF Hat-Trick:"</string>
     <string name="Survival_Domination">"Survival Domination:"</string>
-    <string name="I_Will_Survive">"I Will Survive:"</string>
+    <string name="I_Will_Survive">"Mabubuhay ako"</string>
     <string name="Soccer_Domination">"Soccer Domination:"</string>
     <string name="Soccer_Hat_Trick">"Soccer Hat-Trick:"</string>
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Manalo sa pamamagitan ng 2,500 puntos sa isang larong FFA Time:"</string>
