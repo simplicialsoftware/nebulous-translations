@@ -299,16 +299,16 @@
 
     <string name="FFA_Time_Domination">"혼자서 버텨라!"</string>
     <string name="Teams_Time_Domination">"협동해서 버텨라!"</string>
-    <string name="CTF_Domination">"깃발뺏기 정복자"</string>
-    <string name="CTF_Hat_Trick">"깃발뺏기 해트트릭"</string>
+    <string name="CTF_Domination">"깃발 뺏기 정복자"</string>
+    <string name="CTF_Hat_Trick">"깃발 뺏기 해트트릭"</string>
     <string name="Survival_Domination">"생존게임 정복자"</string>
     <string name="I_Will_Survive">"난 살아남을 것이다!"</string>
     <string name="Soccer_Domination">"축구 정복자"</string>
     <string name="Soccer_Hat_Trick">"축구 해트트릭"</string>
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"개인전 (시간) 에서 2,500 점 이상으로 승리하기"</string>
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"팀전 (시간) 에서 7,500 점 이상으로 승리하기"</string>
-    <string name="Win_by_3_points_in_a_CTF_game_">"깃발뺏기 게임에서 3 점 이상으로 승리하기"</string>
-    <string name="Score_3_points_in_a_single_CTF_game_">"한 번의 깃발뺏기 게임에서 3 점 획득"</string>
+    <string name="Win_by_3_points_in_a_CTF_game_">"깃발 뺏기 게임에서 3 점 이상으로 승리하기"</string>
+    <string name="Score_3_points_in_a_single_CTF_game_">"한 번의 깃발 뺏기 게임에서 3 점 획득"</string>
     <string name="Win_by_2_500_points_in_a_Survival_game_">"생존 게임에서 2,500 점 이상으로 승리하기"</string>
     <string name="Survive_but_do_not_win_a_survival_game_">"생존했지만 생존게임에서 패배하기"</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"축구 경기에서 8 점 이상으로 승리."</string>
@@ -328,7 +328,7 @@
     <string name="COMPLETE">"완료"</string>
     <string name="INCOMPLETE">"미완료"</string>
     <string name="Win_a_FFA_Time_Game">"개인전 (시간) 게임 승리"</string>
-    <string name="Win_a_CTF_Game">"깃발뺏기 게임 승리"</string>
+    <string name="Win_a_CTF_Game">"깃발 뺏기 게임 승리"</string>
     <string name="Win_a_Soccer_Game">"축구 게임을 승리"</string>
     <string name="Win_a_Survival_Game">"생존 게임을 승리"</string>
     <string name="Win_a_Teams_Time_Game">"팀전 (시간) 게임을 승리"</string>
