@@ -745,8 +745,8 @@
     <string name="ARENA_HISTORY">HISTÓRICO DE ARENAS</string>
     <string name="WIN">VITÓRIA</string>
     <string name="LOSS">DERROTA</string>
-    <string name="Other_players_can_not_see_your_skin_">Outros jogadores não podem ver a sua skin.</string>
-    <string name="Other_players_can_see_your_skin_">Outros jogadores podem ver a sua skin</string>
+    <string name="Other_players_can_not_see_your_skin_">Os outros jogadores não podem ver a sua skin.</string>
+    <string name="Other_players_can_see_your_skin_">Os outros jogadores podem ver a sua skin</string>
     <string name="LEGEND">LENDA</string>
     <string name="Win_10000_Arenas">Ganhar 10,000 Arenas</string>
     <string name="UPLOAD_PREVIEW">PRÉVIA DO ENVIO</string>
@@ -760,7 +760,7 @@
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">O Nebulous precisa da permissão de Localização para encontrar dispositivos Bluetooth próximos.</string>
     <string name="FFA_ULTRA">FFA ULTRA</string>
     <string name="FFAU">FFAU</string>
-    <string name="_in_a_FFAU_Game"> em um jogo de FFA ULTRA</string>
+    <string name="_in_a_FFAU_Game"> em um jogo de FFA Ultra</string>
 
     <string name="BANNED_PLAYERS">JOGADORES BANIDOS</string>
     <string name="MAIL">E-MAIL</string>
@@ -934,7 +934,7 @@
     <string name="Clan_Pet_Uploads">Envios de Masc. Clã</string>
     <string name="YT">YT</string>
     <string name="FREE_TODAY">GRÁTIS HOJE!</string>
-    <string name="Cannot_cancel_this_skin_yet_">Ainda não é possível cancelar esta Skin.</string>
+    <string name="Cannot_cancel_this_skin_yet_">Ainda não é possível cancelar esta skin.</string>
     <string name="SPLIT_16X">16X SPLIT</string>
     <string name="SET_PUBLIC_DESCRIPTION">DEFINIR DESCRIÇÃO PÚBLICA</string>
     <string name="SET_NOTE">DEFINIR NOTA</string>
@@ -974,9 +974,9 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="You_cannot_open_this_present_yet_">Você ainda não pode abrir este presente!</string>
     <string name="Open_Present">Abrir Presente</string>
     <string name="OPEN">ABRIR</string>
-    <string name="Halo">Aréola</string>
-    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Para usar esta aréola, você deve ter pelo menos o nível  %1$s e ganhar %2$s conquistas."</string>
-    <string name="Halos">Aréolas</string>
+    <string name="Halo">Auréola</string>
+    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Para usar esta auréola, você deve ter pelo menos o nível  %1$s e ganhar %2$s conquistas."</string>
+    <string name="Halos">Auréolas</string>
     <string name="CAMPAIGN">CAMPANHA</string>
     <string name="Mission">Missão</string>
     <string name="Kill_All_Bots">Mate Todos os Bots</string>
@@ -1044,7 +1044,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="WIFI">WI-FI</string>
     <string name="JOIN_IP">ENTRAR NO IP</string>
     <string name="Specify_Host_IP">Especifique o Endereço IP</string>
-    <string name="ADVANCED_SETUP">CONFIGURAÇÃO AVANÇADA</string>
+    <string name="ADVANCED_SETUP">AJUSTES AVANÇADOS</string>
     <string name="WORLD_CUP_EVENT___">EVENTO DA COPA DO MUNDO!!!</string>
     <string name="world_cup_event_description">XP e Plasma Duplo no Modo Futebol até o fim da copa do mundo!</string>
     <string name="GIF_Skins">Skins Animadas</string>
