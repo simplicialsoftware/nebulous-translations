@@ -38,7 +38,7 @@
     <string name="Recombine_">"إعادة التجميع: "</string>
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"خمول"</string>
-    <string name="Name_Invalid_">"الإسم غير صالح !"</string>
+    <string name="Name_Invalid_">"الإسم غير صالح "</string>
     <string name="Name_Taken_">"الاسم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
