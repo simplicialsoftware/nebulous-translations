@@ -88,7 +88,7 @@
     <string name="Green_Team">"الفريق الأخضر"</string>
     <string name="Blue_Team">"الفريق الأزرق"</string>
     <string name="Yellow_Team">"الفريق الأصفر"</string>
-    <string name="Signed_in_as_">"تم تسجيل الدخول كـ:"</string>
+    <string name="Signed_in_as_">"تم تسجيل الدخول ـ:"</string>
     <string name="Not_signed_in_">"لم يتم تسجيل الدخول"</string>
     <string name="SET_NAME">"تحديد الإسم"</string>
     <string name="SIGN_OUT">"تسجيل الخروج من الحساب"</string>
@@ -804,7 +804,7 @@
     <string name="Enter_a_Tournament">دخول البطولة</string>
     <string name="Win_a_Tournament">الفوز ببطولة</string>
     <string name="Tournament_Competing">التنافس في البطولة</string>
-    <string name="Tournament_Registered">تم تسجيل البطولة</string>
+    <string name="Tournament_Registered">تسجيل البطولة</string>
     <string name="Tournament">!البطولة</string>
     <string name="TourneyDescription">يجب عليك التسجيل للعب في البطولة،سوف يتم شحن البلازما عند بداية البطولة،يمكنك إلغاء تسجيلك قبل بداية البطولة وسوف تبدأ البطولة عندما يكون هناك على الأقل %d من المتنافسين.</string>
     <string name="Register">التسجيل</string>
@@ -833,7 +833,7 @@
     <string name="BLOCKED_ACCOUNTS">الحسابات المحظورة</string>
     <string name="UNBLOCK">إلغاء الحظر</string>
     <string name="Emotes">التعبيرات</string>
-    <string name="Support">الـدعـم</string>
+    <string name="Support">الدعم</string>
     <string name="Already_Blocked">تم الحظر بالفعل</string>
     <string name="Cannot_block_more_than_x_accounts_">لايمكن حظر أكثر من %d الحسابات.</string>
     <string name="This_is_you_">هذا أنت.</string>
@@ -884,7 +884,7 @@
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">تعدد المحتوى من التطبيق قد تتغير عند لعب متعددة.</string>
     <string name="UI_Opacity_">شفافية الواجهة</string>
     <string name="LOAD">تحميل المخزن</string>
-    <string name="REMOVE">ازالة</string>
+    <string name="REMOVE">إزالة</string>
     <string name="BAN">حظر</string>
     <string name="MODERATORS">المدراء</string>
     <string name="ALL_CLAN">كل العشيرة</string>
@@ -910,7 +910,7 @@
     <string name="Pets">"الحيوانات الأليفة"</string>
     <string name="Pet">"حيوان أليف"</string>
     <string name="You_can_purchase_this_pet_for">" يمكن شراء هذا الحيوان الأليف بـ"</string>
-    <string name="gift_to_friend">"هدية لصديق"</string>
+    <string name="gift_to_friend">"هدية لي صديق"</string>
     <string name="gift_purchase_warning">"لن تتلقى عملية الشراء هذه لأنك اخترت تقديم هدية لعملية الشراء هذه إلى صديق."</string>
     <string name="x2_Clan_XP_7_Days">"مسرع نقاط خبرة العشيرة X2 لـ7أيام"</string>
     <string name="RECEIVED">"تم الإستلام"</string>
@@ -1004,7 +1004,7 @@
     <string name="Second_Pet">يسمح لك أن يكون لديك اثنين من الحيوانات الأليفة في نفس الوقت!</string>
     <string name="This_item_requires">هذا العنصر يتطلب</string>
     <string name="not_enough_plasma">لايوجد بلازما كافية.</string>
-    <string name="MARK_UNREAD">وضع علامة غير مقروء</string>
+    <string name="MARK_UNREAD">علامه مقروءة</string>
     <string name="ROYALE_DUO">رويال ثنائي</string>
     <string name="Choose_Partner">إختر شريك</string>
     <string name="REMOVE_FRIEND">حذف صديق</string>
@@ -1086,7 +1086,7 @@
     <string name="Dot_Deity">آله النقاط</string>
     <string name="Mass_Mastery">السيطرة على الكتلة</string>
     <string name="Gain_100_000_000_mass">كسب 100,000,000 من الكتلة</string>
-    <string name="VET">سَـنـة</string>
+    <string name="VET">الطبيب البيطري</string>
     <string name="Mute">كتم</string>
     <string name="Unmute">إلغاء الكتم</string>
     <string name="Community">المجتمع</string>
@@ -1334,7 +1334,7 @@ Commands:
     <string name="delete_prompt">هل أنت متأكد انك تريد حذف حسابك؟ هذا دائم ولا يمكن التراجع عن ذلك! اكتب للحذف!: DELETE ID</string>
 
 
-    <string name="Type">أكتب</string>
+    <string name="Type">يكتب</string>
     <string name="Complete_campaign_mission_">أكمل مهمات الحملة</string>
     <string name="Specify_Reason_">حدد السبب:</string>
     <string name="FREE_FOR_ALL">حر للجميع</string>
@@ -1376,7 +1376,7 @@ Commands:
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
-    <string name="Translator">متـرجـم</string>
+    <string name="Translator">مترجم</string>
     <string name="SUCCESS">تم بنجاح</string>
 
 
