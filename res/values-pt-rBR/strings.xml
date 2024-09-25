@@ -55,7 +55,7 @@
 
 
     <string name="SERVER">"SERVIDOR"</string>
-    <string name="Joining_game_in_">"Entrando no jogo em "</string>
+    <string name="Joining_game_in_">"Entrando no jogo em."</string>
     <string name="Game_Full">"Jogo Cheio"</string>
     <string name="US_East">"América Central"</string>
     <string name="US_West">"América do Norte"</string>
