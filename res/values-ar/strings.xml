@@ -51,7 +51,7 @@
     <string name="Lobby_Name">"أسم السيرفر"</string>
     <string name="Not_found_">"لم يتم العثور عليه."</string>
 
-    <string name="Hidden">"مخفي"</string>
+    <string name="Hidden">"إخفاء"</string>
 
 
     <string name="SERVER">"سيرفر"</string>
@@ -934,7 +934,7 @@
     <string name="Pet_Uploads">تحميلات الحيوانات</string>
     <string name="BLOB">الدائرة</string>
     <string name="Clan_Pet_Uploads">تحميلات الحيوانات الأليفة في العشيرة</string>
-    <string name="YT">يوتيوبر</string>
+    <string name="YT">اليوتيوبرز</string>
     <string name="FREE_TODAY">مجاني اليوم!</string>
     <string name="Cannot_cancel_this_skin_yet_">لا يمكن إلغاء هذه الصورة حالياً.</string>
     <string name="SPLIT_16X">الإنقسام على 16</string>
@@ -1006,7 +1006,7 @@
     <string name="not_enough_plasma">لايوجد بلازما كافية.</string>
     <string name="MARK_UNREAD">وضع علامة غير مقروء</string>
     <string name="ROYALE_DUO">رويال ثنائي</string>
-    <string name="Choose_Partner">إختر شريك</string>
+    <string name="Choose_Partner">اختر شريكًا</string>
     <string name="REMOVE_FRIEND">حذف صديق</string>
     <string name="Creator">المنشِئ</string>
     <string name="PROFILE_COLOR">لون الحالة</string>
