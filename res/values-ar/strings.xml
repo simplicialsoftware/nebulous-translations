@@ -1398,7 +1398,7 @@ Commands:
         <item>"مخصص"</item>
     </string-array>
 
-    <string-array name="themes">
+    <string-array name="themes">المواضيع
         <item>"نجوم (الظلام)"</item>
         <item>"خطوط(الظلام)"</item>
         <item>"خطوط(الأبيض)"</item>
