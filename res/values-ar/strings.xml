@@ -256,7 +256,7 @@
     <string name="Server_Restart_">"إعادة تشغيل السيرفر:"</string>
     <string name="GOAL_">"هدف!"</string>
     <string name="SOCCER">"كرة القدم"</string>
-    <string name="DRAW">"تعادل"</string>
+    <string name="DRAW">"يرسم"</string>
 
     <string name="Clan_Name">"اسم العشيرة"</string>
     <string name="Clan">"العشيرة"</string>
@@ -622,7 +622,7 @@
     <string name="CLAN_HISTORY">"سِجِل العشيرة"</string>
 
 
-    <string name="Love_Nebulous_">"أحب Nebulous"</string>
+    <string name="Love_Nebulous_">"أحب نيوبلس"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"يرجى دعم Nebulous من خلال تقييمها ."</string>
     <string name="MAYHEM_MODE">"تفعيل نمط الفوضى"</string>
     <string name="Times_Teleported_">"عدد مرات الإنتقال:"</string>
