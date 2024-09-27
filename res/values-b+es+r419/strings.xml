@@ -756,7 +756,7 @@
     <string name="upload_info">"Se puede lograr una mejor calidad sin transparencia o con imágenes simples."</string>
     <string name="Compression_Quality_">"Calidad de compresión:"</string>
     <string name="inapproriate_info">"Skins que incluyan cualquier cosa que implique odio, gore, obscenidad, violencia, drogas, sexo, desnudos, selfies de cuerpo entero y skins de Nebulous sin modificar."</string>
-    <string name="Are_you_sure_you_want_to_upload_this_skin_">"¿Está seguro de que deseas subir esta skin?"</string>
+    <string name="Are_you_sure_you_want_to_upload_this_skin_">"¿Estás seguro de que deseas subir esta skin?"</string>
     <string name="Grant_Permission">"Conceder permiso"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"¡Nebulous necesita permisos de almacenamiento de copia de seguridad de su progreso para un jugador!"</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous necesita tener permisos de ubicación para encontrar dispositivos Bluetooth cercanos."</string>
