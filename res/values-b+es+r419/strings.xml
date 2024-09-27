@@ -1264,7 +1264,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="Collected_">Recogido:</string>
     <string name="Collisions_">Colisiones:</string>
     <string name="Absorbed_">Absorbido:</string>
-    <string name="team_warning">Unirse con un jugador que no pertence a su equipo resultará en una prohibición! Si ves a otras personas haciendo equipo cruzado, puedes votar para sacarlos de la sala desde el menú del jugador.</string>
+    <string name="team_warning">Unirse con un jugador que no pertenece a su equipo resultará en una prohibición! Si ves a otras personas haciendo equipo cruzado, puedes votar para sacarlos de la sala desde el menú del jugador.</string>
     <string name="Search_Filter">Filtro de búsqueda</string>
     <string name="Received_">Recibido:</string>
     <string name="Opponent_Rating_Limit_">Límite de calificación del oponente:</string>
