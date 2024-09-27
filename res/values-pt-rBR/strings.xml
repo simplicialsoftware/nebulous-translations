@@ -74,7 +74,7 @@
     <string name="OK">"OK"</string>
     <string name="CANCEL">"CANCELAR"</string>
     <string name="Chat_Name">"Nome do Chat"</string>
-    <string name="Max_People">"Máx. de Pessoas"</string>
+    <string name="Max_People">"Máx de Pessoas"</string>
     <string name="START">"COMEÇAR"</string>
     <string name="CREATE">"CRIAR"</string>
     <string name="CUSTOM_GAMES">"JOGOS PERSONALIZADOS"</string>
@@ -221,10 +221,7 @@
     <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Jogue 5 minutos seguidos, sem colidir com um buraco negro"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"Jogue 5 minutos seguidos, sem perder nenhum blob"</string>
     <string name="Play_20_minutes_straight_without_restarting">"Jogue 20 minutos seguidos sem reiniciar"</string>
-    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"Absorva 5 buracos negros supermassivos no prazo de 30 segundos de partida"</string>
-    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Atinja uma pontuação de 5000 em 1 minuto de partida"</string>
-    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Atire um buraco negro para o último jogador que atirou um buraco negro em você antes de reiniciar."</string>
-    <string name="Absorb_5_doges_without_restarting">"Absorva 5 doges sem reiniciar"</string>
+    
 
     <string name="Friends">"Amigos"</string>
     <string name="Dots_Eaten_">"Pontos Comidos:"</string>
@@ -1405,12 +1402,12 @@ Faça login para acessar o modo multijogador. Você poderá:
 - Comprar plasma na loja
 - Enviar skins criadas pelos usuários
 
-Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
+
     </string>
     <string name="_2x_skin_resolution">Qualidade da Skin em Dobro</string>
     <string name="pm">PRIV.</string>
-    <string name="You_are_already_friends_">Você já tem esta pessoa adicionada.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Esta conta deve ter pelo menos 1 dia de criação para enviar mensagens.</string>
+    <string name="pm"</string>
+    
     <string name="Translator">Tradutor</string>
     <string name="SUCCESS">BEM-SUCEDIDO</string>
 
