@@ -1463,7 +1463,7 @@ Si no deseas registrarse, aún puedes jugar en modo individual."
 
     <string-array name="clan_war_sizes">
         <item>"Dúo (2vs2)"</item>
-        <item>"Enano (3vs3)"</item>
+        <item>"Diminuto (3vs3)"</item>
         <item>"Pequeño (5vs5)"</item>
         <item>"Normal (8vs8)"</item>
     </string-array>
