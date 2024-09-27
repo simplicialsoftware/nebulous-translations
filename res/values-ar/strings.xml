@@ -128,7 +128,7 @@
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
     <string name="CONTINUE">"متابعة"</string>
-    <string name="Global_" formatted="false">"عالميا"</string>
+    <string name="Global_" formatted="منسق">"عالميا"</string>
     <string name="FRIEND_CHAT">"دردشة الأصدقاء"</string>
     <string name="LOBBY_NAME">"اسم الردهة"</string>
     <string name="NULL">"لا شيء"</string>
@@ -170,7 +170,7 @@
     <string name="Blobageddon">"ماسح الدوائر"</string>
     <string name="Blobocalypse">"مدمر الدوائر"</string>
 
-    <string name="Experienced_Nebulator">"لاعب متمرس"</string>
+    <string name="Experienced_Nebulator">"لاعب ذو خبرة"</string>
     <string name="Expert_Nebulator">"لاعب خبير"</string>
     <string name="Master_Nebulator">"لاعب متدرب"</string>
     <string name="Grand_Master_Nebulator">"لاعب محترف"</string>
@@ -1355,7 +1355,7 @@ Commands:
     <string name="activate">تفعيل</string>
     <string name="clan_id">رقم هوية العشيرة</string>
     <string name="language_change_warning">سيؤدي تغيير اللغة إلى إعادة تشغيل التطبيق.</string>
-    <string name="xmas_gift_boost_message">لقد تلقيت هدية تعزيز البلازما 3 مرات ليوم واحد!</string>
+    <string name="xmas_gift_boost_message"> لقد تلقيت هدية تعزيز البلازما !</string>
     <string name="no_response">لا توجد استجابة من الخادم. يرجى التحقق من اتصال الإنترنت.</string>
     <string name="RAMADAN">رمضان</string>
     <string name="SUDDEN_ATTACK">هجوم مفاجئ</string>
@@ -1374,7 +1374,7 @@ Commands:
     </string>
     <string name="_2x_skin_resolution">2X دقة الجلد</string>
     <string name="pm">الخاص</string>
-    <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
+    <string name="You_are_already_friends_">أنت بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
     <string name="Translator">متـرجـم</string>
     <string name="SUCCESS">تم بنجاح</string>
