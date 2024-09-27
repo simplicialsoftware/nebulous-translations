@@ -547,7 +547,7 @@
     <string name="Team_Created_">"تم إنشاء الفريق!"</string>
     <string name="Team_Arena">"تحدي الفريق"</string>
     <string name="No_Teams">"لا فِرق"</string>
-    <string name="team_arena_info">"بمجرد إنشاء فريق، يمكنك دعوة الأعضاء وإزالتهم مجانًا. كما أن لعب مباريات الساحة الجماعية مجاني أيضًا. لا يمكنك تغيير اسم فريقك بعد إنشائه!"</string>
+    <string name="team_arena_info">"معلومات ساحة الفريق!"</string>
 
 
     <string name="Invited">"تمت الدعوة"</string>
@@ -981,7 +981,7 @@
     <string name="Halos">إظهار صور حافة الدائرة</string>
     <string name="CAMPAIGN">حملة ضد الآليين</string>
     <string name="Mission">المهمة</string>
-    <string name="Kill_All_Bots">إلتهم كل الآليين</string>
+    <string name="Kill_All_Bots">اقتل كل الآليين</string>
     <string name="Survive">إبقى على قيد الحياة</string>
     <string name="Mission_d_Complete">المهمة %d إكتملت!</string>
     <string name="Mission_d_Failed">المهمة %d فشلت!</string>
