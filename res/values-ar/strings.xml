@@ -45,7 +45,7 @@
     <string name="PLAYING">"في طور اللعب"</string>
     <string name="MULTIPLAYER">"متعدد اللاعبين"</string>
 
-    <string name="JOIN">"إنضم"</string>
+    <string name="JOIN">"ينضم"</string>
 
 
     <string name="Lobby_Name">"أسم السيرفر"</string>
@@ -97,8 +97,8 @@
     <string name="XP_">"نقاط الخبرة:"</string>
 
     <string name="Information">"معلومات"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"لاستخدام هذه الصورة يجب أن تحقق الإنجاز"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"لاستخدام هذه الصورة يجب أن تصل إلى المستوى"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"لاستخدام هذا الجلد يجب أن تكسب الإنجاز"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"لاستخدام هذا الجلد يجب أن تصل إلى المستوى"</string>
     <string name="SIGN_IN">"تسجيل الدخول"</string>
 
     <string name="Single_Player_Stats">"إحصائيات لاعب واحد"</string>
@@ -107,11 +107,11 @@
     <string name="PAUSED">"توقف"</string>
 
 
-    <string name="FRIENDS">"صَـديـق"</string>
+    <string name="FRIENDS">"صـديـق"</string>
     <string name="Warning">"تحذير"</string>
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
-    <string name="REQUEST_FRIEND">"إرسال طلب صداقة"</string>
+    <string name="REQUEST_FRIEND">"طلب صديق"</string>
     <string name="Private">"خاص"</string>
     <string name="Public">"عام"</string>
     <string name="Bot">"لاعب آلي"</string>
@@ -119,12 +119,12 @@
     <string name="This_player_is_a_bot">"هذا اللاعب آلي"</string>
     <string name="This_player_is_not_signed_in">"هذا اللاعب لم يسجل الدخول"</string>
 
-    <string name="Online">"مُـتَـصِـل"</string>
+    <string name="Online">"متصل"</string>
     <string name="Unknown">"غير معروف"</string>
-    <string name="Offline">"غـيـر مُـتَـصِـل"</string>
+    <string name="Offline">"غير متصل"</string>
     <string name="Achievement_Earned">"تم تحقيق الإنجاز"</string>
     <string name="REFRESH">"تحديث"</string>
-    <string name="DONE">"تَـم"</string>
+    <string name="DONE">"منتهي"</string>
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
     <string name="CONTINUE">"متابعة"</string>
@@ -136,10 +136,10 @@
 
     <string name="ALL">"الجميع"</string>
     <string name="FFA">"حر للجميع"</string>
-    <string name="FFA_TIME">"حر للجميع 'بالتوقيت' "</string>
+    <string name="FFA_TIME">"حر للجميع بالتوقيت"</string>
     <string name="TEAMS">"الفِرق"</string>
-    <string name="TEAMS_TIME">"الفِرق 'بالتوقيت'"</string>
-    <string name="CTF">"إمساك العَلَمِ"</string>
+    <string name="TEAMS_TIME">"الفِرف بالتوقيت"</string>
+    <string name="CTF">"إمساك العلم"</string>
     <string name="SURVIVAL">"النجاة"</string>
 
 
@@ -153,7 +153,7 @@
     <string name="Dot_Gobbler">"آكل النقاط الشره"</string>
     <string name="Dot_Devourer">"ملتهم النقاط"</string>
     <string name="Dot_Gormandizer">"آكل النقاط الجشع"</string>
-    <string name="Dot_Sommelier">"ساقي النقاط!"</string>
+    <string name="Dot_Sommelier">"ساقي النقاط"</string>
 
     <string name="Quadra_Gulp">"ابتلاع رباعي"</string>
     <string name="Multi_Gulp">"ابتلاع متعدد"</string>
@@ -250,11 +250,11 @@
 
     <string name="Specify_private_game_name">"تحديد اسم اللعبة الخاصة"</string>
     <string name="In_Game_Chat">" الدردشة في اللعبة"</string>
-    <string name="My_Status_">"حالتي:"</string>
-    <string name="Game_Size_">"حجم اللعبة :"</string>
+    <string name="My_Status_">"حالتي"</string>
+    <string name="Game_Size_">"حجم اللعبة"</string>
 
     <string name="Server_Restart_">"إعادة تشغيل السيرفر:"</string>
-    <string name="GOAL_">"هدف!"</string>
+    <string name="GOAL_">"هدف"</string>
     <string name="SOCCER">"كرة القدم"</string>
     <string name="DRAW">"تعادل"</string>
 
@@ -1301,9 +1301,9 @@
     <string name="SET_EMOTE">ضع مُلصقاً</string>
     <string name="Winner_Winner_Chicken_Dinner">رابح، والدجاج هو العَشاء!</string>
     <string name="Win_a_Battle_Royale_">حقق إنتصار في صِراع حتى النهاية.</string>
-    <string name="Battle_">صِراع !</string>
-    <string name="BATTLE_ROYALE">صِراع حتى النهاية!</string>
-    <string name="Battle_Royale">صِراع حتى النهاية!</string>
+    <string name="Battle_">صراع !</string>
+    <string name="BATTLE_ROYALE">صراع حتى النهاية</string>
+    <string name="Battle_Royale">صراع حتى النهاية</string>
     <string name="The_winner_will_receive_x_plasma_">الفائِز سوف يَحصُل على %s بلازما!</string>
     <string name="admin_commands">"
 Commands:
@@ -1322,16 +1322,16 @@ Commands:
 !winner"
 </string>
     <string name="ID_Sort">نوع الهوية</string>
-    <string name="Master_Tamer">مُروِّض مُتقن</string>
+    <string name="Master_Tamer">مروض متقن</string>
     <string name="Get_ALL_Pets_To_Level_100_">أوصل جميع الحيوانات الأليفة إلى مستوى 100</string>
-    <string name="TAMER">مُروِّض</string>
+    <string name="TAMER">مروض</string>
     <string name="Allow_Recombine">السماح بإعادة التجميع</string>
     <string name="Defenders">المُدافِعون</string>
     <string name="Attackers">المُهاجِمون</string>
     <string name="MEGA_SPLIT">64x قسمة كبير</string>
     <string name="Missing_Permissions">أذونات مفقودة</string>
     <string name="DELETE_ACCOUNT">حذف الحساب</string>
-    <string name="delete_prompt">هل أنت متأكد انك تريد حذف حسابك؟ هذا دائم ولا يمكن التراجع عن ذلك! اكتب للحذف!: DELETE ID</string>
+    <string name="delete_prompt">حذف المطالبة</string>
 
 
     <string name="Type">أكتب</string>
@@ -1350,7 +1350,7 @@ Commands:
     <string name="CAMPAIGN_2">حملة ضد الاَليين 2</string>
     <string name="India">الهند</string>
     <string name="Tutorial">الدورة التعليمية</string>
-    <string name="TYCOON">حاصِد</string>
+    <string name="TYCOON">حاصد</string>
     <string name="CLAN_BACKGROUND_COLOR">لون خلفية العشيرة</string>
     <string name="activate">تفعيل</string>
     <string name="clan_id">رقم هوية العشيرة</string>
