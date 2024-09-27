@@ -33,10 +33,10 @@
 
     <string name="_Rank_">" المرتبة "</string>
     <string name="_Alias_">" الإسم المُستعار "</string>
-    <string name="_Score_">" النقاط "</string>
-    <string name="Score__">"النقاط: "</string>
+    <string name="_Score_">" نتيجة "</string>
+    <string name="Score__">"النقاط"</string>
     <string name="Recombine_">"إعادة التجميع: "</string>
-    <string name="WINNER_">"الفائز:"</string>
+    <string name="WINNER_">"الفائز"</string>
     <string name="IDLE">"خمول"</string>
     <string name="Name_Invalid_">"الإسم غير صالح !"</string>
     <string name="Name_Taken_">"الاسم مستعمل."</string>
