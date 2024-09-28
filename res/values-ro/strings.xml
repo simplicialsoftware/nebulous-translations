@@ -1325,9 +1325,9 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     </string>
     <string name="particle_info">You must be at least level 50 and use a base skin with particles in order to see any particles.</string>
     <string name="Plain_Score_Text">"Plain Score Text"</string>
-    <string name="Custom_Skin_Reviewed_Notification">Skin-ul Tau Personalizat A Fost Revizat!</string>
-    <string name="You_Have_Mail_">Aveți Un Mesaj De %s!</string>
-    <string name="Clan_Request_Reviewed_Notification">Your Request To Join Clan %s Been Reviewed!</string>
+    <string name="Custom_Skin_Reviewed_Notification">Skin-ul tau personalizat a fost revizat!</string>
+    <string name="You_Have_Mail_">Aveți un mesaj de %s!</string>
+    <string name="Clan_Request_Reviewed_Notification">Solicitarea ta a intra în clan %s a fost revizată!</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
     <string name="Sold_Community_Skins_">"Sold Community Skins: "</string>
     <string name="Estimated_Earnings_">"Estimated Earnings: "</string>
