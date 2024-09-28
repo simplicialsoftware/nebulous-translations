@@ -1092,8 +1092,8 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Mass_Mastery">Mass Mastery</string>
     <string name="Gain_100_000_000_mass">Gain 100,000,000 mass</string>
     <string name="VET">VET</string>
-    <string name="Mute">Mutare</string>
-    <string name="Unmute">Anulare Mut</string>
+    <string name="Mute">Muta</string>
+    <string name="Unmute">Anula Mut</string>
     <string name="Community">Comunitate</string>
     <string name="Buy">Cumpăra</string>
     <string name="Sell">Vinde</string>
@@ -1221,7 +1221,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="MULTISKIN">MULTISKIN</string>
     <string name="DISABLED">DEZACTIVAT</string>
 
-    <string name="Refund__Multiskin">Rambursare\nMultiskin</string>
+    <string name="Refund__Multiskin">Rambursa\nMultiskin</string>
     <string name="Invalid_Clan_ID_">ID de clan invalid.</string>
     <string name="MUTED">MUTAT</string>
     <string name="SKIN">SKIN</string>
@@ -1269,7 +1269,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Search_Filter">Search Filter</string>
     <string name="Received_">Primit:</string>
     <string name="Opponent_Rating_Limit_">Opponent Rating Limit:</string>
-    <string name="TOGGLE_FAVORITE">COMUTARE FAVORIT</string>
+    <string name="TOGGLE_FAVORITE">COMUTA FAVORIT</string>
     <string name="Favorited">Favorizat</string>
     <string name="Unfavorited">Defavorizat</string>
     <string name="Background_Scale_">Background Scale:</string>
