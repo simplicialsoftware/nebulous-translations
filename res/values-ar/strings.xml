@@ -1380,7 +1380,7 @@ Commands:
     <string name="SUCCESS">تم بنجاح</string>
 
 
-    <string-array name="control_modes">
+    <string-array name="control_modes">اوضاع التحكم في الأسم
         <item>"طبيعي"</item>
         <item>"خاص"</item>
         <item>"سحب نحو"</item>
