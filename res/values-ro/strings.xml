@@ -394,7 +394,7 @@
     <string name="leaves_">"frunze."</string>
     <string name="Leaf_Collector">"Colectorul Frunzelor"</string>
     <string name="Collect_1000_leaves_">"Colectează 1000 de frunze"</string>
-    <string name="XP_Boost">"XP Boost"</string>
+    <string name="XP_Boost">"Boost-ul XP"</string>
     <string name="Double">"Dublu"</string>
     <string name="Hour">"Oră"</string>
     <string name="Hours">"Ore"</string>
@@ -413,7 +413,7 @@
 
     <string name="Purchases_Unavailable_">"Cumpărări Indisponibile"</string>
     <string name="You_can_purchase_this_skin_for">"Puteți achiziționa acest skin pentru"</string>
-    <string name="PURCHASE">"CUMPĂRĂ"</string>
+    <string name="PURCHASE">"CUMPĂRA"</string>
     <string name="Error_in_backup_data_">"Eroare în datele backup!"</string>
 
 
@@ -596,18 +596,18 @@
     <string name="PRIZES">"PREMII"</string>
 
     <string name="Enable_Custom_Skin">"Activează Skin-ul Personalizat"</string>
-    <string name="Use_Custom_Skin">"Skin-ul\nPersonalizat"</string>
+    <string name="Use_Custom_Skin">"Folosește Skin\nPersonalizat"</string>
     <string name="custom_skin_description">"Această caracteristică vă permite să utilizați fotografia de profil sau un fişier ca skin-ul tău. Acest skin îl vei vedea numai TU. Alte persoane NU vor vedea skinul tău personalizat."</string>
     <string name="CUSTOM_SKIN">"SKIN PERSONALIZAT"</string>
 
-    <string name="Facebook_Profile">"Profil Facebook"</string>
+    <string name="Facebook_Profile">"Profilul Facebook"</string>
     <string name="You_must_be_signed_in_to_Facebook_">"Trebuie să fii conectat la Facebook."</string>
     <string name="copy_details">"copiază detaliile"</string>
-    <string name="copied_error_details_to_clipboard">"detaliile erorii copiate în clipboard"</string>
+    <string name="copied_error_details_to_clipboard">"Detaliile erorii copiate în clipboard."</string>
 
     <string name="No_file_browser_installed_">"Nu este instalat niciun browser de fișiere"</string>
     <string name="Choose_File">"Alege Fișierul"</string>
-    <string name="Google_Profile">"Profil Google"</string>
+    <string name="Google_Profile">"Profilul Google"</string>
     <string name="You_must_be_signed_in_to_Google_">"Trebuie să fii conectat la Google."</string>
 
 
@@ -635,8 +635,8 @@
     <string name="Shoot_9001_Powerups">"Trage cu 9001 Powerup-uri"</string>
     <string name="Teleport_100_Times">"Teleportează-te de 100 de ori"</string>
     <string name="Shoot_20_Powerups_Without_Restarting">"Trage Cu 20 De Powerup-uri Fără Să Repornești Jocul"</string>
-    <string name="Request_Timed_Out">"Cererea a expirat"</string>
-    <string name="You_Are_Spectating_">"Eşti Spectator."</string>
+    <string name="Request_Timed_Out">"Solicitarea a expirat"</string>
+    <string name="You_Are_Spectating_">"Ești Spectator."</string>
     <string name="Account_In_Use_">"Cont În Utilizare!"</string>
     <string name="Cannot_Join_Arena_">"Nu poți intra în Arenă."</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"Delogarea vă va deconecta de la jocul curent!"</string>
@@ -654,7 +654,7 @@
     <string name="_1v1_Challenge_">"Provocare 1v1!"</string>
     <string name="__has_challenged_you_to_a_1v1_match_">"%s te-a provocat la un meci 1v1!"</string>
     <string name="Challenge_Expired">"Provocarea a expirat"</string>
-    <string name="Enable_Challenges">"Activaţi provocări"</string>
+    <string name="Enable_Challenges">"Activați provocări"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"Așteptați ca provocarea curentă să expire."</string>
     <string name="CHALLENGE_OPTIONS">"OPȚIUNI PROVOCARE"</string>
     <string name="Accept">"Acceptă"</string>
@@ -672,9 +672,9 @@
     <string name="Update_Available_">"Actualizare disponibilă!"</string>
     <string name="VIEW_INVITES">"VEZI INVITAȚII"</string>
     <string name="CLAN_INVITES">"INVITAȚII ÎN CLAN"</string>
-    <string name="Cancel_Invitation">"Anulare invitație"</string>
+    <string name="Cancel_Invitation">"Anula invitație"</string>
     <string name="DOWNLOAD">"DESCARCĂ"</string>
-    <string name="REJECT_ALL_FRIEND_INVITATIONS_">"RESPINGI TOATE CERERILE DE PRIETENIE?"</string>
+    <string name="REJECT_ALL_FRIEND_INVITATIONS_">"RESPINGI TOATE SOLICITARILE DE PRIETENIE?"</string>
     <string name="suns_">"sori."</string>
     <string name="Sun_Collector">"Colector de Soare"</string>
     <string name="Sun_Hoarder">"Acaparator de Soare"</string>
@@ -694,11 +694,11 @@
     <string name="BLUETOOTH">"BLUETOOTH"</string>
     <string name="HOST">"GAZDĂ"</string>
     <string name="This_device_does_not_support_bluetooth_">"Acest dispozitiv nu suportă Bluetooth."</string>
-    <string name="member_permissions">"permisiuni membri"</string>
-    <string name="edit">"editează"</string>
+    <string name="member_permissions">"Permisiunile Membrilor"</string>
+    <string name="edit">"EDITEAZĂ"</string>
     <string name="start_clan_war">"Pornește Un Război de Clan"</string>
     <string name="join_clan_war">"Intră În Război de Clan"</string>
-    <string name="none">"nimic"</string>
+    <string name="none">"Nimic"</string>
     <string name="INVALID_TOKEN">"TOKEN INVALID"</string>
     <string name="banned_until">"Banat până: "</string>
     <string name="Note_Collector">"Colector de Note"</string>
@@ -708,7 +708,7 @@
     <string name="Collect_5_000_notes_">"Colectează 5.000 de note."</string>
     <string name="Collect_10_000_notes_">"Colectează 10.000 de note."</string>
     <string name="notes_">"note."</string>
-    <string name="CLICK_CHEAT_DETECTED_">"AUTO-CLICK DETECTAT!"</string>
+    <string name="CLICK_CHEAT_DETECTED_">"CLICK CHEAT DETECTAT!"</string>
     <string name="Pumpkin_Hoarder">"Acaparatotul de Dovleci"</string>
     <string name="Pumpkin_Mogul">"Mogulul Dovlecilor"</string>
     <string name="Leaf_Mogul">"Mogulul Frunzelor"</string>
@@ -752,9 +752,9 @@
     <string name="LEGEND">"LEGENDĂ"</string>
     <string name="Win_10000_Arenas">"Câștigă 10.000 de Arene"</string>
     <string name="UPLOAD_PREVIEW">"PREVIZUALIZARE ÎNCĂRCARE"</string>
-    <string name="Transparency">"Transparenţă"</string>
-    <string name="upload_info">"Puteți obține o calitate mai bună fără transparență sau cu imagini simple."</string>
-    <string name="Compression_Quality_">"Calitate de compresie:"</string>
+    <string name="Transparency">"Transparență"</string>
+    <string name="upload_info">"Poți obține o calitate mai bună fără transparență sau cu imagini simple."</string>
+    <string name="Compression_Quality_">"Calitatea compresie:"</string>
     <string name="inapproriate_info">"skin-uri nepotrivite includ cele care implică ură, dezgust, obscenitate, violență, droguri, sex, nuditate, selfie cu întreg corpul, obscuritate, neinteligibil și skin-uri Nebulous nemodificate."</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">"Sunteți sigur că doriți să încărcați aceast skin?"</string>
     <string name="Grant_Permission">"Acordă Permisiunea"</string>
@@ -762,7 +762,7 @@
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous are nevoie de permisiunea aflării locului de amplasare pentru a găsi dispozitive Bluetooth din apropiere."</string>
     <string name="FFA_ULTRA">"FFA ULTRA"</string>
     <string name="FFAU">"FFAU"</string>
-    <string name="_in_a_FFAU_Game">" într-un joc de FFA ULTRA"</string>
+    <string name="_in_a_FFAU_Game">" într-un joc de FFA Ultra"</string>
 
     <string name="BANNED_PLAYERS">"JUCĂTORI BLOCAȚI"</string>
     <string name="MAIL">"MAIL"</string>
@@ -777,12 +777,12 @@
     <string name="From">"De la"</string>
     <string name="Sent">"Trimis"</string>
     <string name="REPLY">"RĂSPUNDE"</string>
-    <string name="Delete_Message">"Şterge mesaj"</string>
+    <string name="Delete_Message">"Șterge mesaj"</string>
     <string name="BLOCK">"BLOCHEAZĂ"</string>
     <string name="DELETE">"ȘTERGE"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Notă: Puteți debloca o persoană prin a-i trimite o cerere de prietenie."</string>
     <string name="Select_Friend">"Selectați Prieten"</string>
-    <string name="Failed_to_send_mail_">"Mail-ul nu a putut fi trimis."</string>
+    <string name="Failed_to_send_mail_">"Trimitere mail-ul eșuat."</string>
     <string name="In_Game_Mail">"Mail în Joc"</string>
     <string name="Nav_Buttons_">"Butoane Navigare:"</string>
     <string name="account_warning">"Niciodată nu partajați parola contului sau informațiile personale cu oricine pentru orice motiv!"</string>
@@ -792,14 +792,14 @@
     <string name="name_color_instructions">"Selectați caracterele pe care doriți să le modificați, apoi selectați culoarea pentru a le schimba."</string>
     <string name="Cannot_change_this_character_">"Nu se poate schimba acest caracter"</string>
     <string name="ZOMBIE_APOCALYPSE">"APOCALIPSĂ ZOMBIE"</string>
-    <string name="Survive_a_Zombie_Apocalypse">"Supraviețuieşte o Apocalipsă Zombie"</string>
+    <string name="Survive_a_Zombie_Apocalypse">"Supraviețuiește o Apocalipsă Zombie"</string>
     <string name="ZA">"ZA"</string>
     <string name="Pandemic">"Epidemie"</string>
     <string name="Immunity">"Imunitate"</string>
-    <string name="Win_as_zombies_in_2_minutes_or_less_">"Câștigă ca zombi in 2 minute sau mai puţin."</string>
+    <string name="Win_as_zombies_in_2_minutes_or_less_">"Câștigă ca zombi in 2 minute sau mai puțin."</string>
     <string name="Win_as_survivors_with_no_losses_">"Castigă ca supraviețuitor, fără pierderi."</string>
     <string name="ZOMBIE_">"ZOMBIE!"</string>
-    <string name="SURVIVOR_">"SUPRAVIEŢUITOR!"</string>
+    <string name="SURVIVOR_">"SUPRAVIEȚUITOR!"</string>
     <string name="Zombies">"Zombii"</string>
     <string name="Survivors">"Supraviețuitori"</string>
     <string name="Enter_a_Tournament">"Intră în turneu"</string>
@@ -818,9 +818,9 @@
     <string name="Next_Tournament">"Turneul următor"</string>
     <string name="Plasma_Won">"Câstigă plasmă"</string>
     <string name="Semi_Finals">"Semifinale"</string>
-    <string name="Quarter_Finals">"Sferturi de finală"</string>
+    <string name="Quarter_Finals">"Sferturi de finale"</string>
     <string name="Competing">"Concurent"</string>
-    <string name="Finals">"Finala"</string>
+    <string name="Finals">"Finale"</string>
     <string name="Unregister">"Anulați înregistrarea"</string>
     <string name="Enter_My_Match">"Intră în meciul meu"</string>
     <string name="Starts_In">"Începe în"</string>
@@ -829,7 +829,7 @@
     <string name="CLAN_NAME_COLOR">"CULOARE NUME CLAN"</string>
     <string name="Tuber">"Tuber"</string>
     <string name="youtube_prompt">"Doriți să vizitați acest canal de YouTube? Aceste canale nu sunt afiliate cu creatorii Nebulous."</string>
-    <string name="Tournament_Matches_Won_">"Meciuri Câştigate în Turnee:"</string>
+    <string name="Tournament_Matches_Won_">"Meciuri Câștigate în Turnee:"</string>
     <string name="PAINT">"VOPSEA"</string>
     <string name="BLOCKED_ACCOUNTS">"CONTURI BLOCATE"</string>
     <string name="UNBLOCK">"DEBLOCAȚI"</string>
@@ -864,10 +864,10 @@
     <string name="NOW">"ACUM"</string>
     <string name="Team_Deathmatch_Domination">"Dominare Team Deathmatch"</string>
     <string name="We_Will_Survive">"Vom Supraviețui"</string>
-    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Câștigă cu cel puțin 5 jucători într-un joc de Team Deathmatch."</string>
-    <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"Supraviețuieşte, dar nu câștiga un joc de Team Deathmatch."</string>
-    <string name="Win_a_Team_Deathmatch_Game">"Câștigă un joc de Team Deathmatch"</string>
-    <string name="TEAM_DEATHMATCH">"TEAM DEATHMATCH"</string>
+    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Câștigă cu cel puțin 5 jucători într-un joc de Deathmatch în Echipă."</string>
+    <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"Supraviețuieşte, dar nu câștiga un joc de Deathmatch în Echipă."</string>
+    <string name="Win_a_Team_Deathmatch_Game">"Câștigă un joc de Deathmatch în Echipă"</string>
+    <string name="TEAM_DEATHMATCH">"DEATHMATCH ÎN ECHIPĂ"</string>
     <string name="Speed_Click_Toggle">"Comută Viteză de Click"</string>
     <string name="MOD">"MOD"</string>
     <string name="FAQ">ÎNTREBĂRI FRECVENTE</string>
@@ -878,7 +878,7 @@
     <string name="Plethora_of_Spins">Surplus de Rotații (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">DECONECTEAZĂ-TE DE PE TOATE DISPOZITIVELE</string>
     <string name="Tournament_Forming">Formare Turneu</string>
-    <string name="TeamTourneyDescription">Tu şi colegul de echipă trebuie să vă înregistrați pentru a juca în turneul pe echipe. Veți plăti plasma când începe turneul, dar vă puteți retrage înainte să înceapă. Este nevoie de cel puțin %d concurenți pentru a începe.</string>
+    <string name="TeamTourneyDescription">Tu și colegul de echipă trebuie să vă înregistrați pentru a juca în turneul pe echipe. Veți plăti plasma când începe turneul, dar vă puteți retrage înainte să înceapă. Este nevoie de cel puțin %d concurenți pentru a începe.</string>
     <string name="Free_Agent">Agent Liber</string>
     <string name="This_player_selected_a_different_teammate_">Acest jucător a ales alt coleg de echipă.</string>
     <string name="muted_until">Mut până</string>
@@ -888,14 +888,14 @@
     <string name="REMOVE">ELIMINĂ</string>
     <string name="BAN">BAN</string>
     <string name="MODERATORS">MODERATORI</string>
-    <string name="ALL_CLAN">TOT\nCLAN</string>
-    <string name="CO_LEADER">CO LEADER</string>
+    <string name="ALL_CLAN">TOȚI LA\nCLAN</string>
+    <string name="CO_LEADER">CO-LIDER</string>
     <string name="CLAN_HOUSE">CASA CLANULUI</string>
 
     <string name="ROOM">CAMERĂ</string>
     <string name="EXPERIMENTAL">EXPERIMENTAL</string>
     <string name="members">Membri:</string>
-    <string name="Delete_ALL_Messages_">Ştergeți TOATE mesajele?</string>
+    <string name="Delete_ALL_Messages_">Ștergeți TOATE mesajele?</string>
     <string name="SAVE_PROFILE">SALVEAZĂ PROFIL</string>
     <string name="Move">Mută</string>
     <string name="New_Position">Poziție Nouă</string>
@@ -921,7 +921,7 @@
     <string name="__has_invited_you_to_join_their_game_">%s te-a invitat să te alături jocului său!</string>
     <string name="Invitation_declined_">Invitație refuzată!</string>
     <string name="Invitation_accepted_">Invitație acceptată!</string>
-    <string name="Invitation_expired_">Invitația a expirat!</string>
+    <string name="Invitation_expired_">Invitație a expirat!</string>
     <string name="Wait_for_the_current_invitation_to_expire_">Aşteaptă ca invitația curentă să expire.</string>
     <string name="BLOB_COLOR">CULOARE BLOB</string>
     <string name="ENABLED">ACTIVAT</string>
@@ -932,9 +932,9 @@
     <string name="error_1">Doar liderul sau diamantul pot trimite mail clanului.</string>
     <string name="Hat">Pălărie</string>
     <string name="Hats">Pălării</string>
-    <string name="Pet_Uploads">Pet Uploads</string>
+    <string name="Pet_Uploads">Expedierile Pet-ul</string>
     <string name="BLOB">BLOB</string>
-    <string name="Clan_Pet_Uploads">Clan Pet Uploads</string>
+    <string name="Clan_Pet_Uploads">Expedierile Pet-ul Clan</string>
     <string name="YT">YT</string>
     <string name="FREE_TODAY">GRATIS ASTĂZI!</string>
     <string name="Cannot_cancel_this_skin_yet_">Nu se poate anula încă aceast skin.</string>
@@ -944,10 +944,10 @@
     <string name="enable_notifications">Activează Notificările</string>
     <string name="PROMOTE_MEMBER">PROMOVEAZĂ MEMBRU</string>
     <string name="DEMOTE_MEMBER">RETROGRADEAZĂ MEMBRU</string>
-    <string name="HAPPY_BIRTHDAY_">LA MULŢI ANI NEBULOS!</string>
+    <string name="HAPPY_BIRTHDAY_">LA MULȚI ANI NEBULOUS!</string>
     <string name="Years">Ani</string>
     <string name="Friend_Added_">Prieten adaugat</string>
-    <string name="_in_a_16x_Split_Game">într-un joc Split 16x</string>
+    <string name="_in_a_16x_Split_Game"> într-un joc de Split 16x</string>
     <string name="Rules">Reguli</string>
     <string name="Nebulous_Rules" translatable="true">
 Regulile Nebulous\n
@@ -991,15 +991,15 @@ Dacă observați că un jucător încalcă regulile jocului, vă rugăm să rapo
     <string name="GAME">JOC</string>
     <string name="Saved_">Salvat!</string>
     <string name="Name_Opacity_">Opacitate Nume:</string>
-    <string name="SET_PROFILE_PIC">SETEAZA PROFILUL PIC</string>
-    <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">ACCEPTATI TOATE INVITATIILE DE PRIETENIE</string>
+    <string name="SET_PROFILE_PIC">SETEAZĂ IMAGINEA PROFILULUI</string>
+    <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">ACCEPTAREA TOATE INVITAȚIILE DE PRIETENIE?</string>
     <string name="App_Perf_Stats">Statistici privind performanța aplicațiilor</string>
     <string name="COPY">COPIE</string>
     <string name="_1v1_Ultra">1v1 Ultra</string>
     <string name="ArenaDescriptionUltra">Câștigătorul va primi %s plasma.</string>
     <string name="BANNED">BANAT</string>
     <string name="CLAN_MEMBERS">MEMBRII CLANULUI</string>
-    <string name="CLAN_REQUESTS">CERERILE CLANULUI</string>
+    <string name="CLAN_REQUESTS">SOLICITARILE CLANULUI</string>
     <string name="Pet_1">Pet 1</string>
     <string name="Pet_2">Pet 2</string>
     <string name="Second_Pet">Vă permite să aveți două animale de companie în același timp!</string>
@@ -1008,7 +1008,7 @@ Dacă observați că un jucător încalcă regulile jocului, vă rugăm să rapo
     <string name="MARK_UNREAD">MARCHEAZĂ NECITIT</string>
     <string name="ROYALE_DUO">ROYALE DUO</string>
     <string name="Choose_Partner">Alegeți Partenerul</string>
-    <string name="REMOVE_FRIEND">ŞTERGE PRIETENUL</string>
+    <string name="REMOVE_FRIEND">ȘTERGE PRIETENUL</string>
     <string name="Creator">Creator</string>
     <string name="PROFILE_COLOR">CULOAREA PROFILULUI</string>
     <string name="Enable_Colors">Activare Culori</string>
@@ -1019,8 +1019,8 @@ Dacă observați că un jucător încalcă regulile jocului, vă rugăm să rapo
     <string name="Game_Border">Joc de frontieră</string>
     <string name="Select_some_text_first">Selectează mai întâi un text</string>
     <string name="Save_the_profile_first">Salvează mai întâi profilul</string>
-    <string name="Birthday">Naştere</string>
-    <string name="Mass_Boost">Mass Boost</string>
+    <string name="Birthday">Naștere</string>
+    <string name="Mass_Boost">Boost de Masă</string>
 
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Mass Boost nu funcționează în arene, turnee sau războaie de clan!</string>
 
@@ -1031,13 +1031,13 @@ Dacă observați că un jucător încalcă regulile jocului, vă rugăm să rapo
     <string name="Challenges_Won_">Provocări Câștigate:</string>
     <string name="trophy_info">Trofeele se acordă la sfârșitul fiecărui arena sau sezon de echipă pentru locul 1, 2 și 3. Trofeele sunt acordate doar în regiuni active cu mulți jucători.</string>
     <string name="BLOCKED">BLOCAT</string>
-    <string name="CLAN_WAR_HISTORY">ISTORIA CLAN WAR</string>
+    <string name="CLAN_WAR_HISTORY">ISTORIA RĂZBOAIE DE CLAN</string>
     <string name="Particle">Particule</string>
     <string name="Privacy">Intimitate</string>
     <string name="EULA">EULA</string>
-    <string name="You_can_purchase_this_hat_for">Poţi achiziționa această pălărie pentru</string>
-    <string name="You_can_purchase_this_particle_for">Poţi achiziționa această particulă pentru</string>
-    <string name="You_can_purchase_this_eject_skin_for">Poţi achiziționa aceast eject skin pentru</string>
+    <string name="You_can_purchase_this_hat_for">Poți achiziționa această pălărie pentru</string>
+    <string name="You_can_purchase_this_particle_for">Poți achiziționa această particulă pentru</string>
+    <string name="You_can_purchase_this_eject_skin_for">Poți achiziționa aceast eject skin pentru</string>
     <string name="Skin">Skin</string>
     <string name="Custom_Skin">Skin Personalizat</string>
     <string name="Color">Culoare</string>
@@ -1049,7 +1049,7 @@ Dacă observați că un jucător încalcă regulile jocului, vă rugăm să rapo
     <string name="WIFI">WIFI</string>
     <string name="JOIN_IP">INTRARE IP</string>
     <string name="Specify_Host_IP">Specifică Host IP</string>
-    <string name="ADVANCED_SETUP">ADVANCED SETUP</string>
+    <string name="ADVANCED_SETUP">SETĂRI AVANSATE</string>
     <string name="WORLD_CUP_EVENT___">WORLD CUP EVENT!!!</string>
     <string name="world_cup_event_description">Double XP and Double Plasma in Soccer Mode until the end of the world cup!</string>
     <string name="GIF_Skins">Skin-uri GIF</string>
@@ -1087,10 +1087,10 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
 - Semne obscene cu mâinile."
     </string>
     <string name="PLAY_ONLINE_">JUCA ONLINE!</string>
-    <string name="Absorb_10_000_000_dots">Absorb 10,000,000 dots</string>
+    <string name="Absorb_10_000_000_dots">Absoarbe 10,000,000 de puncte</string>
     <string name="Dot_Deity">Dot Deity</string>
     <string name="Mass_Mastery">Mass Mastery</string>
-    <string name="Gain_100_000_000_mass">Gain 100,000,000 mass</string>
+    <string name="Gain_100_000_000_mass">Câștigă 100,000,000 de masă</string>
     <string name="VET">VET</string>
     <string name="Mute">Muta</string>
     <string name="Unmute">Anula Mut</string>
@@ -1104,10 +1104,10 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="VIEW_UPLOADER">VIZIONEAZĂ EXPEDITORUL</string>
     <string name="POPULAR">POPULAR</string>
     <string name="NEW">NOU</string>
-    <string name="Manage_Configurations">Manage Configurations</string>
-    <string name="Leave_blank_for_all_uploaders_">Leave blank for all uploaders.</string>
+    <string name="Manage_Configurations">Gestionarea Configurații</string>
+    <string name="Leave_blank_for_all_uploaders_">Lașă în blanco pentru toți expeditorii.</string>
     <string name="More___">Mai Mult…</string>
-    <string name="This_cannot_be_used_in_FFA_Classic_">This cannot be used in FFA Classic.</string>
+    <string name="This_cannot_be_used_in_FFA_Classic_">Acest lucru nu se poate utiliza în FFA Clasic.</string>
     <string name="ENEMY">INAMIC</string>
     <string name="ALLY">ALLY</string>
     <string name="Rename">Redenumiți</string>
@@ -1123,7 +1123,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="POP_SPLIT">POP SPLIT</string>
     <string name="PUSH_SPLIT">PUSH SPLIT</string>
     <string name="Level_Colors">Culoarele Nivelului</string>
-    <string name="click_info">Autoclick / Ultraclick do not work in FFA Classic!</string>
+    <string name="click_info">Autoclick/Ultraclick nu functionează în FFA Classic!</string>
     <string name="Hooked">Hooked</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Be pulled by a hookshot spell for 10 seconds</string>
     <string name="Pack">Pachet</string>
@@ -1139,7 +1139,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Halo_Animations">Animațiile Halou</string>
     <string name="Trick_Notifications">Trick Notifications</string>
     <string name="Channel">Canal</string>
-    <string name="Choose_Text_Size">Choose Text Size</string>
+    <string name="Choose_Text_Size">Selectează Dimensiunea Textului</string>
     <string name="LEVEL_COLOR">CULOAREA NIVELULUI</string>
     <string name="level_color_instructions" translatable="true">Selectează culoarea nivelului tau.</string>
     <string name="INITIATE">INITIATE</string>
@@ -1151,9 +1151,9 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="SET_PRIVACY">SETEAZĂ PRIVAT</string>
     <string name="ANIMATION">ANIMAȚIE</string>
     <string name="Color_Cycle">Cicloul Culorii</string>
-    <string name="Fast">Fast</string>
-    <string name="Slow">Slow</string>
-    <string name="Rainbow">Rainbow</string>
+    <string name="Fast">Rapid</string>
+    <string name="Slow">Lent</string>
+    <string name="Rainbow">Curcubeu</string>
     <string name="Horizontal">Horizontal</string>
     <string name="Vertical">Vertical</string>
     <string name="GROUP">GRUP</string>
