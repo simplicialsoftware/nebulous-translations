@@ -1217,7 +1217,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Both">Amândouă</string>
     <string name="multiskin_period_description" translatable="true">Specifică perioada de schimbarea multiskin-ul în secunde (0-10). 0 dezactivă multiskin-ul.</string>
     <string name="Enable__Multiskin">"Permite\nMultiskin"</string>
-    <string name="multiskin_description" translatable="true">Multiskin lets you use two skins that alternate. You choose how fast the skins change. When you reach level 1000, this feature is free. If you buy multiskin before level 1000, you will get the plasma back when you reach it.</string>
+    <string name="multiskin_description" translatable="true">Cu multiskin-ulx poți utiliza doi skin-uri care se alternează. Alegeți cât de repede skin-urile schimbă. Când ajungeți nivel 1.000, acest element este gratuit. Dacă cumpărați multiskin înainte nivel 1.000, primiți plasmă înapoi când ajungeți la el.</string>
     <string name="MULTISKIN">MULTISKIN</string>
     <string name="DISABLED">DISABLED</string>
 
@@ -1252,7 +1252,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Mode_3D">3D Mode</string>
     <string name="Names_Below_Blobs">Names Below Blobs</string>
     <string name="Name_Scale_">"Scala de nume:"</string>
-    <string name="poor_connection_quality_warning" translatable="true">Your device has a poor connection to the server. This might cause lag. Please check your Wi-Fi or phone service or try a different Internet connection. Also make sure you are playing on the closest servet to you.</string>
+    <string name="poor_connection_quality_warning" translatable="true">Dispozitivului tau are o conexiune rău cu serverului. Acest lucru poate provoca lag. Vă rog verifică Wi-Fi-ului tau sau date mobile, sau încercă o conexiune diferită de Internet. De asemenea asigurați-vă că jucați în serverului mai aproape de tine.</string>
     <string name="Button_3D">Button 3D</string>
     <string name="Hide_Button_">Hide Button?</string>
     <string name="Show_Boost_Button">Show Boost Button</string>
@@ -1314,14 +1314,14 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Plasma_Boost_2_Hours_">Plasma Boost 2 Hours.</string>
     <string name="Plasma_Boost">Plasma Boost</string>
     <string name="skin_warning" translatable="true">
-        "Your custom skin was not approved. Here are the most common reasons for this. You must NOT upload:
+        "Skin-ul tau personalizat nu a fost aprobat. Aici sunt motivurile mai comune pentru acest lucru. NU poți trimite:
 
-                1. A photograph of someone shirtless;
-                2. Someone in a suggestive pose or scene;
-                3. Depictions of alcohol or drugs (including weed);
-                4. Artwork that already exist in Nebulous, such as level skins. It must be modified in some meaningful way.
+                1. Fotografie de cineva fără haină;
+                2. Cineva într-o postură sau scenă sugestivă;
+                3. Reprezentare de alcool sau droguri (inclusiv marijuana);
+                4. Arte de Nebulous care existe deja precum skin-urile nivelului. Acest lucru trebuie să fie modificat într-un mod semnificativ.
 
-        Uploading the same non-approved skin multiple times will result in more penalties or ban."
+        Dacă trimiți un skin care nu a fost aprobat de mai multe ori, va duce la mai mult penalități sau un ban."
     </string>
     <string name="particle_info">You must be at least level 50 and use a base skin with particles in order to see any particles.</string>
     <string name="Plain_Score_Text">"Plain Score Text"</string>
@@ -1402,15 +1402,15 @@ Comenzi:
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">ATAC BRUSC</string>
     <string name="sign_in_explanation" translatable="true">
-"Sign in to access multiplayer. You will be able to:
+"Autentificați-vă pentru acces multijucătorului. Poți:
 
-- Play and communicate with players all over the world;
-- Share your progress with others;
-- Create and decorate a profile;
-- Purchase plasma at the shop;
-- Upload user generated skins.
+- Juca sau comunica cu jucătorile în întreaga lume;
+- Împartează progresul tau cu alte persoane;
+- Crează și decorează un profil;
+- Cumpăra plasmă în shop-ul;
+- Încerca skin-uri generate de utilizatori.
 
-If you do not wish to sign in, you can still player in single-player mode."
+Dacă nu vrei să autentificați, poți încă juca în modul single-player."
     </string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
