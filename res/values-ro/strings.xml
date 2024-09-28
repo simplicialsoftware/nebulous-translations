@@ -1123,7 +1123,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="POP_SPLIT">POP SPLIT</string>
     <string name="PUSH_SPLIT">PUSH SPLIT</string>
     <string name="Level_Colors">Culoarele Nivelului</string>
-    <string name="click_info">Autoclick/Ultraclick nu functionează în FFA Classic!</string>
+    <string name="click_info">Autoclick/Ultraclick nu functionează în FFA Clasic!</string>
     <string name="Hooked">Hooked</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Be pulled by a hookshot spell for 10 seconds</string>
     <string name="Pack">Pachet</string>
