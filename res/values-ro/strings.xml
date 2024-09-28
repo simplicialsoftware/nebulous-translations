@@ -654,7 +654,7 @@
     <string name="_1v1_Challenge_">"Provocare 1v1!"</string>
     <string name="__has_challenged_you_to_a_1v1_match_">"%s te-a provocat la un meci 1v1!"</string>
     <string name="Challenge_Expired">"Provocarea a expirat"</string>
-    <string name="Enable_Challenges">"Activați provocări"</string>
+    <string name="Enable_Challenges">"Activează provocări"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"Așteptați ca provocarea curentă să expire."</string>
     <string name="CHALLENGE_OPTIONS">"OPȚIUNI PROVOCARE"</string>
     <string name="Accept">"Acceptă"</string>
