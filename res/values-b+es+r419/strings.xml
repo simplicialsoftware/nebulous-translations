@@ -1183,7 +1183,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="TRY_IT_">¡PROBAR SKIN!</string>
     <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Puedes probar esta skin para un juego. Después de que mueras o la cambies, desaparecerá. Cuando estás probando una skin, nadie más puede verla..\nPrecio: %s plasma.</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Necesitas comprar un paquete para usar esto.</string>
-    <string name="GET_PACK">OBTENER PACK</string>
+    <string name="GET_PACK">OBTENER PAQUETE</string>
     <string name="Position_in_queue">Posición en fila</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">COLOR DE FONDO DE PERFIL</string>
     <string name="DARK_MATTER">MATERIA OSCURA</string>
