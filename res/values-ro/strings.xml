@@ -1310,7 +1310,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Get_A_Pet_To_Level_X_">Get A Pet To Level %d.</string>
     <string name="plasma_boost_info">"You gain three times plasma from all IN-GAME sources while the boost is active! This includes arena  and tournament winnings! Does NOT work on plasma purchases, spins, or special rewards."</string>
     <string name="Plasma_Boost_7_Days_">Boost de Plasmă 7 Zile!!!</string>
-    <string name="Plasma_Boost_1_Day_">Boost de Plasmă 1 Zia!</string>
+    <string name="Plasma_Boost_1_Day_">Boost de Plasmă 1 Zi!</string>
     <string name="Plasma_Boost_2_Hours_">Boost de Plasmă 2 Ore.</string>
     <string name="Plasma_Boost">Boost de Plasmă</string>
     <string name="skin_warning" translatable="true">
@@ -1381,7 +1381,7 @@ Comenzi:
     <string name="FREE_FOR_ALL">FREE FOR ALL</string>
     <string name="SPECIAL">SPECIAL</string>
     <string name="FREE">GRATUIT</string>
-    <string name="x5_Clan_XP_1_Day">5X XP DE CLAN 1 ZIA</string>
+    <string name="x5_Clan_XP_1_Day">5X XP DE CLAN 1 ZI</string>
     <string name="x5_Clan_XP_7_days">5X XP DE CLAN 7 ZILE</string>
     <string name="x5_Clan_XP_Perm">5X XP DE CLAN PERMANENT!</string>
     <string name="Quin">5X</string>
