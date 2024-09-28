@@ -1217,7 +1217,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Both">Amândouă</string>
     <string name="multiskin_period_description" translatable="true">Specifică perioada de schimbarea multiskin-ul în secunde (0-10). 0 dezactivă multiskin-ul.</string>
     <string name="Enable__Multiskin">"Permite\nMultiskin"</string>
-    <string name="multiskin_description" translatable="true">Cu multiskin-ulx poți utiliza doi skin-uri care se alternează. Alegeți cât de repede skin-urile schimbă. Când ajungeți nivel 1.000, acest element este gratuit. Dacă cumpărați multiskin înainte nivel 1.000, primiți plasmă înapoi când ajungeți la el.</string>
+    <string name="multiskin_description" translatable="true">Cu multiskin-ul, poți utiliza doi skin-uri care se alternează. Alegeți cât de repede skin-urile schimbă. Când ajungeți nivel 1.000, acest element este gratuit. Dacă cumpărați multiskin înainte nivel 1.000, primiți plasmă înapoi când ajungeți la el.</string>
     <string name="MULTISKIN">MULTISKIN</string>
     <string name="DISABLED">DISABLED</string>
 
