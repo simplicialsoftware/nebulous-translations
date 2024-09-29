@@ -782,14 +782,14 @@
     <string name="DELETE">"ȘTERGE"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Notă: Puteți debloca o persoană prin a-i trimite o cerere de prietenie."</string>
     <string name="Select_Friend">"Selectați Prieten"</string>
-    <string name="Failed_to_send_mail_">"Trimitere mail-ul eșuat."</string>
+    <string name="Failed_to_send_mail_">"Trimitere mail-ul eșuată."</string>
     <string name="In_Game_Mail">"Mail în Joc"</string>
     <string name="Nav_Buttons_">"Butoane Navigare:"</string>
     <string name="account_warning">"Niciodată nu partajați parola contului sau informațiile personale cu oricine pentru orice motiv!"</string>
     <string name="Clan_Hero">"Eroul Clanului"</string>
     <string name="Win_1000_Clan_Wars">"Câștigă 1.000 Războaie de Clan"</string>
     <string name="NAME_COLOR">"CULOARE DE NUME"</string>
-    <string name="name_color_instructions">"Selectați caracterele pe care doriți să le modificați, apoi selectați culoarea pentru a le schimba."</string>
+    <string name="name_color_instructions">"Selectează caracterele pe care doriți să le modificați, apoi selectați culoarea pentru a le schimba."</string>
     <string name="Cannot_change_this_character_">"Nu se poate schimba acest caracter"</string>
     <string name="ZOMBIE_APOCALYPSE">"APOCALIPSĂ ZOMBIE"</string>
     <string name="Survive_a_Zombie_Apocalypse">"Supraviețuiește o Apocalipsă Zombie"</string>
@@ -871,11 +871,11 @@
     <string name="Speed_Click_Toggle">"Comută Viteză de Click"</string>
     <string name="MOD">"MOD"</string>
     <string name="FAQ">ÎNTREBĂRI FRECVENTE</string>
-    <string name="BUY_EXTRA_SPINS">CUMPĂRĂ ROTAȚII EXTRA</string>
+    <string name="BUY_EXTRA_SPINS">CUMPĂRA ROTAȚII EXTRA</string>
     <string name="Spins_Remaining">Rotații Rămase</string>
     <string name="One_Spin">O Rotație (1)</string>
     <string name="Bundle_of_Spins">Pachet de Rotații (10)</string>
-    <string name="Plethora_of_Spins">Surplus de Rotații (50)</string>
+    <string name="Plethora_of_Spins">Surplusul Rotațiile (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">DECONECTEAZĂ-TE DE PE TOATE DISPOZITIVELE</string>
     <string name="Tournament_Forming">Formare Turneu</string>
     <string name="TeamTourneyDescription">Tu și colegul de echipă trebuie să vă înregistrați pentru a juca în turneul pe echipe. Veți plăti plasma când începe turneul, dar vă puteți retrage înainte să înceapă. Este nevoie de cel puțin %d concurenți pentru a începe.</string>
@@ -895,7 +895,7 @@
     <string name="ROOM">CAMERĂ</string>
     <string name="EXPERIMENTAL">EXPERIMENTAL</string>
     <string name="members">Membri:</string>
-    <string name="Delete_ALL_Messages_">Ștergeți TOATE mesajele?</string>
+    <string name="Delete_ALL_Messages_">Șterge TOATE mesajele?</string>
     <string name="SAVE_PROFILE">SALVEAZĂ PROFIL</string>
     <string name="Move">Mută</string>
     <string name="New_Position">Poziție Nouă</string>
@@ -904,7 +904,7 @@
     <string name="NEW_ALLIANCE">ALIANȚĂ NOUĂ</string>
     <string name="NEW_ENEMY">INAMIC NOU</string>
     <string name="CLAN_RELATIONS">RELAȚII DE CLAN</string>
-    <string name="Clan_XP_Boost">BOOST XP CLAN</string>
+    <string name="Clan_XP_Boost">BOOST-UL XP LA CLAN</string>
     <string name="x3_Clan_XP_7_days">3x XP Clan 7 Zile</string>
     <string name="x3_Clan_XP_1_Day">3x XP Clan 1 Zi</string>
     <string name="x2_Clan_XP_1_Day">2x XP Clan 1 Zi</string>
@@ -925,11 +925,11 @@
     <string name="Wait_for_the_current_invitation_to_expire_">Aşteaptă ca invitația curentă să expire.</string>
     <string name="BLOB_COLOR">CULOARE BLOB</string>
     <string name="ENABLED">ACTIVAT</string>
-    <string name="Enable_Custom_Blob_Color">Activați Culoare Blob Personalizată</string>
+    <string name="Enable_Custom_Blob_Color">Activează Culoare Blob Personalizată</string>
     <string name="Choose_Menu">Alege Meniu</string>
     <string name="SPECTATE">SPECTATOR</string>
     <string name="INVITE">INVITĂ</string>
-    <string name="error_1">Doar liderul sau diamantul pot trimite mail clanului.</string>
+    <string name="error_1">Doar liderul sau co-liderul pot trimite mail clanului.</string>
     <string name="Hat">Pălărie</string>
     <string name="Hats">Pălării</string>
     <string name="Pet_Uploads">Expedierile Pet-ul</string>
@@ -946,7 +946,7 @@
     <string name="DEMOTE_MEMBER">RETROGRADEAZĂ MEMBRU</string>
     <string name="HAPPY_BIRTHDAY_">LA MULȚI ANI NEBULOUS!</string>
     <string name="Years">Ani</string>
-    <string name="Friend_Added_">Prieten adaugat</string>
+    <string name="Friend_Added_">Prieten adaugat!</string>
     <string name="_in_a_16x_Split_Game"> într-un joc de Split 16x</string>
     <string name="Rules">Reguli</string>
     <string name="Nebulous_Rules" translatable="true">
@@ -1006,8 +1006,8 @@ Dacă observați că un jucător încalcă regulile jocului, vă rugăm să rapo
     <string name="This_item_requires">Acest obiect necesită</string>
     <string name="not_enough_plasma">Nu există suficientă plasmă.</string>
     <string name="MARK_UNREAD">MARCHEAZĂ NECITIT</string>
-    <string name="ROYALE_DUO">ROYALE DUO</string>
-    <string name="Choose_Partner">Alegeți Partenerul</string>
+    <string name="ROYALE_DUO">DUO ROYAL</string>
+    <string name="Choose_Partner">Alege Partenerul</string>
     <string name="REMOVE_FRIEND">ȘTERGE PRIETENUL</string>
     <string name="Creator">Creator</string>
     <string name="PROFILE_COLOR">CULOAREA PROFILULUI</string>
@@ -1225,7 +1225,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Invalid_Clan_ID_">ID de clan invalid.</string>
     <string name="MUTED">MUTAT</string>
     <string name="SKIN">SKIN</string>
-    <string name="Choose_Skin_Size">Selectează Dimensiunea Skin-ului</string>
+    <string name="Choose_Skin_Size">Alege Dimensiunea Skin-ului</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Alți jucători nu vă pot asculta!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Allow permission to enable voice recording.</string>
     <string name="voice_chat_prompt">Content rating of the app may change with voice chat enabled. For best audio use a headset.</string>
@@ -1255,9 +1255,9 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="poor_connection_quality_warning" translatable="true">Dispozitivului tău are o conexiune rău cu serverul. Acest lucru poate provoca lag. Vă rog verifică Wi-Fi-ul tău sau date mobile, sau încercă o conexiune diferită de Internet. De asemenea asigurați-vă că jucați în serverul mai aproape de tine.</string>
     <string name="Button_3D">Buton 3D</string>
     <string name="Hide_Button_">Ocultă Buton?</string>
-    <string name="Show_Boost_Button">Afișează Butonul Boost</string>
+    <string name="Show_Boost_Button">Arată Butonul Boost-ului</string>
     <string name="Spectate_Killer_On_Death">Spectate Killer On Death</string>
-    <string name="Rainbow_Holes">Rainbow Holes</string>
+    <string name="Rainbow_Holes">Gaurile Curcubeului</string>
     <string name="LIFE_STEAL">LIFE STEAL</string>
     <string name="Kicked_From_Game_">Ai fost expulzat de joc!</string>
     <string name="Conquest">Conquest</string>
@@ -1266,7 +1266,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Collisions_">Coliziuni:</string>
     <string name="Absorbed_">Absorbit:</string>
     <string name="team_warning">Teaming up with a player that is not on your team will result in a ban!</string>
-    <string name="Search_Filter">Search Filter</string>
+    <string name="Search_Filter">Filtru de Căutare</string>
     <string name="Received_">Primit:</string>
     <string name="Opponent_Rating_Limit_">Opponent Rating Limit:</string>
     <string name="TOGGLE_FAVORITE">COMUTĂ FAVORIT</string>
@@ -1286,28 +1286,28 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="CHAMPION">CHAMPION</string>
     <string name="sandbox_warning" translatable="true">Nu poți câștiga XP sau plasmă în mod sandbox!</string>
     <string name="DASH">DASH</string>
-    <string name="setting_changed">Settings updated. You may need to reconnect to the server for it to take effect.</string>
-    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Perform 10,000 tricks in a Trick Mode game.</string>
+    <string name="setting_changed">Setări actualizate. Este posibil să trebuie să reconectați în serverul pentru aceste lucruri a funcționa.</string>
+    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Efectua 10.000 trick-uri într-un joc de Mod Trick.</string>
     <string name="Tricky">Tricky</string>
     <string name="SUPPORTER">VIP</string>
     <string name="CONQUEROR">CONQUEROR</string>
     <string name="TRICKY">TRICKY</string>
     <string name="x4_XP_Permanent">4x XP Permanent</string>
-    <string name="x4_XP_24_hours">4x XP 24 Hours</string>
-    <string name="x4_XP_1_Hour">4x XP 1 Hour</string>
+    <string name="x4_XP_24_hours">4x XP 24 Ore</string>
+    <string name="x4_XP_1_Hour">4x XP 1 Oră</string>
     <string name="Quad">Quadruple</string>
-    <string name="Middle_East">Middle East</string>
+    <string name="Middle_East">Orientul Mijlociu</string>
     <string name="XP_4x">XP 4x</string>
     <string name="You_cannot_play_for_x_minutes_">Nu poți juca pentru %d minute.</string>
-    <string name="x4_Clan_XP_Perm">4x Clan XP Permanent!</string>
-    <string name="x4_Clan_XP_7_days">4x Clan XP 7 Days</string>
-    <string name="x4_Clan_XP_1_Day">4x Clan XP 1 Day</string>
+    <string name="x4_Clan_XP_Perm">4x XP Clan Permanent!</string>
+    <string name="x4_Clan_XP_7_days">4x XP Clan 7 Zile</string>
+    <string name="x4_Clan_XP_1_Day">4x XP Clan 1 Zi</string>
     <string name="CHARGE_UP">CHARGE UP</string>
-    <string name="CLAN_DESCRIPTION_COLOR">CLAN DESCRIPTION COLOR</string>
+    <string name="CLAN_DESCRIPTION_COLOR">CULOAREA DESCRIERII CLANULUI</string>
     <string name="Responsible_Pet_Owner">Responsible Pet Owner</string>
     <string name="Animal_Tamer">Animal Tamer</string>
     <string name="Crocodile_Hunter">Crocodile Hunter</string>
-    <string name="Get_A_Pet_To_Level_X_">Get A Pet To Level %d.</string>
+    <string name="Get_A_Pet_To_Level_X_">Ridică un pet la nivel %d.</string>
     <string name="plasma_boost_info">"You gain three times plasma from all IN-GAME sources while the boost is active! This includes arena  and tournament winnings! Does NOT work on plasma purchases, spins, or special rewards."</string>
     <string name="Plasma_Boost_7_Days_">Boost de Plasmă 7 Zile!!!</string>
     <string name="Plasma_Boost_1_Day_">Boost de Plasmă 1 Zi!</string>
@@ -1364,19 +1364,19 @@ Comenzi:
 </string>
     <string name="ID_Sort">Sortare ID</string>
     <string name="Master_Tamer">Master Tamer</string>
-    <string name="Get_ALL_Pets_To_Level_100_">Get ALL Pets To Level 100</string>
+    <string name="Get_ALL_Pets_To_Level_100_">Ridică TOATE pet-urile la nivel 100</string>
     <string name="TAMER">TAMER</string>
-    <string name="Allow_Recombine">Allow Recombine</string>
-    <string name="Defenders">Defenders</string>
+    <string name="Allow_Recombine">Permite Recombinare</string>
+    <string name="Defenders">Apărători</string>
     <string name="Attackers">Atacatori</string>
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Missing Permissions</string>
-    <string name="DELETE_ACCOUNT">ȘTERGEȚI CONT</string>
-    <string name="delete_prompt">Are you sure you want to delete your account? This is PERMANENT and CANNOT BE UNDONE!</string>
+    <string name="DELETE_ACCOUNT">ȘTERGE CONT</string>
+    <string name="delete_prompt">Sunteți sigur că doriți a șterge contul tău? Acest lucru este PERMANENT și NU SE POATE ANULA!</string>
 
 
     <string name="Type">Scrie</string>
-    <string name="Complete_campaign_mission_">Completează misiunea campaign</string>
+    <string name="Complete_campaign_mission_">Completează misiunea campaniei</string>
     <string name="Specify_Reason_">Specifică Motivul:</string>
     <string name="FREE_FOR_ALL">FREE FOR ALL</string>
     <string name="SPECIAL">SPECIAL</string>
@@ -1397,7 +1397,7 @@ Comenzi:
     <string name="activate">Activează</string>
     <string name="clan_id">ID CLAN</string>
     <string name="language_change_warning">Schimbarea limbii va determina repornirea aplicației.</string>
-    <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
+    <string name="xmas_gift_boost_message">Ai primit un regal de 3x boost de plasmă pentru 1 zi!</string>
     <string name="no_response">Fără răspuns de la server. Vă rugăm să verificați conexiunea la internet.</string>
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">ATAC BRUSC</string>
