@@ -674,7 +674,7 @@
     <string name="CLAN_INVITES">"INVITAȚII ÎN CLAN"</string>
     <string name="Cancel_Invitation">"Anula invitație"</string>
     <string name="DOWNLOAD">"DESCARCĂ"</string>
-    <string name="REJECT_ALL_FRIEND_INVITATIONS_">"RESPINGI TOATE SOLICITARILE DE PRIETENIE?"</string>
+    <string name="REJECT_ALL_FRIEND_INVITATIONS_">"RESPINGE TOATE SOLICITARILE DE PRIETENIE?"</string>
     <string name="suns_">"sori."</string>
     <string name="Sun_Collector">"Colector de Soare"</string>
     <string name="Sun_Hoarder">"Acaparator de Soare"</string>
@@ -713,10 +713,10 @@
     <string name="Pumpkin_Mogul">"Mogulul Dovlecilor"</string>
     <string name="Leaf_Mogul">"Mogulul Frunzelor"</string>
     <string name="Collect_5000_pumpkins_">"Colectează 5.000 de dovleci."</string>
-    <string name="Collect_10000_pumpkins_">"Colectează  10.000 de dovleci."</string>
+    <string name="Collect_10000_pumpkins_">"Colectează 10.000 de dovleci."</string>
     <string name="Collect_10000_leaves_">"Colectează 10.000 de frunze"</string>
     <string name="Eject">"Eject"</string>
-    <string name="Eject_Skin">"Skin Eject"</string>
+    <string name="Eject_Skin">"Skin de Ejectează"</string>
     <string name="Double_Plasma__">"Dublu Plasmă!"</string>
     <string name="Ends">"Se termină"</string>
     <string name="Select_Clan_Member">"Selectați Membrul Clanului"</string>
@@ -734,7 +734,7 @@
     <string name="Account_Uploads">"Încărcările Contului"</string>
     <string name="Clan_Uploads">"Încărcările Clanului"</string>
     <string name="Empty">"Gol"</string>
-    <string name="Select">"Selectați"</string>
+    <string name="Select">"Selectează"</string>
     <string name="Current_Skin">"Skin Curent"</string>
     <string name="Status">"Stare"</string>
     <string name="upload_size_failure">"Nu s-a putut încărca această imagine deoarece este prea mare. Vă rugăm să încercați o altă imagine mai mică."</string>
@@ -744,7 +744,7 @@
     <string name="FILTER">"FILTRU"</string>
     <string name="List_Count_">"Număr de listă:"</string>
     <string name="Download_Skins">"Descarcă Skin-uri"</string>
-    <string name="ARENA_HISTORY">"ISTORIC ARENE"</string>
+    <string name="ARENA_HISTORY">"ISTORIA ARENELOR"</string>
     <string name="WIN">"VICTORIE"</string>
     <string name="LOSS">"ÎNFRÂNGERE"</string>
     <string name="Other_players_can_not_see_your_skin_">"Alți jucători nu îți pot vedea skin-ul tău."</string>
@@ -782,7 +782,7 @@
     <string name="DELETE">"ȘTERGE"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Notă: Puteți debloca o persoană prin a-i trimite o cerere de prietenie."</string>
     <string name="Select_Friend">"Selectați Prieten"</string>
-    <string name="Failed_to_send_mail_">"Trimitere mail-ul eșuată."</string>
+    <string name="Failed_to_send_mail_">"Trimitere mail-ul a eșuat."</string>
     <string name="In_Game_Mail">"Mail în Joc"</string>
     <string name="Nav_Buttons_">"Butoane Navigare:"</string>
     <string name="account_warning">"Niciodată nu partajați parola contului sau informațiile personale cu oricine pentru orice motiv!"</string>
@@ -826,7 +826,7 @@
     <string name="Starts_In">"Începe în"</string>
     <string name="Seconds">"secunde"</string>
     <string name="Tournaments_Temporarily_Disabled">"Turnee dezactivate temporar"</string>
-    <string name="CLAN_NAME_COLOR">"CULOARE NUME CLAN"</string>
+    <string name="CLAN_NAME_COLOR">"CULOAREA NUMELE CLANULUI"</string>
     <string name="Tuber">"Tuber"</string>
     <string name="youtube_prompt">"Doriți să vizitați acest canal de YouTube? Aceste canale nu sunt afiliate cu creatorii Nebulous."</string>
     <string name="Tournament_Matches_Won_">"Meciuri Câștigate în Turnee:"</string>
@@ -878,7 +878,7 @@
     <string name="Plethora_of_Spins">Surplusul Rotațiile (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">DECONECTEAZĂ-TE DE PE TOATE DISPOZITIVELE</string>
     <string name="Tournament_Forming">Formare Turneu</string>
-    <string name="TeamTourneyDescription">Tu și colegul de echipă trebuie să vă înregistrați pentru a juca în turneul pe echipe. Veți plăti plasma când începe turneul, dar vă puteți retrage înainte să înceapă. Este nevoie de cel puțin %d concurenți pentru a începe.</string>
+    <string name="TeamTourneyDescription">Tu și colegul tău de echipă trebuie să vă înregistrați pentru a juca în turneul pe echipe. Veți plăti plasma când începe turneul, dar vă puteți retrage înainte să înceapă. Este nevoie de cel puțin %d concurenți pentru a începe.</string>
     <string name="Free_Agent">Agent Liber</string>
     <string name="This_player_selected_a_different_teammate_">Acest jucător a ales alt coleg de echipă.</string>
     <string name="muted_until">Mut până</string>
@@ -903,8 +903,8 @@
     <string name="ENEMIES">INAMICI</string>
     <string name="NEW_ALLIANCE">ALIANȚĂ NOUĂ</string>
     <string name="NEW_ENEMY">INAMIC NOU</string>
-    <string name="CLAN_RELATIONS">RELAȚII DE CLAN</string>
-    <string name="Clan_XP_Boost">BOOST-UL XP LA CLAN</string>
+    <string name="CLAN_RELATIONS">RELAȚIILE CLANULUI</string>
+    <string name="Clan_XP_Boost">BOOST DE XP LA CLAN</string>
     <string name="x3_Clan_XP_7_days">3x XP Clan 7 Zile</string>
     <string name="x3_Clan_XP_1_Day">3x XP Clan 1 Zi</string>
     <string name="x2_Clan_XP_1_Day">2x XP Clan 1 Zi</string>
@@ -992,7 +992,7 @@ Dacă observați că un jucător încalcă regulile jocului, vă rugăm să rapo
     <string name="Saved_">Salvat!</string>
     <string name="Name_Opacity_">Opacitate Nume:</string>
     <string name="SET_PROFILE_PIC">SETEAZĂ IMAGINEA PROFILULUI</string>
-    <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">ACCEPTAREA TOATE INVITAȚIILE DE PRIETENIE?</string>
+    <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">ACCEPTĂ TOATE INVITAȚIILE DE PRIETENIE?</string>
     <string name="App_Perf_Stats">Statistici privind performanța aplicațiilor</string>
     <string name="COPY">COPIE</string>
     <string name="_1v1_Ultra">1v1 Ultra</string>
@@ -1136,8 +1136,8 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skin-uri, Pet-uri, Pălării EXCLUSIVE și Mai Mult!</string>
     <string name="BUY_NOW_">CUMPĂRA ACUM!</string>
     <string name="already_purchased">You or the person you are buying this for already own this.</string>
-    <string name="Halo_Animations">Animațiile Halou</string>
-    <string name="Trick_Notifications">Trick Notifications</string>
+    <string name="Halo_Animations">Animațiile Haloului</string>
+    <string name="Trick_Notifications">Notificările Trick-ului</string>
     <string name="Channel">Canal</string>
     <string name="Choose_Text_Size">Selectează Dimensiunea Textului</string>
     <string name="LEVEL_COLOR">CULOAREA NIVELULUI</string>
@@ -1163,7 +1163,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="group_chat_create" translatable="true">Distribuie acest ID de grup la prietenii tai, apoi ei pot intra în grup:</string>
     <string name="Specify_Group_ID" translatable="true">Specifică ID de Grup</string>
     <string name="Failed">Eșec</string>
-    <string name="Joined_group" translatable="true">Ai intrat grupul</string>
+    <string name="Joined_group" translatable="true">Ai intrat în grup</string>
     <string name="People" translatable="true">Persoane</string>
     <string name="Failed_to_join">Intrare Eșuată</string>
     <string name="Full">Plin</string>
@@ -1172,7 +1172,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Left_the_group" translatable="true">Ai părăsit grupul</string>
     <string name="Tricks_Performed_">Trick-uri Efectuate:</string>
     <string name="Not_enough_plasma_">Plasmă insuficientă!</string>
-    <string name="GET_PLASMA">OBȚINEREA PLASMĂ</string>
+    <string name="GET_PLASMA">OBȚINE PLASMĂ</string>
     <string name="ASTEROIDS">ASTEROIZI</string>
     <string name="CHRISTMAS">CRĂCIUN</string>
     <string name="Reason">Motiv</string>
@@ -1185,7 +1185,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="TRY_IT_">ÎNCEARCĂ!</string>
     <string name="skin_trial_info" translatable="true">Poți incerca acest skin pentru un joc. După ce mori sau schimbați, va dispărea. Când încerci un skin, nimeni nu poate vedea.\nPret: %s plasmă.</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Trebuie să cumpărați un pachet pentru a utiliza acest lucru.</string>
-    <string name="GET_PACK">OBȚINEREA PACHET</string>
+    <string name="GET_PACK">OBȚINE PACHET</string>
     <string name="Position_in_queue">Poziție în coadă</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">PROFILE MENU BACKGROUND COLOR</string>
     <string name="DARK_MATTER">DARK MATTER</string>
@@ -1210,7 +1210,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Giveaways_">Extrageri!</string>
     <string name="Max_XP_Chain_">Max XP Chain:</string>
     <string name="POSITION_CANCEL_BUTTON">POSITION CANCEL BUTTON</string>
-    <string name="INVISIBILITY">INVISIBILITY</string>
+    <string name="INVISIBILITY">INVIZIBILITATE</string>
     <string name="Set_Skin">Setează Skin</string>
     <string name="Primary">Primar</string>
     <string name="Secondary">Secundar</string>
@@ -1252,7 +1252,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Mode_3D">Mod 3D</string>
     <string name="Names_Below_Blobs">Names Below Blobs</string>
     <string name="Name_Scale_">"Scala de nume:"</string>
-    <string name="poor_connection_quality_warning" translatable="true">Dispozitivului tău are o conexiune rău cu serverul. Acest lucru poate provoca lag. Vă rog verifică Wi-Fi-ul tău sau date mobile, sau încercă o conexiune diferită de Internet. De asemenea asigurați-vă că jucați în serverul mai aproape de tine.</string>
+    <string name="poor_connection_quality_warning" translatable="true">Dispozitivul tău are o conexiune rău cu serverul. Acest lucru poate provoca lag. Vă rog verifică Wi-Fi-ul tău sau date mobile, sau încercă o conexiune diferită de Internet. De asemenea asigurați-vă că jucați în serverul mai aproape de tine.</string>
     <string name="Button_3D">Buton 3D</string>
     <string name="Hide_Button_">Ocultă Buton?</string>
     <string name="Show_Boost_Button">Arată Butonul Boost-ului</string>
@@ -1261,7 +1261,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="LIFE_STEAL">LIFE STEAL</string>
     <string name="Kicked_From_Game_">Ai fost expulzat de joc!</string>
     <string name="Conquest">Conquest</string>
-    <string name="Finish_the_last_mission_in_the_campaign_">Finish the last mission in the campaign.</string>
+    <string name="Finish_the_last_mission_in_the_campaign_">Concluzionează ultima misiune în campanie.</string>
     <string name="Collected_">Colectat:</string>
     <string name="Collisions_">Coliziuni:</string>
     <string name="Absorbed_">Absorbit:</string>
@@ -1272,18 +1272,18 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="TOGGLE_FAVORITE">COMUTĂ FAVORIT</string>
     <string name="Favorited">Favorizat</string>
     <string name="Unfavorited">Defavorizat</string>
-    <string name="Background_Scale_">Background Scale:</string>
-    <string name="Background_Lightness_">Background Lightness:</string>
-    <string name="Background_Image_">Background Image:</string>
-    <string name="INVERT_SELECTION">INVERT\nSELECTION</string>
+    <string name="Background_Scale_">Scala Fundalului:</string>
+    <string name="Background_Lightness_">Luminozitatea Fundalului:</string>
+    <string name="Background_Image_">Imaginea Fundalului:</string>
+    <string name="INVERT_SELECTION">INVERTĂ\nSELECȚIE</string>
     <string name="MINIMAP">MINIMAP</string>
     <string name="Victorious">Victorious</string>
     <string name="Dominant">Dominant</string>
-    <string name="Champion">Champion</string>
+    <string name="Champion">Campion</string>
     <string name="Win_10_Tournaments">Câștigă 10 Turneuri</string>
     <string name="Win_100_Tournaments">Câștigă 100 Turneuri</string>
-    <string name="HERO">HERO</string>
-    <string name="CHAMPION">CHAMPION</string>
+    <string name="HERO">EROU</string>
+    <string name="CHAMPION">CAMPION</string>
     <string name="sandbox_warning" translatable="true">Nu poți câștiga XP sau plasmă în mod sandbox!</string>
     <string name="DASH">DASH</string>
     <string name="setting_changed">Setări actualizate. Este posibil să trebuie să reconectați în serverul pentru aceste lucruri a funcționa.</string>
