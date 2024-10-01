@@ -597,7 +597,7 @@
 
     <string name="Enable_Custom_Skin">"Activează Skin-ul Personalizat"</string>
     <string name="Use_Custom_Skin">"Folosește Skin\nPersonalizat"</string>
-    <string name="custom_skin_description">"Această caracteristică vă permite să utilizați fotografia de profil sau un fişier ca skin-ul tău. Acest skin îl vei vedea numai TU. Alte persoane NU vor vedea skinul tău personalizat."</string>
+    <string name="custom_skin_description">"Această caracteristică vă permite să utilizați fotografia de profil sau un fișier ca skin-ul tău. Acest skin îl vei vedea numai TU. Alte persoane NU vor vedea skinul tău personalizat, cu excepția cazului în care încărcați."</string>
     <string name="CUSTOM_SKIN">"SKIN PERSONALIZAT"</string>
 
     <string name="Facebook_Profile">"Profilul Facebook"</string>
@@ -1252,7 +1252,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Mode_3D">Mod 3D</string>
     <string name="Names_Below_Blobs">Names Below Blobs</string>
     <string name="Name_Scale_">"Scala de nume:"</string>
-    <string name="poor_connection_quality_warning" translatable="true">Dispozitivul tău are o conexiune rău cu serverul. Acest lucru poate provoca lag. Vă rog verifică Wi-Fi-ul tău sau date mobile, sau încercă o conexiune diferită de Internet. De asemenea asigurați-vă că jucați în serverul mai aproape de tine.</string>
+    <string name="poor_connection_quality_warning" translatable="true">Dispozitivul tău are o conexiune rău cu serverul. Acest lucru poate provoca lag. Te rog verifică Wi-Fi-ul tău sau date mobile, sau încercă o conexiune diferită de Internet. De asemenea asigurați-vă că jucați în serverul mai aproape de tine.</string>
     <string name="Button_3D">Buton 3D</string>
     <string name="Hide_Button_">Ocultă Buton?</string>
     <string name="Show_Boost_Button">Arată Butonul Boost-ului</string>
