@@ -655,8 +655,8 @@
     <string name="__has_challenged_you_to_a_1v1_match_">"%s te-a provocat la un meci 1v1!"</string>
     <string name="Challenge_Expired">"Provocarea a expirat"</string>
     <string name="Enable_Challenges">"Activează provocări"</string>
-    <string name="Wait_for_the_current_challenge_to_expire_">"Așteptați ca provocarea curentă să expire."</string>
-    <string name="CHALLENGE_OPTIONS">"OPȚIUNI PROVOCARE"</string>
+    <string name="Wait_for_the_current_challenge_to_expire_">"Așteaptă ca provocarea curentă să expire."</string>
+    <string name="CHALLENGE_OPTIONS">"OPȚIUNILE PROVOCĂRILOR"</string>
     <string name="Accept">"Acceptă"</string>
     <string name="Decline">"Refuză"</string>
     <string name="Challenge_Declined">"Provocare refuzată"</string>
@@ -1402,7 +1402,7 @@ Comenzi:
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">ATAC BRUSC</string>
     <string name="sign_in_explanation" translatable="true">
-"Autentificați-vă pentru acces multijucătorului. Poți:
+"Autentifică-vă pentru acces multijucătorul. Poți:
 
 - Juca sau comunica cu jucătorile în întreaga lume;
 - Împartează progresul tău cu alte persoane;
@@ -1410,9 +1410,9 @@ Comenzi:
 - Cumpăra plasmă în shop-ul;
 - Încerca skin-uri generate de utilizatori.
 
-Dacă nu vrei să autentificați, poți încă juca în modul single-player."
+Dacă nu vrei să autentificați, poți încă juca în mod single-player."
     </string>
-    <string name="_2x_skin_resolution">Dublu Calitatea Skin</string>
+    <string name="_2x_skin_resolution">Dublu Calitatea Skin-ului</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Sunteți deja prieteni.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Contul trebuie să aibă o vechime de 1 zi pentru a trimite emailuri.</string>
@@ -1443,7 +1443,7 @@ Dacă nu vrei să autentificați, poți încă juca în modul single-player."
         <item>"Grilă (negru)"</item>
         <item>"Grilă (alb)"</item>
         <item>"Personalizat"</item>
-        <item>"NIMIC"</item>
+        <item>"Nimic"</item>
     </string-array>
 
     <string-array name="difficulties">
