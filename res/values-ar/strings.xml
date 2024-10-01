@@ -972,7 +972,7 @@
 اذا لاحظت وجود لاعب يخالف قوانين اللعبة، فيرجى ابلاغ المُدراء.
     </string>
     <string name="Blob_Chat_Bubbles">إظهار فقاعات الدردشة على الدوائر</string>
-    <string name="CHRISTMAS_ADVENT_SKINS">عيد الميلاد</string>
+    <string name="CHRISTMAS_ADVENT_SKINS">جلود عيد الميلاد</string>
     <string name="You_cannot_open_this_present_yet_">لا يمكن فتح هذه الهدية الآن!</string>
     <string name="Open_Present">فتح الهدية</string>
     <string name="OPEN">فتح</string>
@@ -1147,7 +1147,7 @@
     <string name="Color_Cycle">دورة الألوان</string>
     <string name="Fast">سريع</string>
     <string name="Slow">بطئ</string>
-    <string name="Rainbow">ثُقب مُلوَّن</string>
+    <string name="Rainbow">قوس قزح</string>
     <string name="Horizontal">أفقي</string>
     <string name="Vertical">رأسي</string>
     <string name="GROUP">مجموعة</string>
