@@ -782,7 +782,7 @@
     <string name="DELETE">"ȘTERGE"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Notă: Puteți debloca o persoană prin a-i trimite o cerere de prietenie."</string>
     <string name="Select_Friend">"Selectați Prieten"</string>
-    <string name="Failed_to_send_mail_">"Trimitere mail-ul a eșuat."</string>
+    <string name="Failed_to_send_mail_">"Trimiterea mail-ului a eșuat."</string>
     <string name="In_Game_Mail">"Mail în Joc"</string>
     <string name="Nav_Buttons_">"Butoane Navigare:"</string>
     <string name="account_warning">"Niciodată nu partajați parola contului sau informațiile personale cu oricine pentru orice motiv!"</string>
