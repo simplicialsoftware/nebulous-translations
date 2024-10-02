@@ -701,7 +701,7 @@
     <string name="INVALID_TOKEN">"رمز غير صالح!"</string>
     <string name="banned_until">"محظور حتى "</string>
     <string name="Note_Collector">"جامع رموز الموسيقى"</string>
-    <string name="Note_Hoarder">"مكدس رموز الموسيقى"</string>
+    <string name="Note_Hoarder">"ليس رموز الموسيقى"</string>
     <string name="Note_Mogul">"ملك رموز الموسيقى"</string>
     <string name="Collect_1_000_notes_">"جمع 1000 من رموز الموسيقى."</string>
     <string name="Collect_5_000_notes_">"جمع 5000 من رموز الموسيقى."</string>
@@ -896,7 +896,7 @@
     <string name="members">أعضاء</string>
     <string name="Delete_ALL_Messages_">حذف كل الرسائل!</string>
     <string name="SAVE_PROFILE">حفظ الحالة الشخصية</string>
-    <string name="Move">"نقل"</string>
+    <string name="Move">"حركة"</string>
     <string name="New_Position">"مركز جديد"</string>
     <string name="ALLIANCES">"الحلفاء"</string>
     <string name="ENEMIES">"الأعداء"</string>
@@ -947,14 +947,14 @@
     <string name="Years">سنوات</string>
     <string name="Friend_Added_">تم إضافة صديق!</string>
     <string name="_in_a_16x_Split_Game">في لعبة الإنقسام على 16</string>
-    <string name="Rules">قوانين اللعبة</string>
+    <string name="Rules">قوانين</string>
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
 اللعبة\n
 \n
 1. لا تقم بمشاركة او تبادل الحسابات مع أي شخص، سيتسبب ذلك بحظر حسابي كِلا اللاعبيْن بشكل دائم.\n
-2. لا تقم بطلب حساب من أي شخص، سيتسبب ذلك بحضر حسابك بشكل دائم\n
-3. لا تقم بالتظاهر أنك مُدير او يوتيوبر، سيتسبب ذلك بحضر حسابك بشكل دائم\n
-4. لا تقم بالغش للوصول إلى مراتب عالية في حروب العشيرة او التحديات، سيتسبب ذلك بإعادة نقاط و إنجازات حسابك من الصفر و قد تصل الأمور حتى حضر حسابك بشكل دائم\n
+2. لا تقم بطلب حساب من أي شخص، سيتسبب ذلك بحظر حسابك بشكل دائم\n
+3. لا تقم بالتظاهر أنك مُدير او يوتيوبر، سيتسبب ذلك بحظر حسابك بشكل دائم\n
+4. لا تقم بالغش للوصول إلى مراتب عالية في حروب العشيرة او التحديات، سيتسبب ذلك بإعادة نقاط و إنجازات حسابك من الصفر و قد تصل الأمور حتى بحظر حسابك بشكل دائم\n
 5. لا تسأل عن مرتبة القائد داخل العشائر\n
 6. لا تقم بمضايقة او إهانة أي أحد\n
 7. لا تقم بإنشاء ردهات دردشة بأسماء غير لائِقة\n
@@ -1037,7 +1037,7 @@
     <string name="You_can_purchase_this_eject_skin_for">تستطيع شراء صورة الإطلاق هذه بمقابل</string>
     <string name="Skin">جِلد</string>
     <string name="Custom_Skin">الصورة المُخصصة.</string>
-    <string name="Color">لوْنَ الدائرة.</string>
+    <string name="Color">لوْنَا.</string>
     <string name="RECENT_PLAYERS">تم زيارتها مؤخراً</string>
     <string name="POSITION_CONTROL_STICK">"ضع عصا التحكم في المكان المراد"</string>
     <string name="POSITION_SPLIT_BUTTON">ضع زر التقسيم في المكان المراد</string>
@@ -1086,7 +1086,7 @@
     <string name="Dot_Deity">آله النقاط</string>
     <string name="Mass_Mastery">السيطرة على الكتلة</string>
     <string name="Gain_100_000_000_mass">كسب 100,000,000 من الكتلة</string>
-    <string name="VET">سَـنـة</string>
+    <string name="VET">طبيب بيطري</string>
     <string name="Mute">كتم</string>
     <string name="Unmute">إلغاء الكتم</string>
     <string name="Community">المجتمع</string>
