@@ -611,7 +611,7 @@
     <string name="You_must_be_signed_in_to_Google_">"Debes iniciar sesión en Google "</string>
 
 
-    <string name="MAYHEM">"MAYHEM"</string>
+    <string name="MAYHEM">"CAOS"</string>
     <string name="eggs_">"huevos "</string>
     <string name="Egg_Collector">"Coleccionista de Huevos"</string>
     <string name="Egg_Hoarder">"Acaparador de Huevos"</string>
@@ -625,7 +625,7 @@
 
     <string name="Love_Nebulous_">"Amor Nebuloso "</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoya a Nebulous dándole una calificación "</string>
-    <string name="MAYHEM_MODE">"MAYHEM"</string>
+    <string name="MAYHEM_MODE">"MODO CAOS"</string>
     <string name="Times_Teleported_">"Veces teletransportado:"</string>
     <string name="Powerups_Used_">"Poderes usados:"</string>
     <string name="Power_Hungry">"Hambre de poder"</string>
