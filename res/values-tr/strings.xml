@@ -293,8 +293,8 @@
     <string name="No_such_clan_exists_">"Böyle bir klan bulunmamaktadır."</string>
     <string name="That_clan_is_full_">"Bu Klan Dolu."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Diğer kullanıcı senin klanının bir üyesi değil."</string>
-    <string name="_You_can_t_be_your_own_friend_">"Kendin ile arkadaş olamazsın."</string>
-    <string name="A_clan_with_that_name_already_exists_">"Bu isimde zaten bir klan bulunmaktadır."</string>
+    <string name="_You_can_t_be_your_own_friend_">"Kendiniz ile arkadaş olamazsınız."</string>
+    <string name="A_clan_with_that_name_already_exists_">"Bu isimde bir klan zaten mevcut."</string>
     <string name="Duration_">"Süre:"</string>
 
     <string name="FFA_Time_Domination">"Herkes Tek (Süreli) Hakimiyet"</string>
@@ -412,10 +412,10 @@
 
     <string name="Purchase_History">"Satın Alma Geçmişi"</string>
 
-    <string name="Purchases_Unavailable_">"Üzgünüz, Satın Alımlar şu anda mevcut değildir!"</string>
+    <string name="Purchases_Unavailable_">"Üzgünüz, Satın Alma işlemleri şu anda mevcut değildir!"</string>
     <string name="You_can_purchase_this_skin_for">"Bu avatarı şu ücret karşılığında satın alabilirsiniz:"</string>
     <string name="PURCHASE">"Satın Al"</string>
-    <string name="Error_in_backup_data_">"Yedekleme verisinde hata meydana gelmiştir!"</string>
+    <string name="Error_in_backup_data_">"Yedekleme verisinde hata meydana geldi!"</string>
 
 
     <string name="Remove_Ads">"Reklamları Kaldır"</string>
