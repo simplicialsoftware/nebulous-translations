@@ -123,7 +123,7 @@
     <string name="Unknown">"Desconhecido"</string>
     <string name="Offline">"Offline"</string>
     <string name="Achievement_Earned">"Conquista Desbloqueada"</string>
-    <string name="REFRESH">"ATUALIZAR"</string>
+    <string name="REFRESH">"ACTUALIZAR"</string>
     <string name="DONE">"FEITO"</string>
     <string name="Friend_Request_Sent">"Pedido de Amizade enviado…"</string>
     <string name="ERROR">"ERRO"</string>
@@ -466,7 +466,7 @@
     <string name="Collect_10_000_Plasma_">"Colete 10.000 Plasmas."</string>
     <string name="Collect_100_000_Plasma">"Colete 100.000 Plasmas."</string>
     <string name="Plasma_Collected_">"Plasmas Coletados:"</string>
-    <string name="Plasma_Purchases">"Compras de Plasma"</string>
+    <string name="Plasma_Purchases">"Compras de Plasma."</string>
 
     <string name="ENTER">"ENTRAR"</string>
     <string name="_1v1">"1v1"</string>
