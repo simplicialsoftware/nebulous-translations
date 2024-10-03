@@ -271,7 +271,7 @@
 
     <string name="CREATE_CLAN">"CREAR CLAN"</string>
     <string name="MEMBER">"MIEMBRO"</string>
-    <string name="ADMIN">"ADMINISTRADOR"</string>
+    <string name="ADMIN">"ADMIN"</string>
     <string name="LEADER">"LÍDER"</string>
     <string name="ELDER">"VETERANO"</string>
 
@@ -726,9 +726,9 @@
     <string name="Refunded">"Reembolsada"</string>
 
 
-    <string name="contribution_warning">"¿Estás seguro de que quieres donar este plasma?, Las donaciones no serán devueltas."</string>
+    <string name="contribution_warning">"¿Estás seguro de que quieres donar este plasma? Las donaciones no serán devueltas."</string>
     <string name="Upload">"Subir"</string>
-    <string name="upload_warning">"¿Estás seguro de que deseas subir esta skin?, Otros jugadores serán capaces de verla. Puede demorarse hasta 1 semana en ser revisada. Las skins inapropiadas serán rechazadas y el plasma no será devuelto."</string>
+    <string name="upload_warning">"¿Estás seguro de que deseas subir esta skin? Otros jugadores serán capaces de verla. Puede demorarse hasta 1 semana en ser revisada. Las skins inapropiadas serán rechazadas y el plasma no será devuelto."</string>
 
     <string name="In_Review">"En revisión"</string>
     <string name="Account_Uploads">"Skins de la Cuenta"</string>
