@@ -74,7 +74,7 @@
     <string name="OK">"OK"</string>
     <string name="CANCEL">"CANCELAR"</string>
     <string name="Chat_Name">"Nome do Chat"</string>
-    <string name="Max_People">"Máx. de Pessoas"</string>
+    <string name="Max_People">"Máx. de Pessoas."</string>
     <string name="START">"COMEÇAR"</string>
     <string name="CREATE">"CRIAR"</string>
     <string name="CUSTOM_GAMES">"JOGOS PERSONALIZADOS"</string>
@@ -186,14 +186,14 @@
     <string name="Revenge">"Vingança"</string>
     <string name="Doge_Pound">"Libra dos Doges"</string>
 
-    <string name="Absorb_50_dots">"Absorva 50 pontos"</string>
-    <string name="Absorb_300_dots">"Absorva 300 pontos"</string>
-    <string name="Absorb_1_000_dots">"Absorva 1.000 pontos"</string>
-    <string name="Absorb_5_000_dots">"Absorva 5.000 pontos"</string>
-    <string name="Absorb_10_000_dots">"Absorva 10.000 pontos"</string>
-    <string name="Absorb_50_000_dots">"Absorva 50.000 pontos"</string>
-    <string name="Absorb_100_000_dots">"Absorva 100.000 pontos"</string>
-    <string name="Absorb_1_000_000_dots">"Absorva 1.000.000 pontos"</string>
+    <string name="Absorb_50_dots">"Absorva 50.0 pontos"</string>
+    <string name="Absorb_300_dots">"Absorva 300.0 pontos"</string>
+    <string name="Absorb_1_000_dots">"Absorva 1.000.0 pontos"</string>
+    <string name="Absorb_5_000_dots">"Absorva 5.000.0 pontos"</string>
+    <string name="Absorb_10_000_dots">"Absorva 10.000.0 pontos"</string>
+    <string name="Absorb_50_000_dots">"Absorva 50.000.0 pontos"</string>
+    <string name="Absorb_100_000_dots">"Absorva 100.000.0 pontos"</string>
+    <string name="Absorb_1_000_000_dots">"Absorva 1.000.000.0 pontos"</string>
 
     <string name="Absorb_4_blobs_quickly">"Absorva 4 blobs rapidamente"</string>
     <string name="Absorb_8_blobs_quickly">"Absorva 8 blobs rapidamente"</string>
