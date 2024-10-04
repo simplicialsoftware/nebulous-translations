@@ -992,7 +992,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="Name_Opacity_">Opacidad del Nombre:</string>
     <string name="SET_PROFILE_PIC">ESTABLECER FOTO DE PERFIL</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">¡ACEPTAR TODAS LAS SOLICITUDES DE AMIGOS!</string>
-    <string name="App_Perf_Stats">Estadísticas de Rendimiento App</string>
+    <string name="App_Perf_Stats">Estadísticas de Rendimiento de la App</string>
     <string name="COPY">COPIAR</string>
     <string name="_1v1_Ultra"> 1vs1 Ultra</string>
     <string name="ArenaDescriptionUltra">El ganador recibirá %s plasma. Si haces trampa para conseguir "puntos gratis", serás baneado.</string>
