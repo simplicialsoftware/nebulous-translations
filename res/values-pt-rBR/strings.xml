@@ -239,7 +239,7 @@
     <string name="Average_Score_">"Pontuação Média:"</string>
     <string name="Times_Played_">"Vezes Jogado:"</string>
     <string name="Longest_Life_">"Vida mais longa:"</string>
-    <string name="Games_Won_">"Jogos Ganhos:"</string>
+    <string name="Games_Won_">"Total De jogos Vencidos:"</string>
 
     <string name="You_must_wait_until_the_end_of_the_round_">"Você deve esperar até o final da rodada."</string>
     <string name="Dont_show_again">"Não mostrar novamente"</string>
