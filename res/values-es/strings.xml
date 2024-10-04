@@ -922,10 +922,10 @@
     <string name="Invitation_accepted_">"¡Invitación aceptada!"</string>
     <string name="Invitation_expired_">"¡La invitación ha caducado!"</string>
     <string name="Wait_for_the_current_invitation_to_expire_">"Esperando que la invitación actual caduque."</string>
-    <string name="BLOB_COLOR">"COLOR BLOB"</string>
+    <string name="BLOB_COLOR">"COLOR DEL BLOB"</string>
     <string name="ENABLED">"ACTIVADO"</string>
     <string name="Enable_Custom_Blob_Color">"Activar Color Personalizado de Blob"</string>
-    <string name="Choose_Menu">"Elije el menú"</string>
+    <string name="Choose_Menu">"Elige el menú"</string>
     <string name="SPECTATE">"ESPECTAR"</string>
     <string name="INVITE">INVITAR</string>
     <string name="error_1">Sólo el LÍDER o el COLÍDER pueden enviar un correo.</string>
@@ -981,7 +981,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="Halos">Halos</string>
     <string name="CAMPAIGN">CAMPAÑA</string>
     <string name="Mission">Misión</string>
-    <string name="Kill_All_Bots">MATA TODOS LOS BOTS</string>
+    <string name="Kill_All_Bots">MATA A TODOS LOS BOTS</string>
     <string name="Survive">Sobrevive</string>
     <string name="Mission_d_Complete">¡Misión %d Completa!</string>
     <string name="Mission_d_Failed">¡Misión %d Fallida!</string>
@@ -992,7 +992,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="Name_Opacity_">Opacidad del Nombre:</string>
     <string name="SET_PROFILE_PIC">ESTABLECER FOTO DE PERFIL</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">¡ACEPTAR TODAS LAS SOLICITUDES DE AMIGOS!</string>
-    <string name="App_Perf_Stats">Estadísticas Rendimiento App</string>
+    <string name="App_Perf_Stats">Estadísticas de Rendimiento App</string>
     <string name="COPY">COPIAR</string>
     <string name="_1v1_Ultra"> 1vs1 Ultra</string>
     <string name="ArenaDescriptionUltra">El ganador recibirá %s plasma. Si haces trampa para conseguir "puntos gratis", serás baneado.</string>
@@ -1128,7 +1128,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Sé empujado por un hechizo de gancho durante 10 segundos </string>
     <string name="Pack">Pack</string>
     <string name="Skin_Pack">Pack de Skins</string>
-    <string name="SKIN_PACK">PACK DE SKIN</string>
+    <string name="SKIN_PACK">PACK DE SKINS</string>
     <string name="HALLOWEEN">HALLOWEEN</string>
     <string name="pack_info">Después de comprar este pack de skins, sus máscaras exclusivas aparecerán en la parte superior de los menús de selección de skins.</string>
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">¡Skins, Mascotas, Sombreros y Más EXCLUSIVAS!</string>
