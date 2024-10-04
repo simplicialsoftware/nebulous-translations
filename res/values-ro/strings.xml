@@ -1135,7 +1135,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
 
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skin-uri, Pet-uri, Pălării EXCLUSIVE și Mai Mult!</string>
     <string name="BUY_NOW_">CUMPĂRĂ ACUM!</string>
-    <string name="already_purchased">You or the person you are buying this for already own this.</string>
+    <string name="already_purchased">Tu sau persoana pe care cumpărați acest lucru o are deja.</string>
     <string name="Halo_Animations">Animațiile Haloului</string>
     <string name="Trick_Notifications">Notificările Trick-ului</string>
     <string name="Channel">Canal</string>
@@ -1143,8 +1143,8 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="LEVEL_COLOR">CULOAREA NIVELULUI</string>
     <string name="level_color_instructions" translatable="true">Selectează culoarea nivelului tau.</string>
     <string name="INITIATE">INITIATE</string>
-    <string name="x3_Clan_XP_Perm">3x Clan XP Permanent!</string>
-    <string name="x2_Clan_XP_Perm">2x Clan XP Permanent!</string>
+    <string name="x3_Clan_XP_Perm">3x XP de Clan Permanent!</string>
+    <string name="x2_Clan_XP_Perm">2x XP de Clan Permanent!</string>
     <string name="Japan">Japonia</string>
     <string name="South_Korea">Coreea de Sud</string>
     <string name="Asia">Asia</string>
@@ -1209,7 +1209,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="shared_pack_purch_description" translatable="true">Acest este un pachet specială, apoi tu și prietenul tău veți primi pachetul!</string>
     <string name="Giveaways_">Extrageri!</string>
     <string name="Max_XP_Chain_">Max XP Chain:</string>
-    <string name="POSITION_CANCEL_BUTTON">POSITION CANCEL BUTTON</string>
+    <string name="POSITION_CANCEL_BUTTON">POZIȚIE BUTONUL ANULEAZĂ</string>
     <string name="INVISIBILITY">INVIZIBILITATE</string>
     <string name="Set_Skin">Setează Skin</string>
     <string name="Primary">Primar</string>
@@ -1251,10 +1251,10 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Max_Tilt_Angle_3D_">Max Tilt Angle 3D:</string>
     <string name="Mode_3D">Mod 3D</string>
     <string name="Names_Below_Blobs">Names Below Blobs</string>
-    <string name="Name_Scale_">"Scala de nume:"</string>
+    <string name="Name_Scale_">"Scală de nume:"</string>
     <string name="poor_connection_quality_warning" translatable="true">Dispozitivul tău are o conexiune rău cu serverul. Acest lucru poate provoca lag. Te rog verifică Wi-Fi-ul tău sau date mobile, sau încercă o conexiune diferită de Internet. De asemenea asigurați-vă că jucați în serverul mai aproape de tine.</string>
     <string name="Button_3D">Buton 3D</string>
-    <string name="Hide_Button_">Ocultă Buton?</string>
+    <string name="Hide_Button_">Ocultă Butonul?</string>
     <string name="Show_Boost_Button">Arată Butonul Boost-ului</string>
     <string name="Spectate_Killer_On_Death">Spectate Killer On Death</string>
     <string name="Rainbow_Holes">Gaurile Curcubeului</string>
@@ -1290,7 +1290,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Efectua 10.000 trick-uri într-un joc de Mod Trick.</string>
     <string name="Tricky">Tricky</string>
     <string name="SUPPORTER">VIP</string>
-    <string name="CONQUEROR">CONQUEROR</string>
+    <string name="CONQUEROR">ÎNVINGĂTOR</string>
     <string name="TRICKY">TRICKY</string>
     <string name="x4_XP_Permanent">4x XP Permanent</string>
     <string name="x4_XP_24_hours">4x XP 24 de Ore</string>
@@ -1302,13 +1302,13 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="x4_Clan_XP_Perm">4x XP Clan Permanent!</string>
     <string name="x4_Clan_XP_7_days">4x XP Clan 7 Zile</string>
     <string name="x4_Clan_XP_1_Day">4x XP Clan 1 Zi</string>
-    <string name="CHARGE_UP">CHARGE UP</string>
+    <string name="CHARGE_UP">ÎNCĂRCA</string>
     <string name="CLAN_DESCRIPTION_COLOR">CULOAREA DESCRIERII CLANULUI</string>
     <string name="Responsible_Pet_Owner">Responsible Pet Owner</string>
     <string name="Animal_Tamer">Animal Tamer</string>
     <string name="Crocodile_Hunter">Crocodile Hunter</string>
     <string name="Get_A_Pet_To_Level_X_">Ridică un pet la nivel %d.</string>
-    <string name="plasma_boost_info">"Câștigați de trei ori plasmă la toate surse ÎN JOC în timp boost-ul este activ! This includes arena  and tournament winnings! Does NOT work on plasma purchases, spins, or special rewards."</string>
+    <string name="plasma_boost_info">"Câștigați de trei ori plasmă la toate sursele ÎN JOC în timp boost-ul este activ! Acest lucru include câștiguri de arene și turneuri! NU funcționează în cumpărături de plasmă, rotații sau recompense speciale."</string>
     <string name="Plasma_Boost_7_Days_">Boost de Plasmă 7 Zile!!!</string>
     <string name="Plasma_Boost_1_Day_">Boost de Plasmă 1 Zi!</string>
     <string name="Plasma_Boost_2_Hours_">Boost de Plasmă 2 de Ore.</string>
@@ -1323,18 +1323,18 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
 
         Dacă trimiți un skin care nu a fost aprobat de mai multe ori, va duce la mai multe penalități sau un ban."
     </string>
-    <string name="particle_info">You must be at least level 50 and use a base skin with particles in order to see any particles.</string>
+    <string name="particle_info">Trebuie să ești cel puțin nivelul 50 și utilizați un skin de bază cu particule pentru a vedea particulele.</string>
     <string name="Plain_Score_Text">"Plain Score Text"</string>
     <string name="Custom_Skin_Reviewed_Notification">Skin-ul tău personalizat a fost revizat!</string>
     <string name="You_Have_Mail_">Aveți un mesaj de %s!</string>
     <string name="Clan_Request_Reviewed_Notification">Solicitarea ta a intra în clan %s a fost revizată!</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
-    <string name="Sold_Community_Skins_">"Sold Community Skins: "</string>
-    <string name="Estimated_Earnings_">"Estimated Earnings: "</string>
+    <string name="Sold_Community_Skins_">"Skin-urile Comunității Vândute: "</string>
+    <string name="Estimated_Earnings_">"Câștiguri estimate: "</string>
     <string name="South_Africa">Africa de Sud</string>
     <string name="SPLIT_">SPLIT:</string>
     <string name="WALLS">WALLS</string>
-    <string name="COMP_BANNED">COMP BANNED</string>
+    <string name="COMP_BANNED">BANAT DE COMPETIȚIE</string>
     <string name="FIND_GAMES">CAUTA JOCURI</string>
     <string name="PLAY_SOLO">JUCA SOLO</string>
     <string name="SET_EMOTE">SETEAZĂ EMOTE</string>
@@ -1343,7 +1343,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Battle_">Battle!</string>
     <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
     <string name="Battle_Royale">Battle Royale</string>
-    <string name="The_winner_will_receive_x_plasma_">The winner will receive %s plasma!</string>
+    <string name="The_winner_will_receive_x_plasma_">Câștigator va primi %s plasmă!</string>
     <string name="admin_commands">"
 Comenzi:
 !kick [0–31]
@@ -1370,7 +1370,7 @@ Comenzi:
     <string name="Defenders">Apărători</string>
     <string name="Attackers">Atacatori</string>
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
-    <string name="Missing_Permissions">Missing Permissions</string>
+    <string name="Missing_Permissions">Permisiunile Lipsă</string>
     <string name="DELETE_ACCOUNT">ȘTERGE CONT</string>
     <string name="delete_prompt">Sunteți sigur că doriți a șterge contul tău? Acest lucru este PERMANENT și NU SE POATE ANULA!</string>
 
