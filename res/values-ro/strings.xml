@@ -832,7 +832,7 @@
     <string name="Tournament_Matches_Won_">"Meciuri Câștigate în Turnee:"</string>
     <string name="PAINT">"VOPSEA"</string>
     <string name="BLOCKED_ACCOUNTS">"CONTURI BLOCATE"</string>
-    <string name="UNBLOCK">"DEBLOCA"</string>
+    <string name="UNBLOCK">"DEBLOCĂ"</string>
     <string name="Emotes">"Emoții"</string>
     <string name="Support">"Susține"</string>
     <string name="Already_Blocked">"Deja Blocat"</string>
@@ -871,7 +871,7 @@
     <string name="Speed_Click_Toggle">"Comută Viteză de Click"</string>
     <string name="MOD">"MOD"</string>
     <string name="FAQ">ÎNTREBĂRI FRECVENTE</string>
-    <string name="BUY_EXTRA_SPINS">CUMPĂRA ROTAȚII EXTRA</string>
+    <string name="BUY_EXTRA_SPINS">CUMPĂRĂ ROTAȚII EXTRA</string>
     <string name="Spins_Remaining">Rotații Rămase</string>
     <string name="One_Spin">O Rotație (1)</string>
     <string name="Bundle_of_Spins">Pachet de Rotații (10)</string>
@@ -921,7 +921,7 @@
     <string name="__has_invited_you_to_join_their_game_">%s te-a invitat să te alături jocului său!</string>
     <string name="Invitation_declined_">Invitație refuzată!</string>
     <string name="Invitation_accepted_">Invitație acceptată!</string>
-    <string name="Invitation_expired_">Invitație a expirat!</string>
+    <string name="Invitation_expired_">Invitație expirată!</string>
     <string name="Wait_for_the_current_invitation_to_expire_">Aşteaptă ca invitația curentă să expire.</string>
     <string name="BLOB_COLOR">CULOARE BLOB</string>
     <string name="ENABLED">ACTIVAT</string>
@@ -1113,11 +1113,11 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Rename">Redenumiți</string>
     <string name="Set_friendly_name_">Setează un nume prietenos.</string>
     <string name="Leave_blank_for_none_">Lașă în blanco pentru niciun nume (standard).</string>
-    <string name="Vote_Kick">Expulza Jucător</string>
+    <string name="Vote_Kick">Expulză Jucător</string>
     <string name="FONT">FONT</string>
     <string name="CIRCLE">CERC</string>
     <string name="SQUARES">PĂTRATE</string>
-    <string name="TRICK_MODE">TRICK MODE</string>
+    <string name="TRICK_MODE">MOD TRICK</string>
     <string name="ICE_SPLIT">ICE SPLIT</string>
     <string name="TRICK_SPLIT">TRICK SPLIT</string>
     <string name="POP_SPLIT">POP SPLIT</string>
@@ -1215,9 +1215,9 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Primary">Primar</string>
     <string name="Secondary">Secundar</string>
     <string name="Both">Amândouă</string>
-    <string name="multiskin_period_description" translatable="true">Specifică perioada de schimbarea multiskin-ul în secunde (0-10). 0 dezactivă multiskin-ul.</string>
+    <string name="multiskin_period_description" translatable="true">Specifică perioada de schimbarea multiskin-ului în secunde (0-10). 0 dezactivă multiskin-ul.</string>
     <string name="Enable__Multiskin">"Permite\nMultiskin"</string>
-    <string name="multiskin_description" translatable="true">Cu multiskin-ul, poți utiliza doi skin-uri care se alternează. Alegeți cât de repede skin-urile schimbă. Când ajungeți nivel 1.000, acest element este gratuit. Dacă cumpărați multiskin înainte nivel 1.000, primiți plasmă înapoi când ajungeți la el.</string>
+    <string name="multiskin_description" translatable="true">Cu multiskin-ul, poți utiliza doi skin-uri care se alternează. Alegeți cât de repede skin-urile schimbă. Când ajungeți nivelul 1.000, acest element este gratuit. Dacă cumpărați multiskin înainte nivelul 1.000, primiți plasmă înapoi când ajungeți la el.</string>
     <string name="MULTISKIN">MULTISKIN</string>
     <string name="DISABLED">DEZACTIVAT</string>
 
@@ -1239,18 +1239,18 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Video_failed_to_load_">Încărcarea video-ului a eșuat!</string>
     <string name="Video_Ready_">Video Gata!</string>
     <string name="GIVE_PLASMA">TRIMITE PLASMĂ</string>
-    <string name="Specify_amount_">Specifică cantitate:</string>
-    <string name="Specify_amount_again_to_confirm_">Specifică cantitate di nou a confirma:</string>
+    <string name="Specify_amount_">Specifică cantitatea:</string>
+    <string name="Specify_amount_again_to_confirm_">Specifică cantitatea di nou a confirma:</string>
     <string name="Amounts_did_not_match_">Cantitații nu se corespund!</string>
     <string name="RECEIVE_PLASMA">PRIMITE PLASMA</string>
     <string name="MULTIBLOB">MULTIBLOB</string>
     <string name="Play_Nebulous_For_1_Year_">Juca Nebulous pentru 1 an!</string>
     <string name="Play_Nebulous_For_X_Years_">Juca Nebulous pentru %d de ani!</string>
-    <string name="Starting___">Starting…</string>
-    <string name="Tournament_Starting">Tournament Starting</string>
-    <string name="Max_Tilt_Angle_3D_">Max Tilt Angle 3D:</string>
+    <string name="Starting___">Pornind…</string>
+    <string name="Tournament_Starting">Pornind Turneul</string>
+    <string name="Max_Tilt_Angle_3D_">Unghi Maxim de Înclinare în 3D:</string>
     <string name="Mode_3D">Mod 3D</string>
-    <string name="Names_Below_Blobs">Names Below Blobs</string>
+    <string name="Names_Below_Blobs">Nume Jos de Blob-urile</string>
     <string name="Name_Scale_">"Scală de nume:"</string>
     <string name="poor_connection_quality_warning" translatable="true">Dispozitivul tău are o conexiune rău cu serverul. Acest lucru poate provoca lag. Te rog verifică Wi-Fi-ul tău sau date mobile, sau încercă o conexiune diferită de Internet. De asemenea asigurați-vă că jucați în serverul mai aproape de tine.</string>
     <string name="Button_3D">Buton 3D</string>
