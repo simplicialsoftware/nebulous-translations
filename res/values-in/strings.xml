@@ -1261,7 +1261,7 @@ Perintah:
         <item>"Kecil"</item>
         <item>"Normal"</item>
         <item>"Besar"</item>
-        <item>"Sangat Besar"</item>
+        <item>"SANGAT BESAR"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
