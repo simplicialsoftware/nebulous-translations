@@ -535,8 +535,8 @@
     <string name="Win_a_Domination_Game">"Câștiga un joc de Dominație"</string>
     <string name="Select_Team">"Alege Echipă"</string>
     <string name="MANAGE_TEAMS">"ADMINISTREAZĂ ECHIPE"</string>
-    <string name="CLAN_INVITE">"INVITĂ ÎN CLAN"</string>
-    <string name="TEAM_INVITE">"INVITĂ ÎN ECHIPĂ"</string>
+    <string name="CLAN_INVITE">"INVITĂ PENTRU CLANUL"</string>
+    <string name="TEAM_INVITE">"INVITĂ PENTRU ECHIPA"</string>
     <string name="Team_Size">"Mărimea Echipei"</string>
     <string name="Team_Name">"Numele Echipei"</string>
     <string name="CREATE_TEAM">"CREAZĂ ECHIPĂ"</string>
@@ -545,8 +545,8 @@
     <string name="Team">"Echipă"</string>
     <string name="Specify_Account_ID">"Specifică ID-ul Contului"</string>
     <string name="Team_Created_">"Echipa a fost creată!"</string>
-    <string name="Team_Arena">"Team Arena"</string>
-    <string name="No_Teams">"Nicio Echipă"</string>
+    <string name="Team_Arena">"Arena în Echipă"</string>
+    <string name="No_Teams">"Nicio Echipe"</string>
     <string name="team_arena_info">"După ce creați o echipă puteți invita și elimina membrii gratuit. De asemenea este gratis să jucați meciuri de Team Arena"</string>
 
 
@@ -587,7 +587,7 @@
     <string name="Collect_1_000_beads_">"Colectează 1.000 de mărgele."</string>
     <string name="Collect_5_000_beads_">"Colectează 5.000 de mărgele."</string>
     <string name="Collect_10_000_beads_">"Colectează 10.000 de mărgele."</string>
-    <string name="Bead_Collector">"Strângător de Mărgele"</string>
+    <string name="Bead_Collector">"Colectorul Mărgelelor"</string>
     <string name="Bead_Hoarder">"Acaparatorul Mărgelelor"</string>
     <string name="Bead_Mogul">"Mogulul Mărgelelor"</string>
     <string name="beads_">"mărgele."</string>
@@ -595,7 +595,7 @@
     <string name="Rejoin_Game">"Reintră în joc"</string>
     <string name="PRIZES">"PREMII"</string>
 
-    <string name="Enable_Custom_Skin">"Activează Skin-ul Personalizat"</string>
+    <string name="Enable_Custom_Skin">"Activează Skin Personalizat"</string>
     <string name="Use_Custom_Skin">"Folosește Skin\nPersonalizat"</string>
     <string name="custom_skin_description">"Această caracteristică vă permite să utilizați fotografia de profil sau un fișier ca skin-ul tău. Acest skin îl vei vedea numai TU. Alte persoane NU vor vedea skinul tău personalizat, cu excepția cazului în care încărcați."</string>
     <string name="CUSTOM_SKIN">"SKIN PERSONALIZAT"</string>
@@ -670,8 +670,8 @@
     <string name="nebulas_">"nebuloase."</string>
     <string name="Incompatible_versions_">"Versiuni incompatibile."</string>
     <string name="Update_Available_">"Actualizare disponibilă!"</string>
-    <string name="VIEW_INVITES">"VEZI INVITAȚII"</string>
-    <string name="CLAN_INVITES">"INVITAȚII ÎN CLAN"</string>
+    <string name="VIEW_INVITES">"VEDEA INVITAȚII"</string>
+    <string name="CLAN_INVITES">"INVITAȚII LA CLAN"</string>
     <string name="Cancel_Invitation">"Anulă invitație"</string>
     <string name="DOWNLOAD">"DESCARCĂ"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"RESPINGE TOATE SOLICITĂRILE DE PRIETENIE?"</string>
