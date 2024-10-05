@@ -450,8 +450,8 @@
     <string name="BIGGEST">"CEL MAI MARE"</string>
 
 
-    <string name="Copy_ID">"Copiază ID-UL"</string>
-    <string name="View_Profile">"Vezi Profil"</string>
+    <string name="Copy_ID">"Copiază ID"</string>
+    <string name="View_Profile">"Vedea Profil"</string>
     <string name="Send_Message">"Trimite Mesaj"</string>
     <string name="Account_ID">"ID-ul Contului"</string>
     <string name="Player_Name">"Numele Jucătorului"</string>
@@ -566,7 +566,7 @@
     <string name="Remove_Clan_Member">"Elimină Membrul Clanului"</string>
     <string name="Flag_lobby_as_inappropriate">"Raportează lobby-ul ca fiind nepotrivit"</string>
     <string name="Promote_Clan_Member">"Promovează Membrul Clanului"</string>
-    <string name="Leave_Clan">"Ieşi Din Clan"</string>
+    <string name="Leave_Clan">Parasește Clanul"</string>
     <string name="Candy_Hoarder">"Acaparatorul Bomoboanei"</string>
     <string name="Candy_Collector">"Strângător de Bomboane"</string>
     <string name="Candy_Mogul">"Mogulul Bomboanei"</string>
@@ -671,7 +671,7 @@
     <string name="Incompatible_versions_">"Versiuni incompatibile."</string>
     <string name="Update_Available_">"Actualizare disponibilă!"</string>
     <string name="VIEW_INVITES">"VEDEA INVITAȚII"</string>
-    <string name="CLAN_INVITES">"INVITAȚII LA CLAN"</string>
+    <string name="CLAN_INVITES">"INVITAȚIILE CLANULUI"</string>
     <string name="Cancel_Invitation">"Anulă invitație"</string>
     <string name="DOWNLOAD">"DESCARCĂ"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"RESPINGE TOATE SOLICITĂRILE DE PRIETENIE?"</string>
