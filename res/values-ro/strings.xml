@@ -482,8 +482,8 @@
     <string name="Win_1000_Arenas">"Câștigă 1000 de Arene"</string>
 
 
-    <string name="Already_in_arena_">"Deja în arenă"</string>
-    <string name="Already_in_queue_">"Deja la rând"</string>
+    <string name="Already_in_arena_">"Deja în arenă."</string>
+    <string name="Already_in_queue_">"Deja în coadă."</string>
     <string name="Invalid_Account_ID_">"ID-ul contului este invalid."</string>
 
     <string name="Validating">"Validare"</string>
@@ -546,7 +546,7 @@
     <string name="Specify_Account_ID">"Specifică ID-ul Contului"</string>
     <string name="Team_Created_">"Echipa a fost creată!"</string>
     <string name="Team_Arena">"Arena în Echipă"</string>
-    <string name="No_Teams">"Nicio Echipe"</string>
+    <string name="No_Teams">"Fără Echipe"</string>
     <string name="team_arena_info">"După ce creați o echipă puteți invita și elimina membrii gratuit. De asemenea este gratis să jucați meciuri de Team Arena"</string>
 
 
