@@ -1252,7 +1252,7 @@
     <string name="BATTLE_ROYALE">"КОРОЛІВСЬКА БИТВА"</string>
     <string name="Battle_Royale">"Королівська битва"</string>
     <string name="The_winner_will_receive_x_plasma_">"Переможець отримає %s плазми!"</string>
-    <string name="admin_commands">"
+    <string name="admin_commands">"команди адміністратора"</string>
 Команди:
 !kick [0-31]
 !reset
