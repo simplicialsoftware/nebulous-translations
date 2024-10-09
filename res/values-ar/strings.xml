@@ -77,7 +77,7 @@
     <string name="Max_People">"الحد الأقصى للناس"</string>
     <string name="START">"البداية"</string>
     <string name="CREATE">"إنشاء"</string>
-    <string name="CUSTOM_GAMES">"ألعاب مخصصة"</string>
+عالمية tring name="CUSTOM_GAMES">"ألعاب مخصصة"</string>
     <string name="CHAT">"الدردشة"</string>
     <string name="CUSTOM_SETUP">"إعدادات مخصصة"</string>
     <string name="CHAT_SETUP">"إعدادات الدردشة"</string>
@@ -128,7 +128,7 @@
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
     <string name="CONTINUE">"متابعة"</string>
-    <string name="Global_" formatted="false">"عالميا"</string>
+    <string name="Global_" formatted="false">"علمياَ"</string>
     <string name="FRIEND_CHAT">"دردشة الأصدقاء"</string>
     <string name="LOBBY_NAME">"اسم الردهة"</string>
     <string name="NULL">"لا شيء"</string>
