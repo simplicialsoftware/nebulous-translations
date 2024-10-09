@@ -246,7 +246,7 @@
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"تم العثور على نسخة احتياطية من احصائيات لاعب واحد مع نقاط خبرة اعلى . هل ترغب في استعادة النسخة الاحتياطية؟"</string>
 
     <string name="Special_Effects">"المؤثرات الخاصة"</string>
-    <string name="Blob_Mushiness">"طراء الدائرة"</string>
+    <string name="Blob_Mushiness">"اطار الدائرة"</string>
 
     <string name="Specify_private_game_name">"تحديد اسم اللعبة الخاصة"</string>
     <string name="In_Game_Chat">" الدردشة في اللعبة"</string>
