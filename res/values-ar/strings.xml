@@ -1254,12 +1254,12 @@
     <string name="Champion">بطل</string>
     <string name="Win_10_Tournaments">حقق 10 فوز في البطولة</string>
     <string name="Win_100_Tournaments">حقق 100 فوز في البطولة</string>
-    <string name="HERO">محارب</string>
-    <string name="CHAMPION">بطل</string>
+    <string name="HERO ">محارب</string>
+    <string name="CHAMPION ">بطل</string>
     <string name="DASH">إندفاع</string>
     <string name="setting_changed">تحديث الضبط، قد تحتاج إلى إعادة الأتصال بالخادم حتى يتم تفعيله.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">قم بفِعل 10،000 ترك في طور الحركات.</string>
-    <string name="Tricky">مخادع</string>
+    <string name="Tricky ">مخادع</string>
     <string name="SUPPORTER">مميز</string>
     <string name="CONQUEROR">المنتصر</string>
     <string name="TRICKY">مخادع</string>
