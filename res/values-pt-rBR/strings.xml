@@ -1,4 +1,8 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="Error_Connection">"Conexão não disponível"</string>
+    <string name="Error_Server">"Erro de servidor"</string    <string name="Error_Invalid_Data">"Dados inválidos"</string><string name="Success_Register">"Registro efetuado com sucesso"</string>
+    <string name="Success_Login">"Login efetuado com sucesso"</string>
+    <string name="Warning_No_Connection">"Atenção: conexão não disponível"</string>
     <string name="Players">"Jogadores"</string>
     <string name="Control_">"Controle:"</string>
     <string name="CLOSE">"FECHAR"</string>
