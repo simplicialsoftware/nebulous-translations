@@ -35,7 +35,7 @@
     <string name="_Alias_">" Sobrenome "</string>
     <string name="_Score_">" Pontos "</string>
     <string name="Score__">"Pontos: "</string>
-    <string name="Recombine_">"Recombinar em: "</string>
+    <string name="Recombine_">"Recombinar em : "</string>
     <string name="WINNER_">"VENCEDOR:"</string>
     <string name="IDLE">"INATIVO"</string>
     <string name="Name_Invalid_">"Nome inválido."</string>
