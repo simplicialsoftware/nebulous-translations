@@ -31,10 +31,10 @@
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"A classificação do conteúdo da aplicação pode mudar quando procurares grupos."</string>
 
-    <string name="_Rank_">" Classificação "</string>
-    <string name="_Alias_">" Sobrenome  "</string>
-    <string name="_Score_">" Pontos "</string>
-    <string name="Score__">"Pontos: "</string>
+    <string name="_Rank_">"Classificação"</string>
+    <string name="_Alias_">"Sobrenome"</string>
+    <string name="_Score_">"Pontos"</string>
+    <string name="Score__">"Pontos:"</string>
     <string name="Recombine_">"Recombinar em: "</string>
     <string name="WINNER_">"VENCEDOR:"</string>
     <string name="IDLE">"INATIVO"</string>
@@ -596,7 +596,7 @@
 
     <string name="Enable_Custom_Skin">"Ativar Skin Personalizada"</string>
     <string name="Use_Custom_Skin">"skin\npersonalizada"</string>
-    <string name="custom_skin_description">"Este recurso permite que utilize a tua foto de perfil ou um ficheiro de imagem como skin. Isto só vai mudar a skin vista POR SI. As outras pessoas NÃO conseguirão ver a tua skin personalizada."</string>
+    <string name="custom_skin_description">"Este recurso permite utilizar a sua foto de perfil ou um ficheiro de imagem como skin, mas isso apenas mudará a skin visível para você. As outras pessoas NÃO conseguirão ver sua skin personalizada."</string>
     <string name="CUSTOM_SKIN">"SKIN PERSONALIZADA"</string>
 
     <string name="Facebook_Profile">"Perfil do Facebook"</string>
@@ -788,15 +788,15 @@
     <string name="Clan_Hero">"Herói do Clã"</string>
     <string name="Win_1000_Clan_Wars">"Vencer 1 000 Guerras de Clãs"</string>
     <string name="NAME_COLOR">"COR DO NOME"</string>
-    <string name="name_color_instructions">"Seleciona os caracteres que pretendes alterar. Em seguida, clica na cor pretendida."</string>
-    <string name="Cannot_change_this_character_">"Não é possível alterar este caracter"</string>
+    <string name="name_color_instructions">"Seleciona os caracteres que pretendes alterar. Em seguida, clica na cor pretendida"</string>
+    <string name="Cannot_change_this_character_">"Não é possível alterar este caracter."</string>
     <string name="ZOMBIE_APOCALYPSE">"APOCALIPSE ZUMBI"</string>
     <string name="Survive_a_Zombie_Apocalypse">"Sobreviver a um Apocalipse Zumbi!"</string>
     <string name="ZA">"AZ"</string>
     <string name="Pandemic">"Pandemia"</string>
     <string name="Immunity">"Imunidade"</string>
-    <string name="Win_as_zombies_in_2_minutes_or_less_">"Vencer como Zumbi em 2 minutos ou menos"</string>
-    <string name="Win_as_survivors_with_no_losses_">"Vencer como Sobrevivente sem perdas"</string>
+    <string name="Win_as_zombies_in_2_minutes_or_less_">"Vencer como Zumbi em 2 minutos ou menos."</string>
+    <string name="Win_as_survivors_with_no_losses_">"Vencer como Sobrevivente sem perdas."</string>
     <string name="ZOMBIE_">"ZUMBI!"</string>
     <string name="SURVIVOR_">"SOBREVIVENTE!"</string>
     <string name="Zombies">"Zumbis"</string>
@@ -827,7 +827,7 @@
     <string name="Tournaments_Temporarily_Disabled">"Torneios temporariamente desativado"</string>
     <string name="CLAN_NAME_COLOR">"Cor do nome do Clã"</string>
     <string name="Tuber">"Tuber"</string>
-    <string name="youtube_prompt">"Gostaria de visitar este canal de Nebulous no Youtube? Estes canais não estão relacionados com os criadores do jogo!"</string>
+    <string name="youtube_prompt">"Gostaria de visitar este canal de Nebulous no YouTube? Estes canais não estão relacionados aos criadores do jogo!"</string>
     <string name="Tournament_Matches_Won_">"Torneios vencidos:"</string>
     <string name="PAINT">"PINTURA"</string>
     <string name="BLOCKED_ACCOUNTS">"CONTAS BLOQUEADAS"</string>
@@ -840,8 +840,8 @@
     <string name="Win_a_Paint_Game">"Vencer um jogo de pintura"</string>
     <string name="Whiteout">"Branqueamento"</string>
     <string name="Speed_Painter">"Pintor Rápido"</string>
-    <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"Vencer um jogo de pintura com todos os adversários com 0 no placar"</string>
-    <string name="Win_a_Paint_game_in_60_seconds_or_less_">"Vencer um jogo de pintura em 60 segundos ou menos"</string>
+    <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"Vencer um jogo de pintura com todos os adversários com 0 no placar."</string>
+    <string name="Win_a_Paint_game_in_60_seconds_or_less_">"Vencer um jogo de pintura em 60 segundos ou menos."</string>
     <string name="Autoclick">"AutoClick"</string>
     <string name="Autoclick_24_Hours">"AutoClick para 24 Horas"</string>
     <string name="Autoclick_1_Hour">"AutoClick para 1 Hora"</string>
@@ -928,7 +928,7 @@
     <string name="Choose_Menu">Escolher Menu</string>
     <string name="SPECTATE">ESPECTAR</string>
     <string name="INVITE">CONVIDAR</string>
-    <string name="error_1">Apenas o líder ou o vice-líder pode enviar e-mail do clã.</string>
+    <string name="error_1">Apenas o líder ou o vice-líder podem enviar e-mails do clã.</string>
     <string name="Hat">Boné</string>
     <string name="Hats">Bonés</string>
     <string name="Pet_Uploads">Envios de Animais</string>
@@ -1027,7 +1027,7 @@
     <string name="Allow_Ultraclick">Permitir Ultra-Click</string>
     <string name="Allow_Mass_Boost">Permitir Impulso de Massa</string>
     <string name="Challenges_Won_">Desafios Vencidos:</string>
-    <string name="trophy_info">Os troféus são garantidos ao final de cada temporada de arena ou arena em equipas por 1º, 2º e 3º lugares. Os troféus são garantidos somente em regiões ativas com muitos jogadores.</string>
+    <string name="trophy_info">Os troféus são garantidos ao final de cada temporada de arena, seja individual ou em equipas, para os 1º, 2º e 3º lugares. Os troféus são concedidos apenas em regiões ativas com muitos jogadores."</string>
     <string name="BLOCKED">BLOQUEADO</string>
     <string name="CLAN_WAR_HISTORY">HISTÓRICO DE GUERRA DE CLÃ</string>
     <string name="Particle">Partícula</string>
@@ -1091,7 +1091,7 @@
     <string name="Level_Colors">Cores do Nível</string>
     <string name="click_info">Autoclick ou Ultraclick não funcionam no FFA Clássico!</string>
     <string name="Hooked">Enganchado</string>
-    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Ser puxado pela mágica do gancho por 10 segundos</string>
+    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Ser puxado pela mágica do gancho por 10 segundos.</string>
     <string name="Pack">Pacote</string>
     <string name="Skin_Pack">Pacote de Skin</string>
     <string name="SKIN_PACK">PACOTE DE SKIN</string>
@@ -1276,22 +1276,22 @@
     <string name="The_winner_will_receive_x_plasma_">O ganhador receberá %s plasma!</string>
     <string name="admin_commands">"
 Comandos:
-!kick [0–31]
-!reset
-!welcome {mensagem}
+!kick [0–31] - Expulsar jogador 
+!reset - Reiniciar a partida 
+!welcome {Mensagem de boas vindas}
 !difficulty [0-3] ou [1-4] para Campanha
 !hidden
-!guests
-!slowchat
-!pausechat
-!mute {id}
-!admin {id}
-!allow {id}
-!allow reset
+!guests - Alterna sala oculta 
+!slowchat - Alterna chat lento
+!pausechat - Pausar chat
+!mute {id} - Silenciar um jogador 
+!admin {id} - Adicionar um admin na sala
+!allow {id} - Conceder permissões a um jogador
+!allow reset - Redefinir permissões 
 !team [1-4] {id} (Somente em modos de equipas)
 !winner
-!stats
-!info"
+!stats - estatística da sessão 
+!info" - Informações da sala
 </string>
     <string name="ID_Sort">Sortear ID</string>
     <string name="Master_Tamer">Mestra Domador</string>
@@ -1303,7 +1303,7 @@ Comandos:
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Permissões em Falta</string>
     <string name="DELETE_ACCOUNT">ELIMINAR CONTA</string>
-    <string name="delete_prompt">Tens a certeza que queres eliminar a tua conta? Esta ação é PERMANENTE e NÃO PODE SER DESFEITA!</string>
+    <string name="delete_prompt">Tens a certeza de que queres eliminar a tua conta? Esta ação é PERMANENTE e NÃO PODE SER DESFEITA!/string>
 
 
     <string name="Type">Escreve</string>
