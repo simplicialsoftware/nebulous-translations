@@ -2,8 +2,8 @@
     <string name="Players">"اللاعبين."</string>
     <string name="Control_">"التحكم"</string>
     <string name="CLOSE">"إغلاق"</string>
-    <string name="Stick_Size_">"حجم موجه الدائرة:"</string>
-    <string name="Stick_Margin_">"إرتفاع موجه الدائرة:"</string>
+    <string name="Stick_Size_">"حجم موجة الدائرة:"</string>
+    <string name="Stick_Margin_">"إرتفاع موجة الدائرة:"</string>
     <string name="Button_Size_">"حجم الأزرار:"</string>
     <string name="Button_Margin_">"إرتفاع الأزرار:"</string>
     <string name="Buttons_">"الأزرار:"</string>
@@ -20,8 +20,8 @@
     <string name="Avatar_">"الصورة"</string>
     <string name="Name_">"الإسم"</string>
 
-    <string name="Loading___">"جاري التحميل…"</string>
-    <string name="Connecting___">"جاري الإتصال…"</string>
+    <string name="Loading___">"جأري التحميل…"</string>
+    <string name="Connecting___">"جأري الإتصال…"</string>
 
     <string name="Are_You_Sure_">"هل أنت متأكد؟"</string>
     <string name="Yes">"نعم"</string>
@@ -56,7 +56,7 @@
 
     <string name="SERVER">"سيرفر"</string>
     <string name="Joining_game_in_">"الانضمام للعبة "</string>
-    <string name="Game_Full">"اللعبه ممتلئة"</string>
+    <string name="Game_Full""السيرفر ممتلةَ"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
     <string name="Europe">"اوروبا"</string>
@@ -108,10 +108,10 @@
 
 
     <string name="FRIENDS">"صَـديـق"</string>
-    <string name="Warning">"تحذير"</string>
+    <string name="Warning">"تَـحذير"</string>
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
-    <string name="REQUEST_FRIEND">"إرسال طلب صداقة"</string>
+    <string name="REQUEST_FRIEND">"!إرسال طلب صداقة"</string>
     <string name="Private">"خاص"</string>
     <string name="Public">"عام"</string>
     <string name="Bot">"لاعب آلي"</string>
@@ -123,11 +123,11 @@
     <string name="Unknown">"غير معروف"</string>
     <string name="Offline">"غـيـر مُـتَـصِـل"</string>
     <string name="Achievement_Earned">"تم تحقيق الإنجاز"</string>
-    <string name="REFRESH">"تحديث"</string>
+    <string name="REFRESH">"تَحديث"</string>
     <string name="DONE">"تَـم"</string>
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
-    <string name="CONTINUE">"متابعة"</string>
+    <string name="CONTINUE">"متٔابعة"</string>
     <string name="Global_" formatted="false">"عالميا"</string>
     <string name="FRIEND_CHAT">"دردشة الأصدقاء"</string>
     <string name="LOBBY_NAME">"اسم الردهة"</string>
@@ -143,12 +143,12 @@
     <string name="SURVIVAL">"النجاة"</string>
 
 
-    <string name="Clan_XP">"نقاط خبرة العشيرة"</string>
+    <string name="Clan_XP">"نقأط خبرة العشيرة"</string>
 
 
-    <string name="Dot_Nibbler">"قاضم النقاط"</string>
+    <string name="Dot_Nibbler">"قاضم النقأط"</string>
     <string name="Dot_Muncher">"ماضغ النقاط"</string>
-    <string name="Dot_Eater">"آكل النقاط"</string>
+    <string name="Dot_Eater">"آكل النقأط"</string>
     <string name="Dot_Gulper">"مبتلع النقاط"</string>
     <string name="Dot_Gobbler">"آكل النقاط الشره"</string>
     <string name="Dot_Devourer">"ملتهم النقاط"</string>
