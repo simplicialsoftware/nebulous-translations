@@ -17,7 +17,7 @@
     <string name="PLAY">"MAIN"</string>
     <string name="OPTIONS">"OPSI"</string>
 
-    <string name="Avatar_">"Skins:"</string>
+    <string name="Avatar_">"Skin:"</string>
     <string name="Name_">"Nama:"</string>
 
     <string name="Loading___">"Memuat …"</string>
@@ -26,7 +26,7 @@
     <string name="Are_You_Sure_">"Apakah Anda yakin?"</string>
     <string name="Yes">"Ya"</string>
     <string name="No">"Tidak"</string>
-    <string name="WAIT">"TUNGGU…"</string>
+    <string name="WAIT">"TUNGGU"</string>
     <string name="Must_Specify_Name_">"Harus menentukan nama."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Peringkat dapat berubah ketika menemukan kelompok."</string>
@@ -53,8 +53,8 @@
     <string name="SERVER">"SERVER"</string>
     <string name="Joining_game_in_">"Bergabung permainan di "</string>
     <string name="Game_Full">"Permainan Penuh"</string>
-    <string name="US_East">"Amerika Tengah"</string>
-    <string name="US_West">"Amerika Utara"</string>
+    <string name="US_East">"Amerika Utara"</string>
+    <string name="US_West">"Amerika Barat"</string>
     <string name="Europe">"Eropa"</string>
     <string name="South_America">"Amerika Selatan"</string>
     <string name="SINGLE_PLAYER">"PEMAIN TUNGGAL"</string>
@@ -78,17 +78,17 @@
     <string name="Green_Team">"Tim Hijau"</string>
     <string name="Blue_Team">"Tim Biru"</string>
     <string name="Yellow_Team">"Tim Kuning"</string>
-    <string name="Signed_in_as_">"Di-Login sebagai:"</string>
-    <string name="Not_signed_in_">"Tidak Di-Login!"</string>
+    <string name="Signed_in_as_">"Login sebagai:"</string>
+    <string name="Not_signed_in_">"Tidak Ter-Login!"</string>
     <string name="SET_NAME">"SET NAMA"</string>
-    <string name="SIGN_OUT">"LOGOUT"</string>
+    <string name="SIGN_OUT">"LOG-OUT"</string>
     <string name="ACHIEVEMENTS">"PRESTASI"</string>
     <string name="STATISTICS">"STATISTIK"</string>
-    <string name="XP_">"XP:"</string>
+    <string name="XP_">"Pengalaman:"</string>
     <string name="Information">"Informasi"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Untuk menggunakan skin ini Anda harus mendapatkan prestasi"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Untuk menggunakan skin ini Anda harus mencapai level"</string>
-    <string name="SIGN_IN">"LOGIN"</string>
+    <string name="SIGN_IN">"LOG-IN"</string>
     <string name="Single_Player_Stats">"Statistik Pemain Tunggal"</string>
     <string name="Level">"Level"</string>
     <string name="PAUSED">"DIJEDA"</string>
@@ -102,8 +102,8 @@
     <string name="Bot">"Bot"</string>
     <string name="You">"Anda"</string>
     <string name="This_player_is_a_bot">"Pemain ini adalah bot."</string>
-    <string name="This_player_is_not_signed_in">"Pemain ini tidak di-login."</string>
-    <string name="Online">"Online"</string>
+    <string name="This_player_is_not_signed_in">"Pemain ini tidak ter-login."</string>
+    <string name="Online">"Daring"</string>
     <string name="Unknown">"Tidak dikenal"</string>
     <string name="Offline">"Luring"</string>
     <string name="Achievement_Earned">"Perolehan Prestasi"</string>
@@ -123,7 +123,7 @@
     <string name="TEAMS_TIME">"WAKTU TIM"</string>
     <string name="CTF">"CTF"</string>
     <string name="SURVIVAL">"BERTAHAN HIDUP"</string>
-    <string name="Clan_XP">"XP Klan"</string>
+    <string name="Clan_XP">"Pengalaman Klan"</string>
     <string name="Dot_Nibbler">"Dot Nibbler"</string>
     <string name="Dot_Muncher">"Dot Muncher"</string>
     <string name="Dot_Eater">"Dot Eater"</string>
