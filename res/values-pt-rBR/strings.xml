@@ -308,10 +308,10 @@
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Ganhar por 7.500 pontos em um jogo de Equipes com Tempo"</string>
     <string name="Win_by_3_points_in_a_CTF_game_">"Vencer por 3 pontos em um jogo de CAB."</string>
     <string name="Score_3_points_in_a_single_CTF_game_">"Ganhar 3 pontos em um único jogo de CAB."</string>
-    <string name="Win_by_2_500_points_in_a_Survival_game_">"Vencer por 2,500 pontos em um jogo de Sobrevivência."</string>
-    <string name="Survive_but_do_not_win_a_survival_game_">"Sobreviver mas não ganhar um jogo de sobrevivência."</string>
+    <string name="Win_by_2_500_points_in_a_Survival_game_">"Vencer por 2.500 pontos em um jogo de Sobrevivência."</string>
+    <string name="Survive_but_do_not_win_a_survival_game_">"Sobreviver mas não ganhar um jogo de Sobrevivência."</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"Vencer por 8 pontos em um jogo de Futebol."</string>
-    <string name="Score_3_goals_in_a_single_Soccer_game_">"Marcar 3 gols em um único jogo de futebol."</string>
+    <string name="Score_3_goals_in_a_single_Soccer_game_">"Marcar 3 gols em um único jogo de Futebol."</string>
     <string name="Total_Domination">"Dominação Total"</string>
     <string name="Win_500_games_of_any_type_">"Vencer 500 jogos de qualquer tipo."</string>
     <string name="Translations">"Traduções"</string>
@@ -346,7 +346,7 @@
     <string name="To_use_this_skin_you_must_collect">"Para usar esta skin, você deve coletar"</string>
     <string name="Australia">"Austrália"</string>
     <string name="Pumpkin_Collector">"Coletor de Abóboras"</string>
-    <string name="Collect_1000_pumpkins_">"Coletar 1000 abóboras."</string>
+    <string name="Collect_1000_pumpkins_">"Coletar 1.000 abóboras."</string>
 
     <string name="FFAC">"FFAC"</string>
     <string name="NONE">"NENHUM"</string>
@@ -525,7 +525,7 @@
     <string name="Start_Clan_War">"Começar uma Guerra de Clã"</string>
     <string name="Min_Level">"Nível Mínimo"</string>
     <string name="SAVE">"SALVAR"</string>
-    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Este jogador não cumpriu a exigência de nível mínimo para se juntar a este clã:"</string>
+    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Este jogador não cumpriu a exigência mínima de nível para entrar nesse clã:"</string>
     <string name="Insufficient_Permission">"Permissões Insuficientes"</string>
     <string name="DOMINATION">"DOMINAÇÃO"</string>
     <string name="DOM_Domination">"Dominador da Dominação"</string>
@@ -622,11 +622,11 @@
     <string name="CLAN_HISTORY">"HISTÓRICO DO CLÃ"</string>
 
 
-    <string name="Love_Nebulous_">"Ama o Nebulous?"</string>
+    <string name="Love_Nebulous_">"Ama o Nebulous"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoie o Nebulous avaliando-o."</string>
     <string name="MAYHEM_MODE">"MODO MAYHEM"</string>
     <string name="Times_Teleported_">"Vezes Teleportado:"</string>
-    <string name="Powerups_Used_">"Poderes Usado:"</string>
+    <string name="Powerups_Used_">"Poderes Usados:"</string>
     <string name="Power_Hungry">"Esfomeado de Poderes"</string>
     <string name="Over_9000">"Mais de 9.000"</string>
     <string name="Omnipresence">"Onipresença"</string>
@@ -643,9 +643,9 @@
     <string name="Raindrop_Collector">"Coletor de Gotas de Chuva"</string>
     <string name="Raindrop_Hoarder">"Colecionador de Gotas de Chuva"</string>
     <string name="Raindrop_Mogul">"Magnata de Gotas de Chuva"</string>
-    <string name="Collect_1_000_raindrops_">"Colete 1,000 gotas de chuva."</string>
-    <string name="Collect_5_000_raindrops_">"Colete 5,000 gotas de chuva."</string>
-    <string name="Collect_10_000_raindrops_">"Colete 10,000 gotas de chuva."</string>
+    <string name="Collect_1_000_raindrops_">"Colete 1.000 gotas de chuva."</string>
+    <string name="Collect_5_000_raindrops_">"Colete 5.000 gotas de chuva."</string>
+    <string name="Collect_10_000_raindrops_">"Colete 10.000 gotas de chuva."</string>
     <string name="Copy_Message">"Copiar Mensagem"</string>
     <string name="Copied_to_clipboard_">"Copiado para a área de transferência."</string>
     <string name="COPY_NAME">"COPIAR NOME"</string>
@@ -660,13 +660,13 @@
     <string name="Decline">"Recusar"</string>
     <string name="Challenge_Declined">"Desafio Recusado"</string>
     <string name="Spectators_">"Espectadores:"</string>
-    <string name="Nebula_Collector">"Coletor de Nebulas"</string>
-    <string name="Nebula_Hoarder">"Colecionador de Nebulas"</string>
-    <string name="Nebula_Mogul">"Magnata de Nebulas"</string>
-    <string name="Collect_1_000_nebulas_">"Colete 1.000 nebulas."</string>
-    <string name="Collect_5_000_nebulas_">"Colete 5.000 nebulas."</string>
-    <string name="Collect_10_000_nebulas_">"Colete 10.000 nebulas."</string>
-    <string name="nebulas_">"nebulas."</string>
+    <string name="Nebula_Collector">"Coletor de Nebulosas"</string>
+    <string name="Nebula_Hoarder">"Colecionador de Nebulosas"</string>
+    <string name="Nebula_Mogul">"Magnata de Nebulosas"</string>
+    <string name="Collect_1_000_nebulas_">"Colete 1.000 nebulosas."</string>
+    <string name="Collect_5_000_nebulas_">"Colete 5.000 nebulosas."</string>
+    <string name="Collect_10_000_nebulas_">"Colete 10.000 nebulosas."</string>
+    <string name="nebulas_">"nebulosas."</string>
     <string name="Incompatible_versions_">"Versões Incompatíveis"</string>
     <string name="Update_Available_">"Atualização Disponível!"</string>
     <string name="VIEW_INVITES">"VER CONVITES"</string>
@@ -687,9 +687,9 @@
     <string name="Moon_Collector">"Coletor de Luas"</string>
     <string name="Moon_Hoarder">"Colecionador de Luas"</string>
     <string name="Moon_Mogul">"Magnata de Luas"</string>
-    <string name="Collect_1_000_moons_">"Colete 1,000 luas."</string>
-    <string name="Collect_5_000_moons_">"Colete 5,000 luas."</string>
-    <string name="Collect_10_000_moons_">"Colete 10,000 luas."</string>
+    <string name="Collect_1_000_moons_">"Colete 1.000 luas."</string>
+    <string name="Collect_5_000_moons_">"Colete 5.000 luas."</string>
+    <string name="Collect_10_000_moons_">"Colete 10.000 luas."</string>
     <string name="BLUETOOTH">"BLUETOOTH"</string>
     <string name="HOST">"HOST"</string>
     <string name="This_device_does_not_support_bluetooth_">"Este dispositivo não suporta Bluetooth."</string>
@@ -748,7 +748,7 @@
     <string name="Other_players_can_not_see_your_skin_">Outros jogadores não podem ver a sua skin.</string>
     <string name="Other_players_can_see_your_skin_">Outros jogadores podem ver a sua skin</string>
     <string name="LEGEND">LENDA</string>
-    <string name="Win_10000_Arenas">Ganhar 10,000 Arenas</string>
+    <string name="Win_10000_Arenas">Ganhar 10.000 Arenas</string>
     <string name="UPLOAD_PREVIEW">PRÉVIA DO ENVIO</string>
     <string name="Transparency">Transparência</string>
     <string name="upload_info">Você pode conseguir uma melhor qualidade, sem transparência ou com imagens simples.</string>
@@ -1247,7 +1247,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Name_Scale_">"Tamanho do Nome:"</string>
     <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">"Seu dispositivo tem uma conexão ruim com o servidor. Isso pode causar lag. Por favor, verifique o seu serviço de Wi-Fi ou celular ou tente uma conexão de internet diferente. Também verifique se você está jogando no servidor mais próximo de você."</string>
     <string name="Button_3D">Botão 3D</string>
-    <string name="Hide_Button_">Ocultar Botão?</string>
+    <string name="Hide_Button_">Ocultar Botão</string>
     <string name="Show_Boost_Button">Mostrar Botão de Impulso</string>
     <string name="Spectate_Killer_On_Death">Espectar Quem Te Matou</string>
     <string name="Rainbow_Holes">Buracos de Arco-íris</string>
@@ -1280,7 +1280,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">Você não pode ganhar XP ou plasma no modo Sem Vírus (Sandbox)!</string>
     <string name="DASH">DASH</string>
     <string name="setting_changed">Configurações atualizadas. Pode ser necessário que você se reconecte ao servidor para que elas entrem em vigor.</string>
-    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Execute 10,000 tricks em um jogo no Modo Trick.</string>
+    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Execute 10.000 tricks no Modo Trick.</string>
     <string name="Tricky">Tricky</string>
     <string name="SUPPORTER">VIP</string>
     <string name="CONQUEROR">CONQUISTADOR</string>
