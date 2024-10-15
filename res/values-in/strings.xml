@@ -36,7 +36,7 @@
     <string name="_Alias_">" Nama "</string>
 
     <string name="Score__">"Skor: "</string>
-    <string name="Recombine_">"Bergabung kembali: "</string>
+    <string name="Recombine_">"Me-nyatukan: "</string>
     <string name="WINNER_">"PEMENANG:"</string>
     <string name="IDLE">"MENGANGGUR"</string>
     <string name="Name_Invalid_">"Nama tidak berlaku."</string>
@@ -53,8 +53,8 @@
     <string name="SERVER">"SERVER"</string>
     <string name="Joining_game_in_">"Bergabung permainan di "</string>
     <string name="Game_Full">"Permainan Penuh"</string>
-    <string name="US_East">"Amerika Tengah"</string>
-    <string name="US_West">"Amerika Utara"</string>
+    <string name="US_East">"AS Timur"</string>
+    <string name="US_West">"AS Barat"</string>
     <string name="Europe">"Eropa"</string>
     <string name="South_America">"Amerika Selatan"</string>
     <string name="SINGLE_PLAYER">"PEMAIN TUNGGAL"</string>
@@ -78,17 +78,17 @@
     <string name="Green_Team">"Tim Hijau"</string>
     <string name="Blue_Team">"Tim Biru"</string>
     <string name="Yellow_Team">"Tim Kuning"</string>
-    <string name="Signed_in_as_">"Di-Login sebagai:"</string>
-    <string name="Not_signed_in_">"Tidak Di-Login!"</string>
+    <string name="Signed_in_as_">"Login sebagai:"</string>
+    <string name="Not_signed_in_">"Tidak Ter-Login!"</string>
     <string name="SET_NAME">"SET NAMA"</string>
-    <string name="SIGN_OUT">"LOGOUT"</string>
+    <string name="SIGN_OUT">"LOG-OUT"</string>
     <string name="ACHIEVEMENTS">"PRESTASI"</string>
     <string name="STATISTICS">"STATISTIK"</string>
     <string name="XP_">"XP:"</string>
     <string name="Information">"Informasi"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Untuk menggunakan skin ini Anda harus mendapatkan prestasi"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Untuk menggunakan skin ini Anda harus mencapai level"</string>
-    <string name="SIGN_IN">"LOGIN"</string>
+    <string name="SIGN_IN">"LOG-IN"</string>
     <string name="Single_Player_Stats">"Statistik Pemain Tunggal"</string>
     <string name="Level">"Level"</string>
     <string name="PAUSED">"DIJEDA"</string>
@@ -103,9 +103,9 @@
     <string name="You">"Anda"</string>
     <string name="This_player_is_a_bot">"Pemain ini adalah bot."</string>
     <string name="This_player_is_not_signed_in">"Pemain ini tidak di-login."</string>
-    <string name="Online">"Online"</string>
+    <string name="Online">"Dalam Jaringan"</string>
     <string name="Unknown">"Tidak dikenal"</string>
-    <string name="Offline">"Luring"</string>
+    <string name="Offline">"Luar Jaringan"</string>
     <string name="Achievement_Earned">"Perolehan Prestasi"</string>
     <string name="REFRESH">"MENYEGARKAN"</string>
     <string name="DONE">"SELESAI"</string>
@@ -167,12 +167,12 @@
     <string name="Absorb_50_000_dots">"Menyerap 50.000 Titik"</string>
     <string name="Absorb_100_000_dots">"Menyerap 100.000 Titik"</string>
     <string name="Absorb_1_000_000_dots">"Menyerap 1.000.000 Titik"</string>
-    <string name="Absorb_4_blobs_quickly">"Menyerap 4 gumpalan cepat"</string>
-    <string name="Absorb_8_blobs_quickly">"Menyerap 8 gumpalan cepat"</string>
-    <string name="Absorb_16_blobs_quickly">"Menyerap 16 gumpalan cepat"</string>
-    <string name="Absorb_24_blobs_quickly">"Menyerap 24 gumpalan cepat"</string>
-    <string name="Absorb_32_blobs_quickly">"Menyerap 32 gumpalan cepat"</string>
-    <string name="Absorb_40_blobs_quickly">"Menyerap 40 gumpalan cepat"</string>
+    <string name="Absorb_4_blobs_quickly">"Menyerap 4 gumpalan secara cepat"</string>
+    <string name="Absorb_8_blobs_quickly">"Menyerap 8 gumpalan secara cepat"</string>
+    <string name="Absorb_16_blobs_quickly">"Menyerap 16 gumpalan secara cepat"</string>
+    <string name="Absorb_24_blobs_quickly">"Menyerap 24 gumpalan secara cepat"</string>
+    <string name="Absorb_32_blobs_quickly">"Menyerap 32 gumpalan secara cepat"</string>
+    <string name="Absorb_40_blobs_quickly">"Menyerap 40 gumpalan secara cepat"</string>
     <string name="Absorb_8_player_blobs_without_restarting">"Menyerap 8 gumpalan pemain tanpa memulai ulang"</string>
     <string name="Absorb_16_player_blobs_without_restarting">"Menyerap 16 gumpalan pemain tanpa memulai ulang"</string>
     <string name="Absorb_32_player_blobs_without_restarting">"Menyerap 32 gumpalan pemain tanpa memulai ulang"</string>
@@ -195,8 +195,8 @@
     <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Menembak lubang hitam menjadi pemain terakhir yang ditembak lubang hitam ke dalam diri Anda sebelum restart"</string>
     <string name="Absorb_5_doges_without_restarting">"Menyerap 5 doge tanpa memulai ulang"</string>
     <string name="Friends">"Teman"</string>
-    <string name="Dots_Eaten_">"Titik-titik Dimakan:"</string>
-    <string name="Blobs_Eaten_">"Gumpalan Dimakan:"</string>
+    <string name="Dots_Eaten_">"Titik-titik Termakan:"</string>
+    <string name="Blobs_Eaten_">"Gumpalan Termakan:"</string>
     <string name="Blobs_Lost_">"Gumpalan Hilang:"</string>
     <string name="Mass_Gained_">"Massa Diraih:"</string>
     <string name="Mass_Ejected_">"Massa Dikeluarkan:"</string>
@@ -211,7 +211,7 @@
     <string name="You_must_wait_until_the_end_of_the_round_">"Anda harus menunggu sampai akhir ronde ini"</string>
     <string name="Dont_show_again">"Jangan tampilkan lagi"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Menemukan cadangan statistik pemain tunggal dengan XP yang lebih tinggi. Apakah Anda ingin mengembalikan cadangan?"</string>
-    <string name="Special_Effects">"Tampilkan Efek Khusus"</string>
+    <string name="Special_Effects">"Tampilan Efek Khusus"</string>
     <string name="Blob_Mushiness">"Tampilkan Bubur Gumpalan"</string>
     <string name="Specify_private_game_name">"Tentukan nama permainan pribadi"</string>
     <string name="In_Game_Chat">"Tampilkan Obrolan Permainan"</string>
@@ -321,7 +321,7 @@
     <string name="Searching">"Mencari"</string>
     <string name="In_Progress">"Sedang Berlangsung"</string>
 
-    <string name="Wins">"Menang"</string>
+    <string name="Wins">"Kemenangan"</string>
 
     <string name="Score">"Skor"</string>
     <string name="Rating">"Penilaian"</string>
@@ -335,7 +335,7 @@
     <string name="_8v8">"8v8"</string>
     <string name="Top_Ranks">"Peringkat Teratas"</string>
     <string name="My_Ranks">"Peringkat Saya"</string>
-    <string name="Player_XP">"Pemain XP"</string>
+    <string name="Player_XP">"XP Pemain"</string>
 
     <string name="W_D_L">"M-S-K"</string>
     <string name="MATCH_START">"MULAI PERTANDINGAN"</string>
@@ -355,14 +355,14 @@
     <string name="Leaf_Collector">"Kolektor Daun"</string>
     <string name="Collect_1000_leaves_">"Mengumpulkan 1.000 Daun."</string>
     <string name="XP_Boost">"XP Tambahan"</string>
-    <string name="Double">"Dobel"</string>
+    <string name="Double">"Ganda"</string>
     <string name="Hour">"Jam"</string>
     <string name="Hours">"Jam"</string>
     <string name="Triple">"Tripel"</string>
     <string name="Leaf_Hoarder">"Penimbun Daun"</string>
     <string name="Collect_5000_leaves_">"Mengumpulkan 5.000 Daun."</string>
     <string name="Arena">"Arena"</string>
-    <string name="Enter_the_Arena">"Masukkan Arena"</string>
+    <string name="Enter_the_Arena">"Masuk Ke Arena"</string>
     <string name="Purchase_History">"Riwayat Pembelian"</string>
     <string name="Purchases_Unavailable_">"Pembelian Tidak Tersedia!"</string>
     <string name="You_can_purchase_this_skin_for">"Anda dapat membeli kulit ini untuk"</string>
@@ -488,7 +488,7 @@
     <string name="Spam">"Spam"</string>
     <string name="Other">"Lainnya"</string>
     <string name="Leave_Team">"Tinggalkan Tim"</string>
-    <string name="Remove_Player">"Hapus Pemain"</string>
+    <string name="Remove_Player">"Keluarkan Pemain"</string>
     <string name="Reject_Invitation">"Tolak Undangan"</string>
     <string name="Leave_Game">"Tinggalkan Pertandingan"</string>
     <string name="Remove_Friend">"Hapus Teman"</string>
