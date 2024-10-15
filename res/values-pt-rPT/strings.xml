@@ -417,13 +417,13 @@
     <string name="Error_in_backup_data_">"Erro nos dados de backup!"</string>
 
 
-    <string name="Remove_Ads">"Remover publicidades"</string>
+    <string name="Remove_Ads">"Remover anúncios"</string>
     <string name="Reward">"Recompensa"</string>
     <string name="Please_Wait___">"Aguarde, por favor…"</string>
     <string name="Purchasing">"A comprar"</string>
 
     <string name="Purchase_Successful_">"Compra bem sucedida."</string>
-    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Pode ser necessário reconectar-se para utilizar a compra."</string>
+    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Pode ser necessário reconectar-se para concluir a compra."</string>
     <string name="Confirm_Purchase">"Confirmar compra"</string>
     <string name="x3_XP_24_hours">"3x XP por 24 Horas"</string>
     <string name="x3_XP_1_Hour">"3x XP por 1 Hora"</string>
@@ -457,7 +457,7 @@
     <string name="Player_Name">"Nome do jogador"</string>
 
     <string name="Daily_Reward">"Recompensa diária"</string>
-    <string name="Reset">"Redefinir"</string>
+    <string name="Reset">"Reiniciar"</string>
     <string name="Plasma">"Plasma"</string>
     <string name="Plasma_Mogul">"Magnata de Plasmas"</string>
     <string name="Plasma_Collector">"Coletor de Plasmas"</string>
@@ -502,7 +502,7 @@
     <string name="Win_100_Clan_Wars">"Vencer 100 Guerras de Clãs"</string>
     <string name="Clan_Commander">"Comandante do Clã"</string>
     <string name="Clan_General">"General do Clã"</string>
-    <string name="Clan_Wars_Won_">"Guerras de Clãs vencidas:"</string>
+    <string name="Clan_Wars_Won_">"Guerras de Clãs vencidas: "</string>
     <string name="Arenas_Won_">"Arenas vencidas:"</string>
     <string name="Arena_Mode">"Modo Arena"</string>
     <string name="Connection_Lost">"Conexão perdida"</string>
