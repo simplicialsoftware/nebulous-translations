@@ -289,7 +289,7 @@
     <string name="No_such_user_found_">"O usuário a quem se destina não foi encontrado."</string>
     <string name="No_open_public_clans_exist_">"Não existem clãs públicos abertos."</string>
     <string name="You_aren_t_invited_to_that_clan_">"Você não foi convidado para este clã."</string>
-    <string name="No_such_clan_exists_">"O clã a que se destina não existe."</string>
+    <string name="No_such_clan_exists_">"O clã ao qual se destina não existe."</string>
     <string name="That_clan_is_full_">"Este clã está cheio."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"O outro usuário não é um membro do seu clã."</string>
     <string name="_You_can_t_be_your_own_friend_">"Você não pode ser o seu próprio amigo."</string>
