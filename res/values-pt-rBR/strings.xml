@@ -1092,7 +1092,7 @@ Esta é uma lista de itens que são *PROIBIDOS* para usar nas skins personalizad
     <string name="Community">Comunidade</string>
     <string name="Buy">Comprar</string>
     <string name="Sell">Vender</string>
-    <string name="community_skin_information_for_seller" translatable="true" tools:ignore="Untranslatable">Quando você transforma sua skin personalizada em uma skin da comunidade, ela é listada na guia &quot;Skins da Comunidade&quot;. As outras pessoas podem ver e comprar a skin na comunidade! Cada vez que alguém comprar a sua skin da comunidade, você receberá uma pequena quantidade de plasmas; 100 plasmas oriundas de skins de blob ou skins de mascote e/ou 50 plasmas de skins de partículas.</string>
+    <string name="community_skin_information_for_seller" translatable="true" tools:ignore="Untranslatable">Quando você transforma sua skin personalizada em uma skin da comunidade, ela é listada na guia &quot;Skins da Comunidade&quot;. As outras pessoas podem ver e comprar a skin na comunidade! Cada vez que alguém comprar a sua skin da comunidade, você receberá uma pequena quantidade de plasmas; 100 plasmas oriundos de skins de blob e skins de mascote, e 50 plasmas de skins de partículas.</string>
     <string name="community_skin_requirement">Você deve comprar o recurso &quot;Ativar Skin Personalizada&quot; para usar as skins da comunidade.</string>
     <string name="You_can_purchase_this_community_skin_for_">Você pode comprar esta skin da comunidade por</string>
     <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">As skins da comunidade são enviadas por outros jogadores. As skins da comunidade funcionam como skins personalizadas e podem ser animadas com as skins padrão do jogo.</string>
@@ -1278,7 +1278,7 @@ Esta é uma lista de itens que são *PROIBIDOS* para usar nas skins personalizad
     <string name="HERO">HERÓI</string>
     <string name="CHAMPION">CAMPEÃO</string>
     <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">Você não pode ganhar XP ou plasma no modo Sem Vírus (Sandbox)!</string>
-    <string name="DASH">DASH</string>
+    <string name="DASH">TRAÇO</string>
     <string name="setting_changed">Configurações atualizadas. Pode ser necessário que você se reconecte ao servidor para que elas entrem em vigor.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Realize 10.000 tricks em um jogo de Modo Trick.</string>
     <string name="Tricky">Tricky</string>
@@ -1301,7 +1301,7 @@ Esta é uma lista de itens que são *PROIBIDOS* para usar nas skins personalizad
     <string name="Animal_Tamer">Domador de Animais</string>
     <string name="Crocodile_Hunter">Caçador de Crocodilos</string>
     <string name="Get_A_Pet_To_Level_X_">Leve um Mascote ao Nível %d.</string>
-    <string name="plasma_boost_info">"Você ganhará três vezes os plasmas de todas as fontes NO JOGO enquanto o impulso está ativo! Isso inclui ganhos em arena e torneio! NÃO funciona em compras de plasma, giros ou recompensas especiais."</string>
+    <string name="plasma_boost_info">"Você ganhará o triplo dos plasmas de todas as fontes NO JOGO enquanto o impulso está ativo! Isso inclui ganhos em arena e torneio! NÃO funciona em compras de plasma, giros ou recompensas especiais."</string>
     <string name="Plasma_Boost_7_Days_">Impulso de Plasma 7 Dias!!!</string>
     <string name="Plasma_Boost_1_Day_">Impulso de Plasma 1 Dia!</string>
     <string name="Plasma_Boost_2_Hours_">Impulso de Plasma 2 Horas.</string>
@@ -1314,9 +1314,9 @@ Esta é uma lista de itens que são *PROIBIDOS* para usar nas skins personalizad
 		3. Representações de álcool ou drogas (incluindo maconha)
 		4. Artes que já existem no nebulous, como skins de nível. Ela deve ser modificada de alguma maneira significativa.
 
-        Se você enviar a mesma skin que não foi aprovada várias vezes, isso resultará em mais penalidades ou um banimento."
+        Se você tentar enviar a mesma skin que não foi aprovada várias vezes, isso resultará em mais penalidades ou um banimento."
     </string>
-    <string name="particle_info">Você deve ter pelo menos nível 50 e usar uma skin de base com partículas para ver as partículas.</string>
+    <string name="particle_info">Você deve alcançar o nível 50 e usar uma skin de base com partículas para ver as partículas.</string>
     <string name="Plain_Score_Text">"Texto Simplificado no Placar"</string>
     <string name="Custom_Skin_Reviewed_Notification">A Sua Skin Personalizada Foi Revisada!</string>
     <string name="You_Have_Mail_">Você Tem Uma Mensagem De %s!</string>
