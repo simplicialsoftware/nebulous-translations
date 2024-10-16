@@ -622,7 +622,7 @@
     <string name="CLAN_HISTORY">"HISTÓRICO DO CLÃ"</string>
 
 
-    <string name="Love_Nebulous_">"Ama o Nebulous"</string>
+    <string name="Love_Nebulous_">"Ama o Nebulous?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoie o Nebulous avaliando-o."</string>
     <string name="MAYHEM_MODE">"MODO MAYHEM"</string>
     <string name="Times_Teleported_">"Vezes Teleportado:"</string>
@@ -1247,7 +1247,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Name_Scale_">"Tamanho do Nome:"</string>
     <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">"Seu dispositivo tem uma conexão ruim com o servidor. Isso pode causar lag. Por favor, verifique o seu serviço de Wi-Fi ou celular ou tente uma conexão de internet diferente. Também verifique se você está jogando no servidor mais próximo de você."</string>
     <string name="Button_3D">Botão 3D</string>
-    <string name="Hide_Button_">Ocultar Botão</string>
+    <string name="Hide_Button_">Ocultar Botão?</string>
     <string name="Show_Boost_Button">Mostrar Botão de Impulso</string>
     <string name="Spectate_Killer_On_Death">Espectar Quem Te Matou</string>
     <string name="Rainbow_Holes">Buracos de Arco-íris</string>
