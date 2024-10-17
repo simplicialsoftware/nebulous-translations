@@ -13,15 +13,15 @@
     <string name="DEFAULTS">"デフォルト"</string>
     <string name="WEEKLY">"週間"</string>
     <string name="DAILY">"一日間"</string>
-    <string name="Server_">"サーバー : "</string>
-    <string name="Game_Mode_">"ゲームモード : "</string>
+    <string name="Server_">"サーバー: "</string>
+    <string name="Game_Mode_">"ゲームモード: "</string>
     <string name="Show_Names">"名前を表示する"</string>
     <string name="Show_Avatars">"スキンを表示する"</string>
     <string name="PLAY">"プレイする"</string>
     <string name="OPTIONS">"オプション"</string>
 
     <string name="Avatar_">"スキン："</string>
-    <string name="Name_">"名前 : "</string>
+    <string name="Name_">"名前: "</string>
 
     <string name="Loading___">"読み込み中…"</string>
     <string name="Connecting___">"アクセス中…"</string>
@@ -1180,10 +1180,10 @@
     <string name="Starting___">Starting…</string>
     <string name="Tournament_Starting">Tournament Starting</string>
     <string name="Max_Tilt_Angle_3D_">Max Tilt Angle 3D:</string>
-    <string name="Mode_3D">3Dモード</string>
+    <string name="Mode_3D">3Ｄモード</string>
     <string name="Names_Below_Blobs">Names Below Blobs</string>
     <string name="Name_Scale_">"Name Scale:"</string>
-    <string name="Button_3D">3Dボタン</string>
+    <string name="Button_3D">3Ｄボタン</string>
     <string name="Hide_Button_">Hide Button?</string>
     <string name="Show_Boost_Button">Show Boost Button</string>
     <string name="Spectate_Killer_On_Death">Spectate Killer On Death</string>
