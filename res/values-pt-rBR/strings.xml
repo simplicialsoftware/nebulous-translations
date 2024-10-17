@@ -696,10 +696,10 @@
     <string name="member_permissions">"Permissões para Membros"</string>
     <string name="edit">"EDITAR"</string>
     <string name="start_clan_war">"Começar uma Guerra de Clãs"</string>
-    <string name="join_clan_war">"Entrar em Guerra de Clãs"</string>
+    <string name="join_clan_war">"Entrar em Guerra de Clãs."</string>
     <string name="none">"Nenhum"</string>
     <string name="INVALID_TOKEN">"Token Inválido!"</string>
-    <string name="banned_until">"Banido até "</string>
+    <string name="banned_until">"Banido até. "</string>
     <string name="Note_Collector">"Coletor de Notas"</string>
     <string name="Note_Hoarder">"Colecionador de Notas"</string>
     <string name="Note_Mogul">"Magnata de Notas"</string>
@@ -746,7 +746,7 @@
     <string name="WIN">VITÓRIA</string>
     <string name="LOSS">DERROTA</string>
     <string name="Other_players_can_not_see_your_skin_">Outros jogadores não podem ver a sua skin.</string>
-    <string name="Other_players_can_see_your_skin_">Outros jogadores podem ver a sua skin</string>
+    <string name="Other_players_can_see_your_skin_">Outros jogadores podem ver a sua skin.</string>
     <string name="LEGEND">LENDA</string>
     <string name="Win_10000_Arenas">Ganhar 10,000 Arenas</string>
     <string name="UPLOAD_PREVIEW">PRÉVIA DO ENVIO</string>
@@ -790,7 +790,7 @@
     <string name="name_color_instructions">Selecione os caracteres que deseja alterar e selecione a cor para alterá-los.</string>
     <string name="Cannot_change_this_character_">Não é possível alterar este caractere.</string>
     <string name="ZOMBIE_APOCALYPSE">APOCALIPSE ZUMBI</string>
-    <string name="Survive_a_Zombie_Apocalypse">Sobreviva um APOCALIPSE ZUMBI</string>
+    <string name="Survive_a_Zombie_Apocalypse">Sobreviva a um APOCALIPSE ZUMBI</string>
     <string name="ZA">AZ</string>
     <string name="Pandemic">Pandemia</string>
     <string name="Immunity">Imunidade</string>
