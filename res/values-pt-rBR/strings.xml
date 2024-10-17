@@ -833,7 +833,7 @@
     <string name="UNBLOCK">DESBLOQUEAR</string>
     <string name="Emotes">Mostrar Botão de Emotes</string>
     <string name="Support">Suporte</string>
-    <string name="Already_Blocked">Você Já Bloqueou</string>
+    <string name="Already_Blocked">Você Já Bloqueou!</string>
     <string name="Cannot_block_more_than_x_accounts_">Não é possível bloquear mais de %d contas.</string>
     <string name="This_is_you_">Este é você.</string>
     <string name="Win_a_Paint_Game">Vencer um Jogo de Pintar</string>
@@ -949,10 +949,10 @@
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
 Regras do Nebulous\n
 \n
-1. Não compartilhe ou negocie contas com ninguém. Isso fará com que ambos os jogadores sejam banidos permanentemente.\n
-2. Não peça contas de ninguém. Isso fará com que você seja banido permanentemente.\n
-3. Não tente se passar por um Moderador ou Youtuber. Isso fará com que você seja banido permanentemente.\n
-4. Não trapaceie para chegar aos Top Classificados do jogo em Guerras de Clã/Arena (FreePoints). Isso redefinirá suas estatísticas e resultará em um banimento permanente.\n
+1. Não compartilhe ou negocie contas com ninguém. Isso fará com que ambos os jogadores sejam banidos permanente.\n
+2. Não peça contas de ninguém. Isso fará com que você seja banido permanente.\n
+3. Não tente se passar por um Moderador ou Youtuber. Isso fará com que você seja banido permanente.\n
+4. Não trapaceie para chegar aos Top Classificados do jogo em Guerras de Clãs/Arena (FreePoints). Isso redefinirá suas estatísticas e resultará em um banimento permanente.\n
 5. Nunca peça pelo cargo de Líder no Clã.\n
 6. Não insulte ninguém.\n
 7. Não crie Jogos Personalizados/Chats com nomes inapropriados.\n
@@ -1002,7 +1002,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="Second_Pet">Permite você a ter dois mascotes ao mesmo tempo!</string>
     <string name="This_item_requires">Este item requer</string>
     <string name="not_enough_plasma">Não há plasma suficiente.</string>
-    <string name="MARK_UNREAD">MARCAR COMO NÃO LIDA</string>
+    <string name="MARK_UNREAD">MARCAR COMO NÃO LIDA.</string>
     <string name="ROYALE_DUO">DUPLA REAL</string>
     <string name="Choose_Partner">Escolher Parceiro</string>
     <string name="REMOVE_FRIEND">REMOVER AMIGO</string>
@@ -1155,7 +1155,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Not_in_a_group_">Não está em um grupo.</string>
     <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">Envie este ID do grupo para os seus amigos, então eles poderão entrar no grupo:</string>
     <string name="Specify_Group_ID" translatable="true" tools:ignore="Untranslatable">Especifique o ID do Grupo</string>
-    <string name="Failed">Falhou</string>
+    <string name="Failed">Falhou!</string>
     <string name="Joined_group" translatable="true" tools:ignore="Untranslatable">Entrou no grupo</string>
     <string name="People" translatable="true" tools:ignore="Untranslatable">Pessoas</string>
     <string name="Failed_to_join">Falha ao entrar</string>
@@ -1223,7 +1223,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Allow_permission_to_enable_voice_recording_">Conceder a permissão para ativar a gravação de voz.</string>
     <string name="voice_chat_prompt">A classificação do conteúdo do aplicativo pode mudar com o chat por voz ativado. Para um áudio melhor, use um fone de ouvido.</string>
     <string name="Only_leader_can_answer_requests_">Apenas o Líder pode responder às solicitações.</string>
-    <string name="Sent_request_not_invited_">Pedido enviado (não convidado).</string>
+    <string name="Sent_request_not_invited_">Pedido enviado! (não convidado).</string>
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">REMOVER SKIN DA COMUNIDADE!</string>
     <string name="This_cannot_be_undone_">Isto não pode ser desfeito!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Assista a um vídeo para obter um impulso temporário por %d vidas!</string>
@@ -1258,7 +1258,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Collected_">Coletado:</string>
     <string name="Collisions_">Colisões:</string>
     <string name="Absorbed_">Absorvido:</string>
-    <string name="team_warning">A parceria com um jogador que não está na sua equipe resultará em um banimento! Se você ver outras pessoas se unindo em outras equipes, poderá votar para expulsá-la da sala, no menu do jogador.</string>
+    <string name="team_warning">A parceria com um jogador que não está na sua equipe resultará em um banimento,Se você ver outras pessoas se unindo em outras equipes, poderá votar para expulsá-la da sala, no menu do jogador.</string>
     <string name="Search_Filter">Pesquisar por Filtro</string>
     <string name="Received_">Recebido:</string>
     <string name="Opponent_Rating_Limit_">Limite de Classificação do Oponente:</string>
@@ -1307,7 +1307,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Plasma_Boost_2_Hours_">Impulso de Plasma 2 Horas.</string>
     <string name="Plasma_Boost">Impulso de Plasma</string>
     <string name="skin_warning" translatable="true" tools:ignore="Untranslatable">
-        "A sua skin não foi aprovada. Aqui estão algumas das razões mais comuns. Você NÃO deve enviar:
+        "A sua skin não foi aprovada! Aqui estão algumas das razões mais comuns. Você NÃO deve enviar:
 
 		1. Uma foto de uma pessoa como skin da comunidade. Ela só poderá ser aceita como skin que não seja da comunidade.
 		2. Uma foto de alguém sem camisa.
@@ -1366,11 +1366,11 @@ Comandos:
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Permissões ausentes</string>
     <string name="DELETE_ACCOUNT">EXCLUIR CONTA</string>
-    <string name="delete_prompt">Você tem certeza que quer excluir sua conta? Esta ação é PERMANENTE e NÃO PODERÁ SER DESFEITA!</string>
+    <string name="delete_prompt">Você tem certeza que quer excluir sua conta? Esta ação é PERMANENTE e NÃO PODERÁ SER DESFEITA.</string>
 
 
     <string name="Type">Digite</string>
-    <string name="Complete_campaign_mission_">Complete a missão de campanha</string>
+    <string name="Complete_campaign_mission_">Complete a missão de campanha.</string>
     <string name="Specify_Reason_">Especifique o motivo:</string>
     <string name="FREE_FOR_ALL">LIVRE PARA TODOS</string>
     <string name="SPECIAL">ESPECIAL</string>
