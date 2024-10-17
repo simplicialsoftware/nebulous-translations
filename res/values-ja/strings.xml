@@ -886,7 +886,7 @@
     <string name="This_player_selected_a_different_teammate_">この選手は別のチームメートを選びました。</string>
     <string name="muted_until">までミュート</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">マルチプレーヤーを再生すると、アプリのコンテンツレーティングが変更されることがあります。</string>
-    <string name="UI_Opacity_">ＵＩの透明度</string>
+    <string name="UI_Opacity_">ＵＩの透明度：</string>
     <string name="LOAD">負荷</string>
     <string name="REMOVE">除去する</string>
     <string name="BAN">禁止</string>
