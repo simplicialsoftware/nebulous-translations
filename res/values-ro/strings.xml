@@ -1189,7 +1189,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Position_in_queue">Poziție în coadă</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">CULOAREA FUNDALULUI MENIULUI PROFILULUI</string>
     <string name="DARK_MATTER">DARK MATTER</string>
-    <string name="Textures_will_be_regenerated_">Texture negre și skin-uri personalizate vor fi regenerate.</string>
+    <string name="Textures_will_be_regenerated_">Texturele negre și skin-urile personalizate vor fi regenerate.</string>
     <string name="Enable_Profile_Colors">Activează Culorile Profilului</string>
     <string name="mother_cell" translatable="true">MOTHER CELL</string>
     <string name="shrink" translatable="true">SHRINK</string>
@@ -1204,7 +1204,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Session_Stats">Statisticele Sesiunii</string>
     <string name="Time_">Timp:</string>
     <string name="Show_Session_Stats">Arată Statisticele Sesiunii</string>
-    <string name="VALENTINES_DAY">"VALENTINES DAY"</string>
+    <string name="VALENTINES_DAY">"VALENTINE\'S DAY"</string>
     <string name="shared_pack_info" translatable="true">După cumpărați acest pachetul skin-ului, skin-urile tale exclusive vor apărea în partea superioară de meniuri selectarea skin-ul pentru tine și prietenul tău!</string>
     <string name="shared_pack_purch_description" translatable="true">Acest este un pachet specială, apoi tu și prietenul tău veți primi pachetul!</string>
     <string name="Giveaways_">Extrageri!</string>
