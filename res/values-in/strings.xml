@@ -103,7 +103,7 @@
     <string name="You">"Anda"</string>
     <string name="This_player_is_a_bot">"Pemain ini adalah bot."</string>
     <string name="This_player_is_not_signed_in">"Pemain ini tidak di-login."</string>
-    <string name="Online">"Dalam Jaringan"</string>
+    <string name="Online">"Daring"</string>
     <string name="Unknown">"Tidak dikenal"</string>
     <string name="Offline">"Luar Jaringan"</string>
     <string name="Achievement_Earned">"Perolehan Prestasi"</string>
