@@ -1,10 +1,10 @@
 # nebulous-translations
 
 ## Purpose
-The sole purpose of this repository is to allow Nebulous players to collectively improve the translated text used in Nebulous.io [[Android](https://play.google.com/store/apps/details?id=software.simplicial.nebulous)][[iOS](https://apps.apple.com/us/app/nebulous-io/id1069691018)]. Include your Nebulous ID in your PR (Pull Request) comments and you may be granted the translator tag in the game and discord after your PR is approved and merged. **Low quality translations (those receiving a high number of comments compared to the number of translations done), will not receive a tag.**
+The sole purpose of this repository is to allow Nebulous players to collectively improve the translated text used in Nebulous.io [[Android](https://play.google.com/store/apps/details?id=software.simplicial.nebulous)][[iOS](https://apps.apple.com/us/app/nebulous-io/id1069691018)]. Include your Nebulous ID in your PR (Pull Request) description or comments and you may be granted the translator tag in the game after your PR is approved and merged. If you get the tag, open your Discord app or website, access the `#🤖-neb` channel in Nebulous server, then type a "/neb update" to receive the role next to your name. **Low quality translations (those receiving a high number of comments compared to the number of translations done), will have their PR closed not receive a tag.**
 
 ## Instructions
-If you have general questions or a suggestion, create an [issue](https://github.com/simplicialsoftware/nebulous-translations/issues). You can also submit a [suggestion](https://discord.com/channels/941543004026572811/941680724963123200) in the discord.
+If you have general questions or a suggestion, create an [issue](https://github.com/simplicialsoftware/nebulous-translations/issues). You can also submit a [suggestion](https://discord.com/channels/941543004026572811/941680724963123200) in Discord server.
 
 If you have an improvement to make, edit a file and submit a pull request. Pay special attention to the use of placeholders (ex: `%`) and formatting. Changes to the formatting of the file will not be accepted.
 
@@ -20,6 +20,12 @@ Open the `res` folder to see all of the supported languages. `res/values` contai
 - Try not to change the *length* of a string too much from the length in the English version. The app UI layout is tested with those string lengths.
 - **Do not** submit auto translations (Google Translate, Chat GPT, etc). This is not helpful.
 - Adding comments to your PR that explains why subtle changes were made can help. If you are revising something that is already translated, an explanation is **required**.
+- Only edit files if you see something wrong with the texts in a language. You must check **first** in-game if there's a typo, missing translation, word used on invalid context or any similar mistake, so you can look for the string line that belongs to that/those specific text(s) to be corrected for your language. A full review of the language file is also advisable.
+- The translator tag cannot be distributed "for free" by making small, random and/or inconsistent changes in the file, therefore, doing it just for the tag is not worth it. You need to make sure you have an acceptable writing level to your mother language or any other language you have knowledge, and have comprehension to English language. **Translations must always be taken seriously.**
+- Remember you are on GitHub – translation files involve coding, so it's greatly recommended that you have comprehension over it to avoid unnecessary mistakes and to avoid issues with linter. Always be careful while checking out to make sure your PR can be merged safely.
+- While you are analyzing a language file, avoid using web-translators provided by browsers like Chrome, Edge, Firefox, Opera, Safari etc. It may result in a conflict or confusion between the original value because of the bottom lines `_` and the translation. The GitHub website currently only supports English language.
+
+In case you still feel in need of an assistance, please open a [ticket](https://discord.com/channels/941543004026572811/942039671687479336), open in category "Other" and a collaborator from this repository may assist you in all the steps.
 
 ### Languages
 `res/values`: English<br>
@@ -109,9 +115,9 @@ You can always message @critikangel on Discord for help, advice, or support.
 Submit an [issue](https://github.com/simplicialsoftware/nebulous-translations/issues). Include a screenshot of the text and any relevant actions you performed.
 
 #### Why don't all languages have the same strings?
-If a language is missing a line of text, see if it's in values (English). If it is, and it has the `translatable=false` tag, you can:
-1. Add it to another language file in the same order as the English file
-2. Change the tag to `translateable=true`
+If a language is missing a line of text, see if it's in values (English). If it is, and it has the `translatable="false"` tag, you can:
+1. Add it to another language file in the same order as the English file;
+2. Change the tag to `translatable="true"`;
 3. Translate it.
 
 ## License
