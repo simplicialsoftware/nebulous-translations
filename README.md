@@ -4,7 +4,7 @@
 The sole purpose of this repository is to allow Nebulous players to collectively improve the translated text used in Nebulous.io [[Android](https://play.google.com/store/apps/details?id=software.simplicial.nebulous)][[iOS](https://apps.apple.com/us/app/nebulous-io/id1069691018)]. Include your Nebulous ID in your PR (Pull Request) description or comments and you may be granted the translator tag in the game after your PR is approved and merged. If you get the tag, open your Discord app or website, access the `#🤖-neb` channel in Nebulous server, then type a "/neb update" to receive the role next to your name. **Low quality translations (those receiving a high number of comments compared to the number of translations done), will have their PR closed and will not receive a tag.**
 
 ## Instructions
-If you have general questions or a suggestion, create an [issue](https://github.com/simplicialsoftware/nebulous-translations/issues). You can also submit a [suggestion](https://discord.com/channels/941543004026572811/941680724963123200) in Discord server.
+If you have general questions or a suggestion, create an [issue](https://github.com/simplicialsoftware/nebulous-translations/issues). You can also submit a [suggestion](https://discord.com/channels/941543004026572811/941680724963123200) in Discord server. **Do not use the issue tracker to discuss topics other than the *translation reports*. If you have questions that are non-related to translations, please use the [ticket](https://discord.com/channels/941543004026572811/942039671687479336) tab and open one.**
 
 If you have an improvement to make, edit a file and submit a pull request. Pay special attention to the use of placeholders (ex: `%`) and formatting. Changes to the formatting of the file will not be accepted.
 
@@ -25,7 +25,7 @@ Open the `res` folder to see all of the supported languages. `res/values` contai
 - Remember you are on GitHub – translation files involve coding, so it's greatly recommended that you have comprehension over it to avoid issues with the linter. Always be careful while checking out to make sure your PR can be merged safely. Changes to the original string values (attached in blue color and in English with bottom lines `_`), implementations of text next to `string array`'s or changes to specific coding texts such as `</string>` are **not** allowed.
 - While you are analyzing a language file, avoid using web-translators provided by browsers like Chrome, Edge, Firefox, Opera, Safari etc. It may result in a conflict or confusion between the original value because of the bottom lines `_` and the translation. The GitHub website currently only supports English language.
 
-In case you still feel in need of an assistance, please open a [ticket](https://discord.com/channels/941543004026572811/942039671687479336), open in category "Other" and a collaborator from this repository may assist you in all the steps.
+In case you still feel in need of an assistance, please open a ticket in category "Other" and a collaborator from this repository may assist you in all the steps.
 
 ### Languages
 `res/values`: English<br>
