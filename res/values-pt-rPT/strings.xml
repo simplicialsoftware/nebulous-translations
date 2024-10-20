@@ -1051,6 +1051,38 @@
     <string name="WORLD_CUP_EVENT___">EVENTO DA COPA DO MUNDO!!!</string>
     <string name="world_cup_event_description">XP duplo e Plasma Duplo no modo Futebol até o final da copa!</string>
     <string name="GIF_Skins">Skins Animadas</string>
+    <string name="upload_details" translatable="true">
+        "SKINS PERSONALIZADAS
+
+Quando envias uma skin personalizada, a qualidade da imagem reduzirá, mas isso não é de maior importáncia e é normal (não percebe-se quase nenhuma diferença enquanto joga). Abaixo estão as estatísticas, cores e os significados de cada uma:
+
+Em Análise (em amarelo): Significa que a tua skin está sendo revista. Terás de aguardar até que a mesma seja aprovada.
+
+Aprovada (em verde): Significa que a tua skin pode ser vista por terceiros.
+
+Restituída (em laranja): Significa que recebeste um retorno de plasma da skin, pois a mesma não cumpre com os requisitos estabelecidos. Terás de enviar uma que não seja a mesma.
+
+Rejeitada (em vermelho): Significa que a tua skin não poderá ser vista por terceiros, pois foi identificado conteúdo inapropriado na mesma. Não receberás os teus plasmas de volta.
+
+
+POR QUE A MINHA SKIN PERSONALIZADA FOI RESTITUÍDA OU REJEITADA?
+
+Se a tua skin personalizada foi restituída, não tente enviá-la novamente, pois esta skin será rejeitada e os teus plasmas serão perdidos.
+
+Esta é uma lista de itens que *NÃO DEVEM CONTER* em tuas skins personalizadas:
+- Skins que contenham referéncias sexuais;
+- Skins/Artes não-modificadas do Nebulous (isso inclui skins de nível, conquista, plasma, temporada ou skins exclusivas de um pacote);
+- Skins que contenham referéncias a gore (terror) ou suicidais;
+- Skins que contenham nudes ou skins sem camisa;
+- Skins demasiado escuras;
+- Skins totalmente transparentes (não-identificáveis);
+- Skins que contenham drogas (álcool/cigarros/maconha);
+- Skins que contenham páginas NSFW (conteúdo +18 ou pornografia);
+- Skins que contenham pessoas a utilizar armas;
+- Skins que contenham sinais obscenos com as mãos (Cuidado: isso pode variar de acordo com a região).
+
+Se tentares enviar um ficheiro de imagem com os itens acima como skin, a mesma será restituída ou rejeitada."
+    </string>
     <string name="PLAY_ONLINE_">JOGAR ONLINE!</string>
 
     <string name="Absorb_10_000_000_dots">Absorva 10,000,000 pontos</string>
@@ -1107,6 +1139,7 @@
     <string name="Channel">Canal</string>
     <string name="Choose_Text_Size">Escolher o Tamanho do Texto</string>
     <string name="LEVEL_COLOR">COR DO NÍVEL</string>
+    <string name="level_color_instructions" translatable="true">Seleciona a(s) cor(es) para o teu nível.</string>
     <string name="INITIATE">INICIANTE</string>
     <string name="x3_Clan_XP_Perm">3x Clã XP Permanente!</string>
     <string name="x2_Clan_XP_Perm">2x Clã XP Permanente!</string>
@@ -1125,9 +1158,16 @@
     <string name="LEAVE">ABANDONAR</string>
     <string name="Group">Grupo</string>
     <string name="Not_in_a_group_">Não está em um grupo.</string>
+    <string name="group_chat_create" translatable="true">Envie esta ID do grupo aos teus amigos para que eles possam unir-se ao teu grupo:</string>
+    <string name="Specify_Group_ID" translatable="true">Especifique a ID do Grupo</string>
     <string name="Failed">Falha</string>
+    <string name="Joined_group" translatable="true">Uniste ao grupo</string>
+    <string name="People" translatable="true">Pessoas</string>
     <string name="Failed_to_join">Falha ao unir-se</string>
     <string name="Full">Cheio</string>
+    <string name="new_person_joined" translatable="true">UMA NOVA PESSOA UNIU-SE</string>
+    <string name="person_left" translatable="true">UMA PESSOA ABANDONOU</string>
+    <string name="Left_the_group" translatable="true">Abandonaste o grupo</string>
     <string name="Tricks_Performed_">Tricks Realizados:</string>
     <string name="Not_enough_plasma_">Plasma Insuficiente!</string>
     <string name="GET_PLASMA">OBTER PLASMA</string>
@@ -1141,6 +1181,7 @@
     <string name="Invites">Convites</string>
     <string name="Show_Spectator_Count">Mostrar Contagem de Espectador</string>
     <string name="TRY_IT_">EXPERIMENTÁ-LA!</string>
+    <string name="skin_trial_info" translatable="true">Podes experimentar uma skin por uma jogada. Após a perda do jogo ou a alteração da skin, ela desaparecerá. Enquanto estás a experimentar uma skin, ninguém mais poderá ver.\nPreço: %s Plasma.</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Tens de comprar um pacote para usar isto.</string>
     <string name="GET_PACK">OBTER PACOTE</string>
     <string name="Position_in_queue">Posição na fila</string>
@@ -1148,10 +1189,22 @@
     <string name="DARK_MATTER">MATÉRIA NEGRA</string>
     <string name="Textures_will_be_regenerated_">Texturas pretas e skins personalizadas serão regeneradas.</string>
     <string name="Enable_Profile_Colors">Ativar Cores do Perfil</string>
+    <string name="mother_cell" translatable="true">CÉLULA MÃE</string>
+    <string name="shrink" translatable="true">ENCOLHIMENTO</string>
+    <string name="collect_all" translatable="true">COLETAR TUDO</string>
+    <string name="magic_blob" translatable="true">BLOB MÁGICO</string>
+    <string name="ice_split" translatable="true">ICE SPLIT</string>
+    <string name="circle" translatable="true">CÍRCULO</string>
+    <string name="mega_pop" translatable="true">MEGA POP</string>
+    <string name="no_virus" translatable="true">SANDBOX (SEM VÍRUS)</string>
+    <string name="plasma_hunt" translatable="true">CAÇA AOS PLASMAS</string>
+    <string name="speed" translatable="true">VELOCIDADE</string>
     <string name="Session_Stats">Estatísticas do Jogo</string>
     <string name="Time_">Tempo:</string>
     <string name="Show_Session_Stats">Mostrar Estatísticas do Jogo</string>
     <string name="VALENTINES_DAY">"DIA DOS NAMORADOS"</string>
+    <string name="shared_pack_info" translatable="true">Após a aquisição deste pacote de skins, as tuas skins exclusivas aparecerão no cume da seção de skins para ti e o teu amigo!</string>
+    <string name="shared_pack_purch_description" translatable="true">Este é um pacote especial para que tu e um amigo o recebam!</string>
     <string name="Giveaways_">Sorteios!</string>
     <string name="Max_XP_Chain_">Maior Corrente de XP:</string>
     <string name="POSITION_CANCEL_BUTTON">POSIÇÃO DO BOTÃO DE CANCELAR</string>
@@ -1161,7 +1214,9 @@
     <string name="Secondary">Secundária</string>
     <string name="Both">Ambos</string>
 
+    <string name="multiskin_period_description" translatable="true">"Especifique o período de cámbio da multiskin em segundos (0-10). Ao escrever &quot;0&quot; e aplicar, a multiskin será desativada."</string>
     <string name="Enable__Multiskin">"Ativar\nMulti-Skin"</string>
+    <string name="multiskin_description" translatable="true">"A multiskin permite-te utilizar duas skins que alternam-se. Podes escolher o quão rápidos serão os cámbios. Ao alcançares o nível 1.000, este elemento será gratuito. Após a compra da multiskin antes do nível 1.000, poderás restituir os plasmas após alcançares o nível.</string>
     <string name="MULTISKIN">MULTI-SKIN</string>
     <string name="DISABLED">DESATIVADO</string>
     <string name="Refund__Multiskin">Restituir\nMulti-Skin</string>
@@ -1194,6 +1249,7 @@
     <string name="Mode_3D">Modo 3D</string>
     <string name="Names_Below_Blobs">Nomes Abaixo dos Blobs</string>
     <string name="Name_Scale_">"Tamanho do Nome:"</string>
+    <string name="poor_connection_quality_warning" translatable="true">O teu telemóvel possui uma conexão ruim ao servidor. Isto poderá causar travamentos (lag). É aconselhável verificar o teu Wi-Fi ou dados móveis ou tentar uma conexão diferente de Internet. Certifique-se também de que estás a jogar no servidor mais próximo de si.</string>
     <string name="Button_3D">Botão 3D</string>
     <string name="Hide_Button_">Ocultar Botão?</string>
     <string name="Show_Boost_Button">Mostrar Botão de Impulso</string>
@@ -1225,6 +1281,7 @@
     <string name="Win_100_Tournaments">Ganhar 100 Torneios</string>
     <string name="HERO">HERÓI</string>
     <string name="CHAMPION">CAMPEÃO</string>
+    <string name="sandbox_warning" translatable="true">Não é possível ganhar XP ou plasmas no modo Sandbox (sem vírus)!</string>
     <string name="DASH">TRAÇO</string>
     <string name="setting_changed">Definições alteradas. Talvez terás de reconectar-se ao servidor para as mesmas entrarem em vigor.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Realizar 10,000 tricks no modo Trick.</string>
@@ -1253,6 +1310,16 @@
     <string name="Plasma_Boost_1_Day_">Impulso de Plasma 1 Dia!</string>
     <string name="Plasma_Boost_2_Hours_">Impulso de Plasma 2 Horas.</string>
     <string name="Plasma_Boost">Impulso de Plasma</string>
+    <string name="skin_warning" translatable="true">
+        "A tua skin personalizada não foi aprovada. Aqui estão algumas causas comuns para isto. NÃO deves enviar:
+
+            1. Uma foto de alguém sem camisa;
+            2. Alguém em uma pose ou cena sugestiva;
+            3. Representações de álcool ou drogas (isso inclui maconha);
+            4. Artes já existentes do Nebulous (skins de nível, conquista, temporada, plasma e exclusivas de um pacote). A mesma deve ser modificada de forma significante.
+
+        Se tentares enviar a mesma skin restituída ou rejeitada várias vezes, poderás receber mais penalidades ou terás a tua conta banida."
+    </string>
     <string name="particle_info">Tens de estar pelo menos no nível 50 e usar uma skin de base para partículas para ver quaisquer das mesmas.</string>
     <string name="Plain_Score_Text">"Texto Simples de Pontuação"</string>
     <string name="Custom_Skin_Reviewed_Notification">A tua skin personalizada foi revista!</string>
@@ -1332,6 +1399,17 @@ Comandos:
     <string name="no_response">Nenhuma resposta ao servidor. Por favor, verifica a conexão com a Internet.</string>
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">ATAQUE REPENTINO</string>
+    <string name="sign_in_explanation" translatable="true">
+"Autentique-se para jogar no modo multijogador. Vantagens:
+
+- Jogar e comunicar-se com outros jogadores mundo afora;
+- Partilhar o teu progresso com terceiros;
+- Criação e decoração um perfil;
+- Compra de plasmas na loja;
+- Envio de skins para a comunidade.
+
+Se não quiseres autenticar-se, ainda poderás jogar no modo de jogador único."
+    </string>
     <string name="_2x_skin_resolution">Qualidade da Skin em dobro</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Vocês já são amigos.</string>
