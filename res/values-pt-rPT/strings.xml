@@ -7,13 +7,13 @@
     <string name="Button_Size_">"Tamanho dos botões:"</string>
     <string name="Button_Margin_">"Margem dos botões:"</string>
     <string name="Buttons_">"Botões:"</string>
-    <string name="DEFAULTS">"PREDEFINIÇÃO"</string>
+    <string name="DEFAULTS">"PREDEFINIDOS"</string>
     <string name="WEEKLY">"SEMANAL"</string>
     <string name="DAILY">"DIÁRIO"</string>
     <string name="Server_">"Servidor:"</string>
     <string name="Game_Mode_">"Modo de jogo:"</string>
     <string name="Show_Names">"Mostrar nomes"</string>
-    <string name="Show_Avatars">"Mostrar skin"</string>
+    <string name="Show_Avatars">"Mostrar Skins"</string>
     <string name="PLAY">"JOGAR"</string>
     <string name="OPTIONS">"OPÇÕES"</string>
 
@@ -21,7 +21,7 @@
     <string name="Name_">"Nome:"</string>
 
     <string name="Loading___">"A carregar…"</string>
-    <string name="Connecting___">"A conectar…"</string>
+    <string name="Connecting___">"A conectar-se…"</string>
 
     <string name="Are_You_Sure_">"Tens a certeza?"</string>
     <string name="Yes">"Sim"</string>
@@ -32,9 +32,9 @@
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"A classificação do conteúdo da aplicação pode mudar quando procurares grupos."</string>
 
     <string name="_Rank_">" Classificação "</string>
-    <string name="_Alias_">" Sobrenome  "</string>
-    <string name="_Score_">" Pontos "</string>
-    <string name="Score__">"Pontos: "</string>
+    <string name="_Alias_">" Sobrenome "</string>
+    <string name="_Score_">" Pontuação "</string>
+    <string name="Score__">"Pontuação: "</string>
     <string name="Recombine_">"Recombinar em: "</string>
     <string name="WINNER_">"VENCEDOR:"</string>
     <string name="IDLE">"INATIVO"</string>
@@ -68,19 +68,19 @@
     <string name="Difficulty_">"Dificuldade:"</string>
     <string name="Delay_Disconnect">"Atrasar desconexão"</string>
 
-    <string name="Max_Players">"Máximo de jogadores"</string>
-    <string name="Min_Players">"Mínimo de jogadores"</string>
+    <string name="Max_Players">"Máx. de jogadores"</string>
+    <string name="Min_Players">"Mín. de jogadores"</string>
 
     <string name="OK">"OK"</string>
     <string name="CANCEL">"CANCELAR"</string>
     <string name="Chat_Name">"Nome no chat"</string>
-    <string name="Max_People">"Máx. de Jogadores"</string>
+    <string name="Max_People">"Máx. de Pessoas"</string>
     <string name="START">"INICIAR"</string>
     <string name="CREATE">"CRIAR"</string>
     <string name="CUSTOM_GAMES">"JOGOS PERSONALIZADOS"</string>
     <string name="CHAT">"CHAT"</string>
     <string name="CUSTOM_SETUP">"DEFINIÇÕES PERSONALIZADAS"</string>
-    <string name="CHAT_SETUP">"DEFINIÇÃO DE CHAT"</string>
+    <string name="CHAT_SETUP">"DEFINIÇÕES DE CHAT"</string>
 
 
     <string name="ACCOUNT">"CONTA"</string>
@@ -97,8 +97,8 @@
     <string name="XP_">"XP:"</string>
 
     <string name="Information">"Informação"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para utilizar esta skin tem de atingir a conquista"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Para utilizar esta skin tens de atingir o nível"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para utilizar esta skin, tens de desbloquear a conquista"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Para utilizar esta skin, tens de atingir o nível"</string>
     <string name="SIGN_IN">"AUTENTICAR"</string>
 
     <string name="Single_Player_Stats">"Estatísticas de Único Jogador"</string>
@@ -128,7 +128,7 @@
     <string name="Friend_Request_Sent">"Pedido de amizade enviado…"</string>
     <string name="ERROR">"ERRO"</string>
     <string name="CONTINUE">"CONTINUAR"</string>
-    <string name="Global_" formatted="false">"Global %"</string>
+    <string name="Global_" formatted="false">"Global"</string>
     <string name="FRIEND_CHAT">"CHAT DE AMIGOS"</string>
     <string name="LOBBY_NAME">"NOME DA SALA"</string>
     <string name="NULL">"NULO"</string>
@@ -136,11 +136,11 @@
 
     <string name="ALL">"TODOS"</string>
     <string name="FFA">"FFA"</string>
-    <string name="FFA_TIME">"FFA TEMPO"</string>
+    <string name="FFA_TIME">"FFA COM TEMPO"</string>
     <string name="TEAMS">"EQUIPAS"</string>
-    <string name="TEAMS_TIME">"EQUIPAS TEMPO"</string>
+    <string name="TEAMS_TIME">"EQUIPAS COM TEMPO"</string>
     <string name="CTF">"CAB"</string>
-    <string name="SURVIVAL">"SOBREVIVÊNCIA"</string>
+    <string name="SURVIVAL">"SOBREVIVÉNCIA"</string>
 
 
     <string name="Clan_XP">"XP do Clã"</string>
@@ -167,10 +167,10 @@
     <string name="Blobaccre">"Blobacre"</string>
     <string name="Blobastrophe">"Blobástrofe"</string>
     <string name="Blobihilation">"Blobiquilação"</string>
-    <string name="Blobageddon">"Blobagedon"</string>
+    <string name="Blobageddon">"Blobagedom"</string>
     <string name="Blobocalypse">"Blobocalipse"</string>
 
-    <string name="Experienced_Nebulator">"Nebulador Experiente "</string>
+    <string name="Experienced_Nebulator">"Nebulador Experiente"</string>
     <string name="Expert_Nebulator">"Nebulador Expecialista"</string>
     <string name="Master_Nebulator">"Mestre Nebulador"</string>
     <string name="Grand_Master_Nebulator">"Grande Mestre Nebulador"</string>
@@ -243,7 +243,7 @@
 
     <string name="You_must_wait_until_the_end_of_the_round_">"Tens de esperar até ao fim da ronda"</string>
     <string name="Dont_show_again">"Não mostrar novamente"</string>
-    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Foi encontrada uma cópia de Estatísticas Single Player com XP mais alto. Pretendes restaurar essa cópia?"</string>
+    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Foi encontrada uma cópia das estatísticas do modo de jogador único com XP mais alto. Pretendes restaurar essa cópia?"</string>
 
     <string name="Special_Effects">"Efeitos especiais"</string>
     <string name="Blob_Mushiness">"Elasticidade"</string>
@@ -288,28 +288,28 @@
     <string name="SET_MOTD">"DEFINIR MDD"</string>
     <string name="No_such_user_found_">"Utilizador não encontrado."</string>
     <string name="No_open_public_clans_exist_">"Não existem Clãs públicos abertos."</string>
-    <string name="You_aren_t_invited_to_that_clan_">"Não está convidado para esse Clã."</string>
+    <string name="You_aren_t_invited_to_that_clan_">"Não estás convidado para esse Clã."</string>
     <string name="No_such_clan_exists_">"Esse Clã não existe."</string>
     <string name="That_clan_is_full_">"Esse Clã está cheio."</string>
-    <string name="Other_user_is_not_a_member_of_your_clan_">"Outro utilizador não é membro do seu Clã."</string>
-    <string name="_You_can_t_be_your_own_friend_">"Não pode ser amigo de si próprio."</string>
+    <string name="Other_user_is_not_a_member_of_your_clan_">"O outro utilizador não é membro do teu Clã."</string>
+    <string name="_You_can_t_be_your_own_friend_">"Não podes ser amigo de si próprio."</string>
     <string name="A_clan_with_that_name_already_exists_">"Já existe um Clã com esse nome."</string>
     <string name="Duration_">"Duração:"</string>
 
-    <string name="FFA_Time_Domination">"Dominador do FFA Tempo"</string>
-    <string name="Teams_Time_Domination">"Dominador de Equipas Tempo"</string>
+    <string name="FFA_Time_Domination">"Dominador do FFA com Tempo"</string>
+    <string name="Teams_Time_Domination">"Dominador de Equipas com Tempo"</string>
     <string name="CTF_Domination">"Dominador do CAB"</string>
     <string name="CTF_Hat_Trick">"Hat-Trick do CAB"</string>
-    <string name="Survival_Domination">"Dominador de Sobrevivência"</string>
+    <string name="Survival_Domination">"Dominador de Sobrevivéncia"</string>
     <string name="I_Will_Survive">"Eu Irei Sobreviver"</string>
     <string name="Soccer_Domination">"Dominador do Futebol"</string>
     <string name="Soccer_Hat_Trick">"Hat-Trick do Futebol"</string>
-    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Vencer por 2 500 pontos num jogo FFA Tempo"</string>
-    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Vencer por 7 500 pontos num jogo de Equipas Tempo"</string>
-    <string name="Win_by_3_points_in_a_CTF_game_">"Vencer por 3 pontos num jogo CAB"</string>
-    <string name="Score_3_points_in_a_single_CTF_game_">"Alcançar 3 pontos num único jogo CAB"</string>
-    <string name="Win_by_2_500_points_in_a_Survival_game_">"Vencer por 2 500 pontos num jogo de Sobrevivência"</string>
-    <string name="Survive_but_do_not_win_a_survival_game_">"Sobreviver, mas não vencer um jogo de Sobrevivência"</string>
+    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Vencer por 2 500 pontos num jogo de FFA com Tempo"</string>
+    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Vencer por 7 500 pontos num jogo de Equipas com Tempo"</string>
+    <string name="Win_by_3_points_in_a_CTF_game_">"Vencer por 3 pontos num jogo de CAB"</string>
+    <string name="Score_3_points_in_a_single_CTF_game_">"Alcançar 3 pontos num único jogo de CAB"</string>
+    <string name="Win_by_2_500_points_in_a_Survival_game_">"Vencer por 2 500 pontos num jogo de Sobrevivéncia"</string>
+    <string name="Survive_but_do_not_win_a_survival_game_">"Sobreviver, mas não vencer um jogo de Sobrevivéncia"</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"Vencer por 8 pontos num jogo de Futebol"</string>
     <string name="Score_3_goals_in_a_single_Soccer_game_">"Marcar 3 golos num único jogo de Futebol"</string>
     <string name="Total_Domination">"Dominação Total"</string>
@@ -321,21 +321,21 @@
     <string name="Color_Blind">"Daltónico"</string>
     <string name="Daily_Quest_Complete_">"Conquista diária atingida!"</string>
     <string name="COPY_ID">"COPIAR ID"</string>
-    <string name="My_Account_ID">"Meu ID de conta"</string>
+    <string name="My_Account_ID">"ID da Minha Conta"</string>
 
 
     <string name="COMPLETE">"COMPLETO"</string>
     <string name="INCOMPLETE">"INCOMPLETO"</string>
-    <string name="Win_a_FFA_Time_Game">"Vencer um jogo de FFA Tempo"</string>
+    <string name="Win_a_FFA_Time_Game">"Vencer um jogo de FFA com Tempo"</string>
     <string name="Win_a_CTF_Game">"Vencer um jogo de CAB"</string>
     <string name="Win_a_Soccer_Game">"Vencer um jogo de Futebol"</string>
-    <string name="Win_a_Survival_Game">"Vencer um jogo de Sobrevivência"</string>
-    <string name="Win_a_Teams_Time_Game">"Vencer um jogo de Equipas Tempo"</string>
+    <string name="Win_a_Survival_Game">"Vencer um jogo de Sobrevivéncia"</string>
+    <string name="Win_a_Teams_Time_Game">"Vencer um jogo de Equipas com Tempo"</string>
     <string name="Reach_a_score_of_">"Atingir uma pontuação de "</string>
-    <string name="_in_a_FFA_Game">" num jogo FFA"</string>
+    <string name="_in_a_FFA_Game">" num jogo de FFA"</string>
     <string name="_in_a_Teams_Game">" num Jogo de Equipas"</string>
     <string name="_dots">" pontos"</string>
-    <string name="_player_blobs">" blobs"</string>
+    <string name="_player_blobs">" blobs de jogadores"</string>
     <string name="Absorb_">"Absorver "</string>
     <string name="Collect_">"Coletar "</string>
 
@@ -371,10 +371,10 @@
     <string name="_8v8">"8x8"</string>
     <string name="Top_Ranks">"Top Classificações"</string>
     <string name="My_Ranks">"Minhas Classificações"</string>
-    <string name="Player_XP">"Jogador XP"</string>
+    <string name="Player_XP">"XP do Jogador"</string>
 
     <string name="W_D_L">"V-E-D"</string>
-    <string name="MATCH_START">"INGRESSAR JOGO"</string>
+    <string name="MATCH_START">"A INICIAR A PARTIDA EM"</string>
     <string name="Clan_Warrior">"Guerreiro de Clã"</string>
     <string name="Win_a_Clan_War">"Vencer uma Guerra de Clãs"</string>
     <string name="Global">"Global"</string>
