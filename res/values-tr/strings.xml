@@ -1160,7 +1160,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="People" translatable="true">Kişiler</string>
     <string name="Failed_to_join">"Giriş Başarısız"</string>
     <string name="Full">"Dolu"</string>
-    <string name="new_person_joined" translatable="true">YENİ BİR KİŞİ AYRILDI</string>
+    <string name="new_person_joined" translatable="true">YENİ BİR KİŞİ KATILDI</string>
     <string name="person_left" translatable="true">KİŞİ AYRILDI</string>
     <string name="Left_the_group" translatable="true">Gruptan ayrıldınız</string>
     <string name="Tricks_Performed_">"Gerçekleştirilen Trickler:"</string>
