@@ -1153,9 +1153,16 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="LEAVE">"AYRIL"</string>
     <string name="Group">"Grup"</string>
     <string name="Not_in_a_group_">"Herhangi Bir Grupta Değilsiniz."</string>
+    <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">"Arkadaşlarınızın bu gruba girebilmesi için bu grubun kimliği'ni onlara ver:"</string>
+    <string name="Specify_Group_ID" translatable="true" tools:ignore="Untranslatable">"Özel Grup Kimliği"</string>
     <string name="Failed">"Başarısız"</string>
+    <string name="Joined_group" translatable="true">Joined group</string>
+    <string name="People" translatable="true">Kişiler</string>
     <string name="Failed_to_join">"Giriş Başarısız"</string>
     <string name="Full">"Dolu"</string>
+    <string name="new_person_joined" translatable="true">NEW PERSON JOINED</string>
+    <string name="person_left" translatable="true">KİŞİ AYRILDI</string>
+    <string name="Left_the_group" translatable="true">Gruptan ayrıldınız</string>
     <string name="Tricks_Performed_">"Gerçekleştirilen Trickler:"</string>
     <string name="Not_enough_plasma_">"Yeterli Plazma Yok!"</string>
     <string name="GET_PLASMA">"PLAZMA ALIN"</string>
@@ -1163,8 +1170,6 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="CHRISTMAS">"NOEL"</string>
     <string name="Reason">"Sebep"</string>
     <string name="PUBLIC">"HERKESE AÇIK"</string>
-    <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">"Arkadaşlarınızın bu gruba girebilmesi için bu grubun kimliği'ni onlara ver:"</string>
-    <string name="Specify_Group_ID" translatable="true" tools:ignore="Untranslatable">"ÖZEL GRUP Kimliği"</string>
     <string name="PRIVATE">"ÖZEL"</string>
     <string name="Joined">"Katılım"</string>
     <string name="Requests">"İstekler"</string>
@@ -1271,6 +1276,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Win_100_Tournaments">"100 Turnuva Kazanın"</string>
     <string name="HERO">"KAHRAMAN"</string>
     <string name="CHAMPION">"ŞAMPİYON"</string>
+    <string name="sandbox_warning" translatable="true">You cannot earn XP or plasma in sandbox mode!</string>
     <string name="DASH">"İleri Atılma"</string>
     <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">"Cihazınızın sunucu ile bağlantısı zayıf. Bu gecikmeye neden olabilir. Lütfen WI-FI veya cep telefonu hizmetinizi kontrol edin veya farklı bir internet bağlantısı deneyin. Ayrıca size en yakın sunucuda oynadığınızdan emin olun."</string>
     <string name="setting_changed">"Ayarlar güncellendi. Etkinleşmesi için sunucuya yeniden bağlanmanız gerekebilmektedir."</string>
