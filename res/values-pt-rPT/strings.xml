@@ -949,26 +949,26 @@
     <string name="_in_a_16x_Split_Game">em um jogo de 16x Split</string>
     <string name="Rules">Regras</string>
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
-    Nebulous Regras
-    1. Não compartilhe ou negocie contas com ninguém. Isso fará com que ambos os jogadores sejam banidos permanentemente.\n
-    2. Não peça contas de ninguém. Isso fará com que você seja banido permanentemente\n
-    3. Não finja ser um moderador no YouTuber. Isso fará com que você seja banido permanentemente.\n
-    4. Não trapaceie para chegar ao topo do ranking do jogo em clan wars ou arena (Free Points). Isto irá redefinir suas estatísticas e resultar em uma proibição permanente.\n
-    5. Nunca pergunte pela posição do líder em um clã\n
-    6. Não insulte ninguém\n
-    7. Não crie chats de jogos personalizados com nomes inapropriados.\n
-    8. Obedecer aos moderadores\n
-    9. Não tire vantagem de bugs no jogo\n
+    Regras do Nebulous
+    1. Não partilhes ou negocies contas com ninguém. Isto fará com que ambos os jogadores sejam banidos permanentemente.\n
+    2. Não peça contas de ninguém. Isto fará com que sejas banido permanentemente\n
+    3. Não finjas ser um moderador ou um YouTuber. Isto fará com que sejas banido permanentemente.\n
+    4. Não utilizes batotas para chegar ao topo das classificações do jogo em guerras de clãs ou arenas (pontos gratuitos). Isto redefinirá as tuas estatísticas e resultará em um banimento permanente.\n
+    5. Nunca perguntes pela posição do líder em um clã.\n
+    6. Não insultes ninguém.\n
+    7. Não crie chats ou jogos personalizados com nomes inapropriados.\n
+    8. Obedeça aos moderadores.\n
+    9. Não tire vantagem de bugs no jogo.\n
     10. Não banir muitos membros do clã sem a autorização do líder.\n
-    11. Em jogos de equipe, não se alie a alguém em um time adversário.\n
-    12. Nunca minta para um moderador\n
-    13. Não troque os clãs nebulosos por dinheiro ou plasma\n
-    14. Não envie spam no chat ou no correio.\n
+    11. Em jogos com equipas, não una-se com alguém que não pertença à tua equipa.\n
+    12. Nunca minta para um moderador.\n
+    13. Não trocar os clãs do Nebulous por dinheiro real ou plasma.\n
+    14. Não fazer spam no chat ou no e-mail.\n
         \n
-    Se você não cumprir qualquer uma dessas regras, sua conta poderá ser banida.\n
+    Se não cumprires qualquer uma dessas regras, a tua conta poderá ser banida.\n
     (O tempo da punição pode ser das horas novas até a proibição permanente, dependendo da situação e gravidade do problema).\n
         \n
-    Se você perceber que um jogador está infringindo as regras do jogo, entre em contato com um moderador\n
+    Se veres um jogador a infringir as regras do jogo, entre em contato com um moderador.\n
     </string>
     <string name="Blob_Chat_Bubbles">Bolhas do Chat no Blob</string>
     <string name="CHRISTMAS_ADVENT_SKINS">SKINS DO NATAL</string>
@@ -1216,7 +1216,7 @@ Se tentares enviar um ficheiro de imagem como skin com os itens listados acima, 
 
     <string name="multiskin_period_description" translatable="true">"Especifique o período de cámbio da multiskin em segundos (0-10). Ao escrever &quot;0&quot; e aplicar, a multiskin será desativada."</string>
     <string name="Enable__Multiskin">"Ativar\nMulti-Skin"</string>
-    <string name="multiskin_description" translatable="true">"A multiskin permite-te utilizar duas skins que alternam-se. Podes escolher o quão rápidos serão os cámbios. Ao alcançares o nível 1.000, este elemento será gratuito. Após a compra da multiskin antes do nível 1000, poderás restituir os plasmas após alcançares o nível.</string>
+    <string name="multiskin_description" translatable="true">"A multiskin permite-te utilizar duas skins que alternam-se. Podes escolher o quão rápidos serão os cámbios. Ao alcançares o nível 1000, este elemento será gratuito. Após a compra da multiskin antes do nível 1000, poderás restituir os plasmas após alcançares o nível.</string>
     <string name="MULTISKIN">MULTI-SKIN</string>
     <string name="DISABLED">DESATIVADO</string>
     <string name="Refund__Multiskin">Restituir\nMulti-Skin</string>
