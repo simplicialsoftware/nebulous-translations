@@ -1129,7 +1129,7 @@ Se tentares enviar um ficheiro de imagem como skin com os itens listados acima, 
     <string name="SKIN_PACK">PACOTE DE SKIN</string>
     <string name="HALLOWEEN">HALLOWEEN</string>
 
-    <string name="pack_info">Após comprares este pacote de skin, as tuas skins exclusivas aparecerão ao topo dos menus de selecção de skins.</string>
+    <string name="pack_info">Após comprares este pacote de skin, as tuas skins exclusivas aparecerão ao topo dos menus de seleção de skins.</string>
 
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins, Animais, Bonés EXCLUSIVOS e Mais!</string>
     <string name="BUY_NOW_">COMPRAR AGORA!</string>
@@ -1315,8 +1315,8 @@ Se tentares enviar um ficheiro de imagem como skin com os itens listados acima, 
 
             1. Uma foto de alguém sem camisa;
             2. Alguém em uma pose ou cena sugestiva;
-            3. Representações de álcool ou drogas (isso inclui maconha);
-            4. Artes já existentes do Nebulous (skins de nível, conquista, temporada, plasma e exclusivas de um pacote). A mesma deve ser modificada de forma significante.
+            3. Representações de álcool ou drogas (isto inclui maconha);
+            4. Artes já existentes do Nebulous (isto inclui skins de nível, conquista, temporada, plasma e skins exclusivas de um pacote). A mesma deve ser modificada de forma significante.
 
         Se tentares enviar a mesma skin restituída ou rejeitada várias vezes, poderás receber mais penalidades ou terás a tua conta banida."
     </string>
