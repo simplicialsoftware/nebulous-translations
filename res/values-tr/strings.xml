@@ -1156,7 +1156,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">"Arkadaşlarınızın bu gruba girebilmesi için bu grubun kimliği'ni onlara ver:"</string>
     <string name="Specify_Group_ID" translatable="true" tools:ignore="Untranslatable">"Özel Grup Kimliği"</string>
     <string name="Failed">"Başarısız"</string>
-    <string name="Joined_group" translatable="true">Joined group</string>
+    <string name="Joined_group" translatable="true">Gruptan katıldınız</string>
     <string name="People" translatable="true">Kişiler</string>
     <string name="Failed_to_join">"Giriş Başarısız"</string>
     <string name="Full">"Dolu"</string>
