@@ -1216,7 +1216,7 @@ Se tentares enviar um ficheiro de imagem como skin com os itens listados acima, 
 
     <string name="multiskin_period_description" translatable="true">"Especifique o período de cámbio da multiskin em segundos (0-10). Ao escrever &quot;0&quot; e aplicar, a multiskin será desativada."</string>
     <string name="Enable__Multiskin">"Ativar\nMulti-Skin"</string>
-    <string name="multiskin_description" translatable="true">"A multiskin permite-te utilizar duas skins que alternam-se. Podes escolher o quão rápidos serão os cámbios. Ao alcançares o nível 1.000, este elemento será gratuito. Após a compra da multiskin antes do nível 1.000, poderás restituir os plasmas após alcançares o nível.</string>
+    <string name="multiskin_description" translatable="true">"A multiskin permite-te utilizar duas skins que alternam-se. Podes escolher o quão rápidos serão os cámbios. Ao alcançares o nível 1.000, este elemento será gratuito. Após a compra da multiskin antes do nível 1000, poderás restituir os plasmas após alcançares o nível.</string>
     <string name="MULTISKIN">MULTI-SKIN</string>
     <string name="DISABLED">DESATIVADO</string>
     <string name="Refund__Multiskin">Restituir\nMulti-Skin</string>
@@ -1249,7 +1249,7 @@ Se tentares enviar um ficheiro de imagem como skin com os itens listados acima, 
     <string name="Mode_3D">Modo 3D</string>
     <string name="Names_Below_Blobs">Nomes Abaixo dos Blobs</string>
     <string name="Name_Scale_">"Tamanho do Nome:"</string>
-    <string name="poor_connection_quality_warning" translatable="true">O teu telemóvel possui uma conexão ruim ao servidor. Isto poderá causar travamentos (lag). É aconselhável verificar o teu Wi-Fi ou dados móveis ou tentar uma conexão diferente de Internet. Certifique-se também de que estás a jogar no servidor mais próximo de si.</string>
+    <string name="poor_connection_quality_warning" translatable="true">O teu telemóvel possui uma conexão ruim ao servidor. Isto poderá causar travamentos (lag). É aconselhável verificar o teu Wi-Fi ou dados móveis ou tentar uma conexão diferente de Internet. Certifique-se também de que estejas a jogar no servidor mais próximo de si.</string>
     <string name="Button_3D">Botão 3D</string>
     <string name="Hide_Button_">Ocultar Botão?</string>
     <string name="Show_Boost_Button">Mostrar Botão de Impulso</string>
@@ -1394,7 +1394,7 @@ Comandos:
     <string name="CLAN_BACKGROUND_COLOR">COR DE FUNDO DO CLÃ</string>
     <string name="activate">Ativar</string>
     <string name="clan_id">ID DO CLÃ</string>
-    <string name="language_change_warning">Alterar o idioma vai precisar reingressar o jogo.</string>
+    <string name="language_change_warning">Caso pretendas alterar o idioma, o teu jogo precisará ser reiniciado e terá de abandonar a tua partida.</string>
     <string name="xmas_gift_boost_message">Ganhaste um presente de impulso de plasma 3x por 1 dia!</string>
     <string name="no_response">Nenhuma resposta ao servidor. Por favor, verifica a conexão com a Internet.</string>
     <string name="RAMADAN">RAMADAN</string>
@@ -1408,7 +1408,7 @@ Comandos:
 - Compra de plasmas na loja;
 - Envio de skins para a comunidade.
 
-Se não quiseres autenticar-se, ainda poderás jogar no modo de jogador único."
+Se não pretendes autenticar-se, ainda poderás jogar no modo de jogador único."
     </string>
     <string name="_2x_skin_resolution">Qualidade da Skin em dobro</string>
     <string name="pm">PM</string>
