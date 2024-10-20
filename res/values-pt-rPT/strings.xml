@@ -1054,7 +1054,7 @@
     <string name="upload_details" translatable="true">
         "SKINS PERSONALIZADAS
 
-Quando envias uma skin personalizada, a qualidade da imagem reduzirá, mas isso não é de maior importáncia e é normal (não percebe-se quase nenhuma diferença enquanto joga). Abaixo estão as estatísticas, cores e os significados de cada uma:
+Quando envias uma skin personalizada, a qualidade da imagem reduzirá, mas isto não é de maior importáncia e é normal (não percebe-se quase nenhuma diferença enquanto jogas). Abaixo estão as estatísticas, cores e os significados de cada uma:
 
 Em Análise (em amarelo): Significa que a tua skin está sendo revista. Terás de aguardar até que a mesma seja aprovada.
 
@@ -1067,11 +1067,11 @@ Rejeitada (em vermelho): Significa que a tua skin não poderá ser vista por ter
 
 POR QUE A MINHA SKIN PERSONALIZADA FOI RESTITUÍDA OU REJEITADA?
 
-Se a tua skin personalizada foi restituída, não tente enviá-la novamente, pois esta skin será rejeitada e os teus plasmas serão perdidos.
+Se a tua skin personalizada foi restituída, não tente esnviá-la novamente, pois esta skin será rejeitada e os teus plasmas serão perdidos.
 
 Esta é uma lista de itens que *NÃO DEVEM CONTER* em tuas skins personalizadas:
 - Skins que contenham referéncias sexuais;
-- Skins/Artes não-modificadas do Nebulous (isso inclui skins de nível, conquista, plasma, temporada ou skins exclusivas de um pacote);
+- Skins/Artes não-modificadas do Nebulous (isto inclui skins de nível, conquista, plasma, temporada ou skins exclusivas de um pacote);
 - Skins que contenham referéncias a gore (terror) ou suicidais;
 - Skins que contenham nudes ou skins sem camisa;
 - Skins demasiado escuras;
@@ -1079,9 +1079,9 @@ Esta é uma lista de itens que *NÃO DEVEM CONTER* em tuas skins personalizadas:
 - Skins que contenham drogas (álcool/cigarros/maconha);
 - Skins que contenham páginas NSFW (conteúdo +18 ou pornografia);
 - Skins que contenham pessoas a utilizar armas;
-- Skins que contenham sinais obscenos com as mãos (Cuidado: isso pode variar de acordo com a região).
+- Skins que contenham sinais obscenos com as mãos (Cuidado: isto pode variar de acordo com a região).
 
-Se tentares enviar um ficheiro de imagem com os itens acima como skin, a mesma será restituída ou rejeitada."
+Se tentares enviar um ficheiro de imagem como skin com os itens listados acima, a mesma será restituída ou rejeitada."
     </string>
     <string name="PLAY_ONLINE_">JOGAR ONLINE!</string>
 
