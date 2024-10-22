@@ -1078,6 +1078,7 @@ Esta é uma lista de itens que *NÃO DEVEM CONTER* em tuas skins personalizadas:
 - Skins totalmente transparentes (não-identificáveis);
 - Skins que contenham drogas (álcool/cigarros/maconha);
 - Skins que contenham páginas NSFW (conteúdo +18 ou pornografia);
+- Skins que possuam conteúdos como racismo, nazismo ou violéncia;
 - Skins que contenham pessoas a utilizar armas;
 - Skins que contenham sinais obscenos com as mãos (Cuidado: isto pode variar de acordo com a região).
 
@@ -1095,7 +1096,7 @@ Se tentares enviar um ficheiro de imagem como skin com os itens listados acima, 
     <string name="Community">Comunidade</string>
     <string name="Buy">Comprar</string>
     <string name="Sell">Vender</string>
-    <string name="community_skin_information_for_seller" translatable="true" tools:ignore="Untranslatable">Quando transformas uma skin personalizada em uma skin da comunidade, ela é listada na guia skins da comunidade. Outras pessoas podem ver e comprar a skin na comunidade! Toda vez que alguém compra a tua skin da comunidade, ganhas uma pequena quantidade de plasma. As skins da comunidade não podem ser fotografias de pessoas reais!</string>
+    <string name="community_skin_information_for_seller" translatable="true" tools:ignore="Untranslatable">Quando transformas uma skin personalizada em uma skin da comunidade, ela é listada na guia skins da comunidade. Outras pessoas podem ver e comprar a skin na comunidade! Toda vez que alguém compra a tua skin da comunidade, ganhas uma pequena quantidade de plasma.</string>
     <string name="community_skin_requirement">Tens de comprar Ativar Skin Personalizada para utilizar as skins da comunidade.</string>
     <string name="You_can_purchase_this_community_skin_for_">Podes adquirir esta skin da comunidade por</string>
     <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">As skins da comunidade são enviadas por outros jogadores. As skins da comunidade funcionam como skins personalizadas e podem ser animadas com as skins predefinidas do jogo.</string>
