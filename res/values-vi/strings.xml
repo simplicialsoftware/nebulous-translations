@@ -1186,16 +1186,16 @@ This is a list of content that are *PROHIBITED* to contain on your skin:
     <string name="DARK_MATTER">VẬT CHẤT TỐI</string>
     <string name="Textures_will_be_regenerated_">Kết cấu nền và skin tuỳ chỉnh sẽ được tải lại.</string>
     <string name="Enable_Profile_Colors">Mua màu sắc cho bìa hồ sơ</string>
-    <string name="mother_cell" translatable="true">MOTHER CELL</string>
-    <string name="shrink" translatable="true">SHRINK</string>
-    <string name="collect_all" translatable="true">COLLECT ALL</string>
-    <string name="magic_blob" translatable="true">MAGIC BLOB</string>
-    <string name="ice_split" translatable="true">ICE SPLIT</string>
-    <string name="circle" translatable="true">CIRCLE</string>
+    <string name="mother_cell" translatable="true">TẾ BÀO MẸ</string>
+    <string name="shrink" translatable="true">SỰ CO LẠI</string>
+    <string name="collect_all" translatable="true">THU THẬP TẤT CẢ</string>
+    <string name="magic_blob" translatable="true">BLOB HUYỀN BÍ</string>
+    <string name="ice_split" translatable="true">TÁCH ĐÁ</string>
+    <string name="circle" translatable="true">TRÒN</string>
     <string name="mega_pop" translatable="true">MEGA POP</string>
-    <string name="no_virus" translatable="true">SANDBOX (NO VIRUS)</string>
-    <string name="plasma_hunt" translatable="true">PLASMA HUNT</string>
-    <string name="speed" translatable="true">SPEED</string>
+    <string name="no_virus" translatable="true">SANDBOX (KHÔNG CÓ VIRUS)</string>
+    <string name="plasma_hunt" translatable="true">SĂN PLASMA</string>
+    <string name="speed" translatable="true">TỐC ĐÔ</string>
     <string name="Session_Stats">Phần thống kê</string>
     <string name="Time_">Thời gian:</string>
     <string name="Show_Session_Stats">Hiện phần thống kê</string>
