@@ -1155,16 +1155,16 @@ This is a list of content that are *PROHIBITED* to contain on your skin:
     <string name="LEAVE">RỜI</string>
     <string name="Group">Nhóm</string>
     <string name="Not_in_a_group_">Không trong nhóm.</string>
-    <string name="group_chat_create" translatable="true">Give this group ID to your friends so they can join the group:</string>
-    <string name="Specify_Group_ID" translatable="true">Specify Group ID</string>
+    <string name="group_chat_create" translatable="true">Cung cấp ID nhóm này cho bạn của mình, để họ vào ở nhóm của bạn:</string>
+    <string name="Specify_Group_ID" translatable="true">Chỉ Định ID Nhóm</string>
     <string name="Failed">Thất bại.</string>
-    <string name="Joined_group" translatable="true">Joined group</string>
-    <string name="People" translatable="true">People</string>
+    <string name="Joined_group" translatable="true">Bạn đã vào nhóm</string>
+    <string name="People" translatable="true">Người</string>
     <string name="Failed_to_join">Không vào được</string>
     <string name="Full">Phòng đầy</string>
-    <string name="new_person_joined" translatable="true">NEW PERSON JOINED</string>
-    <string name="person_left" translatable="true">PERSON LEFT</string>
-    <string name="Left_the_group" translatable="true">Left the group</string>
+    <string name="new_person_joined" translatable="true">MỘT NGƯỜI MỚI ĐÃ VÀO</string>
+    <string name="person_left" translatable="true">MỘT NGƯỜI ĐÃ RỜI</string>
+    <string name="Left_the_group" translatable="true">Bạn đã rời nhóm</string>
     <string name="Tricks_Performed_">Tricks đã thực hiện:</string>
     <string name="Not_enough_plasma_">Không đủ plasma!</string>
     <string name="GET_PLASMA">LẤY HUYẾT TƯƠNG</string>
