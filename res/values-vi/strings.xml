@@ -948,6 +948,29 @@
     <string name="Friend_Added_">Đã thêm bạn !</string>
     <string name="_in_a_16x_Split_Game"> ở một Chơi Tách 16x</string>
     <string name="Rules">Quy tắc</string>
+    <string name="Nebulous_Rules" translatable="true">
+Nebulous Rules\n
+\n
+1. Do not share or trade accounts with anyone. This will result in both players being permanently banned.\n
+2. Do not ask for accounts from anyone. This will result in you being permanently banned.\n
+3. Do not pretend to be a Moderator or Youtuber. This will result in you being permanently banned.\n
+4. Do not cheat to reach the top ranking of the game in clan wars or arena (FreePoints). This will reset your stats and result in a permanent ban.\n
+5. Never ask for the leader rank in a Clan.\n
+6. Do not insult anyone.\n
+7. Do not create Custom Games Chats with inappropriate names.\n
+8. Obey the Moderators.\n
+9. Do not take advantage of bugs in the game.\n
+10. Do not ban many clan Members without the leader\'s authorization.\n
+11. In team games do not team up with someone on an opposing team.\n
+12. Never lie to a Moderator.\n
+13. Do not exchange Nebulous Clans for money or plasma.\n
+14. Do not spam in chat or mail.\n
+        \n
+If you do not comply with any of these rules, your account could be banned.\n
+(The time of punishment can be from few hours to permanent ban, depending of the situation and severity of the problem).\n
+\n
+If you notice a player breaking the rules of the game, please report it to a Moderator.
+    </string>
     <string name="Blob_Chat_Bubbles">Bong bóng chat</string>
     <string name="CHRISTMAS_ADVENT_SKINS">SỰ KIỆN GIÁNG SINH</string>
     <string name="You_cannot_open_this_present_yet_">Bạn chưa được mở hộp quà này!</string>
@@ -1028,7 +1051,36 @@
     <string name="ADVANCED_SETUP">CÀI ĐẶT NÂNG CAO</string>
     <string name="WORLD_CUP_EVENT___">Sự kiện WORLD CUP!!!</string>
     <string name="world_cup_event_description">Nhân đôi XP và Plasma trong chế độ bóng đá đến khi hết world cup!</string>
-    <string name="GIF_Skins">GIF Skins</string>
+    <string name="GIF_Skins">Skin GIF</string>
+    <string name="upload_details" translatable="true">
+        "CUSTOM SKINS
+
+When you attempt on uploading a custom skin, the image quality may decrease, but it doesn't matter too much and it is common (you will not notice too much difference while you play). Check a list of status below and their meanings:
+
+In Review (highlighted in yellow): It means your skin is being reviewed by a moderator. You must wait for it to be approved.
+Approved (highlighted in green): It means your skin has been approved. Other players will be able to see your approved skin.
+Refunded (highlighted in orange): It means you got your plasma back because the skin does not meet with the established guidelines of custom skins. You should not try to upload the same again if it happens.
+Rejected (highlighted in red): It means your skin has been rejected and your plasma has been lost, unlike the refunded status. It cannot be seen by third-party.
+
+WHY DID MY SKIN GET REFUNDED OR REJECTED?
+
+As it says on &#x201c;Refunded&#x201d; status, you should not attempt on uploading the same again, otherwise you may have a risk of losing your plasma.
+
+This is a list of content that are *PROHIBITED* to contain on your skin:
+- Skins that contain sexual references;
+- Already existing Nebulous skins, such as level, achievement, season, plasma or exclusive skins from a pack;
+- Skins that contain gore/suicidal references;
+- Skins that contain nudes;
+- Skins that contain someone shirtless;
+- Very dark skins;
+- Totally transparent skins (unidentifiable);
+- Skins that contain depictions of drugs, such as alcohol, cigarette or weed;
+- Skins that contain NSFW pages;
+- Skins that contain necklines;
+- Skins that contain racism, nazism or violence references;
+- Skins that contain usage of dangerous weapons;
+- Skins that contain obscene signs with a hand (it may vary between regions, so be highly careful with it)."
+    </string>
     <string name="PLAY_ONLINE_">CHƠI ONLINE!</string>
     <string name="Absorb_10_000_000_dots">Ăn 10,000,000 chấm</string>
     <string name="Dot_Deity">Đấng tối cao</string>
@@ -1040,8 +1092,10 @@
     <string name="Community">Cộng Đồng</string>
     <string name="Buy">Mua</string>
     <string name="Sell">Bán</string>
+    <string name="community_skin_information_for_seller" translatable="true">When you turn a custom skin into a community skin, it will appear at the &#x201c;Community Skins&#x201d; tab. Other people can see and buy your skin at the Community! Each time someone buys your skins in the community, you will receive a small plasma amount.</string>
     <string name="community_skin_requirement">Bạn cần phải mua tuỳ chỉnh skin để có thể mua skin cộng đồng.</string>
     <string name="You_can_purchase_this_community_skin_for_">Bạn có thể mua skin cộng đồng này với</string>
+    <string name="community_skin_information_for_buyer" translatable="true">Community skins are uploaded by other users. Community skins work just like custom skins and can be animated with default Nebulous skins.</string>
     <string name="VIEW_UPLOADER">XEM NGƯỜI TẢI LÊN</string>
     <string name="POPULAR">PHỔ BIẾN</string>
     <string name="NEW">MỚI</string>
@@ -1082,6 +1136,7 @@
     <string name="Channel">Kênh</string>
     <string name="Choose_Text_Size">Chọn kích thước chữ</string>
     <string name="LEVEL_COLOR">MÀU CẤP ĐỘ</string>
+    <string name="level_color_instructions" translatable="true">Select the color of your level.</string>
     <string name="INITIATE">INITIATE</string>
     <string name="x3_Clan_XP_Perm">3x XP HỘI VĨNH VIỄN!</string>
     <string name="x2_Clan_XP_Perm">2x XP HỘI VĨNH VIỄN!</string>
@@ -1100,9 +1155,16 @@
     <string name="LEAVE">RỜI</string>
     <string name="Group">Nhóm</string>
     <string name="Not_in_a_group_">Không trong nhóm.</string>
+    <string name="group_chat_create translatable="true">Give this group ID to your friends so they can join the group:</string>
+    <string name="Specify_group_ID" translatable="true">Specify group ID</string>
     <string name="Failed">Thất bại.</string>
+    <string name="Joined_group" translatable="true">Joined group</string>
+    <string name="People" translatable="true">People</string>
     <string name="Failed_to_join">Không vào được</string>
     <string name="Full">Phòng đầy</string>
+    <string name="new_person_joined" translatable="true">NEW PERSON JOINED</string>
+    <string name="person_left" translatable="true">PERSON LEFT</string>
+    <string name="Left_the_group" translatable="true">Left the group</string>
     <string name="Tricks_Performed_">Tricks đã thực hiện:</string>
     <string name="Not_enough_plasma_">Không đủ plasma!</string>
     <string name="GET_PLASMA">LẤY HUYẾT TƯƠNG</string>
@@ -1116,6 +1178,7 @@
     <string name="Invites">Những lời mời</string>
     <string name="Show_Spectator_Count">Hiện số lượng người xem</string>
     <string name="TRY_IT_">THỬ ĐI!</string>
+    <string name="skin_trial_info" translatable="true">You can try this skin for one game. After you die or change, it will go away. When you are trying a skin, no one else can see it.\nPrice: %s plasma.</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Bạn cần phải mua gói này để có thể dùng.</string>
     <string name="GET_PACK">LẤY GÓI</string>
     <string name="Position_in_queue">Đang trong hàng đợi</string>
@@ -1123,10 +1186,22 @@
     <string name="DARK_MATTER">VẬT CHẤT TỐI</string>
     <string name="Textures_will_be_regenerated_">Kết cấu nền và skin tuỳ chỉnh sẽ được tải lại.</string>
     <string name="Enable_Profile_Colors">Mua màu sắc cho bìa hồ sơ</string>
+    <string name="mother_cell" translatable="true">MOTHER CELL</string>
+    <string name="shrink" translatable="true">SHRINK</string>
+    <string name="collect_all" translatable="true">COLLECT ALL</string>
+    <string name="magic_blob" translatable="true">MAGIC BLOB</string>
+    <string name="ice_split" translatable="true">ICE SPLIT</string>
+    <string name="circle" translatable="true">CIRCLE</string>
+    <string name="mega_pop" translatable="true">MEGA POP</string>
+    <string name="no_virus" translatable="true">SANDBOX (NO VIRUS)</string>
+    <string name="plasma_hunt" translatable="true">PLASMA HUNT</string>
+    <string name="speed" translatable="true">SPEED</string>
     <string name="Session_Stats">Phần thống kê</string>
     <string name="Time_">Thời gian:</string>
     <string name="Show_Session_Stats">Hiện phần thống kê</string>
     <string name="VALENTINES_DAY">"NGÀY VALENTINE"</string>
+    <string name="shared_pack_info" translatable="true">After you purchase this skin pack, your exclusive skins will appearat the top of the skin selection menus for you and your friend!</string>
+    <string name="shared_pack_purch_description" translatable="true">This is a special pack so both you and a friend will receive the pack!</string>
     <string name="Giveaways_">Quà miễn phí!</string>
     <string name="Max_XP_Chain_">Chuỗi XP dài nhất:</string>
     <string name="POSITION_CANCEL_BUTTON">Vị trí phím huỷ</string>
@@ -1136,11 +1211,13 @@
     <string name="Secondary">Thứ hai</string>
     <string name="Both">Cả hai</string>
 
-    <string name="Enable__Multiskin">"Bật 2 Skin"</string>
-    <string name="MULTISKIN">2 TRANG PHỤC CÙNG LÚC</string>
+    <string name="multiskin_period_description" translatable="true">Specify multiskin change period in seconds (0-10). 0 will disable multiskin.</string>
+    <string name="Enable__Multiskin">"Bật\nMultiskin"</string>
+    <string name="multiskin_description" translatable="true">Multiskin lets you use two skins that alternate by themselves. You can choose how fast they will change. When you reach level 1.000, this feature is free. If you buy multiskin before level 1.000, you may be able to receive a refund after reaching the level.</string>
+    <string name="MULTISKIN">MULTISKIN</string>
     <string name="DISABLED">TẮT</string>
 
-    <string name="Refund__Multiskin">Hoàn lại 2 Trang Phục</string>
+    <string name="Refund__Multiskin">Hoàn lại\nMultiskin</string>
     <string name="Invalid_Clan_ID_">ID hội không tồn tại.</string>
     <string name="MUTED">ĐÃ CHẶN TIN NHẮN</string>
     <string name="SKIN">SKIN</string>
@@ -1171,6 +1248,7 @@
     <string name="Mode_3D">Chế độ 3D</string>
     <string name="Names_Below_Blobs">Tên bên dưới đốm</string>
     <string name="Name_Scale_">"Kích Thước Tên:"</string>
+    <string name="poor_connection_quality_warning" translatable="true">Your device has a poor connection to the server. This might cause lag. Please check your Wi-Fi or mobile data, or try a different Internet connection. Also make sure you are playing on the closest server to you.</string>
     <string name="Button_3D">Nút 3D</string>
     <string name="Hide_Button_">Ẩn nút đi?</string>
     <string name="Show_Boost_Button">Hiện Nút Tăng</string>
@@ -1202,6 +1280,7 @@
     <string name="Win_100_Tournaments">Vô địch 100 giải đấu lớn</string>
     <string name="HERO">CHIẾN THẦN</string>
     <string name="CHAMPION">NHÀ VÔ ĐỊCH</string>
+    <string name="sandbox_warning" translatable="true">You cannot earn XP or plasma in sandbox mode!</string>
     <string name="DASH">LƯỚT</string>
     <string name="setting_changed">Đã cài lại giao diện. Bạn có thể cần phải kết nối lại để sử dụng giao diện mới.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Đạt tổng số 10.000 điểm trick trong chế độ trick mode.</string>
@@ -1230,6 +1309,16 @@
     <string name="Plasma_Boost_1_Day_">1 Ngày Tăng Plasma!</string>
     <string name="Plasma_Boost_2_Hours_">2 Tiếng Tăng Plasma.</string>
     <string name="Plasma_Boost">Tăng Plasma</string>
+    <string name="skin_warning" translatable="true">
+        "Your custom skin was not approved. Here are some of the common reasons for this. You should NOT upload:
+
+            1. A picture of someone shirtless;
+            2. A picture of someone in a suggestive pose or scene;
+            3. A picture that contains depictions of drugs (alcohol/cigar/weed);
+            4. An already existing Nebulous skin (such as level, achievement, season, plasma or exclusive skins from a pack). That skin must be modified in some meaningful way.
+
+        If you attempt on uploading the same refunded/rejected skin several times, you may receive more penalties or a ban."
+    </string>
     <string name="particle_info">Bạn cần phải đạt tối thiểu 50 cấp độ để có thể thấy những hiệu ứng chấm nhỏ hay dùng các hiệu ứng chấm nhỏ.</string>
     <string name="Plain_Score_Text">"Phần điểm"</string>
     <string name="Custom_Skin_Reviewed_Notification">Skin của bạn đã được đánh giá xong!</string>
@@ -1308,6 +1397,19 @@ Lệnh:
     <string name="no_response">Không có phản hồi từ máy chủ. Đề nghị kiểm tra kết nối mạng.</string>
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">TẤN CÔNG BẤT NGỜ</string>
+    <string name="sign_in_explanation" translatable="true">
+"Sign in to access multiplayer. With an account, you may be able to:
+
+- Play and communicate with the players around the world;
+- Level-up, unlock achievements and complete daily tasks for rewards;
+- Higher variety of skins since default, level, season, achievement, pets, hats, halos and packs;
+- Share your progress with third-party;
+- Create, manage and decorate your profile;
+- Purchase plasma at the shop;
+- Upload skins to the community and purchase user-generated skins.
+
+If you do not wish to sign in and enjoy the advantages, you might choose playing on single-player instead."
+    </string>
     <string name="_2x_skin_resolution">2x độ nét của Skin</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Các bạn đã là bạn.</string>
