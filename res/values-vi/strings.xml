@@ -1159,7 +1159,7 @@ This is a list of content that are *PROHIBITED* to contain on your skin:
     <string name="Specify_Group_ID" translatable="true">Chỉ Định ID Nhóm</string>
     <string name="Failed">Thất bại.</string>
     <string name="Joined_group" translatable="true">Bạn đã vào nhóm</string>
-    <string name="People" translatable="true">Người</string>
+    <string name="People" translatable="true">Mọi Người</string>
     <string name="Failed_to_join">Không vào được</string>
     <string name="Full">Phòng đầy</string>
     <string name="new_person_joined" translatable="true">MỘT NGƯỜI MỚI ĐÃ VÀO</string>
