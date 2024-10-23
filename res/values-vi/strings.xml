@@ -1156,7 +1156,7 @@ This is a list of content that are *PROHIBITED* to contain on your skin:
     <string name="Group">Nhóm</string>
     <string name="Not_in_a_group_">Không trong nhóm.</string>
     <string name="group_chat_create" translatable="true">Give this group ID to your friends so they can join the group:</string>
-    <string name="Specify_group_ID" translatable="true">Specify group ID</string>
+    <string name="Specify_Group_ID" translatable="true">Specify Group ID</string>
     <string name="Failed">Thất bại.</string>
     <string name="Joined_group" translatable="true">Joined group</string>
     <string name="People" translatable="true">People</string>
