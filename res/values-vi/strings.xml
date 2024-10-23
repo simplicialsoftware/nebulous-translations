@@ -1200,7 +1200,7 @@ This is a list of content that are *PROHIBITED* to contain on your skin:
     <string name="Time_">Thời gian:</string>
     <string name="Show_Session_Stats">Hiện phần thống kê</string>
     <string name="VALENTINES_DAY">"NGÀY VALENTINE"</string>
-    <string name="shared_pack_info" translatable="true">After you purchase this skin pack, your exclusive skins will appearat the top of the skin selection menus for you and your friend!</string>
+    <string name="shared_pack_info" translatable="true">After you purchase this skin pack, your exclusive skins will appear at the top of the skin selection menus for you and your friend!</string>
     <string name="shared_pack_purch_description" translatable="true">This is a special pack so both you and a friend will receive the pack!</string>
     <string name="Giveaways_">Quà miễn phí!</string>
     <string name="Max_XP_Chain_">Chuỗi XP dài nhất:</string>
