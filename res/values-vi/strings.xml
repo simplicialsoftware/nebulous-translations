@@ -1280,7 +1280,7 @@ This is a list of content that are *PROHIBITED* to contain on your skin:
     <string name="Win_100_Tournaments">Vô địch 100 giải đấu lớn</string>
     <string name="HERO">CHIẾN THẦN</string>
     <string name="CHAMPION">NHÀ VÔ ĐỊCH</string>
-    <string name="sandbox_warning" translatable="true">Bạn không thể nhận được XP hay là Plasma ở chế độ sandbox (không có virus)!</string>
+    <string name="sandbox_warning" translatable="true">Bạn không thể kiếm XP hay là Plasma ở chế độ sandbox (không có virus)!</string>
     <string name="DASH">LƯỚT</string>
     <string name="setting_changed">Đã cài lại giao diện. Bạn có thể cần phải kết nối lại để sử dụng giao diện mới.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Đạt tổng số 10.000 điểm trick trong chế độ trick mode.</string>
