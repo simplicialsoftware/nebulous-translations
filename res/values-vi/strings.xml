@@ -1095,7 +1095,7 @@ This is a list of content that are *PROHIBITED* to contain on your skin:
     <string name="community_skin_information_for_seller" translatable="true">When you turn a custom skin into a community skin, it will appear at the &#x201c;Community Skins&#x201d; tab. Other people can see and buy your skin at the Community! Each time someone buys your skins in the community, you will receive a small plasma amount.</string>
     <string name="community_skin_requirement">Bạn cần phải mua tuỳ chỉnh skin để có thể mua skin cộng đồng.</string>
     <string name="You_can_purchase_this_community_skin_for_">Bạn có thể mua skin cộng đồng này với</string>
-    <string name="community_skin_information_for_buyer" translatable="true">Community skins are uploaded by other users. Community skins work just like custom skins and can be animated with default Nebulous skins.</string>
+    <string name="community_skin_information_for_buyer" translatable="true">Skin Cộng Đồng được tải lên cho các người chơi khác. Skin Cộng Đồng hoạt động như skin tuỳ chỉnh và có thể hoạt hình vời skin mặc định Nebulous.</string>
     <string name="VIEW_UPLOADER">XEM NGƯỜI TẢI LÊN</string>
     <string name="POPULAR">PHỔ BIẾN</string>
     <string name="NEW">MỚI</string>
