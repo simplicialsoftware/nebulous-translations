@@ -13,7 +13,7 @@
     <string name="Server_">"Máy chủ:"</string>
     <string name="Game_Mode_">"Chế độ chơi:"</string>
     <string name="Show_Names">"Hiện Tên"</string>
-    <string name="Show_Avatars">"Hiện Trang Phục"</string>
+    <string name="Show_Avatars">"Hiện Skin"</string>
     <string name="PLAY">"CHƠI"</string>
     <string name="OPTIONS">"TÙY CHỌN"</string>
 
@@ -402,7 +402,7 @@
 
     <string name="Triple">"Gấp ba"</string>
     <string name="Leaf_Hoarder">"Người nhặt lá"</string>
-    <string name="Collect_5000_leaves_">"Thu thập 5000 lá."</string>
+    <string name="Collect_5000_leaves_">"Thu thập 5.000 lá."</string>
 
 
     <string name="Arena">"Đấu Trường"</string>
@@ -479,7 +479,7 @@
     <string name="Win_1_1v1_Arenas_">"Thắng 1 trận đấu trường"</string>
     <string name="Win_10_Arenas_">"Thắng 10 trận đấu trường"</string>
     <string name="Win_100_Arenas_">"Thắng 100 trận đấu trường"</string>
-    <string name="Win_1000_Arenas">"Thắng 1000 trận đấu trường"</string>
+    <string name="Win_1000_Arenas">"Thắng 1.000 trận đấu trường"</string>
 
 
     <string name="Already_in_arena_">"Đang đấu"</string>
@@ -537,7 +537,7 @@
     <string name="MANAGE_TEAMS">"QUẢN LÝ ĐỘI"</string>
     <string name="CLAN_INVITE">"MỜI VÀO HỘI"</string>
     <string name="TEAM_INVITE">"MỜI VÀO ĐỘI"</string>
-    <string name="Team_Size">"Loại hình:"</string>
+    <string name="Team_Size">"Kích Thước Đội:"</string>
     <string name="Team_Name">"Tên đội:"</string>
     <string name="CREATE_TEAM">"Tạo Đội"</string>
     <string name="Solo">"Đấu Đơn"</string>
@@ -598,16 +598,16 @@
     <string name="Enable_Custom_Skin">"Kích hoạt tùy chỉnh Skin"</string>
     <string name="Use_Custom_Skin">"Dùng Skin tuỳ chỉnh"</string>
     <string name="custom_skin_description">"Tính năng này cho phép bạn sử dụng hình ảnh cá nhân hoặc ảnh như skin của bạn. Bạn cần phải tải skin lên và đợi phê duyệt thì những người chơi khác mới thấy được skin."</string>
-    <string name="CUSTOM_SKIN">"Tùy chỉnh skin"</string>
+    <string name="CUSTOM_SKIN">"SKIN TUỲ CHỈNH"</string>
 
-    <string name="Facebook_Profile">"Dùng ảnh Facebook"</string>
+    <string name="Facebook_Profile">"Hồ sơ Facebook"</string>
     <string name="You_must_be_signed_in_to_Facebook_">"Bạn phải đăng nhập Facebook."</string>
-    <string name="copy_details">"sao chép chi tiết"</string>
-    <string name="copied_error_details_to_clipboard">"chi tiết lỗi sao chép vào clipboard"</string>
+    <string name="copy_details">"Sao chép chi tiết"</string>
+    <string name="copied_error_details_to_clipboard">"Chi tiết lỗi sao chép vào clipboard"</string>
 
-    <string name="No_file_browser_installed_">"Không có tập tin !"</string>
+    <string name="No_file_browser_installed_">"Không có tập tin!"</string>
     <string name="Choose_File">"Chọn Ảnh"</string>
-    <string name="Google_Profile">"Ảnh Google"</string>
+    <string name="Google_Profile">"Hồ sơ Google"</string>
     <string name="You_must_be_signed_in_to_Google_">"Bạn phải đăng nhập vào Google."</string>
 
     <string name="MAYHEM">"LỘN XỘN"</string>
@@ -694,10 +694,10 @@
     <string name="HOST">"CHỦ"</string>
     <string name="This_device_does_not_support_bluetooth_">"Thiết bị này không hỗ trợ bluetooth."</string>
     <string name="member_permissions">"Quyền thành viên"</string>
-    <string name="edit">"điều chỉnh"</string>
+    <string name="edit">"ĐIỀU CHỈNH"</string>
     <string name="start_clan_war">"Bắt đầu hội chiến"</string>
     <string name="join_clan_war">"Vào Hội Chiến"</string>
-    <string name="none">"không"</string>
+    <string name="none">"Không"</string>
     <string name="INVALID_TOKEN">"Mã không hợp lệ!"</string>
     <string name="banned_until">"Cấm cho đến khi: "</string>
     <string name="Note_Collector">"Nhà thu thập giai điệu"</string>
@@ -791,11 +791,11 @@
     <string name="name_color_instructions">"Chọn các ký tự bạn muốn thay đổi sau đó chọn màu sắc để thay đổi."</string>
     <string name="Cannot_change_this_character_">"Không thể thay đổi kí tự này"</string>
     <string name="ZOMBIE_APOCALYPSE">"ĐẠI DỊCH THÂY MA"</string>
-    <string name="Survive_a_Zombie_Apocalypse">"Sinh tồn trong đại dịch Zombie"</string>
+    <string name="Survive_a_Zombie_Apocalypse">"Sinh tồn trong Đại Dịch Thây Ma"</string>
     <string name="ZA">"ZA"</string>
     <string name="Pandemic">"Bị nhiễm"</string>
     <string name="Immunity">"Miễn dịch"</string>
-    <string name="Win_as_zombies_in_2_minutes_or_less_">"Chiến thắng như zombie trong 2 phút hoặc ít hơn."</string>
+    <string name="Win_as_zombies_in_2_minutes_or_less_">"Chiến thắng như thây ma trong 2 phút hoặc ít hơn."</string>
     <string name="Win_as_survivors_with_no_losses_">"Chiến thắng là người còn sống sót không có thiệt hại."</string>
     <string name="ZOMBIE_">"THÂY MA!"</string>
     <string name="SURVIVOR_">"NGƯỜI SỐNG SÓT !"</string>
@@ -863,10 +863,10 @@
     <string name="NOW">"HIỆN TẠI"</string>
     <string name="Team_Deathmatch_Domination">"Đội thống trị Deathmatch"</string>
     <string name="We_Will_Survive">"Chúng ta sẽ sống sót"</string>
-    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Chiến thắng với ít nhất 5 cầu thủ trong một trò chơi Team Deathmatch."</string>
-    <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"Sinh tồn nhưng không giành chiến thắng một trò chơi Team Deathmatch."</string>
-    <string name="Win_a_Team_Deathmatch_Game">"Giành chiến thắng một trò chơi Team Deathmatch"</string>
-    <string name="TEAM_DEATHMATCH">"Team Deathmatch"</string>
+    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Chiến thắng với ít nhất 5 cầu thủ trong một trò chơi Deathmatch Đội."</string>
+    <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"Sinh tồn nhưng không giành chiến thắng một trò chơi Deathmatch Đội."</string>
+    <string name="Win_a_Team_Deathmatch_Game">"Giành chiến thắng một trò chơi Deathmatch Đội"</string>
+    <string name="TEAM_DEATHMATCH">"DEATHMATCH ĐỘI"</string>
     <string name="Speed_Click_Toggle">"Tốc độ Bấm Chuyển đổi"</string>
     <string name="MOD">"QUẢN TRỊ VIÊN"</string>
     <string name="FAQ">"Câu hỏi thường gặp"</string>
@@ -907,7 +907,7 @@
     <string name="x3_Clan_XP_7_days">3x XP Hội 7 Ngày</string>
     <string name="x3_Clan_XP_1_Day">3x XP Hội 1 Ngày</string>
     <string name="x2_Clan_XP_1_Day">2x XP Hội 1 Ngày</string>
-    <string name="Pets">Thú cưng</string>
+    <string name="Pets">Thú Cưng</string>
     <string name="Pet">Thú</string>
     <string name="You_can_purchase_this_pet_for">Bạn có thể mua thú cưng này với</string>
     <string name="gift_to_friend">Tặng cho bạn bè</string>
@@ -935,7 +935,7 @@
     <string name="BLOB">ĐỐM</string>
     <string name="Clan_Pet_Uploads">Tải ảnh Thú hội</string>
     <string name="YT">TUBER</string>
-    <string name="FREE_TODAY">NAY MIỄN PHÍ! </string>
+    <string name="FREE_TODAY">NAY MIỄN PHÍ!</string>
     <string name="Cannot_cancel_this_skin_yet_">Không thể hủy skin này</string>
     <string name="SPLIT_16X">TÁCH 16x</string>
     <string name="SET_PUBLIC_DESCRIPTION">SỬA MIÊU TẢ</string>
@@ -974,11 +974,11 @@ If you notice a player breaking the rules of the game, please report it to a Mod
     <string name="Blob_Chat_Bubbles">Bong bóng chat</string>
     <string name="CHRISTMAS_ADVENT_SKINS">SỰ KIỆN GIÁNG SINH</string>
     <string name="You_cannot_open_this_present_yet_">Bạn chưa được mở hộp quà này!</string>
-    <string name="Open_Present">Mở quà </string>
+    <string name="Open_Present">Mở Quà</string>
     <string name="OPEN">MỞ</string>
     <string name="Halo">Hào quang</string>
     <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Để dùng skin này, bạn cần phải có %1$s và Thành tựu %2$s.</string>
-    <string name="Halos">hào quang</string>
+    <string name="Halos">Hào quang</string>
     <string name="CAMPAIGN">CHIẾN DỊCH</string>
     <string name="Mission">Ải</string>
     <string name="Kill_All_Bots">Ăn hết tất cả BOT</string>
@@ -988,7 +988,7 @@ If you notice a player breaking the rules of the game, please report it to a Mod
     <string name="Next_Mission">Ải tiếp theo</string>
     <string name="Objective">Nhiệm vụ</string>
     <string name="GAME">TRÒ CHƠI</string>
-    <string name="Saved_">Lưu !</string>
+    <string name="Saved_">Lưu!</string>
     <string name="Name_Opacity_">Độ mờ tên:</string>
     <string name="SET_PROFILE_PIC">CÀI ẢNH HỒ SƠ</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">CHẤP NHẬN TẤT CẢ BẠN MỚI</string>
@@ -1033,12 +1033,12 @@ If you notice a player breaking the rules of the game, please report it to a Mod
     <string name="CLAN_WAR_HISTORY">LỊCH SỬ HỘI CHIẾN</string>
     <string name="Particle">Chấm nhỏ</string>
     <string name="Privacy">Cài đặt chính sách</string>
-    <string name="EULA">EULA</string>
+    <string name="EULA">TTCPNDC</string>
     <string name="You_can_purchase_this_hat_for">Bạn có thể mua mũ này với</string>
     <string name="You_can_purchase_this_particle_for">Bạn có thể mua chấm nhỏ này với</string>
     <string name="You_can_purchase_this_eject_skin_for">Bạn có thể mua ảnh chất bắn ra này với</string>
-    <string name="Skin">Trang Phục</string>
-    <string name="Custom_Skin">"Skin tuỳ chỉnh</string>
+    <string name="Skin">Skin</string>
+    <string name="Custom_Skin">"Skin Tuỳ Chỉnh</string>
     <string name="Color">Màu sắc</string>
     <string name="RECENT_PLAYERS">NGƯỜI CHƠI GẦN ĐÂY</string>
     <string name="POSITION_CONTROL_STICK">"VỊ TRÍ NÚT DI CHUYỂN"</string>
@@ -1046,7 +1046,7 @@ If you notice a player breaking the rules of the game, please report it to a Mod
     <string name="POSITION_EJECT_BUTTON">VỊ TRÍ NÚT BẮN</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">VỊ TRÍ KÍCH HOẠT NÚT BẮN</string>
     <string name="WIFI">WIFI</string>
-    <string name="JOIN_IP">JOIN IP</string>
+    <string name="JOIN_IP">VÀO Ở IP</string>
     <string name="Specify_Host_IP">IP Chủ cụ thể</string>
     <string name="ADVANCED_SETUP">CÀI ĐẶT NÂNG CAO</string>
     <string name="WORLD_CUP_EVENT___">Sự kiện WORLD CUP!!!</string>
@@ -1093,7 +1093,7 @@ This is a list of content that are *PROHIBITED* to contain on your skin:
     <string name="Buy">Mua</string>
     <string name="Sell">Bán</string>
     <string name="community_skin_information_for_seller" translatable="true">When you turn a custom skin into a community skin, it will appear at the &#x201c;Community Skins&#x201d; tab. Other people can see and buy your skin at the Community! Each time someone buys your skins in the community, you will receive a small plasma amount.</string>
-    <string name="community_skin_requirement">Bạn cần phải mua tuỳ chỉnh skin để có thể mua skin cộng đồng.</string>
+    <string name="community_skin_requirement">Bạn cần phải &quot;Mua Skin Tuỳ Chỉnh&quot; để có thể mua skin cộng đồng.</string>
     <string name="You_can_purchase_this_community_skin_for_">Bạn có thể mua skin cộng đồng này với</string>
     <string name="community_skin_information_for_buyer" translatable="true">Skin Cộng Đồng được tải lên cho các người chơi khác. Skin Cộng Đồng hoạt động như skin tuỳ chỉnh và có thể hoạt hình vời skin mặc định Nebulous.</string>
     <string name="VIEW_UPLOADER">XEM NGƯỜI TẢI LÊN</string>
@@ -1128,11 +1128,11 @@ This is a list of content that are *PROHIBITED* to contain on your skin:
 
     <string name="pack_info">Khi bạn đã mua gói skin này, gói skin của bạn sẽ hiện trên đầu của phần chọn skin.</string>
 
-    <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins hiếm, thú cưng hiếm và hơn nữa!</string>
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skin, thú cưng, mũ ĐẶC BIỆT và hơn nữa!</string>
     <string name="BUY_NOW_">MUA NGAY ĐI!</string>
     <string name="already_purchased">Bạn hoặc người bạn mua cho đã sở hữu gói này rồi.</string>
-    <string name="Halo_Animations">Halo Animations</string>
-    <string name="Trick_Notifications">Trick Notifications</string>
+    <string name="Halo_Animations">Hoạt hình hào quang</string>
+    <string name="Trick_Notifications">Trông báo chế độ Trick</string>
     <string name="Channel">Kênh</string>
     <string name="Choose_Text_Size">Chọn kích thước chữ</string>
     <string name="LEVEL_COLOR">MÀU CẤP ĐỘ</string>
