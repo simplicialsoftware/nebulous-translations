@@ -1178,7 +1178,7 @@ This is a list of content that are *PROHIBITED* to contain on your skin:
     <string name="Invites">Những lời mời</string>
     <string name="Show_Spectator_Count">Hiện số lượng người xem</string>
     <string name="TRY_IT_">THỬ ĐI!</string>
-    <string name="skin_trial_info" translatable="true">Bạn thể thử skin này trong một chơi. Khi chết hay là thay đối, skin sẽ biến mất. Khi bạn thử một skin, không ai nữa sẽ thể nhìn.\nGiá: %s Plasma.</string>
+    <string name="skin_trial_info" translatable="true">Bạn có thể thử skin này trong một chơi. Khi chết hay là thay đối, skin sẽ biến mất. Khi bạn thử một skin, không ai nữa sẽ thể nhìn.\nGiá: %s Plasma.</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Bạn cần phải mua gói này để có thể dùng.</string>
     <string name="GET_PACK">LẤY GÓI</string>
     <string name="Position_in_queue">Đang trong hàng đợi</string>
