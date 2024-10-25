@@ -59,8 +59,8 @@
     <string name="SERVER">"Server"</string>
     <string name="Joining_game_in_">"Spiel beitreten in "</string>
     <string name="Game_Full">"Das Spiel ist voll!"</string>
-    <string name="US_East">"USA Osten"</string>
-    <string name="US_West">"USA Westen"</string>
+    <string name="US_East">"Osten USA"</string>
+    <string name="US_West">"Westen USA"</string>
     <string name="Europe">"Europa"</string>
     <string name="South_America">"Südamerika"</string>
 
@@ -131,7 +131,7 @@
     <string name="ERROR">"Fehler"</string>
     <string name="CONTINUE">"Weiter"</string>
     <string name="Global_" formatted="false">"Global %"</string>
-    <string name="FRIEND_CHAT">"Freunde Chat"</string>
+    <string name="FRIEND_CHAT">"Freundschafts-Chat"</string>
     <string name="LOBBY_NAME">"Lobby Name"</string>
     <string name="NULL">"Null"</string>
 
@@ -291,7 +291,7 @@
     <string name="No_such_user_found_">"Dieser Spieler wurde nicht gefunden!"</string>
     <string name="No_open_public_clans_exist_">"Es gibt keine öffentlichen Clans."</string>
     <string name="You_aren_t_invited_to_that_clan_">"Nicht zu diesem Clan eingeladen."</string>
-    <string name="No_such_clan_exists_">"DIeser Clan existiert nicht."</string>
+    <string name="No_such_clan_exists_">"Dieser Clan existiert nicht."</string>
     <string name="That_clan_is_full_">"Der Clan ist voll."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Anderer Benutzer ist kein Mitglied in deinem Clan"</string>
     <string name="_You_can_t_be_your_own_friend_">"Sie können nicht Ihr eigener Freund sein."</string>
@@ -445,7 +445,7 @@
 
     <string name="until">"bis"</string>
     <string name="New_Message_">"Neue Nachricht!"</string>
-    <string name="Seasonal">"Jahreszeitlich"</string>
+    <string name="Seasonal">"Saisonal"</string>
 
 
     <string name="Temporarily_Disabled_">"Vorübergehend deaktiviert."</string>
@@ -773,7 +773,7 @@
     <string name="Message">"Nachricht"</string>
     <string name="Subject">"Thema"</string>
     <string name="SEND">"Senden"</string>
-    <string name="To">"Nach"</string>
+    <string name="To">"An"</string>
     <string name="RESET">"Löschen"</string>
     <string name="Message_Sent_">"Nachricht wurde gesendet!"</string>
     <string name="From">"Von"</string>
@@ -790,7 +790,7 @@
     <string name="account_warning">Gebe NIE dein Konto-Passwort oder persönliche Informationen aus irgendwelchen Gründen weiter!</string>
     <string name="Clan_Hero">Clan-Held</string>
     <string name="Win_1000_Clan_Wars">Gewinne 1.000 Clankriege</string>
-    <string name="NAME_COLOR">Namenfarbe</string>
+    <string name="NAME_COLOR">Namensfarbe</string>
     <string name="name_color_instructions">Suche die Buchstaben aus, die Sie verändern wollen, dann die Farbe.</string>
     <string name="Cannot_change_this_character_">Dieser Buchstaben kann nicht verändert werden</string>
     <string name="ZOMBIE_APOCALYPSE">ZOMBIE-APOKALYPSE</string>
@@ -916,7 +916,7 @@
     <string name="gift_purchase_warning">"Nur der Freund wird das Plasma erhalten."</string>
     <string name="x2_Clan_XP_7_Days">"7 Tage Clan XP 2x"</string>
     <string name="RECEIVED">"Posteingang"</string>
-    <string name="SENT">"Gesendete Nachrichten"</string>
+    <string name="SENT">"Postausgang"</string>
     <string name="Enable_Invites">"Aktiviere Einladungen"</string>
     <string name="Game_Invitation">"Spiel Einladung"</string>
     <string name="__has_invited_you_to_join_their_game_">"%s hat dich eingeladen, deinem Spiel beizutreten!"</string>
@@ -1128,7 +1128,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Full">Voll</string>
     <string name="Tricks_Performed_">Tricks ausgeführt:</string>
     <string name="Not_enough_plasma_">Nicht genug Plasma!</string>
-    <string name="GET_PLASMA">ERHALTE PLASMA</string>
+    <string name="GET_PLASMA">PLASMA ERHALTEN</string>
     <string name="ASTEROIDS">ASTEROIDS</string>
     <string name="CHRISTMAS">WEINACHTEN</string>
     <string name="Reason">Grund</string>
@@ -1184,7 +1184,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Specify_amount_">Menge angeben:</string>
     <string name="Specify_amount_again_to_confirm_">Menge erneut angeben um es zu bestätigen:</string>
     <string name="Amounts_did_not_match_">Mengen stimmen nicht überein!</string>
-    <string name="RECEIVE_PLASMA">ERHALTE PLASMA</string>
+    <string name="RECEIVE_PLASMA">PLASMA ERHALTEN</string>
     <string name="MULTIBLOB">MULTIBLOB</string>
     <string name="Play_Nebulous_For_1_Year_">Spiele Nebulous für 1 Jahr!</string>
     <string name="Play_Nebulous_For_X_Years_">Spiele Nebulous für %d Jahre!</string>
