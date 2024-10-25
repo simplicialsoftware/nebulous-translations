@@ -1276,7 +1276,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Win_100_Tournaments">"100 Turnuva Kazanın"</string>
     <string name="HERO">"KAHRAMAN"</string>
     <string name="CHAMPION">"ŞAMPİYON"</string>
-    <string name="sandbox_warning" translatable="true">Virüs yok mounda XP veya Plazma kazanamazsınız!</string>
+    <string name="sandbox_warning" translatable="true">Virüs yok modunda XP veya Plazma kazanamazsınız!</string>
     <string name="DASH">"İLERİ ATILMA"</string>
     <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">"Cihazınızın sunucu ile bağlantısı zayıf. Bu gecikmeye neden olabilir. Lütfen WI-FI veya cep telefonu hizmetinizi kontrol edin veya farklı bir internet bağlantısı deneyin. Ayrıca size en yakın sunucuda oynadığınızdan emin olun."</string>
     <string name="setting_changed">"Ayarlar güncellendi. Etkinleşmesi için sunucuya yeniden bağlanmanız gerekebilmektedir."</string>
