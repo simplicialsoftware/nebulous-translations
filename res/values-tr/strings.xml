@@ -1153,8 +1153,8 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="LEAVE">"AYRIL"</string>
     <string name="Group">"Grup"</string>
     <string name="Not_in_a_group_">"Herhangi Bir Grupta Değilsiniz."</string>
-    <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">"Arkadaşlarınızın bu gruba girebilmesi için bu grubun kimliği'ni onlara ver:"</string>
-    <string name="Specify_Group_ID" translatable="true" tools:ignore="Untranslatable">"Özel Grup Kimliği"</string>
+    <string name="group_chat_create" translatable="true">"Arkadaşlarınızın bu gruba girebilmesi için bu grubun kimliği'ni onlara ver:"</string>
+    <string name="Specify_Group_ID" translatable="true">"Özel Grup Kimliği"</string>
     <string name="Failed">"Başarısız"</string>
     <string name="Joined_group" translatable="true">Gruptan katıldınız</string>
     <string name="People" translatable="true">Kişiler</string>
@@ -1204,7 +1204,6 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Max_XP_Chain_">"Max XP Zinciri:"</string>
     <string name="POSITION_CANCEL_BUTTON">"İPTAL DÜĞMESİ KONUMU"</string>
     <string name="INVISIBILITY">"GÖRÜNMEZLİK"</string>
-    <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Bu öge tek seferlik oyun için deneyebilirsiniz. Oyunda yenildiğiniz zaman ya da oyundan ayrıldığınız zaman öge kullanılamayacaktır. Not: Herhangi bir cilt denendiğinde onu senden başka kimse göremez.\nFiyat: %s plazma.</string>
     <string name="Set_Skin">"Cilt Ayarla"</string>
     <string name="Primary">"Birincil"</string>
     <string name="Secondary">"İkincil"</string>
@@ -1327,15 +1326,6 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Estimated_Earnings_">"Tahmini Kazanç: "</string>
     <string name="South_Africa">"Güney Afrika"</string>
     <string name="SPLIT_">"BÖLÜNME:"</string>
-    <string name="mother_cell" translatable="true" tools:ignore="Untranslatable">"Ana Hücre"</string>
-    <string name="collect_all" translatable="true" tools:ignore="Untranslatable">"Hepsini Topla"</string>
-    <string name="magic_blob" translatable="true" tools:ignore="Untranslatable">"Sihirli Baloncuk"</string>
-    <string name="ice_split" translatable="true" tools:ignore="Untranslatable">"Buzlu Bölünme"</string>
-    <string name="circle" translatable="true" tools:ignore="Untranslatable">"Çember"</string>
-    <string name="mega_pop" translatable="true" tools:ignore="Untranslatable">"Büyük Patlama"</string>
-    <string name="no_virus" translatable="true" tools:ignore="Untranslatable">"Diken Yok"</string>
-    <string name="plasma_hunt" translatable="true" tools:ignore="Untranslatable">"Plazma Avı"</string>
-    <string name="speed" translatable="true" tools:ignore="Untranslatable">"Hız"</string>
     <string name="WALLS">"DUVARLAR"</string>
     <string name="COMP_BANNED">"REKABET YASAĞI"</string>
     <string name="FIND_GAMES">"Oyun Bul"</string>
@@ -1347,7 +1337,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="BATTLE_ROYALE">"BATTLE ROYALE"</string>
     <string name="Battle_Royale">"Battle Royale"</string>
     <string name="The_winner_will_receive_x_plasma_">"Kazanan %s plazma alacaktır." </string>
-    <string name="admin_commands">"Yönetici Komutları"
+    <string name="admin_commands">"
 Komutlar:
 !kick [0–31]( Oyuncuyu At )
 !reset( Sıfırla )
@@ -1362,7 +1352,10 @@ Komutlar:
 !allow {id} ( İzin ver )
 !allow reset ( İzinleri Sıfırla )"
 !team {id} 1-2-3 (Yalnızca takımlı modlar)
-</string>
+!winner
+!stats
+!info"
+    </string>
     <string name="ID_Sort">"ID Sırala"</string>
     <string name="Master_Tamer">"Usta Evcilleştirici"</string>
     <string name="Get_ALL_Pets_To_Level_100_">"Tüm Evcil Hayvanları 100. seviye yapın."</string>
