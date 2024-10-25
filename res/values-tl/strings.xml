@@ -1153,8 +1153,8 @@ Commands:
     <string name="Attackers">Mga Umaatake</string>
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Nawawalang Permissions</string>
-    <string name="DELETE_ACCOUNT">I-DELETE ACCOUNT</string>
-    <string name="delete_prompt">Sigurado ka bang gusto mong i-delete ang iyong account? Ito ay PERMANENTE at HINDI NA MAIBABALIK!</string>
+    <string name="DELETE_ACCOUNT">TANGGALIN ANG ACCOUNT</string>
+    <string name="delete_prompt">Sigurado ka bang gusto mong tanggalin ang iyong account? Ito ay PERMANENTE at HINDI NA MAIBABALIK!</string>
 
 
     <string name="Type">Type</string>
