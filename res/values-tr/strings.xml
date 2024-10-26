@@ -1352,8 +1352,8 @@ Komutlar:
 !allow reset – İzinleri Sıfırla
 !team [1-3] {id} – Yalnızca takımlı modlar
 !winner – Oyna zaman ile kazanan
-!stats – Oturum istatistikler
-!info – Lobi bilgiler"
+!stats – Oturum istatistikleri
+!info – Lobi bilgileri"
     </string>
     <string name="ID_Sort">"ID Sırala"</string>
     <string name="Master_Tamer">"Usta Evcilleştirici"</string>
