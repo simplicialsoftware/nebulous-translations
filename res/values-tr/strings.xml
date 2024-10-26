@@ -1191,7 +1191,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="ice_split" translatable="true">BUZLU BÖLÜNME</string>
     <string name="circle" translatable="true">ÇEMBER</string>
     <string name="mega_pop" translatable="true">BÜYÜK PATLAMA</string>
-    <string name="no_virus" translatable="true">VİRÜS YOK</string>
+    <string name="no_virus" translatable="true">DİKEN YOK</string>
     <string name="plasma_hunt" translatable="true">PLAZMA AVI</string>
     <string name="speed" translatable="true">HIZ</string>
     <string name="Session_Stats">"Oturum İstatistikleri"</string>
@@ -1275,7 +1275,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Win_100_Tournaments">"100 Turnuva Kazanın"</string>
     <string name="HERO">"KAHRAMAN"</string>
     <string name="CHAMPION">"ŞAMPİYON"</string>
-    <string name="sandbox_warning" translatable="true">Virüs yok modunda XP veya Plazma kazanamazsınız!</string>
+    <string name="sandbox_warning" translatable="true">Diken yok modunda XP veya Plazma kazanamazsınız!</string>
     <string name="DASH">"İLERİ ATILMA"</string>
     <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">"Cihazınızın sunucu ile bağlantısı zayıf. Bu gecikmeye neden olabilir. Lütfen WI-FI veya cep telefonu hizmetinizi kontrol edin veya farklı bir internet bağlantısı deneyin. Ayrıca size en yakın sunucuda oynadığınızdan emin olun."</string>
     <string name="setting_changed">"Ayarlar güncellendi. Etkinleşmesi için sunucuya yeniden bağlanmanız gerekebilmektedir."</string>
