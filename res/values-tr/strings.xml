@@ -1344,7 +1344,6 @@ Komutlar:
 !welcome {karşılama mesajı}
 !difficulty [0-3] veya [1-4] Kampanya için
 !hidden – Gizli
-!guests – Misafirler
 !slowchat – Yavaş sohbet
 !pausechat – Sohbeti durdur
 !mute {id} – Sustur
