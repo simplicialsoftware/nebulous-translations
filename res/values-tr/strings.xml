@@ -129,7 +129,7 @@
     <string name="Friend_Request_Sent">"Arkadaşlık İsteği Gönderildi…"</string>
     <string name="ERROR">"HATA"</string>
     <string name="CONTINUE">"DEVAM EDİN"</string>
-    <string name="Global_" formatted="false">"Küresel %"</string>
+    <string name="Global_" formatted="false">"Küresel"</string>
     <string name="FRIEND_CHAT">"ARKADAŞINIZ İLE SOHBET"</string>
     <string name="LOBBY_NAME">"LOBİ ADI"</string>
     <string name="NULL">"GEÇERSİZ"</string>
@@ -1339,22 +1339,22 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="The_winner_will_receive_x_plasma_">"Kazanan %s plazma alacaktır." </string>
     <string name="admin_commands">"
 Komutlar:
-!kick [0–31]( Oyuncuyu At )
-!reset( Sıfırla )
-!welcome {message} ( Karşılama Mesajı )
-!difficulty [0-3] ya da [1-4] Kampanya İçin ( Zorluk Seviyesi )
-!hidden ( Gizli )
-!guests ( Misafirler )
-!slowchat ( Yavaş Sohbet )
-!pausechat ( Sohbeti Durdur )
-!mute {id} ( Sustur )
-!admin {id} ( Yönetici ekle/kaldır )
-!allow {id} ( İzin ver )
-!allow reset ( İzinleri Sıfırla )"
-!team {id} 1-2-3 (Yalnızca takımlı modlar)
-!winner
-!stats
-!info"
+!kick [0–31] – Oyuncuyu at
+!reset – Sıfırla
+!welcome {karşılama mesajı}
+!difficulty [0-3] veya [1-4] Kampanya için
+!hidden – Gizli
+!guests – Misafirler
+!slowchat – Yavaş sohbet
+!pausechat – Sohbeti durdur
+!mute {id} – Sustur
+!admin {id} – Yönetici ekle/kaldır
+!allow {id} – İzin ver
+!allow reset – İzinleri Sıfırla
+!team [1-3] {id} – Yalnızca takımlı modlar
+!winner – Oyna zaman ile kazanan
+!stats – Oturum istatistikler
+!info – Lobi bilgiler"
     </string>
     <string name="ID_Sort">"ID Sırala"</string>
     <string name="Master_Tamer">"Usta Evcilleştirici"</string>
