@@ -217,7 +217,7 @@
     <string name="GOAL_">"GOAL!:"</string>
     <string name="SOCCER">"SOCCER:"</string>
     <string name="DRAW">"PATAS:"</string>
-    <string name="Clan_Name">"Clan Name:"</string>
+    <string name="Clan_Name">"pangalan ng angkan:"</string>
     <string name="Clan">"Clan:"</string>
     <string name="JOIN_CLAN">"SUMALI SA CLAN:"</string>
     <string name="JOIN_RANDOM_CLAN">"SUMALI SA KAHIT ANONG CLAN:"</string>
@@ -673,7 +673,7 @@
     <string name="account_warning">"Huwag kailanman ibahagi ang iyong account password o personal na impormasyon sa sinuman para sa anumang dahilan!"</string>
     <string name="Clan_Hero">"Clan Hero"</string>
     <string name="Win_1000_Clan_Wars">"Manalo ng 1,000 Clan Wars"</string>
-    <string name="NAME_COLOR">"NAME COLOR"</string>
+    <string name="NAME_COLOR">"KULAY NG PANGALAN"</string>
     <string name="name_color_instructions">"Piliin ang mga character na gusto mong baguhin at pagkatapos ay piliin ang kulay na baguhin ang mga ito."</string>
     <string name="Cannot_change_this_character_">"Hindi maaaring baguhin ang character na ito"</string>
     <string name="ZOMBIE_APOCALYPSE">"ZOMBIE APOCALYPSE"</string>
@@ -714,7 +714,7 @@
     <string name="Tuber">"Tuber"</string>
     <string name="youtube_prompt">"Gusto mo bang bisitahin ang Nebulous Youtube channel? Ang mga channels ay hindi kaakibat sa mga tagalikha ng Nebulous."</string>
     <string name="Tournament_Matches_Won_">"Mga napanalunang Tournament Matches:"</string>
-    <string name="PAINT">"PAINT"</string>
+    <string name="PAINT">"PINTA"</string>
     <string name="BLOCKED_ACCOUNTS">"NAKA-BLOCKED NA ACCOUNTS"</string>
     <string name="UNBLOCK">"UNBLOCK"</string>
     <string name="Emotes">"Emotes"</string>
@@ -724,7 +724,7 @@
     <string name="This_is_you_">"Ikaw ito."</string>
     <string name="Win_a_Paint_Game">"Manalo ng isang Paint Game"</string>
     <string name="Whiteout">"Whiteout"</string>
-    <string name="Speed_Painter">"Speed ​​Painter"</string>
+    <string name="Speed_Painter">"Bilis ng Pintor"</string>
     <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"Manalo ng isang Paint Game ng lahat ng kalaban ay may iskor na 0."</string>
     <string name="Win_a_Paint_game_in_60_seconds_or_less_">"Manalo ng isang Pain Game sa loob ng 60 segundo o mas mababa pa."</string>
     <string name="Autoclick">"Autoclick"</string>
