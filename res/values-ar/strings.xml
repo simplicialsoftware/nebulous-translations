@@ -38,7 +38,7 @@
     <string name="Recombine_">"إعادة التجميع: "</string>
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"خمول"</string>
-    <string name="Name_Invalid_">"الإسم غير صالح !"</string>
+    <string name="Name_Invalid_">"الإسم غير صالح "</string>
     <string name="Name_Taken_">"الاسم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
@@ -110,7 +110,7 @@
     <string name="FRIENDS">"صَـديـق"</string>
     <string name="Warning">"تحذير"</string>
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
-    <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
+    <string name="New_Friend_Request">"طلب صداقة جديد"</string>
     <string name="REQUEST_FRIEND">"إرسال طلب صداقة"</string>
     <string name="Private">"خاص"</string>
     <string name="Public">"عام"</string>
@@ -317,9 +317,9 @@
     <string name="Translations">"المـتـرجمـون"</string>
     <string name="Developers">"المـطـورون"</string>
     <string name="Special_Thanks">"شُـكـر خـاص"</string>
-    <string name="Many_Thanks_To_Every_Nebulous_Fan">"شُـكـر كـبـيـر لـكـل مـشـجـعي Nebulous!"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"شُـكـر كـبـيـر لـكـل مـشـجـعي Nebulous"</string>
     <string name="Color_Blind">"عمى الألوان"</string>
-    <string name="Daily_Quest_Complete_">"تم إنجاز المهمة اليومية !"</string>
+    <string name="Daily_Quest_Complete_">"تم إنجاز المهمة اليومية "</string>
     <string name="COPY_ID">"نسخ رقم الهوية"</string>
     <string name="My_Account_ID">"نسخ رقم هوية حسابي"</string>
 
