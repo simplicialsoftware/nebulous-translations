@@ -1028,13 +1028,13 @@ If you notice a player breaking the rules of the game, please do not hesitate on
     <string name="Save_the_profile_first">Save the profile first</string>
     <string name="Birthday">Birthday</string>
     <string name="Mass_Boost">Mass Boost</string>
-    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Mass Boost does not work in arenas, tournaments, clan wars, Battle royale and FFA Classic!</string>
+    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Mass Boost does not work in arenas, tournaments, clan wars, battle royale, and FFA Classic!</string>
     <string name="ArenaDescriptionPure">NO autoclick or ultraclick. You only get one life. The winner will receive %s plasma. Trading wins or "free wins" will result in a ban.</string>
     <string name="_1v1_Pure">1v1 Pure</string>
     <string name="Allow_Ultraclick">Allow Ultraclick</string>
     <string name="Allow_Mass_Boost">Allow Mass Boost</string>
     <string name="Challenges_Won_">Challenges Won:</string>
-    <string name="trophy_info">Trophies are awarded at the end of each arena or team arena season for 1st, 2nd and 3rd places. Trophies are only awarded in active regions with lots of players.</string>
+    <string name="trophy_info">Trophies are awarded at the end of each arena or team arena season for 1st, 2nd, and 3rd places. Trophies are only awarded in active regions with lots of players.</string>
     <string name="BLOCKED">BLOCKED</string>
     <string name="CLAN_WAR_HISTORY">CLAN WAR HISTORY</string>
     <string name="Particle">Particle</string>
@@ -1078,7 +1078,7 @@ If your custom skin is refunded, you should not attempt on uploading the same ag
 
 This is a list of content that are *PROHIBITED* to use in the custom skins:
 - Skins that contain sexual references
-- Skins that contain already existing Nebulous arts (such as level, achievement, season, plasma, pets or exclusive pack skins)
+- Skins that contain already existing Nebulous arts (such as level, achievement, season, plasma, pets, or exclusive pack skins)
 - Skins that contain gore/suicidal references
 - Shirtless/Nude skins
 - Very dark skins
@@ -1105,7 +1105,7 @@ If you attempt on uploading a skin that contains the items listed above, it will
     <string name="Buy">Buy</string>
     <string name="Sell">Sell</string>
     <string name="community_skin_information_for_seller" translatable="false">When you make your custom skin a community skin, it will be listed in the community skins tab. Other people can see and buy your community skin! Every time someone buys your community skin, you (or your clan) get a small amount of plasma.</string>
-    <string name="community_skin_requirement">You must purchase the \"Enable Custom Skin\" feature to be able to use community skins.</string>
+    <string name="community_skin_requirement">You must purchase the \"Enable Custom Skin\" feature in order to use community skins.</string>
     <string name="You_can_purchase_this_community_skin_for_">You can purchase this community skin for</string>
     <string name="community_skin_information_for_buyer" translatable="false">Community skins are uploaded by other players. Community skins work just like custom skins and can be animated with default Nebulous skins.</string>
     <string name="VIEW_UPLOADER">VIEW UPLOADER</string>
@@ -1222,7 +1222,7 @@ If you attempt on uploading a skin that contains the items listed above, it will
     <string name="Primary">Primary</string>
     <string name="Secondary">Secondary</string>
     <string name="Both">Both</string>
-    <string name="multiskin_period_description" translatable="false">"Specify multiskin change period in seconds (0–10). 0 will disable multiskin. Decimal numbers are also valid."</string>
+    <string name="multiskin_period_description" translatable="false">"Specify multiskin change period in seconds (0–10). 0 will disable multiskin. Decimal values are also valid."</string>
     <string name="Enable__Multiskin">"Enable\nMultiskin"</string>
     <string name="multiskin_description" translatable="false">"Multiskin lets you use two skins that alternate by themselves. You choose how fast they will change. When you reach level 1,000, this feature is free. If you buy multiskin before level 1,000, you will be able to refund your plasma after reaching the level."</string>
     <string name="MULTISKIN">MULTISKIN</string>
@@ -1413,10 +1413,10 @@ Commands:
 "Sign in to access multiplayer. With an account, you may be able to:
 
 - Play and communicate with the players around the world
-- Level-up, unlock achievements and complete daily tasks for rewards
-- Higher variety of skins since default, level, season, achievements, pets, hats, halos and packs
+- Level-up, unlock achievements, and complete daily tasks for rewards
+- Higher variety of skins since default, level, season, achievements, pets, hats, halos, and packs
 - Share your progress with third-party
-- Create, manage and decorate a profile
+- Create, manage, and decorate a profile
 - Purchase plasma at the shop
 - Upload skins to the community and purchase user-generated skins
 
