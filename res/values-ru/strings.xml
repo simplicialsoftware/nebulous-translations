@@ -45,7 +45,7 @@
     <string name="CONNECTED">"Подключение"</string>
     <string name="JOINING___">"Присоединение…"</string>
     <string name="PLAYING">"ИГРАТЬ"</string>
-    <string name="MULTIPLAYER">"МУЛЬТИПЛЕЕР"</string>
+    <string name="MULTIPLAYER">"МУЛЬТИПЛЕЙЕР"</string>
 
     <string name="JOIN">"ПРИСОЕДИНИТЬСЯ"</string>
 
@@ -57,7 +57,7 @@
 
 
     <string name="SERVER">"СЕРВЕР"</string>
-    <string name="Joining_game_in_">"Присоединение в игру через "</string>
+    <string name="Joining_game_in_">"Присоединение к игре через "</string>
     <string name="Game_Full">"Сервер полон"</string>
     <string name="US_East">"США Восток"</string>
     <string name="US_West">"США Запад"</string>
@@ -403,7 +403,7 @@
 
 
     <string name="Triple">"3Х"</string>
-    <string name="Leaf_Hoarder">"Листовое сокровище"</string>
+    <string name="Leaf_Hoarder">"Собиратель листьев"</string>
     <string name="Collect_5000_leaves_">"Соберите 5000 листьев."</string>
 
 
