@@ -1,9 +1,9 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+ﻤ<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"اللاعبين."</string>
     <string name="Control_">"التحكم"</string>
     <string name="CLOSE">"إغلاق"</string>
-    <string name="Stick_Size_">"حجم موجه الدائرة:"</string>
-    <string name="Stick_Margin_">"إرتفاع موجه الدائرة:"</string>
+    <string name="Stick_Size_">"حجم موجة الدائرة:"</string>
+    <string name="Stick_Margin_">"إرتفاع موجة الدائرة:"</string>
     <string name="Button_Size_">"حجم الأزرار:"</string>
     <string name="Button_Margin_">"إرتفاع الأزرار:"</string>
     <string name="Buttons_">"الأزرار:"</string>
@@ -107,7 +107,7 @@
     <string name="PAUSED">"توقف"</string>
 
 
-    <string name="FRIENDS">"صَـديـق"</string>
+    <string name="FRIENDS">"الاصدقاء "</string>
     <string name="Warning">"تحذير"</string>
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
