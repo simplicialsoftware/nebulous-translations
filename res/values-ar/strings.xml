@@ -17,7 +17,7 @@
     <string name="PLAY">"إلعب"</string>
     <string name="OPTIONS">"الإعدادات"</string>
 
-    <string name="Avatar_">"الصورة"</string>
+    <string name="Avatar_">"الصورة الشخصية"</string>
     <string name="Name_">"الإسم"</string>
 
     <string name="Loading___">"جاري التحميل…"</string>
@@ -276,7 +276,7 @@
     <string name="ELDER">"نائب المشرف"</string>
 
 
-    <string name="Not_in_a_clan_">"انت لست عضواً في أي عشيرة."</string>
+    <string name="Not_in_a_clan_">" ليس عضواً في أي عشيرة."</string>
 
 
     <string name="CLAN">"العشيرة"</string>
@@ -447,7 +447,7 @@
 
 
     <string name="Temporarily_Disabled_">"موقوف مؤقتا."</string>
-    <string name="BIGGEST">"أكبر"</string>
+    <string name="BIGGEST">"الأكبر"</string>
 
 
     <string name="Copy_ID">"نسخ رقم الهوية"</string>
@@ -771,7 +771,7 @@
     <string name="Subject">"الموضوع"</string>
     <string name="SEND">"إرسال"</string>
     <string name="To">"إلى"</string>
-    <string name="RESET">"إرجاع"</string>
+    <string name="RESET">"اعادة"</string>
     <string name="Message_Sent_">"تم إرسال الرسالة!"</string>
     <string name="From">"من عند"</string>
     <string name="Sent">"تم الإرسال"</string>
