@@ -976,9 +976,9 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="You_cannot_open_this_present_yet_">¡No puedes abrir este regalo todavía!</string>
     <string name="Open_Present">Abrir Regalo</string>
     <string name="OPEN">ABRIR</string>
-    <string name="Halo">Halo</string>
-    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Para usar este halo debes tener un nivel mínimo %1$s y desbloquear los logros %2$s."</string>
-    <string name="Halos">Halos</string>
+    <string name="Halo">Aura</string>
+    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Para usar esta aura debes tener un nivel mínimo %1$s y desbloquear los logros %2$s."</string>
+    <string name="Halos">Auras</string>
     <string name="CAMPAIGN">CAMPAÑA</string>
     <string name="Mission">Misión</string>
     <string name="Kill_All_Bots">MATA TODOS LOS BOTS</string>
@@ -1134,7 +1134,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">¡Skins, Mascotas, Sombreros y Más EXCLUSIVAS!</string>
     <string name="BUY_NOW_">¡COMPRAR AHORA!</string>
     <string name="already_purchased">Tú o la persona para la que estás comprando esto ya sois dueños de esto.</string>
-    <string name="Halo_Animations">Animación del Halo</string>
+    <string name="Halo_Animations">Animación del Aura</string>
     <string name="Trick_Notifications">Notificación de Tricks</string>
     <string name="Channel">Canal</string>
     <string name="Choose_Text_Size">Selecciona Tamaño de Texto</string>
