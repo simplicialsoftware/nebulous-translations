@@ -1097,10 +1097,10 @@ If you attempt on uploading a skin that contains the items listed above, it will
     <string name="Community">Сообщество</string>
     <string name="Buy">Купить</string>
     <string name="Sell">Продать</string>
-    <string name="custom_skin_information_for_seller" translatable="true">When you make your custom skin a community skin, it will be listed in the &#x201c;Community Skins&#x201d; tab. Other people can see and buy your community skin! Every time someone buys your community skin, you (or your clan) get a small amount of plasma.</string>
+    <string name="custom_skin_information_for_seller" translatable="true">Когда вы делаете свой кастомный скин скином для сообщества, то он будет находиться в разделе для скинов сообщества. Другие игроки смогут увидеть и купить ваш скин сообщества! Каждый раз когда кто-то покупает ваш скин сообщества вы (или ваш клан) получаете(-ет) маленькую сумму плазмы.</string>
     <string name="community_skin_requirement">Вы должны купить возможность устанавливать приватный скин, чтобы использовать скины сообщества.</string>
     <string name="You_can_purchase_this_community_skin_for_">Вы можете купить этот скин сообщества за</string>
-    <string name="community_skin_information_for_buyer" translatable="true">Community skuns are uploaded by other players. Community skins work just like custom skins and can be animated with default Nebulous skins.</string>
+    <string name="community_skin_information_for_buyer" translatable="true">Скины сообщества опубликуются другими игроками. Скины сообщества работают так же, как и кастомные скины и могут носить эффекты от обычных скинов.</string>
     <string name="VIEW_UPLOADER">Посмотреть загрузчика</string>
     <string name="POPULAR">Популярные</string>
     <string name="NEW">Новые</string>
@@ -1206,7 +1206,7 @@ If you attempt on uploading a skin that contains the items listed above, it will
     <string name="Show_Session_Stats">Отображать статистику игры</string>
     <string name="VALENTINES_DAY">"ДЕНЬ СВЯТОГО ВАЛЕНТИНА"</string>
     <string name="shared_pack_info" translatable="true">After you purchase this skin pack, your exclusive skins will appear at the top of the skin selection menus for you and your friend!</string>
-    <string name="shared_pack_purch_description" translatable="false">This is a special pack so both you and a friend will receive it!</string>
+    <string name="shared_pack_purch_description" translatable="true">This is a special pack so both you and a friend will receive it!</string>
     <string name="Giveaways_">Розыгрыши!</string>
     <string name="Max_XP_Chain_">Максимальное кол-во опыта (за 1 раз):</string>
     <string name="POSITION_CANCEL_BUTTON">МЕСТО КНОПКИ ОТМЕНЫ</string>
@@ -1216,9 +1216,9 @@ If you attempt on uploading a skin that contains the items listed above, it will
     <string name="Secondary">Второй</string>
     <string name="Both">Оба</string>
 
-    <string name="multiskin_period_description" translatable="false">"Specify multiskin change period in seconds (0–10). 0 will disable multiskin. Decimal values are also valid."</string>
+    <string name="multiskin_period_description" translatable="true">"Specify multiskin change period in seconds (0–10). 0 will disable multiskin. Decimal values are also valid."</string>
     <string name="Enable__Multiskin">"Включить\nМультискин"</string>
-    <string name="multiskin_description" translatable="false">"Multiskin lets you use two skins that alternate by themselves. You choose how fast they will change. When you reach level 1 000, this feature is free. If you buy multiskin before level 1 000, you will be able to refund your plasma after reaching the level."</string>
+    <string name="multiskin_description" translatable="true">"Multiskin lets you use two skins that alternate by themselves. You choose how fast they will change. When you reach level 1 000, this feature is free. If you buy multiskin before level 1 000, you will be able to refund your plasma after reaching the level."</string>
     <string name="MULTISKIN">МУЛЬТИСКИН</string>
     <string name="DISABLED">ВЫКЛЮЧЕН</string>
 
@@ -1253,7 +1253,7 @@ If you attempt on uploading a skin that contains the items listed above, it will
     <string name="Mode_3D">3D Режим</string>
     <string name="Names_Below_Blobs">Имена под игроками</string>
     <string name="Name_Scale_">"Шкала имен:"</string>
-    <string name="poor_connection_quality_warning" translatable="false">Your device has a poor connection to the server. This might cause lag. Please check your WiFi or mobile data, or try a different Internet connection. Also make sure you are playing on the closest server to you.</string>
+    <string name="poor_connection_quality_warning" translatable="true">Ваше устройство имеет нестабильное соединение с сервером. Это вызывает подвисания в игре. Пожалуйста смените WIFI или измените провайдер. Так-же убедитесь, что вы играете на ближайшем к вам сервере.</string>
     <string name="Button_3D">Кнопка 3D</string>
     <string name="Hide_Button_">Спрятать кнопку</string>
     <string name="Show_Boost_Button">Отображать кнопку ускорения</string>
@@ -1314,7 +1314,7 @@ If you attempt on uploading a skin that contains the items listed above, it will
     <string name="Plasma_Boost_1_Day_">Увеличение плазмы на 1 день!!</string>
     <string name="Plasma_Boost_2_Hours_">Увеличение плазмы на 2 часа!</string>
     <string name="Plasma_Boost">Увеличение плазмы</string>
-    <string name="skin_warning" translatable="false">
+    <string name="skin_warning" translatable="true">
         "Your custom skin was not approved. Here are the most common reasons for this. You must NOT upload:
 
 		1. A photograph of someone shirtless.
@@ -1330,8 +1330,6 @@ If you attempt on uploading a skin that contains the items listed above, it will
     <string name="You_Have_Mail_">У вас новое сообщение от %s!</string>
     <string name="Clan_Request_Reviewed_Notification">Ваш запрос на вступление в клан %s был рассмотрен!</string>
     <string name="CRAZY_SPLIT">Невероятное разделение 32x</string>
-    <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">Скины сообщества опубликуются другими игроками. Скины сообщества работают так же, как и кастомные скины и могут носить эффекты от обычных скинов.</string>
-    <string name="community_skin_information_for_seller" translatable="true" tools:ignore="Untranslatable">Когда вы делаете свой кастомный скин скином для сообщества, то он будет находиться в разделе для скинов сообщества. Другие игроки смогут увидеть и купить ваш скин сообщества! Каждый раз когда кто-то покупает ваш скин сообщества вы (или ваш клан) получаете(-ет) маленькую сумму плазмы. Скины сообщества не могут быть фото настоящих людей!</string>
     <string name="Sold_Community_Skins_">Куплено ваших скинов: </string>
     <string name="Estimated_Earnings_">Куплено скинов (у вас) на сумму: </string>
     <string name="South_Africa">Южная Африка</string>
@@ -1340,7 +1338,6 @@ If you attempt on uploading a skin that contains the items listed above, it will
     <string name="COMP_BANNED">БАН В СОРЕВНОВАНИЯХ</string>
     <string name="FIND_GAMES">ИСКАТЬ ИГРЫ</string>
     <string name="PLAY_SOLO">ИГРАТЬ ОДНОМУ</string>
-    <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">Ваше устройство имеет нестабильное соединение с сервером. Это вызывает подвисания в игре. Пожалуйста смените WIFI или измените провайдер. Так-же убедитесь, что вы играете на ближайшем к вам сервере.</string>
     <string name="SET_EMOTE">УСТАНОВИТЬ ЭМОЦИЮ</string>
     <string name="Winner_Winner_Chicken_Dinner">Выигрыш есть - можно поесть!</string>
     <string name="Win_a_Battle_Royale_">Выиграть в режиме королевская битва.</string>
