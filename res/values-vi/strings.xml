@@ -6,9 +6,9 @@
     <string name="Stick_Margin_">"Vị trí phím:"</string>
     <string name="Button_Size_">"Kích thước nút:"</string>
     <string name="Button_Margin_">"Vị trí nút:"</string>
-    <string name="Buttons_">"Nút Bấm:"</string>
+    <string name="Buttons_">"Các nút:"</string>
     <string name="DEFAULTS">"MẶC ĐỊNH"</string>
-    <string name="WEEKLY">"TUẦN"</string>
+    <string name="WEEKLY">"HÀNG TUẦN"</string>
     <string name="DAILY">"HÀNG NGÀY"</string>
     <string name="Server_">"Máy chủ:"</string>
     <string name="Game_Mode_">"Chế độ chơi:"</string>
