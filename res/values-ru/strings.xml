@@ -1052,6 +1052,40 @@
     <string name="WORLD_CUP_EVENT___">ЧЕМПИОНАТ МИРА!!!</string>
     <string name="world_cup_event_description">Двойное XP и двойная плазма в режиме футбола до конца чемпионата мира!</string>
     <string name="GIF_Skins">GIF скины</string>
+    <string name="upload_details" translatable="true">
+        "CUSTOM SKINS
+
+When you upload a skin, the image quality will decrease, but this doesn\'t matter too much and is common (you may not notice significant differences while you play).
+
+In Review (Yellow Highlight): This means your skin is being reviewed by our moderation team. You must wait for it to be approved.
+
+Approved (Green Highlight): This means your skin meets the established Custom Skin Guidelines and can be viewed by other players.
+
+Refunded (Orange Highlight): This means you received a refund of the skin, because it does not meet the established guidelines. You must not upload the same skin or one that contains similar violations.
+
+Rejected (Red Highlight): This means your skin cannot be viewed by other players because of the inappropriate content on it. You will have your plasma lost, unlike the refunded case.
+
+
+WHY DID MY CUSTOM SKIN GET REFUNDED OR REJECTED?
+
+If your custom skin is refunded, you should not attempt on uploading the same again, otherwise your plasma will be lost.
+
+This is a list of content that are *PROHIBITED* to use in the custom skins:
+- Skins that contain sexual references
+- Skins that contain already existing Nebulous arts (such as level, achievement, season, plasma, pets, or exclusive pack skins)
+- Skins that contain gore/suicidal references
+- Shirtless/Nude skins
+- Very dark skins
+- Totally transparent skins (unidentifiable)
+- Skins that contain drugs (alcohol/cigarettes/marijuana)
+- Skins that contain NSFW pages
+- Skins that contain necklines on the body
+- Skins that contain racism/nazism/violence references
+- Skins that contain people using a weapon
+- Skins that contain obscene signals with hands (it may vary depending of the region, so be vehemently careful with cases like that).
+
+If you attempt on uploading a skin that contains the items listed above, it will be refunded or rejected."
+    </string>
     <string name="PLAY_ONLINE_">ИГРАТЬ ОНЛАЙН!</string>
     <string name="Absorb_10_000_000_dots">Соберите 10,000,000 точек</string>
     <string name="Dot_Deity">Бог точек</string>
@@ -1063,8 +1097,10 @@
     <string name="Community">Сообщество</string>
     <string name="Buy">Купить</string>
     <string name="Sell">Продать</string>
+    <string name="custom_skin_information_for_seller" translatable="true">When you make your custom skin a community skin, it will be listed in the &#x201c;Community Skins&#x201d; tab. Other people can see and buy your community skin! Every time someone buys your community skin, you (or your clan) get a small amount of plasma.</string>
     <string name="community_skin_requirement">Вы должны купить возможность устанавливать приватный скин, чтобы использовать скины сообщества.</string>
     <string name="You_can_purchase_this_community_skin_for_">Вы можете купить этот скин сообщества за</string>
+    <string name="community_skin_information_for_buyer" translatable="true">Community skuns are uploaded by other players. Community skins work just like custom skins and can be animated with default Nebulous skins.</string>
     <string name="VIEW_UPLOADER">Посмотреть загрузчика</string>
     <string name="POPULAR">Популярные</string>
     <string name="NEW">Новые</string>
@@ -1105,7 +1141,7 @@
     <string name="Channel">Канал</string>
     <string name="Choose_Text_Size">Выберите размер текста</string>
     <string name="LEVEL_COLOR">Цвет уровня</string>
-    <string name="level_color_instructions" translatable="false" tools:ignore="Untranslatable"> Выберите цвет уровня.</string>
+    <string name="level_color_instructions" translatable="true" tools:ignore="Untranslatable"> Выберите цвет уровня.</string>
     <string name="INITIATE">Новичок</string>
     <string name="x3_Clan_XP_Perm">3X КЛАНОВЫЙ XP НАВСЕГДА</string>
     <string name="x2_Clan_XP_Perm">2X КЛАНОВЫЙ XP НАВСЕГДА</string>
@@ -1124,9 +1160,16 @@
     <string name="LEAVE">Покинуть</string>
     <string name="Group">Группа</string>
     <string name="Not_in_a_group_">Не в группе.</string>
+    <string name="group_chat_create" translatable="true">Give this group ID to your friends so they can join the group:</string>
+    <string name="Specify_Group_ID" translatable="true">Specify Group ID</string>
     <string name="Failed">Не удалось</string>
+    <string name="Joined_group" translatable="true">Joined group</string>
+    <string name="People" translatable="true">People</string>
     <string name="Failed_to_join">Не удалось присоединиться</string>
     <string name="Full">Полный</string>
+    <string name="new_person_joined" translatable="true">A NEW PERSON HAS JOINED</string>
+    <string name="person_left" translatable="true">A PERSON HAS LEFT</string>
+    <string name="Left_the_group" translatable="true">Left the group</string>
     <string name="Tricks_Performed_">Совершено триков:</string>
     <string name="Not_enough_plasma_">Недостаточно плазмы!</string>
     <string name="GET_PLASMA">Получить плазмы</string>
@@ -1140,6 +1183,7 @@
     <string name="Invites">Приглашения</string>
     <string name="Show_Spectator_Count">Отображать счетчик наблюдателей</string>
     <string name="TRY_IT_">Попробовать!</string>
+    <string name="skin_trial_info" translatable="true">You can try this skin for one game. After you die or change it, it will go away. While you are trying a skin, no one else can see it.\nPrice: %s plasma.</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Вы должны купить набор, чтобы использовать это.</string>
     <string name="GET_PACK">Купить набор</string>
     <string name="Position_in_queue">Место в очереди</string>
@@ -1147,24 +1191,38 @@
     <string name="DARK_MATTER">Темная материя</string>
     <string name="Textures_will_be_regenerated_">Черные текстуры и скины будут восстановлены.</string>
     <string name="Enable_Profile_Colors">Включить цвета профиля</string>
+    <string name="mother_cell" translatable="true">MOTHER CELL</string>
+    <string name="shrink" translatable="true">SHRINK</string>
+    <string name="collect_all" translatable="true">COLLECT ALL</string>
+    <string name="magic_blob" translatable="true">MAGIC BLOB</string>
+    <string name="ice_split" translatable="true">ICE SPLIT</string>
+    <string name="circle" translatable="true">CIRCLE</string>
+    <string name="mega_pop" translatable="true">MEGA POP</string>
+    <string name="no_virus" translatable="true">ПЕСОЧНИЦА</string>
+    <string name="plasma_hunt" translatable="true">PLASMA HUNT</string>
+    <string name="speed" translatable="true">SPEED</string>
     <string name="Session_Stats">Статистика игры</string>
     <string name="Time_">Время:</string>
     <string name="Show_Session_Stats">Отображать статистику игры</string>
-    <string name="VALENTINES_DAY">"День святого валентина"</string>
+    <string name="VALENTINES_DAY">"ДЕНЬ СВЯТОГО ВАЛЕНТИНА"</string>
+    <string name="shared_pack_info" translatable="true">After you purchase this skin pack, your exclusive skins will appear at the top of the skin selection menus for you and your friend!</string>
+    <string name="shared_pack_purch_description" translatable="false">This is a special pack so both you and a friend will receive it!</string>
     <string name="Giveaways_">Розыгрыши!</string>
     <string name="Max_XP_Chain_">Максимальное кол-во опыта (за 1 раз):</string>
-    <string name="POSITION_CANCEL_BUTTON">Место кнопки отмены</string>
-    <string name="INVISIBILITY">Невидимость</string>
+    <string name="POSITION_CANCEL_BUTTON">МЕСТО КНОПКИ ОТМЕНЫ</string>
+    <string name="INVISIBILITY">НЕВИДИМОСВЬ</string>
     <string name="Set_Skin">Поставить скин</string>
     <string name="Primary">Первый</string>
     <string name="Secondary">Второй</string>
     <string name="Both">Оба</string>
 
+    <string name="multiskin_period_description" translatable="false">"Specify multiskin change period in seconds (0–10). 0 will disable multiskin. Decimal values are also valid."</string>
     <string name="Enable__Multiskin">"Включить\nМультискин"</string>
-    <string name="MULTISKIN">Мультискин</string>
-    <string name="DISABLED">Выключен</string>
+    <string name="multiskin_description" translatable="false">"Multiskin lets you use two skins that alternate by themselves. You choose how fast they will change. When you reach level 1 000, this feature is free. If you buy multiskin before level 1 000, you will be able to refund your plasma after reaching the level."</string>
+    <string name="MULTISKIN">МУЛЬТИСКИН</string>
+    <string name="DISABLED">ВЫКЛЮЧЕН</string>
 
-    <string name="Refund__Multiskin">Возврат\nЗа мультискин</string>
+    <string name="Refund__Multiskin">Возврат\nЗа Мультискин</string>
     <string name="Invalid_Clan_ID_">Недействителный ID клана.</string>
     <string name="MUTED">ЗАГЛУШЕН</string>
     <string name="SKIN">СКИНОВ</string>
@@ -1195,6 +1253,7 @@
     <string name="Mode_3D">3D Режим</string>
     <string name="Names_Below_Blobs">Имена под игроками</string>
     <string name="Name_Scale_">"Шкала имен:"</string>
+    <string name="poor_connection_quality_warning" translatable="false">Your device has a poor connection to the server. This might cause lag. Please check your WiFi or mobile data, or try a different Internet connection. Also make sure you are playing on the closest server to you.</string>
     <string name="Button_3D">Кнопка 3D</string>
     <string name="Hide_Button_">Спрятать кнопку</string>
     <string name="Show_Boost_Button">Отображать кнопку ускорения</string>
@@ -1226,6 +1285,7 @@
     <string name="Win_100_Tournaments">Выиграть 100 турниров</string>
     <string name="HERO">ГЕРОЙ</string>
     <string name="CHAMPION">ЧЕМПИОН</string>
+    <string name="sandbox_warning" translatable="true">You cannot earn XP or plasma in sandbox mode!</string>
     <string name="DASH">РЫВОК</string>
     <string name="setting_changed">Настройки обновлены. Возможно, понадобится переподключиться к серверу, чтобы настройки вступили в силу.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Сделать 10.000 триков в режим трюков.</string>
@@ -1254,6 +1314,16 @@
     <string name="Plasma_Boost_1_Day_">Увеличение плазмы на 1 день!!</string>
     <string name="Plasma_Boost_2_Hours_">Увеличение плазмы на 2 часа!</string>
     <string name="Plasma_Boost">Увеличение плазмы</string>
+    <string name="skin_warning" translatable="false">
+        "Your custom skin was not approved. Here are the most common reasons for this. You must NOT upload:
+
+		1. A photograph of someone shirtless.
+		2. Someone in a suggestive pose or scene.
+		3. Depictions of alcohol or drugs (including weed).
+		4. Artwork that already exists in nebulous such as level skins. It must be modified in some meaningful way.
+
+        Uploading the same non-approved skin multiple times will result in more penalties or a ban."
+    </string>
     <string name="particle_info">У вас должен быть уровень выше 50 и скин, который имеет частицы, чтобы увидеть частицы.</string>
     <string name="Plain_Score_Text">"Шрифты в топе игроков"</string>
     <string name="Custom_Skin_Reviewed_Notification">Ваш кастомный скин был рассмотрен!</string>
