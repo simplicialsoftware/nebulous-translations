@@ -271,7 +271,7 @@
 
     <string name="CREATE_CLAN">"TẠO BĂNG ĐẢNG"</string>
     <string name="MEMBER">"THÀNH VIÊN"</string>
-    <string name="ADMIN">"CHỦ PHÒNG"</string>
+    <string name="ADMIN">"QUẢN TRỊ"</string>
     <string name="LEADER">"KẺ CẦM ĐẦU"</string>
     <string name="ELDER">"ĐÀN ANH"</string>
 
@@ -434,7 +434,7 @@
 
 
     <string name="Loading_Purchases___">"Đang tải mua …"</string>
-    <string name="In_App_Purchases">"Trong ứng dụng mua"</string>
+    <string name="In_App_Purchases">"Mua hàng trong app"</string>
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Không thể dùng tăng EXP mới cho đến khi tăng EXP hiện tại hết hạn."</string>
     <string name="This_purchase_has_already_been_redeemed_">"Lần mua cũ đã được khôi phục."</string>
 
@@ -521,9 +521,9 @@
     <string name="Collect_10_000_snowflakes_">"Thu thập 10.000 bông tuyết."</string>
     <string name="Show_All">"Hiển thị tất cả"</string>
 
-    <string name="SET_PERMISSIONS">"GIẤY PHÉP THIẾT LẬP"</string>
+    <string name="SET_PERMISSIONS">"THÊM QUYỀN HẠN"</string>
     <string name="Start_Clan_War">"Bắt Đầu Hội Chiến"</string>
-    <string name="Min_Level">"Mức tối thiểu"</string>
+    <string name="Min_Level">"Level tối thiểu"</string>
     <string name="SAVE">"Lưu lại"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Người chơi không đáp ứng đủ yêu cầu để vào clan này:"</string>
     <string name="Insufficient_Permission">"Bạn không có quyền làm điều này"</string>
@@ -610,7 +610,7 @@
     <string name="Google_Profile">"Ảnh Google"</string>
     <string name="You_must_be_signed_in_to_Google_">"Bạn phải đăng nhập vào Google."</string>
 
-    <string name="MAYHEM">"LỘN XỘN"</string>
+    <string name="MAYHEM">"VẬT PHẨM"</string>
     <string name="eggs_">"trứng."</string>
     <string name="Egg_Collector">"Nhà sưu tầm trứng"</string>
     <string name="Egg_Hoarder">"Kẻ tích lũy trứng"</string>
@@ -624,7 +624,7 @@
 
     <string name="Love_Nebulous_">"Yêu thích Nebulous?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Xin hãy ủng hộ Nebulous thật nhiệt tình."</string>
-    <string name="MAYHEM_MODE">"KIỂU ĐA DẠNG"</string>
+    <string name="MAYHEM_MODE">"CHẾ ĐỘ VẬT PHẨM"</string>
     <string name="Times_Teleported_">"Lần dịch chuyển:"</string>
     <string name="Powerups_Used_">"Sử dụng sức mạnh: "</string>
     <string name="Power_Hungry">"Thèm khát sức mạnh"</string>
@@ -1194,7 +1194,7 @@
     <string name="Background_Lightness_">Độ sáng nền:</string>
     <string name="Background_Image_">Ảnh nền:</string>
     <string name="INVERT_SELECTION">ĐỔI CHỌN</string>
-    <string name="MINIMAP">BẢNG ĐÒ NHỎ</string>
+    <string name="MINIMAP">BẢN ĐỒ NHỎ</string>
     <string name="Victorious">Kẻ chiến thắng</string>
     <string name="Dominant">Thống trị</string>
     <string name="Champion">Nhà Vô Địch</string>
