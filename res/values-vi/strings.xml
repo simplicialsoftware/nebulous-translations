@@ -523,7 +523,7 @@
 
     <string name="SET_PERMISSIONS">"THÊM QUYỀN HẠN"</string>
     <string name="Start_Clan_War">"Bắt Đầu Hội Chiến"</string>
-    <string name="Min_Level">"Level tối thiểu"</string>
+    <string name="Min_Level">"Cấp độ tối thiểu"</string>
     <string name="SAVE">"Lưu lại"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Người chơi không đáp ứng đủ yêu cầu để vào clan này:"</string>
     <string name="Insufficient_Permission">"Bạn không có quyền làm điều này"</string>
