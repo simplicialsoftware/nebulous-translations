@@ -898,7 +898,7 @@
     <string name="Delete_ALL_Messages_">Eliminar tots els missatges!</string>
     <string name="SAVE_PROFILE">GUARDAR PERFIL</string>
     <string name="Move">Moure</string>
-    <string name="New_Position">Nova Posició</string>
+    <string name="New_Position">Nova posició</string>
     <string name="ALLIANCES">ALIANCES</string>
     <string name="ENEMIES">ENEMICS</string>
     <string name="NEW_ALLIANCE">NOVA ALIANÇA</string>
@@ -923,7 +923,7 @@
     <string name="Invitation_accepted_">Invitació aceptada!</string>
     <string name="Invitation_expired_">Invitatció expirada!</string>
     <string name="Wait_for_the_current_invitation_to_expire_">"S'està esperant que caduqui la invitació actual."</string>
-    <string name="BLOB_COLOR"> COLOR DE VLOB</string>
+    <string name="BLOB_COLOR"> COLOR DE BLOB</string>
     <string name="ENABLED"> ACTIVAT</string>
     <string name="Enable_Custom_Blob_Color">Activar color de blob</string>
     <string name="Choose_Menu">Trieu Menú</string>
@@ -934,7 +934,7 @@
     <string name="Hats">Barrets</string>
     <string name="Pet_Uploads">Mascotes pujades</string>
     <string name="BLOB">BLOB</string>
-    <string name="Clan_Pet_Uploads">Mascotes de Clan pujades</string>
+    <string name="Clan_Pet_Uploads">Mascotes de clan pujades</string>
     <string name="YT">YT</string>
     <string name="FREE_TODAY"> GRATIS AVUI!</string>
     <string name="Cannot_cancel_this_skin_yet_">Encara no es pot cancel·lar aquesta pell.</string>
