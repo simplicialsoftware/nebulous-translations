@@ -14,11 +14,11 @@
     <string name="Server_">"Servidor:"</string>
     <string name="Game_Mode_">"Mode de joc:"</string>
     <string name="Show_Names">"Mostrar noms"</string>
-    <string name="Show_Avatars">"Mostrar Skins"</string>
+    <string name="Show_Avatars">"Mostrar pells"</string>
     <string name="PLAY">"JUGAR"</string>
     <string name="OPTIONS">"OPCIONS"</string>
 
-    <string name="Avatar_">"Skin:"</string>
+    <string name="Avatar_">"Avatar:"</string>
     <string name="Name_">"Nom:"</string>
 
     <string name="Loading___">"Carregant…"</string>
@@ -744,7 +744,7 @@
     <string name="Clan_Contribution">"Contribució del clan"</string>
     <string name="FILTER">"FILTRE"</string>
     <string name="List_Count_">"Comte de llista:"</string>
-    <string name="Download_Skins">"descarregar Skins"</string>
+    <string name="Download_Skins">"descarregar pells"</string>
     <string name="ARENA_HISTORY">"HISTÒRIA ARENA"</string>
     <string name="WIN">"WIN"</string>
     <string name="LOSS">"PÈRDUA"</string>
@@ -937,7 +937,7 @@
     <string name="Clan_Pet_Uploads">Mascotes de Clan pujades</string>
     <string name="YT">YT</string>
     <string name="FREE_TODAY"> GRATIS AVUI!</string>
-    <string name="Cannot_cancel_this_skin_yet_">Encara no es pot cancel·lar aquesta skin.</string>
+    <string name="Cannot_cancel_this_skin_yet_">Encara no es pot cancel·lar aquesta pell.</string>
     <string name="SPLIT_16X">DIVIDIR-SE x16</string>
     <string name="SET_PUBLIC_DESCRIPTION">ESTABLEIX DESCRIPCIÓ PÚBLICA</string>
     <string name="SET_NOTE">ESCRIURE NOTA</string>
@@ -1015,8 +1015,8 @@
     <string name="You_can_purchase_this_hat_for">Pots comprar aquest barret per </string>
     <string name="You_can_purchase_this_particle_for">Pots comprar aquesta partícula per</string>
     <string name="You_can_purchase_this_eject_skin_for">"Pots comprar aquesta pell d'expulsió per"</string>
-    <string name="Skin">Skin</string>
-    <string name="Custom_Skin">Skin Personalitzada</string>
+    <string name="Skin">Pell</string>
+    <string name="Custom_Skin">Pell Personalitzada</string>
     <string name="Color">Color</string>
     <string name="RECENT_PLAYERS">JUGADORS RECENTS</string>
     <string name="POSITION_CONTROL_STICK">" POSICIÓ DEL JOSTICK"</string>
@@ -1029,7 +1029,7 @@
     <string name="ADVANCED_SETUP">SETUP AVANÇAT</string>
     <string name="WORLD_CUP_EVENT___">EVENT DE LA COPA DEL MÓN!!!</string>
     <string name="world_cup_event_description">Doble XP i doble plasma en mode Futbol fins al final de la copa del món!</string>
-    <string name="GIF_Skins">Skins GIF</string>
+    <string name="GIF_Skins">PELLS GIF</string>
     <string name="PLAY_ONLINE_">JUGA EN LÍNIA!</string>
     <string name="Absorb_10_000_000_dots">Absorbeix 10.000.000 punts</string>
     <string name="Dot_Deity">Deïtat de punt</string>
@@ -1069,13 +1069,13 @@
     <string name="Hooked">Enganxat</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Deixa't tirar per un encanteri de ganxo durant 10 segons</string>
     <string name="Pack">Pack</string>
-    <string name="Skin_Pack">Pack de skin</string>
-    <string name="SKIN_PACK">PACK DE SKIN</string>
+    <string name="Skin_Pack">Pack de pells</string>
+    <string name="SKIN_PACK">PACK DE PELLS</string>
     <string name="HALLOWEEN">HALLOWEEN</string>
 
-    <string name="pack_info">Després de comprar aquest paquet de skins, les vostres skins exclusives apareixeran a la part superior dels menús de selecció de skins.</string>
+    <string name="pack_info">Després de comprar aquest paquet de pells, les vostres skins exclusives apareixeran a la part superior dels menús de selecció de skins.</string>
 
-    <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins, mascotes, barrets EXCLUSIVES i més!</string>
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">Pells, mascotes, barrets i més, EXCLUSIUS!</string>
     <string name="BUY_NOW_">COMPRA ARA!</string>
     <string name="already_purchased">Tu o la persona per a la qual estàs comprant això ja el tens.</string>
     <string name="Halo_Animations">Animacions de halos</string>
@@ -1132,19 +1132,19 @@
     <string name="Max_XP_Chain_">Cadena Max XP:</string>
     <string name="POSITION_CANCEL_BUTTON">BOTÓ CANCEL·LAR POSICIÓ</string>
     <string name="INVISIBILITY">INVISIBITAT</string>
-    <string name="Set_Skin">Posar Skin</string>
+    <string name="Set_Skin">Posar pell</string>
     <string name="Primary">Primari</string>
     <string name="Secondary">Secondari</string>
     <string name="Both">Tots dos</string>
 
-    <string name="Enable__Multiskin">"Activa\nMultiskin"</string>
-    <string name="MULTISKIN">MULTISKIN</string>
+    <string name="Enable__Multiskin">"Activa\nMultipelln"</string>
+    <string name="MULTISKIN">MULTIPELL</string>
     <string name="DISABLED">DESACTIVADA</string>
 
-    <string name="Refund__Multiskin">Devolució\nMultiskin</string>
+    <string name="Refund__Multiskin">Devolució\nMultipell</string>
     <string name="Invalid_Clan_ID_">ID de clan no vàlid.</string>
     <string name="MUTED">SILENCIAT</string>
-    <string name="SKIN">SKIN</string>
+    <string name="SKIN">PELL</string>
     <string name="Choose_Skin_Size">Trieu la mida de la pell</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Els altres jugadors no us podran escoltar!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Permet el permís per activar la gravació de veu.</string>
@@ -1237,7 +1237,7 @@
     <string name="You_Have_Mail_">Tens correu de %s!</string>
     <string name="Clan_Request_Reviewed_Notification">La teva sol·licitud per unir-te al clan %s ha estat revisada!</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
-    <string name="Sold_Community_Skins_">"S'han venut aspectes comunitaris: "</string>
+    <string name="Sold_Community_Skins_">"Pells comunitàries venudes: "</string>
     <string name="Estimated_Earnings_">"Guanys estimats: "</string>
     <string name="South_Africa">Sud-àfrica</string>
     <string name="SPLIT_">SPLIT:</string>
