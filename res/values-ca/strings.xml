@@ -444,7 +444,7 @@
 
     <string name="until">"fins"</string>
     <string name="New_Message_">"Missatge nou!"</string>
-    <string name="Seasonal">"estacional"</string>
+    <string name="Seasonal">"Estacional"</string>
 
 
     <string name="Temporarily_Disabled_">"Desactivat temporalment."</string>
@@ -454,7 +454,7 @@
     <string name="Copy_ID">"Copiar ID"</string>
     <string name="View_Profile">"Veure el perfil"</string>
     <string name="Send_Message">"Enviar missatge"</string>
-    <string name="Account_ID">"compte ID"</string>
+    <string name="Account_ID">"ID de compte"</string>
     <string name="Player_Name">"Nom del jugador"</string>
 
     <string name="Daily_Reward">"Recompensa diària"</string>
