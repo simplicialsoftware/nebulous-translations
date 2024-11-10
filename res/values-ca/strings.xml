@@ -598,7 +598,7 @@
 
     <string name="Enable_Custom_Skin">"Habilitar aspecte personalitzat"</string>
     <string name="Use_Custom_Skin">"Custom\nSkin"</string>
-    <string name="custom_skin_description">"Aquesta característica li permet utilitzar la seva foto de perfil o un arxiu com la seva pell. Això només canviarà la pell que es veu. Altres persones no veuran el seu aspecte personalitzat."</string>
+    <string name="custom_skin_description">"Aquesta característica li permet utilitzar la seva foto de perfil o un arxiu com la seva skin. Això només canviarà la skin que es veu. Altres persones no veuran el seu aspecte personalitzat."</string>
     <string name="CUSTOM_SKIN">"aspecte personalitzat"</string>
 
     <string name="Facebook_Profile">"Perfil de Facebook"</string>
@@ -717,26 +717,26 @@
     <string name="Collect_10000_pumpkins_">"Recollir 10.000 carabasses."</string>
     <string name="Collect_10000_leaves_">"Recollir 10.000 fulles."</string>
     <string name="Eject">"expulsar"</string>
-    <string name="Eject_Skin">"expulsar de la pell"</string>
+    <string name="Eject_Skin">"expulsar de la skin"</string>
     <string name="Double_Plasma__">"Doble plasma !!"</string>
     <string name="Ends">"extrems"</string>
     <string name="Select_Clan_Member">"Seleccionar membres del clan"</string>
-    <string name="Inappropriate_Skin">"pell inapropiat"</string>
-    <string name="Approved">"aprovat"</string>
+    <string name="Inappropriate_Skin">"skin inapropiada"</string>
+    <string name="Approved">"Aprovada"</string>
     <string name="Rejected">"Rebutjada"</string>
-    <string name="Refunded">"reintegrat"</string>
+    <string name="Refunded">"Reemborsada"</string>
 
 
     <string name="contribution_warning">"Esteu segur que vol contribuir aquest plasma? Les contribucions no seran retornades."</string>
     <string name="Upload">"Pujar"</string>
-    <string name="upload_warning">"Esteu segur que voleu carregar aquesta pell? Altres jugadors seran capaços de veure aquesta pell. Es pot prendre fins a una setmana per a la seva pell per ser revisat. pells inapropiats seran rebutjats i no seran retornats!"</string>
+    <string name="upload_warning">"Esteu segur que voleu carregar aquesta skin? Altres jugadors seran capaços de veure aquesta skin. Es pot prendre fins a una setmana per a que la seva skin sigui revisada. Skins inapropiades seran rebutjadess i no seran retornades!"</string>
 
     <string name="In_Review">"en l'opinió"</string>
     <string name="Account_Uploads">"Pujada del compte"</string>
     <string name="Clan_Uploads">"càrregues Clan"</string>
     <string name="Empty">"Buit"</string>
     <string name="Select">"seleccionar"</string>
-    <string name="Current_Skin">"pell actual"</string>
+    <string name="Current_Skin">"skin actual"</string>
     <string name="Status">"Estat"</string>
     <string name="upload_size_failure">"No s'ha pogut carregar aquesta imatge perquè és massa gran. Si us plau, proveu una imatge diferent."</string>
     <string name="CONTRIBUTE_PLASMA">"CONTRIBUIR PLASMA"</string>
@@ -744,20 +744,20 @@
     <string name="Clan_Contribution">"Contribució del clan"</string>
     <string name="FILTER">"FILTRE"</string>
     <string name="List_Count_">"Comte de llista:"</string>
-    <string name="Download_Skins">"descarregar pells"</string>
+    <string name="Download_Skins">"descarregar skins"</string>
     <string name="ARENA_HISTORY">"HISTÒRIA ARENA"</string>
     <string name="WIN">"WIN"</string>
     <string name="LOSS">"PÈRDUA"</string>
-    <string name="Other_players_can_not_see_your_skin_">"Altres jugadors no poden veure la seva pell."</string>
-    <string name="Other_players_can_see_your_skin_">"Altres jugadors poden veure la seva pell."</string>
+    <string name="Other_players_can_not_see_your_skin_">"Altres jugadors no poden veure la seva skin."</string>
+    <string name="Other_players_can_see_your_skin_">"Altres jugadors poden veure la seva skin."</string>
     <string name="LEGEND">"LLEGENDA"</string>
     <string name="Win_10000_Arenas">"Guanya 10.000 Arenes."</string>
     <string name="UPLOAD_PREVIEW">"AVANÇ DE CÀRREGA"</string>
     <string name="Transparency">"transparència"</string>
     <string name="upload_info">"Es pot aconseguir una millor qualitat sense transparency o amb imatges simples."</string>
     <string name="Compression_Quality_">"Qualitat de compressió:"</string>
-    <string name="inapproriate_info">"pells inapropiats inclouen qualsevol cosa que implica l'odi, sang vessada, l'obscenitat, la violència, les drogues, el sexe, la nuesa, autofotos de cos complet, la foscor, la inintel·ligibilitat, i pells nebulous no modificats."</string>
-    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Esteu segur que voleu carregar aquesta pell?"</string>
+    <string name="inapproriate_info">"Skins inapropiatdes que incloguin qualsevol cosa que implica l'odi, sang vessada, l'obscenitat, la violència, les drogues, el sexe, la nuesa, autofotos de cos complet, la foscor, la inintel·ligibilitat, i skins de nebulous no modificades."</string>
+    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Esteu segur que voleu carregar aquesta skin?"</string>
     <string name="Grant_Permission">"concedir permís"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulosa necessita permisos d'emmagatzematge de còpia de seguretat del seu progrés per a un jugador!"</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulosa necessita gruix permisos d'ubicació per trobar dispositius Bluetooth propers."</string>
@@ -937,7 +937,7 @@
     <string name="Clan_Pet_Uploads">Mascotes de clan pujades</string>
     <string name="YT">YT</string>
     <string name="FREE_TODAY"> GRATIS AVUI!</string>
-    <string name="Cannot_cancel_this_skin_yet_">Encara no es pot cancel·lar aquesta pell.</string>
+    <string name="Cannot_cancel_this_skin_yet_">Encara no es pot cancel·lar aquesta skin.</string>
     <string name="SPLIT_16X">DIVIDIR-SE x16</string>
     <string name="SET_PUBLIC_DESCRIPTION">ESTABLEIX DESCRIPCIÓ PÚBLICA</string>
     <string name="SET_NOTE">ESCRIURE NOTA</string>
@@ -1014,9 +1014,9 @@
     <string name="EULA">EULA</string>
     <string name="You_can_purchase_this_hat_for">Pots comprar aquest barret per </string>
     <string name="You_can_purchase_this_particle_for">Pots comprar aquesta partícula per</string>
-    <string name="You_can_purchase_this_eject_skin_for">"Pots comprar aquesta pell d'expulsió per"</string>
-    <string name="Skin">Pell</string>
-    <string name="Custom_Skin">Pell Personalitzada</string>
+    <string name="You_can_purchase_this_eject_skin_for">"Pots comprar aquesta skin d'expulsió per"</string>
+    <string name="Skin">Skin</string>
+    <string name="Custom_Skin">Skin Personalitzada</string>
     <string name="Color">Color</string>
     <string name="RECENT_PLAYERS">JUGADORS RECENTS</string>
     <string name="POSITION_CONTROL_STICK">" POSICIÓ DEL JOSTICK"</string>
@@ -1029,7 +1029,7 @@
     <string name="ADVANCED_SETUP">SETUP AVANÇAT</string>
     <string name="WORLD_CUP_EVENT___">EVENT DE LA COPA DEL MÓN!!!</string>
     <string name="world_cup_event_description">Doble XP i doble plasma en mode Futbol fins al final de la copa del món!</string>
-    <string name="GIF_Skins">PELLS GIF</string>
+    <string name="GIF_Skins">Skins GIF</string>
     <string name="PLAY_ONLINE_">JUGA EN LÍNIA!</string>
     <string name="Absorb_10_000_000_dots">Absorbeix 10.000.000 punts</string>
     <string name="Dot_Deity">Deïtat de punt</string>
@@ -1041,8 +1041,8 @@
     <string name="Community">Comunitat</string>
     <string name="Buy">Comprar</string>
     <string name="Sell">Vendre</string>
-    <string name="community_skin_requirement">Heu d'adquirir Habilita els aspectes personalitzats per utilitzar els aspectes de la comunitat.</string>
-    <string name="You_can_purchase_this_community_skin_for_">Podeu comprar aquesta pell de la comunitat per </string>
+    <string name="community_skin_requirement">Heu d'adquirir Habilitar els aspectes personalitzats per utilitzar els aspectes de la comunitat.</string>
+    <string name="You_can_purchase_this_community_skin_for_">Podeu comprar aquesta skin de la comunitat per </string>
     <string name="VIEW_UPLOADER">MOSTRA EL CARREGADOR</string>
     <string name="POPULAR">POPULAR</string>
     <string name="NEW">NOU</string>
@@ -1069,13 +1069,13 @@
     <string name="Hooked">Enganxat</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Deixa't tirar per un encanteri de ganxo durant 10 segons</string>
     <string name="Pack">Pack</string>
-    <string name="Skin_Pack">Pack de pells</string>
-    <string name="SKIN_PACK">PACK DE PELLS</string>
+    <string name="Skin_Pack">Pack de skins</string>
+    <string name="SKIN_PACK">PACK DE SKINS</string>
     <string name="HALLOWEEN">HALLOWEEN</string>
 
-    <string name="pack_info">Després de comprar aquest paquet de pells, les vostres skins exclusives apareixeran a la part superior dels menús de selecció de skins.</string>
+    <string name="pack_info">Després de comprar aquest paquet de skins, les vostres skins exclusives apareixeran a la part superior dels menús de selecció de skins.</string>
 
-    <string name="EXCLUSIVE_skins_pets_hats_and_more_">Pells, mascotes, barrets i més, EXCLUSIUS!</string>
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins, mascotes, barrets i més, EXCLUSIUS!</string>
     <string name="BUY_NOW_">COMPRA ARA!</string>
     <string name="already_purchased">Tu o la persona per a la qual estàs comprant això ja el tens.</string>
     <string name="Halo_Animations">Animacions de halos</string>
@@ -1122,7 +1122,7 @@
     <string name="Position_in_queue">Posició a la cua</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">MENÚ DE COLOR DE FONS DE PERFIL</string>
     <string name="DARK_MATTER">MATÈRIA FOSC</string>
-    <string name="Textures_will_be_regenerated_">Les textures negres i les pells personalitzades es regeneraran.</string>
+    <string name="Textures_will_be_regenerated_">Les textures negres i les skins personalitzades es regeneraran.</string>
     <string name="Enable_Profile_Colors">Activa els colors del perfil</string>
     <string name="Session_Stats">Estadístiques de la sessió</string>
     <string name="Time_">Temps:</string>
@@ -1132,26 +1132,26 @@
     <string name="Max_XP_Chain_">Cadena Max XP:</string>
     <string name="POSITION_CANCEL_BUTTON">BOTÓ CANCEL·LAR POSICIÓ</string>
     <string name="INVISIBILITY">INVISIBITAT</string>
-    <string name="Set_Skin">Posar pell</string>
+    <string name="Set_Skin">Posar skin</string>
     <string name="Primary">Primari</string>
     <string name="Secondary">Secondari</string>
     <string name="Both">Tots dos</string>
 
-    <string name="Enable__Multiskin">"Activa\nMultipelln"</string>
-    <string name="MULTISKIN">MULTIPELL</string>
+    <string name="Enable__Multiskin">"Activa\nMultiskinn"</string>
+    <string name="MULTISKIN">MULTISKIN</string>
     <string name="DISABLED">DESACTIVADA</string>
 
-    <string name="Refund__Multiskin">Devolució\nMultipell</string>
+    <string name="Refund__Multiskin">Devolució\nMultiskin</string>
     <string name="Invalid_Clan_ID_">ID de clan no vàlid.</string>
     <string name="MUTED">SILENCIAT</string>
-    <string name="SKIN">PELL</string>
-    <string name="Choose_Skin_Size">Trieu la mida de la pell</string>
+    <string name="SKIN">SKIN</string>
+    <string name="Choose_Skin_Size">Trieu la mida de la skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Els altres jugadors no us podran escoltar!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Permet el permís per activar la gravació de veu.</string>
     <string name="voice_chat_prompt">La classificació del contingut de l'aplicació pot canviar amb el xat de veu activat. Per obtenir el millor àudio, utilitzeu uns auriculars.</string>
     <string name="Only_leader_can_answer_requests_">Només el líder pot respondre les peticions.</string>
     <string name="Sent_request_not_invited_">Sol·licitud enviada (no convidada).</string>
-    <string name="REMOVE_SKIN_FROM_COMMUNITY_">TREURE LA PELL DE LA COMUNITAT!</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">TREURE LA SKIN DE LA COMUNITAT!</string>
     <string name="This_cannot_be_undone_">Això no es pot desfer!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Mira un vídeo per obtenir un impuls temporal %d vides!</string>
     <string name="WATCH_VIDEO_">MIRA EL VIDEO!</string>
@@ -1231,13 +1231,13 @@
     <string name="Plasma_Boost_1_Day_">Accelerador de plasma 1 dia!</string>
     <string name="Plasma_Boost_2_Hours_">Accelerador de plasma 2 hores!</string>
     <string name="Plasma_Boost">Accelerador de plasma</string>
-    <string name="particle_info">Has de tenir com a mínim el nivell 50 i utilitzar una pell base amb partícules per veure-hi partícules.</string>
+    <string name="particle_info">Has de tenir com a mínim el nivell 50 i utilitzar una skin base amb partícules per veure-hi partícules.</string>
     <string name="Plain_Score_Text">"Text de partitura senzilla"</string>
-    <string name="Custom_Skin_Reviewed_Notification">La teva pell personalitzada ha estat revisada!</string>
+    <string name="Custom_Skin_Reviewed_Notification">La teva skin personalitzada ha estat revisada!</string>
     <string name="You_Have_Mail_">Tens correu de %s!</string>
     <string name="Clan_Request_Reviewed_Notification">La teva sol·licitud per unir-te al clan %s ha estat revisada!</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
-    <string name="Sold_Community_Skins_">"Pells comunitàries venudes: "</string>
+    <string name="Sold_Community_Skins_">"Skins comunitàries venudes: "</string>
     <string name="Estimated_Earnings_">"Guanys estimats: "</string>
     <string name="South_Africa">Sud-àfrica</string>
     <string name="SPLIT_">SPLIT:</string>
