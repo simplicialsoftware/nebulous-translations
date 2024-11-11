@@ -3,11 +3,11 @@
     <string name="Players">"Oyuncular"</string>
     <string name="Control_">"Kontrol:"</string>
     <string name="CLOSE">"KAPAT"</string>
-    <string name="Stick_Size_">"Joystick Boyutu:"</string>
-    <string name="Stick_Margin_">"Joystick Konumu:"</string>
-    <string name="Button_Size_">"Buton Boyutu:"</string>
-    <string name="Button_Margin_">"Buton Konumu:"</string>
-    <string name="Buttons_">"Butonlar:"</string>
+    <string name="Stick_Size_">"Çubuk Boyutu:"</string>
+    <string name="Stick_Margin_">"Çubuk Konumu:"</string>
+    <string name="Button_Size_">"Düğme Boyut:"</string>
+    <string name="Button_Margin_">"Düğme Konumu:"</string>
+    <string name="Buttons_">"Düğmeler:"</string>
     <string name="DEFAULTS">"VARSAYILANLAR"</string>
     <string name="WEEKLY">"HAFTALIK"</string>
     <string name="DAILY">"GÜNLÜK"</string>
@@ -16,7 +16,7 @@
     <string name="Show_Names">"İsimleri Göster"</string>
     <string name="Show_Avatars">"Avatarları Göster"</string>
     <string name="PLAY">"OYNA"</string>
-    <string name="OPTIONS">"AYARLAR"</string>
+    <string name="OPTIONS">"SEÇENEKLER"</string>
 
     <string name="Avatar_">"Avatar:"</string>
     <string name="Name_">"İsim:"</string>
@@ -26,27 +26,28 @@
 
     <string name="Are_You_Sure_">"Emin Misiniz?"</string>
     <string name="Yes">"Evet"</string>
-    <string name="No">"Hayır"</string>
-    <string name="WAIT">"Lütfen Bekleyiniz…"</string>
+    <string name="No">"Hayır"
+ /string>
+    <string name="WAIT">"BEKLEMEK…"</string>
     <string name="Must_Specify_Name_">"Bir isim girmelisiniz."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Uygulamanın içerik derecelendirmesi, grupları bulur iken değişebilmektedir."</string>
 
-    <string name="_Rank_">" Sıralama "</string>
-    <string name="_Alias_">" Takma İsim "</string>
+    <string name="_Rank_">" Rütbe "</string>
+    <string name="_Alias_">" Takma Ad "</string>
     <string name="_Score_">" Puan "</string>
     <string name="Score__">"Puan: "</string>
-    <string name="Recombine_">"Birleşme: "</string>
-    <string name="WINNER_">"KAZANAN:"</string>
-    <string name="IDLE">"Hareket Etmiyorsunuz:"</string>
-    <string name="Name_Invalid_">"Geçersiz İsim."</string>
+    <string name="Recombine_">"Yeniden Birleştirmek: "</string>
+    <string name="WINNER_">"KAZANAN KİŞİ:"</string>
+    <string name="IDLE">"Boşta:"</string>
+    <string name="Name_Invalid_">"İsim geçersiz."</string>
     <string name="Name_Taken_">"İsim Zaten Alınmış."</string>
     <string name="CONNECTED">"BAĞLANDI"</string>
     <string name="JOINING___">"BAĞLANIYORSUNUZ"</string>
     <string name="PLAYING">"OYNANIYOR"</string>
     <string name="MULTIPLAYER">"ÇOK OYUNCULU"</string>
 
-    <string name="JOIN">"KATIL"</string>
+    <string name="JOIN">"GİRMEK"</string>
 
 
     <string name="Lobby_Name">"Lobi Adı"</string>
@@ -56,8 +57,8 @@
 
 
     <string name="SERVER">"SUNUCU"</string>
-    <string name="Joining_game_in_">"Oyuna Katılıyorsunuz "</string>
-    <string name="Game_Full">"Oyun Dolu."</string>
+    <string name="Joining_game_in_">"Oyuna Katılma "</string>
+    <string name="Game_Full">"Oyun Tam."</string>
     <string name="US_East">"Doğu ABD"</string>
     <string name="US_West">"Batı ABD"</string>
     <string name="Europe">"Avrupa"</string>
@@ -67,21 +68,21 @@
     <string name="SINGLE_PLAYER">"TEK KİŞİLİK"</string>
     <string name="Background_">"Arka Plan:"</string>
     <string name="Difficulty_">"Zorluk:"</string>
-    <string name="Delay_Disconnect">"Bağlantının Kesilmesini Geciktir"</string>
+    <string name="Delay_Disconnect">"Gecikme Bağlantıyı Kes"</string>
 
     <string name="Max_Players">"Maksimum Oyuncu"</string>
     <string name="Min_Players">"Minimum Oyuncu"</string>
 
     <string name="OK">"TAMAM"</string>
-    <string name="CANCEL">"İPTAL ET"</string>
+    <string name="CANCEL">"İPTAL ETMEK"</string>
     <string name="Chat_Name">"Sohbet Adı"</string>
-    <string name="Max_People">"Maksimum Kişi"</string>
-    <string name="START">"BAŞLA"</string>
-    <string name="CREATE">"OLUŞTUR"</string>
+    <string name="Max_People">"Maksimum İnsan"</string>
+    <string name="START">"BAŞLAMAK"</string>
+    <string name="CREATE">"YARATMAK"</string>
     <string name="CUSTOM_GAMES">"ÖZEL OYUNLAR"</string>
     <string name="CHAT">"SOHBET"</string>
-    <string name="CUSTOM_SETUP">"ÖZEL OYUN KURULUMU"</string>
-    <string name="CHAT_SETUP">"SOHBET ODASI KURULUMU"</string>
+    <string name="CUSTOM_SETUP">"ÖZEL KURULUM"</string>
+    <string name="CHAT_SETUP">"SOHBET ODASI KURULUM"</string>
 
 
     <string name="ACCOUNT">"HESAP"</string>
@@ -93,11 +94,11 @@
     <string name="Not_signed_in_">"Giriş Yapılamamıştır!"</string>
     <string name="SET_NAME">"İSİM BELİRLEYİN"</string>
     <string name="SIGN_OUT">"OTURUMU KAPATIN"</string>
-    <string name="ACHIEVEMENTS">"KAZANIMLAR"</string>
-    <string name="STATISTICS">"İSTATİSTİKLER"</string>
+    <string name="ACHIEVEMENTS">"BAŞARIMLAR"</string>
+    <string name="STATISTICS">"İSTATİSTİK"</string>
     <string name="XP_">"XP/DP:"</string>
 
-    <string name="Information">"Bilgi Alın"</string>
+    <string name="Information">"Bilgi"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Bu avatarı kullanabilmeniz için ilgili kazanımı elde etmeniz gerekmektedir."</string>
     <string name="To_use_this_skin_you_must_reach_level">"Bu avatarı kullanabilmeniz için erişmeniz gereken seviye"</string>
     <string name="SIGN_IN">"GİRİŞ YAPIN"</string>
@@ -113,22 +114,22 @@
     <string name="SIGNING_IN">"GİRİŞ YAPILIYOR…"</string>
     <string name="New_Friend_Request">"Yeni Arkadaşlık İsteği!"</string>
     <string name="REQUEST_FRIEND">"ARKADAŞLIK İSTEĞİ"</string>
-    <string name="Private">"Size Özel"</string>
-    <string name="Public">"Herkese Açık"</string>
+    <string name="Private">"Özel"</string>
+    <string name="Public">"Halk"</string>
     <string name="Bot">"Bot"</string>
-    <string name="You">"Siz"</string>
+    <string name="You">"Sen"</string>
     <string name="This_player_is_a_bot">"Bu Oyuncu Bir Bottur."</string>
     <string name="This_player_is_not_signed_in">"Bu Oyuncu Giriş Yapmamıştır."</string>
 
     <string name="Online">"Çevrim İçi"</string>
     <string name="Unknown">"Bilinmeyen"</string>
-    <string name="Offline">"çevrim dışı"</string>
-    <string name="Achievement_Earned">"Kazanım Elde Edildi"</string>
-    <string name="REFRESH">"YENİLE"</string>
+    <string name="Offline">"Çevrim dışı"</string>
+    <string name="Achievement_Earned">"Başarı Kazanıldı"</string>
+    <string name="REFRESH">"CANLANDIRMAK"</string>
     <string name="DONE">"TAMAMLANDI"</string>
     <string name="Friend_Request_Sent">"Arkadaşlık İsteği Gönderildi…"</string>
     <string name="ERROR">"HATA"</string>
-    <string name="CONTINUE">"DEVAM EDİN"</string>
+    <string name="CONTINUE">"DEVAM ETMEK"</string>
     <string name="Global_" formatted="false">"Küresel %"</string>
     <string name="FRIEND_CHAT">"ARKADAŞINIZ İLE SOHBET"</string>
     <string name="LOBBY_NAME">"LOBİ ADI"</string>
@@ -138,8 +139,8 @@
     <string name="ALL">"HEPSİ"</string>
     <string name="FFA">"HERKES TEK"</string>
     <string name="FFA_TIME">"HERKES TEK (Süreli)"</string>
-    <string name="TEAMS">"TAKIMLI"</string>
-    <string name="TEAMS_TIME">"TAKIMLI (Süreli)"</string>
+    <string name="TEAMS">"TAKIMLAR"</string>
+    <string name="TEAMS_TIME">"TAKIMLAR ZAMAN (Süreli)"</string>
     <string name="CTF">"BAYRAK KAPMACA"</string>
     <string name="SURVIVAL">"HAYATTA KALMA"</string>
 
@@ -147,14 +148,14 @@
     <string name="Clan_XP">"Klan XP"</string>
 
 
-    <string name="Dot_Nibbler">"Benek Kemirgeni"</string>
-    <string name="Dot_Muncher">"Benek Kıtırtan"</string>
-    <string name="Dot_Eater">"Benek Yiyici"</string>
-    <string name="Dot_Gulper">"Benek Hamlatan"</string>
-    <string name="Dot_Gobbler">"Benek Süpürücü"</string>
-    <string name="Dot_Devourer">"Benek Emici"</string>
-    <string name="Dot_Gormandizer">"Benek Oburu"</string>
-    <string name="Dot_Sommelier">"Benek Sömürücü"</string>
+    <string name="Dot_Nibbler">"Nokta Kemirgeni"</string>
+    <string name="Dot_Muncher">"Nokta Kıtırtan"</string>
+    <string name="Dot_Eater">"Nokta Yiyici"</string>
+    <string name="Dot_Gulper">"Nokta Hamlatan"</string>
+    <string name="Dot_Gobbler">"Nokta Süpürücü"</string>
+    <string name="Dot_Devourer">"Nokta Emici"</string>
+    <string name="Dot_Gormandizer">"Nokta Oburu"</string>
+    <string name="Dot_Sommelier">"Nokta Sömürücü"</string>
 
     <string name="Quadra_Gulp">"Dörtlü Yutucu"</string>
     <string name="Multi_Gulp">"Çoklu Yutucu"</string>
