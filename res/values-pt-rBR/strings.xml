@@ -1453,7 +1453,7 @@ Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
         <item>"Normal"</item>
         <item>"Grande"</item>
         <item>"ENORME"</item>
-    </string-array>
+    </string-array name="Bee">
 
     <string-array name="clan_war_sizes">
         <item>"Dupla (2vs2)"</item>
