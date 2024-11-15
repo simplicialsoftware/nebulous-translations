@@ -97,7 +97,7 @@
     <string name="XP_">"XP:"</string>
 
     <string name="Information">"Informação"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para usar esta skin, você deverá liberar a conquista"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para usar esta skin, você deverá desbloquear a conquista"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Para usar esta skin, você deverá atingir o nível"</string>
     <string name="SIGN_IN">"ENTRAR"</string>
 
@@ -232,8 +232,8 @@
     <string name="Blobs_Lost_">"Blobs perdidos:"</string>
     <string name="Mass_Gained_">"Massa ganha:"</string>
     <string name="Mass_Ejected_">"Massa ejetada:"</string>
-    <string name="Times_Ejected_">"Vezes que ejetou:"</string>
-    <string name="Times_Split_">"Vezes que dividiu-se:"</string>
+    <string name="Times_Ejected_">"Ejeções de massa:"</string>
+    <string name="Times_Split_">"Divisões:"</string>
     <string name="Biggest_Blob_">"Maior blob:"</string>
     <string name="Highest_Score_">"Maior pontuação:"</string>
     <string name="Average_Score_">"Pontuação média:"</string>
