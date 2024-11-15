@@ -728,7 +728,7 @@
 
     <string name="upload_warning">"Tem certeza de que deseja enviar esta skin? Os outros jogadores poderão ver esta skin. A análise de sua skin poderá levar até uma semana para ser concluída. Skins inapropriadas poderão ser reembolsadas ou rejeitadas, dependendo da gravidade! Certifique-se de conferir as diretrizes de skins personalizadas antes de realizar qualquer envio de skin."</string>
 
-    <string name="In_Review">"Em Revisão"</string>
+    <string name="In_Review">"Em Análise"</string>
     <string name="Account_Uploads">"Envios para a Conta"</string>
     <string name="Clan_Uploads">"Envios para o Clã"</string>
     <string name="Empty">"Vazio"</string>
