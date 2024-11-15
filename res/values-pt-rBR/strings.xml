@@ -88,7 +88,7 @@
     <string name="Green_Team">"Equipe verde"</string>
     <string name="Blue_Team">"Equipe azul"</string>
     <string name="Yellow_Team">"Equipe amarela"</string>
-    <string name="Signed_in_as_">"Logado(a) como:"</string>
+    <string name="Signed_in_as_">"Você fez login como:"</string>
     <string name="Not_signed_in_">"Não logado(a)!"</string>
     <string name="SET_NAME">"DEFINIR NOME"</string>
     <string name="SIGN_OUT">"SAIR"</string>
