@@ -1194,7 +1194,7 @@ Se você tentar enviar uma skin com os conteúdos listados acima, a mesma será 
     <string name="circle" translatable="true" tools:ignore="Untranslatable">CÍRCULO</string>
     <string name="mega_pop" translatable="true" tools:ignore="Untranslatable">MEGA POP</string>
     <string name="no_virus" translatable="true" tools:ignore="Untranslatable">SANDBOX (SEM VÍRUS)</string>
-    <string name="plasma_hunt" translatable="true" tools:ignore="Untranslatable">CAÇA AOS DE PLASMAS</string>
+    <string name="plasma_hunt" translatable="true" tools:ignore="Untranslatable">CAÇA AOS PLASMAS</string>
     <string name="speed" translatable="true" tools:ignore="Untranslatable">VELOCIDADE</string>
     <string name="Session_Stats">Estatísticas da Sessão</string>
     <string name="Time_">Tempo:</string>
@@ -1398,13 +1398,15 @@ Comandos:
     <string name="SUDDEN_ATTACK">ATAQUE REPENTINO</string>
 
     <string name="sign_in_explanation" translatable="true">"
-Faça login para acessar o modo multijogador. Você poderá:
+Faça login para acessar o modo multijogador. Vantagens:
 
-- Jogar e se comunicar com outros jogadores de todo o mundo
-- Compartilhar seu progresso com outros
-- Criar e decorar um perfil
-- Comprar plasma na loja
-- Enviar skins criadas pelos usuários
+- Jogue e comunique-se com jogadores ao redor do mundo;
+- Suba de nível, desbloqueie conquistas e conclua tarefas para ganhar recompensas;
+- Variedade maior de skins que variam desde padrão, níveis, temporada, plasmas, conquistas, mascotes, chapéus, auréolas e pacotes;
+- Compartilhe seu progresso com terceiros;
+- Crie, gerencie e decore um perfil;
+- Compre plasma na loja;
+- Envie skins à comunidade e compre skins geradas pelos usuários!
 
 Se você não desejar fazer login, ainda poderá jogar no modo de único jogador (offline)."
     </string>
