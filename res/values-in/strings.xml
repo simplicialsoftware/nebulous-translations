@@ -91,7 +91,7 @@
     <string name="SIGN_IN">"LOGIN"</string>
     <string name="Single_Player_Stats">"Statistik Pemain Tunggal"</string>
     <string name="Level">"Level"</string>
-    <string name="PAUSED">"DIJEDA"</string>
+    <string name="PAUSED">"JEDA"</string>
     <string name="FRIENDS">"TEMAN"</string>
     <string name="Warning">"Peringatan"</string>
     <string name="SIGNING_IN">"LOGIN…"</string>
@@ -1261,7 +1261,7 @@ Perintah:
         <item>"Kecil"</item>
         <item>"Normal"</item>
         <item>"Besar"</item>
-        <item>"GEDE"</item>
+        <item>"SANGAT BESAR"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
