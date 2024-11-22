@@ -922,7 +922,7 @@
     <string name="Invitation_accepted_">Convite aceito!</string>
     <string name="Invitation_expired_">Convite expirado!</string>
     <string name="Wait_for_the_current_invitation_to_expire_">Esperando o convite atual expirar.</string>
-    <string name="BLOB_COLOR">COR BLOB</string>
+    <string name="BLOB_COLOR">COR DO BLOB</string>
     <string name="ENABLED">ATIVADO</string>
     <string name="Enable_Custom_Blob_Color">Ativar Cor Personalizada do Blob</string>
     <string name="Choose_Menu">Escolher Menu</string>
@@ -946,12 +946,12 @@
     <string name="HAPPY_BIRTHDAY_">FELIZ ANIVERSÁRIO NO NEBULOUS!</string>
     <string name="Years">Anos</string>
     <string name="Friend_Added_">Amigo Adicionado!</string>
-    <string name="_in_a_16x_Split_Game">em um jogo de 16x Split</string>
+    <string name="_in_a_16x_Split_Game"> em um jogo de 16x Split</string>
     <string name="Rules">Regras</string>
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
     Regras do Nebulous
     1. Não partilhes ou negocies contas com ninguém. Isto fará com que ambos os jogadores sejam banidos permanentemente.\n
-    2. Não peça contas de ninguém. Isto fará com que sejas banido permanentemente\n
+    2. Não peça contas de ninguém. Isto fará com que sejas banido permanentemente.\n
     3. Não finjas ser um moderador ou um YouTuber. Isto fará com que sejas banido permanentemente.\n
     4. Não utilizes batotas para chegar ao topo das classificações do jogo em guerras de clãs ou arenas (pontos gratuitos). Isto redefinirá as tuas estatísticas e resultará em um banimento permanente.\n
     5. Nunca perguntes pela posição do líder em um clã.\n
@@ -1294,7 +1294,7 @@ Se tentares enviar um ficheiro de imagem como skin com os itens listados acima, 
     <string name="x4_XP_24_hours">4x XP 24 Horas</string>
     <string name="x4_XP_1_Hour">4x XP 1 Hora</string>
     <string name="Quad">Quádruplo</string>
-    <string name="Middle_East">Oriente Médio</string>
+    <string name="Middle_East">Médio Oriente</string>
     <string name="XP_4x">XP 4x</string>
     <string name="You_cannot_play_for_x_minutes_">Não podes jogar por %d minutos.</string>
     <string name="x4_Clan_XP_Perm">4x Clã XP Permanente!</string>
@@ -1405,7 +1405,7 @@ Comandos:
 
 - Jogar e comunicar-se com outros jogadores mundo afora;
 - Partilhar o teu progresso com terceiros;
-- Criação e decoração um perfil;
+- Criação e decoração de um perfil;
 - Compra de plasmas na loja;
 - Envio de skins para a comunidade.
 
