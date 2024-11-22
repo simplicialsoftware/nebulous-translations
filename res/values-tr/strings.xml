@@ -684,7 +684,7 @@
     <string name="Collect_10_000_suns_">"10,000 Adet Güneş toplayın."</string>
     <string name="Reward_Videos_">"Ödüllü Videolar!"</string>
     <string name="Free_Plasma_">"Ücretsiz Plazma! "</string>
-    <string name="moons_">"aylar. "</string>
+    <string name="moons_">"Aylar. "</string>
     <string name="Moon_Collector">"Ay Toplayıcısı"</string>
     <string name="Moon_Hoarder">"Ay Stokçusu"</string>
     <string name="Moon_Mogul">"Ay Kralı"</string>
@@ -839,7 +839,7 @@
     <string name="Cannot_block_more_than_x_accounts_">"%d kadar hesap engellediniz. Daha fazla hesap engelleyemezsiniz."</string>
     <string name="This_is_you_">"Bu sizsiniz."</string>
     <string name="Win_a_Paint_Game">"Bir Boya Savaşı Oyununu kazanın"</string>
-    <string name="Whiteout">"Whiteout"</string>
+    <string name="Whiteout">"Beyazlık"</string>
     <string name="Speed_Painter">"Hızlı Boyacı"</string>
     <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"Bütün rakiplerinin 0 puanı var iken bir Boya Oyunu kazanın."</string>
     <string name="Win_a_Paint_game_in_60_seconds_or_less_">"60 saniye veya daha az bir sürede Boya Oyunu kazanın."</string>
@@ -880,7 +880,7 @@
     <string name="SIGN_OUT_ALL_DEVICES">"BÜTÜN CİHAZLARDAN ÇIKIŞ YAP"</string>
     <string name="Tournament_Forming">"Turnuva Bilgilendirmesi"</string>
     <string name="TeamTourneyDescription">"Siz ve takım arkadaşlarınızın takımlı turnuvada oynamak için kayıt yaptırmak zorundasınız. Turnuva başlamadan kaydını geri çekebilirsin ve kaydını geri çeker isen plazmalar iade edilecektir. En az %d takım olunca turnuva başlar."</string>
-    <string name="Free_Agent">"Serbest ajan"</string>
+    <string name="Free_Agent">"Serbest Ajan"</string>
     <string name="This_player_selected_a_different_teammate_">"Bu oyuncu başka bir takım arkadaşı seçmiştir."</string>
     <string name="muted_until">"Kadar Susturuldu"</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">"Çok Oyunculu oynar iken uygulamanın içerik derecelendirmesi değişebilmektedir.</string>
@@ -889,7 +889,7 @@
     <string name="REMOVE">"KALDIR"</string>
     <string name="BAN">"YASAK"</string>
     <string name="MODERATORS">"MODERATÖRLER"</string>
-    <string name="ALL_CLAN">"TÜM\nKLAN"</string>
+    <string name="ALL_CLAN">"TÜM\KLAN"</string>
     <string name="CO_LEADER">"LİDER YARDIMCISI"</string>
     <string name="CLAN_HOUSE">"KLAN EVİ"</string>
     <string name="ROOM">"ODA"</string>
