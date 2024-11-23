@@ -63,7 +63,7 @@
     <string name="South_America">"Nam Mỹ"</string>
 
 
-    <string name="SINGLE_PLAYER">"OFFLINE"</string>
+    <string name="SINGLE_PLAYER">"NGOẠI TUYẾN"</string>
     <string name="Background_">"Nền:"</string>
     <string name="Difficulty_">"Mức độ:"</string>
     <string name="Delay_Disconnect">"Kết nối bị hoãn"</string>
@@ -258,13 +258,13 @@
     <string name="SOCCER">"BÓNG ĐÁ"</string>
     <string name="DRAW">"HOÀ"</string>
 
-    <string name="Clan_Name">"Tên Hội"</string>
-    <string name="Clan">"Hội"</string>
+    <string name="Clan_Name">"Tên Băng Đảng"</string>
+    <string name="Clan">"Băng đảng"</string>
 
 
-    <string name="JOIN_CLAN">"VÀO HỘI"</string>
-    <string name="JOIN_RANDOM_CLAN">"VÀO HỘI BẤT KÌ"</string>
-    <string name="LEAVE_CLAN">"RỜI HỘI"</string>
+    <string name="JOIN_CLAN">"VÀO BĂNG ĐẢNG"</string>
+    <string name="JOIN_RANDOM_CLAN">"VÀO BĂNG ĐẢNG BẤT KÌ"</string>
+    <string name="LEAVE_CLAN">"RỜI BĂNG ĐẢNG"</string>
     <string name="INVITE_MEMBER">"MỜI THÀNH VIÊN"</string>
     <string name="REMOVE_MEMBER">"ĐUỔI THÀNH VIÊN"</string>
 
@@ -272,14 +272,14 @@
     <string name="CREATE_CLAN">"TẠO BĂNG ĐẢNG"</string>
     <string name="MEMBER">"THÀNH VIÊN"</string>
     <string name="ADMIN">"CHỦ PHÒNG"</string>
-    <string name="LEADER">"KẺ CẦM ĐẦU"</string>
-    <string name="ELDER">"ĐÀN ANH"</string>
+    <string name="LEADER">"THỦ LĨNH"</string>
+    <string name="ELDER">"ĐỘI TRƯỞNG"</string>
 
 
-    <string name="Not_in_a_clan_">"Không trong hội"</string>
+    <string name="Not_in_a_clan_">"Không trong băng đảng"</string>
 
 
-    <string name="CLAN">"HỘI"</string>
+    <string name="CLAN">"BĂNG ĐẢNG"</string>
 
 
     <string name="Specify_Clan_ID">Chỉ rõ ID Hội"</string>
@@ -498,9 +498,9 @@
     <string name="Standard">"Tiêu chuẩn"</string>
     <string name="Achievement">"Thành tích"</string>
     <string name="Flag">"Cờ"</string>
-    <string name="Win_10_Clan_Wars">"Thắng 10 trận đấu hội chiến"</string>
-    <string name="Win_100_Clan_Wars">"Thắng 100 trận đấu hội chiến"</string>
-    <string name="Clan_Commander">"Người lãnh đạo Hội"</string>
+    <string name="Win_10_Clan_Wars">"Thắng 10 trận đấu băng đảng chiến"</string>
+    <string name="Win_100_Clan_Wars">"Thắng 100 trận đấu băng đảngchiến"</string>
+    <string name="Clan_Commander">"Người lãnh đạo băng đảng"</string>
     <string name="Clan_General">"Tướng Quân"</string>
     <string name="Clan_Wars_Won_">"Thắng hội chiến:"</string>
     <string name="Arenas_Won_">"Thắng Đấu Trường:"</string>
@@ -651,15 +651,15 @@
     <string name="COPY_NAME">"SAO CHÉP TÊN"</string>
     <string name="Challenge_Sent">"Đã gửi lời khiêu chiến!"</string>
     <string name="_1v1_Challenge_">"Thách đấu 1v1 !"</string>
-    <string name="__has_challenged_you_to_a_1v1_match_">"%s đã thách đấu bạn 1v1, rén thì đừng chấp nhận!"</string>
+    <string name="__has_challenged_you_to_a_1v1_match_">"%s đã thách đấu bạn 1v1,hãy chấp nhận để thể hiện sức mạnh của bạn!"</string>
     <string name="Challenge_Expired">"Hết hạn thách đấu"</string>
     <string name="Enable_Challenges">"Kích hoạt tính năng thách đấu"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"Đợi lời thách đấu hiện tại hết hạn đã."</string>
     <string name="CHALLENGE_OPTIONS">"TÙY CHỌN KHIÊU CHIẾN"</string>
-    <string name="Accept">"Vào Luôn"</string>
+    <string name="Accept">"Chấp nhận"</string>
     <string name="Decline">"Từ chối"</string>
     <string name="Challenge_Declined">"Thách đấu bị từ chối"</string>
-    <string name="Spectators_">"khán giả:"</string>
+    <string name="Spectators_">"Người xem:"</string>
     <string name="Nebula_Collector">"Nhà sưu tầm Tinh vân:"</string>
     <string name="Nebula_Hoarder">"Kẻ tích lũy Tinh vân:"</string>
     <string name="Nebula_Mogul">"Người thu thập Tinh vân"</string>
@@ -748,7 +748,7 @@
     <string name="LOSS">"BẠI TRẬN"</string>
     <string name="Other_players_can_not_see_your_skin_">"Các cầu thủ khác không thể nhìn thấy skin của bạn."</string>
     <string name="Other_players_can_see_your_skin_">"Các cầu thủ khác có thể nhìn thấy skin của bạn."</string>
-    <string name="LEGEND">"BẬC CHÍ TÔN"</string>
+    <string name="LEGEND">"HUYỀN THOẠI"</string>
     <string name="Win_10000_Arenas">"Thắng 10.000 trận Đấu Trường."</string>
     <string name="UPLOAD_PREVIEW">"XEM TRƯỚC"</string>
     <string name="Transparency">"Xoá nền sau"</string>
@@ -785,8 +785,8 @@
     <string name="In_Game_Mail">"Tin trong trò chơi"</string>
     <string name="Nav_Buttons_">"Phím mềm"</string>
     <string name="account_warning">"Không bao giờ chia sẻ mật khẩu tài khoản của bạn cho bất cứ ai !"</string>
-    <string name="Clan_Hero">"Chiến Thần"</string>
-    <string name="Win_1000_Clan_Wars">"Thắng 1.000 trận Hội Chiến"</string>
+    <string name="Clan_Hero">"Anh Hùng Băng Đảng"</string>
+    <string name="Win_1000_Clan_Wars">"Thắng 1.000 trận băng đảng chiến"</string>
     <string name="NAME_COLOR">"TÊN MÀU"</string>
     <string name="name_color_instructions">"Chọn các ký tự bạn muốn thay đổi sau đó chọn màu sắc để thay đổi."</string>
     <string name="Cannot_change_this_character_">"Không thể thay đổi kí tự này"</string>
@@ -887,9 +887,9 @@
     <string name="REMOVE">Gỡ</string>
     <string name="BAN">CẤM</string>
     <string name="MODERATORS">NGƯỜI QUẢN LÝ</string>
-    <string name="ALL_CLAN">CẢ HỘI</string>
+    <string name="ALL_CLAN">TẤT CẢ BĂNG ĐẢNG</string>
     <string name="CO_LEADER">PHÓ BĂNG ĐẢNG</string>
-    <string name="CLAN_HOUSE">NHÀ HỘI</string>
+    <string name="CLAN_HOUSE">NHÀ BĂNG ĐẢNG</string>
 
     <string name="ROOM">PHÒNG</string>
     <string name="EXPERIMENTAL">THỰC NGHIỆM</string>
@@ -957,12 +957,12 @@
     <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Để dùng skin này, bạn cần phải có %1$s và Thành tựu %2$s.</string>
     <string name="Halos">hào quang</string>
     <string name="CAMPAIGN">CHIẾN DỊCH</string>
-    <string name="Mission">Ải</string>
+    <string name="Mission">Phó Bản</string>
     <string name="Kill_All_Bots">Ăn hết tất cả BOT</string>
     <string name="Survive">Sinh tồn</string>
     <string name="Mission_d_Complete">Ải %d hoàn thành!</string>
     <string name="Mission_d_Failed">Ải %d thất bại!</string>
-    <string name="Next_Mission">Ải tiếp theo</string>
+    <string name="Next_Mission">Phó bản tiếp theo</string>
     <string name="Objective">Nhiệm vụ</string>
     <string name="GAME">TRÒ CHƠI</string>
     <string name="Saved_">Lưu !</string>
@@ -1007,7 +1007,7 @@
     <string name="Challenges_Won_">Thách đấu đã thắng:</string>
     <string name="trophy_info">Cúp vô địch được trao cho những con quái vật đứng đầu các bảng xếp hạng đấu trường. Cúp vô địch chỉ có ở những máy chủ rất đông và khó.</string>
     <string name="BLOCKED">Bị Chặn</string>
-    <string name="CLAN_WAR_HISTORY">LỊCH SỬ HỘI CHIẾN</string>
+    <string name="CLAN_WAR_HISTORY">LỊCH SỬ BĂNG ĐẢNG CHIẾN</string>
     <string name="Particle">Chấm nhỏ</string>
     <string name="Privacy">Cài đặt chính sách</string>
     <string name="EULA">EULA</string>
@@ -1082,7 +1082,7 @@
     <string name="Channel">Kênh</string>
     <string name="Choose_Text_Size">Chọn kích thước chữ</string>
     <string name="LEVEL_COLOR">MÀU CẤP ĐỘ</string>
-    <string name="INITIATE">INITIATE</string>
+    <string name="INITIATE">THÀN VIÊN MỚI</string>
     <string name="x3_Clan_XP_Perm">3x XP HỘI VĨNH VIỄN!</string>
     <string name="x2_Clan_XP_Perm">2x XP HỘI VĨNH VIỄN!</string>
     <string name="Japan">Nhật Bản</string>
@@ -1141,16 +1141,16 @@
     <string name="DISABLED">TẮT</string>
 
     <string name="Refund__Multiskin">Hoàn lại 2 Trang Phục</string>
-    <string name="Invalid_Clan_ID_">ID hội không tồn tại.</string>
+    <string name="Invalid_Clan_ID_">ID băng đảng không tồn tại.</string>
     <string name="MUTED">ĐÃ CHẶN TIN NHẮN</string>
-    <string name="SKIN">SKIN</string>
+    <string name="SKIN">TRANG PHỤC</string>
     <string name="Choose_Skin_Size">Chọn kích thước skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Những người chơi khác sẽ không nghe thấy bạn!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Cho phép quyền để bật dùng mic chat.</string>
     <string name="voice_chat_prompt">Hiệu suất ứng dụng sẽ thay đổi khi bật mic chat. hãy dùng tai nghe để trải nghiệm tốt hơn.</string>
     <string name="Only_leader_can_answer_requests_">Chỉ chủ clan mới có quyền.</string>
     <string name="Sent_request_not_invited_">Đã gửi yêu cầu (đợi duyệt).</string>
-    <string name="REMOVE_SKIN_FROM_COMMUNITY_">XOÁ SKIN KHỎI CỘNG ĐỒNG!</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">XOÁ TRANG PHỤC KHỎI CỘNG ĐỒNG!</string>
     <string name="This_cannot_be_undone_">Không làm lại được đâu nhé!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Xem 1 video để nhận tăng cho %d lần chơi!</string>
     <string name="WATCH_VIDEO_">XEM VIDEO!</string>
@@ -1194,13 +1194,13 @@
     <string name="Background_Lightness_">Độ sáng nền:</string>
     <string name="Background_Image_">Ảnh nền:</string>
     <string name="INVERT_SELECTION">ĐỔI CHỌN</string>
-    <string name="MINIMAP">BẢNG ĐÒ NHỎ</string>
+    <string name="MINIMAP">BẢN ĐỒ NHỎ</string>
     <string name="Victorious">Kẻ chiến thắng</string>
     <string name="Dominant">Thống trị</string>
     <string name="Champion">Nhà Vô Địch</string>
     <string name="Win_10_Tournaments">Vô địch 10 giải đấu lớn</string>
     <string name="Win_100_Tournaments">Vô địch 100 giải đấu lớn</string>
-    <string name="HERO">CHIẾN THẦN</string>
+    <string name="HERO">ANH HÙNG</string>
     <string name="CHAMPION">NHÀ VÔ ĐỊCH</string>
     <string name="DASH">LƯỚT</string>
     <string name="setting_changed">Đã cài lại giao diện. Bạn có thể cần phải kết nối lại để sử dụng giao diện mới.</string>
@@ -1242,8 +1242,8 @@
     <string name="SPLIT_">TÁCH:</string>
     <string name="WALLS">TƯỜNG</string>
     <string name="COMP_BANNED">CẤM ĐẤU</string>
-    <string name="FIND_GAMES">TÌM GAMES</string>
-    <string name="PLAY_SOLO">CHƠI SOLO</string>
+    <string name="FIND_GAMES">TÌM TRÒ CHƠI</string>
+    <string name="PLAY_SOLO">CHƠI ĐƠN</string>
     <string name="SET_EMOTE">ĐẶT BIỂU CẢM</string>
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
     <string name="Win_a_Battle_Royale_">Thắng 1 trận tử chiến.</string>
@@ -1270,9 +1270,9 @@ Lệnh:
 !info"
 </string>
     <string name="ID_Sort">ID Sort</string>
-    <string name="Master_Tamer">Vua Thú Cưng</string>
+    <string name="Master_Tamer">BẬC THẦY THUẦN HÓA</string>
     <string name="Get_ALL_Pets_To_Level_100_">Tất cả các thú cưng đạt cấp 100</string>
-    <string name="TAMER">VUA THÚ</string>
+    <string name="TAMER">VUA THUẦN HÓA</string>
     <string name="Allow_Recombine">Cho phép ghép nhanh</string>
     <string name="Defenders">Người thủ</string>
     <string name="Attackers">Người tấn công</string>
@@ -1311,7 +1311,7 @@ Lệnh:
     <string name="_2x_skin_resolution">2x độ nét của Skin</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Các bạn đã là bạn.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Tài khoản phải được 1 ngày tuổi để gửi thư.</string>
     <string name="Translator">Người Dịch</string>
     <string name="SUCCESS">THÀNH CÔNG</string>
 
@@ -1331,22 +1331,22 @@ Lệnh:
         <item>"Phải + trái"</item>
         <item>"Xếp bên trái"</item>
         <item>"Xếp bên phải"</item>
-        <item>"Custom"</item>
+        <item>"Tùy chọn"</item>
     </string-array>
 
     <string-array name="themes">
         <item>"Sao (đen)"</item>
         <item>"Kẻ ô (đen)"</item>
         <item>"Kẻ ô (trắng)"</item>
-        <item>"Custom"</item>
+        <item>"Tùy chọn"</item>
         <item>"Không"</item>
     </string-array>
 
     <string-array name="difficulties">
-        <item>"Dễ dàng"</item>
+        <item>"Dễ"</item>
         <item>"Trung bình"</item>
         <item>"Khó"</item>
-        <item>"CỰC KÌ KHÓ"</item>
+        <item>"SIÊU KHÓ"</item>
     </string-array>
 
     <string-array name="sizes">
