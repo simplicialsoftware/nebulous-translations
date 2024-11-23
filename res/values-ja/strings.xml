@@ -1287,11 +1287,11 @@
     <string name="delete_prompt">Are you sure you want to delete your account? This is PERMANENT and CANNOT BE UNDONE!</string>
 
 
-    <string name="Type">Type</string>
-    <string name="Complete_campaign_mission_">Complete campaign mission</string>
+    <string name="Type">タイプ</string>
+    <string name="Complete_campaign_mission_">キャンペーンミッションを完了する</string>
     <string name="Specify_Reason_">Specify Reason:</string>
-    <string name="FREE_FOR_ALL">FREE FOR ALL</string>
-    <string name="SPECIAL">SPECIAL</string>
+    <string name="FREE_FOR_ALL">誰でも自由</string>
+    <string name="SPECIAL">特別</string>
     <string name="FREE">無料</string>
     <string name="x5_Clan_XP_1_Day">クラン経験値5倍1日間</string>
     <string name="x5_Clan_XP_7_days">クラン経験値5倍7日間</string>
