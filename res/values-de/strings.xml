@@ -592,7 +592,7 @@
     <string name="Bead_Collector">"Perlen-Sammler"</string>
     <string name="Bead_Hoarder">"Perlen-Hamsterer"</string>
     <string name="Bead_Mogul">"Perlen-Mogul"</string>
-    <string name="beads_">"Perlen."</string>
+    <string name="beads_">"Perlen"</string>
 
     <string name="Rejoin_Game">"Spiel wieder beitreten"</string>
     <string name="PRIZES">"Preise"</string>
