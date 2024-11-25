@@ -1146,7 +1146,7 @@
     <string name="ANIMATION">رسوم مُتحركة</string>
     <string name="Color_Cycle">دورة الألوان</string>
     <string name="Fast">سريع</string>
-    <string name="Slow">بطئ</string>
+    <string name="Slow">بطيء</string>
     <string name="Rainbow">ثُقب مُلوَّن</string>
     <string name="Horizontal">أفقي</string>
     <string name="Vertical">رأسي</string>
@@ -1169,7 +1169,7 @@
     <string name="Requests">الطلبات</string>
     <string name="Invites">الدعوات</string>
     <string name="Show_Spectator_Count">إظهار عداد المشاهدة</string>
-    <string name="TRY_IT_">جربه</string>
+    <string name="TRY_IT_">جرِّب</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">تحتاج لشراء حزمه لتستخدم هذه</string>
     <string name="GET_PACK">العودة للوراء</string>
     <string name="Position_in_queue">الموضع في قائمة الأنتظار</string>
@@ -1274,7 +1274,7 @@
     <string name="x4_Clan_XP_7_days">4x نقاط خبرة العشيرة لمُدَّة 7 ايَّام.</string>
     <string name="x4_Clan_XP_1_Day">4x نقاط خبرة العشيرة لمُدَّة يوم</string>
     <string name="CHARGE_UP">الشُحنْةُ</string>
-    <string name="CLAN_DESCRIPTION_COLOR">لونِ وصف العشيرة</string>
+    <string name="CLAN_DESCRIPTION_COLOR">لون وصف العشيرة</string>
     <string name="Responsible_Pet_Owner">مسؤول الحيوانات الأليفة</string>
     <string name="Animal_Tamer">مُروِّض الحيوان</string>
     <string name="Crocodile_Hunter">صياد التمساح</string>
@@ -1344,7 +1344,7 @@ Commands:
     <string name="x5_Clan_XP_7_days">مسرع العشيرةX5  لمدة سبع ايام</string>
     <string name="x5_Clan_XP_Perm">5X مسرع العشيرة دائم</string>
     <string name="Quin">5X</string>
-    <string name="x5_XP_1_Hour">  مسرع X5 لمدة ساعة</string>
+    <string name="x5_XP_1_Hour"> مسرع X5 لمدة ساعة </string>
     <string name="x5_XP_24_hours">مسرع X5 لمدة 24ساعة</string>
     <string name="x5_XP_Permanent">مسرع دائم X5</string>
     <string name="CAMPAIGN_2">حملة ضد الاَليين 2</string>
