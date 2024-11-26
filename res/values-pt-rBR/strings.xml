@@ -289,7 +289,7 @@
     <string name="No_such_user_found_">"Nenhum usuário encontrado."</string>
     <string name="No_open_public_clans_exist_">"Não existem clãs públicos abertos."</string>
     <string name="You_aren_t_invited_to_that_clan_">"Você não está convidado para este clã."</string>
-    <string name="No_such_clan_exists_">"Não existe tal clã."</string>
+    <string name="No_such_clan_exists_">"Este clã não existe."</string>
     <string name="That_clan_is_full_">"Este clã está cheio."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Outro usuário não é um membro de seu clã."</string>
     <string name="_You_can_t_be_your_own_friend_">"Você não pode ser seu próprio amigo."</string>
@@ -378,7 +378,7 @@
     <string name="Clan_Warrior">"Guerreiro do Clã"</string>
     <string name="Win_a_Clan_War">"Ganhar uma Guerra de Clãs"</string>
     <string name="Global">"Global"</string>
-    <string name="Spectating">"Espectador"</string>
+    <string name="Spectating">"Modo Espectador"</string>
 
 
     <string name="snowflakes_">"flocos de neve."</string>
@@ -471,7 +471,7 @@
     <string name="ENTER">"ENTRAR"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Praticar"</string>
-    <string name="ArenaDescription">Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
+    <string name="ArenaDescription">Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultarão em um banimento.</string>
     <string name="Contestant">"Competidor"</string>
     <string name="Duelist">"Duelista"</string>
     <string name="Gladiator">"Gladiador"</string>
@@ -726,7 +726,7 @@
     <string name="contribution_warning">"Tem certeza de que deseja contribuir com estes plasmas? As contribuições não serão reembolsadas."</string>
     <string name="Upload">"Enviar"</string>
 
-    <string name="upload_warning">"Tem certeza de que deseja enviar esta skin? Os outros jogadores serão capazes de ver esta skin. Pode levar até uma semana para a sua skin ser revisada. Skins inapropriadas poderão ser reembolsadas ou rejeitadas, dependendo da gravidade!"</string>
+    <string name="upload_warning">"Tem certeza de que deseja enviar esta skin? Os outros jogadores serão capazes de vê-la. Pode levar até uma semana para a sua skin ser revisada. Skins inapropriadas poderão ser reembolsadas ou rejeitadas, dependendo da gravidade!"</string>
 
     <string name="In_Review">"Em Revisão"</string>
     <string name="Account_Uploads">"Envios para a Conta"</string>
@@ -748,12 +748,12 @@
     <string name="Other_players_can_not_see_your_skin_">Outros jogadores não podem ver a sua skin.</string>
     <string name="Other_players_can_see_your_skin_">Outros jogadores podem ver a sua skin</string>
     <string name="LEGEND">LENDA</string>
-    <string name="Win_10000_Arenas">Ganhar 10,000 Arenas</string>
+    <string name="Win_10000_Arenas">Ganhar 10.000 Arenas</string>
     <string name="UPLOAD_PREVIEW">PRÉVIA DO ENVIO</string>
     <string name="Transparency">Transparência</string>
     <string name="upload_info">Você pode conseguir uma melhor qualidade, sem transparência ou com imagens simples.</string>
     <string name="Compression_Quality_">Qualidade da Compressão:</string>
-    <string name="inapproriate_info">Skins inapropriadas incluem qualquer coisa que envolva ódio, gore, obscenidade, violência, drogas, sexo, nudez, selfies de corpo inteiro, obscuridade, ininteligibilidade e skins Nebulous não modificadas. Lembrando também que skins sem camisa, mostrando dedo do meio, que contenham drogas/cigarros, decotes, barriga tanquinho, serão reembolsadas ou rejeitadas de acordo com o revisor.</string>
+    <string name="inapproriate_info">Skins inapropriadas incluem qualquer coisa que envolva ódio, gore, obscenidade, violência, drogas, sexo, nudez, selfies de corpo inteiro, obscuridade, ininteligibilidade e skins Nebulous não modificadas. Vale ressaltar que skins sem camisa, mostrando dedo do meio, que contenham drogas/cigarros, decotes, barriga tanquinho, serão reembolsadas ou rejeitadas de acordo com o revisor.</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">Você tem certeza de que deseja enviar esta skin?</string>
     <string name="Grant_Permission">Conceder Permissão</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">O Nebulous precisa da permissão de Armazenamento para fazer o backup do seu progresso de jogador único!</string>
@@ -778,7 +778,7 @@
     <string name="Delete_Message">Excluir Mensagem</string>
     <string name="BLOCK">BLOQUEAR</string>
     <string name="DELETE">EXCLUIR</string>
-    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">Nota: Você pode desbloquear alguém, enviando-lhes um pedido de amizade.</string>
+    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_"781 Nota: Para desbloquear alguém, basta enviar um pedido de amizade.</string>
     <string name="Select_Friend">Selecionar Amigo</string>
     <string name="Failed_to_send_mail_">Falha ao enviar a mensagem.</string>
     <string name="In_Game_Mail">E-mail no Jogo</string>
@@ -814,7 +814,7 @@
     <string name="Registrants">Registrados</string>
     <string name="Round_Of">Rodada De</string>
     <string name="Next_Tournament">Próximo Torneio</string>
-    <string name="Plasma_Won">Plasma Ganhado</string>
+    <string name="Plasma_Won">Plasma Ganho</string>
     <string name="Semi_Finals">Semi-Finais</string>
     <string name="Quarter_Finals">Quartas de Finais</string>
     <string name="Competing">Competindo</string>
@@ -964,7 +964,7 @@ Regras do Nebulous\n
 13. Não troque os Clãs do Nebulous por dinheiro ou plasma.\n
 14. Não faça spam no chat ou e-mail.\n
         \n
-Se você não cumprir nenhuma dessas regras, sua conta poderá ser banida.\n
+Sua conta poderá ser banida caso não cumpra alguma dessas regras.\n
 (O tempo da punição pode ser de algumas horas até o banimento permanente, dependendo da situação e da gravidade do problema).\n
 \n
 Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
@@ -1019,7 +1019,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="Birthday">Aniversário</string>
     <string name="Mass_Boost">Impulso de Massa</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">O Impulso de Massa não funciona em arenas, torneios, e Guerras de Clãs!</string>
-    <string name="ArenaDescriptionPure">SEM autoclick ou ultraclick. Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
+    <string name="ArenaDescriptionPure">SEM autoclick ou ultraclick. Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultarão em um banimento.</string>
     <string name="_1v1_Pure">1v1 Puro</string>
     <string name="Allow_Ultraclick">Permitir Ultraclick</string>
     <string name="Allow_Mass_Boost">Permitir Impulso de Massa</string>
@@ -1066,15 +1066,15 @@ PORQUE A MINHA SKIN PERSONALIZADA FOI REEMBOLSADA OU REJEITADA?
 
 Se a sua skin personalizada for reembolsada, não a compre novamente, pois ela será rejeitada e você perderá seus plasmas.
 
-Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personalizadas. Se você comprar uma skin com isso, ela será reembolsada ou rejeitada:
+Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personalizadas. Se você comprar uma skin com algo descrito abaixo, ela será reembolsada ou rejeitada:
 - Conteúdo e/ou alguma referência Sexual
 - Skins/Arte do Nebulous Não Modificadas
 - Conteúdo Gore (horror)/Suicídio
-- Nudes (sem camisa)
+- Nudes ou semi-nudes
 - Skins muito escuras
 - Skins transparentes
-- Drogas (Álcool/Cigarro/Marijuana - Maconha)
-- Nome de páginas/sites para adultos (pornografia)
+- Drogas em geral
+- Nome de páginas/sites +18 (pornografia)
 - Pessoas com pouca roupa (decotes no corpo)
 - Racismo/Nazismo/Violência
 - Pessoas usando uma arma
@@ -1118,14 +1118,14 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="POP_SPLIT">POP SPLIT</string>
     <string name="PUSH_SPLIT">PUSH SPLIT</string>
     <string name="Level_Colors">Cores do Nível</string>
-    <string name="click_info">O Autoclick/Ultraclick não funciona no FFA Clássico!</string>
+    <string name="click_info">O Autoclick/Ultraclick não funcionam no FFA Clássico!</string>
     <string name="Hooked">Enganchado</string>
-    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Seja puxado por um poder de gancho por 10 segundos</string>
+    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Seja puxado por um poder de gancho durante 10 segundos</string>
     <string name="Pack">Pacote</string>
     <string name="Skin_Pack">Pacote de Skin</string>
     <string name="SKIN_PACK">PACOTE DE SKIN</string>
     <string name="HALLOWEEN">DIA DAS BRUXAS</string>
-    <string name="pack_info">Depois que você comprar este pacote de skin, suas skins exclusivas aparecerão na parte superior dos menus de seleção de skin.</string>
+    <string name="pack_info">Após comprar este pacote de skin, suas skins exclusivas aparecerão na parte superior dos menus de seleção de skin.</string>
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins, Masc, Bonés EXCLUSIVOS e Mais!</string>
     <string name="BUY_NOW_">COMPRAR AGORA!</string>
     <string name="already_purchased">Você ou a pessoa para qual você está comprando já possui isto.</string>
@@ -1279,7 +1279,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="CHAMPION">CAMPEÃO</string>
     <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">Você não pode ganhar XP ou plasma no modo Sem Vírus (Sandbox)!</string>
     <string name="DASH">DASH</string>
-    <string name="setting_changed">Configurações atualizadas. Pode ser necessário que você se reconecte ao servidor para que elas entrem em vigor.</string>
+    <string name="setting_changed">Configurações atualizadas. É recomendável que você se reconecte ao servidor para que elas entrem em vigor.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Execute 10,000 tricks em um jogo no Modo Trick.</string>
     <string name="Tricky">Tricky</string>
     <string name="SUPPORTER">VIP</string>
