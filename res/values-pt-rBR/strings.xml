@@ -1,3 +1,5 @@
+
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"Jogadores"</string>
     <string name="Control_">"Controle:"</string>
@@ -778,7 +780,7 @@
     <string name="Delete_Message">Excluir Mensagem</string>
     <string name="BLOCK">BLOQUEAR</string>
     <string name="DELETE">EXCLUIR</string>
-    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_"781 Nota: Para desbloquear alguém, basta enviar um pedido de amizade.</string>
+    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">Nota: Para desbloquear alguém, basta enviar um pedido de amizade.</string>
     <string name="Select_Friend">Selecionar Amigo</string>
     <string name="Failed_to_send_mail_">Falha ao enviar a mensagem.</string>
     <string name="In_Game_Mail">E-mail no Jogo</string>
