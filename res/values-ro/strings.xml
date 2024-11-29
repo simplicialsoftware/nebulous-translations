@@ -964,7 +964,7 @@ Regulile Nebulous\n
 10. Nu interziceți niciun membru al clanului fără autorizațua liderului.\n
 11. În jocurile de echipă, nu faceți echipă cu cineva dintr-o echipă adversă.\n
 12. Nu minți niciodată un moderator.\n
-13. Nu cumpărați clanurile Nebulous cu bani sau plasmā.\n
+13. Nu cumpărați clanurile Nebulous cu bani sau plasmă.\n
 14. Nu spamați în chat sau e-mail.\n
 \n
 Dacă nu respectați niciuna dintre aceste reguli, contul dumneavoastră ar putea fi interzis.\n
@@ -1252,7 +1252,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Mode_3D">Mod 3D</string>
     <string name="Names_Below_Blobs">Nume Jos de Blob-urile</string>
     <string name="Name_Scale_">"Scală de nume:"</string>
-    <string name="poor_connection_quality_warning" translatable="true">Dispozitivul tău are o conexiune rău cu serverul. Acest lucru poate provoca lag. Te rog verifică Wi-Fi-ul tău sau date mobile, sau încercă o conexiune diferită de Internet. De asemenea asigurați-vă că jucați în serverul mai aproape de tine.</string>
+    <string name="poor_connection_quality_warning" translatable="true">Dispozitivul tău are o conexiune rău la server. Acest lucru poate provoca lag. Te rog verifică Wi-Fi-ul tău sau date mobile, sau încercă o conexiune diferită de Internet. De asemenea asigurați-vă că jucați în serverul mai aproape de tine.</string>
     <string name="Button_3D">Buton 3D</string>
     <string name="Hide_Button_">Ocultă Butonul?</string>
     <string name="Show_Boost_Button">Arată Butonul Boost-ului</string>
