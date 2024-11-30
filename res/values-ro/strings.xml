@@ -1252,7 +1252,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Mode_3D">Mod 3D</string>
     <string name="Names_Below_Blobs">Nume Jos de Blob-urile</string>
     <string name="Name_Scale_">"Scală de nume:"</string>
-    <string name="poor_connection_quality_warning" translatable="true">Dispozitivul tău are o conexiune rău la server. Acest lucru poate provoca lag. Te rog verifică Wi-Fi-ul tău sau date mobile, sau încercă o conexiune diferită de Internet. De asemenea asigurați-vă că jucați în serverul mai aproape de tine.</string>
+    <string name="poor_connection_quality_warning" translatable="true">Dispozitivul tău are o conexiune rea la server. Acest lucru poate provoca lag. Te rog verifică Wi-Fi-ul tău sau datele mobile, sau încercă o conexiune diferită de Internet. De asemenea asigurați-vă că jucați în serverul mai apropiat de tine.</string>
     <string name="Button_3D">Buton 3D</string>
     <string name="Hide_Button_">Ocultă Butonul?</string>
     <string name="Show_Boost_Button">Arată Butonul Boost-ului</string>
