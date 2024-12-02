@@ -343,7 +343,7 @@
 
 
     <string name="pumpkins_">"اليقطين."</string>
-    <string name="To_use_this_skin_you_must_collect">"لاستخدام هذه الصورة يجب عليك جمع"</string>
+    <string name="To_use_this_skin_you_must_collect">"لإستخدام هذه الصورة يجب عليك جمع"</string>
     <string name="Australia">"أستراليا"</string>
     <string name="Pumpkin_Collector">"جامع اليقطين"</string>
     <string name="Collect_1000_pumpkins_">"جمع 1000 يقطينة."</string>
@@ -376,7 +376,7 @@
     <string name="W_D_L">"ف-ت-خ"</string>
     <string name="MATCH_START">"بداية المباراة بعد"</string>
     <string name="Clan_Warrior">"محارب العشيرة"</string>
-    <string name="Win_a_Clan_War">"فوز بحرب عشائر"</string>
+    <string name="Win_a_Clan_Warrior">"الفوز بحرب العشائر"</string>
     <string name="Global">"عالمي"</string>
     <string name="Spectating">"مشاهدة"</string>
 
@@ -483,8 +483,8 @@
 
 
     <string name="Already_in_arena_">"أنت في تحدي حاليّا."</string>
-    <string name="Already_in_queue_">"انت في القائمة حاليا."</string>
-    <string name="Invalid_Account_ID_">"رقم هوية الحساب غير صالح."</string>
+    <string name="Already_in_queue_">"انت في القائمة حاليّا."</string>
+    <string name="Invalid_Account_ID_">"رقم هوية الحساب غير صالحة."</string>
 
     <string name="Validating">"التحقق من صحة"</string>
 
