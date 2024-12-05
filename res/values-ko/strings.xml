@@ -772,7 +772,7 @@
     <string name="Subject">제목</string>
     <string name="SEND">전송</string>
     <string name="To">수신</string>
-    <string name="RESET">리셋</string>
+    <string name="RESET">재설정</string>
     <string name="Message_Sent_">메세지가 전송되었습니다!</string>
     <string name="From">발신</string>
     <string name="Sent">전송되었습니다</string>
