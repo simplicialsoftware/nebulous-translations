@@ -55,8 +55,8 @@
     <string name="SERVER">"SERVIDOR"</string>
     <string name="Joining_game_in_">"Entrando al juego"</string>
     <string name="Game_Full">"La partida está llena"</string>
-    <string name="US_East">"Este de EE. UU."</string>
-    <string name="US_West">"Oeste de EE. UU."</string>
+    <string name="US_East">"Centroamérica"</string>
+    <string name="US_West">"Norteamérica"</string>
     <string name="Europe">"Europa"</string>
     <string name="South_America">"Sudamérica"</string>
 
@@ -94,8 +94,8 @@
     <string name="XP_">"EXP"</string>
 
     <string name="Information">"Información"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para utilizar esta apariencia, debes completar el logro"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Para utilizar esta apariencia, debes alcanzar el nivel"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para utilizar esta skin, debes completar el logro"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Para utilizar esta skin, debes alcanzar el nivel"</string>
 
     <string name="Single_Player_Stats">"Estadísticas en modo un jugador"</string>
 
@@ -105,12 +105,12 @@
     <string name="FRIENDS">"AMIGOS"</string>
     <string name="Warning">"Advertencia"</string>
     <string name="SIGNING_IN">"INICIANDO SESIÓN…"</string>
-    <string name="New_Friend_Request">"¡Tienes una nueva solicitud de amistad!"</string>
+    <string name="New_Friend_Request">"¡Nueva solicitud de amistad!"</string>
     <string name="REQUEST_FRIEND">"SOLICITUD DE AMISTAD"</string>
     <string name="Private">"Privado"</string>
     <string name="Public">"Público"</string>
     <string name="Bot">"Bot"</string>
-    <string name="You">"Tú"</string>
+    <string name="You">"Usted"</string>
     <string name="This_player_is_a_bot">"Este jugador es un bot"</string>
     <string name="This_player_is_not_signed_in">"Este jugador no ha iniciado sesión"</string>
 </resources>
