@@ -1,125 +1,119 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="Players">"Spieler"</string>
-    <string name="Control_">"Steuerung:"</string>
-    <string name="CLOSE">"Schließen"</string>
-    <string name="Stick_Size_">"Steuerrad Größe:"</string>
-    <string name="Stick_Margin_">"Steuerrad Position:"</string>
-    <string name="Button_Size_">"Schaltflächengröße:"</string>
-    <string name="Button_Margin_">"Schaltflächen Position:"</string>
-    <string name="Buttons_">"Schaltflächen:"</string>
-    <string name="DEFAULTS">"Vorgaben"</string>
-    <string name="WEEKLY">"WÖCHENTLICH"</string>
-    <string name="DAILY">"TÄGLICH"</string>
-    <string name="Server_">"Server"</string>
-    <string name="Game_Mode_">"Spielmodus:"</string>
-    <string name="Show_Names">"Namen anzeigen"</string>
-    <string name="Show_Avatars">"Skins anzeigen"</string>
-    <string name="PLAY">"Spielen"</string>
-    <string name="OPTIONS">"Einstellungen"</string>
+    <string name="Players">"Jugadores"</string>
+    <string name="Control_">"Control:"</string>
+    <string name="CLOSE">"CERRAR"</string>
+    <string name="Stick_Size_">"Tamaño de la palanca:"</string>
+    <string name="Stick_Margin_">"Ubicación de la palanca:"</string>
+    <string name="Button_Size_">"Tamaño botones:"</string>
+    <string name="Button_Margin_">"Espaciado de los botones:"</string>
+    <string name="Buttons_">"Botones:"</string>
+    <string name="DEFAULTS">"POR DEFECTO"</string>
+    <string name="WEEKLY">"SEMANAL"</string>
+    <string name="DAILY">"DIARIO"</string>
+    <string name="Server_">"Servidor:"</string>
+    <string name="Game_Mode_">"Modo de Juego:"</string>
+    <string name="Show_Names">"Mostrar Nombres"</string>
+    <string name="Show_Avatars">"Mostrar Skins"</string>
+    <string name="PLAY">"JUGAR"</string>
+    <string name="OPTIONS">"OPCIONES"</string>
 
-    <string name="Avatar_">"Skin:"</string>
-    <string name="Name_">"Name:"</string>
+    <string name="Avatar_">"Aspecto:"</string>
+    <string name="Name_">"Nombre:"</string>
 
-    <string name="Loading___">"Wird geladen…"</string>
-    <string name="Connecting___">"Verbinden…"</string>
+    <string name="Loading___">"Cargando…"</string>
+    <string name="Connecting___">"Conectando…"</string>
 
+    <string name="Are_You_Sure_">"¿Estás seguro?"</string>
+    <string name="Yes">"Sí"</string>
+    <string name="No">"No"</string>
+    <string name="WAIT">"ESPERA…"</string>
+    <string name="Must_Specify_Name_">"Debes especificar un nombre"</string>
 
-    <string name="Are_You_Sure_">"Sind Sie sicher?"</string>
-    <string name="Yes">"Ja"</string>
-    <string name="No">"Nein"</string>
-    <string name="WAIT">"Bitte warten…"</string>
-    <string name="Must_Specify_Name_">"Bitte Namen angeben."</string>
+    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"El contenido de esta aplicación puede variar cuando se buscan grupos"</string>
 
-    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Die Altersfreigabe der App kann sich ändern, wenn Gruppen besucht werden."</string>
+    <string name="_Rank_">"Rango"</string>
+    <string name="_Alias_">"Apodo"</string>
+    <string name="_Score_">"Puntuación"</string>
+    <string name="Score__">"Puntuación:"</string>
+    <string name="Recombine_">"Unirse:"</string>
+    <string name="WINNER_">"GANADOR:"</string>
+    <string name="IDLE">"INACTIVO"</string>
+    <string name="Name_Invalid_">"Nombre no válido"</string>
+    <string name="Name_Taken_">"Nombre ya en uso"</string>
+    <string name="CONNECTED">"CONECTADO"</string>
+    <string name="JOINING___">"UNIÉNDOSE…"</string>
+    <string name="PLAYING">"JUGANDO"</string>
+    <string name="MULTIPLAYER">"MULTIJUGADOR"</string>
 
-    <string name="_Rank_">" Rang "</string>
-    <string name="_Alias_">" Alias "</string>
-    <string name="_Score_">" Punkte "</string>
-    <string name="Score__">"Punkte: "</string>
-    <string name="Recombine_">"Verbinden:"</string>
-    <string name="WINNER_">"Gewinner:"</string>
-    <string name="IDLE">"Abwesend"</string>
-    <string name="Name_Invalid_">"Name ungültig."</string>
-    <string name="Name_Taken_">"Dieser Name wird bereits verwendet!"</string>
-    <string name="CONNECTED">"Verbunden!"</string>
-    <string name="JOINING___">"Trete bei…"</string>
-    <string name="PLAYING">"Spielen"</string>
-    <string name="MULTIPLAYER">"Mehrspieler"</string>
+    <string name="JOIN">"UNIRSE"</string>
 
-    <string name="JOIN">"Beitreten"</string>
+    <string name="Lobby_Name">"Nombre de la sala"</string>
+    <string name="Not_found_">"No encontrado"</string>
 
+    <string name="Hidden">"Oculto"</string>
 
-    <string name="Lobby_Name">"Lobby Name"</string>
-    <string name="Not_found_">"Nicht gefunden."</string>
-
-    <string name="Hidden">"Versteckt"</string>
-
-
-    <string name="SERVER">"Server"</string>
-    <string name="Joining_game_in_">"Spiel beitreten in "</string>
-    <string name="Game_Full">"Das Spiel ist voll!"</string>
-    <string name="US_East">"USA Osten"</string>
-    <string name="US_West">"USA Westen"</string>
+    <string name="SERVER">"SERVIDOR"</string>
+    <string name="Joining_game_in_">"Entrando al juego"</string>
+    <string name="Game_Full">"Juego lleno"</string>
+    <string name="US_East">"Este de EE. UU."</string>
+    <string name="US_West">"Oeste de EE. UU."</string>
     <string name="Europe">"Europa"</string>
-    <string name="South_America">"Südamerika"</string>
+    <string name="South_America">"América del Sur"</string>
 
+    <string name="SINGLE_PLAYER">"UN JUGADOR"</string>
+    <string name="Background_">"Fondo:"</string>
+    <string name="Difficulty_">"Dificultad:"</string>
+    <string name="Delay_Disconnect">"Retraso en la desconexión"</string>
 
-    <string name="SINGLE_PLAYER">"Einzelspieler:"</string>
-    <string name="Background_">"Hintergrund:"</string>
-    <string name="Difficulty_">"Schwierigkeit:"</string>
-    <string name="Delay_Disconnect">"Verzögerung für Rauswurf bei schlechter Verbindung"</string>
+    <string name="Max_Players">"Jugadores máximos"</string>
+    <string name="Min_Players">"Jugadores mínimos"</string>
 
-    <string name="Max_Players">"Max. Spieler"</string>
-    <string name="Min_Players">"Min. Spieler"</string>
+    <string name="OK">"VALE"</string>
+    <string name="CANCEL">"CANCELAR"</string>
+    <string name="Chat_Name">"Nombre del chat"</string>
+    <string name="Max_People">"Personas máximas"</string>
+    <string name="START">"EMPEZAR"</string>
+    <string name="CREATE">"CREAR"</string>
+    <string name="CUSTOM_GAMES">"PARTIDAS PERSONALIZADAS"</string>
+    <string name="CHAT">"CHAT"</string>
+    <string name="CUSTOM_SETUP">"CONFIGURACIÓN PERSONALIZADA"</string>
+    <string name="CHAT_SETUP">"CONFIGURACIÓN DEL CHAT"</string>
 
-    <string name="OK">"Ok"</string>
-    <string name="CANCEL">"Abbrechen"</string>
-    <string name="Chat_Name">"Chatname"</string>
-    <string name="Max_People">"Max. Personen"</string>
-    <string name="START">"Start"</string>
-    <string name="CREATE">"Erstellen"</string>
-    <string name="CUSTOM_GAMES">"Individuelle Spiele"</string>
-    <string name="CHAT">"Chat"</string>
-    <string name="CUSTOM_SETUP">"Individuelle Einstellungen"</string>
-    <string name="CHAT_SETUP">"Chat Einstellungen"</string>
+    <string name="SIGN_IN">"INICIAR SESIÓN"</string>
+    <string name="ACCOUNT">"CUENTA"</string>
+    <string name="Red_Team">"Equipo Rojo"</string>
+    <string name="Green_Team">"Equipo Verde"</string>
+    <string name="Blue_Team">"Equipo Azul"</string>
+    <string name="Yellow_Team">"Equipo Amarillo"</string>
+    <string name="Signed_in_as_">"Conectado como usuario:"</string>
+    <string name="Not_signed_in_">"¡No registrado!"</string>
+    <string name="SET_NAME">"CAMBIAR NOMBRE"</string>
+    <string name="SIGN_OUT">"CERRAR SESIÓN"</string>
+    <string name="ACHIEVEMENTS">"LOGROS"</string>
+    <string name="STATISTICS">"ESTADÍSTICAS"</string>
+    <string name="XP_">"EXP"</string>
 
+    <string name="Information">"Información"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para usar esta skin, debes completar el logro"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Para usar esta skin, tienes que alcanzar el nivel"</string>
 
-    <string name="SIGN_IN">"Anmelden"</string>
-    <string name="ACCOUNT">"Konto"</string>
-    <string name="Red_Team">"Rotes Team"</string>
-    <string name="Green_Team">"Grünes Team"</string>
-    <string name="Blue_Team">"Blaues Team"</string>
-    <string name="Yellow_Team">"Gelbes Team"</string>
-    <string name="Signed_in_as_">"Angemeldet als:"</string>
-    <string name="Not_signed_in_">"Nicht angemeldet"</string>
-    <string name="SET_NAME">"Name eingeben"</string>
-    <string name="SIGN_OUT">"Abmelden"</string>
-    <string name="ACHIEVEMENTS">"Erfolge"</string>
-    <string name="STATISTICS">"Statistiken"</string>
-    <string name="XP_">"Erfahrungspunkte:"</string>
+    <string name="Single_Player_Stats">"Estadísticas en modo Un Jugador"</string>
 
-    <string name="Information">"Informationen"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Um diesen Skin zu verwenden, müssen Sie erst den entsprechenden Erfolg freischalten"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Um diesen Skin zu verwenden, müssen Sie erst das entsprechende Level erreichen"</string>
+    <string name="Level">"Nivel"</string>
+    <string name="PAUSED">"EN PAUSA"</string>
 
-    <string name="Single_Player_Stats">"Einzelspieler Statistiken"</string>
-
-    <string name="Level">"Level"</string>
-    <string name="PAUSED">"Pause"</string>
-
-
-    <string name="FRIENDS">"Freunde"</string>
-    <string name="Warning">"Warnung"</string>
-    <string name="SIGNING_IN">"ANMELDEN…"</string>
-    <string name="New_Friend_Request">"Neue Freundschaftsanfrage!"</string>
-    <string name="REQUEST_FRIEND">"Freundschaftsanfrage senden"</string>
-    <string name="Private">"Privat"</string>
-    <string name="Public">"Öffentlich"</string>
+    <string name="FRIENDS">"AMIGOS"</string>
+    <string name="Warning">"Advertencia"</string>
+    <string name="SIGNING_IN">"INICIANDO SESIÓN…"</string>
+    <string name="New_Friend_Request">"¡Nueva solicitud de amistad!"</string>
+    <string name="REQUEST_FRIEND">"SOLICITUD DE AMISTAD"</string>
+    <string name="Private">"Privado"</string>
+    <string name="Public">"Público"</string>
     <string name="Bot">"Bot"</string>
-    <string name="You">"Sie"</string>
-    <string name="This_player_is_a_bot">"Dieser Spieler ist ein Bot."</string>
-    <string name="This_player_is_not_signed_in">"Dieser Spieler ist nicht angemeldet."</string>
+    <string name="You">"Tú"</string>
+    <string name="This_player_is_a_bot">"Este jugador es un bot"</string>
+    <string name="This_player_is_not_signed_in">"Este jugador no está registrado"</string>
+</resources>
 
     <string name="Online">"Online"</string>
     <string name="Unknown">"Unbekannt"</string>
