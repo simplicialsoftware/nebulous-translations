@@ -1,21 +1,21 @@
 ﻿<resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="Players">"Jugadores"</string>
+    <string name="Players">"Jugadores."</string>
     <string name="Control_">"Control:"</string>
-    <string name="CLOSE">"CERRAR"</string>
+    <string name="CLOSE">"CERRAR."</string>
     <string name="Stick_Size_">"Tamaño pad:"</string>
     <string name="Stick_Margin_">"Ubicación pad:"</string>
     <string name="Button_Size_">"Tamaño botones:"</string>
     <string name="Button_Margin_">"Margen botones:"</string>
     <string name="Buttons_">"Botones:"</string>
-    <string name="DEFAULTS">"POR DEFECTO"</string>
-    <string name="WEEKLY">"SEMANAL"</string>
+    <string name="DEFAULTS">"POR DEFECTO."</string>
+    <string name="WEEKLY">"SEMANAL."</string>
     <string name="DAILY">"DIARIO"</string>
     <string name="Server_">"Servidor:"</string>
     <string name="Game_Mode_">"Modo de juego:"</string>
     <string name="Show_Names">"Mostrar nombres"</string>
-    <string name="Show_Avatars">"Mostrar skins"</string>
-    <string name="PLAY">"JUGAR"</string>
-    <string name="OPTIONS">"OPCIONES"</string>
+    <string name="Show_Avatars">"Mostrar skins."</string>
+    <string name="PLAY">"JUGAR."</string>
+    <string name="OPTIONS">"OPCIONES."</string>
 
     <string name="Avatar_">"Skin:"</string>
     <string name="Name_">"Nombre:"</string>
@@ -24,16 +24,16 @@
     <string name="Connecting___">"Conectando…"</string>
 
     <string name="Are_You_Sure_">"¿Estás seguro?"</string>
-    <string name="Yes">"Sí"</string>
-    <string name="No">"No"</string>
-    <string name="WAIT">"ESPERA…"</string>
+    <string name="Yes">"Sí."</string>
+    <string name="No">"No."</string>
+    <string name="WAIT">"ESPERA"</string>
     <string name="Must_Specify_Name_">"Debes especificar un nombre "</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"El contenido de esta aplicación puede variar cuando se buscan grupos "</string>
 
-    <string name="_Rank_">" Posición "</string>
+    <string name="_Rank_">" Rango "</string>
     <string name="_Alias_">" Apodo "</string>
-    <string name="_Score_">" Puntuación "</string>
+    <string name="_Score_">" Puntuación."</string>
     <string name="Score__">"Puntuación: "</string>
     <string name="Recombine_">"Juntarse: "</string>
     <string name="WINNER_">"GANADOR: "</string>
@@ -42,34 +42,34 @@
     <string name="Name_Taken_">"Nombre en Uso "</string>
     <string name="CONNECTED">"CONECTADO"</string>
     <string name="JOINING___">"UNIÉNDOSE…"</string>
-    <string name="PLAYING">"JUGANDO"</string>
-    <string name="MULTIPLAYER">"MULTIJUGADOR"</string>
+    <string name="PLAYING">"JUGANDO."</string>
+    <string name="MULTIPLAYER">"MULTIJUGADOR."</string>
 
-    <string name="JOIN">"UNIRSE"</string>
+    <string name="JOIN">"UNIRSE."</string>
 
 
-    <string name="Lobby_Name">"Nombre de la sala"</string>
+    <string name="Lobby_Name">"Nombre de la sala."</string>
     <string name="Not_found_">"No encontrado "</string>
 
     <string name="Hidden">"Oculto"</string>
 
 
-    <string name="SERVER">"SERVIDOR"</string>
+    <string name="SERVER">"SERVIDOR."</string>
     <string name="Joining_game_in_">"Entrando al juego "</string>
-    <string name="Game_Full">"Juego lleno"</string>
-    <string name="US_East">"Centroamérica"</string>
-    <string name="US_West">"Norteamérica"</string>
-    <string name="Europe">"Europa"</string>
-    <string name="South_America">"Sudamérica"</string>
+    <string name="Game_Full">"Juego lleno."</string>
+    <string name="US_East">"Centroamérica."</string>
+    <string name="US_West">"Norteamérica."</string>
+    <string name="Europe">"Europa."</string>
+    <string name="South_America">"Sudamérica."</string>
 
 
-    <string name="SINGLE_PLAYER">"UN JUGADOR"</string>
+    <string name="SINGLE_PLAYER">"UN JUGADOR."</string>
     <string name="Background_">"Fondo:"</string>
     <string name="Difficulty_">"Dificultad:"</string>
-    <string name="Delay_Disconnect">"Retraso en la desconexión"</string>
+    <string name="Delay_Disconnect">"Retraso en la desconexión."</string>
 
-    <string name="Max_Players">"Jugadores máximos"</string>
-    <string name="Min_Players">"Jugadores mínimos"</string>
+    <string name="Max_Players">"Jugadores máximos."</string>
+    <string name="Min_Players">"Jugadores mínimos."</string>
 
     <string name="OK">"VALE"</string>
     <string name="CANCEL">"CANCELAR"</string>
