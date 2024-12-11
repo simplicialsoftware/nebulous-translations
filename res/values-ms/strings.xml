@@ -117,7 +117,7 @@
     <string name="Public">"Awam"</string>
     <string name="Bot">"Bot"</string>
     <string name="You">"Kamu"</string>
-    <string name="This_player_is_a_bot">"Pemain ini bot."</string>
+    <string name="This_player_is_a_bot">"Pemain ini ialah bot."</string>
     <string name="This_player_is_not_signed_in">"Pemain ini tidak tandai masuk."</string>
 
     <string name="Online">"Online"</string>
