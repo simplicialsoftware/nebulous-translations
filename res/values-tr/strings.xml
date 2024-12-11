@@ -763,7 +763,7 @@
     <string name="FFA_ULTRA">"HERKES TEK ULTRA"</string>
     <string name="FFAU">"HERKES TEK U"</string>
     <string name="_in_a_FFAU_Game">"HERKES TEK ULTRA Oyununda"</string>
-
+    <string name="Arena_1v1">"1 e 1"</string>
     <string name="BANNED_PLAYERS">"YASAKLANMIŞ OYUNCULAR"</string>
     <string name="MAIL">"POSTA"</string>
     <string name="WRITE_MAIL">"POSTA YAZIN"</string>
