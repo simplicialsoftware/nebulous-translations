@@ -344,7 +344,7 @@
 
 
     <string name="pumpkins_">"개의 호박."</string>
-    <string name="To_use_this_skin_you_must_collect">"이 스킨을 사용하려면 다음 아이템을 수집해야합니다: "</string>
+    <string name="To_use_this_skin_you_must_collect">"이 스킨을 사용하려면 다음 아이템을 수집해야 합니다: "</string>
     <string name="Australia">"호주"</string>
     <string name="Pumpkin_Collector">"호박 수집가"</string>
     <string name="Collect_1000_pumpkins_">"호박 1,000 개 수집하기"</string>
@@ -435,7 +435,7 @@
     <string name="You_cannot_purchase_this_right_now_">"당신은 이것을 구매할 수 없습니다."</string>
 
 
-    <string name="Loading_Purchases___">"구매목록 로딩중…"</string>
+    <string name="Loading_Purchases___">"구매목록 로딩 중…"</string>
     <string name="In_App_Purchases">"앱 내 구매"</string>
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"현재 부스터가 만료 될 때까지 새로운 XP 부스트를 적용 할 수 없습니다."</string>
     <string name="This_purchase_has_already_been_redeemed_">"이 구매는 이미 적용되었습니다."</string>
