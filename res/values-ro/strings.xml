@@ -750,12 +750,12 @@
     <string name="Other_players_can_not_see_your_skin_">"Alți jucători nu îți pot vedea skin-ul tău."</string>
     <string name="Other_players_can_see_your_skin_">"Alți jucători îți pot vedea skin-ul tău."</string>
     <string name="LEGEND">"LEGENDĂ"</string>
-    <string name="Win_10000_Arenas">"Câștigă 10.000 de Arene"</string>
+    <string name="Win_10000_Arenas">"Câștigați 10.000 de Arene"</string>
     <string name="UPLOAD_PREVIEW">"PREVIZUALIZARE ÎNCĂRCARE"</string>
     <string name="Transparency">"Transparență"</string>
     <string name="upload_info">"Poți obține o calitate mai bună fără transparență sau cu imagini simple."</string>
     <string name="Compression_Quality_">"Calitatea Compresiei:"</string>
-    <string name="inapproriate_info">"skin-uri nepotrivite includ cele care implică ură, dezgust, obscenitate, violență, droguri, sex, nuditate, selfie cu întreg corpul, obscuritate, neinteligibil și skin-uri Nebulous nemodificate."</string>
+    <string name="inapproriate_info">"Skin-urile nepotrivite includ cele care implică ură, dezgust, obscenitate, violență, droguri, sex, nuditate, selfie cu întreg corpul, obscuritate, neinteligibil și skin-uri Nebulous nemodificate."</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">"Sunteți sigur că doriți să încărcați acest skin?"</string>
     <string name="Grant_Permission">"Acordă Permisiunea"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous are nevoie de permisiuni de stocare pentru backup-ul progresului în Single Player!"</string>
@@ -787,7 +787,7 @@
     <string name="Nav_Buttons_">"Butoane Navigare:"</string>
     <string name="account_warning">"Niciodată nu partajați parola contului sau informațiile personale cu oricine pentru orice motiv!"</string>
     <string name="Clan_Hero">"Eroul Clanului"</string>
-    <string name="Win_1000_Clan_Wars">"Câștigă 1.000 de Războaie de Clan"</string>
+    <string name="Win_1000_Clan_Wars">"Câștigați 1.000 de Războaie de Clan"</string>
     <string name="NAME_COLOR">"CULOARE DE NUME"</string>
     <string name="name_color_instructions">"Selectați caracterele pe care doriți să le modificați, apoi selectați culoarea pentru a le schimba."</string>
     <string name="Cannot_change_this_character_">"Nu se poate schimba acest caracter"</string>
@@ -881,7 +881,7 @@
     <string name="TeamTourneyDescription">Tu și colegul tău de echipă trebuie să vă înregistrați pentru a juca în turneul pe echipe. Veți plăti plasma când începe turneul, dar vă puteți retrage înainte să înceapă. Este nevoie de cel puțin %d concurenți pentru a începe.</string>
     <string name="Free_Agent">Agent Liber</string>
     <string name="This_player_selected_a_different_teammate_">Acest jucător a ales alt coleg de echipă.</string>
-    <string name="muted_until">Mut până</string>
+    <string name="muted_until">Ai mutat până la</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Rating-ul de conținut al aplicației se poate schimba când jucați multiplayer</string>
     <string name="UI_Opacity_">Transparența Interfaței</string>
     <string name="LOAD">ÎNCARCĂ</string>
@@ -897,7 +897,7 @@
     <string name="members">Membri:</string>
     <string name="Delete_ALL_Messages_">Șterge TOATE mesajele?</string>
     <string name="SAVE_PROFILE">SALVEAZĂ PROFILUL</string>
-    <string name="Move">Mută</string>
+    <string name="Move"Mută</string>
     <string name="New_Position">Poziție Nouă</string>
     <string name="ALLIANCES">ALIANȚE</string>
     <string name="ENEMIES">INAMICI</string>
@@ -927,7 +927,7 @@
     <string name="ENABLED">ACTIVAT</string>
     <string name="Enable_Custom_Blob_Color">Activează Culoarea Blob-ului Personalizată</string>
     <string name="Choose_Menu">Alege Meniu</string>
-    <string name="SPECTATE">SPECTATOR</string>
+    <string name="SPECTATE">SPECTĂ</string>
     <string name="INVITE">INVITĂ</string>
     <string name="error_1">Doar liderul sau co-liderul pot trimite mail clanului.</string>
     <string name="Hat">Pălărie</string>
@@ -1033,7 +1033,7 @@ Dacă observați că un jucător încalcă regulile jocului, vă rugăm să rapo
     <string name="BLOCKED">BLOCAT</string>
     <string name="CLAN_WAR_HISTORY">ISTORIA RĂZBOAIE DE CLAN</string>
     <string name="Particle">Particule</string>
-    <string name="Privacy">Intimitate</string>
+    <string name="Privacy">Privat</string>
     <string name="EULA">EULA</string>
     <string name="You_can_purchase_this_hat_for">Poți achiziționa această pălărie pentru</string>
     <string name="You_can_purchase_this_particle_for">Poți achiziționa această particulă pentru</string>
@@ -1047,7 +1047,7 @@ Dacă observați că un jucător încalcă regulile jocului, vă rugăm să rapo
     <string name="POSITION_EJECT_BUTTON">POZIȚIE BUTON EJECT</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">POZIȚIE BUTON EJECT TOGGLE </string>
     <string name="WIFI">WIFI</string>
-    <string name="JOIN_IP">INTRARE IP</string>
+    <string name="JOIN_IP">INTRĂ IP</string>
     <string name="Specify_Host_IP">Specificați Host IP</string>
     <string name="ADVANCED_SETUP">SETĂRI AVANSATE</string>
     <string name="WORLD_CUP_EVENT___">WORLD CUP EVENT!!!</string>
@@ -1087,19 +1087,19 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
 - Semne obscene cu mâinile."
     </string>
     <string name="PLAY_ONLINE_">JUCA ONLINE!</string>
-    <string name="Absorb_10_000_000_dots">Absoarbe 10,000,000 de puncte</string>
+    <string name="Absorb_10_000_000_dots">Absorbi 10.000.000 de puncte</string>
     <string name="Dot_Deity">Dot Deity</string>
     <string name="Mass_Mastery">Mass Mastery</string>
-    <string name="Gain_100_000_000_mass">Câștigă 100,000,000 de masă</string>
+    <string name="Gain_100_000_000_mass">Câștigați 100.000.000 de masă</string>
     <string name="VET">VET</string>
     <string name="Mute">Mută</string>
     <string name="Unmute">Anulă Mut</string>
     <string name="Community">Comunitate</string>
     <string name="Buy">Cumpăra</string>
     <string name="Sell">Vinde</string>
-    <string name="community_skin_information_for_seller" translatable="true">Când transformați un Skin personalizat într-un Skin pentru comunitate, el va apărea în filă &#x201e;Skin-urile Comunității&#x201f;. Alte persoane pot vedea și cumpăra Skin-ul tau în comunitate! De fiecare dată când cineva cumpără Skin-ul tau în comunitate, tu (sau clanul tau) primiți o cantitate mică de plasmă.</string>
-    <string name="community_skin_requirement">Trebuie să cumpărați &#x201e;Activează Skin-uri Personalizate&#x201f; pentru utiliza skin-urile comunității.</string>
-    <string name="You_can_purchase_this_community_skin_for_">Poți cumpăra acest Skin-ul comunității pentru</string>
+    <string name="community_skin_information_for_seller" translatable="true">Când transformați un Skin personalizat într-un Skin pentru comunitate, el va apărea în filă „Skin-urile Comunității‟. Alte persoane pot vedea și cumpăra Skin-ul tau în comunitate! De fiecare dată când cineva cumpără Skin-ul tau în comunitate, tu (sau clanul tau) primiți o cantitate mică de plasmă.</string>
+    <string name="community_skin_requirement">Trebuie să cumpărați „Activează Skin-uri Personalizate‟ pentru utiliza skin-urile comunității.</string>
+    <string name="You_can_purchase_this_community_skin_for_">Poți cumpăra acest skin-ul comunității pentru</string>
     <string name="community_skin_information_for_buyer" translatable="true">Skin-urile comunității sunt trimise de alți jucători. Skin-urile comunității funcționează și pot fi animate cu Skin-urile normale de joc.</string>
     <string name="VIEW_UPLOADER">VIZIONEAZĂ EXPEDITORUL</string>
     <string name="POPULAR">POPULAR</string>
@@ -1139,9 +1139,9 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Halo_Animations">Animațiile Haloului</string>
     <string name="Trick_Notifications">Notificările Trick-ului</string>
     <string name="Channel">Canal</string>
-    <string name="Choose_Text_Size">Selecta Dimensiunea Textului</string>
+    <string name="Choose_Text_Size">Selectează Dimensiunea Textului</string>
     <string name="LEVEL_COLOR">CULOAREA NIVELULUI</string>
-    <string name="level_color_instructions" translatable="true">Selectează culoarea nivelului tau.</string>
+    <string name="level_color_instructions" translatable="true">Selectați culoarea nivelului tau.</string>
     <string name="INITIATE">INITIATE</string>
     <string name="x3_Clan_XP_Perm">3x XP de Clan Permanent!</string>
     <string name="x2_Clan_XP_Perm">2x XP de Clan Permanent!</string>
@@ -1247,11 +1247,11 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Play_Nebulous_For_1_Year_">Juca Nebulous pentru 1 an!</string>
     <string name="Play_Nebulous_For_X_Years_">Juca Nebulous pentru %d de ani!</string>
     <string name="Starting___">Pornind…</string>
-    <string name="Tournament_Starting">Pornind Turneul</string>
+    <string name="Tournament_Starting">Pornire Turneul</string>
     <string name="Max_Tilt_Angle_3D_">Unghi Maxim de Înclinare în 3D:</string>
     <string name="Mode_3D">Mod 3D</string>
     <string name="Names_Below_Blobs">Nume Jos de Blob-urile</string>
-    <string name="Name_Scale_">"Scală de nume:"</string>
+    <string name="Name_Scale_">"Scala numelui:"</string>
     <string name="poor_connection_quality_warning" translatable="true">Dispozitivul tău are o conexiune rea la server. Acest lucru poate provoca lag. Te rog verifică Wi-Fi-ul tău sau datele mobile, sau încercă o conexiune diferită de Internet. De asemenea asigurați-vă că jucați în serverul mai apropiat de tine.</string>
     <string name="Button_3D">Buton 3D</string>
     <string name="Hide_Button_">Ocultă Butonul?</string>
@@ -1287,7 +1287,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="sandbox_warning" translatable="true">Nu poți câștiga XP sau plasmă în mod sandbox!</string>
     <string name="DASH">DASH</string>
     <string name="setting_changed">Setări actualizate. Este posibil să trebuie să reconectați în serverul pentru aceste lucruri a funcționa.</string>
-    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Efectua 10.000 trick-uri într-un joc de Mod Trick.</string>
+    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Efectuați 10.000 trick-uri într-un joc de Mod Trick.</string>
     <string name="Tricky">Tricky</string>
     <string name="SUPPORTER">VIP</string>
     <string name="CONQUEROR">ÎNVINGĂTOR</string>
@@ -1302,7 +1302,7 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="x4_Clan_XP_Perm">4x XP Clan Permanent!</string>
     <string name="x4_Clan_XP_7_days">4x XP Clan 7 Zile</string>
     <string name="x4_Clan_XP_1_Day">4x XP Clan 1 Zi</string>
-    <string name="CHARGE_UP">ÎNCĂRCA</string>
+    <string name="CHARGE_UP">ÎNCĂRCĂ</string>
     <string name="CLAN_DESCRIPTION_COLOR">CULOAREA DESCRIERII CLANULUI</string>
     <string name="Responsible_Pet_Owner">Responsible Pet Owner</string>
     <string name="Animal_Tamer">Animal Tamer</string>
@@ -1327,19 +1327,19 @@ Aceasta este o listă de lucruri care sunt *INTERZISE* de utilizat în Skin-uril
     <string name="Plain_Score_Text">"Plain Score Text"</string>
     <string name="Custom_Skin_Reviewed_Notification">Skin-ul tău personalizat a fost revizat!</string>
     <string name="You_Have_Mail_">Aveți un mesaj de %s!</string>
-    <string name="Clan_Request_Reviewed_Notification">Solicitarea ta a intra în clan %s a fost revizată!</string>
+    <string name="Clan_Request_Reviewed_Notification">Solicitarea ta de intra în clan %s a fost revizată!</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
     <string name="Sold_Community_Skins_">"Skin-urile Comunității Vândute: "</string>
     <string name="Estimated_Earnings_">"Câștiguri Estimate: "</string>
     <string name="South_Africa">Africa de Sud</string>
     <string name="SPLIT_">SPLIT:</string>
-    <string name="WALLS">WALLS</string>
+    <string name="WALLS">PEREȚI</string>
     <string name="COMP_BANNED">BANAT DE COMPETIȚIE</string>
-    <string name="FIND_GAMES">CAUTA JOCURI</string>
-    <string name="PLAY_SOLO">JUCA SOLO</string>
+    <string name="FIND_GAMES">CAUTĂ JOCURI</string>
+    <string name="PLAY_SOLO">JUCĂ SOLO</string>
     <string name="SET_EMOTE">SETEAZĂ EMOTE</string>
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
-    <string name="Win_a_Battle_Royale_">Câștigă un Battle Royale.</string>
+    <string name="Win_a_Battle_Royale_">Câștigați un Battle Royale.</string>
     <string name="Battle_">Battle!</string>
     <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
     <string name="Battle_Royale">Battle Royale</string>
