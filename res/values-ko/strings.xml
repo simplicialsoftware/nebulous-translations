@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"플레이어"</string>
-    <string name="Control_">"조작 :"</string>
+    <string name="Control_">"조작: "</string>
     <string name="CLOSE">"닫기"</string>
-    <string name="Stick_Size_">"스틱 사이즈 :"</string>
-    <string name="Stick_Margin_">"스틱 여백 : "</string>
-    <string name="Button_Size_">"버튼 크기 :"</string>
-    <string name="Button_Margin_">"버튼 여백 :"</string>
-    <string name="Buttons_">"버튼 :"</string>
-    <string name="DEFAULTS">"기본설정"</string>
+    <string name="Stick_Size_">"스틱 사이즈: "</string>
+    <string name="Stick_Margin_">"스틱 여백: "</string>
+    <string name="Button_Size_">"버튼 크기: "</string>
+    <string name="Button_Margin_">"버튼 여백: "</string>
+    <string name="Buttons_">"버튼: "</string>
+    <string name="DEFAULTS">"기본 설정"</string>
     <string name="WEEKLY">"주간"</string>
     <string name="DAILY">"일간"</string>
-    <string name="Server_">"서버:"</string>
-    <string name="Game_Mode_">"게임 모드:"</string>
+    <string name="Server_">"서버: "</string>
+    <string name="Game_Mode_">"게임 모드: "</string>
     <string name="Show_Names">"이름 표시하기"</string>
     <string name="Show_Avatars">"스킨 표시하기"</string>
     <string name="PLAY">"플레이"</string>
     <string name="OPTIONS">"옵션"</string>
 
-    <string name="Avatar_">"스킨 :"</string>
-    <string name="Name_">"이름:"</string>
+    <string name="Avatar_">"스킨: "</string>
+    <string name="Name_">"이름: "</string>
 
     <string name="Loading___">"로딩 중 …"</string>
     <string name="Connecting___">"연결 중 …"</string>
@@ -28,19 +28,19 @@
     <string name="Yes">"네"</string>
     <string name="No">"아니오"</string>
     <string name="WAIT">"기다려주세요 …"</string>
-    <string name="Must_Specify_Name_">"반드시 이름을 지정해야합니다."</string>
+    <string name="Must_Specify_Name_">"반드시 이름을 지정해야 합니다."</string>
 
-    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"그룹을 찾는 경우 응용 프로그램에 대한 내용 등급이 변경 될 수 있습니다."</string>
+    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"그룹을 찾는 경우 응용 프로그램에 대한 내용 등급이 변경될 수 있습니다."</string>
 
     <string name="_Rank_">" 랭킹 "</string>
     <string name="_Alias_">" 익명 "</string>
     <string name="_Score_">" 점수 "</string>
     <string name="Score__">"점수: "</string>
-    <string name="Recombine_">"재결합:"</string>
-    <string name="WINNER_">"우승자:"</string>
+    <string name="Recombine_">"재결합: "</string>
+    <string name="WINNER_">"우승자: "</string>
     <string name="IDLE">"자리비움"</string>
     <string name="Name_Invalid_">"잘못된 이름입니다."</string>
-    <string name="Name_Taken_">"이름이 사용중입니다."</string>
+    <string name="Name_Taken_">"이름이 사용 중입니다."</string>
     <string name="CONNECTED">"연결 됨"</string>
     <string name="JOINING___">"참가 중…"</string>
     <string name="PLAYING">"플레이 중"</string>
@@ -65,8 +65,8 @@
 
 
     <string name="SINGLE_PLAYER">"싱글 플레이어"</string>
-    <string name="Background_">"배경:"</string>
-    <string name="Difficulty_">"난이도:"</string>
+    <string name="Background_">"배경: "</string>
+    <string name="Difficulty_">"난이도: "</string>
     <string name="Delay_Disconnect">"연결 종료 지연"</string>
 
     <string name="Max_Players">"최대 플레이어"</string>
@@ -89,7 +89,7 @@
     <string name="Green_Team">"초록 팀"</string>
     <string name="Blue_Team">"파랑 팀"</string>
     <string name="Yellow_Team">"노랑 팀"</string>
-    <string name="Signed_in_as_">"다음 계정으로 로그인 :"</string>
+    <string name="Signed_in_as_">"다음 계정으로 로그인: "</string>
     <string name="Not_signed_in_">"로그인하지 않음!"</string>
     <string name="SET_NAME">"이름 설정"</string>
     <string name="SIGN_OUT">"로그아웃"</string>
@@ -98,8 +98,8 @@
     <string name="XP_">"경험치"</string>
 
     <string name="Information">"정보"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"이 스킨을 사용하려면 특정 도전과제를 달성해야합니다!"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"이 스킨을 달성하려면 특정 레벨에 도달해야합니다!"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"이 스킨을 사용하려면 특정 도전과제를 달성해야 합니다!"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"이 스킨을 달성하려면 특정 레벨에 도달해야 합니다!"</string>
     <string name="SIGN_IN">"로그인"</string>
 
     <string name="Single_Player_Stats">"싱글 플레이어 통계"</string>
@@ -118,7 +118,7 @@
     <string name="Bot">"봇"</string>
     <string name="You">"당신"</string>
     <string name="This_player_is_a_bot">"이 플레이어는 봇입니다."</string>
-    <string name="This_player_is_not_signed_in">"이 플레이어는 로그인 하지 않았습니다."</string>
+    <string name="This_player_is_not_signed_in">"이 플레이어는 로그인하지 않았습니다."</string>
 
     <string name="Online">"온라인"</string>
     <string name="Unknown">"알 수 없음"</string>
@@ -137,10 +137,10 @@
 
     <string name="ALL">"전체"</string>
     <string name="FFA">"개인전"</string>
-    <string name="FFA_TIME">"개인전 (시간)"</string>
+    <string name="FFA_TIME">"개인전(시간)"</string>
     <string name="TEAMS">"팀전"</string>
-    <string name="TEAMS_TIME">"팀전 (시간)"</string>
-    <string name="CTF">"깃발뺏기"</string>
+    <string name="TEAMS_TIME">"팀전(시간)"</string>
+    <string name="CTF">"깃발 뺏기"</string>
     <string name="SURVIVAL">"생존"</string>
 
 
@@ -187,14 +187,14 @@
     <string name="Revenge">"복수"</string>
     <string name="Doge_Pound">"개 박살!"</string>
 
-    <string name="Absorb_50_dots">"도트 50 개 먹기"</string>
-    <string name="Absorb_300_dots">"도트 300 개 먹기"</string>
-    <string name="Absorb_1_000_dots">"도트 1,000 개 먹기"</string>
+    <string name="Absorb_50_dots">"도트 50개 먹기"</string>
+    <string name="Absorb_300_dots">"도트 300개 먹기"</string>
+    <string name="Absorb_1_000_dots">"도트 1,000개 먹기"</string>
     <string name="Absorb_5_000_dots">"도트 5,000개 먹기"</string>
-    <string name="Absorb_10_000_dots">"도트 10,000 개 먹기"</string>
-    <string name="Absorb_50_000_dots">"도트 50,000 개 먹기"</string>
-    <string name="Absorb_100_000_dots">"도트 100,000 개 먹기"</string>
-    <string name="Absorb_1_000_000_dots">"도트 1,000,000 개 먹기"</string>
+    <string name="Absorb_10_000_dots">"도트 10,000개 먹기"</string>
+    <string name="Absorb_50_000_dots">"도트 50,000개 먹기"</string>
+    <string name="Absorb_100_000_dots">"도트 100,000개 먹기"</string>
+    <string name="Absorb_1_000_000_dots">"도트 1,000,000개 먹기"</string>
 
     <string name="Absorb_4_blobs_quickly">"4 개의 방울 빨리 흡수"</string>
     <string name="Absorb_8_blobs_quickly">"8 개의 방울 빨리 흡수"</string>
@@ -211,50 +211,50 @@
     <string name="Absorb_160_player_blobs_without_restarting">"다시 시작하지 않고 플레이어 160 명 흡수"</string>
     <string name="Absorb_240_player_blobs_without_restarting">"다시 시작하지 않고 플레이어 240 명 흡수"</string>
 
-    <string name="Reach_a_score_of_1_000">"스코어 1,000 점 달성"</string>
-    <string name="Reach_a_score_of_5_000">"스코어 5,000 점 달성"</string>
-    <string name="Reach_a_score_of_10_000">"스코어 10,000 점 달성"</string>
-    <string name="Reach_a_score_of_15_000">"스코어 15,000 점 달성"</string>
-    <string name="Reach_a_score_of_20_000">"스코어 20,000 점 달성"</string>
+    <string name="Reach_a_score_of_1_000">"스코어 1,000점 달성"</string>
+    <string name="Reach_a_score_of_5_000">"스코어 5,000점 달성"</string>
+    <string name="Reach_a_score_of_10_000">"스코어 10,000점 달성"</string>
+    <string name="Reach_a_score_of_15_000">"스코어 15,000점 달성"</string>
+    <string name="Reach_a_score_of_20_000">"스코어 20,000점 달성"</string>
 
-    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"손실 없이 10,000 점 달성"</string>
-    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"분할 또는 분사하지 않고 5,000 점 달성"</string>
-    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"블랙홀과 충돌없이 5 분 플레이"</string>
-    <string name="Play_5_minutes_straight_without_losing_any_blobs">"손실 없이 5 분 플레이"</string>
-    <string name="Play_20_minutes_straight_without_restarting">"다시 시작하지 않고 20 분 플레이"</string>
-    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"시작 30 초 이내에 파란 블랙홀 5 개 흡수"</string>
-    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"시작 1 분  이내에 5,000 점 달성"</string>
+    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"손실 없이 10,000점 달성"</string>
+    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"분할 또는 분사하지 않고 5,000점 달성"</string>
+    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"블랙홀과 충돌없이 5분 플레이"</string>
+    <string name="Play_5_minutes_straight_without_losing_any_blobs">"손실 없이 5분 플레이"</string>
+    <string name="Play_20_minutes_straight_without_restarting">"다시 시작하지 않고 20분 플레이"</string>
+    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"시작 30초 이내에 파란 블랙홀 5개 흡수"</string>
+    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"시작 1분  이내에 5,000점 달성"</string>
     <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"다시 시작하기 전에 당신에게 마지막으로 당신을 블랙홀에 넣은 유저에게 블랙홀 밀치기"</string>
     <string name="Absorb_5_doges_without_restarting">"다시 시작하지 않고 개 스킨 유저 5명 흡수하기"</string>
 
     <string name="Friends">"친구"</string>
-    <string name="Dots_Eaten_">"먹은 도트 :"</string>
-    <string name="Blobs_Eaten_">"먹은 방울 : "</string>
-    <string name="Blobs_Lost_">"손실된 방울 :"</string>
-    <string name="Mass_Gained_">"총 획득량 :"</string>
-    <string name="Mass_Ejected_">"총 방출량 :"</string>
-    <string name="Times_Ejected_">"방출한 횟수 :"</string>
-    <string name="Times_Split_">"분할한 횟수 :"</string>
-    <string name="Biggest_Blob_">"가장 큰 방울 :"</string>
-    <string name="Highest_Score_">"최고 점수 :"</string>
-    <string name="Average_Score_">"평균 점수 :"</string>
-    <string name="Times_Played_">"플레이 한 시간 :"</string>
-    <string name="Longest_Life_">"가장 긴 수명 : "</string>
-    <string name="Games_Won_">"승리 횟수 :"</string>
+    <string name="Dots_Eaten_">"먹은 도트:"</string>
+    <string name="Blobs_Eaten_">"먹은 방울: "</string>
+    <string name="Blobs_Lost_">"손실된 방울: "</string>
+    <string name="Mass_Gained_">"총 획득량: "</string>
+    <string name="Mass_Ejected_">"총 방출량: "</string>
+    <string name="Times_Ejected_">"방출한 횟수: "</string>
+    <string name="Times_Split_">"분할한 횟수: "</string>
+    <string name="Biggest_Blob_">"가장 큰 방울: "</string>
+    <string name="Highest_Score_">"최고 점수: "</string>
+    <string name="Average_Score_">"평균 점수: "</string>
+    <string name="Times_Played_">"플레이 한 시간: "</string>
+    <string name="Longest_Life_">"가장 긴 수명: "</string>
+    <string name="Games_Won_">"승리 횟수: "</string>
 
-    <string name="You_must_wait_until_the_end_of_the_round_">"당신은 이번 라운드가 끝날 때까지 기다려야합니다"</string>
+    <string name="You_must_wait_until_the_end_of_the_round_">"당신은 이번 라운드가 끝날 때까지 기다려야 합니다."</string>
     <string name="Dont_show_again">"다시 표시하지 않음"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"더 높은 경험치를 가진 싱글플레이어 스탯 백업이 발견되었습니다. 이것으로 복구하시겠습니까?"</string>
 
     <string name="Special_Effects">"특수 효과"</string>
     <string name="Blob_Mushiness">"물방울 말랑말랑"</string>
 
-    <string name="Specify_private_game_name">"비공개 게임 이름을 입력해주세요"</string>
+    <string name="Specify_private_game_name">"비공개 게임 이름을 입력해주세요."</string>
     <string name="In_Game_Chat">"게임 내 채팅"</string>
-    <string name="My_Status_">"내 상태 :"</string>
-    <string name="Game_Size_">"게임 규모 :"</string>
+    <string name="My_Status_">"내 상태: "</string>
+    <string name="Game_Size_">"게임 규모: "</string>
 
-    <string name="Server_Restart_">"서버 재시작:"</string>
+    <string name="Server_Restart_">"서버 재시작: "</string>
     <string name="GOAL_">"골!"</string>
     <string name="SOCCER">"축구"</string>
     <string name="DRAW">"무승부"</string>
@@ -277,13 +277,13 @@
     <string name="ELDER">"장로"</string>
 
 
-    <string name="Not_in_a_clan_">"클랜에 가입되어있지 않습니다."</string>
+    <string name="Not_in_a_clan_">"클랜에 가입되어 있지 않습니다."</string>
 
 
     <string name="CLAN">"클랜"</string>
 
 
-    <string name="Specify_Clan_ID">"클랜 ID를 입력해주세요"</string>
+    <string name="Specify_Clan_ID">"클랜 ID를 입력해주세요."</string>
     <string name="Show_Clan_Names">"클랜 이름 보이기"</string>
     <string name="Show_Levels">"레벨 보이기"</string>
     <string name="SET_MOTD">"일일메세지 지정"</string>
@@ -305,14 +305,14 @@
     <string name="I_Will_Survive">"난 살아남을 것이다!"</string>
     <string name="Soccer_Domination">"축구 정복자"</string>
     <string name="Soccer_Hat_Trick">"축구 해트트릭"</string>
-    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"개인전 (시간) 에서 2,500 점 이상으로 승리하기"</string>
-    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"팀전 (시간) 에서 7,500 점 이상으로 승리하기"</string>
-    <string name="Win_by_3_points_in_a_CTF_game_">"깃발뺏기 게임에서 3 점 이상으로 승리하기"</string>
-    <string name="Score_3_points_in_a_single_CTF_game_">"한 번의 깃발뺏기 게임에서 3 점 획득"</string>
-    <string name="Win_by_2_500_points_in_a_Survival_game_">"생존 게임에서 2,500 점 이상으로 승리하기"</string>
+    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"개인전(시간) 에서 2,500점 이상으로 승리하기"</string>
+    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"팀전(시간) 에서 7,500점 이상으로 승리하기"</string>
+    <string name="Win_by_3_points_in_a_CTF_game_">"깃발뺏기 게임에서 3점 이상으로 승리하기"</string>
+    <string name="Score_3_points_in_a_single_CTF_game_">"한 번의 깃발뺏기 게임에서 3점 획득"</string>
+    <string name="Win_by_2_500_points_in_a_Survival_game_">"생존 게임에서 2,500점 이상으로 승리하기"</string>
     <string name="Survive_but_do_not_win_a_survival_game_">"생존했지만 생존게임에서 패배하기"</string>
-    <string name="Win_by_8_points_in_a_Soccer_game_">"축구 경기에서 8 점 이상으로 승리."</string>
-    <string name="Score_3_goals_in_a_single_Soccer_game_">"한 번의 축구 게임에서 3 점 획득"</string>
+    <string name="Win_by_8_points_in_a_Soccer_game_">"축구 경기에서 8점 이상으로 승리"</string>
+    <string name="Score_3_goals_in_a_single_Soccer_game_">"한 번의 축구 게임에서 3점 획득"</string>
     <string name="Total_Domination">"총 점령"</string>
     <string name="Win_500_games_of_any_type_">"종류에 상관없이 500번 승리"</string>
     <string name="Translations">"번역자"</string>
@@ -327,11 +327,11 @@
 
     <string name="COMPLETE">"완료"</string>
     <string name="INCOMPLETE">"미완료"</string>
-    <string name="Win_a_FFA_Time_Game">"개인전 (시간) 게임 승리"</string>
+    <string name="Win_a_FFA_Time_Game">"개인전(시간) 게임 승리"</string>
     <string name="Win_a_CTF_Game">"깃발뺏기 게임 승리"</string>
     <string name="Win_a_Soccer_Game">"축구 게임을 승리"</string>
     <string name="Win_a_Survival_Game">"생존 게임을 승리"</string>
-    <string name="Win_a_Teams_Time_Game">"팀전 (시간) 게임을 승리"</string>
+    <string name="Win_a_Teams_Time_Game">"팀전(시간) 게임을 승리"</string>
     <string name="Reach_a_score_of_">"점수 "</string>
     <string name="_in_a_FFA_Game">" 점을 개인전에서 달성"</string>
     <string name="_in_a_Teams_Game">" 점을 팀전에서 달성"</string>
@@ -344,7 +344,7 @@
 
 
     <string name="pumpkins_">"개의 호박."</string>
-    <string name="To_use_this_skin_you_must_collect">"이 스킨을 사용하려면 다음 아이템을 수집해야합니다: "</string>
+    <string name="To_use_this_skin_you_must_collect">"이 스킨을 사용하려면 다음 아이템을 수집해야 합니다: "</string>
     <string name="Australia">"호주"</string>
     <string name="Pumpkin_Collector">"호박 수집가"</string>
     <string name="Collect_1000_pumpkins_">"호박 1,000 개 수집하기"</string>
@@ -395,7 +395,7 @@
     <string name="Current">"현재"</string>
     <string name="leaves_">"개의 단풍잎."</string>
     <string name="Leaf_Collector">"단풍잎 수집가"</string>
-    <string name="Collect_1000_leaves_">"단풍잎 1,000 개 수집하기"</string>
+    <string name="Collect_1000_leaves_">"단풍잎 1,000개 수집하기"</string>
     <string name="XP_Boost">"경험치 부스터"</string>
     <string name="Double">"더블"</string>
     <string name="Hour">"시간"</string>
@@ -404,7 +404,7 @@
 
     <string name="Triple">"트리플"</string>
     <string name="Leaf_Hoarder">"단풍잎 축적가"</string>
-    <string name="Collect_5000_leaves_">"단풍잎 5,000 개 수집하기"</string>
+    <string name="Collect_5000_leaves_">"단풍잎 5,000개 수집하기"</string>
 
 
     <string name="Arena">"아레나"</string>
@@ -427,15 +427,15 @@
     <string name="Purchase_Successful_">"성공적으로 구매되었습니다."</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"당신은 구매하려면 다시 연결해야 할 수도 있습니다."</string>
     <string name="Confirm_Purchase">"구매 확인"</string>
-    <string name="x3_XP_24_hours">"경험치 3배: 24 시간"</string>
+    <string name="x3_XP_24_hours">"경험치 3배: 24시간"</string>
     <string name="x3_XP_1_Hour">"경험치 3배: 1시간"</string>
     <string name="x2_XP_24_Hour">"경험치 2배: 24시간"</string>
     <string name="x2_XP_1_Hour">"경험치 2배: 1시간"</string>
-    <string name="Cost_">"가격:"</string>
+    <string name="Cost_">"가격: "</string>
     <string name="You_cannot_purchase_this_right_now_">"당신은 이것을 구매할 수 없습니다."</string>
 
 
-    <string name="Loading_Purchases___">"구매목록 로딩중…"</string>
+    <string name="Loading_Purchases___">"구매목록 로딩 중…"</string>
     <string name="In_App_Purchases">"앱 내 구매"</string>
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"현재 부스터가 만료 될 때까지 새로운 XP 부스트를 적용 할 수 없습니다."</string>
     <string name="This_purchase_has_already_been_redeemed_">"이 구매는 이미 적용되었습니다."</string>
@@ -443,8 +443,8 @@
     <string name="You_cannot_remove_yourself__Leave_clan_instead_">"당신은 당신을 추방할 수 없습니다. 대신 클랜을 떠나주세요."</string>
 
 
-    <string name="until">"의 적용기간 : "</string>
-    <string name="New_Message_">"새로운 메세지!"</string>
+    <string name="until">"의 적용기간: "</string>
+    <string name="New_Message_">"새로운 메시지!"</string>
     <string name="Seasonal">"스페셜"</string>
 
 
@@ -464,24 +464,24 @@
     <string name="Plasma_Mogul">"플라즈마 탐색가"</string>
     <string name="Plasma_Collector">"플라즈마 수집가"</string>
     <string name="Plasma_Hoarder">"플라즈마 축적가"</string>
-    <string name="Collect_1_000_Plasma">"플라즈마 1,000 개 수집하기"</string>
-    <string name="Collect_10_000_Plasma_">"플라즈마 10,000 개 수집하기"</string>
-    <string name="Collect_100_000_Plasma">"플라즈마 100,000 개 수집하기"</string>
+    <string name="Collect_1_000_Plasma">"플라즈마 1,000개 수집하기"</string>
+    <string name="Collect_10_000_Plasma_">"플라즈마 10,000개 수집하기"</string>
+    <string name="Collect_100_000_Plasma">"플라즈마 100,000개 수집하기"</string>
     <string name="Plasma_Collected_">"수집한 플라즈마 :"</string>
     <string name="Plasma_Purchases">"플라즈마 구매"</string>
 
     <string name="ENTER">"입장"</string>
     <string name="_1v1">"1:1"</string>
     <string name="Practice">"연습"</string>
-    <string name="ArenaDescription">"당신은 단 하나의 생명을 받습니다. 승자는 %s 개의 플라즈마를 얻을 것 입니다."</string>
+    <string name="ArenaDescription">"당신은 단 하나의 생명을 받습니다. 승자는 %s 개의 플라즈마를 얻을 것입니다."</string>
     <string name="Contestant">"참가자"</string>
     <string name="Duelist">"투쟁가"</string>
     <string name="Gladiator">"검투사"</string>
     <string name="Challenger">"챌린저"</string>
-    <string name="Win_1_1v1_Arenas_">"아레나 1 회 승리"</string>
-    <string name="Win_10_Arenas_">"아레나 10 회 승리"</string>
-    <string name="Win_100_Arenas_">"아레나 100 회 승리"</string>
-    <string name="Win_1000_Arenas">"아레나 1,000 회 승리"</string>
+    <string name="Win_1_1v1_Arenas_">"아레나 1회 승리"</string>
+    <string name="Win_10_Arenas_">"아레나 10회 승리"</string>
+    <string name="Win_100_Arenas_">"아레나 100회 승리"</string>
+    <string name="Win_1000_Arenas">"아레나 1,000회 승리"</string>
 
 
     <string name="Already_in_arena_">"이미 아레나에 입장했습니다."</string>
@@ -500,40 +500,40 @@
     <string name="Standard">"스탠다드"</string>
     <string name="Achievement">"도전과제"</string>
     <string name="Flag">"깃발"</string>
-    <string name="Win_10_Clan_Wars">"클랜 전쟁 10 회 승리"</string>
-    <string name="Win_100_Clan_Wars">"클랜 전쟁 100 회 승리"</string>
+    <string name="Win_10_Clan_Wars">"클랜 전쟁 10회 승리"</string>
+    <string name="Win_100_Clan_Wars">"클랜 전쟁 100회 승리"</string>
     <string name="Clan_Commander">"클랜 사령관"</string>
     <string name="Clan_General">"클랜 장군"</string>
-    <string name="Clan_Wars_Won_">"클랜 전쟁 승리 횟수 :"</string>
-    <string name="Arenas_Won_">"아레나 승리 횟수 :"</string>
+    <string name="Clan_Wars_Won_">"클랜 전쟁 승리 횟수: "</string>
+    <string name="Arenas_Won_">"아레나 승리 횟수: "</string>
     <string name="Arena_Mode">"아레나 모드"</string>
     <string name="Connection_Lost">"연결 오류"</string>
 
     <string name="Present_Hoarder">"선물 축적가"</string>
     <string name="Present_Mogul">"선물 탐색가"</string>
-    <string name="Collect_1_000_presents_">"선물 1,000 개 수집하기"</string>
-    <string name="Collect_5_000_presents_">"선물 5,000 개 수집하기"</string>
-    <string name="Collect_10_000_presents_">"선물 10,000 개 수집하기"</string>
+    <string name="Collect_1_000_presents_">"선물 1,000개 수집하기"</string>
+    <string name="Collect_5_000_presents_">"선물 5,000개 수집하기"</string>
+    <string name="Collect_10_000_presents_">"선물 10,000개 수집하기"</string>
     <string name="Loading_reward_video___">"비디오 로딩 중…"</string>
     <string name="Progress">"진행"</string>
     <string name="Snowflake_Hoarder">"눈송이 축적가"</string>
     <string name="Snowflake_Mogul">"눈송이 탐색가"</string>
-    <string name="Collect_1_000_snowflakes_">"눈송이 1,000 개 수집하기"</string>
-    <string name="Collect_5_000_snowflakes_">"눈송이 5,000 개 수집하기"</string>
-    <string name="Collect_10_000_snowflakes_">"눈송이 10,000 개 수집하기"</string>
+    <string name="Collect_1_000_snowflakes_">"눈송이 1,000개 수집하기"</string>
+    <string name="Collect_5_000_snowflakes_">"눈송이 5,000개 수집하기"</string>
+    <string name="Collect_10_000_snowflakes_">"눈송이 10,000개 수집하기"</string>
     <string name="Show_All">"전체보기"</string>
 
     <string name="SET_PERMISSIONS">"권한 설정"</string>
     <string name="Start_Clan_War">"클랜 전쟁을 시작합니다"</string>
     <string name="Min_Level">"최저 레벨"</string>
     <string name="SAVE">"저장"</string>
-    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"이 클랜에 들어오려면 다음 레벨을 달성해야만 합니다:"</string>
+    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"이 클랜에 들어오려면 다음 레벨을 달성해야만 합니다: "</string>
     <string name="Insufficient_Permission">"자격 미달"</string>
     <string name="DOMINATION">"점령전"</string>
     <string name="DOM_Domination">"점령전 정복자"</string>
     <string name="DOM_Hat_Trick">"점령전 해트트릭"</string>
-    <string name="Win_by_50_points_in_a_DOM_game_">"점령전에서 50 점 획득"</string>
-    <string name="Score_33_points_in_a_single_DOM_game_">"한 번의 점령전에서 33 점 획득"</string>
+    <string name="Win_by_50_points_in_a_DOM_game_">"점령전에서 50점 획득"</string>
+    <string name="Score_33_points_in_a_single_DOM_game_">"한 번의 점령전에서 33점 획득"</string>
     <string name="Win_a_Domination_Game">"점령전 게임을 승리"</string>
     <string name="Select_Team">"팀 선택"</string>
     <string name="MANAGE_TEAMS">"팀 관리"</string>
@@ -549,10 +549,10 @@
     <string name="Team_Created_">"팀이 생성되었습니다!"</string>
     <string name="Team_Arena">"아레나 팀전"</string>
     <string name="No_Teams">"팀 없음"</string>
-    <string name="team_arena_info">"한번 팀을 만들경우 당신은 자유롭게 멤버를 초대하거나 추방시킬 수 있습니다. 또한 자유롭게 아레나 팀전을 플레이할 수 있습니다. 하지만 한번 정한 팀 이름은 변경할 수 없습니다!"</string>
+    <string name="team_arena_info">"한번 팀을 만들 경우 당신은 자유롭게 멤버를 초대하거나 추방시킬 수 있습니다. 또한 자유롭게 아레나 팀전을 플레이할 수 있습니다. 하지만 한번 정한 팀 이름은 변경할 수 없습니다!"</string>
 
 
-    <string name="Invited">"초대 됨"</string>
+    <string name="Invited">"초대됨"</string>
     <string name="Invitation_Sent">"초대장이 전송되었습니다"</string>
     <string name="REPORT">"신고"</string>
     <string name="Reported">"신고되었습니다"</string>
@@ -572,23 +572,23 @@
     <string name="Candy_Hoarder">"사탕 축적가"</string>
     <string name="Candy_Collector">"사탕 수집가"</string>
     <string name="Candy_Mogul">"사탕 탐색가"</string>
-    <string name="Collect_1_000_candies_">"사탕 1,000 개 수집하기"</string>
-    <string name="Collect_5_000_candies_">"사탕 5,000 개 수집하기"</string>
-    <string name="Collect_10_000_candies_">"사탕 10,000 개 수집하기"</string>
+    <string name="Collect_1_000_candies_">"사탕 1,000개 수집하기"</string>
+    <string name="Collect_5_000_candies_">"사탕 5,000개 수집하기"</string>
+    <string name="Collect_10_000_candies_">"사탕 10,000개 수집하기"</string>
     <string name="candies_">"개의 사탕."</string>
     <string name="Language">"언어"</string>
-    <string name="Control_Opacity_">"조작키 불투명도 :"</string>
+    <string name="Control_Opacity_">"조작키 불투명도: "</string>
     <string name="You_dont_own_the_team_">"당신은 다음 팀을 보유하고 있지 않습니다:"</string>
     <string name="User_has_already_been_invited_">"이미 초대된 상태입니다."</string>
     <string name="Maximum_players_allowed_on_the_team_">"팀 최대 플레이어 수: "</string>
     <string name="Name_is_already_in_use_">"이름이 이미 사용 중입니다."</string>
     <string name="User_is_not_in_the_team_">"해당 유저가 팀에 없습니다."</string>
-    <string name="You_are_not_invited_to_team_">"당신은 팀에 초대되지 않았습니다"</string>
+    <string name="You_are_not_invited_to_team_">"당신은 팀에 초대되지 않았습니다."</string>
     <string name="Team_does_not_exist_">"다음 팀은 존재하지 않습니다: "</string>
     <string name="Please_wait_a_minute_before_sending_another_report_">"새로운 신고를 하려면 잠시 기다려주세요."</string>
-    <string name="Collect_1_000_beads_">"구슬 1,000 개 수집하기"</string>
-    <string name="Collect_5_000_beads_">"구슬 5,000 개 수집하기"</string>
-    <string name="Collect_10_000_beads_">"구슬 10,000 개 수집하기"</string>
+    <string name="Collect_1_000_beads_">"구슬 1,000개 수집하기"</string>
+    <string name="Collect_5_000_beads_">"구슬 5,000개 수집하기"</string>
+    <string name="Collect_10_000_beads_">"구슬 10,000개 수집하기"</string>
     <string name="Bead_Collector">"구슬 수집가"</string>
     <string name="Bead_Hoarder">"구슬 축적가"</string>
     <string name="Bead_Mogul">"구슬 탐색가"</string>
@@ -599,18 +599,18 @@
 
     <string name="Enable_Custom_Skin">"사용자 정의 스킨 적용"</string>
     <string name="Use_Custom_Skin">"사용자 정의\n스킨 사용"</string>
-    <string name="custom_skin_description">"이 기능을 사용하면 프로필 사진이나 피부 등의 파일을 사용할 수 있습니다. 이것은 당신이 볼 수있는 스킨을 변경합니다. 다른 사람들은 사용자 정의 스킨을 볼 수 없습니다."</string>
+    <string name="custom_skin_description">"이 기능을 사용하면 프로필 사진이나 피부 등의 파일을 사용할 수 있습니다. 이것은 당신이 볼 수 있는 스킨을 변경합니다. 다른 사람들은 사용자 정의 스킨을 볼 수 없습니다."</string>
     <string name="CUSTOM_SKIN">"사용자 정의 스킨"</string>
 
     <string name="Facebook_Profile">"페이스북 프로필"</string>
-    <string name="You_must_be_signed_in_to_Facebook_">"이 기능을 사용하려면 페이스북에 로그인 해야 합니다."</string>
+    <string name="You_must_be_signed_in_to_Facebook_">"이 기능을 사용하려면 페이스북에 로그인해야 합니다."</string>
     <string name="copy_details">"세부사항 복사"</string>
     <string name="copied_error_details_to_clipboard">"오류정보가 클립보드에 복사되었습니다"</string>
 
     <string name="No_file_browser_installed_">"설치된 파일 브라우저가 없습니다!"</string>
     <string name="Choose_File">"파일 선택"</string>
     <string name="Google_Profile">"Google 프로필"</string>
-    <string name="You_must_be_signed_in_to_Google_">"이 기능을 사용하려면 Google에 로그인해야합니다."</string>
+    <string name="You_must_be_signed_in_to_Google_">"이 기능을 사용하려면 Google에 로그인해야 합니다."</string>
 
 
     <string name="MAYHEM">"메이헴"</string>
@@ -618,36 +618,36 @@
     <string name="Egg_Collector">"계란 수집가"</string>
     <string name="Egg_Hoarder">"계란 축적가"</string>
     <string name="Egg_Mogul">"계란 탐색가"</string>
-    <string name="Collect_1_000_eggs_">"계란 1,000 개 수집하기"</string>
-    <string name="Collect_5_000_eggs_">"계란 5,000 개 수집하기"</string>
-    <string name="Collect_10_000_eggs_">"계란 10,000 개 수집하기"</string>
+    <string name="Collect_1_000_eggs_">"계란 1,000개 수집하기"</string>
+    <string name="Collect_5_000_eggs_">"계란 5,000개 수집하기"</string>
+    <string name="Collect_10_000_eggs_">"계란 10,000개 수집하기"</string>
     <string name="HISTORY">"기록"</string>
     <string name="CLAN_HISTORY">"클랜 기록"</string>
 
     <string name="Love_Nebulous_">"Nebulous를 사랑하시나요?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"그렇다면 Nebulous를 평가해서 저희를 도와주세요!"</string>
     <string name="MAYHEM_MODE">"메이헴 모드"</string>
-    <string name="Times_Teleported_">"순간이동한 횟수 :"</string>
-    <string name="Powerups_Used_">"마법 사용 횟수 :"</string>
+    <string name="Times_Teleported_">"순간이동한 횟수: "</string>
+    <string name="Powerups_Used_">"마법 사용 횟수: "</string>
     <string name="Power_Hungry">"마법에 굶주린 자"</string>
     <string name="Over_9000">"마법 성애자"</string>
     <string name="Omnipresence">"동에번쩍 서에번쩍"</string>
-    <string name="Shoot_9001_Powerups">"마법 9,001 번 발사"</string>
-    <string name="Teleport_100_Times">"텔레포트 100 번 하기"</string>
-    <string name="Shoot_20_Powerups_Without_Restarting">"다시 시작하지 않고 20 개의 마법 발사</string>
+    <string name="Shoot_9001_Powerups">"마법 9,001번 발사"</string>
+    <string name="Teleport_100_Times">"텔레포트 100번 하기"</string>
+    <string name="Shoot_20_Powerups_Without_Restarting">"다시 시작하지 않고 20개의 마법 발사</string>
     <string name="Request_Timed_Out">"요청 시간이 초과되었습니다."</string>
-    <string name="You_Are_Spectating_">"당신은 관전중입니다."</string>
-    <string name="Account_In_Use_">"계정이 사용중입니다!"</string>
+    <string name="You_Are_Spectating_">"당신은 관전 중입니다."</string>
+    <string name="Account_In_Use_">"계정이 사용 중입니다!"</string>
     <string name="Cannot_Join_Arena_">"아레나에 참여할 수 없습니다."</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"로그아웃시 현재 플레이하고있는 게임으로부터 연결이 해제됩니다!</string>
     <string name="raindrops_">"개의 빗방울."</string>
     <string name="Raindrop_Collector">"빗방울 수집가"</string>
     <string name="Raindrop_Hoarder">"빗방울 축적가"</string>
     <string name="Raindrop_Mogul">"빗방울 탐색가"</string>
-    <string name="Collect_1_000_raindrops_">"빗방울 1,000 개 수집하기"</string>
-    <string name="Collect_5_000_raindrops_">"빗방울 5,000 개 수집하기"</string>
-    <string name="Collect_10_000_raindrops_">"빗방울 10,000 개 수집하기"</string>
-    <string name="Copy_Message">"메세지 복사"</string>
+    <string name="Collect_1_000_raindrops_">"빗방울 1,000개 수집하기"</string>
+    <string name="Collect_5_000_raindrops_">"빗방울 5,000개 수집하기"</string>
+    <string name="Collect_10_000_raindrops_">"빗방울 10,000개 수집하기"</string>
+    <string name="Copy_Message">"메시지 복사"</string>
     <string name="Copied_to_clipboard_">"클립 보드에 복사되었습니다."</string>
     <string name="COPY_NAME">"이름 복사"</string>
     <string name="Challenge_Sent">"도전 전송"</string>
@@ -660,13 +660,13 @@
     <string name="Accept">"승낙"</string>
     <string name="Decline">"거부"</string>
     <string name="Challenge_Declined">"도전이 거부되었습니다."</string>
-    <string name="Spectators_">"관전자 :"</string>
+    <string name="Spectators_">"관전자: "</string>
     <string name="Nebula_Collector">"성운 수집가"</string>
     <string name="Nebula_Hoarder">"성운 축적가"</string>
     <string name="Nebula_Mogul">"성운 탐색가"</string>
-    <string name="Collect_1_000_nebulas_">"성운 1,000 개 수집하기"</string>
-    <string name="Collect_5_000_nebulas_">"성운 5,000 개 수집하기"</string>
-    <string name="Collect_10_000_nebulas_">"성운 10,000 개 수집하기"</string>
+    <string name="Collect_1_000_nebulas_">"성운 1,000개 수집하기"</string>
+    <string name="Collect_5_000_nebulas_">"성운 5,000개 수집하기"</string>
+    <string name="Collect_10_000_nebulas_">"성운 10,000개 수집하기"</string>
     <string name="nebulas_">"개의 성운."</string>
     <string name="Incompatible_versions_">"호환되지 않는 버전입니다."</string>
     <string name="Update_Available_">"업데이트가 있습니다!"</string>
@@ -674,23 +674,23 @@
     <string name="CLAN_INVITES">"클랜 초대 대기목록"</string>
     <string name="Cancel_Invitation">초대 취소하기</string>
     <string name="DOWNLOAD">다운로드</string>
-    <string name="REJECT_ALL_FRIEND_INVITATIONS_">모든 친구신청을 거부하시겠습니까?</string>
+    <string name="REJECT_ALL_FRIEND_INVITATIONS_">모든 친구 신청을 거부하시겠습니까?</string>
     <string name="suns_">"개의 태양."</string>
     <string name="Sun_Collector">태양 수집가</string>
     <string name="Sun_Hoarder">"태양 축적가</string>
     <string name="Sun_Mogul">태양 탐색가</string>
-    <string name="Collect_1_000_suns_">태양 1,000 개 수집하기</string>
-    <string name="Collect_5_000_suns_">태양 5,000 개 수집하기</string>
-    <string name="Collect_10_000_suns_">태양 10,000 개 수집하기</string>
-    <string name="Reward_Videos_">"동영상 시청하고 보상받기"</string>
+    <string name="Collect_1_000_suns_">태양 1,000개 수집하기</string>
+    <string name="Collect_5_000_suns_">태양 5,000개 수집하기</string>
+    <string name="Collect_10_000_suns_">태양 10,000개 수집하기</string>
+    <string name="Reward_Videos_">"동영상 시청하고 보상 받기"</string>
     <string name="Free_Plasma_">"무료 플라즈마!"</string>
     <string name="moons_">개의 달.</string>
     <string name="Moon_Collector">달 수집가</string>
     <string name="Moon_Hoarder">달 축적가</string>
     <string name="Moon_Mogul">달 탐색가</string>
-    <string name="Collect_1_000_moons_">달 1,000 개 수집하기</string>
-    <string name="Collect_5_000_moons_">달 5,000 개 수집하기</string>
-    <string name="Collect_10_000_moons_">달 10,000 개 수집하기</string>
+    <string name="Collect_1_000_moons_">달 1,000개 수집하기</string>
+    <string name="Collect_5_000_moons_">달 5,000개 수집하기</string>
+    <string name="Collect_10_000_moons_">달 10,000개 수집하기</string>
     <string name="BLUETOOTH">블루투스</string>
     <string name="HOST">호스트</string>
     <string name="This_device_does_not_support_bluetooth_">이 기기는 블루투스를 지원하지 않습니다.</string>
@@ -700,21 +700,21 @@
     <string name="join_clan_war">클랜 전쟁 참가</string>
     <string name="none">없음</string>
     <string name="INVALID_TOKEN">"잘못된 토큰입니다."</string>
-    <string name="banned_until">"다음 기간까지 벤 : "</string>
+    <string name="banned_until">"다음 기간까지 벤: "</string>
     <string name="Note_Collector">"음표 수집가"</string>
     <string name="Note_Hoarder">"음표 축적가"</string>
     <string name="Note_Mogul">"음표 탐색가"</string>
-    <string name="Collect_1_000_notes_">"음표 1,000 개 수집하기"</string>
-    <string name="Collect_5_000_notes_">"음표 5,000 개 수집하기"</string>
-    <string name="Collect_10_000_notes_">"음표 10,000 개 수집하기"</string>
+    <string name="Collect_1_000_notes_">"음표 1,000개 수집하기"</string>
+    <string name="Collect_5_000_notes_">"음표 5,000개 수집하기"</string>
+    <string name="Collect_10_000_notes_">"음표 10,000개 수집하기"</string>
     <string name="notes_">"개의 음표."</string>
     <string name="CLICK_CHEAT_DETECTED_">"클릭 치트가 탐지되었습니다!"</string>
     <string name="Pumpkin_Hoarder">"호박 축적가"</string>
     <string name="Pumpkin_Mogul">"호박 탐색가"</string>
     <string name="Leaf_Mogul">"단풍잎 탐색가"</string>
-    <string name="Collect_5000_pumpkins_">"호박 5,000 개 수집하기"</string>
-    <string name="Collect_10000_pumpkins_">"호박 10,000 개 수집하기"</string>
-    <string name="Collect_10000_leaves_">"단풍잎 10,000 개 수집하기"</string>
+    <string name="Collect_5000_pumpkins_">"호박 5,000개 수집하기"</string>
+    <string name="Collect_10000_pumpkins_">"호박 10,000개 수집하기"</string>
+    <string name="Collect_10000_leaves_">"단풍잎 10,000개 수집하기"</string>
     <string name="Eject">"방출"</string>
     <string name="Eject_Skin">"방출 스킨"</string>
     <string name="Double_Plasma__">"플라즈마 2배!!"</string>
@@ -737,12 +737,12 @@
     <string name="Select">"선택"</string>
     <string name="Current_Skin">"현재 스킨"</string>
     <string name="Status">"상태"</string>
-    <string name="upload_size_failure">"이미지가 커 업로드에 실패하였습니다. 다른 이미지를 시도해주세요."</string>
+    <string name="upload_size_failure">"이미지가 커서 업로드에 실패하였습니다. 다른 이미지를 시도해주세요."</string>
     <string name="CONTRIBUTE_PLASMA">"플라즈마 기부"</string>
     <string name="Specify_Contribution_Amount">"기부금액 지정"</string>
     <string name="Clan_Contribution">"클랜에 기부하기"</string>
     <string name="FILTER">필터</string>
-    <string name="List_Count_">항목 개수:</string>
+    <string name="List_Count_">항목 개수: </string>
     <string name="Download_Skins">스킨 다운로드</string>
     <string name="ARENA_HISTORY">아레나 전적</string>
     <string name="WIN">승리</string>
@@ -750,16 +750,16 @@
     <string name="Other_players_can_not_see_your_skin_">다른 플레이어들이 스킨을 볼 수 없습니다.</string>
     <string name="Other_players_can_see_your_skin_">다른 플레이어들이 스킨을 볼 수 있습니다.</string>
     <string name="LEGEND">전설</string>
-    <string name="Win_10000_Arenas">아레나 10,000 회 승리하기</string>
+    <string name="Win_10000_Arenas">아레나 10,000회 승리하기</string>
     <string name="UPLOAD_PREVIEW">업로드 미리보기</string>
     <string name="Transparency">투명도</string>
     <string name="upload_info">투명도를 없애거나 간단한 이미지를 사용함으로써 더 좋은 화질로 사용할 수 있습니다.</string>
-    <string name="Compression_Quality_">압축 품질:</string>
-    <string name="inapproriate_info">부적절한 스킨은 모욕, 고어, 외설, 폭력, 약물, 성, 알몸, 전신 셀카, 알아볼 수 없을 경우, 난해한 경우, Nebulous의 스킨을 수정없이 업로드 할 경우 등이 해당됩니다.</string>
+    <string name="Compression_Quality_">압축 품질: </string>
+    <string name="inapproriate_info">부적절한 스킨은 모욕, 고어, 외설, 폭력, 약물, 성, 알몸, 전신 셀카, 알아볼 수 없을 경우, 난해한 경우, Nebulous의 스킨을 수정없이 업로드할 경우 등이 해당됩니다.</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">정말로 이 스킨을 업로드하시겠습니까?</string>
     <string name="Grant_Permission">권한 부여</string>
-    <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">싱글 플레이어 진행상황을 저장하려면 Nebulous에 저장소 권한이 부여되어야 합니다.</string>
-    <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">블루투스 디바이스를 찾으려면 Nebulous에 위치 권환이 부여되어야 합니다.</string>
+    <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">싱글 플레이어 진행 상황을 저장하려면 Nebulous에 저장소 권한이 부여되어야 합니다.</string>
+    <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">블루투스 디바이스를 찾으려면 Nebulous에 위치 권한이 부여되어야 합니다.</string>
     <string name="FFA_ULTRA">울트라 개인전</string>
     <string name="FFAU">울트라</string>
     <string name="_in_a_FFAU_Game">울트라 개인전 게임에서</string>
@@ -775,7 +775,7 @@
     <string name="RESET">리셋</string>
     <string name="Message_Sent_">메세지가 전송되었습니다!</string>
     <string name="From">발신</string>
-    <string name="Sent">전송되었습니다</string>
+    <string name="Sent">전송되었습니다.</string>
     <string name="REPLY">답장</string>
     <string name="Delete_Message">메세지 삭제</string>
     <string name="BLOCK">차단</string>
@@ -787,10 +787,10 @@
     <string name="Nav_Buttons_">내비게이터: </string>
     <string name="account_warning">어떤 이유에서도 다른사람에게 비밀번호 및 개인정보를 절대 공유하지 마세요!</string>
     <string name="Clan_Hero">클랜 영웅</string>
-    <string name="Win_1000_Clan_Wars">클랜 전쟁 1,000 회 승리하기</string>
+    <string name="Win_1000_Clan_Wars">클랜 전쟁 1,000회 승리하기</string>
     <string name="NAME_COLOR">이름 색상</string>
     <string name="name_color_instructions">색상을 변경하고 싶은 문자를 선택한 뒤 변경하고 싶은 색상을 선택해주세요.</string>
-    <string name="Cannot_change_this_character_">이 문자는 변경할 수 없습니다</string>
+    <string name="Cannot_change_this_character_">이 문자는 변경할 수 없습니다.</string>
     <string name="ZOMBIE_APOCALYPSE">좀비 아포칼립스</string>
     <string name="Survive_a_Zombie_Apocalypse">좀비 아포칼립스에서 생존하기</string>
     <string name="ZA">좀비</string>
@@ -821,7 +821,7 @@
     <string name="Quarter_Finals">준준결승</string>
     <string name="Competing">참가 중</string>
     <string name="Finals">결승전</string>
-    <string name="Unregister">등록해지</string>
+    <string name="Unregister">등록 해지</string>
     <string name="Enter_My_Match">내 매칭 입장</string>
     <string name="Starts_In">시작까지</string>
     <string name="Seconds">초 남음</string>
@@ -829,7 +829,7 @@
     <string name="CLAN_NAME_COLOR">클랜 이름 색상</string>
     <string name="Tuber">유튜버</string>
     <string name="youtube_prompt">이 Nebulous 유튜브 채널을 방문하시곘습니까? 이 채널들은 Nebulous 개발자들과 무관합니다.</string>
-    <string name="Tournament_Matches_Won_">승리한 토너먼트 매칭:</string>
+    <string name="Tournament_Matches_Won_">승리한 토너먼트 매칭: </string>
     <string name="PAINT">페인트</string>
     <string name="BLOCKED_ACCOUNTS">차단된 플레이어</string>
     <string name="UNBLOCK">차단 해제</string>
@@ -844,10 +844,10 @@
     <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">모든 상대가 득점하지 않은 상태에서 게임 승리하기</string>
     <string name="Win_a_Paint_game_in_60_seconds_or_less_">60초 이내로 페인트 게임을 승리하기</string>
     <string name="Autoclick">자동클릭</string>
-    <string name="Autoclick_24_Hours">자동클릭: 24 시간</string>
-    <string name="Autoclick_1_Hour">자동클릭: 1 시간</string>
-    <string name="Ultraclick_24_Hours">울트라클릭: 24 시간</string>
-    <string name="Ultraclick_1_Hour">울트라클릭: 1 시간</string>
+    <string name="Autoclick_24_Hours">자동클릭: 24시간</string>
+    <string name="Autoclick_1_Hour">자동클릭: 1시간</string>
+    <string name="Ultraclick_24_Hours">울트라클릭: 24시간</string>
+    <string name="Ultraclick_1_Hour">울트라클릭: 1시간</string>
     <string name="Ultraclick">울트라클릭</string>
     <string name="May_Reduce_Lag">(렉이 줄어들 수도 있음)</string>
     <string name="Ultraclick_Permanent">무기한 울트라클릭</string>
@@ -877,11 +877,11 @@
     <string name="Bundle_of_Spins">회전권 보따리(10)</string>
     <string name="Plethora_of_Spins">회전권 더미(50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">모든 기기에서 로그아웃</string>
-    <string name="Tournament_Forming">토너먼트 형성중</string>
+    <string name="Tournament_Forming">토너먼트 형성 중</string>
     <string name="TeamTourneyDescription">토너먼트에 참가하려면 당신과 팀원 모두 등록해야만 합니다. 토너먼트가 시작되면 모두에게서 요금이 지불될 것이며, 시작되기 전에 등록을 해지할 수 있습니다. 토너먼트는 최소한 %d명의 참가자가 있어야 시작됩니다.</string>
     <string name="Free_Agent">랜덤 팀원매칭</string>
     <string name="This_player_selected_a_different_teammate_">이 플레이어는 다른 팀원을 선택했습니다.</string>
-    <string name="muted_until">다음 기간까지 뮤트:</string>
+    <string name="muted_until">다음 기간까지 뮤트: </string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">멀티 플레이에 참여할 경우 응용 프로그램에 대한 등급이 변경 될 수 있습니다.</string>
     <string name="UI_Opacity_">UI 투명도</string>
     <string name="LOAD">불러오기</string>
@@ -977,7 +977,7 @@ Nebulous 규칙\n
     <string name="Open_Present">선물 열기</string>
     <string name="OPEN">열기</string>
     <string name="Halo">헤일로</string>
-    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"이 헤일로를 사용하려면 레벨 %1$s 이상 및 도전과제를 %2$s개 이상 완료해야합니다."</string>
+    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"이 헤일로를 사용하려면 레벨 %1$s 이상 및 도전과제를 %2$s개 이상 완료해야 합니다."</string>
     <string name="Halos">헤일로</string>
     <string name="CAMPAIGN">캠페인</string>
     <string name="Mission">미션</string>
@@ -989,7 +989,7 @@ Nebulous 규칙\n
     <string name="Objective">목적</string>
     <string name="GAME">게임</string>
     <string name="Saved_">저장 됨!</string>
-    <string name="Name_Opacity_">이름 투명도:</string>
+    <string name="Name_Opacity_">이름 투명도: </string>
     <string name="SET_PROFILE_PIC">프로필 사진 설정</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">모든 친구요청 수락!</string>
     <string name="App_Perf_Stats">앱 성능 수치</string>
@@ -1025,12 +1025,12 @@ Nebulous 규칙\n
     <string name="_1v1_Pure">순정 1대1</string>
     <string name="Allow_Ultraclick">울트라 클릭 허용</string>
     <string name="Allow_Mass_Boost">시작 부스터 허용</string>
-    <string name="Challenges_Won_">우승한 도전 횟수:</string>
+    <string name="Challenges_Won_">우승한 도전 횟수: </string>
     <string name="trophy_info">트로피는 아레나와 팀 아레나의 각 시즌이 끝날때마다 1위, 2위 그리고 3위에게 수상됩니다. 트로피는 많은 플레이어가 게임에 참여한 지역에서만 수상됩니다.</string>
     <string name="BLOCKED">차단됨</string>
     <string name="CLAN_WAR_HISTORY">클랜 전쟁 기록</string>
     <string name="Particle">파티클</string>
-    <string name="Privacy">개인정보 처리방침</string>
+    <string name="Privacy">개인정보 처리 방침</string>
     <string name="EULA">소프트웨어 사용권 동의</string>
     <string name="You_can_purchase_this_hat_for">당신은 이 모자를 다음 가격에 구매할 수 있습니다: </string>
     <string name="You_can_purchase_this_particle_for">당신은 이 파티클을 다음 가격에 구매할 수 있습니다: </string>
@@ -1054,7 +1054,7 @@ Nebulous 규칙\n
     <string name="Absorb_10_000_000_dots">도트 10,000,000 먹기</string>
     <string name="Dot_Deity">도트의 신</string>
     <string name="Mass_Mastery">질량 마스터리</string>
-    <string name="Gain_100_000_000_mass">총 100,000,000 점 획득하기</string>
+    <string name="Gain_100_000_000_mass">총 100,000,000점 획득하기</string>
     <string name="VET">베테랑</string>
     <string name="Mute">음소거</string>
     <string name="Unmute">음소거 해제</string>
@@ -1064,7 +1064,7 @@ Nebulous 규칙\n
     <string name="community_skin_information_for_seller" translatable="true" tools:ignore="Untranslatable">당신의 스킨을 커뮤니티 스킨으로 만들 경우 그것은 커뮤니티 스킨 탭에 기재될 것입니다. 다른 사람들이 이를 보거나 구매할 수도 있습니다! 누군가가 당신의 커뮤니티 스킨을 구매할 경우 당신은 소량의 플라즈마를 지급받습니다. 커뮤니티 스킨은 실제 사람들의 사진이 될 수 없습니다!</string>
     <string name="community_skin_requirement">커뮤니티 스킨을 사용하기 위해서는 사용자 정의 스킨 사용을 구매해야 합니다.</string>
     <string name="You_can_purchase_this_community_skin_for_">다음 가격으로 이 커뮤니티 스킨을 구매할 수 있습니다: </string>
-    <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">커뮤니티 스킨은 다른 플레이어들이 업로드 한 것입니다. 커뮤니티 스킨은 사용자 정의 스킨과 동일하게 작동하며 다른 기본 스킨들의 애니메이션도 적용할 수 있습니다.</string>
+    <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">커뮤니티 스킨은 다른 플레이어들이 업로드한 것입니다. 커뮤니티 스킨은 사용자 정의 스킨과 동일하게 작동하며 다른 기본 스킨들의 애니메이션도 적용할 수 있습니다.</string>
     <string name="VIEW_UPLOADER">업로더 보기</string>
     <string name="POPULAR">인기순</string>
     <string name="NEW">신규순</string>
@@ -1094,10 +1094,10 @@ Nebulous 규칙\n
     <string name="Skin_Pack">스킨 꾸러미</string>
     <string name="SKIN_PACK">스킨 꾸러미</string>
     <string name="HALLOWEEN">할로윈</string>
-    <string name="pack_info">이 스킨 꾸러미를 구매한 뒤 고가의 스킨들은 스킨 선택 메뉴의 상단에 나타날 것 입니다.</string>
+    <string name="pack_info">이 스킨 꾸러미를 구매한 뒤 고가의 스킨들은 스킨 선택 메뉴의 상단에 나타날 것입니다.</string>
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">고가의 스킨들, 펫들, 모자들과 더 많은 것들!</string>
     <string name="BUY_NOW_">지금 구매하세요!</string>
-    <string name="already_purchased">구매 대상이 이미 이것을 소유중입니다.</string>
+    <string name="already_purchased">구매 대상이 이미 이것을 소유 중입니다.</string>
     <string name="Halo_Animations">헤일로 애니메이션</string>
     <string name="Trick_Notifications">기술 알림</string>
     <string name="Channel">채널</string>
@@ -1132,7 +1132,7 @@ Nebulous 규칙\n
     <string name="new_person_joined" translatable="true" tools:ignore="Untranslatable">누군가 그룹에 참여했습니다</string>
     <string name="person_left" translatable="true" tools:ignore="Untranslatable">누군가 그룹을 떠났습니다.</string>
     <string name="Left_the_group" translatable="true" tools:ignore="Untranslatable">그룹을 떠났습니다.</string>
-    <string name="Tricks_Performed_">수행된 트릭 :</string>
+    <string name="Tricks_Performed_">수행된 트릭: </string>
     <string name="Not_enough_plasma_">플라즈마가 충분하지 않습니다!</string>
     <string name="GET_PLASMA">혈장 도망</string>
     <string name="ASTEROIDS">소행성</string>
@@ -1147,8 +1147,8 @@ Nebulous 규칙\n
     <string name="TRY_IT_">체험해보기!</string>
     <string name="Textures_will_be_regenerated_">검은색 텍스처와 사용자 정의 스킨이 다시 생성됩니다.</string>
 
-    <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">당신은 이 스킨을 한 번만 체험해볼 수 있습니다. 게임에서 죽거나 변경한 뒤에는 사용할 수 없습니다. 스킨을 체험중일 때에는 다른사람에게 보이지 않습니다.\n가격: %s 플라즈마.</string>
-    <string name="You_need_to_buy_a_pack_to_use_this_">이 것을 사용하려면 꾸러미를 구매해야 합니다.</string>
+    <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">당신은 이 스킨을 한 번만 체험해볼 수 있습니다. 게임에서 죽거나 변경한 뒤에는 사용할 수 없습니다. 스킨을 체험 중일 때에는 다른사람에게 보이지 않습니다.\n가격: %s 플라즈마.</string>
+    <string name="You_need_to_buy_a_pack_to_use_this_">이것을 사용하려면 꾸러미를 구매해야 합니다.</string>
     <string name="GET_PACK">꾸러미 구매</string>
     <string name="Position_in_queue">대기 번호</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">프로필 화면 배경 색깔</string>
@@ -1171,16 +1171,16 @@ Nebulous 규칙\n
     <string name="shared_pack_info" translatable="true" tools:ignore="Untranslatable">이 스킨 꾸러미를 구매한 뒤 특별한 스킨들은 당신과 친구의 스킨 선택 메뉴의 상단에 표시됩니다.</string>
     <string name="shared_pack_purch_description" translatable="true" tools:ignore="Untranslatable">이 꾸러미는 특별하기 때문에 당신과 친구 모두 이 꾸러미를 얻게 됩니다!</string>
     <string name="Giveaways_">플라즈마 이벤트!</string>
-    <string name="Max_XP_Chain_">최고 연속 경험치:</string>
+    <string name="Max_XP_Chain_">최고 연속 경험치: </string>
     <string name="POSITION_CANCEL_BUTTON">대기 취소 버튼</string>
     <string name="INVISIBILITY">투명 모드</string>
     <string name="Set_Skin">스킨 설정</string>
     <string name="Primary">첫 번째</string>
     <string name="Secondary">두 번째</string>
-    <string name="Both">둘 다</string>
-    <string name="multiskin_period_description" translatable="true" tools:ignore="Untranslatable">"다중 스킨의 변경 시간을 초 단위로 지정해주세요 (0~10초). 0은 다중스킨이 적용되지 않습니다."</string>
+    <string name="Both">둘다</string>
+    <string name="multiskin_period_description" translatable="true" tools:ignore="Untranslatable">"다중 스킨의 변경 시간을 초 단위로 지정해주세요(0~10초). 0은 다중스킨이 적용되지 않습니다."</string>
     <string name="Enable__Multiskin">"다중스킨\n적용하기"</string>
-    <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"다중 스킨은 두 개의 스킨이 서로 변경되어 동시에 사용할 수 있도록 해주는 기능입니다. 스킨이 얼마나 빠르게 변할지 선택할 수 있습니다. 1,000 레벨에 도달한 경우 이 기능은 무료입니다. 만약 1,000 레벨 이전에 다중 스킨을 구매한 경우, 1,000 레벨에 도달할 시 플라즈마를 돌려받습니다."</string>
+    <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"다중 스킨은 두 개의 스킨이 서로 변경되어 동시에 사용할 수 있도록 해주는 기능입니다. 스킨이 얼마나 빠르게 변할지 선택할 수 있습니다. 1,000레벨에 도달한 경우 이 기능은 무료입니다. 만약 1,000레벨 이전에 다중 스킨을 구매한 경우, 1,000레벨에 도달할 시 플라즈마를 돌려받습니다."</string>
     <string name="MULTISKIN">다중 스킨</string>
     <string name="DISABLED">적용되지 않음</string>
 
@@ -1193,17 +1193,17 @@ Nebulous 규칙\n
     <string name="Allow_permission_to_enable_voice_recording_">음성 녹음을 사용하기 위해 권한을 허용해주세요.</string>
     <string name="voice_chat_prompt">음성 채팅을 사용할 경우 게임의 콘텐츠 등급이 변경될 수도 있습니다. 최적의 환경을 위해서는 헤드셋을 사용해주세요.</string>
     <string name="Only_leader_can_answer_requests_">오직 대표만이 요청에 응답할 수 있습니다.</string>
-    <string name="Sent_request_not_invited_">요청이 전송되었습니다 (초대되지 않음).</string>
+    <string name="Sent_request_not_invited_">요청이 전송되었습니다(초대되지 않음).</string>
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">공개된 커뮤니티 스킨을 삭제합니다!</string>
     <string name="This_cannot_be_undone_">이 작업은 취소할 수 없습니다!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">비디오를 시청하고 %d회 사용할 수 있는 임시 부스터를 획득하세요!</string>
     <string name="WATCH_VIDEO_">영상 시청하기!</string>
     <string name="PERMANENT_BOOSTS">무제한 부스터</string>
     <string name="Video_failed_to_load_">영상을 불러오지 못했습니다.</string>
-    <string name="Video_Ready_">영상 준비 됨!</string>
+    <string name="Video_Ready_">영상 준비됨!</string>
     <string name="GIVE_PLASMA">플라즈마 보내기</string>
-    <string name="Specify_amount_">수량 지정:</string>
-    <string name="Specify_amount_again_to_confirm_">다시 한번 수량을 입력하여 확정하기:</string>
+    <string name="Specify_amount_">수량 지정: </string>
+    <string name="Specify_amount_again_to_confirm_">다시 한번 수량을 입력하여 확정하기: </string>
     <string name="Amounts_did_not_match_">수량이 일치하지 않습니다!</string>
     <string name="RECEIVE_PLASMA">플라즈마 받기</string>
     <string name="MULTIBLOB">멀티 방울</string>
@@ -1211,10 +1211,10 @@ Nebulous 규칙\n
     <string name="Play_Nebulous_For_X_Years_">Nebulous를 %d년 동안 플레이!</string>
     <string name="Starting___">시작 중…</string>
     <string name="Tournament_Starting">토너먼트가 시작됩니다</string>
-    <string name="Max_Tilt_Angle_3D_">3D 최대 기울기 각도:</string>
+    <string name="Max_Tilt_Angle_3D_">3D 최대 기울기 각도: </string>
     <string name="Mode_3D">3D 방법</string>
     <string name="Names_Below_Blobs">방울 아래에 이름 표시</string>
-    <string name="Name_Scale_">"이름 규모:"</string>
+    <string name="Name_Scale_">"이름 규모: "</string>
     <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">장치의 서버 연결 상태가 좋지 않습니다. 이로 인해 지연이 발생할 수 있습니다. Wi-Fi 또는 휴대 전화 서비스를 확인하거나 다른 인터넷 연결을 시도하십시오. 또한 가장 가까운 서버에서 플레이하고 있는지 확인하십시오.</string>
     <string name="Button_3D">단추 3D</string>
     <string name="Hide_Button_">버튼을 숨길까요?</string>
@@ -1225,31 +1225,31 @@ Nebulous 규칙\n
     <string name="Kicked_From_Game_">게임으로부터 추방되었습니다!</string>
     <string name="Conquest">정복</string>
     <string name="Finish_the_last_mission_in_the_campaign_">캠페인의 마지막 미션을 성공하기</string>
-    <string name="Collected_">수집:</string>
-    <string name="Collisions_">충돌:</string>
-    <string name="Absorbed_">흡수:</string>
+    <string name="Collected_">수집: </string>
+    <string name="Collisions_">충돌: </string>
+    <string name="Absorbed_">흡수: </string>
     <string name="team_warning">자신의 팀이 아닌 플레이어와 팀을 맺는 행위는 계정 정지를 초래할 수 있습니다! 해당하는 플레이어가 있을 경우 플레이어 메뉴에서 추방 투표를 진행할 수 있습니다.</string>
     <string name="Search_Filter">검색 필터</string>
-    <string name="Received_">받음:</string>
-    <string name="Opponent_Rating_Limit_">상대 평가 한계:</string>
+    <string name="Received_">받음: </string>
+    <string name="Opponent_Rating_Limit_">상대 평가 한계: </string>
     <string name="TOGGLE_FAVORITE">즐겨찾기 설정</string>
     <string name="Favorited">즐겨찾기 등록됨</string>
     <string name="Unfavorited">즐겨찾기 해제됨</string>
-    <string name="Background_Scale_">배경 크기:</string>
-    <string name="Background_Lightness_">배경 밝기:</string>
-    <string name="Background_Image_">배경 사진:</string>
+    <string name="Background_Scale_">배경 크기: </string>
+    <string name="Background_Lightness_">배경 밝기: </string>
+    <string name="Background_Image_">배경 사진: </string>
     <string name="INVERT_SELECTION">선택 반전</string>
     <string name="MINIMAP">미니맵</string>
     <string name="Victorious">승리자</string>
     <string name="Dominant">지배자</string>
     <string name="Champion">챔피언</string>
-    <string name="Win_10_Tournaments">토너먼트 10 회 승리</string>
-    <string name="Win_100_Tournaments">토너먼트 100 회 승리</string>
+    <string name="Win_10_Tournaments">토너먼트 10회 승리</string>
+    <string name="Win_100_Tournaments">토너먼트 100회 승리</string>
     <string name="HERO">영웅</string>
     <string name="CHAMPION">챔피언</string>
     <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">샌드박스 모드에서는 경험치나 플라즈마를 획득할 수 없습니다!</string>
     <string name="DASH">돌진</string>
-    <string name="setting_changed">설정이 변경되었습니다. 변경된 사항이 적용되려면 다시 서버에 연결해야할 수도 있습니다.</string>
+    <string name="setting_changed">설정이 변경되었습니다. 변경된 사항이 적용되려면 다시 서버에 연결해야 할 수도 있습니다.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">기술 모드에서 기술을 10,000번 사용하기</string>
     <string name="Tricky">기술의 장인</string>
     <string name="SUPPORTER">VIP</string>
@@ -1284,7 +1284,7 @@ Nebulous 규칙\n
 		2. 옷을 입고있지 않은 사람의 사진
 		3. 선정적인 자세 또는 장면을 포함하고 있는 사진
 		4. 알코올과 대마초를 포함한 약물류에 대해 묘사하고 있는 사진
-		5. 레벨 스킨과 같은 Nebulous에서 이미 사용중인 사진. 사용하려면 의미있는 편집을 거쳐야만 합니다.
+		5. 레벨 스킨과 같은 Nebulous에서 이미 사용 중인 사진. 사용하려면 의미있는 편집을 거쳐야만 합니다.
 
 	동일한 미승인 스킨을 계속해서 업로드 하는 경우 더 강한 불이익 또는 계정 정지를 초래할 수 있습니다."
     </string>
@@ -1297,7 +1297,7 @@ Nebulous 규칙\n
     <string name="Sold_Community_Skins_">"판매된 커뮤니티 스킨: "</string>
     <string name="Estimated_Earnings_">"예상 소득: "</string>
     <string name="South_Africa">남아프리카</string>
-    <string name="SPLIT_">분열:</string>
+    <string name="SPLIT_">분열: </string>
     <string name="WALLS">벽</string>
     <string name="COMP_BANNED">경쟁전 밴</string>
     <string name="FIND_GAMES">게임 검색</string>
@@ -1327,7 +1327,7 @@ Nebulous 규칙\n
 </string>
     <string name="ID_Sort">ID 정렬</string>
     <string name="Master_Tamer">마스터 조련사</string>
-    <string name="Get_ALL_Pets_To_Level_100_">모든 펫의 레벨을 100 까지 올리기</string>
+    <string name="Get_ALL_Pets_To_Level_100_">모든 펫의 레벨을 100까지 올리기</string>
     <string name="TAMER">조련사</string>
     <string name="Allow_Recombine">재결합 허용</string>
     <string name="Defenders">방어팀</string>
@@ -1340,7 +1340,7 @@ Nebulous 규칙\n
 
     <string name="Type">입력</string>
     <string name="Complete_campaign_mission_">캠페인 미션 완료</string>
-    <string name="Specify_Reason_">이유를 적어주세요:</string>
+    <string name="Specify_Reason_">이유를 적어주세요: </string>
     <string name="FREE_FOR_ALL">개인전</string>
     <string name="SPECIAL">특별</string>
     <string name="FREE">무료</string>
@@ -1402,9 +1402,9 @@ Nebulous 규칙\n
     </string-array>
 
     <string-array name="themes">
-        <item>"별 (암흑)"</item>
-        <item>"격자 (암흑)"</item>
-        <item>"격자 (밝음)"</item>
+        <item>"별(암흑)"</item>
+        <item>"격자(암흑)"</item>
+        <item>"격자(밝음)"</item>
         <item>"사용자 정의"</item>
         <item>"없음"</item>
     </string-array>
@@ -1425,9 +1425,9 @@ Nebulous 규칙\n
     </string-array>
 
     <string-array name="clan_war_sizes">
-        <item>"2인조 (2:2)"</item>
-        <item>"소규모 (3:3)"</item>
-        <item>"소규모 (5:5)"</item>
-        <item>"일반 (8:8)"</item>
+        <item>"2인조(2:2)"</item>
+        <item>"소규모(3:3)"</item>
+        <item>"소규모(5:5)"</item>
+        <item>"일반(8:8)"</item>
     </string-array>
 </resources>
