@@ -1223,7 +1223,7 @@ Perintah:
     <string name="SUCCESS">SUKSES</string>
 
 
-    <string-array name="control_modes">Mode kontrol</string>
+    <string-array name="control_modes">Mode kontrol
         <item>"Normal"</item>
         <item>"Relatif"</item>
         <item>"Seret Menuju"</item>
