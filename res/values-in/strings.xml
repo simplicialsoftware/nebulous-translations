@@ -1232,7 +1232,7 @@ Perintah:
         <item>"Memiringkan"</item>
     </string-array>
 
-    <string-array name="button_modes">
+    <string-array name="button_modes">mode tombol
         <item>"Kiri"</item>
         <item>"Kanan"</item>
         <item>"Kanan + Kiri"</item>
