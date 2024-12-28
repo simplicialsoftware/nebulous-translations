@@ -1,4 +1,4 @@
-﻿<resources xmlns:tools="http://schemas.android.com/tools">
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"Jugadores"</string>
     <string name="Control_">"Control:"</string>
     <string name="CLOSE">"CERRAR"</string>
@@ -180,7 +180,7 @@
     <string name="Single_Handedly">"Sin ayuda de nadie"</string>
     <string name="Dodgey">"Escurridizo"</string>
     <string name="Self_Contained">"Autónomo"</string>
-    <string name="Survivalist">"Superviviente"</string>
+    <string name="Survivalist">"Sobreviviente"</string>
     <string name="Ultramassive">"Ultramasivo"</string>
     <string name="Rapid_Ascension">"Ascensión Rápida"</string>
     <string name="Revenge">"Venganza"</string>
@@ -374,7 +374,7 @@
     <string name="Player_XP">"EXP de jugador"</string>
 
     <string name="W_D_L">"G-E-P"</string>
-    <string name="MATCH_START">"COMIENZA PARTIDA"</string>
+    <string name="MATCH_START">"COMIENZA LA PARTIDA"</string>
     <string name="Clan_Warrior">"Guerrero del Clan"</string>
     <string name="Win_a_Clan_War">"Gana una guerra de clanes"</string>
     <string name="Global">"Global"</string>
@@ -781,7 +781,7 @@
     <string name="BLOCK">"BLOQUEAR"</string>
     <string name="DELETE">"BORRAR"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Nota: Se puede desbloquear a alguien enviándole una solicitud de amistad "</string>
-    <string name="Select_Friend">"Elije un amigo"</string>
+    <string name="Select_Friend">"Elige un amigo"</string>
     <string name="Failed_to_send_mail_">"No se pudo enviar el correo "</string>
     <string name="In_Game_Mail">"Correo del juego"</string>
     <string name="Nav_Buttons_">"Botones chat/desafíos:"</string>
@@ -797,11 +797,11 @@
     <string name="Pandemic">"Pandemia"</string>
     <string name="Immunity">"Inmunidad"</string>
     <string name="Win_as_zombies_in_2_minutes_or_less_">Gana como zombie en 2 minutos o menos </string>
-    <string name="Win_as_survivors_with_no_losses_">Gana como superviviente sin que ningún superviviente muera </string>
+    <string name="Win_as_survivors_with_no_losses_">Gana como sobreviviente sin que ningún sobreviviente muera </string>
     <string name="ZOMBIE_">"¡ZOMBIE!"</string>
-    <string name="SURVIVOR_">"¡SUPERVIVIENTE!"</string>
+    <string name="SURVIVOR_">"¡SOBREVIVIENTE!"</string>
     <string name="Zombies">"Zombies"</string>
-    <string name="Survivors">"Supervivientes"</string>
+    <string name="Survivors">"Sobrevivientes"</string>
     <string name="Enter_a_Tournament">Entra a un Torneo</string>
     <string name="Win_a_Tournament">Gana un Torneo</string>
     <string name="Tournament_Competing">Compitiendo en Torneo</string>
@@ -925,7 +925,7 @@
     <string name="BLOB_COLOR">"COLOR DE BLOB"</string>
     <string name="ENABLED">"HABILITADO"</string>
     <string name="Enable_Custom_Blob_Color">"Habilitar color personalizado del blob"</string>
-    <string name="Choose_Menu">"Elije el menú"</string>
+    <string name="Choose_Menu">"Elige el menú"</string>
     <string name="SPECTATE">"OBSERVAR"</string>
     <string name="INVITE">INVITAR</string>
     <string name="error_1">Únicamente el líder o colíderes pueden enviar un correo al clan</string>
