@@ -949,6 +949,28 @@
     <string name="Friend_Added_">Přítel Přidaný!</string>
     <string name="_in_a_16x_Split_Game">v hre Rozpolcený 16x</string>
     <string name="Rules">Pravidla</string>
+    <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">"
+        Pravidla Nebulous
+
+1. Nesdílej nebo neobchoduj s účtem s kýmkoliv. To bude mít za následek že  oba hráči budou permanentně zabanováni.
+2. Neptej se na účty nikoho. To bude mít za následek že dostaneš permanentní ban.
+3. Nedělej ze sebe Moderátora nebo Youtubera. To bude mít za následek že dostaneš permanentní ban.
+4. Nepodváděj aby ses dostal do příčky nejlepších ve klanových válek a aréně. Resetuje ti to statistiky a dostaneš permanentní ban.
+5. Nikdy se neptej na Leader rank v Klanu.
+6. Neurážej hráče.
+7. Nezakládej chaty s nevhodnými jmény.
+8. Poslouchej moderátory.
+9. Nezískávej výhodu chyb ve hře.
+10. Nebanuj moc hráču bez svolení Leadera klanu.
+11. V týmových her netýmuj s hráči v druhém týmu.
+12. Nikdy nelži moderátorovi.
+13. Neprodávej Nebulous Klany pro peníze nebo plasmu.
+14. Nespamuj v chatu nebo mailech.
+
+Pokud nebudeš dodržovat některé z těchle pravidel, tvůj účet bude zabanovaný. (Čas trestu může být pár hodin nebo navždy, záleží na situaci a závažnosti problému).
+
+Pokud si všimneš že hráč porušuje pravidla hry, prosím nahlaš to moderátorovi."
+    </string>
     <string name="Blob_Chat_Bubbles">Chatovací Bubliny Blobu</string>
     <string name="CHRISTMAS_ADVENT_SKINS">SKINY VÁNOČNÍHO ADVENTU</string>
     <string name="You_cannot_open_this_present_yet_">Zatím nemůžeš otevřít tento dárek!</string>
