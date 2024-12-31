@@ -208,7 +208,7 @@
     <string name="Times_Played_">"Kali Dimainkan:"</string>
     <string name="Longest_Life_">"Hidup Terpanjang:"</string>
     <string name="Games_Won_">"Permainan Dimenangkan:"</string>
-    <string name="You_must_wait_until_the_end_of_the_round_">"Anda harus menunggu sampai akhir ronde ini"</string>
+    <string name="You_must_wait_until_the_end_of_the_round_">"Anda harus menunggu sampai akhir ronde ini."</string>
     <string name="Dont_show_again">"Jangan tampilkan lagi"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Menemukan cadangan statistik pemain tunggal dengan XP yang lebih tinggi. Apakah Anda ingin mengembalikan cadangan?"</string>
     <string name="Special_Effects">"Tampilkan Efek Khusus"</string>
