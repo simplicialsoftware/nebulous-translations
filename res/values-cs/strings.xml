@@ -1253,11 +1253,11 @@
     <string name="Battle_Royale">Battle Royale</string>
     <string name="The_winner_will_receive_x_plasma_">Vítěz vyhraje %s plazmy!</string>
     <string name="admin_commands">"
-Commands:
+Příkazy:
 !kick [0–31]
 !reset
-!welcome {message}
-!difficulty [0-3] or [1-4] for Campaign
+!welcome {zpráva}
+!difficulty [0-3] nebo [1-4] pro Kampaň
 !hidden
 !guests
 !slowchat
@@ -1308,9 +1308,9 @@ Commands:
     <string name="SUDDEN_ATTACK">NÁHLY ÚTOK</string>
     <string name="_2x_skin_resolution">Dvojnásobné rozlišení skinu</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="You_are_already_friends_">Už jste přátelé.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Účet musí být starý aspoň 1 den aby mohl posílat maily.</string>
+    <string name="Translator">Překladatel</string>
     <string name="SUCCESS">SUCCESS</string>
 
 
