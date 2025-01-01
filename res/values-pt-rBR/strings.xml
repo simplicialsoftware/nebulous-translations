@@ -1026,7 +1026,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="Challenges_Won_">Desafios Vencidos:</string>
     <string name="trophy_info">Os troféus são concedidos no final da temporada de cada arena ou arena equipe para o 1º, 2º e 3º lugar. Os troféus serão concedidos apenas em regiões ativas com muitos jogadores.</string>
     <string name="BLOCKED">BLOQUEADO</string>
-    <string name="CLAN_WAR_HISTORY">Histórico de Guerras de Clãs</string>
+    <string name="CLAN_WAR_HISTORY">HISTÓRICO DE GUERRAS DE CLÃS</string>
     <string name="Particle">Partícula</string>
     <string name="Privacy">Privacidade</string>
     <string name="EULA">CLUF</string>
@@ -1218,7 +1218,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Invalid_Clan_ID_">ID do Clã Inválido.</string>
     <string name="MUTED">SILENCIADO</string>
     <string name="SKIN">SKIN</string>
-    <string name="Choose_Skin_Size">Escolha o tamanho da Skin</string>
+    <string name="Choose_Skin_Size">Escolha o Tamanho da Skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Os outros jogadores não poderão te ouvir!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Conceder a permissão para ativar a gravação de voz.</string>
     <string name="voice_chat_prompt">A classificação do conteúdo do aplicativo pode mudar com o chat por voz ativado. Para um áudio melhor, use um fone de ouvido.</string>
