@@ -1160,7 +1160,7 @@
     <string name="BATTLE_ROYALE">PERTEMPURAN ROYALE</string>
     <string name="Battle_Royale">Pertempuran Royale</string>
     <string name="The_winner_will_receive_x_plasma_">Pemenang akan mendapatkan %s plasma!</string>
-    <string name="admin_commands">"
+    <string name="admin_commands">
 Perintah:
 !kick [0–31]
 !reset
