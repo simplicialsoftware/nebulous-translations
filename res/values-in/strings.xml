@@ -822,9 +822,9 @@
     <string name="x3_Clan_XP_7_days">3x XP Klan 7 Hari</string>
     <string name="x3_Clan_XP_1_Day">3x XP Klan 1 Hari</string>
     <string name="x2_Clan_XP_1_Day">2x XP Klan 1 Hari</string>
-    <string name="Pets">Pet</string>
-    <string name="Pet">Pet</string>
-    <string name="You_can_purchase_this_pet_for">Anda bisa membeli pet ini</string>
+    <string name="Pets">Hewan peliharaan</string>
+    <string name="Pet">Peliharaan</string>
+    <string name="You_can_purchase_this_pet_for">Anda dapat membeli hewan peliharaan ini seharga</string>
     <string name="gift_to_friend">Hadiah Ke Teman</string>
     <string name="gift_purchase_warning">Anda tidak akan menerima pembelian ini karena Anda telah memilih untuk hadiah pembelian ini kepada seseorang teman.</string>
     <string name="x2_Clan_XP_7_Days">2x Xp Klan 7 Hari</string>
@@ -846,9 +846,9 @@
     <string name="error_1">Hanya Pemimpin Atau Wakil Pemimpin Yang Bisa Mengirim Mail Klan.</string>
     <string name="Hat">Topi</string>
     <string name="Hats">Topi</string>
-    <string name="Pet_Uploads">Pet Upload</string>
+    <string name="Pet_Uploads">Unggahan Hewan Peliharaan</string>
     <string name="BLOB">GUMPALAN</string>
-    <string name="Clan_Pet_Uploads">Klan Skin Pet Upload</string>
+    <string name="Clan_Pet_Uploads">Unggahan Hewan Peliharaan Klan</string>
     <string name="YT">YT</string>
     <string name="FREE_TODAY">GRATIS HARI INI!</string>
     <string name="Cannot_cancel_this_skin_yet_">Belum bisa membatalkan skin ini.</string>
@@ -891,9 +891,9 @@
     <string name="BANNED">DILARANG</string>
     <string name="CLAN_MEMBERS">ANGGOTA KLAN</string>
     <string name="CLAN_REQUESTS">PERSETUJUAN ANGGOTA</string>
-    <string name="Pet_1">Pet 1</string>
-    <string name="Pet_2">Pet 2</string>
-    <string name="Second_Pet">Anda dapat menggunakan 2 Pet sekaligus!</string>
+    <string name="Pet_1">Peliharaan 1</string>
+    <string name="Pet_2">Peliharaan 2</string>
+    <string name="Second_Pet">Hewan Peliharaan Kedua</string>
     <string name="This_item_requires">Item ini memerlukan </string>
     <string name="not_enough_plasma">Plasma tidak cukup.</string>
     <string name="MARK_UNREAD">TANDAI BELUM DIBACA</string>
@@ -1086,7 +1086,7 @@
     <string name="Spectate_Killer_On_Death">Tonton Pembunuh Saat Kematian</string>
     <string name="Rainbow_Holes">Lubang Pelangi</string>
     <string name="LIFE_STEAL">MENCURI NYAWA</string>
-    <string name="Kicked_From_Game_">Dihapuskan Dari Permainan!</string>
+    <string name="Kicked_From_Game_">Dikeluarkan Dari Permainan!</string>
     <string name="Conquest">Penaklukan</string>
     <string name="Finish_the_last_mission_in_the_campaign_">Selesaikan misi terakhir di mode kampanye.</string>
     <string name="Collected_">Dikumpulkan:</string>
@@ -1160,7 +1160,7 @@
     <string name="BATTLE_ROYALE">PERTEMPURAN ROYALE</string>
     <string name="Battle_Royale">Pertempuran Royale</string>
     <string name="The_winner_will_receive_x_plasma_">Pemenang akan mendapatkan %s plasma!</string>
-    <string name="admin_commands">"
+    <string name="admin_commands">
 Perintah:
 !kick [0–31]
 !reset
@@ -1179,7 +1179,7 @@ Perintah:
 !info"
 </string>
     <string name="ID_Sort">ID Sort</string>
-    <string name="Master_Tamer">Penjinak Master</string>
+    <string name="Master_Tamer">Master Penjinak</string>
     <string name="Get_ALL_Pets_To_Level_100_">Naikkan SEMUA Pet Ke Level 100</string>
     <string name="TAMER">PENJINAK</string>
     <string name="Allow_Recombine">Membolehkan Bergabung Kembali</string>
