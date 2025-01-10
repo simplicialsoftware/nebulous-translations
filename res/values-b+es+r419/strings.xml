@@ -90,7 +90,7 @@
     <string name="Blue_Team">"Equipo Azul"</string>
     <string name="Yellow_Team">"Equipo Amarillo"</string>
     <string name="Signed_in_as_">"Conectado como:"</string>
-    <string name="Not_signed_in_">"¡No registrado!"</string>
+    <string name="Not_signed_in_">"¡No has iniciado sesion!"</string>
     <string name="SET_NAME">"CAMBIAR NOMBRE"</string>
     <string name="SIGN_OUT">"CERRAR SESIÓN"</string>
     <string name="ACHIEVEMENTS">"LOGROS"</string>
@@ -117,7 +117,7 @@
     <string name="Bot">"Bot"</string>
     <string name="You">"Usted"</string>
     <string name="This_player_is_a_bot">"Este jugador es un bot"</string>
-    <string name="This_player_is_not_signed_in">"Este jugador no está conectado"</string>
+    <string name="This_player_is_not_signed_in">"Este jugador no ha iniciado sesion"</string>
 
     <string name="Online">"En línea"</string>
     <string name="Unknown">"Desconocido"</string>
@@ -248,7 +248,7 @@
     <string name="Special_Effects">"Efectos especiales"</string>
     <string name="Blob_Mushiness">"Blandura del blob"</string>
 
-    <string name="Specify_private_game_name">"Especificar nombre de la partida privada"</string>
+    <string name="Specify_private_game_name">"Especificar el nombre de la partida privada"</string>
     <string name="In_Game_Chat">"Chat en la partida"</string>
     <string name="My_Status_">"Mi estado:"</string>
     <string name="Game_Size_">"Tamaño del mapa:"</string>
@@ -291,7 +291,7 @@
     <string name="You_aren_t_invited_to_that_clan_">"No te han invitado a este clan "</string>
     <string name="No_such_clan_exists_">"El clan no existe "</string>
     <string name="That_clan_is_full_">"El clan está lleno "</string>
-    <string name="Other_user_is_not_a_member_of_your_clan_">"Otro usuario no es un miembro de tu clan "</string>
+    <string name="Other_user_is_not_a_member_of_your_clan_">"Otro usuario no es miembro de tu clan "</string>
     <string name="_You_can_t_be_your_own_friend_">"No puedes ser tu propio amigo "</string>
     <string name="A_clan_with_that_name_already_exists_">"Ya existe un clan con ese nombre "</string>
     <string name="Duration_">"Duración:"</string>
@@ -590,7 +590,7 @@
     <string name="Bead_Collector">"Coleccionista de perlas"</string>
     <string name="Bead_Hoarder">"Acaparador de perlas"</string>
     <string name="Bead_Mogul">"Magnate de perlas"</string>
-    <string name="beads_">"perlas "</string>
+    <string name="beads_">"perlas"</string>
 
     <string name="Rejoin_Game">"Volver a unirse a la partida"</string>
     <string name="PRIZES">"PREMIOS"</string>
@@ -623,7 +623,7 @@
     <string name="CLAN_HISTORY">"HISTORIAL DEL CLAN"</string>
 
 
-    <string name="Love_Nebulous_">"¿Te gusta el Nebulous?"</string>
+    <string name="Love_Nebulous_">"¿Te gusta Nebulous?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoya a Nebulous puntuándolo "</string>
     <string name="MAYHEM_MODE">"MODO CAOS"</string>
     <string name="Times_Teleported_">"Veces teletransportado:"</string>
