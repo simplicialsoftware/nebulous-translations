@@ -90,7 +90,7 @@
     <string name="Blue_Team">"Equipo Azul"</string>
     <string name="Yellow_Team">"Equipo Amarillo"</string>
     <string name="Signed_in_as_">"Conectado como:"</string>
-    <string name="Not_signed_in_">"¡No has iniciado sesion!"</string>
+    <string name="Not_signed_in_">"¡No has iniciado sesión!"</string>
     <string name="SET_NAME">"CAMBIAR NOMBRE"</string>
     <string name="SIGN_OUT">"CERRAR SESIÓN"</string>
     <string name="ACHIEVEMENTS">"LOGROS"</string>
@@ -117,7 +117,7 @@
     <string name="Bot">"Bot"</string>
     <string name="You">"Usted"</string>
     <string name="This_player_is_a_bot">"Este jugador es un bot"</string>
-    <string name="This_player_is_not_signed_in">"Este jugador no ha iniciado sesion"</string>
+    <string name="This_player_is_not_signed_in">"Este jugador no ha iniciado sesión"</string>
 
     <string name="Online">"En línea"</string>
     <string name="Unknown">"Desconocido"</string>
