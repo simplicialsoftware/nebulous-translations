@@ -1213,10 +1213,10 @@ Perintah:
     <string name="language_change_warning">Mengubah bahasa akan menyebabkan aplikasi dimulai ulang</string>
     <string name="xmas_gift_boost_message">Kamu mendapatkan hadiah 3x Plasma Tambahan untuk 1 hari!</string>
     <string name="no_response">Tidak bisa bergabung ke server. Mohon check koneksi internet Anda.</string>
-    <string name="RAMADAN">RAMADHAN</string>
+    <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">SERANGAN MENDADAK</string>
     <string name="_2x_skin_resolution">2x Skin Resolusi</string>
-    <string name="pm">PM</string>
+    <string name="pm">pm</string>
     <string name="You_are_already_friends_">Anda sudah berteman. </string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Akun harus berumur 1 hari untuk mengirim surat. </string>
     <string name="Translator">Penerjemah</string>
