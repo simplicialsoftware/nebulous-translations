@@ -108,7 +108,7 @@
 
 
     <string name="FRIENDS">"AMIGOS"</string>
-    <string name="Warning">"Aviso"</string>
+    <string name="Warning">"Aviso!"</string>
     <string name="SIGNING_IN">"ENTRANDO…"</string>
     <string name="New_Friend_Request">"Novo Pedido de Amizade!"</string>
     <string name="REQUEST_FRIEND">"SOLICITAR AMIZADE"</string>
@@ -122,7 +122,7 @@
     <string name="Online">"Online"</string>
     <string name="Unknown">"Desconhecido"</string>
     <string name="Offline">"Offline"</string>
-    <string name="Achievement_Earned">"Conquista Desbloqueada"</string>
+    <string name="Achievement_Earned">"Conquista Desbloqueada!"</string>
     <string name="REFRESH">"ATUALIZAR"</string>
     <string name="DONE">"FEITO"</string>
     <string name="Friend_Request_Sent">"Pedido de Amizade enviado…"</string>
@@ -177,7 +177,7 @@
     <string name="Impossible">"Impossível"</string>
 
     <string name="Perfection">"Perfeição"</string>
-    <string name="Single_Handedly">"Uma só Tacada"</string>
+    <string name="Single_Handedly">"Uma só Tacada!"</string>
     <string name="Dodgey">"Espertalhão"</string>
     <string name="Self_Contained">"Auto-Suficiente"</string>
     <string name="Survivalist">"Sobrevivente"</string>
@@ -317,7 +317,7 @@
     <string name="Translations">"Traduções"</string>
     <string name="Developers">"Desenvolvedores"</string>
     <string name="Special_Thanks">"Agradecimentos Especiais"</string>
-    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Muito Obrigado a todos os fãs do Nebulous"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Muito Obrigado a todos os fãs do Nebulous!"</string>
     <string name="Color_Blind">"Daltônico"</string>
     <string name="Daily_Quest_Complete_">"Tarefa Diária Concluída!"</string>
     <string name="COPY_ID">"COPIAR ID"</string>
@@ -447,7 +447,7 @@
 
 
     <string name="Temporarily_Disabled_">"Temporariamente Desativado."</string>
-    <string name="BIGGEST">"O MAIOR"</string>
+    <string name="BIGGEST">"O MAIOR!"</string>
 
 
     <string name="Copy_ID">"Copiar ID"</string>
@@ -486,7 +486,7 @@
     <string name="Already_in_queue_">"Já está na fila."</string>
     <string name="Invalid_Account_ID_">"ID da conta Inválido."</string>
 
-    <string name="Validating">"Validando"</string>
+    <string name="Validating">"Validando..."</string>
 
     <string name="Randomize">"Aleatória"</string>
 
