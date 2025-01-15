@@ -251,7 +251,7 @@
     <string name="Games_Won_">"Games Won:"</string>
 
     <string name="You_must_wait_until_the_end_of_the_round_">You must wait until the end of the round</string>
-    <string name="Dont_show_again">Don\'t show again</string>
+    <string name="Dont_show_again">Don't show again</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Found a single-player stats backup with higher XP. Do you want to restore the backup?"</string>
 
     <string name="Special_Effects">Special Effects</string>
@@ -362,8 +362,8 @@
     <string name="CLAN_WAR">CLAN WAR</string>
     <string name="Clan_War">Clan War</string>
 
-    <string name="Forming">Forming</string>
-    <string name="Searching">Searching</string>
+    <string name="Forming">Forming.</string>
+    <string name="Searching">Searching...</string>
     <string name="In_Progress">In Progress</string>
 
     <string name="Wins">Wins</string>
@@ -725,7 +725,7 @@
     <string name="Collect_10000_leaves_">Collect 10,000 leaves.</string>
     <string name="Eject">Eject</string>
     <string name="Eject_Skin">Eject</string>
-    <string name="Double_Plasma__">Double Plasma!!</string>
+    <string name="Double_Plasma__">Double Plasma!</string>
     <string name="Ends">Ends</string>
     <string name="Select_Clan_Member">Select Clan Member</string>
     <string name="Inappropriate_Skin">Inappropriate Skin</string>
