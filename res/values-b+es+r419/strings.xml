@@ -39,7 +39,7 @@
     <string name="WINNER_">"GANADOR: "</string>
     <string name="IDLE">"INACTIVO"</string>
     <string name="Name_Invalid_">"Nombre Inválido "</string>
-    <string name="Name_Taken_">"Nombre en Uso "</string>
+    <string name="Name_Taken_">"Nombre en Uso"</string>
     <string name="CONNECTED">"CONECTADO"</string>
     <string name="JOINING___">"UNIÉNDOSE…"</string>
     <string name="PLAYING">"JUGANDO"</string>
@@ -51,7 +51,7 @@
     <string name="Lobby_Name">"Nombre de la sala"</string>
     <string name="Not_found_">"No encontrado "</string>
 
-    <string name="Hidden">"Oculto"</string>
+    <string name="Hidden">"Ocultó"</string>
 
 
     <string name="SERVER">"SERVIDOR"</string>
@@ -816,12 +816,12 @@
     <string name="Registrants">Registrados:</string>
     <string name="Round_Of">Ronda de</string>
     <string name="Next_Tournament">El siguiente torneo</string>
-    <string name="Plasma_Won">Plasma ganado</string>
+    <string name="Plasma_Won">Plasma ganador</string>
     <string name="Semi_Finals">Semifinales</string>
     <string name="Quarter_Finals">Cuartos de final</string>
     <string name="Competing">Compitiendo</string>
     <string name="Finals">Final</string>
-    <string name="Unregister">Cancelar registro</string>
+    <string name="Unregister">Cancelar registros</string>
     <string name="Enter_My_Match">Entrar a mi partida</string>
     <string name="Starts_In">Comienza en</string>
     <string name="Seconds">Segundos</string>
@@ -1366,7 +1366,7 @@ Comandos:
     <string name="Master_Tamer">Maestro Domador</string>
     <string name="Get_ALL_Pets_To_Level_100_">Sube TODAS las mascotas a nivel 100</string>
     <string name="TAMER">DOMADOR</string>
-    <string name="Allow_Recombine">Permitir recombinar</string>
+    <string name="Allow_Recombine">Permitir recombinar.</string>
     <string name="Defenders">Defensores</string>
     <string name="Attackers">Atacantes</string>
     <string name="MEGA_SPLIT">MEGA SEPARACION 64x</string>
