@@ -113,7 +113,7 @@
     <string name="New_Friend_Request">"Thêm bạn mới!"</string>
     <string name="REQUEST_FRIEND">"THÊM BẠN"</string>
     <string name="Private">"Riêng tư"</string>
-    <string name="Public">"Chung"</string>
+    <string name="Public">"Công cộng"</string>
     <string name="Bot">"NGƯỜI MÁY"</string>
     <string name="You">"Tôi"</string>
     <string name="This_player_is_a_bot">"Đây là NGƯỜI MÁY."</string>
@@ -314,7 +314,7 @@
     <string name="Score_3_goals_in_a_single_Soccer_game_">"Ghi 3 bàn trong 1 trận đấu BÓNG ĐÁ"</string>
     <string name="Total_Domination">"Tổng thống trị"</string>
     <string name="Win_500_games_of_any_type_">"Chiến thắng 500 trận bất kỳ chế độ nào."</string>
-    <string name="Translations">"Dịch ngôn ngữ"</string>
+    <string name="Translations">"Người Dịch"</string>
     <string name="Developers">"Nhà phát triển"</string>
     <string name="Special_Thanks">"Đặc biệt cảm ơn"</string>
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"Xin cảm ơn tất cả Fan của trò chơi này"</string>
@@ -610,7 +610,7 @@
     <string name="Google_Profile">"Ảnh Google"</string>
     <string name="You_must_be_signed_in_to_Google_">"Bạn phải đăng nhập vào Google."</string>
 
-    <string name="MAYHEM">"LỘN XỘN"</string>
+    <string name="MAYHEM">"ĐA DẠNG"</string>
     <string name="eggs_">"trứng."</string>
     <string name="Egg_Collector">"Nhà sưu tầm trứng"</string>
     <string name="Egg_Hoarder">"Kẻ tích lũy trứng"</string>
@@ -649,17 +649,17 @@
     <string name="Copy_Message">"Sao chép tin nhắn"</string>
     <string name="Copied_to_clipboard_">"Sao chép vào clipboard."</string>
     <string name="COPY_NAME">"SAO CHÉP TÊN"</string>
-    <string name="Challenge_Sent">"Đã gửi lời khiêu chiến!"</string>
+    <string name="Challenge_Sent">"Đã gửi lời thách đấu!"</string>
     <string name="_1v1_Challenge_">"Thách đấu 1v1 !"</string>
     <string name="__has_challenged_you_to_a_1v1_match_">"%s đã thách đấu bạn 1v1, rén thì đừng chấp nhận!"</string>
     <string name="Challenge_Expired">"Hết hạn thách đấu"</string>
     <string name="Enable_Challenges">"Kích hoạt tính năng thách đấu"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"Đợi lời thách đấu hiện tại hết hạn đã."</string>
-    <string name="CHALLENGE_OPTIONS">"TÙY CHỌN KHIÊU CHIẾN"</string>
-    <string name="Accept">"Vào Luôn"</string>
+    <string name="CHALLENGE_OPTIONS">"TÙY CHỌN THÁCH ĐẤU"</string>
+    <string name="Accept">"Chấp Nhận"</string>
     <string name="Decline">"Từ chối"</string>
     <string name="Challenge_Declined">"Thách đấu bị từ chối"</string>
-    <string name="Spectators_">"khán giả:"</string>
+    <string name="Spectators_">"Khán giả:"</string>
     <string name="Nebula_Collector">"Nhà sưu tầm Tinh vân:"</string>
     <string name="Nebula_Hoarder">"Kẻ tích lũy Tinh vân:"</string>
     <string name="Nebula_Mogul">"Người thu thập Tinh vân"</string>
