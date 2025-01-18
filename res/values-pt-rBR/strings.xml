@@ -26,7 +26,7 @@
     <string name="Are_You_Sure_">"Você tem certeza?"</string>
     <string name="Yes">"Sim"</string>
     <string name="No">"Não"</string>
-    <string name="WAIT">"AGUARDE…"</string>
+    <string name="WAIT">"ESPERE…"</string>
     <string name="Must_Specify_Name_">"É Necessário especificar um nome."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
@@ -60,10 +60,10 @@
     <string name="US_East">"América Central"</string>
     <string name="US_West">"América do Norte"</string>
     <string name="Europe">"Europa"</string>
-    <string name="South_America">"Brasil"</string>
+    <string name="South_America">"America do Sul"</string>
 
 
-    <string name="SINGLE_PLAYER">"ÚNICO JOGADOR"</string>
+    <string name="SINGLE_PLAYER">"ÚNICO 
     <string name="Background_">"Fundo:"</string>
     <string name="Difficulty_">"Dificuldade:"</string>
     <string name="Delay_Disconnect">"Atrasar a Desconexão"</string>
