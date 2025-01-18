@@ -2,10 +2,10 @@
     <string name="Players">"Jugadores"</string>
     <string name="Control_">"Control:"</string>
     <string name="CLOSE">"CERRAR"</string>
-    <string name="Stick_Size_">"Tamaño pad:"</string>
-    <string name="Stick_Margin_">"Ubicación pad:"</string>
-    <string name="Button_Size_">"Tamaño botones:"</string>
-    <string name="Button_Margin_">"Margen botones:"</string>
+    <string name="Stick_Size_">"Tamaño del pad:"</string>
+    <string name="Stick_Margin_">"Ubicación del pad:"</string>
+    <string name="Button_Size_">"Tamaño de los botones:"</string>
+    <string name="Button_Margin_">"Margen de los botones:"</string>
     <string name="Buttons_">"Botones:"</string>
     <string name="DEFAULTS">"POR DEFECTO"</string>
     <string name="WEEKLY">"SEMANAL"</string>
@@ -110,13 +110,13 @@
     <string name="FRIENDS">"AMIGOS"</string>
     <string name="Warning">"Advertencia"</string>
     <string name="SIGNING_IN">"INICIANDO SESIÓN…"</string>
-    <string name="New_Friend_Request">"¡Nueva solicitud de amistad!"</string>
+    <string name="New_Friend_Request">"Nueva solicitud de amistad"</string>
     <string name="REQUEST_FRIEND">"SOLICITUD DE AMISTAD"</string>
     <string name="Private">"Privado"</string>
     <string name="Public">"Público"</string>
     <string name="Bot">"Bot"</string>
     <string name="You">"Usted"</string>
-    <string name="This_player_is_a_bot">"Este jugador es un bot"</string>
+    <string name="This_player_is_a_bot">"Este jugador es un Bot"</string>
     <string name="This_player_is_not_signed_in">"Este jugador no está conectado"</string>
 
     <string name="Online">"En línea"</string>
@@ -129,7 +129,7 @@
     <string name="ERROR">"ERROR"</string>
     <string name="CONTINUE">"CONTINUAR"</string>
     <string name="Global_" formatted="false">"Global"</string>
-    <string name="FRIEND_CHAT">"CHAT DE AMIGO"</string>
+    <string name="FRIEND_CHAT">"CHAT DE AMIGOS"</string>
     <string name="LOBBY_NAME">"NOMBRE DE LA SALA"</string>
     <string name="NULL">"NULO"</string>
 
