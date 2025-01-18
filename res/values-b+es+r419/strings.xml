@@ -1360,7 +1360,7 @@ Comandos:
 !team [1-4] {id} - Solo en modos con equipos
 !winner - Ganador de una partida con tiempo
 !stats - Estadísticas de sesión
-!info - Informacion de la sala
+!info - Información de la sala
 </string>
     <string name="ID_Sort">Ordenar ID</string>
     <string name="Master_Tamer">Maestro Domador</string>
