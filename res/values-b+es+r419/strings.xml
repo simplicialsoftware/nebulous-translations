@@ -1352,7 +1352,7 @@ Comandos:
 !difficulty [0-3] o [1-4] para Campaña
 !hidden - Cambiar a sala oculta
 !slowchat - Cambiar a chat lento
-!pausechat - Pausar chat por un tiempo
+!pausechat - Pausar el chat por un tiempo
 !mute {id} - Silenciar a un jugador
 !admin {id} - Agregar un administrador de sala
 !allow {id} - Conceder permiso a un jugador
@@ -1360,7 +1360,7 @@ Comandos:
 !team [1-4] {id} - Solo en modos con equipos
 !winner - Ganador de una partida con tiempo
 !stats - Estadísticas de sesión
-!info - Informaciones de la sala
+!info - Informacion de la sala
 </string>
     <string name="ID_Sort">Ordenar ID</string>
     <string name="Master_Tamer">Maestro Domador</string>
@@ -1406,11 +1406,11 @@ Comandos:
     <string name="sign_in_explanation" translatable="true">
 "Regístrate para acceder al modo multijugador. Podrás:
 
-- Jugar y comunicarte con otros jugadores de todo el mundo
-- Compartir tu progreso con los demás
-- Crear y decorar tu perfil
-- Comprar plasma en la tienda
-- Subir skins creadas por usuarios
+- Jugar y comunicarte con otros jugadores de todo el mundo. 
+- Compartir tu progreso con los demás. 
+- Crear y decorar tu perfil. 
+- Comprar plasma en la tienda. 
+- Subir skins creadas por usuarios. 
 
 Si no deseas registrarte, aún puedes jugar en modo individual."
     </string>
