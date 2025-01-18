@@ -2,10 +2,10 @@
     <string name="Players">"Jugadores"</string>
     <string name="Control_">"Control:"</string>
     <string name="CLOSE">"CERRAR"</string>
-    <string name="Stick_Size_">"Tamaño pad:"</string>
-    <string name="Stick_Margin_">"Ubicación pad:"</string>
-    <string name="Button_Size_">"Tamaño botones:"</string>
-    <string name="Button_Margin_">"Margen botones:"</string>
+    <string name="Stick_Size_">"Tamaño del pad:"</string>
+    <string name="Stick_Margin_">"Ubicación del pad:"</string>
+    <string name="Button_Size_">"Tamaño de los botones:"</string>
+    <string name="Button_Margin_">"Margen de los botones:"</string>
     <string name="Buttons_">"Botones:"</string>
     <string name="DEFAULTS">"POR DEFECTO"</string>
     <string name="WEEKLY">"SEMANAL"</string>
@@ -129,7 +129,7 @@
     <string name="ERROR">"ERROR"</string>
     <string name="CONTINUE">"CONTINUAR"</string>
     <string name="Global_" formatted="false">"Global"</string>
-    <string name="FRIEND_CHAT">"CHAT DE AMIGO"</string>
+    <string name="FRIEND_CHAT">"CHAT DE AMIGOS"</string>
     <string name="LOBBY_NAME">"NOMBRE DE LA SALA"</string>
     <string name="NULL">"NULO"</string>
 
