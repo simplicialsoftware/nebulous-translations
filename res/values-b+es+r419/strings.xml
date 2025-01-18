@@ -1,7 +1,7 @@
 ﻿<resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="Players">"Jugadores"</string>
-    <string name="Control_">"Control:"</string>
-    <string name="CLOSE">"CERRAR"</string>
+    <string name="Players">Jugadores</string>
+    <string name="Control_">Control:</string>
+    <string name="CLOSE">CERRAR</string>
     <string name="Stick_Size_">"Tamaño pad:"</string>
     <string name="Stick_Margin_">"Ubicación pad:"</string>
     <string name="Button_Size_">"Tamaño botones:"</string>
@@ -12,7 +12,7 @@
     <string name="DAILY">"DIARIO"</string>
     <string name="Server_">"Servidor:"</string>
     <string name="Game_Mode_">"Modo de juego:"</string>
-    <string name="Show_Names">"Mostrar nombres"</string>
+    <string name="Show_Names">Mostrar nombres</string>
     <string name="Show_Avatars">"Mostrar skins"</string>
     <string name="PLAY">"JUGAR"</string>
     <string name="OPTIONS">"OPCIONES"</string>
