@@ -2,12 +2,12 @@
     <string name="Players">"اللاعبين."</string>
     <string name="Control_">"التحكم"</string>
     <string name="CLOSE">"إغلاق"</string>
-    <string name="Stick_Size_">"حجم موجه الدائرة:"</string>
-    <string name="Stick_Margin_">"إرتفاع موجه الدائرة:"</string>
+    <string name="Stick_Size_">"حجم موجة الدائرة:"</string>
+    <string name="Stick_Margin_">"ارتفاع موجة الدائرة:"</string>
     <string name="Button_Size_">"حجم الأزرار:"</string>
-    <string name="Button_Margin_">"إرتفاع الأزرار:"</string>
+    <string name="Button_Margin_">"ارتفاع الأزرار:"</string>
     <string name="Buttons_">"الأزرار:"</string>
-    <string name="DEFAULTS">"الإفتراضي"</string>
+    <string name="DEFAULTS">"الافتراضي"</string>
     <string name="WEEKLY">"الأسبوعي"</string>
     <string name="DAILY">"اليومي"</string>
     <string name="Server_">"السيرفر"</string>
