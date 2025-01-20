@@ -56,7 +56,7 @@
 
     <string name="SERVER">"SERVIDOR"</string>
     <string name="Joining_game_in_">"Entrando al juego "</string>
-    <string name="Game_Full">"Juego lleno"</string>
+    <string name="Game_Full">"Mapa lleno"</string>
     <string name="US_East">"Centroamérica"</string>
     <string name="US_West">"Norteamérica"</string>
     <string name="Europe">"Europa"</string>
@@ -68,8 +68,8 @@
     <string name="Difficulty_">"Dificultad:"</string>
     <string name="Delay_Disconnect">"Retraso en la desconexión"</string>
 
-    <string name="Max_Players">"Jugadores máximos"</string>
-    <string name="Min_Players">"Jugadores mínimos"</string>
+    <string name="Max_Players">"Máximo de jugadores"</string>
+    <string name="Min_Players">"Mínimo de jugadores"</string>
 
     <string name="OK">"VALE"</string>
     <string name="CANCEL">"CANCELAR"</string>
@@ -241,8 +241,8 @@
     <string name="Longest_Life_">"Vida más larga:"</string>
     <string name="Games_Won_">"Partidas ganadas:"</string>
 
-    <string name="You_must_wait_until_the_end_of_the_round_">"Debes esperar hasta el final de la ronda"</string>
-    <string name="Dont_show_again">"No mostrar de nuevo"</string>
+    <string name="You_must_wait_until_the_end_of_the_round_">"Espera a que la ronda termine"</string>
+    <string name="Dont_show_again">"No volver a mostrar"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Se encontró un respaldo en modo un jugador con más experiencia. ¿Deseas restaurarlo?"</string>
 
     <string name="Special_Effects">"Efectos especiales"</string>
@@ -254,7 +254,7 @@
     <string name="Game_Size_">"Tamaño del mapa:"</string>
 
     <string name="Server_Restart_">"Reiniciando servidor:"</string>
-    <string name="GOAL_">"¡GOL!"</string>
+    <string name="GOAL_">"¡GOOOOOL!"</string>
     <string name="SOCCER">"FÚTBOL"</string>
     <string name="DRAW">"EMPATE"</string>
 
@@ -263,8 +263,8 @@
 
 
     <string name="JOIN_CLAN">"UNIRSE AL CLAN"</string>
-    <string name="JOIN_RANDOM_CLAN">"UNIRSE A UN CLAN ALEATORIO"</string>
-    <string name="LEAVE_CLAN">"ABANDONAR EL CLAN"</string>
+    <string name="JOIN_RANDOM_CLAN">"UNIRSE A UN CLAN AL AZAR"</string>
+    <string name="LEAVE_CLAN">"SALIR DEL CLAN"</string>
     <string name="INVITE_MEMBER">"INVITAR MIEMBRO"</string>
     <string name="REMOVE_MEMBER">"EXPULSAR MIEMBRO"</string>
 
@@ -276,24 +276,24 @@
     <string name="ELDER">"VETERANO"</string>
 
 
-    <string name="Not_in_a_clan_">"Sin clan "</string>
+    <string name="Not_in_a_clan_">"No cuentas con ningun clan "</string>
 
 
     <string name="CLAN">"CLAN"</string>
 
 
     <string name="Specify_Clan_ID">"Especifica la ID del clan"</string>
-    <string name="Show_Clan_Names">"Mostrar clanes"</string>
+    <string name="Show_Clan_Names">"Mostrar los nombres de clanes"</string>
     <string name="Show_Levels">"Mostrar niveles"</string>
-    <string name="SET_MOTD">"ESTABLECER DESCRIPCIÓN"</string>
+    <string name="SET_MOTD">"COLOCAR DESCRIPCIÓN"</string>
     <string name="No_such_user_found_">"No se encontró dicho usuario "</string>
     <string name="No_open_public_clans_exist_">"No existen clanes públicos abiertos "</string>
     <string name="You_aren_t_invited_to_that_clan_">"No te han invitado a este clan "</string>
     <string name="No_such_clan_exists_">"El clan no existe "</string>
-    <string name="That_clan_is_full_">"El clan está lleno "</string>
+    <string name="That_clan_is_full_">"El clan está completo "</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Otro usuario no es un miembro de tu clan "</string>
     <string name="_You_can_t_be_your_own_friend_">"No puedes ser tu propio amigo "</string>
-    <string name="A_clan_with_that_name_already_exists_">"Ya existe un clan con ese nombre "</string>
+    <string name="A_clan_with_that_name_already_exists_">"Existe un clan con ese nombre "</string>
     <string name="Duration_">"Duración:"</string>
 
     <string name="FFA_Time_Domination">"Dominio en TCT Tiempo"</string>
@@ -303,7 +303,7 @@
     <string name="Survival_Domination">"Dominio en Supervivencia"</string>
     <string name="I_Will_Survive">"Sobreviviré"</string>
     <string name="Soccer_Domination">"Dominio en Fútbol"</string>
-    <string name="Soccer_Hat_Trick">"Triplete en Fútbol"</string>
+    <string name="Soccer_Hat_Trick">"Hat Trick en Fútbol!"</string>
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Gana por 2,500 puntos en TCT Tiempo"</string>
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Gana por 7,500 puntos en Equipos Tiempo"</string>
     <string name="Win_by_3_points_in_a_CTF_game_">"Gana por 3 puntos en CLB"</string>
@@ -313,7 +313,7 @@
     <string name="Win_by_8_points_in_a_Soccer_game_">"Gana por 8 goles en un partido de Fútbol"</string>
     <string name="Score_3_goals_in_a_single_Soccer_game_">"Marca 3 goles en un solo partido de Fútbol"</string>
     <string name="Total_Domination">"Dominio total"</string>
-    <string name="Win_500_games_of_any_type_">"Gana 500 juegos de cualquier tipo"</string>
+    <string name="Win_500_games_of_any_type_">"Gana 500 juegos de cualquier modo!"</string>
     <string name="Translations">"Traducciones"</string>
     <string name="Developers">"Desarrolladores"</string>
     <string name="Special_Thanks">"Agradecimientos especiales"</string>
@@ -361,7 +361,7 @@
 
     <string name="Score">"Puntuación"</string>
     <string name="Rating">"Clasificación"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"¡Estás a punto de dejar el liderazgo!"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"¡Estás a un paso de ceder el liderazgo!"</string>
     <string name="XP">"EXPERIENCIA"</string>
     <string name="High_Score">"Mejores puntuaciones"</string>
 
@@ -376,8 +376,8 @@
     <string name="W_D_L">"G-E-P"</string>
     <string name="MATCH_START">"COMIENZA PARTIDA"</string>
     <string name="Clan_Warrior">"Guerrero del Clan"</string>
-    <string name="Win_a_Clan_War">"Gana una guerra de clanes"</string>
-    <string name="Global">"Global"</string>
+    <string name="Win_a_Clan_War">"Gana una partida de guerra de clanes"</string>
+    <string name="Global">"Mundial"</string>
     <string name="Spectating">"Observando"</string>
 
 
@@ -417,13 +417,13 @@
     <string name="Error_in_backup_data_">"¡Error en la copia de seguridad!"</string>
 
 
-    <string name="Remove_Ads">"Quitar anuncios"</string>
+    <string name="Remove_Ads">"Quita-anuncios"</string>
     <string name="Reward">"Recompensa"</string>
-    <string name="Please_Wait___">"Por favor, espera…"</string>
+    <string name="Please_Wait___">"Espera un momento…"</string>
     <string name="Purchasing">"Comprando"</string>
 
     <string name="Purchase_Successful_">"¡Compra realizada con éxito!"</string>
-    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Puede que tengas que reconectarte para utilizar lo comprado"</string>
+    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Es posible que tengas que reconectarte para utilizar lo comprado"</string>
     <string name="Confirm_Purchase">"Confirmar compra"</string>
     <string name="x3_XP_24_hours">"EXP 3x 24 horas"</string>
     <string name="x3_XP_1_Hour">"EXP 3x 1 hora"</string>
