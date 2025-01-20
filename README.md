@@ -25,7 +25,9 @@ Open the `res` folder to see all of the supported languages. `res/values` contai
 - While you are analyzing a language file, avoid using web-translators provided by browsers like Chrome, Edge, Firefox, Opera, Safari etc. It may result in a conflict or confusion between the original value because of the bottom lines `_` and the translation. The GitHub website currently only supports English language.
 - **Do not** change the `res/values` (English file) without authorization or consent of the developer. You must ask for permission and tell why you want to make changes into the English file – PR's which concern English file updates cannot be granted with the Translator tag. You can report what's wrong with the English file using the [issues](https://github.com/simplicialsoftware/nebulous-translations/issues) tab and, preferably, provide screenshots of what you want to report.
 
-In case you still feel in need of an assistance, please open a ticket in category "Other" and a collaborator from this repository may assist you in all the steps.
+In case you still feel in need of an assistance, you can send a direct message on Discord to:
+- @critikangel
+- @theliluser
 
 ### Languages
 `res/values`: English<br>
