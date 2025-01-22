@@ -333,7 +333,7 @@
     <string name="Win_a_Teams_Time_Game">"Gana una partida de Equipos Tiempo"</string>
     <string name="Reach_a_score_of_">"Alcanza una puntuación de "</string>
     <string name="_in_a_FFA_Game">" en una partida de TCT"</string>
-    <string name="_in_a_Teams_Game">" en un partida de Equipos"</string>
+    <string name="_in_a_Teams_Game">" en una partida de Equipos"</string>
     <string name="_dots">" puntos"</string>
     <string name="_player_blobs">" blobs del jugador"</string>
     <string name="Absorb_">"Absorber "</string>
@@ -417,7 +417,7 @@
     <string name="Error_in_backup_data_">"¡Error en la copia de seguridad!"</string>
 
 
-    <string name="Remove_Ads">"Quitar anuncios"</string>
+    <string name="Remove_Ads">"Quitar Anuncios"</string>
     <string name="Reward">"Recompensa"</string>
     <string name="Please_Wait___">"Por favor, espera…"</string>
     <string name="Purchasing">"Comprando"</string>
@@ -434,7 +434,7 @@
 
 
     <string name="Loading_Purchases___">"Cargando compras…"</string>
-    <string name="In_App_Purchases">"Compras en la aplicación"</string>
+    <string name="In_App_Purchases">"Compras en la Aplicación"</string>
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"No se puede aplicar otro acelerador de EXP hasta que el acelerador actual termine."</string>
     <string name="This_purchase_has_already_been_redeemed_">"Esta compra ya ha sido canjeada."</string>
 
@@ -446,7 +446,7 @@
     <string name="Seasonal">"Estacional"</string>
 
 
-    <string name="Temporarily_Disabled_">"Desactivado temporalmente "</string>
+    <string name="Temporarily_Disabled_">"Desactivado Temporalmente "</string>
     <string name="BIGGEST">"EL MÁS GRANDE"</string>
 
 
@@ -505,7 +505,7 @@
     <string name="Clan_Wars_Won_">"Guerras de Clanes ganadas:"</string>
     <string name="Arenas_Won_">"Arenas ganadas:"</string>
     <string name="Arena_Mode">"Modo Arena"</string>
-    <string name="Connection_Lost">"Conexión perdida"</string>
+    <string name="Connection_Lost">"Conexión Perdida"</string>
 
     <string name="Present_Hoarder">"Acaparador de regalos"</string>
     <string name="Present_Mogul">"Magnate de regalos"</string>
@@ -523,7 +523,7 @@
 
     <string name="SET_PERMISSIONS">"ESTABLECER PERMISOS"</string>
     <string name="Start_Clan_War">"Empezar Guerra de Clanes</string>
-    <string name="Min_Level">"Nivel mínimo"</string>
+    <string name="Min_Level">"Nivel Mínimo"</string>
     <string name="SAVE">"GUARDAR"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Este jugador no cumple con el requisito mínimo de nvel para unirse a este clan:"</string>
     <string name="Insufficient_Permission">"Permiso insuficiente"</string>
@@ -537,8 +537,8 @@
     <string name="MANAGE_TEAMS">"GESTIONAR EQUIPOS"</string>
     <string name="CLAN_INVITE">"INVITAR AL CLAN"</string>
     <string name="TEAM_INVITE">"INVITAR AL EQUIPO"</string>
-    <string name="Team_Name">"Nombre del equipo"</string>
-    <string name="Team_Size">"Tamaño del equipo"</string>
+    <string name="Team_Name">"Nombre del Equipo"</string>
+    <string name="Team_Size">"Tamaño del Equipo"</string>
     <string name="CREATE_TEAM">"CREAR EQUIPO"</string>
     <string name="Solo">"Solo"</string>
     <string name="Teams">"Equipos"</string>
@@ -562,11 +562,11 @@
     <string name="Remove_Player">"Eliminar jugador"</string>
     <string name="Reject_Invitation">"Rechazar invitacion"</string>
     <string name="Leave_Game">"Abandonar el juego"</string>
-    <string name="Remove_Friend">"Eliminar amigo"</string>
+    <string name="Remove_Friend">"Eliminar Amigo"</string>
     <string name="Remove_Clan_Member">"Expulsar miembro del clan"</string>
     <string name="Flag_lobby_as_inappropriate">"Marcar sala como inadecuada"</string>
     <string name="Promote_Clan_Member">"Ascender miembro"</string>
-    <string name="Leave_Clan">"Dejar el clan"</string>
+    <string name="Leave_Clan">"Dejar el Clan"</string>
     <string name="Candy_Hoarder">"Acaparador de caramelos"</string>
     <string name="Candy_Collector">"Coleccionista de caramelos"</string>
     <string name="Candy_Mogul">"Magnate de caramelos"</string>
@@ -596,7 +596,7 @@
     <string name="PRIZES">"PREMIOS"</string>
 
     <string name="Enable_Custom_Skin">"Habilitar skin personalizada"</string>
-    <string name="Use_Custom_Skin">"Skin\npersonalizada"</string>
+    <string name="Use_Custom_Skin">"Usar Skin personalizada"</string>
     <string name="custom_skin_description">"Esta característica te permite utilizar la imagen que quieras como su skin. Esto sólo cambiará la skin que ves. Otras personas no verán tu aspecto personalizado."</string>
     <string name="CUSTOM_SKIN">"SKIN PERSONALIZADA"</string>
 
@@ -606,7 +606,7 @@
     <string name="copied_error_details_to_clipboard">"detalles del error copiados al portapapeles"</string>
 
     <string name="No_file_browser_installed_">"¡No hay ningún explorador de archivos instalado!"</string>
-    <string name="Choose_File">"Elegir archivo"</string>
+    <string name="Choose_File">"Elegir Archivo"</string>
     <string name="Google_Profile">"Perfil de Google"</string>
     <string name="You_must_be_signed_in_to_Google_">"Debes iniciar sesión en Google "</string>
 
@@ -638,7 +638,7 @@
     <string name="Request_Timed_Out">"Tiempo de espera agotado"</string>
     <string name="You_Are_Spectating_">"Estás observando"</string>
     <string name="Account_In_Use_">"La cuenta está en uso"</string>
-    <string name="Cannot_Join_Arena_">"No te puedes unir a la arena "</string>
+    <string name="Cannot_Join_Arena_">"No te puedes unir a la Arena "</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"¡Si sales te desconectarás de la partida actual!"</string>
     <string name="raindrops_">"gotas de lluvia "</string>
     <string name="Raindrop_Collector">"Coleccionista de gotas de lluvia"</string>
@@ -654,7 +654,7 @@
     <string name="_1v1_Challenge_">" ¡Reto 1vs1! "</string>
     <string name="__has_challenged_you_to_a_1v1_match_">"%s te ha retado a un 1vs1!"</string>
     <string name="Challenge_Expired">"Reto fuera de plazo"</string>
-    <string name="Enable_Challenges">"Habilitar retos"</string>
+    <string name="Enable_Challenges">"Habilitar Retos"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"Espera a que el reto actual termine"</string>
     <string name="CHALLENGE_OPTIONS">"OPCIONES DE RETO"</string>
     <string name="Accept">"Aceptar"</string>
@@ -669,7 +669,7 @@
     <string name="Collect_10_000_nebulas_">"Recoge 10,000 nebulosas."</string>
     <string name="nebulas_">"nebulosas "</string>
     <string name="Incompatible_versions_">"Versiones incompatibles "</string>
-    <string name="Update_Available_">"¡Actualización disponible!"</string>
+    <string name="Update_Available_">"¡Actualización Disponible!"</string>
     <string name="VIEW_INVITES">"VER INVITACIONES"</string>
     <string name="CLAN_INVITES">"INVITACIONES A CLANES"</string>
     <string name="Cancel_Invitation">"Cancelar la invitación"</string>
@@ -682,8 +682,8 @@
     <string name="Collect_1_000_suns_">"Recoge 1,000 soles."</string>
     <string name="Collect_5_000_suns_">"Recoge 5,000 soles."</string>
     <string name="Collect_10_000_suns_">"Recoge 10,000 soles."</string>
-    <string name="Reward_Videos_">"¡Vídeos de recompensa!"</string>
-    <string name="Free_Plasma_">"¡Plasma gratis!"</string>
+    <string name="Reward_Videos_">"¡Vídeos de Recompensa!"</string>
+    <string name="Free_Plasma_">"¡Plasma Gratis!"</string>
     <string name="moons_">"lunas "</string>
     <string name="Moon_Collector">"Coleccionista de Lunas"</string>
     <string name="Moon_Hoarder">"Atesorador de Lunas"</string>
