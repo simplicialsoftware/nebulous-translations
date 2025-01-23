@@ -596,7 +596,7 @@
     <string name="PRIZES">"PREMIOS"</string>
 
     <string name="Enable_Custom_Skin">"Habilitar skin personalizada"</string>
-    <string name="Use_Custom_Skin">"Usar Skin personalizada"</string>
+    <string name="Use_Custom_Skin">"Usar Skin\nPersonalizada"</string>
     <string name="custom_skin_description">"Esta característica te permite utilizar la imagen que quieras como su skin. Esto sólo cambiará la skin que ves. Otras personas no verán tu aspecto personalizado."</string>
     <string name="CUSTOM_SKIN">"SKIN PERSONALIZADA"</string>
 
