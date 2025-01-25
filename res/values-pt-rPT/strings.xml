@@ -495,17 +495,17 @@
     <string name="_2v2">"2x2"</string>
 
 
-    <string name="Standard">"Padrão"</string>
-    <string name="Achievement">"Conquista"</string>
-    <string name="Flag">"Bandeira"</string>
-    <string name="Win_10_Clan_Wars">"Vencer 10 Guerras de Clãs"</string>
-    <string name="Win_100_Clan_Wars">"Vencer 100 Guerras de Clãs"</string>
+    <string name="Standard">"Padrão."</string>
+    <string name="Achievement">"Conquista."</string>
+    <string name="Flag">"Bandeira."</string>
+    <string name="Win_10_Clan_Wars">"Vencer 10 Guerras de Clãs."</string>
+    <string name="Win_100_Clan_Wars">"Vencer 100 Guerras de Clãs."</string>
     <string name="Clan_Commander">"Comandante do Clã"</string>
-    <string name="Clan_General">"General do Clã"</string>
-    <string name="Clan_Wars_Won_">"Guerras de Clãs vencidas:"</string>
-    <string name="Arenas_Won_">"Arenas vencidas:"</string>
-    <string name="Arena_Mode">"Modo Arena"</string>
-    <string name="Connection_Lost">"Conexão perdida"</string>
+    <string name="Clan_General">"General do Clã."</string>
+    <string name="Clan_Wars_Won_">"Guerras de Clãs vencidas.:"</string>
+    <string name="Arenas_Won_">"Arenas vencidas.:"</string>
+    <string name="Arena_Mode">"Modo Arena."</string>
+    <string name="Connection_Lost">"Conexão perdida."</string>
 
     <string name="Present_Hoarder">"Acumulador de Presentes"</string>
     <string name="Present_Mogul">"Magnata de Presentes"</string>
@@ -622,7 +622,7 @@
     <string name="CLAN_HISTORY">"HISTÓRICO DO CLÃ"</string>
 
 
-    <string name="Love_Nebulous_">"Gosta do Nebulous?"</string>
+    <string name="Love_Nebulous_">"Ama o Nebulous?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoie o Nebulous classificando-o."</string>
     <string name="MAYHEM_MODE">"MODO MAYHEM"</string>
     <string name="Times_Teleported_">"Vezes teletransportado:"</string>
@@ -654,7 +654,7 @@
     <string name="__has_challenged_you_to_a_1v1_match_">"%s desafiou-o para uma partida 1x1!"</string>
     <string name="Challenge_Expired">"Desafio expirado"</string>
     <string name="Enable_Challenges">"Ativar Desafios"</string>
-    <string name="Wait_for_the_current_challenge_to_expire_">"Aguarde até que o desafio actual expire."</string>
+    <string name="Wait_for_the_current_challenge_to_expire_">"Aguarde até que o desafio atual expire."</string>
     <string name="CHALLENGE_OPTIONS">"OPÇÕES DE DESAFIO"</string>
     <string name="Accept">"Aceitar"</string>
     <string name="Decline">"Recusar"</string>
@@ -782,7 +782,7 @@
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Nota: Podes desbloquear alguém enviando-lhe um Pedido de Amizade."</string>
     <string name="Select_Friend">"Escolha um amigo"</string>
     <string name="Failed_to_send_mail_">"Falha ao enviar e-mail."</string>
-    <string name="In_Game_Mail">"Mail no Jogo"</string>
+    <string name="In_Game_E-mail">"E-mail no Jogo"</string>
     <string name="Nav_Buttons_">"Botões de Nav.:"</string>
     <string name="account_warning">"Nunca compartilhes a tua palavra-passe da conta ou informações pessoais com ninguém por qualquer motivo!"</string>
     <string name="Clan_Hero">"Herói do Clã"</string>
@@ -804,20 +804,20 @@
     <string name="Enter_a_Tournament">"Entrar em um Torneio"</string>
     <string name="Win_a_Tournament">"Vencer um torneio"</string>
     <string name="Tournament_Competing">"Torneio a decorrer"</string>
-    <string name="Tournament_Registered">"Registado no tourneio"</string>
+    <string name="Tournament_Registered">"Registrado no tourneio"</string>
     <string name="Tournament">"Torneio"</string>
-    <string name="TourneyDescription">"É necessário registar-se para participar no torneio. Ser-lhe-á cobrado plasma aquando do início do torneio, mas podes cancelar o registro antes de começar. O torneio começa quando há, pelo menos, %d competidores."</string>
-    <string name="Register">"Registar"</string>
+    <string name="TourneyDescription">"É necessário registrar-se para participar no torneio. Ser-lhe-á cobrado plasma aquando do início do torneio, mas podes cancelar o registro antes de começar. O torneio começa quando há, pelo menos, %d competidores."</string>
+    <string name="Register">"Registrar"</string>
 
-    <string name="Registered">"Registado"</string>
-    <string name="Not_Registered">"Não registado"</string>
+    <string name="Registered">"Registrado"</string>
+    <string name="Not_Registered">"Não registrado"</string>
     <string name="Prize_Pool">"Prémio"</string>
-    <string name="Registrants">"Registados"</string>
+    <string name="Registrants">"Registrados"</string>
     <string name="Round_Of">"Ronda De"</string>
     <string name="Next_Tournament">"Próximo Torneio"</string>
     <string name="Plasma_Won">"Plasma Ganho"</string>
     <string name="Semi_Finals">"Semi-Finais"</string>
-    <string name="Quarter_Finals">"Quartos de Final"</string>
+    <string name="Quarter_Finals">"Quartas de Final"</string>
     <string name="Competing">"A Competir"</string>
     <string name="Finals">"Finais"</string>
     <string name="Unregister">"Cancelar registo"</string>
@@ -894,7 +894,7 @@
     <string name="ROOM">SALA</string>
     <string name="EXPERIMENTAL">EXPERIMENTAL</string>
     <string name="members">Membros</string>
-    <string name="Delete_ALL_Messages_">Eliminar TODAS Mensagens!</string>
+    <string name="Delete_ALL_Messages_">Eliminar TODAS as Mensagens!</string>
     <string name="SAVE_PROFILE">GUARDAR PERFIL</string>
     <string name="Move">Mover</string>
     <string name="New_Position">Nova Posição</string>
