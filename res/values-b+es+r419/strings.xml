@@ -108,7 +108,7 @@
 
 
     <string name="FRIENDS">"AMIGOS"</string>
-    <string name="WARNING">"ADVERTENCIA"</string>
+    <string name="Warning">"Advertencia"</string>
     <string name="SIGNING_IN">"INICIANDO SESIÓN…"</string>
     <string name="New_Friend_Request">"¡Nueva solicitud de amistad!"</string>
     <string name="REQUEST_FRIEND">"SOLICITUD DE AMISTAD"</string>
@@ -342,11 +342,11 @@
     <string name="FFA_CLASSIC">"TCT CLÁSICO"</string>
 
 
-    <string name="Pumpkins_">"Calabazas "</string>
+    <string name="pumpkins_">"calabazas "</string>
     <string name="To_use_this_skin_you_must_collect">"Para utilizar esta skin tienes que recoger"</string>
     <string name="Australia">"Australia"</string>
     <string name="Pumpkin_Collector">"Coleccionista de Calabazas"</string>
-    <string name="Collect_1000_Pumpkins_">"Recoge 1,000 calabazas."</string>
+    <string name="Collect_1000_pumpkins_">"Recoge 1,000 calabazas."</string>
 
     <string name="FFAC">"TCTC"</string>
     <string name="NONE">"NINGUNO"</string>
@@ -381,8 +381,8 @@
     <string name="Spectating">"Observando"</string>
 
 
-    <string name="Snowflakes_">"Copos de nieve "</string>
-    <string name="Presents_">"Regalos "</string>
+    <string name="snowflakes_">"copos de nieve "</string>
+    <string name="presents_">"regalos "</string>
     <string name="Snowflake_Collector">"Coleccionista de Copos de nieve"</string>
     <string name="Present_Collector">"Coleccionista de Regalos"</string>
 
@@ -391,7 +391,7 @@
     <string name="The_next_season_begins">"La próxima temporada comienza:"</string>
 
     <string name="Current">"Actual"</string>
-    <string name="Leaves_">"Hojas "</string>
+    <string name="leaves_">"hojas "</string>
     <string name="Leaf_Collector">"Coleccionista de Hojas"</string>
     <string name="Collect_1000_leaves_">"Recoge 1,000 hojas."</string>
     <string name="XP_Boost">"Acelerar EXP"</string>
@@ -482,7 +482,7 @@
     <string name="Win_1000_Arenas">"Gana 1,000 Arenas."</string>
 
 
-    <string name="Already_in_Arena_">"En la Arena "</string>
+    <string name="Already_in_arena_">"En la Arena "</string>
     <string name="Already_in_queue_">"En la cola "</string>
     <string name="Invalid_Account_ID_">"ID de cuenta inválida "</string>
 
