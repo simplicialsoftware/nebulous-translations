@@ -1238,7 +1238,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="Video_failed_to_load_">¡El video no se pudo cargar!</string>
     <string name="Video_Ready_">¡Video Listo!</string>
     <string name="GIVE_PLASMA">REGALAR PLASMA</string>
-    <string name="Specify_amount_">Especificar c                                                                          antidad:</string>
+    <string name="Specify_amount_">Especificar cantidad:</string>
     <string name="Specify_amount_again_to_confirm_">Especifique la cantidad de nuevo para confirmar:</string>
     <string name="Amounts_did_not_match_">¡Las cantidades no coinciden!</string>
     <string name="RECEIVE_PLASMA">RECIBIR PLASMA</string>
