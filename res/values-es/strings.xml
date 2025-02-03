@@ -309,7 +309,7 @@
     <string name="Win_by_3_points_in_a_CTF_game_">"Gana por 3 puntos en CLB."</string>
     <string name="Score_3_points_in_a_single_CTF_game_">"Marca 3 puntos en una sola partida de CLB."</string>
     <string name="Win_by_2_500_points_in_a_Survival_game_">"Gana con 2.500 puntos en Supervivencia."</string>
-    <string name="Survive_but_do_not_win_a_survival_game_">"Sobrevive en Supervivencia in ganar."</string>
+    <string name="Survive_but_do_not_win_a_survival_game_">"Sobrevive en Supervivencia sin ganar."</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"Gana por 8 goles en un partido de Fútbol."</string>
     <string name="Score_3_goals_in_a_single_Soccer_game_">"Marca 3 goles en un solo partido de Fútbol."</string>
     <string name="Total_Domination">"Dominación total"</string>
@@ -530,7 +530,7 @@
     <string name="DOMINATION">"DOMINACIÓN"</string>
     <string name="DOM_Domination">"Domina en Dominación"</string>
     <string name="DOM_Hat_Trick">"Triplete en Dominación"</string>
-    <string name="Win_by_50_points_in_a_DOM_game_">Gana por 50 puntos en una partida de Dominación."</string>
+    <string name="Win_by_50_points_in_a_DOM_game_">"Gana por 50 puntos en una partida de Dominación."</string>
     <string name="Score_33_points_in_a_single_DOM_game_">"Consigue 33 puntos en una sola partida de Dominación."</string>
     <string name="Win_a_Domination_Game">"Gana una partida de Dominación"</string>
     <string name="Select_Team">"Seleccionar Equipo"</string>
@@ -703,7 +703,7 @@
     <string name="banned_until">"Baneado hasta"</string>
     <string name="Note_Collector">"Coleccionista de Notas"</string>
     <string name="Note_Hoarder">"Acaparador de Notas"</string>
-    <string name="Note_Mogul">Magnate de Notas"</string>
+    <string name="Note_Mogul">"Magnate de Notas"</string>
     <string name="Collect_1_000_notes_">"Recoge 1.000 notas."</string>
     <string name="Collect_5_000_notes_">"Recoge 5.000 notas."</string>
     <string name="Collect_10_000_notes_">"Recoge 10.000 notas."</string>
