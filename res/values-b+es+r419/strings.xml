@@ -526,7 +526,7 @@
     <string name="Min_Level">"Nivel mínimo"</string>
     <string name="SAVE">"GUARDAR"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Este jugador no cumple con el requisito mínimo de nvel para unirse a este clan:"</string>
-    <string name="Insufficient_Permission">"Permiso insuficiente"</string>
+    <string name="Insufficient_Permission">"Permiso Insuficiente"</string>
     <string name="DOMINATION">"DOMINACIÓN"</string>
     <string name="DOM_Domination">"Dominar en Dominación"</string>
     <string name="DOM_Hat_Trick">"Triplete en Dominación"</string>
@@ -638,7 +638,7 @@
     <string name="Request_Timed_Out">"Tiempo de espera agotado"</string>
     <string name="You_Are_Spectating_">"Estás observando"</string>
     <string name="Account_In_Use_">"La cuenta está en uso"</string>
-    <string name="Cannot_Join_Arena_">"No te puedes unir a la arena "</string>
+    <string name="Cannot_Join_Arena_">"No te puedes unir a la Arena "</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"¡Si sales te desconectarás de la partida actual!"</string>
     <string name="raindrops_">"gotas de lluvia "</string>
     <string name="Raindrop_Collector">"Coleccionista de gotas de lluvia"</string>
@@ -682,8 +682,8 @@
     <string name="Collect_1_000_suns_">"Recoge 1,000 soles."</string>
     <string name="Collect_5_000_suns_">"Recoge 5,000 soles."</string>
     <string name="Collect_10_000_suns_">"Recoge 10,000 soles."</string>
-    <string name="Reward_Videos_">"¡Vídeos de recompensa!"</string>
-    <string name="Free_Plasma_">"¡Plasma gratis!"</string>
+    <string name="Reward_Videos_">"¡Vídeos de Recompensa!"</string>
+    <string name="Free_Plasma_">"¡Plasma Gratis!"</string>
     <string name="moons_">"lunas "</string>
     <string name="Moon_Collector">"Coleccionista de Lunas"</string>
     <string name="Moon_Hoarder">"Atesorador de Lunas"</string>
@@ -717,7 +717,7 @@
     <string name="Collect_10000_leaves_">"Recoge 10,000 hojas."</string>
     <string name="Eject">"Expulsar"</string>
     <string name="Eject_Skin">"Skin de masa expulsada"</string>
-    <string name="Double_Plasma__">"¡¡Doble plasma!!"</string>
+    <string name="Double_Plasma__">"¡¡Doble Plasma!!"</string>
     <string name="Ends">"Acaba"</string>
     <string name="Select_Clan_Member">"Seleccionar miembros del clan"</string>
     <string name="Inappropriate_Skin">"Skin inapropiada"</string>
@@ -730,7 +730,7 @@
     <string name="Upload">"Subir"</string>
     <string name="upload_warning">"¿Estás seguro de que deseas subir esta skin? Otros jugadores serán capaces de ver esa skin. Puede tardar hasta 1 semana en ser revisada. ¡Las skins inapropiadas serán rechazadas y el plasma no será devuelto!"</string>
 
-    <string name="In_Review">"En revisión"</string>
+    <string name="In_Review">"En Revisión"</string>
     <string name="Account_Uploads">"Skins de la Cuenta"</string>
     <string name="Clan_Uploads">"Skins del Clan"</string>
     <string name="Empty">"Vacío"</string>
@@ -742,7 +742,7 @@
     <string name="Specify_Contribution_Amount">"Especificar cantidad de la contribución"</string>
     <string name="Clan_Contribution">"Contribución del clan"</string>
     <string name="FILTER">"FILTRAR"</string>
-    <string name="List_Count_">"Lista de recuento:"</string>
+    <string name="List_Count_">"Lista de Recuento:"</string>
     <string name="Download_Skins">"Descargar skins"</string>
     <string name="ARENA_HISTORY">"HISTORIAL DE ARENA"</string>
     <string name="WIN">"GANADA"</string>
@@ -811,14 +811,14 @@
     <string name="Register">Registrar</string>
 
     <string name="Registered">Registrado</string>
-    <string name="Not_Registered">No registrado</string>
-    <string name="Prize_Pool">Premio total:</string>
+    <string name="Not_Registered">No Registrado</string>
+    <string name="Prize_Pool">Premio Total:</string>
     <string name="Registrants">Registrados:</string>
     <string name="Round_Of">Ronda de</string>
     <string name="Next_Tournament">El siguiente torneo</string>
-    <string name="Plasma_Won">Plasma ganado</string>
+    <string name="Plasma_Won">Plasma Ganado</string>
     <string name="Semi_Finals">Semifinales</string>
-    <string name="Quarter_Finals">Cuartos de final</string>
+    <string name="Quarter_Finals">Cuartos de Final</string>
     <string name="Competing">Compitiendo</string>
     <string name="Finals">Final</string>
     <string name="Unregister">Cancelar registro</string>
@@ -1366,7 +1366,7 @@ Comandos:
     <string name="Master_Tamer">Maestro Domador</string>
     <string name="Get_ALL_Pets_To_Level_100_">Sube TODAS las mascotas a nivel 100</string>
     <string name="TAMER">DOMADOR</string>
-    <string name="Allow_Recombine">Permitir recombinar</string>
+    <string name="Allow_Recombine">Permitir Recombinar</string>
     <string name="Defenders">Defensores</string>
     <string name="Attackers">Atacantes</string>
     <string name="MEGA_SPLIT">MEGA SEPARACION 64x</string>
