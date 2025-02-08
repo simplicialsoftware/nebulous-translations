@@ -217,7 +217,7 @@
     <string name="In_Game_Chat">"Tampilkan Obrolan Permainan"</string>
     <string name="My_Status_">"Status Saya:"</string>
     <string name="Game_Size_">"Ukuran Permainan:"</string>
-    <string name="Server_Restart_">"Server_Mulai_Ulang_:"</string>
+    <string name="Server_Restart_">"Mulai Ulang Server:"</string>
     <string name="GOAL_">"GOL!"</string>
     <string name="SOCCER">"SEPAK BOLA"</string>
     <string name="DRAW">"SERI"</string>
@@ -285,7 +285,7 @@
     <string name="Color_Blind">"Buta Warna"</string>
     <string name="Daily_Quest_Complete_">"Misi Harian Berhasil!"</string>
     <string name="COPY_ID">"SALIN ID"</string>
-    <string name="My_Account_ID">"Akun Saya"</string>
+    <string name="My_Account_ID">"ID Akun Saya"</string>
 
 
     <string name="COMPLETE">"LENGKAP"</string>
@@ -365,9 +365,9 @@
     <string name="Enter_the_Arena">"Masukkan Arena"</string>
     <string name="Purchase_History">"Riwayat Pembelian"</string>
     <string name="Purchases_Unavailable_">"Pembelian Tidak Tersedia!"</string>
-    <string name="You_can_purchase_this_skin_for">"Anda dapat membeli kulit ini untuk"</string>
+    <string name="You_can_purchase_this_skin_for">"Anda dapat membeli skin ini untuk"</string>
     <string name="PURCHASE">"Membeli"</string>
-    <string name="Error_in_backup_data_">"Ralat dalam backup data!"</string>
+    <string name="Error_in_backup_data_">"Kesalahan dalam data cadangan!"</string>
     <string name="Remove_Ads">"Hapus iklan"</string>
     <string name="Reward">"Penghargaan"</string>
     <string name="Please_Wait___">"Mohon Tunggu…"</string>
@@ -386,7 +386,7 @@
 
     <string name="Loading_Purchases___">"Memuat Pembelian …"</string>
     <string name="In_App_Purchases">"Pembelian Di Aplikasi"</string>
-    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Tidak dapat menerapkan dorongan XP baru sampai dorongan saat ini berakhir."</string>
+    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Tidak dapat menerapkan peningkatan XP baru sampai peningkatan saat ini berakhir."</string>
     <string name="This_purchase_has_already_been_redeemed_">"Pembelian ini telah ditukarkan."</string>
     <string name="You_cannot_remove_yourself__Leave_clan_instead_">"Anda tidak dapat menghapus diri sendiri. Tinggalkan klan sebagai gantinya."</string>
     <string name="until">"sampai"</string>
@@ -490,7 +490,7 @@
     <string name="Leave_Team">"Tinggalkan Tim"</string>
     <string name="Remove_Player">"Hapus Pemain"</string>
     <string name="Reject_Invitation">"Tolak Undangan"</string>
-    <string name="Leave_Game">"Tinggalkan Pertandingan"</string>
+    <string name="Leave_Game">"Tinggalkan Permainan"</string>
     <string name="Remove_Friend">"Hapus Teman"</string>
     <string name="Remove_Clan_Member">"Hapus Anggota Klan"</string>
     <string name="Flag_lobby_as_inappropriate">"Sembunyikan Lobi sebagai tidak pantas"</string>
@@ -559,7 +559,7 @@
     <string name="You_Are_Spectating_">"Anda sedang Menonton."</string>
     <string name="Account_In_Use_">"Akun Digunakan!"</string>
     <string name="Cannot_Join_Arena_">"Tidak bisa gabung Arena."</string>
-    <string name="Signing_out_will_disconnect_you_from_the_current_game">"Meng-Logout akan putus koneksi Anda dari permainan saat!"</string>
+    <string name="Signing_out_will_disconnect_you_from_the_current_game">"Meng-Logout akan memutuskan Anda dari permainan yang sedang berlangsung!"</string>
     <string name="raindrops_">"Rintik Hujan."</string>
     <string name="Raindrop_Collector">"Kolektor Rintik Hujan"</string>
     <string name="Raindrop_Hoarder">"Penimbun Rintik Hujan"</string>
@@ -621,13 +621,13 @@
     <string name="none">"TIDAK ADA"</string>
     <string name="INVALID_TOKEN">"TOKEN TIDAK VALID!"</string>
     <string name="banned_until">"Dilarang sampai "</string>
-    <string name="Note_Collector">"Kolektor Not"</string>
-    <string name="Note_Hoarder">"Penimbunan Not"</string>
-    <string name="Note_Mogul">"Mogul Not"</string>
-    <string name="Collect_1_000_notes_">"Mengumpulkan 1.000 Not."</string>
-    <string name="Collect_5_000_notes_">"Mengumpulkan 5.000 Not."</string>
-    <string name="Collect_10_000_notes_">"Mengumpulkan 10.000 Not."</string>
-    <string name="notes_">"Not."</string>
+    <string name="Note_Collector">"Kolektor Catatan"</string>
+    <string name="Note_Hoarder">"Penimbunan Catatan"</string>
+    <string name="Note_Mogul">"Mogul Catatan"</string>
+    <string name="Collect_1_000_notes_">"Mengumpulkan 1.000 Catatan."</string>
+    <string name="Collect_5_000_notes_">"Mengumpulkan 5.000 Catatan."</string>
+    <string name="Collect_10_000_notes_">"Mengumpulkan 10.000 Catatan."</string>
+    <string name="notes_">"Catatan."</string>
     <string name="CLICK_CHEAT_DETECTED_">"KLIK KECURANGAN TERDETEKSI!"</string>
     <string name="Pumpkin_Hoarder">"Penimbun Labu"</string>
     <string name="Pumpkin_Mogul">"Mogul Labu"</string>
@@ -731,7 +731,7 @@
     <string name="Registrants">"Pendaftar"</string>
     <string name="Round_Of">"Babak"</string>
     <string name="Next_Tournament">"Berikutnya Turnamen"</string>
-    <string name="Plasma_Won">"Plasma Won"</string>
+    <string name="Plasma_Won">"Menang Plasma"</string>
     <string name="Semi_Finals">"Semi-Final"</string>
     <string name="Quarter_Finals">"Perempat Final"</string>
     <string name="Competing">"Bersaing"</string>
