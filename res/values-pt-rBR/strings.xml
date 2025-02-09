@@ -602,7 +602,7 @@
 
     <string name="Facebook_Profile">"Perfil do Facebook"</string>
     <string name="You_must_be_signed_in_to_Facebook_">"Você precisa estar conectado ao Facebook."</string>
-    <string name="copy_details">"Copiar detalhes"</string>
+    <string name="copy_details">"Copiar Detalhes"</string>
     <string name="copied_error_details_to_clipboard">"Detalhes do erro copiado para área de transferência"</string>
 
     <string name="No_file_browser_installed_">"Nenhum gerenciador de arquivos instalado!"</string>
