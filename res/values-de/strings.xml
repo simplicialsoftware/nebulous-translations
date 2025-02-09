@@ -799,7 +799,7 @@
     <string name="Pandemic">Pandemie</string>
     <string name="Immunity">Immunität</string>
     <string name="Win_as_zombies_in_2_minutes_or_less_">Gewinne in 2 Minuten oder weniger als Zombie.</string>
-    <string name="Win_as_survivors_with_no_losses_">Gewinne als Überlebender ohne zu verlieren.</string>
+    <string name="Win_as_survivors_with_no_losses_">Gewinne als Überlebender ohne Verluste.</string>
     <string name="ZOMBIE_">ZOMBIE!</string>
     <string name="SURVIVOR_">Überlebender!</string>
     <string name="Zombies">Zombies</string>
