@@ -97,8 +97,8 @@
     <string name="XP_">"XP:"</string>
 
     <string name="Information">"Informação"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para usar esta skin, você deve liberar a conquista"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Para usar esta skin, você deve atingir o nível"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para utilizar esta skin, você deve liberar a conquista"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Para utilizar esta skin, você deve atingir o nível"</string>
     <string name="SIGN_IN">"ENTRAR"</string>
 
     <string name="Single_Player_Stats">"Estatísticas de Único Jogador"</string>
@@ -186,14 +186,14 @@
     <string name="Revenge">"Vingança"</string>
     <string name="Doge_Pound">"Libra dos Doges"</string>
 
-    <string name="Absorb_50_dots">"Absorva 50 pontos"</string>
-    <string name="Absorb_300_dots">"Absorva 300 pontos"</string>
-    <string name="Absorb_1_000_dots">"Absorva 1.000 pontos"</string>
-    <string name="Absorb_5_000_dots">"Absorva 5.000 pontos"</string>
-    <string name="Absorb_10_000_dots">"Absorva 10.000 pontos"</string>
-    <string name="Absorb_50_000_dots">"Absorva 50.000 pontos"</string>
-    <string name="Absorb_100_000_dots">"Absorva 100.000 pontos"</string>
-    <string name="Absorb_1_000_000_dots">"Absorva 1.000.000 pontos"</string>
+    <string name="Absorb_50_dots">"Colete 50 pontos"</string>
+    <string name="Absorb_300_dots">"Colete 300 pontos"</string>
+    <string name="Absorb_1_000_dots">"Colete 1.000 pontos"</string>
+    <string name="Absorb_5_000_dots">"Colete 5.000 pontos"</string>
+    <string name="Absorb_10_000_dots">"Colete 10.000 pontos"</string>
+    <string name="Absorb_50_000_dots">"Colete 50.000 pontos"</string>
+    <string name="Absorb_100_000_dots">"Colete 100.000 pontos"</string>
+    <string name="Absorb_1_000_000_dots">"Colete 1.000.000 pontos"</string>
 
     <string name="Absorb_4_blobs_quickly">"Absorva 4 blobs rapidamente"</string>
     <string name="Absorb_8_blobs_quickly">"Absorva 8 blobs rapidamente"</string>
@@ -249,7 +249,7 @@
     <string name="Blob_Mushiness">"Blob Amolecido"</string>
 
     <string name="Specify_private_game_name">"Especifique o nome do jogo privado"</string>
-    <string name="In_Game_Chat">"Chat no Jogo"</string>
+    <string name="In_Game_Chat">"Bate-papo no Jogo"</string>
     <string name="My_Status_">"Meu Status:"</string>
     <string name="Game_Size_">"Tamanho do Jogo:"</string>
 
