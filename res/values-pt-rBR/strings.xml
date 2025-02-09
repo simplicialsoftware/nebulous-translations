@@ -179,7 +179,7 @@
     <string name="Perfection">"Perfeição"</string>
     <string name="Single_Handedly">"Uma só Tacada"</string>
     <string name="Dodgey">"Espertalhão"</string>
-    <string name="Self_Contained">"Auto-Suficiente"</string>
+    <string name="Self_Contained">"Autossuficiente"</string>
     <string name="Survivalist">"Sobrevivente"</string>
     <string name="Ultramassive">"Ultramassivo"</string>
     <string name="Rapid_Ascension">"Ascensão Rápida"</string>
@@ -602,7 +602,7 @@
 
     <string name="Facebook_Profile">"Perfil do Facebook"</string>
     <string name="You_must_be_signed_in_to_Facebook_">"Você precisa estar conectado ao Facebook."</string>
-    <string name="copy_details">"copiar detalhes"</string>
+    <string name="copy_details">"Copiar detalhes"</string>
     <string name="copied_error_details_to_clipboard">"Detalhes do erro copiado para área de transferência"</string>
 
     <string name="No_file_browser_installed_">"Nenhum gerenciador de arquivos instalado!"</string>
