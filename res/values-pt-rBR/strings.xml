@@ -1214,7 +1214,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"A multi-skin permite que você use duas skins que se alternam. Você escolhe a rapidez com que as skins mudam. Quando você atinge o nível 1.000, esse recurso é gratuito. Se você comprar a multi-skin antes do nível 1.000 você terá as plasma novamente ao chegar nele"</string>
     <string name="MULTISKIN">MULTI-SKIN</string>
     <string name="DISABLED">DESATIVADO</string>
-    <string name="Refund__Multiskin">"Reembolsar a\Multi-Skin"</string>
+    <string name="Refund__Multiskin">"Reembolsar a\nMulti-Skin"</string>
     <string name="Invalid_Clan_ID_">ID do Clã Inválido.</string>
     <string name="MUTED">SILENCIADO</string>
     <string name="SKIN">SKIN</string>
