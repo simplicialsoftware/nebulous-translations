@@ -35,7 +35,7 @@
     <string name="_Alias_">" Apodo "</string>
     <string name="_Score_">" Puntuación "</string>
     <string name="Score__">"Puntuación: "</string>
-    <string name="Recombine_">"Juntarse: "</string>
+    <string name="Recombine_">"Unirse: "</string>
     <string name="WINNER_">"GANADOR: "</string>
     <string name="IDLE">"INACTIVO"</string>
     <string name="Name_Invalid_">"Nombre Inválido "</string>
@@ -45,7 +45,7 @@
     <string name="PLAYING">"JUGANDO"</string>
     <string name="MULTIPLAYER">"MULTIJUGADOR"</string>
 
-    <string name="JOIN">"UNIRSE"</string>
+    <string name="JOIN">"Entrar"</string>
 
 
     <string name="Lobby_Name">"Nombre de la sala"</string>
@@ -75,7 +75,7 @@
     <string name="CANCEL">"CANCELAR"</string>
     <string name="Chat_Name">"Nombre del chat"</string>
     <string name="Max_People">"Personas máximas"</string>
-    <string name="START">"EMPEZAR"</string>
+    <string name="START">"Comenzar"</string>
     <string name="CREATE">"CREAR"</string>
     <string name="CUSTOM_GAMES">"PARTIDAS PERSONALIZADAS"</string>
     <string name="CHAT">"CHAT"</string>
@@ -258,8 +258,8 @@
     <string name="SOCCER">"FÚTBOL"</string>
     <string name="DRAW">"EMPATE"</string>
 
-    <string name="Clan_Name">"Nombre del clan"</string>
-    <string name="Clan">"Clan"</string>
+    <string name="Clan_Name">"Nombre de la Pandilla"</string>
+    <string name="Clan">"Pandilla"</string>
 
 
     <string name="JOIN_CLAN">"UNIRSE AL CLAN"</string>
@@ -360,7 +360,7 @@
     <string name="Wins">"Ganadas"</string>
 
     <string name="Score">"Puntuación"</string>
-    <string name="Rating">"Calificación"</string>
+    <string name="Rating">"Puntaje"</string>
     <string name="You_are_about_to_make_a_new_leader_">"¡Estás a punto de dejar el liderazgo!"</string>
     <string name="XP">"EXP"</string>
     <string name="High_Score">"Mejores Puntuaciones"</string>
@@ -447,13 +447,13 @@
 
 
     <string name="Temporarily_Disabled_">"Desactivado temporalmente "</string>
-    <string name="BIGGEST">"EL MÁS GRANDE"</string>
+    <string name="BIGGEST">"MÁS GRANDE"</string>
 
 
     <string name="Copy_ID">"Copiar ID"</string>
     <string name="View_Profile">"Ver Perfil"</string>
     <string name="Send_Message">"Enviar Mensaje"</string>
-    <string name="Account_ID">"Ver ID"</string>
+    <string name="Account_ID">"Cuenta No ID"</string>
     <string name="Player_Name">"Nombre del Jugador"</string>
 
     <string name="Daily_Reward">"Recompensa Diaria"</string>
@@ -546,7 +546,7 @@
     <string name="Specify_Account_ID">"Escribe la ID de tu Amigo"</string>
     <string name="Team_Created_">"¡Equipo Creado!"</string>
     <string name="Team_Arena">"Arena por Equipos"</string>
-    <string name="No_Teams">"No hay equipos"</string>
+    <string name="No_Teams">"No equipos"</string>
     <string name="team_arena_info">"Una vez crees un equipo, puedes invitar y eliminar miembros de forma gratuita. También podrás jugar partidas por equipos en la arena. ¡No se puede cambiar el nombre del equipo una vez creado!"</string>
 
 
@@ -559,10 +559,10 @@
     <string name="Other">"Otros motivos"</string>
     <string name="Leave_Team">"Abandonar equipo"</string>
 
-    <string name="Remove_Player">"Eliminar jugador"</string>
+    <string name="Remove_Player">"Quitar jugador"</string>
     <string name="Reject_Invitation">"Rechazar invitación"</string>
     <string name="Leave_Game">"Salir del juego"</string>
-    <string name="Remove_Friend">"Eliminar amigo"</string>
+    <string name="Remove_Friend">"Quitar amigo"</string>
     <string name="Remove_Clan_Member">"Expulsar Miembro del Clan"</string>
     <string name="Flag_lobby_as_inappropriate">"Marcar sala como inapropiada"</string>
     <string name="Promote_Clan_Member">"Ascender miembro"</string>
@@ -971,7 +971,7 @@ Si no cumples con alguna de estas reglas, tu cuenta podría ser suspendida.\n
         \n
 Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciarlo a un Moderador.
     </string>
-    <string name="Blob_Chat_Bubbles">Burbuja de chat</string>
+    <string name="Blob_Chat_Bubbles">Circulo de chat</string>
     <string name="CHRISTMAS_ADVENT_SKINS">ADVIENTO NAVIDEÑO</string>
     <string name="You_cannot_open_this_present_yet_">¡No puedes abrir este regalo todavía!</string>
     <string name="Open_Present">Abrir Regalo</string>
@@ -996,7 +996,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="COPY">COPIAR</string>
     <string name="_1v1_Ultra"> 1vs1 Ultra</string>
     <string name="ArenaDescriptionUltra">El ganador recibirá %s plasma. Si haces trampa para conseguir "puntos gratis", serás baneado.</string>
-    <string name="BANNED">BANEADO</string>
+    <string name="BANNED">Prohibido</string>
     <string name="CLAN_MEMBERS">MIEMBROS DEL CLAN</string>
     <string name="CLAN_REQUESTS">SOLICITUDES DE CLAN</string>
     <string name="Pet_1">Mascota 1</string>
@@ -1014,7 +1014,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="Particles">Partículas</string>
     <string name="Clan_Particle_Uploads">Partículas de Clan</string>
     <string name="Particle_Uploads">Partículas subidas</string>
-    <string name="Blob_Outline">Contorno del blob</string>
+    <string name="Blob_Outline">Contorno del Jugador</string>
     <string name="Game_Border">Borde del Juego</string>
     <string name="Select_some_text_first">Primero selecciona algo de texto</string>
     <string name="Save_the_profile_first">Primero guarda el perfil</string>
@@ -1160,7 +1160,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Not_in_a_group_">No estás en un grupo </string>
     <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">Da la ID del grupo a tus amigos para que ellos puedan unirse:</string>
     <string name="Specify_Group_ID" translatable="true" tools:ignore="Untranslatable">Especificar ID del Grupo</string>
-    <string name="Failed">Error</string>
+    <string name="Failed">Fallo</string>
     <string name="Joined_group" translatable="true" tools:ignore="Untranslatable">Unido al grupo</string>
     <string name="People" translatable="true" tools:ignore="Untranslatable">Personas</string>
     <string name="Failed_to_join">Error al unirse</string>
@@ -1168,7 +1168,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="new_person_joined" translatable="true" tools:ignore="Untranslatable">alguien nuevo se unió</string>
     <string name="person_left" translatable="true" tools:ignore="Untranslatable">alguien salió</string>
     <string name="Left_the_group" translatable="true" tools:ignore="Untranslatable">Salió del grupo</string>
-    <string name="Tricks_Performed_">Tricks Ejecutados </string>
+    <string name="Tricks_Performed_">Trucos Ejecutados </string>
     <string name="Not_enough_plasma_">¡No tienes suficiente plasma!</string>
     <string name="GET_PLASMA">CONSEGUIR PLASMA</string>
     <string name="ASTEROIDS">ASTEROIDES</string>
