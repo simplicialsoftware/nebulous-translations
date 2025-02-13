@@ -781,7 +781,7 @@
     <string name="BLOCK">"BLOQUEAR"</string>
     <string name="DELETE">"BORRAR"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Nota: Se puede desbloquear a alguien enviándole una solicitud de amistad "</string>
-    <string name="Select_Friend">"Elije un amigo"</string>
+    <string name="Select_Friend">"Elige un amigo"</string>
     <string name="Failed_to_send_mail_">"No se pudo enviar el correo "</string>
     <string name="In_Game_Mail">"Correo del juego"</string>
     <string name="Nav_Buttons_">"Botones chat/desafíos:"</string>
