@@ -2,10 +2,10 @@
     <string name="Players">"Jugadores"</string>
     <string name="Control_">"Control:"</string>
     <string name="CLOSE">"CERRAR"</string>
-    <string name="Stick_Size_">"Tamaño pad:"</string>
-    <string name="Stick_Margin_">"Ubicación pad:"</string>
-    <string name="Button_Size_">"Tamaño botones:"</string>
-    <string name="Button_Margin_">"Margen botones:"</string>
+    <string name="Stick_Size_">"Tamaño Pad:"</string>
+    <string name="Stick_Margin_">"Ubicación Pad:"</string>
+    <string name="Button_Size_">"Tamaño Botones:"</string>
+    <string name="Button_Margin_">"Margen Botones:"</string>
     <string name="Buttons_">"Botones:"</string>
     <string name="DEFAULTS">"POR DEFECTO"</string>
     <string name="WEEKLY">"SEMANAL"</string>
@@ -110,7 +110,7 @@
     <string name="FRIENDS">"AMIGOS"</string>
     <string name="Warning">"Advertencia"</string>
     <string name="SIGNING_IN">"INICIANDO SESIÓN…"</string>
-    <string name="New_Friend_Request">"¡Nueva solicitud de amistad!"</string>
+    <string name="New_Friend_Request">"¡Nueva solicitud de Amistad!"</string>
     <string name="REQUEST_FRIEND">"SOLICITUD DE AMISTAD"</string>
     <string name="Private">"Privado"</string>
     <string name="Public">"Público"</string>
@@ -253,7 +253,7 @@
     <string name="My_Status_">"Mi estado:"</string>
     <string name="Game_Size_">"Tamaño del mapa:"</string>
 
-    <string name="Server_Restart_">"Reiniciando servidor:"</string>
+    <string name="Server_Restart_">"Reiniciando Servidor:"</string>
     <string name="GOAL_">"¡GOL!"</string>
     <string name="SOCCER">"FÚTBOL"</string>
     <string name="DRAW">"EMPATE"</string>
@@ -283,8 +283,8 @@
 
 
     <string name="Specify_Clan_ID">"Especifica la ID del clan"</string>
-    <string name="Show_Clan_Names">"Mostrar clanes"</string>
-    <string name="Show_Levels">"Mostrar niveles"</string>
+    <string name="Show_Clan_Names">"Mostrar Clanes"</string>
+    <string name="Show_Levels">"Mostrar Niveles"</string>
     <string name="SET_MOTD">"ESTABLECER DESCRIPCIÓN"</string>
     <string name="No_such_user_found_">"No se encontró dicho usuario. "</string>
     <string name="No_open_public_clans_exist_">"No existen clanes públicos abiertos "</string>
@@ -312,11 +312,11 @@
     <string name="Survive_but_do_not_win_a_survival_game_">"Sobrevive en Supervivencia in ganar."</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"Gana por 8 goles en un partido de Fútbol."</string>
     <string name="Score_3_goals_in_a_single_Soccer_game_">"Marca 3 goles en un solo partido de Fútbol."</string>
-    <string name="Total_Domination">"Dominación total"</string>
+    <string name="Total_Domination">"Dominación Total"</string>
     <string name="Win_500_games_of_any_type_">"Gana 500 juegos de cualquier tipo."</string>
     <string name="Translations">"Traducciones"</string>
     <string name="Developers">"Desarrolladores"</string>
-    <string name="Special_Thanks">"Agradecimientos especiales"</string>
+    <string name="Special_Thanks">"Agradecimientos Especiales"</string>
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"¡Muchas gracias a todos los fans de Nebulous!"</string>
     <string name="Color_Blind">"Modo daltónico"</string>
     <string name="Daily_Quest_Complete_">"¡Misión diaria completada!"</string>
@@ -606,7 +606,7 @@
     <string name="copied_error_details_to_clipboard">"detalles del error copiados al portapapeles"</string>
 
     <string name="No_file_browser_installed_">"¡No hay ningún explorador de archivos instalado!"</string>
-    <string name="Choose_File">"Elegir archivo"</string>
+    <string name="Choose_File">"Elegir Archivo"</string>
     <string name="Google_Profile">"Perfil de Google"</string>
     <string name="You_must_be_signed_in_to_Google_">"Debes iniciar sesión en Google "</string>
 
@@ -781,7 +781,7 @@
     <string name="BLOCK">"BLOQUEAR"</string>
     <string name="DELETE">"BORRAR"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Nota: Se puede desbloquear a alguien enviándole una solicitud de amistad "</string>
-    <string name="Select_Friend">"Elije un amigo"</string>
+    <string name="Select_Friend">"Elije un Amigo"</string>
     <string name="Failed_to_send_mail_">"No se pudo enviar el correo "</string>
     <string name="In_Game_Mail">"Correo del juego"</string>
     <string name="Nav_Buttons_">"Botones chat/desafíos:"</string>
