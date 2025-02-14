@@ -2,8 +2,8 @@
     <string name="Players">"Jogadores"</string>
     <string name="Control_">"Controle:"</string>
     <string name="CLOSE">"FECHAR"</string>
-    <string name="Stick_Size_">"Tamanho do Controlador:"</string>
-    <string name="Stick_Margin_">"Margem do Controlador:"</string>
+    <string name="Stick_Size_">"Tamanho do Joystick:"</string>
+    <string name="Stick_Margin_">"Margem do Joystick:"</string>
     <string name="Button_Size_">"Tamanho dos Botões:"</string>
     <string name="Button_Margin_">"Margem dos Botões:"</string>
     <string name="Buttons_">"Botões"</string>
@@ -12,8 +12,8 @@
     <string name="DAILY">"DIÁRIO"</string>
     <string name="Server_">"Servidor:"</string>
     <string name="Game_Mode_">"Modo de Jogo:"</string>
-    <string name="Show_Names">"Mostrar Nomes"</string>
-    <string name="Show_Avatars">"Mostrar Skins"</string>
+    <string name="Show_Names">"Exibir Nomes"</string>
+    <string name="Show_Avatars">"Exibir Skins"</string>
     <string name="PLAY">"JOGAR"</string>
     <string name="OPTIONS">"OPÇÕES"</string>
 
@@ -27,15 +27,15 @@
     <string name="Yes">"Sim"</string>
     <string name="No">"Não"</string>
     <string name="WAIT">"AGUARDE…"</string>
-    <string name="Must_Specify_Name_">"É Necessário especificar um nome."</string>
+    <string name="Must_Specify_Name_">"Você deve especificar um nome."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
 
     <string name="_Rank_">" Posição "</string>
     <string name="_Alias_">" Apelido "</string>
-    <string name="_Score_">" Pontos "</string>
+    <string name="_Score_">" Pontuação "</string>
     <string name="Score__">"Pontuação: "</string>
-    <string name="Recombine_">"Recombinar em: "</string>
+    <string name="Recombine_">"Recombinar: "</string>
     <string name="WINNER_">"VENCEDOR:"</string>
     <string name="IDLE">"INATIVO"</string>
     <string name="Name_Invalid_">"Nome inválido."</string>
@@ -63,10 +63,10 @@
     <string name="South_America">"Brasil"</string>
 
 
-    <string name="SINGLE_PLAYER">"ÚNICO JOGADOR"</string>
+    <string name="SINGLE_PLAYER">"JOGADOR SOLO"</string>
     <string name="Background_">"Fundo:"</string>
     <string name="Difficulty_">"Dificuldade:"</string>
-    <string name="Delay_Disconnect">"Atrasar a Desconexão"</string>
+    <string name="Delay_Disconnect">"Atrasar Desconexão"</string>
 
     <string name="Max_Players">"Máx. de Jogadores"</string>
     <string name="Min_Players">"Mín. de Jogadores"</string>
@@ -97,11 +97,11 @@
     <string name="XP_">"XP:"</string>
 
     <string name="Information">"Informação"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para usar esta skin, você deve liberar a conquista"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para usar a skin, você deve ter a conquista"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Para usar esta skin, você deve atingir o nível"</string>
     <string name="SIGN_IN">"ENTRAR"</string>
 
-    <string name="Single_Player_Stats">"Estatísticas de Único Jogador"</string>
+    <string name="Single_Player_Stats">"Estatísticas de Jogador Solo"</string>
 
     <string name="Level">"Nível"</string>
     <string name="PAUSED">"PAUSADO"</string>
@@ -125,7 +125,7 @@
     <string name="Achievement_Earned">"Conquista Desbloqueada"</string>
     <string name="REFRESH">"ATUALIZAR"</string>
     <string name="DONE">"FEITO"</string>
-    <string name="Friend_Request_Sent">"Pedido de Amizade enviado…"</string>
+    <string name="Friend_Request_Sent">"Pedido de Amizade Enviado…"</string>
     <string name="ERROR">"ERRO"</string>
     <string name="CONTINUE">"CONTINUAR"</string>
     <string name="Global_" formatted="false">"Global"</string>
@@ -283,8 +283,8 @@
 
 
     <string name="Specify_Clan_ID">"Especifique ID do clã"</string>
-    <string name="Show_Clan_Names">"Mostrar Nomes de Clã"</string>
-    <string name="Show_Levels">"Mostrar Níveis"</string>
+    <string name="Show_Clan_Names">"Exibir Nomes de Clã"</string>
+    <string name="Show_Levels">"Exibir Níveis"</string>
     <string name="SET_MOTD">"DEFINIR MDD"</string>
     <string name="No_such_user_found_">"Nenhum usuário encontrado."</string>
     <string name="No_open_public_clans_exist_">"Não existem clãs públicos abertos."</string>
@@ -359,11 +359,11 @@
 
     <string name="Wins">"Vitórias"</string>
 
-    <string name="Score">"Pontos"</string>
+    <string name="Score">"Pontuação"</string>
     <string name="Rating">"Classificação"</string>
     <string name="You_are_about_to_make_a_new_leader_">"Você está prestes a fazer um novo líder!"</string>
     <string name="XP">"XP"</string>
-    <string name="High_Score">"Pontuação Máxima"</string>
+    <string name="High_Score">"Recorde de Pontuação"</string>
 
 
     <string name="_3v3">"3v3"</string>
@@ -471,7 +471,7 @@
     <string name="ENTER">"ENTRAR"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Praticar"</string>
-    <string name="ArenaDescription">Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
+    <string name="ArenaDescription">Você terá apenas uma vida. O vencedor receberá os plasma. Negociar vitórias ou "pontos gratuitos" resultará em uma punição.</string>
     <string name="Contestant">"Competidor"</string>
     <string name="Duelist">"Duelista"</string>
     <string name="Gladiator">"Gladiador"</string>
@@ -579,7 +579,7 @@
     <string name="You_dont_own_the_team_">"Você não é dono da equipe:"</string>
     <string name="User_has_already_been_invited_">"O usuário já foi convidado."</string>
     <string name="Maximum_players_allowed_on_the_team_">"Máximo de jogadores permitidos na equipe:"</string>
-    <string name="Name_is_already_in_use_">"Este nome já está em uso."</string>
+    <string name="Name_is_already_in_use_">"Este nome já está sendo utilizado."</string>
     <string name="User_is_not_in_the_team_">"O usuário não está na equipe."</string>
     <string name="You_are_not_invited_to_team_">"Você não foi convidado para a equipe:"</string>
     <string name="Team_does_not_exist_">"A equipe não existe:"</string>
@@ -636,7 +636,7 @@
     <string name="Shoot_20_Powerups_Without_Restarting">"Atire 20 Poderes Sem Reiniciar"</string>
     <string name="Request_Timed_Out">"A Solicitação Expirou"</string>
     <string name="You_Are_Spectating_">"Você Está Observando."</string>
-    <string name="Account_In_Use_">"Conta Em Uso!"</string>
+    <string name="Account_In_Use_">"Conta em Uso!"</string>
     <string name="Cannot_Join_Arena_">"Não pode entrar na Arena."</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"Deslogando irá desconectá-lo do jogo atual!"</string>
     <string name="raindrops_">"gotas de chuva."</string>
