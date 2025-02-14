@@ -490,7 +490,7 @@
 
     <string name="Randomize">"عشوائية"</string>
 
-    <string name="Harassment">"مضايقة"</string>
+    <string name="Harassment">"تحرش"</string>
 
     <string name="_2v2">"٢ضد٢"</string>
 
@@ -717,7 +717,7 @@
     <string name="Eject">"إطلاق"</string>
     <string name="Eject_Skin">"صورة الإطلاق"</string>
     <string name="Double_Plasma__">"بلازما مزدوجة !!"</string>
-    <string name="Ends">"تنتهي"</string>
+    <string name="Ends">"ينتهي"</string>
     <string name="Select_Clan_Member">"تحديد عضو العشيرة"</string>
     <string name="Inappropriate_Skin">"صورة غير لائقة"</string>
     <string name="Approved">"تم الموافقة عليها"</string>
@@ -744,7 +744,7 @@
     <string name="List_Count_">"عدد القائمة:"</string>
     <string name="Download_Skins">"تحميل الصور"</string>
     <string name="ARENA_HISTORY">" سجل التحديات"</string>
-    <string name="WIN">"انتصار"</string>
+    <string name="WIN">"فوز"</string>
     <string name="LOSS">"خسارة"</string>
     <string name="Other_players_can_not_see_your_skin_">"اللاعبون الآخرون لا يمكنهم رؤية صورتك."</string>
     <string name="Other_players_can_see_your_skin_">"اللاعبون الآخرون يمكنهم رؤية صورتك."</string>
@@ -1243,7 +1243,7 @@
     <string name="Opponent_Rating_Limit_">حد تصنيف الخصم</string>
     <string name="TOGGLE_FAVORITE">تبديل المُفَضلة</string>
     <string name="Favorited">مُفضَل</string>
-    <string name="Unfavorited">غير مُفضل</string>
+    <string name="Unfavorited">غير مُفضَل</string>
     <string name="Background_Scale_">حَجِم الخلفيّة:</string>
     <string name="Background_Lightness_">شفافيّة الخلفيّة:</string>
     <string name="Background_Image_">الصورة الخلفيّة:</string>
