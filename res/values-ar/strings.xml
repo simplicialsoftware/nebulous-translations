@@ -490,7 +490,7 @@
 
     <string name="Randomize">"عشوائية"</string>
 
-    <string name="Harassment">"مضايقة"</string>
+    <string name="Harassment">"تحرش"</string>
 
     <string name="_2v2">"٢ضد٢"</string>
 
@@ -773,7 +773,7 @@
     <string name="To">"إلى"</string>
     <string name="RESET">"إرجاع"</string>
     <string name="Message_Sent_">"تم إرسال الرسالة!"</string>
-    <string name="From">"من عند"</string>
+    <string name="From">"من"</string>
     <string name="Sent">"تم الإرسال"</string>
     <string name="REPLY">"رد"</string>
     <string name="Delete_Message">"حذف الرسالة"</string>
