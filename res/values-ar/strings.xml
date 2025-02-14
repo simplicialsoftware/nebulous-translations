@@ -113,7 +113,7 @@
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
     <string name="REQUEST_FRIEND">"إرسال طلب صداقة"</string>
     <string name="Private">"خاص"</string>
-    <string name="Public">"عام"</string>
+    <string name="Public">"علني"</string>
     <string name="Bot">"لاعب آلي"</string>
     <string name="You">"أنت"</string>
     <string name="This_player_is_a_bot">"هذا اللاعب آلي"</string>
@@ -490,7 +490,7 @@
 
     <string name="Randomize">"عشوائية"</string>
 
-    <string name="Harassment">"مضايقة"</string>
+    <string name="Harassment">"تحرش"</string>
 
     <string name="_2v2">"٢ضد٢"</string>
 
@@ -717,7 +717,7 @@
     <string name="Eject">"إطلاق"</string>
     <string name="Eject_Skin">"صورة الإطلاق"</string>
     <string name="Double_Plasma__">"بلازما مزدوجة !!"</string>
-    <string name="Ends">"تنتهي"</string>
+    <string name="Ends">"ينتهي"</string>
     <string name="Select_Clan_Member">"تحديد عضو العشيرة"</string>
     <string name="Inappropriate_Skin">"صورة غير لائقة"</string>
     <string name="Approved">"تم الموافقة عليها"</string>
@@ -733,7 +733,7 @@
     <string name="Account_Uploads">"تحميلات الحساب "</string>
     <string name="Clan_Uploads">"تحميلات العشيرة "</string>
     <string name="Empty">"فارغة"</string>
-    <string name="Select">"اختيار"</string>
+    <string name="Select">"اختار"</string>
     <string name="Current_Skin">"الصورة الحالية"</string>
     <string name="Status">"الحالة"</string>
     <string name="upload_size_failure">"لا يمكن تحميل هذه الصورة لأنها كبيرة جدا. يرجى تغيير الصورة ."</string>
@@ -771,7 +771,7 @@
     <string name="Subject">"الموضوع"</string>
     <string name="SEND">"إرسال"</string>
     <string name="To">"إلى"</string>
-    <string name="RESET">"إرجاع"</string>
+    <string name="RESET">"إعادة تعيين"</string>
     <string name="Message_Sent_">"تم إرسال الرسالة!"</string>
     <string name="From">"من عند"</string>
     <string name="Sent">"تم الإرسال"</string>
@@ -832,7 +832,7 @@
     <string name="PAINT">الرسم</string>
     <string name="BLOCKED_ACCOUNTS">الحسابات المحظورة</string>
     <string name="UNBLOCK">إلغاء الحظر</string>
-    <string name="Emotes">التعبيرات</string>
+    <string name="Emotes">العواطف</string>
     <string name="Support">الـدعـم</string>
     <string name="Already_Blocked">تم الحظر بالفعل</string>
     <string name="Cannot_block_more_than_x_accounts_">لايمكن حظر أكثر من %d الحسابات.</string>
@@ -892,7 +892,7 @@
     <string name="CLAN_HOUSE">بَيتُ العشيرة!</string>
 
     <string name="ROOM">غرفة</string>
-    <string name="EXPERIMENTAL">تجريبي</string>
+    <string name="EXPERIMENTAL">التجريبية</string>
     <string name="members">أعضاء</string>
     <string name="Delete_ALL_Messages_">حذف كل الرسائل!</string>
     <string name="SAVE_PROFILE">حفظ الحالة الشخصية</string>
@@ -1111,7 +1111,7 @@
     <string name="Vote_Kick">طرد اللاعب</string>
     <string name="FONT">نوع الخط</string>
     <string name="CIRCLE">دائرة</string>
-    <string name="SQUARES">مربعات</string>
+    <string name="SQUARES">المربعات</string>
     <string name="TRICK_MODE">طور الحركات</string>
     <string name="ICE_SPLIT">إنقسام الثلج</string>
     <string name="TRICK_SPLIT">إنقسام الحركات</string>
@@ -1163,7 +1163,7 @@
     <string name="ASTEROIDS">شُهُب</string>
     <string name="CHRISTMAS">كريسماس</string>
     <string name="Reason">السبب</string>
-    <string name="PUBLIC">عـامة</string>
+    <string name="PUBLIC">علني</string>
     <string name="PRIVATE">خـاصة</string>
     <string name="Joined">الأنضمامات</string>
     <string name="Requests">الطلبات</string>
@@ -1197,7 +1197,7 @@
     <string name="Refund__Multiskin">استعادة نقودك /nMultiskin</string>
     <string name="Invalid_Clan_ID_">اسم العشيرة غير صالح</string>
     <string name="MUTED">"حُظِر من الدَردَشة"</string>
-    <string name="SKIN">سكن</string>
+    <string name="SKIN">جلد</string>
     <string name="Choose_Skin_Size">اختر حجم سكنك</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">لن يتمكن اللاعبين الاخرين من سماعك!</string>
     <string name="Allow_permission_to_enable_voice_recording_">السماح بأذن لتمكين التسجيل الصوتي</string>
