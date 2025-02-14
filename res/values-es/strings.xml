@@ -17,21 +17,21 @@
     <string name="PLAY">"JUGAR"</string>
     <string name="OPTIONS">"OPCIONES"</string>
 
-    <string name="Avatar_">"Skin:"</string>
-    <string name="Name_">"Nombre:"</string>
+    <string name="Avatar_">"Piel:"</string>
+    <string name="Nickname_">"Nombre:"</string>
 
-    <string name="Loading___">"Cargando…"</string>
-    <string name="Connecting___">"Conectando…"</string>
+    <string name="Loading...">"Cargando…"</string>
+    <string name="Connecting...">"Conectando…"</string>
 
     <string name="Are_You_Sure_">"¿Estás seguro?"</string>
     <string name="Yes">"Sí"</string>
     <string name="No">"No"</string>
-    <string name="WAIT">"ESPERA…"</string>
+    <string name="WAIT...">"ESPERA…"</string>
     <string name="Must_Specify_Name_">"Debes especificar un nombre "</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"El contenido de esta aplicación puede variar cuando se buscan grupos "</string>
 
-    <string name="_Rank_">" Posición "</string>
+    <string name="_Rank_">" Rango "</string>
     <string name="_Alias_">" Apodo "</string>
     <string name="_Score_">" Puntuación "</string>
     <string name="Score__">"Puntuación: "</string>
@@ -48,7 +48,7 @@
     <string name="JOIN">"UNIRSE"</string>
 
 
-    <string name="Lobby_Name">"Nombre de la sala"</string>
+    <string name="Room Name">"Nombre de la sala"</string>
     <string name="Not_found_">"No encontrado "</string>
 
     <string name="Hidden">"Oculto"</string>
@@ -123,14 +123,14 @@
     <string name="Unknown">"Desconocido"</string>
     <string name="Offline">"Desconectado"</string>
     <string name="Achievement_Earned">"Logro Conseguido"</string>
-    <string name="REFRESH">"ACTUALIZAR"</string>
+    <string name="Update">"ACTUALIZAR"</string>
     <string name="DONE">"HECHO"</string>
     <string name="Friend_Request_Sent">"Solicitud de amistad enviada"</string>
     <string name="ERROR">"ERROR"</string>
     <string name="CONTINUE">"CONTINUAR"</string>
     <string name="Global_" formatted="false">"Global "</string>
     <string name="FRIEND_CHAT">"CHAT DE AMIGO"</string>
-    <string name="LOBBY_NAME">"NOMBRE DE LA SALA"</string>
+    <string name="Room Name">"NOMBRE DE LA SALA"</string>
     <string name="NULL">"NULO"</string>
 
 
@@ -251,7 +251,7 @@
     <string name="Specify_private_game_name">"Especificar nombre de la partida privada"</string>
     <string name="In_Game_Chat">"Chat en la partida"</string>
     <string name="My_Status_">"Mi estado:"</string>
-    <string name="Game_Size_">"Tamaño del mapa:"</string>
+    <string name="Map_Size_">"Tamaño del mapa:"</string>
 
     <string name="Server_Restart_">"Reiniciando servidor:"</string>
     <string name="GOAL_">"¡GOL!"</string>
@@ -276,7 +276,7 @@
     <string name="ELDER">"VETERANO"</string>
 
 
-    <string name="Not_in_a_clan_">"Sin clan."</string>
+    <string name="Not_in_clan_">"Sin clan."</string>
 
 
     <string name="CLAN">"CLAN"</string>
@@ -343,7 +343,7 @@
 
 
     <string name="pumpkins_">"calabazas "</string>
-    <string name="To_use_this_skin_you_must_collect">"Para utilizar esta skin tienes que recoger"</string>
+    <string name="To_use_this_skin_you_must_collect">"Para utilizar esta Piel tienes que recoger"</string>
     <string name="Australia">"Australia"</string>
     <string name="Pumpkin_Collector">"Coleccionista de Calabazas"</string>
     <string name="Collect_1000_pumpkins_">"Recoge 1.000 calabazas."</string>
@@ -353,11 +353,11 @@
     <string name="CLAN_WAR">"GUERRA DE CLANES"</string>
     <string name="Clan_War">"Guerra de Clanes"</string>
 
-    <string name="Forming">"Formando…"</string>
-    <string name="Searching">"Buscando…"</string>
+    <string name="Forming...">"Formando…"</string>
+    <string name="Searching...">"Buscando…"</string>
     <string name="In_Progress">"En progreso"</string>
 
-    <string name="Wins">"Ganadas"</string>
+    <string name="Wins!">"Ganadas!"</string>
 
     <string name="Score">"Puntuación"</string>
     <string name="Rating">"Calificación"</string>
@@ -433,7 +433,7 @@
     <string name="You_cannot_purchase_this_right_now_">"No puedes comprar esto en este momento."</string>
 
 
-    <string name="Loading_Purchases___">"Cargando compras…"</string>
+    <string name="Loading_Purchases...">"Cargando compras…"</string>
     <string name="In_App_Purchases">"Compras en la aplicación"</string>
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"No se puede aplicar otro acelerador de EXP hasta que el acelerador actual termine."</string>
     <string name="This_purchase_has_already_been_redeemed_">"Esta compra ya ha sido canjeada."</string>
@@ -553,15 +553,15 @@
     <string name="Invited">"Invitado"</string>
     <string name="Invitation_Sent">"Invitación enviada"</string>
     <string name="REPORT">"DENUNCIAR"</string>
-    <string name="Reported">"Denunciado"</string>
+    <string name="Reported">"Denunciado."</string>
     <string name="Threats">"Amenazas"</string>
     <string name="Spam">"Correo no deseado"</string>
     <string name="Other">"Otros motivos"</string>
     <string name="Leave_Team">"Abandonar equipo"</string>
 
     <string name="Remove_Player">"Eliminar jugador"</string>
-    <string name="Reject_Invitation">"Rechazar invitación"</string>
-    <string name="Leave_Game">"Salir del juego"</string>
+    <string name="Reject_Invitation">"Rechazar invitación?"</string>
+    <string name="Leave_Game">"Salir del juego?"</string>
     <string name="Remove_Friend">"Eliminar amigo"</string>
     <string name="Remove_Clan_Member">"Expulsar Miembro del Clan"</string>
     <string name="Flag_lobby_as_inappropriate">"Marcar sala como inapropiada"</string>
@@ -670,8 +670,8 @@
     <string name="nebulas_">"nebulosas "</string>
     <string name="Incompatible_versions_">"Versiones incompatibles "</string>
     <string name="Update_Available_">"¡Actualización disponible!"</string>
-    <string name="VIEW_INVITES">"VER INVITACIONES"</string>
-    <string name="CLAN_INVITES">"INVITACIONES A CLANES"</string>
+    <string name="VIEW_INVITES">"VER INVITACIONES:"</string>
+    <string name="CLAN_INVITES">"INVITACIONES A CLANES:"</string>
     <string name="Cancel_Invitation">"Cancelar Invitación"</string>
     <string name="DOWNLOAD">"DESCARGAR"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"RECHAZAR TODAS LAS SOLICITUDES DE AMISTAD"</string>
@@ -722,7 +722,7 @@
     <string name="Select_Clan_Member">"Seleccionar miembros del clan"</string>
     <string name="Inappropriate_Skin">"Skin inapropiada"</string>
     <string name="Approved">"Aprobada"</string>
-    <string name="Rejected">"Rechazada"</string>
+    <string name="Rejected">"Rechazada!"</string>
     <string name="Refunded">"Reembolsada"</string>
 
 
@@ -735,7 +735,7 @@
     <string name="Clan_Uploads">"Skins del Clan"</string>
     <string name="Empty">"Vacío"</string>
     <string name="Select">"Seleccionar"</string>
-    <string name="Current_Skin">"Skin Actual"</string>
+    <string name="Current_Skin">"Piel Actual"</string>
     <string name="Status">"Estado"</string>
     <string name="upload_size_failure">"No se pudo subir esta imagen porque es demasiado grande. Por favor, inténtalo con una imagen distinta."</string>
     <string name="CONTRIBUTE_PLASMA">"CONTRIBUIR PLASMA"</string>
