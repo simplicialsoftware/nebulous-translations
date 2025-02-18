@@ -1145,7 +1145,7 @@
     <string name="Invalid_Clan_ID_">ID de Clan Invalid.</string>
     <string name="MUTED">MUT</string>
     <string name="SKIN">SKIN</string>
-    <string name="Choose_Skin_Size">Alege mărimea skinulu</string>
+    <string name="Choose_Skin_Size">Alege Mărimea Skin-ului</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Ceilalți jucători nu vă vor putea auzi!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Allow permission to enable voice recording.</string>
     <string name="voice_chat_prompt">Ratingul de conținut al aplicației se poate schimba dacă chat-ul vocal este activat. Pentru un audio optim, utilizați o pereche de căști.</string>
