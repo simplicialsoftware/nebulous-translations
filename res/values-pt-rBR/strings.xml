@@ -544,10 +544,10 @@
     <string name="Teams">"Equipes"</string>
     <string name="Team">"Equipe"</string>
     <string name="Specify_Account_ID">"Especifique o ID da Conta"</string>
-    <string name="Team_Created_">"Equipe Criada!"</string>
-    <string name="Team_Arena">"Arena em Equipe"</string>
+    <string name="Team_Created_">"Equipe.Criada!"</string>
+    <string name="Team_Arena">"Arena.em Equipe"</string
     <string name="No_Teams">"Sem Equipes."</string>
-    <string name="team_arena_info">"Depois de criar uma equipe, você pode convidar e remover membros livremente. Também é livre para jogar partidas de arena em equipe. Você não pode mudar o nome da sua equipe, uma vez que for criada!"</string>
+    <string name="team_arena_info">"Depois de criar uma equipe, você .pode convidar e remover membros livremente. Também é livre para jogar partidas de arena em equipe. Você não pode mudar o nome da sua equipe, uma vez que for criada!"</string>
 
 
     <string name="Invited">"Convidado"</string>
@@ -805,7 +805,7 @@
     <string name="Tournament_Competing">Competindo Torneio</string>
     <string name="Tournament_Registered">Torneio Registrado</string>
     <string name="Tournament">Torneio</string>
-    <string name="TourneyDescription">Você deve se registrar para jogar no torneio. Você será cobrado em plasmas quando o torneio começar, mas você pode cancelar o registro antes que ele comece. O torneio começará quando houver pelo menos %d participantes.</string>
+    <string name="TourneyDescription">Você deve se registrar .para jogar no torneio. Você será cobrado em plasmas quando o torneio começar, mas você pode cancelar o registro antes que ele comece. O torneio começará quando houver pelo menos %d participantes.</string>
     <string name="Register">Registrar</string>
 
     <string name="Registered">Registrado</string>
