@@ -17,7 +17,7 @@
     <string name="PLAY">"JOGAR"</string>
     <string name="OPTIONS">"OPÇÕES"</string>
 
-    <string name="Avatar_">"Skin:"</string>
+    <string name="Avatar_">"Skin"</string>
     <string name="Name_">"Nome:"</string>
 
     <string name="Loading___">"Carregando…"</string>
@@ -74,7 +74,7 @@
     <string name="OK">"OK"</string>
     <string name="CANCEL">"CANCELAR"</string>
     <string name="Chat_Name">"Nome do Chat"</string>
-    <string name="Max_People">"Máx. de Pessoas"</string>
+    <string name="Max_People">"Max. de Pessoas"</string>
     <string name="START">"COMEÇAR"</string>
     <string name="CREATE">"CRIAR"</string>
     <string name="CUSTOM_GAMES">"JOGOS PERSONALIZADOS"</string>
