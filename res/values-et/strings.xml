@@ -881,16 +881,16 @@
     <string name="TeamTourneyDescription">You and your teammate must register to play in the team tournament. You will both be charged the plasma when the tournament starts but you can unregister before it starts. Needs at least %d contestants to start.</string>
     <string name="Free_Agent">Free Agent</string>
     <string name="This_player_selected_a_different_teammate_">This player selected a different teammate.</string>
-    <string name="muted_until">Muted until</string>
+    <string name="muted_until">Summutatud kuni:</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Content rating of the app may change when playing multiplayer.</string>
-    <string name="UI_Opacity_">UI Opacity</string>
+    <string name="UI_Opacity_">K.L. Läbipaistmatus:</string>
     <string name="LOAD">LOAD</string>
     <string name="REMOVE">REMOVE</string>
     <string name="BAN">BAN</string>
-    <string name="MODERATORS">MODERATORS</string>
-    <string name="ALL_CLAN">ALL\nCLAN</string>
+    <string name="MODERATORS">MODERAATORID</string>
+    <string name="ALL_CLAN">KÕIK\nKLANNIS</string>
     <string name="CO_LEADER">CO LEADER</string>
-    <string name="CLAN_HOUSE">CLAN HOUSE</string>
+    <string name="CLAN_HOUSE">KLANNIDE MAJA</string>
 
     <string name="ROOM">ROOM</string>
     <string name="EXPERIMENTAL">EXPERIMENTAL</string>
@@ -899,18 +899,18 @@
     <string name="SAVE_PROFILE">SAVE PROFILE</string>
     <string name="Move">Move</string>
     <string name="New_Position">New Position</string>
-    <string name="ALLIANCES">ALLIANCES</string>
-    <string name="ENEMIES">ENEMIES</string>
-    <string name="NEW_ALLIANCE">NEW ALLIANCE</string>
-    <string name="NEW_ENEMY">NEW ENEMY</string>
+    <string name="ALLIANCES">LIIDUD</string>
+    <string name="ENEMIES">VAENLASED</string>
+    <string name="NEW_ALLIANCE">UUS LIIT</string>
+    <string name="NEW_ENEMY">UUS VAENLANE</string>
     <string name="CLAN_RELATIONS">CLAN RELATIONS</string>
     <string name="Clan_XP_Boost">CLAN XP BOOST</string>
-    <string name="x3_Clan_XP_7_days">3x Clan XP 7 Days</string>
-    <string name="x3_Clan_XP_1_Day">3x Clan XP 1 Day</string>
-    <string name="x2_Clan_XP_1_Day">2x Clan XP 1 Day</string>
-    <string name="Pets">Pets</string>
-    <string name="Pet">Pet</string>
-    <string name="You_can_purchase_this_pet_for">You can purchase this pet for</string>
+    <string name="x3_Clan_XP_7_days">3x Klanni XP 7 Päeva</string>
+    <string name="x3_Clan_XP_1_Day">3x Klanni XP 1 Päev</string>
+    <string name="x2_Clan_XP_1_Day">2x Klanni XP 1 Päev</string>
+    <string name="Pets">Lemmikloomad</string>
+    <string name="Pet">Lemmikloom</string>
+    <string name="You_can_purchase_this_pet_for">Saate osta see lemmikloom</string>
     <string name="gift_to_friend">Gift To Friend</string>
     <string name="gift_purchase_warning">You will not receive this purchase because you have chosen to gift this purchase to a friend.</string>
     <string name="x2_Clan_XP_7_Days">2x Klanni XP 7 päeva</string>
@@ -926,7 +926,7 @@
     <string name="BLOB_COLOR">MULLI VÄRV</string>
     <string name="ENABLED">LUBATUD</string>
     <string name="Enable_Custom_Blob_Color">Luba tava mulli värvid</string>
-    <string name="Choose_Menu">Vali menüü</string>
+    <string name="Choose_Menu">Vali Menüü</string>
     <string name="SPECTATE">Jälgi</string>
     <string name="INVITE">Kutsu</string>
     <string name="error_1">Only leader or diamond can send clan mail.</string>
@@ -1084,8 +1084,8 @@
     <string name="Choose_Text_Size">Vali teksti suurus</string>
     <string name="LEVEL_COLOR">Taseme värvus</string>
     <string name="INITIATE">Algatama</string>
-    <string name="x3_Clan_XP_Perm">3x klanni XP Püsiv!</string>
-    <string name="x2_Clan_XP_Perm">2x Klanni XP püsiv!</string>
+    <string name="x3_Clan_XP_Perm">3x Klanni XP Püsiv!</string>
+    <string name="x2_Clan_XP_Perm">2x Klanni XP Püsiv!</string>
     <string name="Japan">Jaapan</string>
     <string name="South_Korea">Lõuna Korea</string>
     <string name="Asia">Aasia</string>
@@ -1210,16 +1210,16 @@
     <string name="SUPPORTER">VIP</string>
     <string name="CONQUEROR">CONQUEROR</string>
     <string name="TRICKY">TRICKY</string>
-    <string name="x4_XP_Permanent">4x XP Permanent</string>
-    <string name="x4_XP_24_hours">4x XP 24 Hours</string>
-    <string name="x4_XP_1_Hour">4x XP 1 Hour</string>
+    <string name="x4_XP_Permanent">4x XP Püsiv</string>
+    <string name="x4_XP_24_hours">4x XP 24 Tundi</string>
+    <string name="x4_XP_1_Hour">4x XP 1 Tund</string>
     <string name="Quad">Quadruple</string>
     <string name="Middle_East">Middle East</string>
     <string name="XP_4x">XP 4x</string>
     <string name="You_cannot_play_for_x_minutes_">You cannot play for %d minutes.</string>
-    <string name="x4_Clan_XP_Perm">4x Clan XP Permanent!</string>
-    <string name="x4_Clan_XP_7_days">4x Clan XP 7 Days</string>
-    <string name="x4_Clan_XP_1_Day">4x Clan XP 1 Day</string>
+    <string name="x4_Clan_XP_Perm">4x Klanni XP Püsiv!</string>
+    <string name="x4_Clan_XP_7_days">4x Klanni XP 7 Päeva</string>
+    <string name="x4_Clan_XP_1_Day">4x Klanni XP 1 Päev</string>
     <string name="CHARGE_UP">CHARGE UP</string>
     <string name="CLAN_DESCRIPTION_COLOR">CLAN DESCRIPTION COLOR</string>
     <string name="Responsible_Pet_Owner">Responsible Pet Owner</string>
@@ -1227,14 +1227,14 @@
     <string name="Crocodile_Hunter">Crocodile Hunter</string>
     <string name="Get_A_Pet_To_Level_X_">Get A Pet To Level %d.</string>
     <string name="plasma_boost_info">"You gain three times plasma from all IN-GAME sources while the boost is active! This includes arena  and tournament winnings! Does NOT work on plasma purchases, spins, or special rewards."</string>
-    <string name="Plasma_Boost_7_Days_">Plasma Boost 7 Days!!!</string>
-    <string name="Plasma_Boost_1_Day_">Plasma Boost 1 Day!</string>
-    <string name="Plasma_Boost_2_Hours_">Plasma Boost 2 Hours.</string>
+    <string name="Plasma_Boost_7_Days_">Plasma Boost 7 Päeva!!!</string>
+    <string name="Plasma_Boost_1_Day_">Plasma Boost 1 Päev!</string>
+    <string name="Plasma_Boost_2_Hours_">Plasma Boost 2 Tundi.</string>
     <string name="Plasma_Boost">Plasma Boost</string>
     <string name="particle_info">You must be at least level 50 and use a base skin with particles in order to see any particles.</string>
     <string name="Plain_Score_Text">"Plain Score Text"</string>
     <string name="Custom_Skin_Reviewed_Notification">Your Custom Skin Has Been Reviewed!</string>
-    <string name="You_Have_Mail_">You Have Mail From %s!</string>
+    <string name="You_Have_Mail_">Sul On Mail %s!</string>
     <string name="Clan_Request_Reviewed_Notification">Your Request To Join Clan %s Been Reviewed!</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
     <string name="Sold_Community_Skins_">"Sold Community Skins: "</string>
@@ -1310,7 +1310,7 @@ Commands:
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">You are already friends.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="Translator">Tõlkija</string>
     <string name="SUCCESS">SUCCESS</string>
 
 
@@ -1344,7 +1344,7 @@ Commands:
         <item>"Lihtne"</item>
         <item>"Keskmine"</item>
         <item>"Raske"</item>
-        <item>"võimatu"</item>
+        <item>"Võimatu"</item>
     </string-array>
 
     <string-array name="sizes">
@@ -1352,7 +1352,7 @@ Commands:
         <item>"Väike"</item>
         <item>"Normaalne"</item>
         <item>"Suur"</item>
-        <item>"HUGE"</item>
+        <item>"HIRMUS"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
