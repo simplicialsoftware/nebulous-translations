@@ -264,7 +264,7 @@
 
     <string name="JOIN_CLAN">"LIITU KLANNIGA"</string>
     <string name="JOIN_RANDOM_CLAN">"LIITU SUVALISE KLANNIGA"</string>
-    <string name="LEAVE_CLAN">"LAHKU KLANNI"</string>
+    <string name="LEAVE_CLAN">"JÄTA KLANNI"</string>
     <string name="INVITE_MEMBER">"KUTSU LIIGE"</string>
     <string name="REMOVE_MEMBER">"EEMALDA LIIGE"</string>
 
@@ -413,7 +413,7 @@
 
     <string name="Purchases_Unavailable_">"Oste ei ole saadaval!"</string>
     <string name="You_can_purchase_this_skin_for">"Te saate osta seda skinni"</string>
-    <string name="PURCHASE">"Osta"</string>
+    <string name="PURCHASE">"OSTA"</string>
     <string name="Error_in_backup_data_">"Viga varu andmetes!"</string>
 
 
@@ -442,7 +442,7 @@
 
 
     <string name="until">"kuni"</string>
-    <string name="New_Message_">"Uus kiri!"</string>
+    <string name="New_Message_">"Uus Sõnum!"</string>
     <string name="Seasonal">"Hooajaline"</string>
 
 
@@ -497,7 +497,7 @@
 
     <string name="Standard">"Standard"</string>
     <string name="Achievement">"Saavutus"</string>
-    <string name="Flag">"LIPP 2"</string>
+    <string name="Flag">"Lipp"</string>
     <string name="Win_10_Clan_Wars">"Võida 10 Klanni sõda"</string>
     <string name="Win_100_Clan_Wars">"Võida 100 klanni sõda"</string>
     <string name="Clan_Commander">"Klanni komandör"</string>
@@ -524,7 +524,7 @@
     <string name="SET_PERMISSIONS">"Sea õigused"</string>
     <string name="Start_Clan_War">"Alusta klanni sõda"</string>
     <string name="Min_Level">"Miinimumtase"</string>
-    <string name="SAVE">"SAVE"</string>
+    <string name="SAVE">"SALVESTA"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"See mängija ei vasta minimaalne nõue liituda klanniga:"</string>
     <string name="Insufficient_Permission">"Ebapiisav Luba"</string>
     <string name="DOMINATION">"DOMINATION"</string>
@@ -539,7 +539,7 @@
     <string name="TEAM_INVITE">"TEAM INVITE"</string>
     <string name="Team_Size">"Võistkonna suurus"</string>
     <string name="Team_Name">"Tiimi Nimi"</string>
-    <string name="CREATE_TEAM">"Loo TIIM"</string>
+    <string name="CREATE_TEAM">"LOO TIIM"</string>
     <string name="Solo">"Soolo"</string>
     <string name="Teams">"TIIMID"</string>
     <string name="Team">"Võistkond"</string>
@@ -561,7 +561,7 @@
 
     <string name="Remove_Player">"Eemalda mängija"</string>
     <string name="Reject_Invitation">"Keeldu kutsest"</string>
-    <string name="Leave_Game">"Jäta Game"</string>
+    <string name="Leave_Game">"Jäta Mäng"</string>
     <string name="Remove_Friend">"Eemalda sõber"</string>
     <string name="Remove_Clan_Member">"Eemalda Clan liige"</string>
     <string name="Flag_lobby_as_inappropriate">"Lipu sessioon sobimatu"</string>
