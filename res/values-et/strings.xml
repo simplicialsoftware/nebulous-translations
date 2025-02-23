@@ -1168,7 +1168,7 @@
     <string name="Play_Nebulous_For_X_Years_">Mängi Nebulousi %d aastat</string>
     <string name="Starting___">Algab…</string>
     <string name="Tournament_Starting">Tournament algab</string>
-    <string name="Max_Tilt_Angle_3D_">maksimaalne kallutuse vaatenurk 3D-s:</string>
+    <string name="Max_Tilt_Angle_3D_">Maksimaalne Kallutuse Vaatenurk 3D-s:</string>
     <string name="Mode_3D">3D režiim</string>
     <string name="Names_Below_Blobs">Nimed mulli all</string>
     <string name="Name_Scale_">"Nime Skaala:"</string>
@@ -1216,7 +1216,7 @@
     <string name="Quad">Quadruple</string>
     <string name="Middle_East">Middle East</string>
     <string name="XP_4x">XP 4x</string>
-    <string name="You_cannot_play_for_x_minutes_">You cannot play for %d minutes.</string>
+    <string name="You_cannot_play_for_x_minutes_">Sa ei saa mängida %d minutit.</string>
     <string name="x4_Clan_XP_Perm">4x Klanni XP Püsiv!</string>
     <string name="x4_Clan_XP_7_days">4x Klanni XP 7 Päeva</string>
     <string name="x4_Clan_XP_1_Day">4x Klanni XP 1 Päev</string>
