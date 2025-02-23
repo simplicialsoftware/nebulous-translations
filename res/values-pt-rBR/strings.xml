@@ -470,7 +470,7 @@
 
     <string name="ENTER">"ENTRAR"</string>
     <string name="_1v1">"1v1"</string>
-    <string name="Practice">"Praticar"</string>
+    <string name="Practice">"Praticar."</string>
     <string name="ArenaDescription">Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
     <string name="Contestant">"Competidor"</string>
     <string name="Duelist">"Duelista"</string>
