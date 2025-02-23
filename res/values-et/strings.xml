@@ -34,7 +34,7 @@
     <string name="_Rank_">" Auaste "</string>
     <string name="_Alias_">" Alias "</string>
     <string name="_Score_">" Skoor "</string>
-    <string name="Score__">" Skoor "</string>
+    <string name="Score__">"Skoor: "</string>
     <string name="Recombine_">" Rekombineerumine: "</string>
     <string name="WINNER_">"VÕITJA:"</string>
     <string name="IDLE">"EEMAL OLEK"</string>
@@ -56,14 +56,14 @@
 
     <string name="SERVER">"SERVER"</string>
     <string name="Joining_game_in_">"Liitun mängu "</string>
-    <string name="Game_Full">"Server Täis"</string>
-    <string name="US_East">"Ida US"</string>
-    <string name="US_West">"Lääne US"</string>
-    <string name="Europe">"EUROOPA"</string>
+    <string name="Game_Full">"Mäng Täis"</string>
+    <string name="US_East">Kesk-Ameerika"</string>
+    <string name="US_West">"Põhja-Ameerika"</string>
+    <string name="Europe">"Euroopa"</string>
     <string name="South_America">"Lõuna-Ameerika"</string>
 
 
-    <string name="SINGLE_PLAYER">"Üksikmäng"</string>
+    <string name="SINGLE_PLAYER">"ÜKSIKMÄNG"</string>
     <string name="Background_">"Taust:"</string>
     <string name="Difficulty_">"Raskusaste:"</string>
     <string name="Delay_Disconnect">"Lase halval ühendusel oodata"</string>
@@ -88,7 +88,7 @@
     <string name="Green_Team">"Roheline Tiim"</string>
     <string name="Blue_Team">"Sinine Tiim"</string>
     <string name="Yellow_Team">"Kollane Tiim"</string>
-    <string name="Signed_in_as_">"Sisseloginud nimega:"</string>
+    <string name="Signed_in_as_">"Sisse loginud nimega:"</string>
     <string name="Not_signed_in_">"Pole sisse logitud!"</string>
     <string name="SET_NAME">"MÄÄRA NIMI"</string>
     <string name="SIGN_OUT">"LOGI VÄLJA"</string>
@@ -99,7 +99,7 @@
     <string name="Information">"Informatsioon"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Et kasutada seda skinni, peate teenima saavutuse"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Et kasutada seda skinni, peate jõudma levelile"</string>
-    <string name="SIGN_IN">"Logi sisse"</string>
+    <string name="SIGN_IN">"LOGI SISSE"</string>
 
     <string name="Single_Player_Stats">"Üksikmängu Statistika"</string>
 
@@ -128,7 +128,7 @@
     <string name="Friend_Request_Sent">"Sõbrakutse Saadetud…"</string>
     <string name="ERROR">"VIGA"</string>
     <string name="CONTINUE">"JÄTKA"</string>
-    <string name="Global_" formatted="false">"Globaalne %"</string>
+    <string name="Global_" formatted="false">"Globaalne"</string>
     <string name="FRIEND_CHAT">"SÕBRA VESTLUS"</string>
     <string name="LOBBY_NAME">"SESSIOONI NIMI"</string>
     <string name="NULL">"NULL"</string>
@@ -193,7 +193,7 @@
     <string name="Absorb_10_000_dots">"Koguge 10000 täppi"</string>
     <string name="Absorb_50_000_dots">"Koguge 50000 täppi"</string>
     <string name="Absorb_100_000_dots">"Koguge 100000 täppi"</string>
-    <string name="Absorb_1_000_000_dots">"Koguge 1000000 täppi"</string>
+    <string name="Absorb_1_000_000_dots">"Koguge 1 000 000 täppi"</string>
 
     <string name="Absorb_4_blobs_quickly">"Söö 4 rakku kiiresti"</string>
     <string name="Absorb_8_blobs_quickly">"Söö 8 rakku kiiresti"</string>
@@ -210,13 +210,13 @@
     <string name="Absorb_160_player_blobs_without_restarting">"Söö 160 mängija rakud ilma surma saamata"</string>
     <string name="Absorb_240_player_blobs_without_restarting">"Söö 240 mängija rakud ilma surma saamata"</string>
 
-    <string name="Reach_a_score_of_1_000">"Saavuta 1,000 skoor"</string>
-    <string name="Reach_a_score_of_5_000">"Saavuta 5,000 skoor"</string>
-    <string name="Reach_a_score_of_10_000">"Saavuta 10,000 skoor"</string>
-    <string name="Reach_a_score_of_15_000">"Saavuta 15,000 skoor"</string>
-    <string name="Reach_a_score_of_20_000">"Saavuta 20,000 skoor"</string>
+    <string name="Reach_a_score_of_1_000">"Saavuta 1 000 skoor"</string>
+    <string name="Reach_a_score_of_5_000">"Saavuta 5 000 skoor"</string>
+    <string name="Reach_a_score_of_10_000">"Saavuta 10 000 skoor"</string>
+    <string name="Reach_a_score_of_15_000">"Saavuta 15 000 skoor"</string>
+    <string name="Reach_a_score_of_20_000">"Saavuta 20 000 skoor"</string>
 
-    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Saavuta 10,000 skoor ilma enda rakkude kaotamiseta"</string>
+    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Saavuta 10 000 skoor ilma enda rakkude kaotamiseta"</string>
     <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Saavuta 10,000 skoor ilma ennast pooleks tegemise, või tükkide välja laskmise abil"</string>
     <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Mängi 5 minutit ilma musta auku sisse minemiseta"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"Mängi 5 minutit ilma ühegi raku kaotamisega"</string>
@@ -258,37 +258,37 @@
     <string name="SOCCER">"JALGPALL"</string>
     <string name="DRAW">"VIIK"</string>
 
-    <string name="Clan_Name">"Clani Nimi"</string>
-    <string name="Clan">"Clan:"</string>
+    <string name="Clan_Name">"Klanni Nimi"</string>
+    <string name="Clan">"Klann:"</string>
 
 
-    <string name="JOIN_CLAN">"LIITU CLAN-IGA"</string>
-    <string name="JOIN_RANDOM_CLAN">"LIITU SUVALISE CLAN-IGA"</string>
-    <string name="LEAVE_CLAN">"LAHKU KLANN-IST"</string>
+    <string name="JOIN_CLAN">"LIITU KLANNIGA"</string>
+    <string name="JOIN_RANDOM_CLAN">"LIITU SUVALISE KLANNIGA"</string>
+    <string name="LEAVE_CLAN">"LAHKU KLANNI"</string>
     <string name="INVITE_MEMBER">"KUTSU LIIGE"</string>
     <string name="REMOVE_MEMBER">"EEMALDA LIIGE"</string>
 
 
-    <string name="CREATE_CLAN">"LOO CLAN"</string>
+    <string name="CREATE_CLAN">"LUUA KLANNI"</string>
     <string name="MEMBER">"LIIGE"</string>
     <string name="ADMIN">"ADMIN"</string>
     <string name="LEADER">"JUHT"</string>
     <string name="ELDER">"VANEM"</string>
 
 
-    <string name="Not_in_a_clan_">"Pole clannis."</string>
+    <string name="Not_in_a_clan_">"Pole klannis."</string>
 
 
-    <string name="CLAN">"CLAN"</string>
+    <string name="CLAN">"KLANN"</string>
 
 
-    <string name="Specify_Clan_ID">"Täpsusta Clani ID"</string>
-    <string name="Show_Clan_Names">"Näita Clanni Nimesid"</string>
+    <string name="Specify_Clan_ID">"Täpsusta Klanni ID"</string>
+    <string name="Show_Clan_Names">"Näita Klanni Nimesid"</string>
     <string name="Show_Levels">"Näita Leveleid"</string>
     <string name="SET_MOTD">"PANE MOTOKS"</string>
     <string name="No_such_user_found_">"Kasutajat ei leitud."</string>
     <string name="No_open_public_clans_exist_">"Ühtki avalikku clanni ei eksisteer"</string>
-    <string name="You_aren_t_invited_to_that_clan_">"Sind pole kutsutud sinna clanni"</string>
+    <string name="You_aren_t_invited_to_that_clan_">"Sind pole kutsutud see klann"</string>
     <string name="No_such_clan_exists_">"Sellist clanni ei eksisteeri."</string>
     <string name="That_clan_is_full_">"See klann on täis."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Teine kasutaja ei ole liige teie clannis."</string>
@@ -336,7 +336,7 @@
     <string name="_in_a_Teams_Game">" Tiimi mängus"</string>
     <string name="_dots">" täpid"</string>
     <string name="_player_blobs">" mängija rakud"</string>
-    <string name="Absorb_">"Neela! "</string>
+    <string name="Absorb_">"Neela "</string>
     <string name="Collect_">"Kogu "</string>
 
     <string name="FFA_CLASSIC">"KKV KLASSIKALINE"</string>
@@ -373,7 +373,7 @@
     <string name="My_Ranks">"Minu Auastmed"</string>
     <string name="Player_XP">"Mängija XP"</string>
 
-    <string name="W_D_L">"W-D-L"</string>
+    <string name="W_D_L">"V-V-K"</string>
     <string name="MATCH_START">"MÄNGU ALGUS"</string>
     <string name="Clan_Warrior">"KLANNI SÕDALANE"</string>
     <string name="Win_a_Clan_War">"Võida Klanni Sõda"</string>
@@ -696,8 +696,8 @@
     <string name="This_device_does_not_support_bluetooth_">"See seade ei toeta bluetoothi."</string>
     <string name="member_permissions">"liige reeglid"</string>
     <string name="edit">"Muuda"</string>
-    <string name="start_clan_war">"Alusta klannu sõda"</string>
-    <string name="join_clan_war">"Liitu klanni sõjaga"</string>
+    <string name="start_clan_war">"Alusta Klanni Sõda"</string>
+    <string name="join_clan_war">"Liitu Klanni Sõda"</string>
     <string name="none">"mitte ükski"</string>
     <string name="INVALID_TOKEN">"kehtetu žetoon."</string>
     <string name="banned_until">"keelatud kuni "</string>
@@ -750,7 +750,7 @@
     <string name="Other_players_can_not_see_your_skin_">"Teised mängijad ei näe teie nahka."</string>
     <string name="Other_players_can_see_your_skin_">"Teised mängijad saavad näha teie nahka."</string>
     <string name="LEGEND">"LEGEND"</string>
-    <string name="Win_10000_Arenas">"Võida 10000 Areenat"</string>
+    <string name="Win_10000_Arenas">"Võida 10 000 Areenat"</string>
     <string name="UPLOAD_PREVIEW">"ÜLESLAADIMINE EELVAADE"</string>
     <string name="Transparency">"läbipaistvus"</string>
     <string name="upload_info">"Teil on võimalik saavutada paremat kvaliteeti ilma läbipaistvuse või lihtsamate piltide kasutamisel."</string>
@@ -764,7 +764,7 @@
     <string name="FFAU">"KKVU"</string>
     <string name="_in_a_FFAU_Game">"KKV ULTRA mäng"</string>
 
-    <string name="BANNED_PLAYERS">"KEELATUD mängijad"</string>
+    <string name="BANNED_PLAYERS">"KEELATUD NÄNGIJAD"</string>
     <string name="MAIL">"MEIL"</string>
     <string name="WRITE_MAIL">"KIRJUTA MEIL"</string>
     <string name="Days">"Päevad"</string>
@@ -1108,7 +1108,7 @@
     <string name="Not_enough_plasma_">Pole piisavalt plasmat</string>
     <string name="GET_PLASMA">saa plasmat</string>
     <string name="ASTEROIDS">ASTEROIDID</string>
-    <string name="CHRISTMAS">Jõulud</string>
+    <string name="CHRISTMAS">JÕULUD</string>
     <string name="Reason">Põhjus</string>
     <string name="PUBLIC">AVALIK</string>
     <string name="PRIVATE">PRIVAATNE</string>
@@ -1234,7 +1234,7 @@
     <string name="particle_info">You must be at least level 50 and use a base skin with particles in order to see any particles.</string>
     <string name="Plain_Score_Text">"Plain Score Text"</string>
     <string name="Custom_Skin_Reviewed_Notification">Your Custom Skin Has Been Reviewed!</string>
-    <string name="You_Have_Mail_">Sul On Mail %s!</string>
+    <string name="You_Have_Mail_">Sul On Meil %s!</string>
     <string name="Clan_Request_Reviewed_Notification">Your Request To Join Clan %s Been Reviewed!</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
     <string name="Sold_Community_Skins_">"Sold Community Skins: "</string>
