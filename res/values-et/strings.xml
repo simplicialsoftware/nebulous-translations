@@ -188,11 +188,11 @@
 
     <string name="Absorb_50_dots">"Koguge 50 täppi"</string>
     <string name="Absorb_300_dots">"Koguge 300 täppi"</string>
-    <string name="Absorb_1_000_dots">"Koguge 1000 täppi"</string>
-    <string name="Absorb_5_000_dots">"Koguge 5000 täppi"</string>
-    <string name="Absorb_10_000_dots">"Koguge 10000 täppi"</string>
-    <string name="Absorb_50_000_dots">"Koguge 50000 täppi"</string>
-    <string name="Absorb_100_000_dots">"Koguge 100000 täppi"</string>
+    <string name="Absorb_1_000_dots">"Koguge 1 000 täppi"</string>
+    <string name="Absorb_5_000_dots">"Koguge 5 000 täppi"</string>
+    <string name="Absorb_10_000_dots">"Koguge 10 000 täppi"</string>
+    <string name="Absorb_50_000_dots">"Koguge 50 000 täppi"</string>
+    <string name="Absorb_100_000_dots">"Koguge 100 000 täppi"</string>
     <string name="Absorb_1_000_000_dots">"Koguge 1 000 000 täppi"</string>
 
     <string name="Absorb_4_blobs_quickly">"Söö 4 rakku kiiresti"</string>
@@ -345,7 +345,7 @@
     <string name="pumpkins_">"kõrvitsad."</string>
     <string name="To_use_this_skin_you_must_collect">"Et kasutada seda skinni peate koguma"</string>
     <string name="Australia">"AUSTRAALIA"</string>
-    <string name="Pumpkin_Collector">"Kõrvitsa Koguja"</string>
+    <string name="Pumpkin_Collector">"Kõrvitsa Kollektsionäär"</string>
     <string name="Collect_1000_pumpkins_">"Kogu 1 000 kõrvitsat."</string>
 
     <string name="FFAC">"KKVK"</string>
@@ -382,9 +382,9 @@
 
 
     <string name="snowflakes_">"lumehelbed."</string>
-    <string name="presents_">"kingitused"</string>
-    <string name="Snowflake_Collector">"Lumehelbe Koguja"</string>
-    <string name="Present_Collector">"Kinkide Koguja"</string>
+    <string name="presents_">"kingitused."</string>
+    <string name="Snowflake_Collector">"Lumehelbe Kollektsionäär"</string>
+    <string name="Present_Collector">"Kinkide Kollektsionäär"</string>
 
 
     <string name="Season">"Hooaeg"</string>
@@ -392,8 +392,8 @@
 
     <string name="Current">"Praegune"</string>
     <string name="leaves_">"lehed."</string>
-    <string name="Leaf_Collector">"Lehekogur"</string>
-    <string name="Collect_1000_leaves_">"Kogu 1 000 lehte."</string>
+    <string name="Leaf_Collector">"Lehe Kollektsionäär"</string>
+    <string name="Collect_1000_leaves_">"Kogu 1 000 lehed."</string>
     <string name="XP_Boost">"XP Boost"</string>
     <string name="Double">"Topelt"</string>
     <string name="Hour">"Tund"</string>
@@ -401,15 +401,15 @@
 
 
     <string name="Triple">"Kolmekordne"</string>
-    <string name="Leaf_Hoarder">"Lehe koguja"</string>
-    <string name="Collect_5000_leaves_">"Kogu 5000 lehte."</string>
+    <string name="Leaf_Hoarder">"Lehe Koguja"</string>
+    <string name="Collect_5000_leaves_">"Kogu 5 000 lehed."</string>
 
 
     <string name="Arena">"AREENA"</string>
     <string name="Enter_the_Arena">"Sisestage Arena"</string>
 
 
-    <string name="Purchase_History">"Ostu ajalugu"</string>
+    <string name="Purchase_History">"Ostu Ajalugu"</string>
 
     <string name="Purchases_Unavailable_">"Oste ei ole saadaval!"</string>
     <string name="You_can_purchase_this_skin_for">"Te saate osta seda skinni"</string>
@@ -417,7 +417,7 @@
     <string name="Error_in_backup_data_">"Viga varu andmetes!"</string>
 
 
-    <string name="Remove_Ads">"Eemalda reklaamid"</string>
+    <string name="Remove_Ads">"Eemalda Reklaamid"</string>
     <string name="Reward">"Auhind"</string>
     <string name="Please_Wait___">"Palun oota…"</string>
     <string name="Purchasing">"Ostmine"</string>
