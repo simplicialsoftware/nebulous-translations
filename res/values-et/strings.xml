@@ -509,16 +509,16 @@
 
     <string name="Present_Hoarder">"Kingitus Koguja"</string>
     <string name="Present_Mogul">"Kingitus Mugul"</string>
-    <string name="Collect_1_000_presents_">"Kogu 1 000 kingitust."</string>
-    <string name="Collect_5_000_presents_">"Kogu 5 000 kingitust."</string>
-    <string name="Collect_10_000_presents_">"Kogu 10 000 kingitust."</string>
+    <string name="Collect_1_000_presents_">"Kogu 1 000 kingitused."</string>
+    <string name="Collect_5_000_presents_">"Kogu 5 000 kingitused."</string>
+    <string name="Collect_10_000_presents_">"Kogu 10 000 kingitused."</string>
     <string name="Loading_reward_video___">"Laadimine tasu video…"</string>
     <string name="Progress">"Progress"</string>
     <string name="Snowflake_Hoarder">"Lumehelbe Koguja"</string>
     <string name="Snowflake_Mogul">"Lumehelbe Mugul"</string>
-    <string name="Collect_1_000_snowflakes_">"Kogu 1 000 lumehelbed"</string>
-    <string name="Collect_5_000_snowflakes_">"Kogu 5 000 lumehelbed"</string>
-    <string name="Collect_10_000_snowflakes_">"Kogu 10 000 lumehelbed"</string>
+    <string name="Collect_1_000_snowflakes_">"Kogu 1 000 lumehelbed."</string>
+    <string name="Collect_5_000_snowflakes_">"Kogu 5 000 lumehelbed."</string>
+    <string name="Collect_10_000_snowflakes_">"Kogu 10 000 lumehelbed."</string>
     <string name="Show_All">"Näita kõike"</string>
 
     <string name="SET_PERMISSIONS">"Sea õigused"</string>
