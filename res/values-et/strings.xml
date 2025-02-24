@@ -507,18 +507,18 @@
     <string name="Arena_Mode">"Areena režiim"</string>
     <string name="Connection_Lost">"Ühendus katkes"</string>
 
-    <string name="Present_Hoarder">"Present koguja"</string>
-    <string name="Present_Mogul">"Present Mogul"</string>
+    <string name="Present_Hoarder">"Kingitus Koguja"</string>
+    <string name="Present_Mogul">"Kingitus Mugul"</string>
     <string name="Collect_1_000_presents_">"Kogu 1 000 kingitust."</string>
     <string name="Collect_5_000_presents_">"Kogu 5 000 kingitust."</string>
     <string name="Collect_10_000_presents_">"Kogu 10 000 kingitust."</string>
-    <string name="Loading_reward_video___">"Laadimine tasu video …"</string>
+    <string name="Loading_reward_video___">"Laadimine tasu video…"</string>
     <string name="Progress">"Progress"</string>
-    <string name="Snowflake_Hoarder">"lumehelbe koguja"</string>
-    <string name="Snowflake_Mogul">"lumehelbe Mugul"</string>
-    <string name="Collect_1_000_snowflakes_">"Kogu 1 000 lumehelvest"</string>
-    <string name="Collect_5_000_snowflakes_">"Kogu 5 000 lumehelvest"</string>
-    <string name="Collect_10_000_snowflakes_">"Kogu 10 000 lumehelvest"</string>
+    <string name="Snowflake_Hoarder">"Lumehelbe Koguja"</string>
+    <string name="Snowflake_Mogul">"Lumehelbe Mugul"</string>
+    <string name="Collect_1_000_snowflakes_">"Kogu 1 000 lumehelbed"</string>
+    <string name="Collect_5_000_snowflakes_">"Kogu 5 000 lumehelbed"</string>
+    <string name="Collect_10_000_snowflakes_">"Kogu 10 000 lumehelbed"</string>
     <string name="Show_All">"Näita kõike"</string>
 
     <string name="SET_PERMISSIONS">"Sea õigused"</string>
@@ -572,7 +572,7 @@
     <string name="Candy_Mogul">"Kommi Mugul"</string>
     <string name="Collect_1_000_candies_">"Kogu 1 000 kommid"</string>
     <string name="Collect_5_000_candies_">"Kogu 5 000 kommid"</string>
-    <string name="Collect_10_000_candies_">"Koguda 10 000 kommid"</string>
+    <string name="Collect_10_000_candies_">"Kogu 10 000 kommid"</string>
     <string name="candies_">"kommid."</string>
     <string name="Language">"Keel"</string>
     <string name="Control_Opacity_">"Kontrolli läbipaistmatus:"</string>
@@ -586,7 +586,7 @@
     <string name="Please_wait_a_minute_before_sending_another_report_">"Palun oodake minut enne teise aruande saatmist."</string>
     <string name="Collect_1_000_beads_">"Kogu 1 000 helmed."</string>
     <string name="Collect_5_000_beads_">"Kogu 5 000 helmed."</string>
-    <string name="Collect_10_000_beads_">"Koguda 10 000 helmed."</string>
+    <string name="Collect_10_000_beads_">"Kogu 10 000 helmed."</string>
     <string name="Bead_Collector">"Helme Kollektsionäär"</string>
     <string name="Bead_Hoarder">"Helme Koguja"</string>
     <string name="Bead_Mogul">"Helme Mugul"</string>
@@ -618,7 +618,7 @@
     <string name="Egg_Mogul">"Muna Mugul"</string>
     <string name="Collect_1_000_eggs_">"Kogu 1 000 munad."</string>
     <string name="Collect_5_000_eggs_">"Kogu 5 000 munad."</string>
-    <string name="Collect_10_000_eggs_">"Koguda 10 000 munad."</string>
+    <string name="Collect_10_000_eggs_">"Kogu 10 000 munad."</string>
     <string name="HISTORY">"AJALUGU"</string>
     <string name="CLAN_HISTORY">"KLANNI AJALUGU"</string>
 
@@ -644,9 +644,9 @@
     <string name="Raindrop_Collector">"Vihmapiisk Kollektsionäär"</string>
     <string name="Raindrop_Hoarder">"Vihmapiisk Koguja"</string>
     <string name="Raindrop_Mogul">"Vihmapiisk Mugul"</string>
-    <string name="Collect_1_000_raindrops_">"Kogu 1 000 vihmapiiskasid."</string>
-    <string name="Collect_5_000_raindrops_">"Kogu 5 000 vihmapiiskasid."</string>
-    <string name="Collect_10_000_raindrops_">"Koguda 10 000 vihmapiiskasid."</string>
+    <string name="Collect_1_000_raindrops_">"Kogu 1 000 vihmapiisad."</string>
+    <string name="Collect_5_000_raindrops_">"Kogu 5 000 vihmapiisad."</string>
+    <string name="Collect_10_000_raindrops_">"Kogu 10 000 vihmapiisad."</string>
     <string name="Copy_Message">"Kopeeri Sõnum"</string>
     <string name="Copied_to_clipboard_">"Kopeeritaks."</string>
     <string name="COPY_NAME">"KOPEERI NIMI"</string>
@@ -666,7 +666,7 @@
     <string name="Nebula_Mogul">"Nebula Mugul"</string>
     <string name="Collect_1_000_nebulas_">"Kogu 1 000 nebulad."</string>
     <string name="Collect_5_000_nebulas_">"Kogu 5 000 nebulad."</string>
-    <string name="Collect_10_000_nebulas_">"Koguda 10 000 nebulad."</string>
+    <string name="Collect_10_000_nebulas_">"Kogu 10 000 nebulad."</string>
     <string name="nebulas_">"nebulad."</string>
     <string name="Incompatible_versions_">"Mitteühtivad versioonid."</string>
     <string name="Update_Available_">"Uuendus saadaval!"</string>
@@ -681,7 +681,7 @@
     <string name="Sun_Mogul">"Päikese Mugul"</string>
     <string name="Collect_1_000_suns_">"Kogu 1 000 päikesed."</string>
     <string name="Collect_5_000_suns_">"Kogu 5 000 päikesed."</string>
-    <string name="Collect_10_000_suns_">"Koguda 10 000 päikesed."</string>
+    <string name="Collect_10_000_suns_">"Kogu 10 000 päikesed."</string>
     <string name="Reward_Videos_">"Auhinnaga videod!"</string>
     <string name="Free_Plasma_">"Tasuta Plasma!"</string>
     <string name="moons_">"kuud."</string>
@@ -690,7 +690,7 @@
     <string name="Moon_Mogul">"Kuu Mugul"</string>
     <string name="Collect_1_000_moons_">"Kogu 1 000 kuud."</string>
     <string name="Collect_5_000_moons_">"Kogu 5 000 kuud."</string>
-    <string name="Collect_10_000_moons_">"Koguda 10 000 kuud."</string>
+    <string name="Collect_10_000_moons_">"Kogu 10 000 kuud."</string>
     <string name="BLUETOOTH">"BLUETOOTH"</string>
     <string name="HOST">"HOST"</string>
     <string name="This_device_does_not_support_bluetooth_">"See seade ei toeta bluetoothi."</string>
@@ -701,40 +701,40 @@
     <string name="none">"mitte ükski"</string>
     <string name="INVALID_TOKEN">"kehtetu žetoon."</string>
     <string name="banned_until">"keelatud kuni "</string>
-    <string name="Note_Collector">"Märkuse koguja"</string>
-    <string name="Note_Hoarder">"Märkuse koguja"</string>
+    <string name="Note_Collector">"Märkuse Kollektsionäär"</string>
+    <string name="Note_Hoarder">"Märkuse Koguja"</string>
     <string name="Note_Mogul">"Märkuse Mugul"</string>
-    <string name="Collect_1_000_notes_">"Kogu 1000 märkust."</string>
-    <string name="Collect_5_000_notes_">"Kogu 5000 märkust."</string>
-    <string name="Collect_10_000_notes_">"Koguda 10000 märkust."</string>
+    <string name="Collect_1_000_notes_">"Kogu 1 000 märkust."</string>
+    <string name="Collect_5_000_notes_">"Kogu 5 000 märkust."</string>
+    <string name="Collect_10_000_notes_">"Kogu 10 000 märkust."</string>
     <string name="notes_">"märkmed."</string>
     <string name="CLICK_CHEAT_DETECTED_">"KLIKI PETTUS tuvastatud!"</string>
-    <string name="Pumpkin_Hoarder">"Kõrvitsa koguja"</string>
+    <string name="Pumpkin_Hoarder">"Kõrvitsa Koguja"</string>
     <string name="Pumpkin_Mogul">"Kõrvitsa Mugul"</string>
     <string name="Leaf_Mogul">"lehe Mugul"</string>
-    <string name="Collect_5000_pumpkins_">"Kogu 5,000 kõrvitsat."</string>
-    <string name="Collect_10000_pumpkins_">"Kogu 10,000 kõrvitsat."</string>
-    <string name="Collect_10000_leaves_">"Kogu 10,000 lehte."</string>
-    <string name="Eject">"väljutamine"</string>
-    <string name="Eject_Skin">"väljutamise nahk"</string>
-    <string name="Double_Plasma__">"Topelt plasma !!"</string>
-    <string name="Ends">"lõppeb"</string>
-    <string name="Select_Clan_Member">"Vali Klanni liige"</string>
-    <string name="Inappropriate_Skin">"ebasobiv nahk"</string>
+    <string name="Collect_5000_pumpkins_">"Kogu 5 000 kõrvitsat."</string>
+    <string name="Collect_10000_pumpkins_">"Kogu 10 000 kõrvitsat."</string>
+    <string name="Collect_10000_leaves_">"Kogu 10 000 lehte."</string>
+    <string name="Eject">"Eject"</string>
+    <string name="Eject_Skin">"Eject Skin"</string>
+    <string name="Double_Plasma__">"Topelt plasma!!"</string>
+    <string name="Ends">"Lõppeb"</string>
+    <string name="Select_Clan_Member">"Vali Klanni Liige"</string>
+    <string name="Inappropriate_Skin">"Ebasobiv Skin"</string>
     <string name="Approved">"Heakskiidetud"</string>
     <string name="Rejected">"Tõrjutud"</string>
-    <string name="Refunded">"tagastatud"</string>
+    <string name="Refunded">"Tagastatud"</string>
 
 
     <string name="contribution_warning">"Olete kindel, et soovite aidata kaasa  plasma annetusel? Toetuseid ei tagastata."</string>
-    <string name="Upload">"Laadi üles"</string>
+    <string name="Upload">"Laadi Üles"</string>
     <string name="upload_warning">"Olete kindel, et soovite saata selle naha? Teised mängijad saavad näha seda nahka kui see on heakskiidetud Naha analüüsimine võib aega võtta kuni ühe nädala. Ebasobivad nahad lükatakse tagasi"</string>
 
     <string name="In_Review">"Ülevaatusel"</string>
     <string name="Account_Uploads">"konto Üleslaadimised"</string>
     <string name="Clan_Uploads">"Klanni Ûleslaadimised"</string>
     <string name="Empty">"Tühi"</string>
-    <string name="Select">"valima"</string>
+    <string name="Select">"Valima"</string>
     <string name="Current_Skin">"Praegune nahk"</string>
     <string name="Status">"Staatus"</string>
     <string name="upload_size_failure">"Ei saa laadida seda pilti, kuna see on liiga suur. Palun proovige teistsugust pilti."</string>
@@ -743,7 +743,7 @@
     <string name="Clan_Contribution">"Klanni panus"</string>
     <string name="FILTER">"FILTER"</string>
     <string name="List_Count_">"Nimekiri:"</string>
-    <string name="Download_Skins">"Lae Skins"</string>
+    <string name="Download_Skins">"Lae Skin"</string>
     <string name="ARENA_HISTORY">"AREENA AJALUGU"</string>
     <string name="WIN">"VÕIDA"</string>
     <string name="LOSS">"KAOTUS"</string>
@@ -757,7 +757,7 @@
     <string name="Compression_Quality_">"Compression kvaliteeti:"</string>
     <string name="inapproriate_info">"Ebasobiv nahad sisaldama midagi Vaenu, gore, roppus, vägivald, narkootikumid, seks, alastiolek, kogu keha selfie't, hämarus, unintelligibility ja muundamata häguse nahad."</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">"Olete kindel, et soovite saata selle nahka?"</string>
-    <string name="Grant_Permission">"luba andma"</string>
+    <string name="Grant_Permission">"Luba Andma"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous vajab Kasutusruumi õiguseid, et varundada üksikmängu progressi "</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous vajab Üldise asukoha õigused, et leida lähedal Bluetooth-seadmeid."</string>
     <string name="FFA_ULTRA">"KKV ULTRA"</string>
@@ -893,8 +893,8 @@
     <string name="CLAN_HOUSE">KLANNIDE MAJA</string>
 
     <string name="ROOM">ROOM</string>
-    <string name="EXPERIMENTAL">EXPERIMENTAL</string>
-    <string name="members">Members</string>
+    <string name="EXPERIMENTAL">EKSPERIMENTAALNE</string>
+    <string name="members">Liikmed</string>
     <string name="Delete_ALL_Messages_">Delete ALL Messages!</string>
     <string name="SAVE_PROFILE">SAVE PROFILE</string>
     <string name="Move">Move</string>
@@ -903,8 +903,8 @@
     <string name="ENEMIES">VAENLASED</string>
     <string name="NEW_ALLIANCE">UUS LIIT</string>
     <string name="NEW_ENEMY">UUS VAENLANE</string>
-    <string name="CLAN_RELATIONS">CLAN RELATIONS</string>
-    <string name="Clan_XP_Boost">CLAN XP BOOST</string>
+    <string name="CLAN_RELATIONS">KLANNISUHTED</string>
+    <string name="Clan_XP_Boost">KLANNI XP BOOST</string>
     <string name="x3_Clan_XP_7_days">3x Klanni XP 7 Päeva</string>
     <string name="x3_Clan_XP_1_Day">3x Klanni XP 1 Päev</string>
     <string name="x2_Clan_XP_1_Day">2x Klanni XP 1 Päev</string>
@@ -925,10 +925,10 @@
     <string name="Wait_for_the_current_invitation_to_expire_">Oodake kuni praegune kutse aegub.</string>
     <string name="BLOB_COLOR">MULLI VÄRV</string>
     <string name="ENABLED">LUBATUD</string>
-    <string name="Enable_Custom_Blob_Color">Luba tava mulli värvid</string>
+    <string name="Enable_Custom_Blob_Color">Luba Kohandatud Mulli Värvid</string>
     <string name="Choose_Menu">Vali Menüü</string>
-    <string name="SPECTATE">Jälgi</string>
-    <string name="INVITE">Kutsu</string>
+    <string name="SPECTATE">JÄLGI</string>
+    <string name="INVITE">KUTSU</string>
     <string name="error_1">Only leader or diamond can send clan mail.</string>
     <string name="Hat">Müts</string>
     <string name="Hats">Mütsid</string>
@@ -941,13 +941,13 @@
     <string name="SPLIT_16X">SPLIT 16x</string>
     <string name="SET_PUBLIC_DESCRIPTION">SEA AVALIK TUTVUSTUS</string>
     <string name="SET_NOTE">SET NOTE</string>
-    <string name="enable_notifications">luba märguanded</string>
+    <string name="enable_notifications">Luba Märguanded</string>
     <string name="PROMOTE_MEMBER">EDENDA LIIGE</string>
     <string name="DEMOTE_MEMBER">ALANDA LIIGE</string>
     <string name="HAPPY_BIRTHDAY_">HEAD NEBULOUSI SÜNNIPÄEVA!</string>
     <string name="Years">Aastad</string>
     <string name="Friend_Added_">Sõber lisatud!</string>
-    <string name="_in_a_16x_Split_Game">in a 16x Split Game</string>
+    <string name="_in_a_16x_Split_Game"> 16x Split Mängus</string>
     <string name="Rules">Reeglid</string>
     <string name="Blob_Chat_Bubbles">Mulli kirjakasti mullid</string>
     <string name="CHRISTMAS_ADVENT_SKINS">JÕULU ADVENT</string>
