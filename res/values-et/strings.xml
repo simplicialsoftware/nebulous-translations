@@ -345,7 +345,7 @@
     <string name="pumpkins_">"kõrvitsad."</string>
     <string name="To_use_this_skin_you_must_collect">"Et kasutada seda skinni peate koguma"</string>
     <string name="Australia">"AUSTRAALIA"</string>
-    <string name="Pumpkin_Collector">"Kõrvitsa Kollektsionäär"</string>
+    <string name="Pumpkin_Collector">"Kõrvitsa Koguja"</string>
     <string name="Collect_1000_pumpkins_">"Kogu 1 000 kõrvitsat."</string>
 
     <string name="FFAC">"KKVK"</string>
@@ -383,8 +383,8 @@
 
     <string name="snowflakes_">"lumehelbed."</string>
     <string name="presents_">"kingitused."</string>
-    <string name="Snowflake_Collector">"Lumehelbe Kollektsionäär"</string>
-    <string name="Present_Collector">"Kinkide Kollektsionäär"</string>
+    <string name="Snowflake_Collector">"Lumehelbe Koguja"</string>
+    <string name="Present_Collector">"Kinkide Koguja"</string>
 
 
     <string name="Season">"Hooaeg"</string>
@@ -392,7 +392,7 @@
 
     <string name="Current">"Praegune"</string>
     <string name="leaves_">"lehed."</string>
-    <string name="Leaf_Collector">"Lehe Kollektsionäär"</string>
+    <string name="Leaf_Collector">"Lehe Koguja"</string>
     <string name="Collect_1000_leaves_">"Kogu 1 000 lehed."</string>
     <string name="XP_Boost">"XP Boost"</string>
     <string name="Double">"Topelt"</string>
@@ -401,7 +401,7 @@
 
 
     <string name="Triple">"Kolmekordne"</string>
-    <string name="Leaf_Hoarder">"Lehe Koguja"</string>
+    <string name="Leaf_Hoarder">"Lehe Kollektsionäär"</string>
     <string name="Collect_5000_leaves_">"Kogu 5 000 lehed."</string>
 
 
@@ -459,14 +459,14 @@
     <string name="Daily_Reward">"Päevane Sisselogimine"</string>
     <string name="Reset">"Taasta"</string>
     <string name="Plasma">"Plasma"</string>
-    <string name="Plasma_Mogul">"Plasma Algaja"</string>
-    <string name="Plasma_Collector">"Plasma koguja"</string>
-    <string name="Plasma_Hoarder">"Plasma Sööja"</string>
-    <string name="Collect_1_000_Plasma">"Kogu 1000 Plasmat."</string>
-    <string name="Collect_10_000_Plasma_">"Kogu 10000 Plasmat."</string>
-    <string name="Collect_100_000_Plasma">"Kogu 100000 Plasmat."</string>
+    <string name="Plasma_Mogul">"Plasma Mugul"</string>
+    <string name="Plasma_Collector">"Plasma Koguja"</string>
+    <string name="Plasma_Hoarder">"Plasma Kollektsionäär"</string>
+    <string name="Collect_1_000_Plasma">"Kogu 1 000 Plasmat."</string>
+    <string name="Collect_10_000_Plasma_">"Kogu 10 000 Plasmat."</string>
+    <string name="Collect_100_000_Plasma">"Kogu 100 000 Plasmat."</string>
     <string name="Plasma_Collected_">"Plasma Kogutud:"</string>
-    <string name="Plasma_Purchases">"Plasma ostud"</string>
+    <string name="Plasma_Purchases">"Plasma Ostud"</string>
 
     <string name="ENTER">"SISENE"</string>
     <string name="_1v1">"1v1"</string>
@@ -507,14 +507,14 @@
     <string name="Arena_Mode">"Areena režiim"</string>
     <string name="Connection_Lost">"Ühendus katkes"</string>
 
-    <string name="Present_Hoarder">"Kingitus Koguja"</string>
+    <string name="Present_Hoarder">"Kingitus Kollektsionäär"</string>
     <string name="Present_Mogul">"Kingitus Mugul"</string>
     <string name="Collect_1_000_presents_">"Kogu 1 000 kingitused."</string>
     <string name="Collect_5_000_presents_">"Kogu 5 000 kingitused."</string>
     <string name="Collect_10_000_presents_">"Kogu 10 000 kingitused."</string>
     <string name="Loading_reward_video___">"Laadimine tasu video…"</string>
     <string name="Progress">"Progress"</string>
-    <string name="Snowflake_Hoarder">"Lumehelbe Koguja"</string>
+    <string name="Snowflake_Hoarder">"Lumehelbe Kollektsionäär"</string>
     <string name="Snowflake_Mogul">"Lumehelbe Mugul"</string>
     <string name="Collect_1_000_snowflakes_">"Kogu 1 000 lumehelbed."</string>
     <string name="Collect_5_000_snowflakes_">"Kogu 5 000 lumehelbed."</string>
@@ -567,8 +567,8 @@
     <string name="Flag_lobby_as_inappropriate">"Lipu sessioon sobimatu"</string>
     <string name="Promote_Clan_Member">"Edendada klanni liige"</string>
     <string name="Leave_Clan">"Jäta Klanni"</string>
-    <string name="Candy_Hoarder">"Kommi Koguja"</string>
-    <string name="Candy_Collector">"Kommi Kollektsionäär"</string>
+    <string name="Candy_Hoarder">"Kommi Kollektsionäär"</string>
+    <string name="Candy_Collector">"Kommi Koguja"</string>
     <string name="Candy_Mogul">"Kommi Mugul"</string>
     <string name="Collect_1_000_candies_">"Kogu 1 000 kommid"</string>
     <string name="Collect_5_000_candies_">"Kogu 5 000 kommid"</string>
@@ -587,8 +587,8 @@
     <string name="Collect_1_000_beads_">"Kogu 1 000 helmed."</string>
     <string name="Collect_5_000_beads_">"Kogu 5 000 helmed."</string>
     <string name="Collect_10_000_beads_">"Kogu 10 000 helmed."</string>
-    <string name="Bead_Collector">"Helme Kollektsionäär"</string>
-    <string name="Bead_Hoarder">"Helme Koguja"</string>
+    <string name="Bead_Collector">"Helme Koguja"</string>
+    <string name="Bead_Hoarder">"Helme Kollektsionäär"</string>
     <string name="Bead_Mogul">"Helme Mugul"</string>
     <string name="beads_">"helmed."</string>
 
@@ -613,8 +613,8 @@
 
     <string name="MAYHEM">"KAOS"</string>
     <string name="eggs_">"munad."</string>
-    <string name="Egg_Collector">"Muna Kollektsionäär"</string>
-    <string name="Egg_Hoarder">"Muna Koguja"</string>
+    <string name="Egg_Collector">"Muna Koguja"</string>
+    <string name="Egg_Hoarder">"Muna Kollektsionäär"</string>
     <string name="Egg_Mogul">"Muna Mugul"</string>
     <string name="Collect_1_000_eggs_">"Kogu 1 000 munad."</string>
     <string name="Collect_5_000_eggs_">"Kogu 5 000 munad."</string>
@@ -641,8 +641,8 @@
     <string name="Cannot_Join_Arena_">"Ei saa liituda Arenaga."</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"Väljalogimine ühendab lahti sind praegusest mängust"</string>
     <string name="raindrops_">"vihmapiisad."</string>
-    <string name="Raindrop_Collector">"Vihmapiisk Kollektsionäär"</string>
-    <string name="Raindrop_Hoarder">"Vihmapiisk Koguja"</string>
+    <string name="Raindrop_Collector">"Vihmapiisk Koguja"</string>
+    <string name="Raindrop_Hoarder">"Vihmapiisk Kollektsionäär"</string>
     <string name="Raindrop_Mogul">"Vihmapiisk Mugul"</string>
     <string name="Collect_1_000_raindrops_">"Kogu 1 000 vihmapiisad."</string>
     <string name="Collect_5_000_raindrops_">"Kogu 5 000 vihmapiisad."</string>
@@ -661,8 +661,8 @@
     <string name="Decline">"Keeldu"</string>
     <string name="Challenge_Declined">"Challenge lükatud"</string>
     <string name="Spectators_">"Pealtvaatajad:"</string>
-    <string name="Nebula_Collector">"Nebula Kollektsionäär"</string>
-    <string name="Nebula_Hoarder">"Nebula Koguja"</string>
+    <string name="Nebula_Collector">"Nebula Koguja"</string>
+    <string name="Nebula_Hoarder">"Nebula Kollektsionäär"</string>
     <string name="Nebula_Mogul">"Nebula Mugul"</string>
     <string name="Collect_1_000_nebulas_">"Kogu 1 000 nebulad."</string>
     <string name="Collect_5_000_nebulas_">"Kogu 5 000 nebulad."</string>
@@ -676,8 +676,8 @@
     <string name="DOWNLOAD">"LAE ALLA"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"Lükka tagasi kõik sõbrakutsed?"</string>
     <string name="suns_">"päikesed."</string>
-    <string name="Sun_Collector">"Päikese Kollektsionäär"</string>
-    <string name="Sun_Hoarder">"Päikese Koguja"</string>
+    <string name="Sun_Collector">"Päikese Koguja"</string>
+    <string name="Sun_Hoarder">"Päikese Kollektsionäär"</string>
     <string name="Sun_Mogul">"Päikese Mugul"</string>
     <string name="Collect_1_000_suns_">"Kogu 1 000 päikesed."</string>
     <string name="Collect_5_000_suns_">"Kogu 5 000 päikesed."</string>
@@ -685,8 +685,8 @@
     <string name="Reward_Videos_">"Auhinnaga videod!"</string>
     <string name="Free_Plasma_">"Tasuta Plasma!"</string>
     <string name="moons_">"kuud."</string>
-    <string name="Moon_Collector">"Kuu Kollektsionäär"</string>
-    <string name="Moon_Hoarder">"Kuu Koguja"</string>
+    <string name="Moon_Collector">"Kuu Koguja"</string>
+    <string name="Moon_Hoarder">"Kuu Kollektsionäär"</string>
     <string name="Moon_Mogul">"Kuu Mugul"</string>
     <string name="Collect_1_000_moons_">"Kogu 1 000 kuud."</string>
     <string name="Collect_5_000_moons_">"Kogu 5 000 kuud."</string>
@@ -699,19 +699,19 @@
     <string name="start_clan_war">"Alusta Klanni Sõda"</string>
     <string name="join_clan_war">"Liitu Klanni Sõda"</string>
     <string name="none">"mitte ükski"</string>
-    <string name="INVALID_TOKEN">"kehtetu žetoon."</string>
-    <string name="banned_until">"keelatud kuni "</string>
-    <string name="Note_Collector">"Märkuse Kollektsionäär"</string>
-    <string name="Note_Hoarder">"Märkuse Koguja"</string>
+    <string name="INVALID_TOKEN">"KEHTETU ŽETOON."</string>
+    <string name="banned_until">"Keelatud kuni"</string>
+    <string name="Note_Collector">"Märkuse Koguja"</string>
+    <string name="Note_Hoarder">"Märkuse Kollektsionäär"</string>
     <string name="Note_Mogul">"Märkuse Mugul"</string>
-    <string name="Collect_1_000_notes_">"Kogu 1 000 märkust."</string>
-    <string name="Collect_5_000_notes_">"Kogu 5 000 märkust."</string>
-    <string name="Collect_10_000_notes_">"Kogu 10 000 märkust."</string>
-    <string name="notes_">"märkmed."</string>
+    <string name="Collect_1_000_notes_">"Kogu 1 000 märkused."</string>
+    <string name="Collect_5_000_notes_">"Kogu 5 000 märkused."</string>
+    <string name="Collect_10_000_notes_">"Kogu 10 000 märkused."</string>
+    <string name="notes_">"märkused."</string>
     <string name="CLICK_CHEAT_DETECTED_">"KLIKI PETTUS tuvastatud!"</string>
-    <string name="Pumpkin_Hoarder">"Kõrvitsa Koguja"</string>
+    <string name="Pumpkin_Hoarder">"Kõrvitsa Kollektsionäär"</string>
     <string name="Pumpkin_Mogul">"Kõrvitsa Mugul"</string>
-    <string name="Leaf_Mogul">"lehe Mugul"</string>
+    <string name="Leaf_Mogul">"Lehe Mugul"</string>
     <string name="Collect_5000_pumpkins_">"Kogu 5 000 kõrvitsat."</string>
     <string name="Collect_10000_pumpkins_">"Kogu 10 000 kõrvitsat."</string>
     <string name="Collect_10000_leaves_">"Kogu 10 000 lehte."</string>
@@ -799,22 +799,22 @@
     <string name="Win_as_zombies_in_2_minutes_or_less_">"Võida zombina 2 minuti või vähema jooksul."</string>
     <string name="Win_as_survivors_with_no_losses_">"Võida ellujääjana kaotamata."</string>
     <string name="ZOMBIE_">"ZOMBI!"</string>
-    <string name="SURVIVOR_">"Ellujääja!"</string>
-    <string name="Zombies">"zombid"</string>
+    <string name="SURVIVOR_">"ELLUJÄÄJA!"</string>
+    <string name="Zombies">"Zombid"</string>
     <string name="Survivors">"Ellujäänud"</string>
-    <string name="Enter_a_Tournament">"liitu turniiriga"</string>
-    <string name="Win_a_Tournament">"Võida turniiri"</string>
+    <string name="Enter_a_Tournament">"Liitu Turniiriga"</string>
+    <string name="Win_a_Tournament">"Võida Turniiri"</string>
     <string name="Tournament_Competing">"Turniiri Konkureerivad"</string>
-    <string name="Tournament_Registered">"Turniiri liitunud"</string>
-    <string name="Tournament">"turniir"</string>
+    <string name="Tournament_Registered">"Turniiri Liitunud"</string>
+    <string name="Tournament">"Turniir"</string>
     <string name="TourneyDescription">"Sa pead registreerima mängida turniiril. Raha võetakse plasma turniiri alguse kuid võite unregister enne selle algust. Turniir algab siis, kui on vähemalt %d võistlejad."</string>
     <string name="Register">"Registreeri"</string>
 
-    <string name="Registered">"registreeritud"</string>
-    <string name="Not_Registered">"ei ole registreeritud"</string>
+    <string name="Registered">"Registreeritud"</string>
+    <string name="Not_Registered">"Ei Ole Registreeritud"</string>
     <string name="Prize_Pool">"Auhinnafond"</string>
-    <string name="Registrants">"registreerijad"</string>
-    <string name="Round_Of">"vooru"</string>
+    <string name="Registrants">"Registreerijad"</string>
+    <string name="Round_Of">"Vooru"</string>
     <string name="Next_Tournament">"Järgmine turniir"</string>
     <string name="Plasma_Won">"Plasma võitnud"</string>
     <string name="Semi_Finals">"Poolfinaali"</string>
@@ -823,11 +823,11 @@
     <string name="Finals">"Finaal"</string>
     <string name="Unregister">"Väljaregistreerimine"</string>
     <string name="Enter_My_Match">"Sisesta Minu Mäng"</string>
-    <string name="Starts_In">"algab"</string>
-    <string name="Seconds">"sekundi pärast"</string>
+    <string name="Starts_In">"Algab"</string>
+    <string name="Seconds">"Sekundi Pärast"</string>
     <string name="Tournaments_Temporarily_Disabled">"Turniirid ajutiselt blokeeritud"</string>
     <string name="CLAN_NAME_COLOR">"KLANNI NIMI VÄRV"</string>
-    <string name="Tuber">"mugul"</string>
+    <string name="Tuber">"YT"</string>
     <string name="youtube_prompt">"Kas soovite külastada seda häguse Youtube kanal? Need kanalid ei kuulu loojad häguse."</string>
     <string name="Tournament_Matches_Won_">"Turniiri mänge võitnud:"</string>
     <string name="PAINT">"VÄRVI"</string>
@@ -854,7 +854,7 @@
     <string name="Autoclick_Permanent">"Autoklikk Püsiv"</string>
     <string name="x3_XP_Permanent">"3x XP Püsiv"</string>
     <string name="x2_XP_Permanent">"2x XP Püsiv"</string>
-    <string name="Permanent">"püsiv"</string>
+    <string name="Permanent">"Püsiv"</string>
     <string name="Apply_To_Account">"Kontole rakendamine"</string>
     <string name="Spin_">"Keeruta!"</string>
     <string name="Next_Spin">"Järgmine Keerutus"</string>
@@ -864,10 +864,10 @@
     <string name="NOW">"NÜÜD"</string>
     <string name="Team_Deathmatch_Domination">"Team Deathmatch Domination"</string>
     <string name="We_Will_Survive">"Me jääme ellu"</string>
-    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Võida vähemalt 5. mängijat Team Deathmatch mängus."</string>
-    <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"Jää ellu kuid ei võida Team Deathmatch mängu."</string>
-    <string name="Win_a_Team_Deathmatch_Game">"Võida Team Deathmatch mäng"</string>
-    <string name="TEAM_DEATHMATCH">"TEAM Deathmatch"</string>
+    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Võida vähemalt 5. mängijat Tiimi Deathmatch mängus."</string>
+    <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"Jää ellu kuid ei võida Tiimi Deathmatch mängus."</string>
+    <string name="Win_a_Team_Deathmatch_Game">"Võida Tiimi Deathmatch mängus"</string>
+    <string name="TEAM_DEATHMATCH">"TIIMI DEATHMATCH"</string>
     <string name="Speed_Click_Toggle">"Kiirus Kliki lülitamine"</string>
     <string name="MOD">"MOD"</string>
     <string name="FAQ">Frequently Asked Questions</string>
