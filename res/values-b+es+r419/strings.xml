@@ -438,7 +438,7 @@
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"No se puede aplicar otro acelerador de EXP hasta que el acelerador actual termine."</string>
     <string name="This_purchase_has_already_been_redeemed_">"Esta compra ya ha sido canjeada."</string>
 
-    <string name="You_cannot_remove_yourself__Leave_clan_instead_">"No te puedes expulsar a ti mismo. En su lugar, solamente abandona el clan "</string>
+    <string name="You_cannot_remove_yourself__Leave_clan_instead_">"No te puedes expulsar a ti mismo. En su lugar, abandona el clan "</string>
 
 
     <string name="until">"hasta"</string>
@@ -465,7 +465,7 @@
     <string name="Collect_1_000_Plasma">"Recoge 1,000 plasma."</string>
     <string name="Collect_10_000_Plasma_">"Recoge 10,000 plasma."</string>
     <string name="Collect_100_000_Plasma">"Recoge 100,000 plasma."</string>
-    <string name="Plasma_Collected_">"Plasma recogida:"</string>
+    <string name="Plasma_Collected_">"Plasma recogido:"</string>
     <string name="Plasma_Purchases">"Compras de plasma"</string>
 
     <string name="ENTER">"ENTRAR"</string>
@@ -484,7 +484,7 @@
 
     <string name="Already_in_arena_">"En la arena "</string>
     <string name="Already_in_queue_">"En la cola "</string>
-    <string name="Invalid_Account_ID_">"ID de cuenta inválida "</string>
+    <string name="Invalid_Account_ID_">"ID de cuenta inválido "</string>
 
     <string name="Validating">"Validando"</string>
 
@@ -502,7 +502,7 @@
     <string name="Win_100_Clan_Wars">"Gana 100 guerras de clan"</string>
     <string name="Clan_Commander">"Comandante del clan"</string>
     <string name="Clan_General">"General del clan"</string>
-    <string name="Clan_Wars_Won_">"Guerras de Clanes ganadas:"</string>
+    <string name="Clan_Wars_Won_">"Guerras de clanes ganadas:"</string>
     <string name="Arenas_Won_">"Arenas ganadas:"</string>
     <string name="Arena_Mode">"Modo Arena"</string>
     <string name="Connection_Lost">"Conexión perdida"</string>
@@ -522,10 +522,10 @@
     <string name="Show_All">"Mostrar todo"</string>
 
     <string name="SET_PERMISSIONS">"ESTABLECER PERMISOS"</string>
-    <string name="Start_Clan_War">"Empezar Guerra de Clanes</string>
+    <string name="Start_Clan_War">"Empezar Guerra de Clanes"</string>
     <string name="Min_Level">"Nivel mínimo"</string>
     <string name="SAVE">"GUARDAR"</string>
-    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Este jugador no cumple con el requisito mínimo de nvel para unirse a este clan:"</string>
+    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Este jugador no cumple con el requisito mínimo de nivel para unirse a este clan:"</string>
     <string name="Insufficient_Permission">"Permiso insuficiente"</string>
     <string name="DOMINATION">"DOMINACIÓN"</string>
     <string name="DOM_Domination">"Dominar en Dominación"</string>
@@ -560,7 +560,7 @@
     <string name="Leave_Team">"Abandonar equipo"</string>
 
     <string name="Remove_Player">"Eliminar jugador"</string>
-    <string name="Reject_Invitation">"Rechazar invitacion"</string>
+    <string name="Reject_Invitation">"Rechazar invitación"</string>
     <string name="Leave_Game">"Abandonar el juego"</string>
     <string name="Remove_Friend">"Eliminar amigo"</string>
     <string name="Remove_Clan_Member">"Expulsar miembro del clan"</string>
@@ -597,7 +597,7 @@
 
     <string name="Enable_Custom_Skin">"Habilitar skin personalizada"</string>
     <string name="Use_Custom_Skin">"Skin\npersonalizada"</string>
-    <string name="custom_skin_description">"Esta característica te permite utilizar la imagen que quieras como su skin. Esto sólo cambiará la skin que ves. Otras personas no verán tu aspecto personalizado."</string>
+    <string name="custom_skin_description">"Esta característica te permite utilizar la imagen que quieras como su skin. Esto solo cambiará la skin que ves. Otras personas no verán tu aspecto personalizado."</string>
     <string name="CUSTOM_SKIN">"SKIN PERSONALIZADA"</string>
 
     <string name="Facebook_Profile">"Perfil de Facebook"</string>
@@ -623,7 +623,7 @@
     <string name="CLAN_HISTORY">"HISTORIAL DEL CLAN"</string>
 
 
-    <string name="Love_Nebulous_">"¿Te gusta el Nebulous?"</string>
+    <string name="Love_Nebulous_">"¿Te gusta Nebulous?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoya a Nebulous puntuándolo "</string>
     <string name="MAYHEM_MODE">"MODO CAOS"</string>
     <string name="Times_Teleported_">"Veces teletransportado:"</string>
@@ -703,7 +703,7 @@
     <string name="banned_until">"Baneado hasta"</string>
     <string name="Note_Collector">"Coleccionista de Notas"</string>
     <string name="Note_Hoarder">"Acaparador de Notas"</string>
-    <string name="Note_Mogul">Magnate de Notas"</string>
+    <string name="Note_Mogul">"Magnate de Notas"</string>
     <string name="Collect_1_000_notes_">"Recoge 1,000 notas."</string>
     <string name="Collect_5_000_notes_">"Recoge 5,000 notas."</string>
     <string name="Collect_10_000_notes_">"Recoge 10,000 notas."</string>
@@ -737,7 +737,7 @@
     <string name="Select">"Seleccionar"</string>
     <string name="Current_Skin">"Skin Actual"</string>
     <string name="Status">"Estado"</string>
-    <string name="upload_size_failure">"No se pudo subir esta imagen porque es demasiado grande. Por favor, inténtalo con una imagen distinta."</string>
+    <string name="upload_size_failure">"No se pudo subir esta imagen porque es demasiado grande. Por favor, intente con una imagen distinta."</string>
     <string name="CONTRIBUTE_PLASMA">"CONTRIBUIR PLASMA"</string>
     <string name="Specify_Contribution_Amount">"Especificar cantidad de la contribución"</string>
     <string name="Clan_Contribution">"Contribución del clan"</string>
