@@ -88,7 +88,7 @@
     <string name="Green_Team">"हरी टीम"</string>
     <string name="Blue_Team">"नीली टीम"</string>
     <string name="Yellow_Team">"पीली टीम"</string>
-    <string name="Signed_in_as_">"इस रूप में साइन इन किया:"</string>
+    <string name="Signed_in_as_">"____ के रूप में साइन इन हैं।</string>
     <string name="Not_signed_in_">"प्रवेश नहीं किया!"</string>
     <string name="SET_NAME">"नाम भरें"</string>
     <string name="SIGN_OUT">"साइन आउट"</string>
