@@ -2,7 +2,7 @@
     <string name="Players">"Jugadores"</string>
     <string name="Control_">"Control:"</string>
     <string name="CLOSE">"CERRAR"</string>
-    <string name="Stick_Size_">"Tamaño pad:"</string>
+    <string name="Stick_Size_">"Tamaño del mandó:"</string>
     <string name="Stick_Margin_">"Ubicación pad:"</string>
     <string name="Button_Size_">"Tamaño botones:"</string>
     <string name="Button_Margin_">"Margen botones:"</string>
