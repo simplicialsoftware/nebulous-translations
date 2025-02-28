@@ -1,6 +1,6 @@
 ﻿<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"Jugadores"</string>
-    <string name="Control_">"Control:"</string>
+    <string name="Control_">"Mandó:"</string>
     <string name="CLOSE">"CERRAR"</string>
     <string name="Stick_Size_">"Tamaño pad:"</string>
     <string name="Stick_Margin_">"Ubicación pad:"</string>
