@@ -21,7 +21,7 @@
     <string name="Name_">"Nombre:"</string>
 
     <string name="Loading___">"Cargando…"</string>
-    <string name="Connecting___">"Conectando…"</string>
+    <string name="Connecting___">"Buscando Servidor..."</string>
 
     <string name="Are_You_Sure_">"¿Estás seguro?"</string>
     <string name="Yes">"Sí"</string>
