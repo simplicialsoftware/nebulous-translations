@@ -2,17 +2,17 @@
     <string name="Players">"Jogadores"</string>
     <string name="Control_">"Controlo:"</string>
     <string name="CLOSE">"FECHAR"</string>
-    <string name="Stick_Size_">"Tamanho do controlo:"</string>
-    <string name="Stick_Margin_">"Margem do controlo:"</string>
-    <string name="Button_Size_">"Tamanho dos botões:"</string>
-    <string name="Button_Margin_">"Margem dos botões:"</string>
+    <string name="Stick_Size_">"Tamanho do Controlo:"</string>
+    <string name="Stick_Margin_">"Margem do Controlo:"</string>
+    <string name="Button_Size_">"Tamanho dos Botões:"</string>
+    <string name="Button_Margin_">"Margem dos Botões:"</string>
     <string name="Buttons_">"Botões:"</string>
     <string name="DEFAULTS">"PREDEFINIÇÃO"</string>
     <string name="WEEKLY">"SEMANAL"</string>
     <string name="DAILY">"DIÁRIO"</string>
     <string name="Server_">"Servidor:"</string>
-    <string name="Game_Mode_">"Modo de jogo:"</string>
-    <string name="Show_Names">"Mostrar nomes"</string>
+    <string name="Game_Mode_">"Modo de Jogo:"</string>
+    <string name="Show_Names">"Mostrar Nomes"</string>
     <string name="Show_Avatars">"Mostrar skin"</string>
     <string name="PLAY">"JOGAR"</string>
     <string name="OPTIONS">"OPÇÕES"</string>
@@ -20,42 +20,42 @@
     <string name="Avatar_">"Skin:"</string>
     <string name="Name_">"Nome:"</string>
 
-    <string name="Loading___">"A carregar…"</string>
-    <string name="Connecting___">"A conectar…"</string>
+    <string name="Loading___">"A Carregar…"</string>
+    <string name="Connecting___">"A Conectar…"</string>
 
-    <string name="Are_You_Sure_">"Tens a certeza?"</string>
+    <string name="Are_You_Sure_">"Tens a Certeza?"</string>
     <string name="Yes">"Sim"</string>
     <string name="No">"Não"</string>
     <string name="WAIT">"AGUARDE…"</string>
-    <string name="Must_Specify_Name_">"É necessário especificar o nome."</string>
+    <string name="Must_Specify_Name_">"É Necessário Especificar o Nome."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"A classificação do conteúdo da aplicação pode mudar quando procurares grupos."</string>
 
-    <string name="_Rank_">" Classificação "</string>
-    <string name="_Alias_">" Sobrenome  "</string>
-    <string name="_Score_">" Pontos "</string>
-    <string name="Score__">"Pontos: "</string>
-    <string name="Recombine_">"Recombinar em: "</string>
-    <string name="WINNER_">"VENCEDOR:"</string>
-    <string name="IDLE">"INATIVO"</string>
-    <string name="Name_Invalid_">"Nome inválido."</string>
-    <string name="Name_Taken_">"Nome assumido."</string>
-    <string name="CONNECTED">"CONECTADO"</string>
-    <string name="JOINING___">"A ENTRAR…"</string>
-    <string name="PLAYING">"A JOGAR"</string>
-    <string name="MULTIPLAYER">"MULTIJOGADOR"</string>
+    <string name="_Rank_">"Classificação."</string>
+    <string name="_Alias_">"Sobrenome."</string>
+    <string name="_Score_">"Pontos."</string>
+    <string name="Score__">"Pontos."</string>
+    <string name="Recombine_">"Recombinar em."</string>
+    <string name="WINNER_">"VENCEDOR."</string>
+    <string name="IDLE">"INATIVO."</string>
+    <string name="Name_Invalid_">"Nome Inválido."</string>
+    <string name="Name_Taken_">"Nome Assumido."</string>
+    <string name="CONNECTED">"CONECTADO."</string>
+    <string name="JOINING___">"ENTRAR."</string>
+    <string name="PLAYING">"JOGAR."</string>
+    <string name="MULTIPLAYER">"MULTIJOGADOR."</string>
 
-    <string name="JOIN">"ENTRAR"</string>
+    <string name="JOIN">"ENTRAR."</string>
 
 
-    <string name="Lobby_Name">"Nome da Sala"</string>
-    <string name="Not_found_">"Não encontrado."</string>
+    <string name="Lobby_Name">"Nome da Sala."</string>
+    <string name="Not_found_">"Não Encontrado."</string>
 
     <string name="Hidden">"Oculto"</string>
 
 
     <string name="SERVER">"SERVIDOR"</string>
-    <string name="Joining_game_in_">"A entrar no jogo em "</string>
+    <string name="Joining_game_in_">"Entrar no Jogo."</string>
     <string name="Game_Full">"Jogo cheio"</string>
     <string name="US_East">"América Central"</string>
     <string name="US_West">"América do Norte"</string>
@@ -64,9 +64,9 @@
 
 
     <string name="SINGLE_PLAYER">"UM JOGADOR"</string>
-    <string name="Background_">"Fundo:"</string>
-    <string name="Difficulty_">"Dificuldade:"</string>
-    <string name="Delay_Disconnect">"Atrasar desconexão"</string>
+    <string name="Background_">"Fundo."</string>
+    <string name="Difficulty_">"Dificuldade."</string>
+    <string name="Delay_Disconnect">"Conexão Estavel."</string>
 
     <string name="Max_Players">"Máximo de jogadores"</string>
     <string name="Min_Players">"Mínimo de jogadores"</string>
@@ -74,10 +74,10 @@
     <string name="OK">"OK"</string>
     <string name="CANCEL">"CANCELAR"</string>
     <string name="Chat_Name">"Nome no chat"</string>
-    <string name="Max_People">"Máx. de Jogadores"</string>
+    <string name="Max_People">"MÁXIMO DE JOGADORES"</string>
     <string name="START">"INICIAR"</string>
     <string name="CREATE">"CRIAR"</string>
-    <string name="CUSTOM_GAMES">"JOGOS PERSONALIZADOS"</string>
+    <string name="CUSTOM_GAMES">"JOGO PERSONALIZADO"</string>
     <string name="CHAT">"CHAT"</string>
     <string name="CUSTOM_SETUP">"DEFINIÇÕES PERSONALIZADAS"</string>
     <string name="CHAT_SETUP">"DEFINIÇÃO DE CHAT"</string>
@@ -88,44 +88,44 @@
     <string name="Green_Team">"Eq. Verde"</string>
     <string name="Blue_Team">"Eq. Azul"</string>
     <string name="Yellow_Team">"Eq. Amarela"</string>
-    <string name="Signed_in_as_">"Autenticado como:"</string>
-    <string name="Not_signed_in_">"Não autenticado!"</string>
+    <string name="Signed_in_as_">"Autenticado Como!"</string>
+    <string name="Not_signed_in_">"Não Autenticado!"</string>
     <string name="SET_NAME">"DEFINIR NOME"</string>
     <string name="SIGN_OUT">"SAIR"</string>
     <string name="ACHIEVEMENTS">"CONQUISTAS"</string>
     <string name="STATISTICS">"ESTATÍSTICAS"</string>
-    <string name="XP_">"XP:"</string>
+    <string name="XP_">"XP"</string>
 
     <string name="Information">"Informação"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para utilizar esta skin tem de atingir a conquista"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Para utilizar esta skin tens de atingir o nível"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para Usar Está Skin Tem Que Atingir a Conquista"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Para Usar Está skin Tem Que Alcançar o Nível"</string>
     <string name="SIGN_IN">"AUTENTICAR"</string>
 
-    <string name="Single_Player_Stats">"Estatísticas de Único Jogador"</string>
+    <string name="Single_Player_Stats">"Estatísticas do Único Jogador"</string>
 
     <string name="Level">"Nível"</string>
     <string name="PAUSED">"EM PAUSA"</string>
 
 
     <string name="FRIENDS">"AMIGOS"</string>
-    <string name="Warning">"Aviso"</string>
-    <string name="SIGNING_IN">"A AUTENTICAR…"</string>
-    <string name="New_Friend_Request">"Novo pedido de amizade!"</string>
+    <string name="Warning">"AVISO"</string>
+    <string name="SIGNING_IN">"A AUTENTICAR!"</string>
+    <string name="New_Friend_Request">"Novo Pedido de Amizade"</string>
     <string name="REQUEST_FRIEND">"PEDIR AMIZADE"</string>
     <string name="Private">"Privado"</string>
     <string name="Public">"Público"</string>
     <string name="Bot">"Bot"</string>
     <string name="You">"Tu"</string>
-    <string name="This_player_is_a_bot">"Este jogador é um bot."</string>
-    <string name="This_player_is_not_signed_in">"Este jogador não está autenticado."</string>
+    <string name="This_player_is_a_bot">"Este jogador é um Bot!"</string>
+    <string name="This_player_is_not_signed_in">"Este jogador Não Está Autenticado."</string>
 
     <string name="Online">"Online"</string>
     <string name="Unknown">"Desconhecido"</string>
     <string name="Offline">"Offline"</string>
-    <string name="Achievement_Earned">"Conquista realizada"</string>
+    <string name="Achievement_Earned">"Conquista Realizada"</string>
     <string name="REFRESH">"ATUALIZAR"</string>
     <string name="DONE">"FEITO"</string>
-    <string name="Friend_Request_Sent">"Pedido de amizade enviado…"</string>
+    <string name="Friend_Request_Sent">"Pedido de Amizade Enviado."</string>
     <string name="ERROR">"ERRO"</string>
     <string name="CONTINUE">"CONTINUAR"</string>
     <string name="Global_" formatted="false">"Global %"</string>
@@ -137,8 +137,8 @@
     <string name="ALL">"TODOS"</string>
     <string name="FFA">"FFA"</string>
     <string name="FFA_TIME">"FFA TEMPO"</string>
-    <string name="TEAMS">"EQUIPAS"</string>
-    <string name="TEAMS_TIME">"EQUIPAS TEMPO"</string>
+    <string name="TEAMS">"EQUIPES"</string>
+    <string name="TEAMS_TIME">"EQUIPES TEMPO"</string>
     <string name="CTF">"CAB"</string>
     <string name="SURVIVAL">"SOBREVIVÊNCIA"</string>
 
@@ -181,7 +181,7 @@
     <string name="Dodgey">"Espertalhão"</string>
     <string name="Self_Contained">"Auto-Suficiente"</string>
     <string name="Survivalist">"Sobrevivente"</string>
-    <string name="Ultramassive">"Ultra massivo"</string>
+    <string name="Ultra Massivo"</string>
     <string name="Rapid_Ascension">"Ascensão Rápida"</string>
     <string name="Revenge">"Vingança"</string>
     <string name="Doge_Pound">"Comedor de Doges"</string>
@@ -195,20 +195,20 @@
     <string name="Absorb_100_000_dots">"Absorver 100 000 pontos"</string>
     <string name="Absorb_1_000_000_dots">"Absorver 1 000 000 pontos"</string>
 
-    <string name="Absorb_4_blobs_quickly">"Absorver 4 blobs rapidamente"</string>
-    <string name="Absorb_8_blobs_quickly">"Absorver 8 blobs rapidamente"</string>
-    <string name="Absorb_16_blobs_quickly">"Absorver 16 blobs rapidamente"</string>
-    <string name="Absorb_24_blobs_quickly">"Absorver 24 blobs rapidamente"</string>
-    <string name="Absorb_32_blobs_quickly">"Absorver 32 blobs rapidamente"</string>
-    <string name="Absorb_40_blobs_quickly">"Absorver 40 blobs rapidamente"</string>
+    <string name="Absorb_4_blobs_quickly">Absorve 8 blobs Rapidamente"</string>
+    <string name="Absorb_8_blobs_quickly">"Absorver 10 blobs Rapidamente"</string>
+    <string name="Absorb_16_blobs_quickly">"Absorver 16 blobs Rapidamente"</string>
+    <string name="Absorb_24_blobs_quickly">"Absorver 24 blobs Rapidamente"</string>
+    <string name="Absorb_32_blobs_quickly">"Absorver 32 blobs Rapidamente"</string>
+    <string name="Absorb_40_blobs_quickly">"Absorver 40 blobs Rapidamente"</string>
 
-    <string name="Absorb_8_player_blobs_without_restarting">"Absorver 8 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_16_player_blobs_without_restarting">"Absorver 16 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_32_player_blobs_without_restarting">"Absorver 32 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_48_player_blobs_without_restarting">"Absorver 48 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_80_player_blobs_without_restarting">"Absorver 80 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_160_player_blobs_without_restarting">"Absorver 160 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_240_player_blobs_without_restarting">"Absorver 240 blobs de jogadores sem reiniciar"</string>
+    <string name="Absorb_8_player_blobs_without_restarting">"Absorver 8 blobs de jogadores Sem Morrer"</string>
+    <string name="Absorb_16_player_blobs_without_restarting">"Absorver 16 blobs de jogadores Sem Morrer"</string>
+    <string name="Absorb_32_player_blobs_without_restarting">"Absorver 32 blobs de jogadores Sem Morrer"</string>
+    <string name="Absorb_48_player_blobs_without_restarting">"Absorver 48 blobs de jogadores Sem Morrer"</string>
+    <string name="Absorb_80_player_blobs_without_restarting">"Absorver 80 blobs de jogadores Sem Morrer"</string>
+    <string name="Absorb_160_player_blobs_without_restarting">"Absorver 160 blobs de jogadores Sem Morrer"</string>
+    <string name="Absorb_240_player_blobs_without_restarting">"Absorver 240 blobs de jogadores Sem Morrer"</string>
 
     <string name="Reach_a_score_of_1_000">"Alcançar a pontuação de 1 000 pontos"</string>
     <string name="Reach_a_score_of_5_000">"Alcançar a pontuação de 5 000 pontos"</string>
@@ -216,33 +216,33 @@
     <string name="Reach_a_score_of_15_000">"Alcançar a pontuação de 15 000 pontos"</string>
     <string name="Reach_a_score_of_20_000">"Alcançar a pontuação de 20 000 pontos"</string>
 
-    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Alcançar a pontuação de 10 000 pontos sem perder nenhum blob"</string>
-    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Alcançar a pontuação de 5 000 pontos sem se dividir ou ejetar"</string>
-    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Jogar durante 5 minutos seguidos sem colidir com um buraco negro"</string>
-    <string name="Play_5_minutes_straight_without_losing_any_blobs">"Jogar durante 5 minutos seguidos sem perder nenhum blob"</string>
-    <string name="Play_20_minutes_straight_without_restarting">"Jogar durante 20 minutos seguidos sem reiniciar"</string>
+    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Alcançar a Pontuação de 10 000 Pontos sem Perder Nenhum Blob"</string>
+    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Alcançar a Pontuação de 5 000 Pontos sem se Dividir ou Ejetar"</string>
+    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Jogar Durante 5 minutos Seguidos sem Colidir Com um Buraco Negro"</string>
+    <string name="Play_5_minutes_straight_without_losing_any_blobs">"Jogar Durante 5 minutos Seguidos sem Perder Nenhum Blob"</string>
+    <string name="Play_20_minutes_straight_without_restarting">"Jogar Durante 20 minutos Seguidos sem Morrer"</string>
     <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"Absorver 5 buracos negros supermassivos no prazo de 30 segundos após início da partida"</string>
     <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Alcançar a pontuação de 5 000 pontos num prazo de 1 minuto após início da partida"</string>
     <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Atirar um buraco negro contra o último jogador que atirou um buraco negro contra si antes de reiniciar"</string>
-    <string name="Absorb_5_doges_without_restarting">"Absorver 5 doges sem reiniciar"</string>
+    <string name="Absorb_5_doges_without_restarting">"Absorver 5 doges sem Morrer"</string>
 
     <string name="Friends">"Amigos"</string>
-    <string name="Dots_Eaten_">"Pontos coletados:"</string>
-    <string name="Blobs_Eaten_">"Blobs comidos:"</string>
-    <string name="Blobs_Lost_">"Blobs perdidos:"</string>
-    <string name="Mass_Gained_">"Massa obtida:"</string>
-    <string name="Mass_Ejected_">"Massa ejetada:"</string>
-    <string name="Times_Ejected_">"Vezes ejetado:"</string>
-    <string name="Times_Split_">"Vezes dividido:"</string>
+    <string name="Dots_Eaten_">"Pontos Coletados:"</string>
+    <string name="Blobs_Eaten_">"Blobs Comidos:"</string>
+    <string name="Blobs_Lost_">"Blobs Perdidos:"</string>
+    <string name="Mass_Gained_">"Massa Obtida:"</string>
+    <string name="Mass_Ejected_">"Massa Ejetada:"</string>
+    <string name="Times_Ejected_">"Vezes Ejetado:"</string>
+    <string name="Times_Split_">"Vezes Dividido:"</string>
     <string name="Biggest_Blob_">"Maior Blob:"</string>
-    <string name="Highest_Score_">"Pontuação máxima:"</string>
-    <string name="Average_Score_">"Pontuação média:"</string>
+    <string name="Highest_Score_">"Pontuação Máxima:"</string>
+    <string name="Average_Score_">"Pontuação Média:"</string>
     <string name="Times_Played_">"Vezes jogadas:"</string>
-    <string name="Longest_Life_">"Vida mais longa:"</string>
-    <string name="Games_Won_">"Vitórias:"</string>
+    <string name="Longest_Life_">"Vida mais Longa:"</string>
+    <string name="Games_Won_">"Vitórias"</string>
 
-    <string name="You_must_wait_until_the_end_of_the_round_">"Tens de esperar até ao fim da ronda"</string>
-    <string name="Dont_show_again">"Não mostrar novamente"</string>
+    <string name="You_must_wait_until_the_end_of_the_round_">"Tem Que Esperar Até o Fim da Ronda"</string>
+    <string name="Dont_show_again">"Não Mostrar Novamente"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Foi encontrada uma cópia de Estatísticas Single Player com XP mais alto. Pretendes restaurar essa cópia?"</string>
 
     <string name="Special_Effects">"Efeitos especiais"</string>
@@ -250,10 +250,10 @@
 
     <string name="Specify_private_game_name">"Especificar o nome do Jogo Privado"</string>
     <string name="In_Game_Chat">"Chat No Jogo"</string>
-    <string name="My_Status_">"Meu estado:"</string>
-    <string name="Game_Size_">"Tamanho do jogo:"</string>
+    <string name="My_Status_">"Meu Estado"</string>
+    <string name="Game_Size_">"Tamanho do jogo"</string>
 
-    <string name="Server_Restart_">"Reiniciar Servidor:"</string>
+    <string name="Server_Restart_">"Reiniciando Servidor:"</string>
     <string name="GOAL_">"GOLO!"</string>
     <string name="SOCCER">"FUTEBOL"</string>
     <string name="DRAW">"EMPATE"</string>
