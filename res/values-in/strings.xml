@@ -415,7 +415,7 @@
     <string name="Practice">"Latihan"</string>
     <string name="ArenaDescription">"Anda hanya mendapatkan satu kehidupan. Pemenang akan mendapatkan %s plasma."</string>
     <string name="Contestant">"Kontestan"</string>
-    <string name="Duelist">"Duelist"</string>
+    <string name="Duelist">"Daftar Pertarungan"</string>
     <string name="Gladiator">"Gladiator"</string>
     <string name="Challenger">"Penantang"</string>
     <string name="Win_1_1v1_Arenas_">"Memenangkan Arena."</string>
@@ -534,7 +534,7 @@
     <string name="Choose_File">"Pilih File"</string>
     <string name="Google_Profile">"Profil Google"</string>
     <string name="You_must_be_signed_in_to_Google_">"Anda harus login ke Google."</string>
-    <string name="MAYHEM">"MAYHEM"</string>
+    <string name="MAYHEM">"PERCOBAAN"</string>
     <string name="eggs_">"Telur."</string>
     <string name="Egg_Collector">"Kolektor Telur"</string>
     <string name="Egg_Hoarder">"Penimbun Telur"</string>
@@ -612,7 +612,7 @@
     <string name="Collect_5_000_moons_">"Mengumpulkan 5.000 Bulan."</string>
     <string name="Collect_10_000_moons_">"Mengumpulkan 10.000 Bulan."</string>
     <string name="BLUETOOTH">"BLUETOOTH"</string>
-    <string name="HOST">"HOSTI"</string>
+    <string name="HOST">"TUAN RUMAH"</string>
     <string name="This_device_does_not_support_bluetooth_">"Perangkat ini tidak mendukung bluetooth."</string>
     <string name="member_permissions">"Izin Anggota"</string>
     <string name="edit">"SUNTING"</string>
@@ -621,13 +621,13 @@
     <string name="none">"TIDAK ADA"</string>
     <string name="INVALID_TOKEN">"TOKEN TIDAK VALID!"</string>
     <string name="banned_until">"Dilarang sampai "</string>
-    <string name="Note_Collector">"Kolektor Not"</string>
-    <string name="Note_Hoarder">"Penimbunan Not"</string>
-    <string name="Note_Mogul">"Mogul Not"</string>
-    <string name="Collect_1_000_notes_">"Mengumpulkan 1.000 Not."</string>
-    <string name="Collect_5_000_notes_">"Mengumpulkan 5.000 Not."</string>
-    <string name="Collect_10_000_notes_">"Mengumpulkan 10.000 Not."</string>
-    <string name="notes_">"Not."</string>
+    <string name="Note_Collector">"Kolektor Catatan"</string>
+    <string name="Note_Hoarder">"Penimbunan Catatan"</string>
+    <string name="Note_Mogul">"Mogul Catatan"</string>
+    <string name="Collect_1_000_notes_">"Mengumpulkan 1.000 Catatan."</string>
+    <string name="Collect_5_000_notes_">"Mengumpulkan 5.000 Catatan."</string>
+    <string name="Collect_10_000_notes_">"Mengumpulkan 10.000 Catatan."</string>
+    <string name="notes_">"Catatan."</string>
     <string name="CLICK_CHEAT_DETECTED_">"KLIK KECURANGAN TERDETEKSI!"</string>
     <string name="Pumpkin_Hoarder">"Penimbun Labu"</string>
     <string name="Pumpkin_Mogul">"Mogul Labu"</string>
@@ -784,7 +784,7 @@
     <string name="Win_a_Team_Deathmatch_Game">Memenangkan permainan Tim Kematian</string>
     <string name="TEAM_DEATHMATCH">TIM PERTANDINGAN KEMATIAN</string>
     <string name="Speed_Click_Toggle">Beralih Tombol Feed</string>
-    <string name="MOD">MOD</string>
+    <string name="MOD"MOD</string>
     <string name="FAQ">Pertanyaan Umum / Informasi</string>
     <string name="BUY_EXTRA_SPINS">BELI PUTARAN EKSTRA</string>
     <string name="Spins_Remaining">Putaran Tersisa</string>
@@ -1093,7 +1093,7 @@
     <string name="Collisions_">Tabrakan:</string>
     <string name="Absorbed_">Diserap:</string>
     <string name="team_warning">Bekerja sama dengan pemain yang bukan anggota tim Anda akan dikenakan DILARANG!</string>
-    <string name="Search_Filter">Search Filter</string>
+    <string name="Search_Filter">Filter Pencarian</string>
     <string name="Received_">Menerima:</string>
     <string name="Opponent_Rating_Limit_">Batas Peringkat Lawan:</string>
     <string name="TOGGLE_FAVORITE">TOMBOL FAVORIT</string>
@@ -1102,7 +1102,7 @@
     <string name="Background_Scale_">Ukuran Latarbelakang:</string>
     <string name="Background_Lightness_">Kecerahan Latarbelakang:</string>
     <string name="Background_Image_">Gambar Latarbelakang:</string>
-    <string name="INVERT_SELECTION">INVERT\nSELECTION</string>
+    <string name="INVERT_SELECTION">MEMBALIKKAN\nPILIHAN</string>
     <string name="MINIMAP">PETA MINI</string>
     <string name="Victorious">Berjaya</string>
     <string name="Dominant">Dominan</string>
@@ -1115,7 +1115,7 @@
     <string name="setting_changed">Pengaturan diperbarui. Anda mungkin perlu menyambung kembali ke server agar dapat diterapkan.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Melakukan 10.000 trik dalam permainan trik mode.</string>
     <string name="Tricky">Penuh Akal</string>
-    <string name="SUPPORTER">VIP</string>
+    <string name="SUPPORTER">PENDUKUNG</string>
     <string name="CONQUEROR">PENAKLUK</string>
     <string name="TRICKY">PENUH AKAL</string>
     <string name="x4_XP_Permanent">4x XP Permanen</string>
