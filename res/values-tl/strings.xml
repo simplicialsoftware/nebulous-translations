@@ -16,13 +16,13 @@
     <string name="Show_Avatars">"Ipakita ang mga Avatar:"</string>
     <string name="PLAY">"MAGLARO:"</string>
     <string name="OPTIONS">" MGA OPSYONS:"</string>
-
+    <string name="OPTIONS">" MGA OPSYONS:"</string>
     <string name="Avatar_">"Avatar:"</string>
     <string name="Name_">"Pangalan:"</string>
-
+    <string name="Name_">"Pangalan:"</string>
     <string name="Loading___">"Naglo-Loading…:"</string>
     <string name="Connecting___">"Kumokonekta…:"</string>
-
+    <string name="Connecting___">"Kumokonekta…:"</string>
     <string name="Are_You_Sure_">"Sigurado Ka Ba?:"</string>
     <string name="Yes">"Oo:"</string>
     <string name="No">"Hindi:"</string>
@@ -283,8 +283,7 @@
     <string name="_dots">"Mga Dots:"</string>
     <string name="_player_blobs">"Blobs ng manlalaro:"</string>
     <string name="Absorb_">"Absorb:"</string>
-    <string name="Collect_">"Kolektahin:"</string>
-    --
+    <string name="Collect_">"Kolektahin:"</string <string name="Collect_">"Kolektahin:"</string>
     <string name="FFA_CLASSIC">"FFA CLASSIC"</string>
     <string name="pumpkins_">"pumpkins."</string>
     <string name="To_use_this_skin_you_must_collect">"Upang gamitin ang skin, kailangan mong mangolekta ng"</string>
@@ -1155,8 +1154,8 @@ Commands:
     <string name="Missing_Permissions">Nawawalang Permissions</string>
     <string name="DELETE_ACCOUNT">I-DELETE ACCOUNT</string>
     <string name="delete_prompt">Sigurado ka bang gusto mong i-delete ang iyong account? Ito ay PERMANENTE at HINDI NA MAIBABALIK!</string>
-
-
+    <string name="delete_prompt">Sigurado ka bang gusto mong i-delete ang iyong account? Ito ay PERMANENTE at HINDI NA MAIBABALIK!</string>
+    <string name="Type">Type</string>
     <string name="Type">Type</string>
     <string name="Complete_campaign_mission_">Kumpletuhin ang misyong kampanya</string>
     <string name="Specify_Reason_">I-Specify ang Rason:</string>
@@ -1189,9 +1188,9 @@ Commands:
     <string name="Account_must_be_1_day_old_to_send_mail_">Ang Account ay Kailangang 1 day na matagal para makapag-send ng mail.</string>
     <string name="Translator">Tagasalin</string>
     <string name="SUCCESS">SUCCESS</string>
-
-
-    <string-array name="control_modes">
+    <string name="SUCCESS">SUCCESS</string>
+ <string name="Type">Type</string>
+     <string name="Type">Type</string>
         <item>"Normal"</item>
         <item>"Kahit Saan"</item>
         <item>"Drag Patungo"</item>
@@ -1199,7 +1198,7 @@ Commands:
         <item>"I-Touch at Mapupunta"</item>
         <item>"I-Tagilid"</item>
     </string-array>
-
+</string-array>
     <string-array name="button_modes">
         <item>"Kaliwa"</item>
         <item>"Kanan"</item>
@@ -1208,7 +1207,7 @@ Commands:
         <item>"Lagay Lahat sa Kanan"</item>
         <item>"Custom"</item>
     </string-array>
-
+</string-array>
     <string-array name="themes">
         <item>"Stars (Madilim)"</item>
         <item>"Grid (Madilim)"</item>
@@ -1216,14 +1215,14 @@ Commands:
         <item>"Custom"</item>
         <item>"Wala"</item>
     </string-array>
-
+</string-array>
     <string-array name="difficulties">
         <item>"Madali"</item>
         <item>"medium"</item>
         <item>"Mahirap"</item>
         <item>"IMPOSSIBLE"</item>
     </string-array>
-
+</string-array>
     <string-array name="sizes">
         <item>"Pinaka-Maliit"</item>
         <item>"Maliit"</item>
@@ -1231,7 +1230,7 @@ Commands:
         <item>"Malaki"</item>
         <item>"SOBRANG LAKI"</item>
     </string-array>
-
+</string-array>
     <string-array name="clan_war_sizes">
         <item>"Duo (2v2)"</item>
         <item>"Pinaka-Maliit (3v3)"</item>
