@@ -8,7 +8,7 @@
     <string name="Button_Size_">"Розмiр кнопок:"</string>
     <string name="Button_Margin_">"Вiдрив кнопок:"</string>
     <string name="Buttons_">"Кнопки:"</string>
-    <string name="DEFAULTS">"ЗАГОТОВЛЕНЕ НАЛАШТУВАННЯ"</string>
+    <string name="DEFAULTS">"НАЛАШТУВАННЯ ЗА ЗАМОВЧЕННЯМ"</string>
     <string name="WEEKLY">"ЗА ТИЖДЕНЬ"</string>
     <string name="DAILY">"ЗА ДЕНЬ"</string>
     <string name="Server_">"Сервер"</string>
@@ -80,7 +80,7 @@
     <string name="CREATE">"СТВОРИТИ"</string>
     <string name="CUSTOM_GAMES">"КАСТОМНI IГРИ"</string>
     <string name="CHAT">"ЧАТ"</string>
-    <string name="CUSTOM_SETUP">"КАСТОМНI НАЛАШТУВАННЯ"</string>
+    <string name="CUSTOM_SETUP">"ПЕРСОНАЛЬНІ НАЛАШТУВАННЯ"</string>
     <string name="CHAT_SETUP">"НАЛАШТУВАННЯ ЧАТУ"</string>
 
 
@@ -122,7 +122,7 @@
 
     <string name="Online">"Онлайн"</string>
     <string name="Unknown">"Невідомий"</string>
-    <string name="Offline">"Оффлайн"</string>
+    <string name="Offline">"Офлайн"</string>
     <string name="Achievement_Earned">"Досягнення зароблено"</string>
     <string name="REFRESH">"ОНОВИТИ"</string>
     <string name="DONE">"ГОТОВО"</string>
@@ -505,7 +505,7 @@
     <string name="Clan_General">"Загальні клани"</string>
     <string name="Clan_Wars_Won_">"Виграно кланових вiйн:"</string>
     <string name="Arenas_Won_">"Арен виграно:"</string>
-    <string name="Arena_Mode">"Режим арена"</string>
+    <string name="Arena_Mode">"Режим арени"</string>
     <string name="Connection_Lost">"Зв'язок втрачено"</string>
 
     <string name="Present_Hoarder">"Накопичувач подарункiв"</string>
@@ -905,15 +905,15 @@
     <string name="NEW_ENEMY">"НОВИЙ ВОРОГ"</string>
     <string name="CLAN_RELATIONS">"КЛАНОВІ ВІДНОСИНИ"</string>
     <string name="Clan_XP_Boost">"Буст досвіду клану"</string>
-    <string name="x3_Clan_XP_7_days">"3x клан досвід на 7 днів"</string>
-    <string name="x3_Clan_XP_1_Day">"3x клан досвід на 1 день"</string>
-    <string name="x2_Clan_XP_1_Day">"2x клан досвід на 1 день"</string>
+    <string name="x3_Clan_XP_7_days">"3x досвід для клану на 7 днів"</string>
+    <string name="x3_Clan_XP_1_Day">"3x досвід для клану на 1 день"</string>
+    <string name="x2_Clan_XP_1_Day">"2x досвід для клану на 1 день"</string>
     <string name="Pets">"Тваринки"</string>
     <string name="Pet">"Тваринка"</string>
     <string name="You_can_purchase_this_pet_for">"Ви можете придбати цю тваринку"</string>
     <string name="gift_to_friend">"подарунок другу"</string>
     <string name="gift_purchase_warning">"Ви не отримаєте цю покупку, оскільки Ви вирішили подарувати цю покупку другу"</string>
-    <string name="x2_Clan_XP_7_Days">"2x клан досвід на 1 день"</string>
+    <string name="x2_Clan_XP_7_Days">"2x досвід для клану на 7 день"</string>
     <string name="RECEIVED">"ОТРИМАНО"</string>
     <string name="SENT">"ВІДПРАВЛЕНО"</string>
     <string name="Enable_Invites">"Увімкнути запрошення"</string>
@@ -940,7 +940,7 @@
     <string name="Cannot_cancel_this_skin_yet_">"Ви поки що не можете скасувати цей скін"</string>
     <string name="SPLIT_16X">"РОЗДІЛЕННЯ 16Х"</string>
     <string name="SET_PUBLIC_DESCRIPTION">"ВСТАНОВИТИ ПУБЛІЧНИЙ ОПИС</string>
-    <string name="SET_NOTE">"ЗАЛИШИТИ ЗАПИСКУ"</string>
+    <string name="SET_NOTE">"ЗАЛИШИТИ НОТАТКУ"</string>
     <string name="enable_notifications">"увімкнути сповіщення"</string>
     <string name="PROMOTE_MEMBER">"ПІДВИЩИТИ УЧАСНИКА"</string>
     <string name="DEMOTE_MEMBER">"ПОНИЗИТИ УЧАСНИКА"</string>
@@ -1024,9 +1024,9 @@
     <string name="POSITION_EJECT_BUTTON">"ПОЗИЦІЯ КНОПКИ ВИКИДУ МАСИ"</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">"ПОЗИЦІЯ КНОПКИ-ПЕРЕМИКАЧА ВИКИДУ МАСИ"</string>
     <string name="WIFI">"Вай-Фай"</string>
-    <string name="JOIN_IP">"ПРИЄДНАТИСЯ ДО IP"</string>
-    <string name="Specify_Host_IP">"Уточнити Host IP"</string>
-    <string name="ADVANCED_SETUP">"ПРОСУНУТІ НАЛАШТУВАННЯ"</string>
+    <string name="JOIN_IP">"ПРИЄДНАТИСЯ ПО IP"</string>
+    <string name="Specify_Host_IP">"Вказати IP хоста "</string>
+    <string name="ADVANCED_SETUP">"Розширені НАЛАШТУВАННЯ"</string>
     <string name="WORLD_CUP_EVENT___">"КУБОК СВІТУ!!!"</string>
     <string name="world_cup_event_description">"Подвійний досвід і подвійна плазма у режимі Футбол до кінця кубку світу!"</string>
     <string name="GIF_Skins">"GIF скіни"</string>
@@ -1052,9 +1052,9 @@
     <string name="This_cannot_be_used_in_FFA_Classic_">"Це не може бути використано у ФФА Класичному"</string>
     <string name="ENEMY">"ВОРОГ"</string>
     <string name="ALLY">"СОЮЗНИК"</string>
-    <string name="Rename">"Переназвати"</string>
-    <string name="Set_friendly_name_">"Дати дружнє ім'я"</string>
-    <string name="Leave_blank_for_none_">"Не залишати пустим для нікого"</string>
+    <string name="Rename">"Перейменувати"</string>
+    <string name="Set_friendly_name_">"Дайте дружнє ім'я"</string>
+    <string name="Leave_blank_for_none_">"Або залиште поле порожнім"</string>
     <string name="Vote_Kick">"Вигнати гравця"</string>
     <string name="FONT">"ШРИФТ"</string>
     <string name="CIRCLE">"КРУГ"</string>
@@ -1064,7 +1064,7 @@
     <string name="TRICK_SPLIT">"ТРІК-СПЛІТ</string>
     <string name="POP_SPLIT">"ПОП-СПЛІТ"</string>
     <string name="PUSH_SPLIT">"ПУШ-СПЛІТ"</string>
-    <string name="Level_Colors">"Кольори рівнів"</string>
+    <string name="Level_Colors">"Кольори рівня"</string>
     <string name="click_info">"Автоклік/Ультраклік не працюють у ФФА Класичному!"</string>
     <string name="Hooked">"Загачкований"</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">"Тягнутися на заклятті крючка 10 секунд"</string>
@@ -1084,8 +1084,8 @@
     <string name="Choose_Text_Size">"Вибрати розмір тексту"</string>
     <string name="LEVEL_COLOR">"КОЛІР РІВНЯ"</string>
     <string name="INITIATE">"ПРИЙНЯТИЙ"</string>
-    <string name="x3_Clan_XP_Perm">"Постійний 3х клан досвід!"</string>
-    <string name="x2_Clan_XP_Perm">"Постійний 2х клан досвід!"</string>
+    <string name="x3_Clan_XP_Perm">"Постійний 3х досвід для клану!"</string>
+    <string name="x2_Clan_XP_Perm">"Постійний 2х досвід для клану!"</string>
     <string name="Japan">"Японія"</string>
     <string name="South_Korea">"Південна Корея"</string>
     <string name="Asia">"Азія"</string>
@@ -1207,7 +1207,7 @@
     <string name="setting_changed">"Налаштування оновлені. Можливо, Вам потрібно буде заново приєднатися до серверу, щоб вони спрацювали."</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">"Зробити 10,000 трюків в режимі Трюків</string>
     <string name="Tricky">"Трюкач"</string>
-    <string name="SUPPORTER">"прихильник"</string>
+    <string name="SUPPORTER">"VIP"</string>
     <string name="CONQUEROR">"ЗАВОЙОВНИК"</string>
     <string name="TRICKY">"ТРЮКАЧ"</string>
     <string name="x4_XP_Permanent">"Постійний 4х досвід"</string>
@@ -1219,7 +1219,7 @@
     <string name="You_cannot_play_for_x_minutes_">"Ви не можете грати %d хвилин."</string>
     <string name="x4_Clan_XP_Perm">"Постійний 4х досвід для клану"</string>
     <string name="x4_Clan_XP_7_days">"4x досвід для клану на 7 днів"</string>
-    <string name="x4_Clan_XP_1_Day">"4х досвід для клану на 7 днів"</string>
+    <string name="x4_Clan_XP_1_Day">"4х досвід для клану на 1 день"</string>
     <string name="CHARGE_UP">"ЗАРЯДИТИ"</string>
     <string name="CLAN_DESCRIPTION_COLOR">"КОЛІР КЛАНОВОГО ОПИСУ"</string>
     <string name="Responsible_Pet_Owner">"Відповідальний господар тваринки"</string>
@@ -1296,16 +1296,16 @@
     <string name="CAMPAIGN_2">"КАМПАНІЯ 2"</string>
     <string name="XP_5x">"5x досвід"</string>
     <string name="India">"Індія"</string>
-    <string name="Tutorial">"Туторіал"</string>
-    <string name="TYCOON">TYCOON</string>
+    <string name="Tutorial">"Навчання"</string>
+    <string name="TYCOON">МАГНАТ</string>
     <string name="CLAN_BACKGROUND_COLOR">КОЛІР ФОНУ КЛАНУ</string>
     <string name="activate">активувати</string>
     <string name="clan_id">CLAN ID</string>
-    <string name="language_change_warning">Changing the language will cause the app to restart.</string>
-    <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
-    <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="language_change_warning">Зміна мови призведе до перезапуску програми.</string>
+    <string name="xmas_gift_boost_message">Ви отримали в подарунок 3x буст плазми на 1 день!</string>
+    <string name="no_response">Немає відповіді від сервера. Будь ласка, перевірте підключення до Інтернету.</string>
+    <string name="RAMADAN">РАМАДАН</string>
+    <string name="SUDDEN_ATTACK">РАПТОВА АТАКА</string>
 
     <string name="sign_in_explanation">
 "Увійдіть, щоб отримати доступ до багатокористувацької гри. Ви зможете:
@@ -1316,12 +1316,12 @@
 - Завантажувати шкіри, створені користувачами
 Якщо ви не бажаєте увійти, ви все ще можете грати в одиночну гру."
 </string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="_2x_skin_resolution">Роздільна здатність Скіну 2х</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Ви вже друзі.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Для відправки пошти акаунту повинно бути більше 1 дня.</string>
     <string name="Translator">Перекладач</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">УСПІХ</string>
 
 
     <string-array name="control_modes">
@@ -1362,7 +1362,7 @@
         <item>"Маленьке"</item>
         <item>"Середнє"</item>
         <item>"Велике"</item>
-        <item>"HUGE"</item>
+        <item>"ВЕЛИЧЕЗНЕ"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
