@@ -1207,7 +1207,7 @@
     <string name="setting_changed">"Налаштування оновлені. Можливо, Вам потрібно буде заново приєднатися до серверу, щоб вони спрацювали."</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">"Зробити 10,000 трюків в режимі Трюків</string>
     <string name="Tricky">"Трюкач"</string>
-    <string name="SUPPORTER">"прихильник"</string>
+    <string name="SUPPORTER">"VIP"</string>
     <string name="CONQUEROR">"ЗАВОЙОВНИК"</string>
     <string name="TRICKY">"ТРЮКАЧ"</string>
     <string name="x4_XP_Permanent">"Постійний 4х досвід"</string>
@@ -1296,8 +1296,8 @@
     <string name="CAMPAIGN_2">"КАМПАНІЯ 2"</string>
     <string name="XP_5x">"5x досвід"</string>
     <string name="India">"Індія"</string>
-    <string name="Tutorial">"Туторіал"</string>
-    <string name="TYCOON">TYCOON</string>
+    <string name="Tutorial">"Навчання"</string>
+    <string name="TYCOON">Магнат</string>
     <string name="CLAN_BACKGROUND_COLOR">КОЛІР ФОНУ КЛАНУ</string>
     <string name="activate">активувати</string>
     <string name="clan_id">CLAN ID</string>
@@ -1321,7 +1321,7 @@
     <string name="You_are_already_friends_">Ви вже друзі.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
     <string name="Translator">Перекладач</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">УСПІХ</string>
 
 
     <string-array name="control_modes">
