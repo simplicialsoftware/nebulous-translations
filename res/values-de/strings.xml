@@ -1270,7 +1270,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="SET_EMOTE">EMOTE FESTLEGEN</string>
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
     <string name="Win_a_Battle_Royale_">Gewinne ein Battle Royale Spiel.</string>
-    <string name="Battle_">Battle!</string>
+    <string name="Battle_">KAMPF!</string>
     <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
     <string name="Battle_Royale">Battle Royale</string>
     <string name="The_winner_will_receive_x_plasma_">Der Gewinner wird %s plasma bekommen!</string>
@@ -1321,14 +1321,14 @@ Commands:
     <string name="India">Indien</string>
     <string name="Tutorial">Tutorial</string>
     <string name="TYCOON">TYCOON</string>
-    <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
-    <string name="activate">Activate</string>
+    <string name="CLAN_BACKGROUND_COLOR">CLAN-HINTERGRUNDFARBE</string>
+    <string name="activate">Aktivieren</string>
     <string name="clan_id">CLAN ID</string>
     <string name="language_change_warning">Die App muss neu gestartet werden, um die Sprache zu ändern.</string>
-    <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
+    <string name="xmas_gift_boost_message">Du hast ein Geschenk erhalten: 3x Plasma-Boost für 1 Tag!</string>
+    <string name="no_response">Keine Antwort vom Server. Bitte überprüfe die Internetverbindung.</string>
     <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="SUDDEN_ATTACK">ÜBERRASCHUNGSANGRIFF</string>
 
     <string name="sign_in_explanation" translatable="true">
 "Spieler melden Sie sich an, um auf den Mehrspielermodus zuzugreifen. Sie werden folgendes tun können:
