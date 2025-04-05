@@ -3,7 +3,7 @@
     <string name="Control_">"التحكم"</string>
     <string name="CLOSE">"إغلاق"</string>
     <string name="Stick_Size_">"حجم موجه الدائرة:"</string>
-    <string name="Stick_Margin_">"إرتفاع موجه الدائرة:"</string>
+    <string name="Circle_wave_height_">"إرتفاع موجه الدائرة:"</string>
     <string name="Button_Size_">"حجم الأزرار:"</string>
     <string name="Button_Margin_">"إرتفاع الأزرار:"</string>
     <string name="Buttons_">"الأزرار:"</string>
@@ -32,7 +32,7 @@
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
 
     <string name="_Rank_">" المرتبة "</string>
-    <string name="_Alias_">" الإسم المُستعار "</string>
+    <string name="_Nickname_">" الإسم المُستعار "</string>
     <string name="_Score_">" النقاط "</string>
     <string name="Score__">"النقاط: "</string>
     <string name="Recombine_">"إعادة التجميع: "</string>
