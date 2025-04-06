@@ -441,7 +441,7 @@
     <string name="You_cannot_remove_yourself__Leave_clan_instead_">"Você não pode remover a si mesmo. Saia do clã ao invés disso."</string>
 
 
-    <string name="until">"até"</string>
+    <string name="Until">"Até"</string>
     <string name="New_Message_">"Nova Mensagem!"</string>
     <string name="Seasonal">"Temporada"</string>
 
@@ -697,7 +697,7 @@
     <string name="edit">"EDITAR"</string>
     <string name="start_clan_war">"Começar uma Guerra de Clãs"</string>
     <string name="join_clan_war">"Entrar em Guerra de Clãs"</string>
-    <string name="none">"Nenhum"</string>
+    <string name="NONE">"NENHUM"</string>
     <string name="INVALID_TOKEN">"Token Inválido!"</string>
     <string name="banned_until">"Banido até "</string>
     <string name="Note_Collector">"Coletor de Notas"</string>
@@ -1312,7 +1312,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
 		1. Uma foto de uma pessoa como skin da comunidade. Ela só poderá ser aceita como skin que não seja da comunidade.
 		2. Uma foto de alguém sem camisa.
 		3. Alguém em uma pose ou cena imprópria.
-		4. Representações de álcool ou drogas (incluindo maconha)
+		4. Representações impróprias como, armas, álcool ou drogas (incluindo maconha)
 		5. Artes que já existem no nebulous, como skins de nível. Ela deve ser modificada de alguma maneira significativa.
 
         Se você enviar a mesma skin que não foi aprovada várias vezes, isso resultará em mais penalidades ou um banimento."
@@ -1399,11 +1399,11 @@ Comandos:
     <string name="sign_in_explanation" translatable="true">"
 Faça login para acessar o modo multijogador. Você poderá:
 
-- Jogar e se comunicar com outros jogadores de todo o mundo
-- Compartilhar seu progresso com outros
-- Criar e decorar um perfil
-- Comprar plasma na loja
-- Enviar skins criadas pelos usuários
+- Jogar e se comunicar com outros jogadores de todo o mundo.
+- Compartilhar seu progresso com outros.
+- Criar e decorar um perfil.
+- Comprar plasma na loja.
+- Enviar skins criadas pelos usuários.
 
 Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
     </string>
@@ -1441,24 +1441,24 @@ Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
     </string-array>
 
     <string-array name="difficulties">
-        <item>"Fácil"</item>
-        <item>"Médio"</item>
-        <item>"Difícil"</item>
+        <item>"FÁCIL"</item>
+        <item>"MÉDIO"</item>
+        <item>"DIFÍCIL"</item>
         <item>"IMPOSSÍVEL"</item>
     </string-array>
 
     <string-array name="sizes">
-        <item>"Minúsculo"</item>
-        <item>"Pequeno"</item>
-        <item>"Normal"</item>
-        <item>"Grande"</item>
+        <item>"MINÚSCULO"</item>
+        <item>"PEQUENO"</item>
+        <item>"NORMAL"</item>
+        <item>"GRANDE"</item>
         <item>"ENORME"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
-        <item>"Dupla (2vs2)"</item>
-        <item>"Minúsculo (3vs3)"</item>
-        <item>"Pequeno (5vs5)"</item>
-        <item>"Normal (8vs8)"</item>
+        <item>"DUPLA (2vs2)"</item>
+        <item>"MINÚSCULO (3vs3)"</item>
+        <item>"PEQUENO (5vs5)"</item>
+        <item>"NORMAL (8vs8)"</item>
     </string-array>
 </resources>
