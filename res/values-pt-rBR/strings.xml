@@ -49,7 +49,7 @@
 
 
     <string name="Lobby_Name">"Nome da Sala"</string>
-    <string name="Not_found_">"Não encontrado."</string>
+    <string name="Not_found_">"Não encontrado"</string>
 
     <string name="Hidden">"Escondido"</string>
 
@@ -74,7 +74,7 @@
     <string name="OK">"OK"</string>
     <string name="CANCEL">"CANCELAR"</string>
     <string name="Chat_Name">"Nome do Chat"</string>
-    <string name="Max_People">"Máx. de Pessoas"</string>
+    <string name="Max_People">"Máx de Pessoas"</string>
     <string name="START">"COMEÇAR"</string>
     <string name="CREATE">"CRIAR"</string>
     <string name="CUSTOM_GAMES">"JOGOS PERSONALIZADOS"</string>
@@ -98,7 +98,7 @@
 
     <string name="Information">"Informação"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Para usar esta skin, você deve liberar a conquista"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Para usar esta skin, você deve atingir o nível"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Para usar esta skin você deve atingir o nível"</string>
     <string name="SIGN_IN">"ENTRAR"</string>
 
     <string name="Single_Player_Stats">"Estatísticas de Único Jogador"</string>
@@ -109,15 +109,15 @@
 
     <string name="FRIENDS">"AMIGOS"</string>
     <string name="Warning">"Aviso"</string>
-    <string name="SIGNING_IN">"ENTRANDO…"</string>
+    <string name="SIGNING_IN">"ENTRANDO"</string>
     <string name="New_Friend_Request">"Novo Pedido de Amizade!"</string>
     <string name="REQUEST_FRIEND">"SOLICITAR AMIZADE"</string>
     <string name="Private">"Privado"</string>
     <string name="Public">"Público"</string>
     <string name="Bot">"Bot"</string>
     <string name="You">"Você"</string>
-    <string name="This_player_is_a_bot">"Este jogador é um bot."</string>
-    <string name="This_player_is_not_signed_in">"Este jogador não está logado."</string>
+    <string name="This_player_is_a_bot">"Este jogador é um bot"</string>
+    <string name="This_player_is_not_signed_in">"Este jogador não está logado"</string>
 
     <string name="Online">"Online"</string>
     <string name="Unknown">"Desconhecido"</string>
@@ -216,14 +216,14 @@
     <string name="Reach_a_score_of_15_000">"Atinja uma pontuação de 15.000"</string>
     <string name="Reach_a_score_of_20_000">"Atinja uma pontuação de 20.000"</string>
 
-    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Atinja uma pontuação de 10.000, sem perder nenhum blob"</string>
-    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Atinja uma pontuação de 5.000, sem dividir-se ou ejetar massa"</string>
-    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Jogue 5 minutos seguidos, sem colidir com um buraco negro"</string>
-    <string name="Play_5_minutes_straight_without_losing_any_blobs">"Jogue 5 minutos seguidos, sem perder nenhum blob"</string>
+    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Atinja uma pontuação de 10.000 sem perder nenhum blob"</string>
+    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Atinja uma pontuação de 5.000 sem dividir-se ou ejetar massa"</string>
+    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Jogue 5 minutos seguidos sem colidir com um buraco negro"</string>
+    <string name="Play_5_minutes_straight_without_losing_any_blobs">"Jogue 5 minutos seguidos sem perder nenhum blob"</string>
     <string name="Play_20_minutes_straight_without_restarting">"Jogue 20 minutos seguidos sem reiniciar"</string>
     <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"Absorva 5 buracos negros supermassivos no prazo de 30 segundos de partida"</string>
     <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Atinja uma pontuação de 5000 em 1 minuto de partida"</string>
-    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Atire um buraco negro para o último jogador que atirou um buraco negro em você antes de reiniciar."</string>
+    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Atire um buraco negro para o último jogador que atirou um buraco negro em você antes de reiniciar"</string>
     <string name="Absorb_5_doges_without_restarting">"Absorva 5 doges sem reiniciar"</string>
 
     <string name="Friends">"Amigos"</string>
@@ -241,9 +241,9 @@
     <string name="Longest_Life_">"Vida mais longa:"</string>
     <string name="Games_Won_">"Jogos Ganhos:"</string>
 
-    <string name="You_must_wait_until_the_end_of_the_round_">"Você deve esperar até o final da rodada."</string>
+    <string name="You_must_wait_until_the_end_of_the_round_">"Você deve esperar até o final da rodada"</string>
     <string name="Dont_show_again">"Não mostrar novamente"</string>
-    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Encontramos um backup de único jogador com XP maior. Você deseja restaurar o backup?"</string>
+    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Encontramos um backup de único jogador com XP maior Você deseja restaurar o backup"</string>
 
     <string name="Special_Effects">"Efeitos Especiais"</string>
     <string name="Blob_Mushiness">"Blob Amolecido"</string>
@@ -276,7 +276,7 @@
     <string name="ELDER">"ANCIÃO"</string>
 
 
-    <string name="Not_in_a_clan_">"Você não está em um clã."</string>
+    <string name="Not_in_a_clan_">"Você não está em um clã"</string>
 
 
     <string name="CLAN">"CLÃ"</string>
@@ -286,14 +286,14 @@
     <string name="Show_Clan_Names">"Mostrar Nomes de Clã"</string>
     <string name="Show_Levels">"Mostrar Níveis"</string>
     <string name="SET_MOTD">"DEFINIR MDD"</string>
-    <string name="No_such_user_found_">"Nenhum usuário encontrado."</string>
-    <string name="No_open_public_clans_exist_">"Não existem clãs públicos abertos."</string>
-    <string name="You_aren_t_invited_to_that_clan_">"Você não está convidado para este clã."</string>
-    <string name="No_such_clan_exists_">"Não existe tal clã."</string>
-    <string name="That_clan_is_full_">"Este clã está cheio."</string>
-    <string name="Other_user_is_not_a_member_of_your_clan_">"Outro usuário não é um membro de seu clã."</string>
-    <string name="_You_can_t_be_your_own_friend_">"Você não pode ser seu próprio amigo."</string>
-    <string name="A_clan_with_that_name_already_exists_">"Um clã com este nome já existe."</string>
+    <string name="No_such_user_found_">"Nenhum usuário encontrado"</string>
+    <string name="No_open_public_clans_exist_">"Não existem clãs públicos abertos"</string>
+    <string name="You_aren_t_invited_to_that_clan_">"Você não está convidado para este clã"</string>
+    <string name="No_such_clan_exists_">"Não existe tal clã"</string>
+    <string name="That_clan_is_full_">"Este clã está cheio"</string>
+    <string name="Other_user_is_not_a_member_of_your_clan_">"Outro usuário não é um membro de seu clã"</string>
+    <string name="_You_can_t_be_your_own_friend_">"Você não pode ser seu próprio amigo"</string>
+    <string name="A_clan_with_that_name_already_exists_">"Um clã com este nome já existe"</string>
     <string name="Duration_">"Duração:"</string>
 
     <string name="FFA_Time_Domination">"Dominador do FFA com Tempo"</string>
@@ -304,16 +304,16 @@
     <string name="I_Will_Survive">"Eu vou sobreviver"</string>
     <string name="Soccer_Domination">"Dominador do Futebol"</string>
     <string name="Soccer_Hat_Trick">"Hat-Trick do Futebol"</string>
-    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Ganhar por 2.500 pontos em um jogo de FFA com Tempo."</string>
+    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Ganhar por 2.500 pontos em um jogo de FFA com Tempo"</string>
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Ganhar por 7.500 pontos em um jogo de Equipes com Tempo"</string>
-    <string name="Win_by_3_points_in_a_CTF_game_">"Vencer por 3 pontos em um jogo de CAB."</string>
-    <string name="Score_3_points_in_a_single_CTF_game_">"Ganhar 3 pontos em um único jogo de CAB."</string>
-    <string name="Win_by_2_500_points_in_a_Survival_game_">"Vencer por 2,500 pontos em um jogo de Sobrevivência."</string>
-    <string name="Survive_but_do_not_win_a_survival_game_">"Sobreviver mas não ganhar um jogo de sobrevivência."</string>
+    <string name="Win_by_3_points_in_a_CTF_game_">"Vencer por 3 pontos em um jogo de CAB"</string>
+    <string name="Score_3_points_in_a_single_CTF_game_">"Ganhar 3 pontos em um único jogo de CAB"</string>
+    <string name="Win_by_2_500_points_in_a_Survival_game_">"Vencer por 2,500 pontos em um jogo de Sobrevivência"</string>
+    <string name="Survive_but_do_not_win_a_survival_game_">"Sobreviver mas não ganhar um jogo de sobrevivência"</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"Vencer por 8 pontos em um jogo de Futebol."</string>
-    <string name="Score_3_goals_in_a_single_Soccer_game_">"Marcar 3 gols em um único jogo de futebol."</string>
+    <string name="Score_3_goals_in_a_single_Soccer_game_">"Marcar 3 gols em um único jogo de futebol"</string>
     <string name="Total_Domination">"Dominação Total"</string>
-    <string name="Win_500_games_of_any_type_">"Vencer 500 jogos de qualquer tipo."</string>
+    <string name="Win_500_games_of_any_type_">"Vencer 500 jogos de qualquer tipo"</string>
     <string name="Translations">"Traduções"</string>
     <string name="Developers">"Desenvolvedores"</string>
     <string name="Special_Thanks">"Agradecimentos Especiais"</string>
@@ -342,11 +342,11 @@
     <string name="FFA_CLASSIC">"FFA CLÁSSICO"</string>
 
 
-    <string name="pumpkins_">"abóboras."</string>
-    <string name="To_use_this_skin_you_must_collect">"Para usar esta skin, você deve coletar"</string>
+    <string name="pumpkins_">"abóboras"</string>
+    <string name="To_use_this_skin_you_must_collect">"Para usar esta skin você deve coletar"</string>
     <string name="Australia">"Austrália"</string>
     <string name="Pumpkin_Collector">"Coletor de Abóboras"</string>
-    <string name="Collect_1000_pumpkins_">"Coletar 1000 abóboras."</string>
+    <string name="Collect_1000_pumpkins_">"Coletar 1000 abóboras"</string>
 
     <string name="FFAC">"FFAC"</string>
     <string name="NONE">"NENHUM"</string>
@@ -361,7 +361,7 @@
 
     <string name="Score">"Pontos"</string>
     <string name="Rating">"Classificação"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"Você está prestes a fazer um novo líder!"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"Você está prestes a fazer um novo líder"</string>
     <string name="XP">"XP"</string>
     <string name="High_Score">"Pontuação Máxima"</string>
 
@@ -382,7 +382,7 @@
 
 
     <string name="snowflakes_">"flocos de neve."</string>
-    <string name="presents_">"presentes."</string>
+    <string name="presents_">"presentes"</string>
     <string name="Snowflake_Collector">"Coletor de Flocos de Neve"</string>
     <string name="Present_Collector">"Coletor de Presentes"</string>
 
@@ -402,7 +402,7 @@
 
     <string name="Triple">"Triplo"</string>
     <string name="Leaf_Hoarder">"Acumulador de Folhas"</string>
-    <string name="Collect_5000_leaves_">"Colete 5.000 folhas."</string>
+    <string name="Collect_5000_leaves_">"Colete 5.000 folhas"</string>
 
 
     <string name="Arena">"Arena"</string>
@@ -411,42 +411,42 @@
 
     <string name="Purchase_History">"Histórico de Compras"</string>
 
-    <string name="Purchases_Unavailable_">"Compras indisponíveis!"</string>
+    <string name="Purchases_Unavailable_">"Compras indisponíveis"</string>
     <string name="You_can_purchase_this_skin_for">"Você pode comprar esta skin por"</string>
     <string name="PURCHASE">"COMPRAR"</string>
-    <string name="Error_in_backup_data_">"Erro nos dados do backup!"</string>
+    <string name="Error_in_backup_data_">"Erro nos dados do backup"</string>
 
 
     <string name="Remove_Ads">"Remover Anúncios"</string>
     <string name="Reward">"Recompensa"</string>
-    <string name="Please_Wait___">"Por favor, aguarde…"</string>
+    <string name="Please_Wait___">"Por favor aguarde…"</string>
     <string name="Purchasing">"Comprando"</string>
 
-    <string name="Purchase_Successful_">"Compra bem-sucedida."</string>
-    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Talvez você precise se reconectar para usar a compra."</string>
+    <string name="Purchase_Successful_">"Compra bem-sucedida"</string>
+    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Talvez você precise se reconectar para usar a compra"</string>
     <string name="Confirm_Purchase">"Confirmar Compra"</string>
     <string name="x3_XP_24_hours">"3x XP 24 Horas"</string>
     <string name="x3_XP_1_Hour">"3x XP 1 Hora"</string>
     <string name="x2_XP_24_Hour">"2x XP 24 Horas"</string>
     <string name="x2_XP_1_Hour">"2x XP 1 Hora"</string>
     <string name="Cost_">"Custo:"</string>
-    <string name="You_cannot_purchase_this_right_now_">"Você não pode comprar isto agora."</string>
+    <string name="You_cannot_purchase_this_right_now_">"Você não pode comprar isto agora"</string>
 
 
-    <string name="Loading_Purchases___">"Carregando Compras…"</string>
+    <string name="Loading_Purchases___">"Carregando Compras"</string>
     <string name="In_App_Purchases">"Compras No App"</string>
-    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Não é possível aplicar um novo impulso de XP até o impulso atual expirar."</string>
-    <string name="This_purchase_has_already_been_redeemed_">"Esta compra já foi resgatada."</string>
+    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Não é possível aplicar um novo impulso de XP até o impulso atual expirar"</string>
+    <string name="This_purchase_has_already_been_redeemed_">"Esta compra já foi resgatada"</string>
 
-    <string name="You_cannot_remove_yourself__Leave_clan_instead_">"Você não pode remover a si mesmo. Saia do clã ao invés disso."</string>
+    <string name="You_cannot_remove_yourself__Leave_clan_instead_">"Você não pode remover a si mesmo. Saia do clã ao invés disso"</string>
 
 
     <string name="until">"até"</string>
-    <string name="New_Message_">"Nova Mensagem!"</string>
+    <string name="New_Message_">"Nova Mensagem"</string>
     <string name="Seasonal">"Temporada"</string>
 
 
-    <string name="Temporarily_Disabled_">"Temporariamente Desativado."</string>
+    <string name="Temporarily_Disabled_">"Temporariamente Desativado"</string>
     <string name="BIGGEST">"O MAIOR"</string>
 
 
@@ -462,29 +462,29 @@
     <string name="Plasma_Mogul">"Magnata de Plasmas"</string>
     <string name="Plasma_Collector">"Coletor de Plasmas"</string>
     <string name="Plasma_Hoarder">"Colecionador de Plasmas"</string>
-    <string name="Collect_1_000_Plasma">"Colete 1.000 Plasmas."</string>
-    <string name="Collect_10_000_Plasma_">"Colete 10.000 Plasmas."</string>
-    <string name="Collect_100_000_Plasma">"Colete 100.000 Plasmas."</string>
-    <string name="Plasma_Collected_">"Plasmas Coletados:"</string>
+    <string name="Collect_1_000_Plasma">"Colete 1.000 Plasmas"</string>
+    <string name="Collect_10_000_Plasma_">"Colete 10.000 Plasmas"</string>
+    <string name="Collect_100_000_Plasma">"Colete 100.000 Plasmas"</string>
+    <string name="Plasma_Collected_">"Plasmas Coletados"</string>
     <string name="Plasma_Purchases">"Compras de Plasma"</string>
 
     <string name="ENTER">"ENTRAR"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Praticar"</string>
-    <string name="ArenaDescription">Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
+    <string name="ArenaDescription">Você terá apenas uma vida O vencedor receberá %s plasma Negociar vitórias ou "pontos gratuitos" resultará em um banimento</string>
     <string name="Contestant">"Competidor"</string>
     <string name="Duelist">"Duelista"</string>
     <string name="Gladiator">"Gladiador"</string>
     <string name="Challenger">"Desafiador"</string>
-    <string name="Win_1_1v1_Arenas_">"Vencer uma Arena."</string>
-    <string name="Win_10_Arenas_">"Vencer 10 Arenas."</string>
-    <string name="Win_100_Arenas_">"Vencer 100 Arenas."</string>
-    <string name="Win_1000_Arenas">"Vencer 1.000 Arenas."</string>
+    <string name="Win_1_1v1_Arenas_">"Vencer uma Arena"</string>
+    <string name="Win_10_Arenas_">"Vencer 10 Arenas"</string>
+    <string name="Win_100_Arenas_">"Vencer 100 Arenas"</string>
+    <string name="Win_1000_Arenas">"Vencer 1.000 Arenas"</string>
 
 
-    <string name="Already_in_arena_">"Já está na arena."</string>
-    <string name="Already_in_queue_">"Já está na fila."</string>
-    <string name="Invalid_Account_ID_">"ID da conta Inválido."</string>
+    <string name="Already_in_arena_">"Já está na arena"</string>
+    <string name="Already_in_queue_">"Já está na fila"</string>
+    <string name="Invalid_Account_ID_">"ID da conta Inválido"</string>
 
     <string name="Validating">"Validando"</string>
 
@@ -509,16 +509,16 @@
 
     <string name="Present_Hoarder">"Colecionador de Presentes"</string>
     <string name="Present_Mogul">"Magnata de Presentes"</string>
-    <string name="Collect_1_000_presents_">"Colete 1.000 presentes."</string>
-    <string name="Collect_5_000_presents_">"Colete 5.000 presentes."</string>
-    <string name="Collect_10_000_presents_">"Colete 10.000 presentes."</string>
+    <string name="Collect_1_000_presents_">"Colete 1.000 presentes"</string>
+    <string name="Collect_5_000_presents_">"Colete 5.000 presentes"</string>
+    <string name="Collect_10_000_presents_">"Colete 10.000 presentes"</string>
     <string name="Loading_reward_video___">"Carregando vídeo de recompensa…"</string>
     <string name="Progress">"Progresso"</string>
     <string name="Snowflake_Hoarder">"Colecionador de Flocos de Neve"</string>
     <string name="Snowflake_Mogul">"Magnata de Flocos de Neve"</string>
-    <string name="Collect_1_000_snowflakes_">"Colete 1.000 flocos de neve."</string>
-    <string name="Collect_5_000_snowflakes_">"Colete 5.000 flocos de neve."</string>
-    <string name="Collect_10_000_snowflakes_">"Colete 10.000 flocos de neve."</string>
+    <string name="Collect_1_000_snowflakes_">"Colete 1.000 flocos de neve"</string>
+    <string name="Collect_5_000_snowflakes_">"Colete 5.000 flocos de neve"</string>
+    <string name="Collect_10_000_snowflakes_">"Colete 10.000 flocos de neve"</string>
     <string name="Show_All">"Mostrar Tudo"</string>
 
     <string name="SET_PERMISSIONS">"DEFINIR PERMISSÕES"</string>
@@ -530,7 +530,7 @@
     <string name="DOMINATION">"DOMINAÇÃO"</string>
     <string name="DOM_Domination">"Dominador da Dominação"</string>
     <string name="DOM_Hat_Trick">"Hat-Trick da Dominação"</string>
-    <string name="Win_by_50_points_in_a_DOM_game_">"Vencer por 50 pontos em um jogo de Dominação."</string>
+    <string name="Win_by_50_points_in_a_DOM_game_">"Vencer por 50 pontos em um jogo de Dominação"</string>
     <string name="Score_33_points_in_a_single_DOM_game_">"Vencer 33 pontos em um único jogo Dominação"</string>
     <string name="Win_a_Domination_Game">"Ganhar um jogo de Dominação"</string>
     <string name="Select_Team">"Selecionar Equipe"</string>
@@ -547,7 +547,7 @@
     <string name="Team_Created_">"Equipe Criada!"</string>
     <string name="Team_Arena">"Arena em Equipe"</string>
     <string name="No_Teams">"Sem Equipes."</string>
-    <string name="team_arena_info">"Depois de criar uma equipe, você pode convidar e remover membros livremente. Também é livre para jogar partidas de arena em equipe. Você não pode mudar o nome da sua equipe, uma vez que for criada!"</string>
+    <string name="team_arena_info">"Depois de criar uma equipe você pode convidar e remover membros livremente Também é livre para jogar partidas de arena em equipe Você não pode mudar o nome da sua equipe uma vez que for criada"</string>
 
 
     <string name="Invited">"Convidado"</string>
@@ -584,20 +584,20 @@
     <string name="You_are_not_invited_to_team_">"Você não foi convidado para a equipe:"</string>
     <string name="Team_does_not_exist_">"A equipe não existe:"</string>
     <string name="Please_wait_a_minute_before_sending_another_report_">"Por favor, aguarde um minuto antes de enviar uma outra denúncia."</string>
-    <string name="Collect_1_000_beads_">"Colete 1.000 pérolas."</string>
-    <string name="Collect_5_000_beads_">"Colete 5.000 pérolas."</string>
-    <string name="Collect_10_000_beads_">"Colete 10.000 pérolas."</string>
+    <string name="Collect_1_000_beads_">"Colete 1.000 pérolas"</string>
+    <string name="Collect_5_000_beads_">"Colete 5.000 pérolas"</string>
+    <string name="Collect_10_000_beads_">"Colete 10.000 pérolas"</string>
     <string name="Bead_Collector">"Coletor de Pérolas"</string>
     <string name="Bead_Hoarder">"Colecionador de Pérolas"</string>
     <string name="Bead_Mogul">"Magnata de Pérolas"</string>
-    <string name="beads_">"pérolas."</string>
+    <string name="beads_">"pérolas"</string>
 
     <string name="Rejoin_Game">"Recomeçar Jogo"</string>
     <string name="PRIZES">"PRÊMIOS"</string>
 
     <string name="Enable_Custom_Skin">"Ativar Skin Personalizada"</string>
     <string name="Use_Custom_Skin">"Skin\nPersonalizada"</string>
-    <string name="custom_skin_description">"Este recurso permite que você use sua foto de perfil ou um arquivo como sua skin. Isso só vai mudar a skin que você vê. Outras pessoas não irão ver sua skin personalizada, a menos que decida enviá-la."</string>
+    <string name="custom_skin_description">"Este recurso permite que você use sua foto de perfil ou um arquivo como sua skin Isso só vai mudar a skin que você vê Outras pessoas não irão ver sua skin personalizada a menos que decida enviá-la"</string>
     <string name="CUSTOM_SKIN">"SKIN PERSONALIZADA"</string>
 
     <string name="Facebook_Profile">"Perfil do Facebook"</string>
