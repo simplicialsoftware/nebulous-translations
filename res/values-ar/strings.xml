@@ -3,9 +3,9 @@
     <string name="Control_">"التحكم"</string>
     <string name="CLOSE">"إغلاق"</string>
     <string name="Stick_Size_">"حجم موجه الدائرة:"</string>
-    <string name="Stick_Margin_">"إرتفاع موجه الدائرة:"</string>
+    <string name="Stick_Margin_">"موجه الدائرة:"</string>
     <string name="Button_Size_">"حجم الأزرار:"</string>
-    <string name="Button_Margin_">"إرتفاع الأزرار:"</string>
+    <string name="Button_Margin_">"زر الهامش:"</string>
     <string name="Buttons_">"الأزرار:"</string>
     <string name="DEFAULTS">"الإفتراضي"</string>
     <string name="WEEKLY">"الأسبوعي"</string>
@@ -15,7 +15,7 @@
     <string name="Show_Names">"إظهار الأسماء"</string>
     <string name="Show_Avatars">"إظهار الصور"</string>
     <string name="PLAY">"إلعب"</string>
-    <string name="OPTIONS">"الإعدادات"</string>
+    <string name="OPTIONS">"خيارات"</string>
 
     <string name="Avatar_">"الصورة"</string>
     <string name="Name_">"الإسم"</string>
