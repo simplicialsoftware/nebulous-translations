@@ -35,7 +35,7 @@
     <string name="_Alias_">" Apelido "</string>
     <string name="_Score_">" Pontos "</string>
     <string name="Score__">"Pontuação: "</string>
-    <string name="Recombine_">"Recombinar em: "</string>
+    <string name="Recombine_">"Recombinar: "</string>r
     <string name="WINNER_">"VENCEDOR:"</string>
     <string name="IDLE">"INATIVO"</string>
     <string name="Name_Invalid_">"Nome inválido."</string>
@@ -45,7 +45,7 @@
     <string name="PLAYING">"JOGANDO"</string>
     <string name="MULTIPLAYER">"MULTIJOGADOR"</string>
 
-    <string name="JOIN">"ENTRAR"</string>
+    <string name="JOIN">"JUNTAR"</string>
 
 
     <string name="Lobby_Name">"Nome da Sala"</string>
@@ -55,7 +55,7 @@
 
 
     <string name="SERVER">"SERVIDOR"</string>
-    <string name="Joining_game_in_">"Entrando no jogo em "</string>
+    <string name="Joining_game_in_">"juntando-se no jogo em "</string>
     <string name="Game_Full">"Jogo Cheio"</string>
     <string name="US_East">"América Central"</string>
     <string name="US_West">"América do Norte"</string>
@@ -68,8 +68,8 @@
     <string name="Difficulty_">"Dificuldade:"</string>
     <string name="Delay_Disconnect">"Atrasar a Desconexão"</string>
 
-    <string name="Max_Players">"Máx. de Jogadores"</string>
-    <string name="Min_Players">"Mín. de Jogadores"</string>
+    <string name="Max_Players">"Máx de Jogadores"</string>
+    <string name="Min_Players">"Mín de Jogadores"</string>
 
     <string name="OK">"OK"</string>
     <string name="CANCEL">"CANCELAR"</string>
@@ -99,7 +99,7 @@
     <string name="Information">"Informação"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Para usar esta skin, você deve liberar a conquista"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Para usar esta skin, você deve atingir o nível"</string>
-    <string name="SIGN_IN">"ENTRAR"</string>
+    <string name="SIGN_IN">"ENTRAR"</string> 
 
     <string name="Single_Player_Stats">"Estatísticas de Único Jogador"</string>
 
