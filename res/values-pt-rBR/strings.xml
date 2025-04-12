@@ -202,13 +202,13 @@
     <string name="Absorb_32_blobs_quickly">"Absorva 32 blobs rapidamente"</string>
     <string name="Absorb_40_blobs_quickly">"Absorva 40 blobs rapidamente"</string>
 
-    <string name="Absorb_8_player_blobs_without_restarting">"Absorva 8 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_16_player_blobs_without_restarting">"Absorva 16 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_32_player_blobs_without_restarting">"Absorva 32 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_48_player_blobs_without_restarting">"Absorva 48 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_80_player_blobs_without_restarting">"Absorva 80 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_160_player_blobs_without_restarting">"Absorva 160 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_240_player_blobs_without_restarting">"Absorva 240 blobs de jogadores sem reiniciar"</string>
+    <string name="Absorb_8_player_blobs_without_restarting">"Absorva 8 blobs dos jogadores sem reiniciar"</string>
+    <string name="Absorb_16_player_blobs_without_restarting">"Absorva 16 blobs dos jogadores sem reiniciar"</string>
+    <string name="Absorb_32_player_blobs_without_restarting">"Absorva 32 blobs dos jogadores sem reiniciar"</string>
+    <string name="Absorb_48_player_blobs_without_restarting">"Absorva 48 blobs dos jogadores sem reiniciar"</string>
+    <string name="Absorb_80_player_blobs_without_restarting">"Absorva 80 blobs dos jogadores sem reiniciar"</string>
+    <string name="Absorb_160_player_blobs_without_restarting">"Absorva 160 blobs dos jogadores sem reiniciar"</string>
+    <string name="Absorb_240_player_blobs_without_restarting">"Absorva 240 blobs dos jogadores sem reiniciar"</string>
 
     <string name="Reach_a_score_of_1_000">"Atinja uma pontuação de 1.000"</string>
     <string name="Reach_a_score_of_5_000">"Atinja uma pontuação de 5.000"</string>
@@ -1122,14 +1122,14 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Hooked">Enganchado</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Seja puxado por um poder de gancho por 10 segundos</string>
     <string name="Pack">Pacote</string>
-    <string name="Skin_Pack">Pacote de Skin</string>
-    <string name="SKIN_PACK">PACOTE DE SKIN</string>
+    <string name="Skin_Pack">Pacote de Skins</string>
+    <string name="SKIN_PACK">PACOTE DE SKINS</string>
     <string name="HALLOWEEN">DIA DAS BRUXAS</string>
     <string name="pack_info">Depois que você comprar este pacote de skin, suas skins exclusivas aparecerão na parte superior dos menus de seleção de skin.</string>
-    <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins, Masc, Bonés EXCLUSIVOS e Mais!</string>
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins, Mascote, Bonés EXCLUSIVOS e Mais!</string>
     <string name="BUY_NOW_">COMPRAR AGORA!</string>
     <string name="already_purchased">Você ou a pessoa para qual você está comprando já possui isto.</string>
-    <string name="Halo_Animations">Animações da Aréola</string>
+    <string name="Halo_Animations">Animações da Auréola</string>
     <string name="Trick_Notifications">Notificações do Modo Trick</string>
     <string name="Channel">Canal</string>
     <string name="Choose_Text_Size">Escolher Tamanho do Texto</string>
