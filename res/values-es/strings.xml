@@ -206,7 +206,7 @@
     <string name="Absorb_16_player_blobs_without_restarting">"Absorbe 16 jugadores sin reiniciar"</string>
     <string name="Absorb_32_player_blobs_without_restarting">"Absorbe 32 jugadores sin reiniciar"</string>
     <string name="Absorb_48_player_blobs_without_restarting">"Absorbe 48 jugadores sin reiniciar"</string>
-    <string name="Absorb_80_player_blobs_without_restarting">"Absorbe 80 jugadores  sin reiniciar"</string>
+    <string name="Absorb_80_player_blobs_without_restarting">"Absorbe 80 jugadores sin reiniciar"</string>
     <string name="Absorb_160_player_blobs_without_restarting">"Absorbe 160 jugadores sin reiniciar"</string>
     <string name="Absorb_240_player_blobs_without_restarting">"Absorbe 240 jugadores sin reiniciar"</string>
 
@@ -469,7 +469,7 @@
     <string name="Plasma_Purchases">"Compras de Plasma"</string>
 
     <string name="ENTER">"ENTRAR"</string>
-    <string name="_1v1">" 1vs1"</string>
+    <string name="_1v1">"1vs1"</string>
     <string name="Practice">"Practicar"</string>
     <string name="ArenaDescription">Solo tienes una vida. El ganador recibirá %s plasma. Si haces trampa para conseguir "puntos gratis", serás baneado.</string>
     <string name="Contestant">"Concursante"</string>
@@ -492,7 +492,7 @@
 
     <string name="Harassment">"Acoso"</string>
 
-    <string name="_2v2">" 2vs2"</string>
+    <string name="_2v2">"2vs2"</string>
 
 
     <string name="Standard">"Estándar"</string>
@@ -522,7 +522,7 @@
     <string name="Show_All">"Mostrar todo"</string>
 
     <string name="SET_PERMISSIONS">"ESTABLECER PERMISOS"</string>
-    <string name="Start_Clan_War">"Iniciar Guerra de Clanes</string>
+    <string name="Start_Clan_War">"Iniciar Guerra de Clanes"</string>
     <string name="Min_Level">"Nivel Mínimo"</string>
     <string name="SAVE">"GUARDAR"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Este jugador no cumple con el requisito mínimo de nivel para unirse a este clan:"</string>
@@ -530,7 +530,7 @@
     <string name="DOMINATION">"DOMINACIÓN"</string>
     <string name="DOM_Domination">"Domina en Dominación"</string>
     <string name="DOM_Hat_Trick">"Triplete en Dominación"</string>
-    <string name="Win_by_50_points_in_a_DOM_game_">Gana por 50 puntos en una partida de Dominación."</string>
+    <string name="Win_by_50_points_in_a_DOM_game_">"Gana por 50 puntos en una partida de Dominación."</string>
     <string name="Score_33_points_in_a_single_DOM_game_">"Consigue 33 puntos en una sola partida de Dominación."</string>
     <string name="Win_a_Domination_Game">"Gana una partida de Dominación"</string>
     <string name="Select_Team">"Seleccionar Equipo"</string>
@@ -796,8 +796,8 @@
     <string name="ZA">"AZ"</string>
     <string name="Pandemic">"Pandemia"</string>
     <string name="Immunity">"Inmunidad"</string>
-    <string name="Win_as_zombies_in_2_minutes_or_less_">Gana como zombi en 2 minutos o menos </string>
-    <string name="Win_as_survivors_with_no_losses_">Gana como superviviente sin que ningún superviviente muera </string>
+    <string name="Win_as_zombies_in_2_minutes_or_less_">Gana como zombi en 2 minutos o menos"</string>
+    <string name="Win_as_survivors_with_no_losses_">Gana como superviviente sin que ningún superviviente muera"</string>
     <string name="ZOMBIE_">"¡ZOMBI!"</string>
     <string name="SURVIVOR_">"¡SUPERVIVIENTE!"</string>
     <string name="Zombies">"Zombis"</string>
