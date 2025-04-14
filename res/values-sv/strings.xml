@@ -38,7 +38,7 @@
     <string name="Recombine_">" Sätts ihop: "</string>
     <string name="WINNER_">"Vinnare:"</string>
     <string name="IDLE">"Frånvarande"</string>
-    <string name="Name_Invalid_">"Ogiltligt namn."</string>
+    <string name="Name_Invalid_">"Ogiltigt namn."</string>
     <string name="Name_Taken_">"Namnet används redan."</string>
     <string name="CONNECTED">"Ansluten"</string>
     <string name="JOINING___">"Ansluter…"</string>
@@ -262,7 +262,7 @@
     <string name="Clan">"Klan"</string>
 
 
-    <string name="JOIN_CLAN">"Aanslut till klan"</string>
+    <string name="JOIN_CLAN">"Anslut till klan"</string>
     <string name="JOIN_RANDOM_CLAN">"Anslut till slumpmässig klan"</string>
     <string name="LEAVE_CLAN">"Lämna klan"</string>
     <string name="INVITE_MEMBER">"Bjud in spelare"</string>
