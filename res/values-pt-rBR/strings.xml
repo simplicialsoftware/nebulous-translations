@@ -1057,16 +1057,16 @@ Em Revisão (Amarelo): Significa que a skin está sendo revisada, você deve agu
 
 Aprovado (Verde): A skin pode ser vista por outros jogadores.
 
-Reembolsado (Laranja): Você recebeu o reembolso da skin pois não atende aos padrões estabelecidos, você deve selecionar alguma outra imagem que não seja a mesma.
+Reembolsado (Laranja): você recebeu o reembolso da skin, pois ela não atende aos padrões estabelecidos. Você deve selecionar uma nova imagem que não seja a mesma.
 
-Rejeitado (Vermelho): Isso significa que sua skin não poderá ser vista por outros jogadores, porque possui conteúdo inadequado, seu plasma não será devolvido.
+Rejeitado (Vermelho): isso significa que sua skin não poderá ser visualizada por outros jogadores, pois contém conteúdo inadequado; seu plasma não será devolvido.
 
 
 PORQUE A MINHA SKIN PERSONALIZADA FOI REEMBOLSADA OU REJEITADA?
 
 Se a sua skin personalizada for reembolsada, não a compre novamente, pois ela será rejeitada e você perderá seus plasmas.
 
-Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personalizadas. Se você comprar uma skin com isso, ela será reembolsada ou rejeitada:
+Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se você comprar uma skin que contenha esses elementos, ela será reembolsada ou rejeitada:
 - Conteúdo e/ou alguma referência Sexual
 - Skins/Arte do Nebulous Não Modificadas
 - Conteúdo Gore (horror)/Suicídio
@@ -1309,7 +1309,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="skin_warning" translatable="true" tools:ignore="Untranslatable">
         "A sua skin não foi aprovada. Aqui estão algumas das razões mais comuns. Você NÃO deve enviar:
 
-		1. Uma foto de uma pessoa como skin da comunidade. Ela só poderá ser aceita como skin que não seja da comunidade.
+		1. Uma foto de uma pessoa não pode ser usada como skin da comunidade; ela só será aceita se não pertencer à comunidade.
 		2. Uma foto de alguém sem camisa.
 		3. Alguém em uma pose ou cena imprópria.
 		4. Representações de álcool ou drogas (incluindo maconha)
