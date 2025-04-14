@@ -2,8 +2,8 @@
     <string name="Players">"اللاعبين."</string>
     <string name="Control_">"التحكم"</string>
     <string name="CLOSE">"إغلاق"</string>
-    <string name="Stick_Size_">"حجم موجه الدائرة:"</string>
-    <string name="Stick_Margin_">"إرتفاع موجه الدائرة:"</string>
+    <string name="Stick_Size_">"حجم موجة الدائرة:"</string>
+    <string name="Stick_Margin_">"إرتفاع موجة الدائرة:"</string>
     <string name="Button_Size_">"حجم الأزرار:"</string>
     <string name="Button_Margin_">"إرتفاع الأزرار:"</string>
     <string name="Buttons_">"الأزرار:"</string>
@@ -20,14 +20,14 @@
     <string name="Avatar_">"الصورة"</string>
     <string name="Name_">"الإسم"</string>
 
-    <string name="Loading___">"جاري التحميل…"</string>
-    <string name="Connecting___">"جاري الإتصال…"</string>
+    <string name="Loading___">"!جاري التحميل…"</string>
+    <string name="Connecting___">"!جاري الإتصال…"</string>
 
     <string name="Are_You_Sure_">"هل أنت متأكد؟"</string>
     <string name="Yes">"نعم"</string>
     <string name="No">"لا"</string>
     <string name="WAIT">"انتظر …"</string>
-    <string name="Must_Specify_Name_">"يجب تحديد الإسم."</string>
+    <string name="Must_Specify_Name_">"!يجب تحديد الإسم."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
 
@@ -49,7 +49,7 @@
 
 
     <string name="Lobby_Name">"أسم السيرفر"</string>
-    <string name="Not_found_">"لم يتم العثور عليه."</string>
+    <string name="Not_found_">"!لم يتم العثور علية."</string>
 
     <string name="Hidden">"مخفي"</string>
 
