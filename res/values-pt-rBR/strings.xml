@@ -149,7 +149,7 @@
     <string name="Dot_Nibbler">"Mordiscador de Pontos"</string>
     <string name="Dot_Muncher">"Caçador de Pontos"</string>
     <string name="Dot_Eater">"Comedor de Pontos"</string>
-    <string name="Dot_Gulper">"Comilão de Pontos"</string>
+    <string name="Dot_Gulper">"Engolidor de Pontos"</string>
     <string name="Dot_Gobbler">"Guloso de Pontos"</string>
     <string name="Dot_Devourer">"Devorador de Pontos"</string>
     <string name="Dot_Gormandizer">"Gordice de Pontos"</string>
@@ -160,7 +160,7 @@
     <string name="Mega_Gulp">"Mega Devorador"</string>
     <string name="Ultra_Gulp">"Ultra Devorador"</string>
     <string name="Monster_Gulp">"Devorador Monstruoso"</string>
-    <string name="Ludicrous_Gulp">"Devorador Absurdo"</string>
+    <string name="Ludicrous_Gulp">"Devorador Ridiculo"</string>
 
     <string name="Blobicide">"Blobicídio"</string>
     <string name="Blobtrocity">"Blobtrocidade"</string>
