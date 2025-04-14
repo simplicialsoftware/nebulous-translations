@@ -45,7 +45,7 @@
     <string name="PLAYING">"في طور اللعب"</string>
     <string name="MULTIPLAYER">"متعدد اللاعبين"</string>
 
-    <string name="JOIN">"إنضم"</string>
+    <string name="JOIN">"!إنضم"</string>
 
 
     <string name="Lobby_Name">"أسم السيرفر"</string>
@@ -63,7 +63,7 @@
     <string name="South_America">"امريكا الجنوبية"</string>
 
 
-    <string name="SINGLE_PLAYER">"لاعب واحد"</string>
+    <string name="SINGLE_PLAYER">"!لاعب واحد"</string>
     <string name="Background_">"الخلفية:"</string>
     <string name="Difficulty_">"الصعوبة"</string>
     <string name="Delay_Disconnect">"تأخير قطع الإتصال"</string>
@@ -97,7 +97,7 @@
     <string name="XP_">"نقاط الخبرة:"</string>
 
     <string name="Information">"معلومات"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"لاستخدام هذه الصورة يجب أن تحقق الإنجاز"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"!لاستخدام هذه الصورة يجب أن تحقق الإنجاز"</string>
     <string name="To_use_this_skin_you_must_reach_level">"لاستخدام هذه الصورة يجب أن تصل إلى المستوى"</string>
     <string name="SIGN_IN">"تسجيل الدخول"</string>
 
@@ -174,7 +174,7 @@
     <string name="Expert_Nebulator">"لاعب خبير"</string>
     <string name="Master_Nebulator">"لاعب متدرب"</string>
     <string name="Grand_Master_Nebulator">"لاعب محترف"</string>
-    <string name="Impossible">"مستحيل"</string>
+    <string name="Impossible">"!مستحيل"</string>
 
     <string name="Perfection">"الإتقان"</string>
     <string name="Single_Handedly">"عمل فردي"</string>
