@@ -927,12 +927,7 @@
     <string name="Enable_Custom_Blob_Color">"تمكين ألوان الدائرة"</string>
     <string name="Choose_Menu">"اختر القائمة"</string>
     <string name="SPECTATE">مشاهدة</string>
-    <string name="INVITE">دعوة</string>
-    <string name="error_1">القائد ومساعديه هم الوحيدون الذي يُسمح لهم بأرسال رساله للعشيرة !.</string>
-    <string name="Hat">القبعة</string>
-    <string name="Hats">القبعات</string>
-    <string name="Pet_Uploads">تحميلات الحيوانات</string>
-    <string name="BLOB">الدائرة</string>
+    <string="BLOB">الدائرة</string>
     <string name="Clan_Pet_Uploads">تحميلات الحيوانات الأليفة في العشيرة</string>
     <string name="YT">يوتيوبر</string>
     <string name="FREE_TODAY">مجاني اليوم!</string>
@@ -1311,15 +1306,15 @@ Commands:
 !reset
 !welcome {message}
 !difficulty [0-3] or [1-4] for Campaign
-!hidden
+!hidden !مخفي
 !guests
 !slowchat
 !pausechat
 !mute {id}
-!admin {id}
+!admin {id} !المشرف {هويه} 
 !allow {id}
 !allow reset
-!winner"
+!winner" !الفائز
 </string>
     <string name="ID_Sort">نوع الهوية</string>
     <string name="Master_Tamer">مُروِّض مُتقن</string>
