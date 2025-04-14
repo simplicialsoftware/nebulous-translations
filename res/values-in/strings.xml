@@ -78,9 +78,9 @@
     <string name="Green_Team">"Tim Hijau"</string>
     <string name="Blue_Team">"Tim Biru"</string>
     <string name="Yellow_Team">"Tim Kuning"</string>
-    <string name="Signed_in_as_">"Di-Login sebagai:"</string>
-    <string name="Not_signed_in_">"Tidak Di-Login!"</string>
-    <string name="SET_NAME">"SET NAMA"</string>
+    <string name="Signed_in_as_">"Login sebagai:"</string>
+    <string name="Not_signed_in_">"Tidak Login!"</string>
+    <string name="SET_NAME">"ATUR NAMA"</string>
     <string name="SIGN_OUT">"LOGOUT"</string>
     <string name="ACHIEVEMENTS">"PRESTASI"</string>
     <string name="STATISTICS">"STATISTIK"</string>
@@ -102,8 +102,8 @@
     <string name="Bot">"Bot"</string>
     <string name="You">"Anda"</string>
     <string name="This_player_is_a_bot">"Pemain ini adalah bot."</string>
-    <string name="This_player_is_not_signed_in">"Pemain ini tidak di-login."</string>
-    <string name="Online">"Online"</string>
+    <string name="This_player_is_not_signed_in">"Pemain ini tidak login."</string>
+    <string name="Online">"Daring"</string>
     <string name="Unknown">"Tidak dikenal"</string>
     <string name="Offline">"Luring"</string>
     <string name="Achievement_Earned">"Perolehan Prestasi"</string>
@@ -646,15 +646,15 @@
     <string name="Refunded">"Dikembalikan"</string>
     <string name="contribution_warning">"Apakah Anda yakin ingin menyumbangkan plasma ini? Kontribusi tidak akan dikembalikan."</string>
     <string name="Upload">"Mengunggah"</string>
-    <string name="upload_warning">"Apakah Anda yakin ingin meng-upload Skin ini? pemain lain akan dapat melihat Skin ini. Ini bisa memakan waktu hingga satu minggu untuk Skin anda untuk ditinjau. Skin yang tidak pantas akan ditolak dan tidak akan dikembalikan!"</string>
+    <string name="upload_warning">"Apakah Anda yakin ingin mengunggah Skin ini? pemain lain akan dapat melihat Skin ini. Ini bisa memakan waktu hingga satu minggu untuk Skin anda untuk ditinjau. Skin yang tidak pantas akan ditolak dan tidak akan dikembalikan!"</string>
     <string name="In_Review">"Dalam Ulasan"</string>
-    <string name="Account_Uploads">"Skin Upload Saya"</string>
+    <string name="Account_Uploads">"Skin Unggahan Saya"</string>
     <string name="Clan_Uploads">"Klan Skin Upload"</string>
     <string name="Empty">"Kosong"</string>
     <string name="Select">"Pilih"</string>
     <string name="Current_Skin">"Skin Saat ini"</string>
     <string name="Status">"Status"</string>
-    <string name="upload_size_failure">"Tidak bisa meng-upload gambar ini karena terlalu besar. Silakan coba gambar yang berbeda."</string>
+    <string name="upload_size_failure">"Tidak bisa mengunggah gambar ini karena terlalu besar. Silakan coba gambar yang berbeda."</string>
     <string name="CONTRIBUTE_PLASMA">"MENYUMBANG PLASMA"</string>
     <string name="Specify_Contribution_Amount">"Tentukan Jumlah Sumbangan"</string>
     <string name="Clan_Contribution">"Klan Sumbangan"</string>
@@ -673,7 +673,7 @@
     <string name="upload_info">"Anda dapat mencapai kualitas yang lebih baik tanpa Transparansi atau dengan gambar sederhana."</string>
     <string name="Compression_Quality_">"Kualitas Kompresi:"</string>
     <string name="inapproriate_info">"Skin yang tidak pantas mencakup apa pun yang melibatkan kebencian, gore, kecabulan, kekerasan, narkoba, seks, ketelanjangan, narsis seluruh tubuh, ketidakjelasan, tidak dapat dimengerti, dan Skin Nebulous Tanpa Dimodifikasi."</string>
-    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Apakah Anda yakin ingin meng-upload Skin ini?"</string>
+    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Apakah Anda yakin ingin mengunggah Skin ini?"</string>
     <string name="Grant_Permission">"Memberikan Izin"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous perlu izin penyimpanan untuk cadangan kemajuan pemain tunggal Anda!"</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous perlu izin lokasi untuk menemukan perangkat Bluetooth terdekat."</string>
@@ -704,7 +704,7 @@
     <string name="account_warning">"Jangan pernah berbagi password akun Anda atau informasi pribadi dengan siapa pun untuk alasan apapun!"</string>
     <string name="Clan_Hero">"PAHLAWAN KLAN"</string>
     <string name="Win_1000_Clan_Wars">"Menang 1.000 Klan Wars"</string>
-    <string name="NAME_COLOR">"NAMA WARNA"</string>
+    <string name="NAME_COLOR">"WARNA NAMA"</string>
     <string name="name_color_instructions">"Pilih karakter huruf yang ingin Anda ubah kemudian pilih warna yang akan Anda taruh ke huruf itu untuk merubah warna huruf itu."</string>
     <string name="Cannot_change_this_character_">"Tidak dapat mengubah karakter ini"</string>
     <string name="ZOMBIE_APOCALYPSE">"KIAMAT ZOMBI"</string>
@@ -846,7 +846,7 @@
     <string name="error_1">Hanya Pemimpin Atau Wakil Pemimpin Yang Bisa Mengirim Mail Klan.</string>
     <string name="Hat">Topi</string>
     <string name="Hats">Topi</string>
-    <string name="Pet_Uploads">Pet Upload</string>
+    <string name="Pet_Uploads">Unggah Pet</string>
     <string name="BLOB">GUMPALAN</string>
     <string name="Clan_Pet_Uploads">Klan Skin Pet Upload</string>
     <string name="YT">YT</string>
@@ -905,7 +905,7 @@
     <string name="Enable_Colors">Aktifkan Warna</string>
     <string name="Particles">Partikel</string>
     <string name="Clan_Particle_Uploads">Unggahan Partikel Klan</string>
-    <string name="Particle_Uploads">Partikel Uploads</string>
+    <string name="Particle_Uploads">Unggahan Partikel</string>
     <string name="Blob_Outline">Garis Gumpalan</string>
     <string name="Game_Border">Batas Ruang Permainan</string>
     <string name="Select_some_text_first">Pilih suatu teks terlebih dahulu.</string>
@@ -955,7 +955,7 @@
     <string name="Sell">Jual</string>
     <string name="community_skin_requirement">Anda harus membeli Enable Custom Skin untuk menggunakan  komunitas skin.</string>
     <string name="You_can_purchase_this_community_skin_for_">Anda dapat membeli skin komunitas ini untuk</string>
-    <string name="VIEW_UPLOADER">LIHAT PENCIPTA UPLOAD</string>
+    <string name="VIEW_UPLOADER">LIHAT PENGUNGGAH</string>
     <string name="POPULAR">POPULER</string>
     <string name="NEW">BARU</string>
     <string name="Manage_Configurations">Kelola Konfigurasi </string>
@@ -1212,7 +1212,7 @@ Perintah:
     <string name="clan_id">ID KLAN</string>
     <string name="language_change_warning">Mengubah bahasa akan menyebabkan aplikasi dimulai ulang</string>
     <string name="xmas_gift_boost_message">Kamu mendapatkan hadiah 3x Plasma Tambahan untuk 1 hari!</string>
-    <string name="no_response">Tidak bisa bergabung ke server. Mohon check koneksi internet Anda.</string>
+    <string name="no_response">Tidak bisa bergabung ke server. Mohon cek koneksi internet Anda.</string>
     <string name="RAMADAN">RAMADHAN</string>
     <string name="SUDDEN_ATTACK">SERANGAN MENDADAK</string>
     <string name="_2x_skin_resolution">2x Skin Resolusi</string>
@@ -1236,8 +1236,8 @@ Perintah:
         <item>"Kiri"</item>
         <item>"Kanan"</item>
         <item>"Kanan + Kiri"</item>
-        <item>"Tumpukan ke Kiri"</item>
-        <item>"Tumpukan ke Kanan"</item>
+        <item>"Tumpuk ke Kiri"</item>
+        <item>"Tumpuk ke Kanan"</item>
         <item>"Kustom"</item>
     </string-array>
 
