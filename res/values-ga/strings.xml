@@ -401,7 +401,7 @@
     <string name="Hours">"Uaireanta"</string>
 
 
-    <string name="Triple">"Triple"</string>
+    <string name="Triple">"Triarach"</string>
     <string name="Leaf_Hoarder">"Taifeadta Leaf"</string>
     <string name="Collect_5000_leaves_">"Bailigh 5,000 duilleog."</string>
 
@@ -541,7 +541,7 @@
     <string name="Team_Size">"Méid an Teampaill"</string>
     <string name="Team_Name">"Ainm foirne"</string>
     <string name="CREATE_TEAM">"FOIREANN CREATE"</string>
-    <string name="Solo">"Solo"</string>
+    <string name="Solo">"Aonair"</string>
     <string name="Teams">"Foirne"</string>
     <string name="Team">"Foireann"</string>
     <string name="Specify_Account_ID">"Sonraigh an ID Cuntas"</string>
