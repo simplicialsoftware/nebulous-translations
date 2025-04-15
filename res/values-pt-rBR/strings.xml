@@ -1,19 +1,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="Players">"Jogadores"</string>
+    <string name="Players">"Jogadores:"</string>
     <string name="Control_">"Controle:"</string>
     <string name="CLOSE">"FECHAR"</string>
     <string name="Stick_Size_">"Tamanho do Controlador:"</string>
     <string name="Stick_Margin_">"Margem do Controlador:"</string>
     <string name="Button_Size_">"Tamanho dos Botões:"</string>
     <string name="Button_Margin_">"Margem dos Botões:"</string>
-    <string name="Buttons_">"Botões"</string>
+    <string name="Buttons_">"Botões:"</string>
     <string name="DEFAULTS">"PADRÕES"</string>
     <string name="WEEKLY">"SEMANAL"</string>
     <string name="DAILY">"DIÁRIO"</string>
     <string name="Server_">"Servidor:"</string>
     <string name="Game_Mode_">"Modo de Jogo:"</string>
-    <string name="Show_Names">"Mostrar Nomes"</string>
-    <string name="Show_Avatars">"Mostrar Skins"</string>
+    <string name="Show_Names">"Mostrar Nomes:"</string>
+    <string name="Show_Avatars">"Mostrar Skins:"</string>
     <string name="PLAY">"JOGAR"</string>
     <string name="OPTIONS">"OPÇÕES"</string>
 
@@ -31,11 +31,11 @@
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
 
-    <string name="_Rank_">" Posição "</string>
-    <string name="_Alias_">" Apelido "</string>
-    <string name="_Score_">" Pontos "</string>
-    <string name="Score__">"Pontuação: "</string>
-    <string name="Recombine_">"Recombinar em: "</string>
+    <string name="_Rank_">"Posição:"</string>
+    <string name="_Alias_">"Apelido:"</string>
+    <string name="_Score_">"Pontos:"</string>
+    <string name="Score__">"Pontuação:"</string>
+    <string name="Recombine_">"Recombinar em:"</string>
     <string name="WINNER_">"VENCEDOR:"</string>
     <string name="IDLE">"INATIVO"</string>
     <string name="Name_Invalid_">"Nome inválido."</string>
@@ -55,12 +55,12 @@
 
 
     <string name="SERVER">"SERVIDOR"</string>
-    <string name="Joining_game_in_">"Entrando no jogo em "</string>
-    <string name="Game_Full">"Jogo Cheio"</string>
-    <string name="US_East">"América Central"</string>
-    <string name="US_West">"América do Norte"</string>
-    <string name="Europe">"Europa"</string>
-    <string name="South_America">"Brasil"</string>
+    <string name="Joining_game_in_">"Entrando no jogo em:"</string>
+    <string name="Game_Full">"Jogo Cheio."</string>
+    <string name="US_East">"América Central."</string>
+    <string name="US_West">"América do Norte."</string>
+    <string name="Europe">"Europa."</string>
+    <string name="South_America">"Brasil."</string>
 
 
     <string name="SINGLE_PLAYER">"ÚNICO JOGADOR"</string>
@@ -68,13 +68,13 @@
     <string name="Difficulty_">"Dificuldade:"</string>
     <string name="Delay_Disconnect">"Atrasar a Desconexão"</string>
 
-    <string name="Max_Players">"Máx. de Jogadores"</string>
-    <string name="Min_Players">"Mín. de Jogadores"</string>
+    <string name="Max_Players">"Máx. de Jogadores:"</string>
+    <string name="Min_Players">"Mín. de Jogadores:"</string>
 
     <string name="OK">"OK"</string>
     <string name="CANCEL">"CANCELAR"</string>
-    <string name="Chat_Name">"Nome do Chat"</string>
-    <string name="Max_People">"Máx. de Pessoas"</string>
+    <string name="Chat_Name">"Nome do Chat:"</string>
+    <string name="Max_People">"Máx. de Pessoas:"</string>
     <string name="START">"COMEÇAR"</string>
     <string name="CREATE">"CRIAR"</string>
     <string name="CUSTOM_GAMES">"JOGOS PERSONALIZADOS"</string>
@@ -134,16 +134,16 @@
     <string name="NULL">"NULL"</string>
 
 
-    <string name="ALL">"TODOS"</string>
-    <string name="FFA">"FFA"</string>
-    <string name="FFA_TIME">"FFA COM TEMPO"</string>
-    <string name="TEAMS">"EQUIPES"</string>
-    <string name="TEAMS_TIME">"EQUIPES COM TEMPO"</string>
-    <string name="CTF">"CAB"</string>
-    <string name="SURVIVAL">"SOBREVIVÊNCIA"</string>
+    <string name="ALL">"TODOS."</string>
+    <string name="FFA">"FFA."</string>
+    <string name="FFA_TIME">"FFA COM TEMPO."</string>
+    <string name="TEAMS">"EQUIPES."</string>
+    <string name="TEAMS_TIME">"EQUIPES COM TEMPO."</string>
+    <string name="CTF">"CAPTURAR BANDEIRA."</string>
+    <string name="SURVIVAL">"SOBREVIVÊNCIA."</string>
 
 
-    <string name="Clan_XP">"XP do Clã"</string>
+    <string name="Clan_XP">"XP do Clã:"</string>
 
 
     <string name="Dot_Nibbler">"Mordiscador de Pontos"</string>
@@ -332,12 +332,12 @@
     <string name="Win_a_Survival_Game">"Vencer um Jogo de Sobrevivência"</string>
     <string name="Win_a_Teams_Time_Game">"Vencer um Jogo de Equipes com Tempo"</string>
     <string name="Reach_a_score_of_">"Atinja uma pontuação de "</string>
-    <string name="_in_a_FFA_Game">" em um Jogo de FFA"</string>
-    <string name="_in_a_Teams_Game">" em um Jogo de Equipes"</string>
-    <string name="_dots">" pontos"</string>
-    <string name="_player_blobs">" blobs dos jogadores"</string>
-    <string name="Absorb_">"Absorver "</string>
-    <string name="Collect_">"Coletar "</string>
+    <string name="_in_a_FFA_Game">"em um Jogo de FFA"</string>
+    <string name="_in_a_Teams_Game">"em um Jogo de Equipes"</string>
+    <string name="_dots">"pontos"</string>
+    <string name="_player_blobs">"blobs dos jogadores"</string>
+    <string name="Absorb_">"Absorver"</string>
+    <string name="Collect_">"Coletar"</string>
 
     <string name="FFA_CLASSIC">"FFA CLÁSSICO"</string>
 
@@ -707,7 +707,7 @@
     <string name="Collect_5_000_notes_">"Colete 5.000 notas."</string>
     <string name="Collect_10_000_notes_">"Colete 10.000 notas."</string>
     <string name="notes_">"notas."</string>
-    <string name="CLICK_CHEAT_DETECTED_">"CLICK HACK DETECTADO!"</string>
+    <string name="CLICK_CHEAT_DETECTED_">"CLICK HACK DETECTADO!!"</string>
     <string name="Pumpkin_Hoarder">"Colecionador de Abóbora"</string>
     <string name="Pumpkin_Mogul">"Magnata de Abóboras"</string>
     <string name="Leaf_Mogul">"Magnata de Folhas"</string>
