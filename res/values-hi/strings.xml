@@ -55,7 +55,7 @@
 
 
     <string name="SERVER">"सर्वर"</string>
-    <string name="Joining_game_in_">"में खेल में शामिल होने से "</string>
+    <string name="Joining_game_in_">"खेल में शामिल होने जा रहा हूँ..."</string>
     <string name="Game_Full">"खेल पूर्ण"</string>
     <string name="US_East">"अमेरिका के पूर्वी"</string>
     <string name="US_West">"अमेरिका के पश्चिमी"</string>
