@@ -1313,7 +1313,7 @@ Commands: (Komande)
     <string name="You_are_already_friends_">Vi ste već prijatelji.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Račun mora biti star 1 dan da šalje poštu.</string>
     <string name="Translator">Prevoditelj</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">USPJEH</string>
 
 
     <string-array name="control_modes">
