@@ -557,7 +557,7 @@
     <string name="Shoot_20_Powerups_Without_Restarting">"Menembak 20 Powerup Tanpa Memulai Ulang"</string>
     <string name="Request_Timed_Out">"Permintaan Waktu Habis"</string>
     <string name="You_Are_Spectating_">"Anda sedang Menonton."</string>
-    <string name="Account_In_Use_">"Akun Digunakan!"</string>
+    <string name="Account_In_Use_">"Akun sedang Digunakan!"</string>
     <string name="Cannot_Join_Arena_">"Tidak bisa gabung Arena."</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"Meng-Logout akan putus koneksi Anda dari permainan saat!"</string>
     <string name="raindrops_">"Rintik Hujan."</string>
