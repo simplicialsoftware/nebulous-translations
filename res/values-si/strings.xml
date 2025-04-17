@@ -123,7 +123,7 @@
     <string name="Unknown">"නොදන්නා"</string>
     <string name="Offline">"නොබැඳි"</string>
     <string name="Achievement_Earned">"ජයග්රහණය උපයා"</string>
-    <string name="REFRESH">"Refresh"</string>
+    <string name="REFRESH">"නැවුම් කරයි"</string>
     <string name="DONE">"සිදු"</string>
     <string name="Friend_Request_Sent">"මිතුරා ඉල්ලීම් යැවූ …"</string>
     <string name="ERROR">"දෝෂය"</string>
@@ -131,7 +131,7 @@
     <string name="Global_" formatted="false">"ගෝලීය %"</string>
     <string name="FRIEND_CHAT">"මිතුරා චැට්"</string>
     <string name="LOBBY_NAME">"Lobby නම"</string>
-    <string name="NULL">"NULL"</string>
+    <string name="NULL">"හිස්"</string>
 
 
     <string name="ALL">"සෑම"</string>
@@ -140,7 +140,7 @@
     <string name="TEAMS">"කණ්ඩායම්"</string>
     <string name="TEAMS_TIME">"ටීම්ස් ටයිම්"</string>
     <string name="CTF">"CTF"</string>
-    <string name="SURVIVAL">"Survival"</string>
+    <string name="SURVIVAL">"පැවැත්ම"</string>
 
 
     <string name="Clan_XP">"වංශය එක්ස්පී"</string>
@@ -162,7 +162,7 @@
     <string name="Monster_Gulp">"රකුසා ඔවුන්ගේ උගුරෙන් පහළට"</string>
     <string name="Ludicrous_Gulp">"හාස්යජනක ඔවුන්ගේ උගුරෙන් පහළට"</string>
 
-    <string name="Blobicide">"Blobicide"</string>
+    <string name="Blobicide">"බුබුලු ඝාතකයා"</string>
     <string name="Blobtrocity">"Blobtrocity"</string>
     <string name="Blobaccre">"Blobaccre"</string>
     <string name="Blobastrophe">"Blobastrophe"</string>
@@ -246,7 +246,7 @@
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"උසස් එක්ස්පී සමග තනි ක්රීඩක සංඛ්යාන උපස්ථ සොයාගෙන ඇත. ඔබ බැකප් දත්ත යළි කිරීමට අවශ්යද?"</string>
 
     <string name="Special_Effects">"විශේෂ ප්රයෝග"</string>
-    <string name="Blob_Mushiness">"Blob Mushiness"</string>
+    <string name="Blob_Mushiness">"ස්කන්ධයේ මෘදු බව"</string>
 
     <string name="Specify_private_game_name">"පෞද්ගලික ක්රීඩාව නම සඳහන් කර"</string>
     <string name="In_Game_Chat">"In-ගේම් චැට්"</string>
@@ -405,7 +405,7 @@
     <string name="Collect_5000_leaves_">"කොළ 5000 එකතු කරන්න."</string>
 
 
-    <string name="Arena">"Arena"</string>
+    <string name="Arena">"ක්ෂේත්රය"</string>
     <string name="Enter_the_Arena">"මෙම Arena ඇතුලත් කරන්න"</string>
 
 
@@ -468,7 +468,7 @@
     <string name="Plasma_Collected_">"ප්ලාස්මා එකතු:"</string>
     <string name="Plasma_Purchases">"ප්ලාස්මා මිලදී ගැනීම්"</string>
 
-    <string name="ENTER">"ENTER"</string>
+    <string name="ENTER">"ඔහු ඇතුල් වේ"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"පරිචය"</string>
     <string name="ArenaDescription">"ඔබ පමණක් එක් ජීවිතයක් ලබා ගන්න. මෙම තරගයේ ජයග්රාහී තරගකරුට %s ප්ලාස්මා."</string>
@@ -488,7 +488,7 @@
 
     <string name="Validating">"මාෙර"</string>
 
-    <string name="Randomize">"Randomize"</string>
+    <string name="Randomize">"අහඹු"</string>
 
     <string name="Harassment">"හිරිහැර"</string>
 
@@ -521,7 +521,7 @@
     <string name="Collect_10_000_snowflakes_">"හිම පියලි 10,000 එකතු කරන්න."</string>
     <string name="Show_All">"සියල්ල පෙන්වන්න"</string>
 
-    <string name="SET_PERMISSIONS">"SET PERMISSIONS"</string>
+    <string name="SET_PERMISSIONS">"අවසර සකසන්න"</string>
     <string name="Start_Clan_War">"ආරම්භක ඉන්පසුව ගෝත්රයේ මූලිකයන් යුද්ධය"</string>
     <string name="Min_Level">"අවම මට්ටමේ"</string>
     <string name="SAVE">"ෙසේව්"</string>
@@ -666,7 +666,7 @@
     <string name="Collect_1_000_nebulas_">"nebulas 1000 එකතු කරන්න."</string>
     <string name="Collect_5_000_nebulas_">"nebulas 5000 එකතු කරන්න."</string>
     <string name="Collect_10_000_nebulas_">"nebulas 10,000 එකතු කරන්න."</string>
-    <string name="nebulas_">"nebulas."</string>
+    <string name="nebulas_">"නිහාරිකාව."</string>
     <string name="Incompatible_versions_">"පරස්පර විරෝධී අනුවාදයන්."</string>
     <string name="Update_Available_">"යාවත්කාල කිරීම් පවතී!"</string>
     <string name="VIEW_INVITES">"වීව් ආරාධනා"</string>
@@ -842,7 +842,7 @@
     <string name="Speed_Painter">"ස්පීඩ් Painter"</string>
     <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"0 ලකුණු සහිත සියළු විරුද්ධවාදීන් සමඟ පේන්ට් ජය."</string>
     <string name="Win_a_Paint_game_in_60_seconds_or_less_">"තත්පර 60 ක් හෝ ඊට අඩු කාලයක් තුළ වූ පේන්ට් ජය."</string>
-    <string name="Autoclick">"Autoclick"</string>
+    <string name="Autoclick">"විනෝදාස්වාදය"</string>
     <string name="Autoclick_24_Hours">"පැය 24 Autoclick"</string>
     <string name="Autoclick_1_Hour">"Autoclick 1 හෝරාව"</string>
     <string name="Ultraclick_24_Hours">"Ultraclick පැය 24"</string>
@@ -902,21 +902,21 @@
     <string name="ENEMIES">සතුරන්</string>
     <string name="NEW_ALLIANCE">නව සන්ධානය</string>
     <string name="NEW_ENEMY">නව සතුරා</string>
-    <string name="CLAN_RELATIONS">CLAN RELATIONS</string>
-    <string name="Clan_XP_Boost">CLAN XP BOOST</string>
+    <string name="CLAN_RELATIONS">වංශ සබඳතා</string>
+    <string name="Clan_XP_Boost">වංශ අත්දැකීම් වැඩි දියුණු කරන්න</string>
     <string name="x3_Clan_XP_7_days">3x Clan XP 7 Days</string>
     <string name="x3_Clan_XP_1_Day">3x Clan XP 1 Day</string>
     <string name="x2_Clan_XP_1_Day">2x Clan XP 1 Day</string>
-    <string name="Pets">Pets</string>
-    <string name="Pet">Pet</string>
+    <string name="Pets">සුරතල් සතුන්</string>
+    <string name="Pet">සුරතල්</string>
     <string name="You_can_purchase_this_pet_for">You can purchase this pet for</string>
     <string name="gift_to_friend">Gift To Friend</string>
     <string name="gift_purchase_warning">You will not receive this purchase because you have chosen to gift this purchase to a friend.</string>
     <string name="x2_Clan_XP_7_Days">2x Clan XP 7 Days</string>
-    <string name="RECEIVED">RECEIVED</string>
-    <string name="SENT">SENT</string>
-    <string name="Enable_Invites">Enable Invites</string>
-    <string name="Game_Invitation">Game Invitation</string>
+    <string name="RECEIVED">ලැබෙනවා</string>
+    <string name="SENT">යවන්නා</string>
+    <string name="Enable_Invites">ආරාධනා සබල කරන්න</string>
+    <string name="Game_Invitation">ක්රීඩාව සඳහා ආරාධනා</string>
     <string name="__has_invited_you_to_join_their_game_">%s has invited you to join their game!</string>
     <string name="Invitation_declined_">Invitation declined!</string>
     <string name="Invitation_accepted_">Invitation accepted!</string>
@@ -952,32 +952,32 @@
     <string name="CHRISTMAS_ADVENT_SKINS">CHRISTMAS ADVENT</string>
     <string name="You_cannot_open_this_present_yet_">You cannot open this present yet!</string>
     <string name="Open_Present">Open Present</string>
-    <string name="OPEN">OPEN</string>
+    <string name="OPEN">එය විවෘත වේ</string>
     <string name="Halo">Halo</string>
     <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"To use this halo you must be at least level %1$s and earn %2$s achievements."</string>
-    <string name="Halos">Halos</string>
-    <string name="CAMPAIGN">CAMPAIGN</string>
-    <string name="Mission">Mission</string>
+    <string name="Halos">හැලෝස්</string>
+    <string name="CAMPAIGN">උද්ඝෝෂණය</string>
+    <string name="Mission">කාර්යයක්</string>
     <string name="Kill_All_Bots">Kill All Bots</string>
-    <string name="Survive">Survive</string>
+    <string name="Survive">ඔහු බේරෙනවා</string>
     <string name="Mission_d_Complete">Mission %d Complete!</string>
     <string name="Mission_d_Failed">Mission %d Failed!</string>
-    <string name="Next_Mission">Next Mission</string>
-    <string name="Objective">Objective</string>
+    <string name="Next_Mission">ඊළඟ කාර්යය</string>
+    <string name="Objective">වෛෂයික</string>
     <string name="GAME">ක්රීඩාව</string>
     <string name="Saved_">සුරකින ලදී!</string>
-    <string name="Name_Opacity_">Name Opacity:</string>
-    <string name="SET_PROFILE_PIC">SET PROFILE PIC</string>
-    <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">ACCEPT ALL FRIEND INVITATIONS!</string>
+    <string name="Name_Opacity_">නම අඳුරු කරන්න:</string>
+    <string name="SET_PROFILE_PIC">පැතිකඩ පින්තූරය සකසන්න</string>
+    <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">සියලුම මිතුරු ආරාධනා පිළිගන්න</string>
     <string name="App_Perf_Stats">App Performance Stats</string>
-    <string name="COPY">COPY</string>
-    <string name="_1v1_Ultra">1v1 Ultra</string>
+    <string name="COPY">පිටපත් කරන්න</string>
+    <string name="_1v1_Ultra">1v1 අල්ට්රා</string>
     <string name="ArenaDescriptionUltra">The winner will receive %s plasma.</string>
     <string name="BANNED">BANNED</string>
     <string name="CLAN_MEMBERS">CLAN MEMBERS</string>
     <string name="CLAN_REQUESTS">CLAN REQUESTS</string>
-    <string name="Pet_1">Pet 1</string>
-    <string name="Pet_2">Pet 2</string>
+    <string name="Pet_1">සුරතල් 1</string>
+    <string name="Pet_2">සුරතල් 2</string>
     <string name="Second_Pet">Allows you to have two pets at the same time!</string>
     <string name="This_item_requires">This item requires</string>
     <string name="not_enough_plasma">Not enough plasma.</string>
@@ -985,18 +985,18 @@
     <string name="ROYALE_DUO">ROYALE DUO</string>
     <string name="Choose_Partner">Choose Partner</string>
     <string name="REMOVE_FRIEND">REMOVE FRIEND</string>
-    <string name="Creator">Creator</string>
-    <string name="PROFILE_COLOR">PROFILE COLOR</string>
-    <string name="Enable_Colors">Enable Colors</string>
-    <string name="Particles">Particles</string>
-    <string name="Clan_Particle_Uploads">Clan Particle Uploads</string>
-    <string name="Particle_Uploads">Particle Uploads</string>
-    <string name="Blob_Outline">Blob Outline</string>
-    <string name="Game_Border">Game Border</string>
-    <string name="Select_some_text_first">Select some text first</string>
-    <string name="Save_the_profile_first">Save the profile first</string>
-    <string name="Birthday">Birthday</string>
-    <string name="Mass_Boost">Mass Boost</string>
+    <string name="Creator">නිර්මාතෘ</string>
+    <string name="PROFILE_COLOR">වර්ණ පැතිකඩ</string>
+    <string name="Enable_Colors">වර්ණ සක්රිය කරන්න</string>
+    <string name="Particles">අංශු</string>
+    <string name="Clan_Particle_Uploads">Clan අණු බාගැනීම්</string>
+    <string name="Particle_Uploads">අංශු පැටවීම්</string>
+    <string name="Blob_Outline">බ්ලොක් රූප සටහන</string>
+    <string name="Game_Border">ක්රීඩාවේ සීමාවන්</string>
+    <string name="Select_some_text_first">මුලින්ම පෙළ කිහිපයක් තෝරන්න</string>
+    <string name="Save_the_profile_first">මුලින්ම profile එක save කරන්න</string>
+    <string name="Birthday">උපන් දිනය</string>
+    <string name="Mass_Boost">ස්කන්ධය වැඩි දියුණු කිරීම</string>
 
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Mass Boost does not work in arenas, tournaments, or clan wars!</string>
 
