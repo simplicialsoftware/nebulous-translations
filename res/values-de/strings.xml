@@ -1325,10 +1325,10 @@ Commands:
     <string name="activate">Activate</string>
     <string name="clan_id">CLAN ID</string>
     <string name="language_change_warning">Die App muss neu gestartet werden, um die Sprache zu ändern.</string>
-    <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
+    <string name="xmas_gift_boost_message">Du hast ein Geschenk von 3mal Plasma-Boosts für 1 Tag erhalten!</string>
+    <string name="no_response">Kein Antwort vom Server. Bitte überprüfen Sie die Internetverbindung.</string>
     <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="SUDDEN_ATTACK">PLÖTZLICHER ANGRIFF</string>
 
     <string name="sign_in_explanation" translatable="true">
 "Spieler melden Sie sich an, um auf den Mehrspielermodus zuzugreifen. Sie werden folgendes tun können:
@@ -1341,9 +1341,9 @@ Commands:
 
 Wenn Sie sich nicht anmelden möchten, können Sie trotzdem im Einzelspielermodus spielen."
     </string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
-    <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
+    <string name="_2x_skin_resolution">2mal Auflösung der Haut</string>
+    <string name="pm">PN</string>
+    <string name="You_are_already_friends_">Ihr seid bereits Freunde.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">‏Konto muss 1 Tag alt sein, um E-Mails senden zu können</string>
     <string name="Translator">Übersetzer</string>
     <string name="SUCCESS">ERFOLG</string>
