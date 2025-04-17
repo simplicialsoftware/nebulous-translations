@@ -1218,7 +1218,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Invalid_Clan_ID_">ID do Clã Inválido.</string>
     <string name="MUTED">SILENCIADO</string>
     <string name="SKIN">SKIN</string>
-    <string name="Choose_Skin_Size">Escolha o tamanho da Skin</string>
+    <string name="Choose_Skin_Size">Escolha o Tamanho da Skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Os outros jogadores não poderão te ouvir!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Conceder a permissão para ativar a gravação de voz.</string>
     <string name="voice_chat_prompt">A classificação do conteúdo do aplicativo pode mudar com o chat por voz ativado. Para um áudio melhor, use um fone de ouvido.</string>
