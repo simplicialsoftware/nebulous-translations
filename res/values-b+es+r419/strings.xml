@@ -2,17 +2,17 @@
     <string name="Players">"Jugadores"</string>
     <string name="Control_">"Control:"</string>
     <string name="CLOSE">"CERRAR"</string>
-    <string name="Stick_Size_">"Tamaño pad:"</string>
-    <string name="Stick_Margin_">"Ubicación pad:"</string>
-    <string name="Button_Size_">"Tamaño botones:"</string>
-    <string name="Button_Margin_">"Margen botones:"</string>
+    <string name="Stick_Size_">"Tamaño Pad:"</string>
+    <string name="Stick_Margin_">"Ubicación Pad:"</string>
+    <string name="Button_Size_">"Tamaño Botones:"</string>
+    <string name="Button_Margin_">"Margen Botones:"</string>
     <string name="Buttons_">"Botones:"</string>
     <string name="DEFAULTS">"POR DEFECTO"</string>
     <string name="WEEKLY">"SEMANAL"</string>
     <string name="DAILY">"DIARIO"</string>
     <string name="Server_">"Servidor:"</string>
-    <string name="Game_Mode_">"Modo de juego:"</string>
-    <string name="Show_Names">"Mostrar nombres"</string>
+    <string name="Game_Mode_">"Modo de Juego:"</string>
+    <string name="Show_Names">"Mostrar Nombres"</string>
     <string name="Show_Avatars">"Mostrar skins"</string>
     <string name="PLAY">"JUGAR"</string>
     <string name="OPTIONS">"OPCIONES"</string>
@@ -130,7 +130,7 @@
     <string name="CONTINUE">"CONTINUAR"</string>
     <string name="Global_" formatted="false">"Global"</string>
     <string name="FRIEND_CHAT">"CHAT DE AMIGO"</string>
-    <string name="LOBBY_NAME">"NOMBRE DE LA SALA"</string>
+    <string name="LOBBY_NAME">"NOMBRE DE SALA"</string>
     <string name="NULL">"NULO"</string>
 
 
@@ -253,7 +253,7 @@
     <string name="My_Status_">"Mi estado:"</string>
     <string name="Game_Size_">"Tamaño del mapa:"</string>
 
-    <string name="Server_Restart_">"Reiniciando servidor:"</string>
+    <string name="Server_Restart_">"Reiniciando Servidor:"</string>
     <string name="GOAL_">"¡GOL!"</string>
     <string name="SOCCER">"FÚTBOL"</string>
     <string name="DRAW">"EMPATE"</string>
@@ -361,7 +361,7 @@
 
     <string name="Score">"Puntuación"</string>
     <string name="Rating">"Clasificación"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"¡Estás a punto de dejar el liderazgo!"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"¡Estás a punto de hacer un nuevo líder!"</string>
     <string name="XP">"EXPERIENCIA"</string>
     <string name="High_Score">"Mejores puntuaciones"</string>
 
@@ -442,7 +442,7 @@
 
 
     <string name="until">"hasta"</string>
-    <string name="New_Message_">"¡Nuevo mensaje!"</string>
+    <string name="New_Message_">"¡Nuevo Mensaje!"</string>
     <string name="Seasonal">"Estacional"</string>
 
 
@@ -567,13 +567,13 @@
     <string name="Flag_lobby_as_inappropriate">"Marcar sala como inadecuada"</string>
     <string name="Promote_Clan_Member">"Ascender miembro"</string>
     <string name="Leave_Clan">"Dejar el clan"</string>
-    <string name="Candy_Hoarder">"Acaparador de caramelos"</string>
-    <string name="Candy_Collector">"Coleccionista de caramelos"</string>
-    <string name="Candy_Mogul">"Magnate de caramelos"</string>
-    <string name="Collect_1_000_candies_">"Recoge 1,000 caramelos."</string>
-    <string name="Collect_5_000_candies_">"Recoge 5,000 caramelos."</string>
-    <string name="Collect_10_000_candies_">"Recoge 10,000 caramelos."</string>
-    <string name="candies_">"caramelos "</string>
+    <string name="Candy_Hoarder">"Acaparador de dulces"</string>
+    <string name="Candy_Collector">"Coleccionista de dulces"</string>
+    <string name="Candy_Mogul">"Magnate de dulces"</string>
+    <string name="Collect_1_000_candies_">"Recoge 1,000 dulces."</string>
+    <string name="Collect_5_000_candies_">"Recoge 5,000 dulces."</string>
+    <string name="Collect_10_000_candies_">"Recoge 10,000 dulces."</string>
+    <string name="candies_">"dulces "</string>
     <string name="Language">"Idioma"</string>
     <string name="Control_Opacity_">"Control de opacidad:"</string>
     <string name="You_dont_own_the_team_">"No eres el dueño del equipo:"</string>
@@ -1194,7 +1194,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="shrink" translatable="true" tools:ignore="Untranslatable">encongimiento</string>
     <string name="collect_all" translatable="true" tools:ignore="Untranslatable">recoger todo</string>
     <string name="magic_blob" translatable="true" tools:ignore="Untranslatable">blob mágico</string>
-    <string name="ice_split" translatable="true" tools:ignore="Untranslatable">ice split</string>
+    <string name="ice_split" translatable="true" tools:ignore="Untranslatable">hielo partido</string>
     <string name="circle" translatable="true" tools:ignore="Untranslatable">círculo</string>
     <string name="mega_pop" translatable="true" tools:ignore="Untranslatable">mega pop</string>
     <string name="no_virus" translatable="true" tools:ignore="Untranslatable">sandbox (no virus)</string>
