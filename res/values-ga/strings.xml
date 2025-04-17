@@ -15,7 +15,7 @@
     <string name="Game_Mode_">"Mód Cluiche:"</string>
     <string name="Show_Names">"Taispeáin Ainmneacha"</string>
     <string name="Show_Avatars">"Taispeáin Skin:"</string>
-    <string name="PLAY">"PLAY"</string>
+    <string name="PLAY">"IMIRCE"</string>
     <string name="OPTIONS">"ROGHANNA"</string>
 
     <string name="Avatar_">"Skin:"</string>
@@ -26,7 +26,7 @@
 
     <string name="Are_You_Sure_">"An bhfuil tú cinnte?"</string>
     <string name="Yes">"Tá"</string>
-    <string name="No">"No:"</string>
+    <string name="No">"Níl"</string>
     <string name="WAIT">"FAN …"</string>
     <string name="Must_Specify_Name_">"Ní mór ainm a shonrú."</string>
 
@@ -46,7 +46,7 @@
     <string name="PLAYING">"PLAYING"</string>
     <string name="MULTIPLAYER">"MULTIPLAYER"</string>
 
-    <string name="JOIN">"JOIN"</string>
+    <string name="JOIN">"ISTEACH"</string>
 
 
     <string name="Lobby_Name">"Ainm an Lobaidh"</string>
@@ -55,7 +55,7 @@
     <string name="Hidden">"Hidden"</string>
 
 
-    <string name="SERVER">"SERVER"</string>
+    <string name="SERVER">"FREASTAL"</string>
     <string name="Joining_game_in_">"Bí ar an gcluiche … "</string>
     <string name="Game_Full">"Cluiche Iomlán"</string>
     <string name="US_East">"US Thoir"</string>
@@ -77,9 +77,9 @@
     <string name="Chat_Name">"Ainm Chat"</string>
     <string name="Max_People">"Max daoine"</string>
     <string name="START">"TÚCHÁIN"</string>
-    <string name="CREATE">"CREATE"</string>
+    <string name="CREATE">"CRUTHAIGH"</string>
     <string name="CUSTOM_GAMES">"GAMES CUSTOM"</string>
-    <string name="CHAT">"CHAT"</string>
+    <string name="CHAT">"COMHRÁ"</string>
     <string name="CUSTOM_SETUP">"SETUP CUSTOM"</string>
     <string name="CHAT_SETUP">"SETUP CHAT"</string>
 
@@ -105,7 +105,7 @@
     <string name="Single_Player_Stats">"Stats Aonair Imreoir"</string>
 
     <string name="Level">"Leibhéal"</string>
-    <string name="PAUSED">"PAUSED"</string>
+    <string name="PAUSED">"AR SOS"</string>
 
 
     <string name="FRIENDS">"CAIRDE"</string>
@@ -124,7 +124,7 @@
     <string name="Unknown">"Anaithnid"</string>
     <string name="Offline">"Líne"</string>
     <string name="Achievement_Earned">"Gnóthachan a Thuilltear"</string>
-    <string name="REFRESH">"REFRESH"</string>
+    <string name="REFRESH">"NUACHT"</string>
     <string name="DONE">"FÉIDIR"</string>
     <string name="Friend_Request_Sent">"Iarratas ar Chara Seolta …"</string>
     <string name="ERROR">"ERROR"</string>
@@ -166,7 +166,7 @@
     <string name="Blobicide">"Blobicíde"</string>
     <string name="Blobtrocity">"Blobtrocity"</string>
     <string name="Blobaccre">"Blobaccre"</string>
-    <string name="Blobastrophe">"Blobastrophe"</string>
+    <string name="Blobastrophe">"Blobastróf"</string>
     <string name="Blobihilation">"Blobihilation"</string>
     <string name="Blobageddon">"Blobageddon"</string>
     <string name="Blobocalypse">"Blobocalypse"</string>
@@ -257,7 +257,7 @@
     <string name="Server_Restart_">"Athshlánú Freastalaí:"</string>
     <string name="GOAL_">"SPRIOC!"</string>
     <string name="SOCCER">"SAOIRE"</string>
-    <string name="DRAW">"DRAW"</string>
+    <string name="DRAW">"TARRAING"</string>
 
     <string name="Clan_Name">"Ainm Clan"</string>
     <string name="Clan">"Clan"</string>
@@ -337,7 +337,7 @@
     <string name="_in_a_Teams_Game">" i bhfoirne cluiche"</string>
     <string name="_dots">" poncanna"</string>
     <string name="_player_blobs">" blobaí imreoir"</string>
-    <string name="Absorb_">"Absorb "</string>
+    <string name="Absorb_">"Ionsú "</string>
     <string name="Collect_">"Bailigh "</string>
 
     <string name="FFA_CLASSIC">"CLÁR NA FÁTA"</string>
@@ -401,7 +401,7 @@
     <string name="Hours">"Uaireanta"</string>
 
 
-    <string name="Triple">"Triple"</string>
+    <string name="Triple">"Triarach"</string>
     <string name="Leaf_Hoarder">"Taifeadta Leaf"</string>
     <string name="Collect_5000_leaves_">"Bailigh 5,000 duilleog."</string>
 
@@ -469,7 +469,7 @@
     <string name="Plasma_Collected_">"Plasma Bailithe:"</string>
     <string name="Plasma_Purchases">"Ceannacháin Plasma"</string>
 
-    <string name="ENTER">"ENTER"</string>
+    <string name="ENTER">"ISTEACH"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Cleachtadh"</string>
     <string name="ArenaDescription">"Ní gheobhaidh tú ach saol amháin. Gheobhaidh an buaiteoir %s plasma."</string>
@@ -541,7 +541,7 @@
     <string name="Team_Size">"Méid an Teampaill"</string>
     <string name="Team_Name">"Ainm foirne"</string>
     <string name="CREATE_TEAM">"FOIREANN CREATE"</string>
-    <string name="Solo">"Solo"</string>
+    <string name="Solo">"Aonair"</string>
     <string name="Teams">"Foirne"</string>
     <string name="Team">"Foireann"</string>
     <string name="Specify_Account_ID">"Sonraigh an ID Cuntas"</string>
@@ -1261,7 +1261,7 @@
     <string name="Estimated_Earnings_">"Estimated Earnings: "</string>
     <string name="South_Africa">South Africa</string>
     <string name="SPLIT_">SPLIT:</string>
-    <string name="WALLS">WALLS</string>
+    <string name="WALLS">BAILLÍ</string>
     <string name="COMP_BANNED">COMP BANNED</string>
     <string name="FIND_GAMES">FIND GAMES</string>
     <string name="PLAY_SOLO">PLAY SOLO</string>

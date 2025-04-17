@@ -740,7 +740,7 @@
     <string name="upload_size_failure">"ไม่สามารถอัปโหลดภาพนี้ได้เพราะมีขนาดใหญ่เกินไป โปรดลองภาพอื่นที่แตกต่างกัน"</string>
     <string name="CONTRIBUTE_PLASMA">"บริจาคพลาสมา"</string>
     <string name="Specify_Contribution_Amount">"ระบุจำนวนพลาสมา"</string>
-    <string name="Clan_Contribution">"บริจาคให้แคลน"</string>
+    <string name="Clan_Contribution">"บริจาคพลาสม่าให้แคลน"</string>
     <string name="FILTER">"ตัวกรอง"</string>
     <string name="List_Count_">"จำนวนรายการ:"</string>
     <string name="Download_Skins">"ดาวน์โหลดสกิน"</string>

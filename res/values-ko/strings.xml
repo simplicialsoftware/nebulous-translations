@@ -41,7 +41,7 @@
     <string name="IDLE">"자리비움"</string>
     <string name="Name_Invalid_">"잘못된 이름입니다."</string>
     <string name="Name_Taken_">"이름이 사용중입니다."</string>
-    <string name="CONNECTED">"연결 됨"</string>
+    <string name="CONNECTED">"연결됨"</string>
     <string name="JOINING___">"참가 중…"</string>
     <string name="PLAYING">"플레이 중"</string>
     <string name="MULTIPLAYER">"멀티 플레이어"</string>
@@ -1121,7 +1121,7 @@ Nebulous 규칙\n
     <string name="GROUP">그룹</string>
     <string name="LEAVE">떠나기</string>
     <string name="Group">그룹</string>
-    <string name="Not_in_a_group_">참여하고있는 그룹이 없습니다.</string>
+    <string name="Not_in_a_group_">참여하고 있는 그룹이 없습니다.</string>
     <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">이 그룹 ID를 당신의 친구에게 공유해서 그룹에 참여하도록 하세요: </string>
     <string name="Specify_Group_ID" translatable="true" tools:ignore="Untranslatable">그룹 ID 지정</string>
     <string name="Failed">실패한</string>
@@ -1148,7 +1148,7 @@ Nebulous 규칙\n
     <string name="Textures_will_be_regenerated_">검은색 텍스처와 사용자 정의 스킨이 다시 생성됩니다.</string>
 
     <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">당신은 이 스킨을 한 번만 체험해볼 수 있습니다. 게임에서 죽거나 변경한 뒤에는 사용할 수 없습니다. 스킨을 체험중일 때에는 다른사람에게 보이지 않습니다.\n가격: %s 플라즈마.</string>
-    <string name="You_need_to_buy_a_pack_to_use_this_">이 것을 사용하려면 꾸러미를 구매해야 합니다.</string>
+    <string name="You_need_to_buy_a_pack_to_use_this_">이것을 사용하려면 꾸러미를 구매해야 합니다.</string>
     <string name="GET_PACK">꾸러미 구매</string>
     <string name="Position_in_queue">대기 번호</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">프로필 화면 배경 색깔</string>
@@ -1202,7 +1202,7 @@ Nebulous 규칙\n
     <string name="Video_failed_to_load_">영상을 불러오지 못했습니다.</string>
     <string name="Video_Ready_">영상 준비 됨!</string>
     <string name="GIVE_PLASMA">플라즈마 보내기</string>
-    <string name="Specify_amount_">수량 지정:</string>
+    <string name="Specify_amount_">수량 입력:</string>
     <string name="Specify_amount_again_to_confirm_">다시 한번 수량을 입력하여 확정하기:</string>
     <string name="Amounts_did_not_match_">수량이 일치하지 않습니다!</string>
     <string name="RECEIVE_PLASMA">플라즈마 받기</string>
@@ -1354,7 +1354,7 @@ Nebulous 규칙\n
     <string name="CAMPAIGN_2">캠페인 2</string>
     <string name="XP_5x">경험치 5배</string>
     <string name="India">인디아</string>
-    <string name="Tutorial">자습서</string>
+    <string name="Tutorial">튜토리얼</string>
     <string name="TYCOON">대군</string>
     <string name="CLAN_BACKGROUND_COLOR">클랜 배경색</string>
     <string name="activate">활성화</string>
