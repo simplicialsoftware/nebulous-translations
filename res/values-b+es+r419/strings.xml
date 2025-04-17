@@ -374,15 +374,15 @@
     <string name="Player_XP">"EXP de jugador"</string>
 
     <string name="W_D_L">"G-E-P"</string>
-    <string name="MATCH_START">"COMIENZA PARTIDA"</string>
+    <string name="MATCH_START">"COMIENZA LA PARTIDA EN"</string>
     <string name="Clan_Warrior">"Guerrero del Clan"</string>
     <string name="Win_a_Clan_War">"Gana una guerra de clanes"</string>
     <string name="Global">"Global"</string>
     <string name="Spectating">"Observando"</string>
 
 
-    <string name="snowflakes_">"copos de nieve "</string>
-    <string name="presents_">"regalos "</string>
+    <string name="snowflakes_">"copos de nieve."</string>
+    <string name="presents_">"regalos."</string>
     <string name="Snowflake_Collector">"Coleccionista de Copos de nieve"</string>
     <string name="Present_Collector">"Coleccionista de Regalos"</string>
 
