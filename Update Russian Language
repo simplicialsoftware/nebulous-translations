@@ -1007,7 +1007,7 @@
     <string name="MARK_UNREAD">Отметить как непрочитанное</string>
     <string name="ROYALE_DUO">Королевское дуо</string>
     <string name="Choose_Partner">Выбрать партнёра</string>
-    <string name="REMOVE_FRIEND">Убрать из друзей</string>
+    <string name="REMOVE_FRIEND">Удалить из друзей</string>
     <string name="Creator">Создатель</string>
     <string name="PROFILE_COLOR">Цвет профиля</string>
     <string name="Enable_Colors">Включить цвета</string>
@@ -1072,8 +1072,8 @@
     <string name="Leave_blank_for_all_uploaders_">Оставьте место для других загрузчиков.</string>
     <string name="More___">Больше…</string>
     <string name="This_cannot_be_used_in_FFA_Classic_">Вы не можете это использовать в классическом FFA.</string>
-    <string name="ENEMY">Враг</string>
-    <string name="ALLY">Союзник</string>
+    <string name="ENEMY">ВРАГ</string>
+    <string name="ALLY">СОЮЗНИК</string>
     <string name="Rename">Переименовать</string>
     <string name="Set_friendly_name_">Поставьте доброе имя.</string>
     <string name="Leave_blank_for_none_">Оставьте пустоту для "Ничего".</string>
@@ -1344,7 +1344,7 @@
 Если вы не хотите входить в систему, вы все равно можете играть в одиночную игру."
     </string>
     <string name="_2x_skin_resolution">2x Скин Разрешение</string>
-    <string name="pm">PM</string>
+    <string name="pm">ЛС</string>
     <string name="You_are_already_friends_">Вы уже друзья.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Для отправки почты аккаунт должен быть старше 1 дня.</string>
     <string name="Translator">Переводчик</string>
