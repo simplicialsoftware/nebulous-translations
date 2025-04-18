@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"Hráči"</string>
     <string name="Control_">"Ovládání:"</string>
     <string name="CLOSE">"ZAVŘÍT"</string>

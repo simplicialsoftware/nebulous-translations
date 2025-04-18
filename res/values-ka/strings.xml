@@ -1291,7 +1291,7 @@ Commands:
     <string name="x5_XP_1_Hour">5X XP 1 საათი</string>
     <string name="x5_XP_24_hours">5X XP 24 საათი</string>
     <string name="x5_XP_Permanent">5X XP მუდმივი</string>
-    <string name="CAMPAIGN_2">კამპანია 2"/string>
+    <string name="CAMPAIGN_2">"კამპანია 2"</string>
     <string name="XP_5x">XP 5x</string>
     <string name="India">ინდოეთი</string>
     <string name="Tutorial">სამეურვეო</string>
