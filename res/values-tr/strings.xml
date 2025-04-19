@@ -22,28 +22,28 @@
     <string name="Name_">"İsim:"</string>
 
     <string name="Loading___">"Yükleniyor…"</string>
-    <string name="Connecting___">"Bağlanılıyor…"</string>
+    <string name="Connecting___">"Bağlanıyor…"</string>
 
     <string name="Are_You_Sure_">"Emin Misiniz?"</string>
     <string name="Yes">"Evet"</string>
     <string name="No">"Hayır"</string>
-    <string name="WAIT">"Lütfen Bekleyiniz…"</string>
-    <string name="Must_Specify_Name_">"Bir isim girmelisiniz."</string>
+    <string name="WAIT">"Lütfen Bekleyin…"</string>
+    <string name="Must_Specify_Name_">"İsim girmeniz Gerekiyor."</string>
 
-    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Uygulamanın içerik derecelendirmesi, grupları bulur iken değişebilmektedir."</string>
+    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Uygulamanın içerik derecelendirmesi, grupları bulunurken değişebilir."</string>
 
     <string name="_Rank_">" Sıralama "</string>
-    <string name="_Alias_">" Takma İsim "</string>
+    <string name="_Alias_">" Takma Ad "</string>
     <string name="_Score_">" Puan "</string>
     <string name="Score__">"Puan: "</string>
     <string name="Recombine_">"Birleşme: "</string>
     <string name="WINNER_">"KAZANAN:"</string>
-    <string name="IDLE">"Hareket Etmiyorsunuz:"</string>
+    <string name="IDLE">"BOŞTA:"</string>
     <string name="Name_Invalid_">"Geçersiz İsim."</string>
     <string name="Name_Taken_">"İsim Zaten Alınmış."</string>
     <string name="CONNECTED">"BAĞLANDI"</string>
     <string name="JOINING___">"BAĞLANIYORSUNUZ"</string>
-    <string name="PLAYING">"OYNANIYOR"</string>
+    <string name="PLAYING">"OYNUNDA"</string>
     <string name="MULTIPLAYER">"ÇOK OYUNCULU"</string>
 
     <string name="JOIN">"KATIL"</string>
@@ -56,7 +56,7 @@
 
 
     <string name="SERVER">"SUNUCU"</string>
-    <string name="Joining_game_in_">"Oyuna Katılıyorsunuz "</string>
+    <string name="Joining_game_in_">"Oyuna Katılınıyor "</string>
     <string name="Game_Full">"Oyun Dolu."</string>
     <string name="US_East">"Doğu ABD"</string>
     <string name="US_West">"Batı ABD"</string>
@@ -67,16 +67,16 @@
     <string name="SINGLE_PLAYER">"TEK KİŞİLİK"</string>
     <string name="Background_">"Arka Plan:"</string>
     <string name="Difficulty_">"Zorluk:"</string>
-    <string name="Delay_Disconnect">"Bağlantının Kesilmesini Geciktir"</string>
+    <string name="Delay_Disconnect">"Bağlantı Kesilmesini Geciktir"</string>
 
-    <string name="Max_Players">"Maksimum Oyuncu"</string>
-    <string name="Min_Players">"Minimum Oyuncu"</string>
+    <string name="Max_Players">"Maksimum Oyuncu Sayısı"</string>
+    <string name="Min_Players">"Minimum Oyuncu Sayısı"</string>
 
     <string name="OK">"TAMAM"</string>
-    <string name="CANCEL">"İPTAL ET"</string>
+    <string name="CANCEL">"İPTAL"</string>
     <string name="Chat_Name">"Sohbet Adı"</string>
-    <string name="Max_People">"Maksimum Kişi"</string>
-    <string name="START">"BAŞLA"</string>
+    <string name="Max_People">"Maksimum Kişi Sayısı"</string>
+    <string name="START">"BAŞLAT"</string>
     <string name="CREATE">"OLUŞTUR"</string>
     <string name="CUSTOM_GAMES">"ÖZEL OYUNLAR"</string>
     <string name="CHAT">"SOHBET"</string>
@@ -89,23 +89,23 @@
     <string name="Green_Team">"Yeşil Takım"</string>
     <string name="Blue_Team">"Mavi Takım"</string>
     <string name="Yellow_Team">"Sarı Takım"</string>
-    <string name="Signed_in_as_">"Giriş Yapılmıştır:"</string>
-    <string name="Not_signed_in_">"Giriş Yapılamamıştır!"</string>
+    <string name="Signed_in_as_">"Giriş Yapıldı:"</string>
+    <string name="Not_signed_in_">"Giriş Yapılamadı!"</string>
     <string name="SET_NAME">"İSİM BELİRLEYİN"</string>
-    <string name="SIGN_OUT">"OTURUMU KAPATIN"</string>
-    <string name="ACHIEVEMENTS">"KAZANIMLAR"</string>
+    <string name="SIGN_OUT">"ÇIKIŞ YAP"</string>
+    <string name="ACHIEVEMENTS">"BAŞARILAR"</string>
     <string name="STATISTICS">"İSTATİSTİKLER"</string>
-    <string name="XP_">"XP/DP:"</string>
+    <string name="XP_">XP/DP</string>
 
-    <string name="Information">"Bilgi Alın"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Bu avatarı kullanabilmeniz için ilgili kazanımı elde etmeniz gerekmektedir."</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Bu avatarı kullanabilmeniz için erişmeniz gereken seviye"</string>
-    <string name="SIGN_IN">"GİRİŞ YAPIN"</string>
+    <string name="Information">"Bilgi"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Bu avatarı kullanmak için ilgili başarıyı kazanmalısın."</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Bu avatarı kullanmal için şu seviyeye ulaşmalısın"</string>
+    <string name="SIGN_IN">"GİRİŞ YAP"</string>
 
-    <string name="Single_Player_Stats">"Tek Kişilik Oyun İstatistikleri"</string>
+    <string name="Single_Player_Stats">"Tek Oyunculu İstatistikler"</string>
 
     <string name="Level">"Seviye"</string>
-    <string name="PAUSED">"OYUN DURAKLATILDI"</string>
+    <string name="PAUSED">"DURAKLATILDI"</string>
 
 
     <string name="FRIENDS">"ARKADAŞLAR"</string>
@@ -113,24 +113,24 @@
     <string name="SIGNING_IN">"GİRİŞ YAPILIYOR…"</string>
     <string name="New_Friend_Request">"Yeni Arkadaşlık İsteği!"</string>
     <string name="REQUEST_FRIEND">"ARKADAŞLIK İSTEĞİ"</string>
-    <string name="Private">"Size Özel"</string>
-    <string name="Public">"Herkese Açık"</string>
+    <string name="Private">"Özel"</string>
+    <string name="Public">"Genel"</string>
     <string name="Bot">"Bot"</string>
-    <string name="You">"Siz"</string>
-    <string name="This_player_is_a_bot">"Bu Oyuncu Bir Bottur."</string>
-    <string name="This_player_is_not_signed_in">"Bu Oyuncu Giriş Yapmamıştır."</string>
+    <string name="You">"Sen"</string>
+    <string name="This_player_is_a_bot">"Bu Oyuncu Bir Bot."</string>
+    <string name="This_player_is_not_signed_in">"Bu Oyuncu Giriş Yapmamış."</string>
 
-    <string name="Online">"Çevrim İçi"</string>
+    <string name="Online">"Çevrimiçi"</string>
     <string name="Unknown">"Bilinmeyen"</string>
-    <string name="Offline">"çevrim dışı"</string>
-    <string name="Achievement_Earned">"Kazanım Elde Edildi"</string>
+    <string name="Offline">"Çevrimdışı"</string>
+    <string name="Achievement_Earned">"Başarı Elde Edildi"</string>
     <string name="REFRESH">"YENİLE"</string>
     <string name="DONE">"TAMAMLANDI"</string>
     <string name="Friend_Request_Sent">"Arkadaşlık İsteği Gönderildi…"</string>
     <string name="ERROR">"HATA"</string>
-    <string name="CONTINUE">"DEVAM EDİN"</string>
+    <string name="CONTINUE">"DEVAM ET"</string>
     <string name="Global_" formatted="false">"Küresel %"</string>
-    <string name="FRIEND_CHAT">"ARKADAŞINIZ İLE SOHBET"</string>
+    <string name="FRIEND_CHAT">"ARKADAŞ SOHBETİ"</string>
     <string name="LOBBY_NAME">"LOBİ ADI"</string>
     <string name="NULL">"GEÇERSİZ"</string>
 
@@ -147,69 +147,69 @@
     <string name="Clan_XP">"Klan XP"</string>
 
 
-    <string name="Dot_Nibbler">"Benek Kemirgeni"</string>
-    <string name="Dot_Muncher">"Benek Kıtırtan"</string>
+    <string name="Dot_Nibbler">"Benek Kemirici"</string>
+    <string name="Dot_Muncher">"Benek Gırlaklayıcı"</string>
     <string name="Dot_Eater">"Benek Yiyici"</string>
-    <string name="Dot_Gulper">"Benek Hamlatan"</string>
-    <string name="Dot_Gobbler">"Benek Süpürücü"</string>
-    <string name="Dot_Devourer">"Benek Emici"</string>
+    <string name="Dot_Gulper">"Benek Götürücü"</string>
+    <string name="Dot_Gobbler">"Benek Yutucu"</string>
+    <string name="Dot_Devourer">"Benek Tüketici"</string>
     <string name="Dot_Gormandizer">"Benek Oburu"</string>
-    <string name="Dot_Sommelier">"Benek Sömürücü"</string>
+    <string name="Dot_Sommelier">"Benek Gurmesi"</string>
 
     <string name="Quadra_Gulp">"Dörtlü Yutucu"</string>
     <string name="Multi_Gulp">"Çoklu Yutucu"</string>
     <string name="Mega_Gulp">"Mega Yutucu"</string>
     <string name="Ultra_Gulp">"Ultra Yutucu"</string>
     <string name="Monster_Gulp">"Canavar Yutucu"</string>
-    <string name="Ludicrous_Gulp">"Ulu Yutucu"</string>
+    <string name="Ludicrous_Gulp">"Deli Yutucu"</string>
 
-    <string name="Blobicide">"Baloncuk Üfleyen"</string>
-    <string name="Blobtrocity">"Baloncuk Yiyen"</string>
+    <string name="Blobicide">"Baloncuk Katili"</string>
+    <string name="Blobtrocity">"Baloncuk Felaketi"</string>
     <string name="Blobaccre">"Baloncuk Yutucu"</string>
-    <string name="Blobastrophe">"Baloncuk  Uzmanı"</string>
-    <string name="Blobihilation">"Baloncuk Çıldırtan"</string>
-    <string name="Blobageddon">" Baloncuk Kışkırtan"</string>
-    <string name="Blobocalypse">"Baloncuk Kanırtan"</string>
+    <string name="Blobastrophe">"Baloncuk  Faciası"</string>
+    <string name="Blobihilation">"Baloncuk Yok Edici"</string>
+    <string name="Blobageddon">" Baloncuk Kıyameti"</string>
+    <string name="Blobocalypse">"Baloncuk Felaketi"</string>
 
     <string name="Experienced_Nebulator">"Deneyimli Nebulatör"</string>
     <string name="Expert_Nebulator">"Uzman Nebulatör"</string>
     <string name="Master_Nebulator">"Usta Nebulatör"</string>
-    <string name="Grand_Master_Nebulator">"Deneyimli Usta Nebulatör"</string>
+    <string name="Grand_Master_Nebulator">"Büyük Usta Nebulatör"</string>
     <string name="Impossible">"İmkânsız"</string>
 
     <string name="Perfection">"Mükemmellik"</string>
-    <string name="Single_Handedly">"Tek-El"</string>
+    <string name="Single_Handedly">"Tek Başına"</string>
     <string name="Dodgey">"Dikkatli"</string>
     <string name="Self_Contained">"Sapasağlam"</string>
-    <string name="Survivalist">"Sağ Kalan"</string>
-    <string name="Ultramassive">"Atarlı"</string>
+    <string name="Survivalist">"Hayatta Kalan"</string>
+    <string name="Ultramassive">"Aşırı Büyüyen"</string>
     <string name="Rapid_Ascension">"Hızlı Yükseliş"</string>
     <string name="Revenge">"İntikam"</string>
     <string name="Doge_Pound">"Doge Avcısı"</string>
 
-    <string name="Absorb_50_dots">"50 Adet Benek Yutun."</string>
-    <string name="Absorb_300_dots">"300 Adet Benek Yutun."</string>
-    <string name="Absorb_1_000_dots">"1.000 Adet Benek Yutun."</string>
-    <string name="Absorb_5_000_dots">"5.000 Adet Benek Yutun."</string>
-    <string name="Absorb_10_000_dots">"10.000 Adet Benek Yutun."</string>
-    <string name="Absorb_50_000_dots">"50.000 Adet Benek Yutun."</string>
-    <string name="Absorb_100_000_dots">"100.000 Adet Benek Yutun."</string>
-    <string name="Absorb_1_000_000_dots">"1.000.000 Adet Benek Yutun."</string>
+    <string name="Absorb_50_dots">"50 Benek Topla."</string>
+    <string name="Absorb_300_dots">"300 Benek Topla"</string>
+    <string name="Absorb_1_000_dots">"1.000 Benek Topla."</string>
+    <string name="Absorb_5_000_dots">"5.000 Benek Topla."</string>
+    <string name="Absorb_10_000_dots">"10.000 Benek Topla."</string>
+    <string name="Absorb_50_000_dots">"50.000 Benek Topla."</string>
+    <string name="Absorb_100_000_dots">"100.000 Benek Topla."</string>
+    <string name="Absorb_1_000_000_dots">"1.000.000 Benek Topla."</string>
 
-    <string name="Absorb_4_blobs_quickly">"Hızlıca 4 Baloncuk Yiyin."</string>
-    <string name="Absorb_8_blobs_quickly">"Hızlıca 8 Baloncuk Yiyin."</string>
-    <string name="Absorb_16_blobs_quickly">"Hızlıca 16 Baloncuk Yiyin."</string>
-    <string name="Absorb_24_blobs_quickly">"Hızlıca 24 Baloncuk Yiyin."</string>
-    <string name="Absorb_32_blobs_quickly">"Hızlıca 32 Baloncuk Yiyin."</string>
-    <string name="Absorb_40_blobs_quickly">"Hızlıca 40 Baloncuk Yiyin."</string>
+    <string name="Absorb_4_blobs_quickly">"Hızlıca 4 Baloncuk Yutun."</string>
+    <string name="Absorb_8_blobs_quickly">"Hızlıca 8 Baloncuk Yutun."</string>
+    <string name="Absorb_16_blobs_quickly">"Hızlıca 16 Baloncuk Yutun."</string>
+    <string name="Absorb_24_blobs_quickly">"Hızlıca 24 Baloncuk Yutun."</string>
+    <string name="Absorb_32_blobs_quickly">"Hızlıca 32 Baloncuk Yutun."</string>
+    <string name="Absorb_40_blobs_quickly">"Hızlıca 40 Baloncuk Yutun."</string>
 
-    <string name="Absorb_8_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan önce 8 Baloncuk Yiyin."</string>
-    <string name="Absorb_16_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan önce 16 Baloncuk Yiyin."</string>
-    <string name="Absorb_32_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan önce 32 Baloncuk Yiyin."</string>
-    <string name="Absorb_48_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan önce 48 Baloncuk Yiyin."</string>
-    <string name="Absorb_80_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan önce 80 Baloncuk Yiyin."</string>
-    <string name="Absorb_160_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan önce 160 Baloncuk Yiyin."</string>
-    <string name="Absorb_240_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan önce 240 Baloncuk Yiyin."</string>
+    <string name="Absorb_8_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan 8 Baloncuk Yutun.</string>
+    <string name="Absorb_16_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan 16 Baloncuk Yutun."</string>
+    <string name="Absorb_32_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan 32 Baloncuk Yutun."</string>
+    <string name="Absorb_48_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan 48 Baloncuk Yutun."</string>
+    <string name="Absorb_80_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan 80 Baloncuk Yutun."</string>
+    <string name="Absorb_160_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan 160 Baloncuk Yutun."</string>
+    <string name="Absorb_240_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan 240 Baloncuk Yutun."</string>
 
     <string name="Reach_a_score_of_1_000">"1.000 Puana Ulaşın."</string>
     <string name="Reach_a_score_of_5_000">"5.000 Puana Ulaşın."</string>
@@ -219,37 +219,37 @@
 
     <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Hiç Baloncuk Kaybetmeden 10.000 Puana Ulaşın."</string>
     <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Bölünmeden veya Yem Atmadan 5.000 Puana Ulaşın."</string>
-    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Baloncukları kara delik'te patlatmadan 5 dakika boyunca oynayın."</string>
+    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Kara deliklere çarpmadan 5 dakika boyunca oynayın."</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"Hiç Baloncuk Kaybetmeden 5 dakika boyunca oynayın."</string>
     <string name="Play_20_minutes_straight_without_restarting">"Oyun Yeniden Başlatılmadan 20 dakika boyunca hayatta kalın."</string>
-    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"İlk 30 Saniye İçerisinde 5 adet süpermasif kara delik yutun."</string>
-    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"İlk 1 Dakika İçerisinde 5.000 puana ulaşın."</string>
-    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Oyun Yeniden Başlatılmadan Önce sizi kara delik ile patlatan son oyuncuyu siz de aynı şekilde patlatın."</string>
-    <string name="Absorb_5_doges_without_restarting">"Oyun Yeniden Başlatılmadan Önce 5 adet Doge (Köpek) avatarına sahip baloncuk yiyin."</string>
+    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"İlk 30 Saniye İçinde 5 süpermasif kara delik yutun."</string>
+    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"İlk 1 Dakika İçinde 5.000 puana ulaşın."</string>
+    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Oyun Yeniden Başlatılmadan Önce sizi kara delik ile patlatan son oyuncuyu aynı şekilde patlatın."</string>
+    <string name="Absorb_5_doges_without_restarting">"Oyun Yeniden Başlatılmadan Önce 5 Doge (Köpek) avatarına sahip baloncuk yutun."</string>
 
     <string name="Friends">"Arkadaşlar"</string>
     <string name="Dots_Eaten_">"Yutulan Benek Sayısı:"</string>
-    <string name="Blobs_Eaten_">"Emilen Baloncuk Sayısı:"</string>
+    <string name="Blobs_Eaten_">"Yutulan Baloncuk Sayısı:"</string>
     <string name="Blobs_Lost_">"Kaybedilen Baloncuk Sayısı:"</string>
-    <string name="Mass_Gained_">"Kazanılan Hacim Miktarı:"</string>
+    <string name="Mass_Gained_">"Kazanılan Kütle Miktarı:"</string>
     <string name="Mass_Ejected_">"Atılan Yem Hacmi:"</string>
     <string name="Times_Ejected_">"Atılan Yem Sayısı:"</string>
-    <string name="Times_Split_">"Toplam Bölünme Sayısı:"</string>
-    <string name="Biggest_Blob_">"En Büyük Baloncuk Hacmi:"</string>
+    <string name="Times_Split_">"Bölünme Sayısı:"</string>
+    <string name="Biggest_Blob_">"En Büyük Baloncuk:"</string>
     <string name="Highest_Score_">"En Yüksek Puan:"</string>
     <string name="Average_Score_">"Puan Ortalaması:"</string>
     <string name="Times_Played_">"Toplam Oynanma Sayısı:"</string>
     <string name="Longest_Life_">"En Uzun Yaşam Süresi:"</string>
     <string name="Games_Won_">"Kazanılan Oyun Sayısı:"</string>
 
-    <string name="You_must_wait_until_the_end_of_the_round_">"Lütfen Turun Sonlanmasını Bekleyiniz."</string>
+    <string name="You_must_wait_until_the_end_of_the_round_">"Turun Sonlanmasını Beklemeniz Gerekiyor."</string>
     <string name="Dont_show_again">"Bunu Tekrar Gösterme."</string>
-    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Daha Yüksek XP'ye sahip bir tekli-oyuncu istatistik yedeği bulunmuştur. Yedeği kurtarmak ister misiniz?"</string>
+    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Daha Yüksek XP'ye sahip bir tek oyuncu istatistik yedeği bulundu. Yedeği kurtarmak ister misiniz?"</string>
 
     <string name="Special_Effects">"Özel Efektler"</string>
     <string name="Blob_Mushiness">"Baloncuk Esnekliği"</string>
 
-    <string name="Specify_private_game_name">"Özel Oyun Adını Yazınız"</string>
+    <string name="Specify_private_game_name">"Özel Oyun Adını Belirleyin"</string>
     <string name="In_Game_Chat">"Oyun içi Sohbet"</string>
     <string name="My_Status_">"Kendi Durumum:"</string>
     <string name="Game_Size_">"Oyun Boyutu:"</string>
@@ -266,18 +266,18 @@
     <string name="JOIN_CLAN">"KLANA KATIL"</string>
     <string name="JOIN_RANDOM_CLAN">"RASTGELE BİR KLANA KATIL"</string>
     <string name="LEAVE_CLAN">"KLANDAN AYRIL"</string>
-    <string name="INVITE_MEMBER">"BİR ÜYEYİ DAVET EDİN"</string>
-    <string name="REMOVE_MEMBER">"BİR ÜYEYİ ÇIKARIN"</string>
+    <string name="INVITE_MEMBER">"ÜYE DAVET ET"</string>
+    <string name="REMOVE_MEMBER">"BİR ÜYE ÇIKAR"</string>
 
 
-    <string name="CREATE_CLAN">"KLAN OLUŞTURUN"</string>
+    <string name="CREATE_CLAN">"KLAN OLUŞTUR"</string>
     <string name="MEMBER">"ÜYE "</string>
     <string name="ADMIN">"YÖNETİCİ "</string>
     <string name="LEADER">"LİDER"</string>
     <string name="ELDER">"KIDEMLİ"</string>
 
 
-    <string name="Not_in_a_clan_">"Herhangi bir Klanda Değilsiniz."</string>
+    <string name="Not_in_a_clan_">"Henüz bir Klanda Değilsiniz."</string>
 
 
     <string name="CLAN">"KLAN"</string>
@@ -286,32 +286,32 @@
     <string name="Specify_Clan_ID">"Klan ID'sini Belirtiniz."</string>
     <string name="Show_Clan_Names">"Klan İsimlerini Göster"</string>
     <string name="Show_Levels">"Seviyeleri Göster"</string>
-    <string name="SET_MOTD">"Klanın Ön Bilgisini Kaydedin"</string>
+    <string name="SET_MOTD">"Klanın Açıklamasını Kaydedin"</string>
     <string name="No_such_user_found_">"Böyle bir kullanıcı bulunamadı."</string>
-    <string name="No_open_public_clans_exist_">"Herkese açık bir klan yok."</string>
-    <string name="You_aren_t_invited_to_that_clan_">"Bu klana davet edilmediniz."</string>
+    <string name="No_open_public_clans_exist_">"Açık Bir Klan Bulunmamaktadır."</string>
+    <string name="You_aren_t_invited_to_that_clan_">"Bu klanın davetiyesi bulunmamaktadır."</string>
     <string name="No_such_clan_exists_">"Böyle bir klan bulunmamaktadır."</string>
     <string name="That_clan_is_full_">"Bu Klan Dolu."</string>
-    <string name="Other_user_is_not_a_member_of_your_clan_">"Diğer kullanıcı senin klanının bir üyesi değil."</string>
-    <string name="_You_can_t_be_your_own_friend_">"Kendin ile arkadaş olamazsın."</string>
-    <string name="A_clan_with_that_name_already_exists_">"Bu isimde zaten bir klan bulunmaktadır."</string>
+    <string name="Other_user_is_not_a_member_of_your_clan_">"Diğer kullanıcı senin klanının üyesi değil."</string>
+    <string name="_You_can_t_be_your_own_friend_">"Kendinle arkadaş olamazsın."</string>
+    <string name="A_clan_with_that_name_already_exists_">"Bu isimde zaten bir klan bulunuyor."</string>
     <string name="Duration_">"Süre:"</string>
 
     <string name="FFA_Time_Domination">"Herkes Tek (Süreli) Hakimiyet"</string>
     <string name="Teams_Time_Domination">"Takımlı (Süreli) Hakimiyet"</string>
     <string name="CTF_Domination">"Bayrak Kapmaca Hakimiyeti"</string>
     <string name="CTF_Hat_Trick">"Bayrak Kapmaca'da Üçleme"</string>
-    <string name="Survival_Domination">"Hayatta Kalma Hakimiyet"</string>
+    <string name="Survival_Domination">"Hayatta Kalma Hakimiyeti"</string>
     <string name="I_Will_Survive">"Hayatta Kalacağım"</string>
     <string name="Soccer_Domination">"Futbol Hakimiyeti"</string>
     <string name="Soccer_Hat_Trick">"Futbol'da Üçleme"</string>
-    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Herkes Tek (Süreli) oyununu 2.500 puan ile kazanın."</string>
-    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Takımlı (Süreli) oyununu 7.500 puan ile kazanın."</string>
-    <string name="Win_by_3_points_in_a_CTF_game_">"Bayrak Kapmaca oyununu 3 puan ile kazanın."</string>
-    <string name="Score_3_points_in_a_single_CTF_game_">"Bayrak Kapmaca oyununda 3 puan elde edin."</string>
-    <string name="Win_by_2_500_points_in_a_Survival_game_">"Hayatta Kalma oyununu 2.500 puan ile kazanın."</string>
+    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Herkes Tek (Süreli) oyununu 2.500 puanla kazanın."</string>
+    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Takımlı (Süreli) oyununu 7.500 puanla kazanın."</string>
+    <string name="Win_by_3_points_in_a_CTF_game_">"Bayrak Kapmaca oyununu 3 puanla kazanın."</string>
+    <string name="Score_3_points_in_a_single_CTF_game_">"Bayrak Kapmaca oyununda 3 puan kazanın."</string>
+    <string name="Win_by_2_500_points_in_a_Survival_game_">"Hayatta Kalma oyununu 2.500 puanla kazanın."</string>
     <string name="Survive_but_do_not_win_a_survival_game_">"Hayatta Kalma oyununu kazanmadan, sonuna kadar hayatta kalın."</string>
-    <string name="Win_by_8_points_in_a_Soccer_game_">"Futbol oyununu 8 puan ile kazanın."</string>
+    <string name="Win_by_8_points_in_a_Soccer_game_">"Futbol oyununu 8 puanla kazanın."</string>
     <string name="Score_3_goals_in_a_single_Soccer_game_">"Tekli Futbol oyununda 3 gol atın."</string>
     <string name="Total_Domination">"Toplam Hakimiyet"</string>
     <string name="Win_500_games_of_any_type_">"Herhangi bir oyun türünden toplam 500 oyun kazanın."</string>
@@ -344,7 +344,7 @@
 
 
     <string name="pumpkins_">"Balkabakları "</string>
-    <string name="To_use_this_skin_you_must_collect">"Bu avatarı kullanmak için toplamanız gereken"</string>
+    <string name="To_use_this_skin_you_must_collect">"Bu avatarı kullanabilmek için toplamanız gereken"</string>
     <string name="Australia">"Avustralya"</string>
     <string name="Pumpkin_Collector">"Balkabağı Toplayıcısı"</string>
     <string name="Collect_1000_pumpkins_">"1.000 adet balkabağı toplayın."</string>
@@ -362,7 +362,7 @@
 
     <string name="Score">"Skor"</string>
     <string name="Rating">"Sıralama"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"Yeni bir klan lideri ayarlamak üzeresiniz!"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"Yeni bir klan lideri belirlemek üzeresiniz!"</string>
     <string name="XP">"XP"</string>
     <string name="High_Score">"Yüksek Skor"</string>
 
@@ -402,7 +402,7 @@
 
 
     <string name="Triple">"Üçlü"</string>
-    <string name="Leaf_Hoarder">"Yaprak Stokçusu"</string>
+    <string name="Leaf_Hoarder">"Yaprak Biriktirici"</string>
     <string name="Collect_5000_leaves_">"5.000 Yaprak toplayın."</string>
 
 
@@ -412,31 +412,31 @@
 
     <string name="Purchase_History">"Satın Alma Geçmişi"</string>
 
-    <string name="Purchases_Unavailable_">"Üzgünüz, Satın Alımlar şu anda mevcut değildir!"</string>
+    <string name="Purchases_Unavailable_">"Üzgünüz, Satın Alımlar şu anda mevcut değil!"</string>
     <string name="You_can_purchase_this_skin_for">"Bu avatarı şu ücret karşılığında satın alabilirsiniz:"</string>
     <string name="PURCHASE">"Satın Al"</string>
-    <string name="Error_in_backup_data_">"Yedekleme verisinde hata meydana gelmiştir!"</string>
+    <string name="Error_in_backup_data_">"Yedekleme verisinde hata oluştu!"</string>
 
 
     <string name="Remove_Ads">"Reklamları Kaldır"</string>
     <string name="Reward">"Ödül"</string>
-    <string name="Please_Wait___">"Lütfen bekleyiniz…"</string>
+    <string name="Please_Wait___">"Lütfen bekleyin…"</string>
     <string name="Purchasing">"Satın alınıyor"</string>
 
-    <string name="Purchase_Successful_">"Satın alma işlemi başarı ile tamamlandı."</string>
-    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Ürünü, kullanabilmeniz için oyuna yeniden bağlanmanız gerekebilmektedir."</string>
-    <string name="Confirm_Purchase">"İşlemi Onaylayın"</string>
+    <string name="Purchase_Successful_">"Satın alma işlemi başarıyla tamamlandı."</string>
+    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Ürünü, kullanabilmeniz için oyuna yeniden bağlanmanız gerekebilir."</string>
+    <string name="Confirm_Purchase">"İşlemi Onayla"</string>
     <string name="x3_XP_24_hours">"24 Saatlik 3x XP"</string>
     <string name="x3_XP_1_Hour">"1 Saatlik 3x XP"</string>
     <string name="x2_XP_24_Hour">"24 Saatlik 2x XP"</string>
     <string name="x2_XP_1_Hour">"1 Saatlik 2x XP"</string>
     <string name="Cost_">"Ücret:"</string>
-    <string name="You_cannot_purchase_this_right_now_">"Üzgünüz, bu ögeyi şu anda satın alamazsınız."</string>
+    <string name="You_cannot_purchase_this_right_now_">"Üzgünüz, bu öğeyi şu anda satın alamazsınız."</string>
 
 
     <string name="Loading_Purchases___">"Satın Alımlar Yükleniyor…"</string>
     <string name="In_App_Purchases">"Oyun İçi Satın Alımlar"</string>
-    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Şuanki sahip olduğunuz XP katlayıcınızın süresi dolmadan yeni bir XP katlayıcısı alamazsınız."</string>
+    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Mevcut sahip olduğunuz XP katlayıcınızın süresi dolmadan yeni bir XP katlayıcısı alamazsınız."</string>
     <string name="This_purchase_has_already_been_redeemed_">"Bu satın alım zaten gerçekleştirildi."</string>
 
     <string name="You_cannot_remove_yourself__Leave_clan_instead_">"Kendinizi klandan çıkaramazsınız, onun yerine klandan ayrılmayı deneyebilirsiniz."</string>
@@ -447,7 +447,7 @@
     <string name="Seasonal">"Mevsimsel"</string>
 
 
-    <string name="Temporarily_Disabled_">"Geçici bir süreliğine devre dışı bırakılmıştır."</string>
+    <string name="Temporarily_Disabled_">"Geçici olarak devre dışı bırakılmıştır."</string>
     <string name="BIGGEST">"EN BÜYÜK"</string>
 
 
@@ -462,17 +462,17 @@
     <string name="Plasma">"Plazma "</string>
     <string name="Plasma_Mogul">"Plazma Kralı"</string>
     <string name="Plasma_Collector">"Plazma Toplayıcısı"</string>
-    <string name="Plasma_Hoarder">"Plazma Stokçusu"</string>
+    <string name="Plasma_Hoarder">"Plazma Birikimcisi"</string>
     <string name="Collect_1_000_Plasma">"1.000 Adet Plazma toplayın."</string>
     <string name="Collect_10_000_Plasma_">"10.000 Adet Plazma toplayın."</string>
     <string name="Collect_100_000_Plasma">"100.000 Adet Plazma toplayın."</string>
-    <string name="Plasma_Collected_">"Toplanan Plazma Sayısı:"</string>
+    <string name="Plasma_Collected_">"Toplanan Plazma Miktarı:"</string>
     <string name="Plasma_Purchases">"Plazma Satın Alımları"</string>
 
     <string name="ENTER">"GİRİŞ"</string>
     <string name="_1v1">"1'e 1"</string>
     <string name="Practice">"Pratik"</string>
-    <string name="ArenaDescription">"Sadece tek bir şansınız mevcuttur. Kazanan %s plazma alacaktır."</string>
+    <string name="ArenaDescription">"Sadece bir şansınız var. Kazanan %s plazma alacaktır."</string>
     <string name="Contestant">"Yarışmacı"</string>
     <string name="Duelist">"Düellocu"</string>
     <string name="Gladiator">"Gladyatör"</string>
@@ -497,62 +497,62 @@
 
 
     <string name="Standard">"Standart"</string>
-    <string name="Achievement">"Kazanım"</string>
+    <string name="Achievement">"Başarı"</string>
     <string name="Flag">"Bayrak"</string>
-    <string name="Win_10_Clan_Wars">"10 Adet Klan Savaşı kazanın."</string>
-    <string name="Win_100_Clan_Wars">"100 Adet Klan Savaşı kazanın."</string>
+    <string name="Win_10_Clan_Wars">"10 Klan Savaşı kazanın."</string>
+    <string name="Win_100_Clan_Wars">"100 Klan Savaşı kazanın."</string>
     <string name="Clan_Commander">"Klan Komutanı"</string>
     <string name="Clan_General">"Klan Generali"</string>
     <string name="Clan_Wars_Won_">"Kazanılan Klan Savaşları:"</string>
     <string name="Arenas_Won_">"Kazanılan Arenalar:"</string>
     <string name="Arena_Mode">"Arena Modu"</string>
-    <string name="Connection_Lost">"Bağlantınız Kesintiye Uğradı"</string>
+    <string name="Connection_Lost">"Bağlantınız Kesildi"</string>
 
-    <string name="Present_Hoarder">"Hediye Stokçusu "</string>
+    <string name="Present_Hoarder">"Hediye Birikimcisi "</string>
     <string name="Present_Mogul">"Hediye Kralı "</string>
     <string name="Collect_1_000_presents_">"1.000 Adet Hediye toplayın."</string>
     <string name="Collect_5_000_presents_">"5.000 Adet Hediye toplayın."</string>
     <string name="Collect_10_000_presents_">"10.000 Adet Hediye toplayın. "</string>
-    <string name="Loading_reward_video___">"Ödül için video şu anda yükleniyor…"</string>
+    <string name="Loading_reward_video___">"Ödül için video yükleniyor…"</string>
     <string name="Progress">"İlerleme"</string>
-    <string name="Snowflake_Hoarder">"Kar Tanesi Stokçusu"</string>
+    <string name="Snowflake_Hoarder">"Kar Tanesi Birikimcisi"</string>
     <string name="Snowflake_Mogul">"Kar Tanesi Kralı"</string>
     <string name="Collect_1_000_snowflakes_">"1.000 Adet Kar Tanesi toplayın."</string>
     <string name="Collect_5_000_snowflakes_">"5.000 Adet Kar Tanesi toplayın."</string>
     <string name="Collect_10_000_snowflakes_">"10.000 Adet Kar Tanesi toplayın."</string>
     <string name="Show_All">"Tümünü Göster"</string>
 
-    <string name="SET_PERMISSIONS">"YETKİLERİ DÜZENLE"</string>
-    <string name="Start_Clan_War">"Klan Savaşı Başlat"</string>
+    <string name="SET_PERMISSIONS">"YETKİLERİ AYARLA"</string>
+    <string name="Start_Clan_War">"Klan Savaşını Başlat"</string>
     <string name="Min_Level">"Minimum Seviye "</string>
     <string name="SAVE">"KAYDET"</string>
-    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Bu oyuncunun şuanki seviyesi klana katılmak için yeterli değildir."</string>
+    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Bu oyuncunun seviyesi klana katılmak için yeterli değil."</string>
     <string name="Insufficient_Permission">"Yetersiz Yetki"</string>
     <string name="DOMINATION">"HAKİMİYET"</string>
     <string name="DOM_Domination">"Hakimiyet Egemenliği"</string>
-    <string name="DOM_Hat_Trick">"Hakimiyet Üçlemesi"</string>
-    <string name="Win_by_50_points_in_a_DOM_game_">"Bir Hakimiyet oyununda 50 puan ile kazanın."</string>
+    <string name="DOM_Hat_Trick">"Hakimiyet Üçlüsü"</string>
+    <string name="Win_by_50_points_in_a_DOM_game_">"Bir Hakimiyet oyununu 50 puan farkla kazanın."</string>
     <string name="Score_33_points_in_a_single_DOM_game_">"Tek bir Hakimiyet oyununda 33 puan kazanın."</string>
     <string name="Win_a_Domination_Game">"Bir Hakimiyet oyunu kazanın."</string>
-    <string name="Select_Team">"Takımınızı Seçiniz"</string>
-    <string name="MANAGE_TEAMS">"TAKIMLARI YÖNETİN"</string>
+    <string name="Select_Team">"Takımınızı Seçin"</string>
+    <string name="MANAGE_TEAMS">"TAKIMLARI YÖNET"</string>
     <string name="CLAN_INVITE">"KLAN DAVETİ"</string>
     <string name="TEAM_INVITE">"TAKIM DAVETİ"</string>
-    <string name="Team_Size">"Takım Sınırı"</string>
+    <string name="Team_Size">"Takım Büyüklüğü"</string>
     <string name="Team_Name">"Takım Adı"</string>
     <string name="CREATE_TEAM">"TAKIM OLUŞTUR"</string>
-    <string name="Solo">"Tek"</string>
+    <string name="Solo">"Tekli"</string>
     <string name="Teams">"Takımlar"</string>
     <string name="Team">"Takım"</string>
     <string name="Specify_Account_ID">"Hesap Kimliğini belirtin"</string>
     <string name="Team_Created_">"Takım  başarıyla oluşturuldu!"</string>
     <string name="Team_Arena">"Takım Arenası"</string>
     <string name="No_Teams">"Takımsız"</string>
-    <string name="team_arena_info">"Bir takım oluşturduğunuz takdirde ücretsiz bir şekilde üye ekleyebilir veya çıkarabilirsiniz. Takım arena maçlarında oynamak da ücretsizdir. Oluşturduğunuz takımın ismini takımınızı oluşturduktan sonra değiştiremezsiniz."</string>
+    <string name="team_arena_info">"Bir takım oluşturduğunuzda ücretsiz olarak üye ekleyebilir veya çıkarabilirsiniz. Takım arena maçlarına katılım da ücretsizdir. Takım ismini oluşturduktan sonra değiştiremezsiniz"</string>
 
 
     <string name="Invited">"Davet Edildi"</string>
-    <string name="Invitation_Sent">"Davetiniz Gönderilmiştir."</string>
+    <string name="Invitation_Sent">"Davet Gönderildi."</string>
     <string name="REPORT">"BİLDİR"</string>
     <string name="Reported">"Bildirildi"</string>
     <string name="Threats">"Tehditler"</string>
@@ -563,59 +563,59 @@
     <string name="Remove_Player">"Oyuncuyu Kaldır"</string>
     <string name="Reject_Invitation">"Daveti Reddet"</string>
     <string name="Leave_Game">"Oyundan Ayrıl"</string>
-    <string name="Remove_Friend">"Arkadaşı Kaldır"</string>
-    <string name="Remove_Clan_Member">"Bir Klan Üyesini Çıkar"</string>
-    <string name="Flag_lobby_as_inappropriate">"Bu lobiyi uygunsuz olarak işaretleyin"</string>
-    <string name="Promote_Clan_Member">"Klan Üyesinin Rütbesini Yükselt"</string>
+    <string name="Remove_Friend">"Arkadaşı Sil"</string>
+    <string name="Remove_Clan_Member">"Klan Üyesini Çıkar"</string>
+    <string name="Flag_lobby_as_inappropriate">"Lobiyi uygunsuz olarak işaretle"</string>
+    <string name="Promote_Clan_Member">"Klan Üyesini Terfi Ettir"</string>
     <string name="Leave_Clan">"Klandan Ayrıl"</string>
-    <string name="Candy_Hoarder">"Şeker Stokçusu"</string>
+    <string name="Candy_Hoarder">"Şeker Biriktirici"</string>
     <string name="Candy_Collector">"Şeker Toplayıcısı"</string>
-    <string name="Candy_Mogul">"Şeker Kralı"</string>
+    <string name="Candy_Mogul">"Şeker Patronu"</string>
     <string name="Collect_1_000_candies_">"1.000 Adet Şeker toplayın."</string>
     <string name="Collect_5_000_candies_">"5.000 Adet Şeker toplayın."</string>
     <string name="Collect_10_000_candies_">"10.000 Adet Şeker toplayın."</string>
     <string name="candies_">"Şekerler."</string>
     <string name="Language">"Dil"</string>
-    <string name="Control_Opacity_">"Opaklığı Düzenle:"</string>
+    <string name="Control_Opacity_">"Opaklığı Ayarla:"</string>
     <string name="You_dont_own_the_team_">"Takımın sahibi siz değilsiniz."</string>
     <string name="User_has_already_been_invited_">"Kullanıcı zaten davet edildi."</string>
-    <string name="Maximum_players_allowed_on_the_team_">"Bu takımda izin verilen maksimum oyuncu sayısı :"</string>
-    <string name="Name_is_already_in_use_">"Bu isim zaten kullanılmaktadır."</string>
-    <string name="User_is_not_in_the_team_">"Kullanıcı takımda mevcut değil."</string>
-    <string name="You_are_not_invited_to_team_">"Takıma davet edilmediniz."</string>
-    <string name="Team_does_not_exist_">"Takım bulunamıyor. (Takım yok):"</string>
+    <string name="Maximum_players_allowed_on_the_team_">"Takımdaki maksimum oyuncu sayısı :"</string>
+    <string name="Name_is_already_in_use_">"Bu isim zaten kullanımda."</string>
+    <string name="User_is_not_in_the_team_">"Kullanıcı takımda değil."</string>
+    <string name="You_are_not_invited_to_team_">"Takıma davetli değilsiniz."</string>
+    <string name="Team_does_not_exist_">"Takım mevcut değil:"</string>
     <string name="Please_wait_a_minute_before_sending_another_report_">"Başka bir rapor  göndermeden önce lütfen bir dakika kadar bekleyiniz."</string>
     <string name="Collect_1_000_beads_">"1.000 Adet Boncuk toplayın."</string>
     <string name="Collect_5_000_beads_">"5.000 Adet Boncuk toplayın."</string>
     <string name="Collect_10_000_beads_">"10.000 Adet Boncuk toplayın."</string>
     <string name="Bead_Collector">"Boncuk Toplayıcısı"</string>
-    <string name="Bead_Hoarder">"Boncuk Stokçusu"</string>
+    <string name="Bead_Hoarder">"Boncuk Biriktirici"</string>
     <string name="Bead_Mogul">"Boncuk Kralı"</string>
     <string name="beads_">"Boncuklar."</string>
 
     <string name="Rejoin_Game">"Oyuna Yeniden Girin"</string>
     <string name="PRIZES">"ÖDÜLLER "</string>
 
-    <string name="Enable_Custom_Skin">"Özel Cildi Etkinleştirin"</string>
-    <string name="Use_Custom_Skin">"Özel Cildi Kullanın"</string>
-    <string name="custom_skin_description">"Bu özellik sizin profil resminizi veya herhangi bir dosyayı cilt olarak kullanabilmenizi sağlar. Ancak bu özellik sadece sizin gördüğünüz cildi değiştirmektedir. Diğer oyuncular sizin özel cildinizi göremeyecektir."</string>
+    <string name="Enable_Custom_Skin">"Özel Cildi Etkinleştir"</string>
+    <string name="Use_Custom_Skin">"Özel Cildi Kullan"</string>
+    <string name="custom_skin_description">"Bu özellik, profil resminizi veya herhangi bir dosyayı cilt olarak kullanmanıza olanak tanır. Ancak, bu sadece sizin görebileceğiniz cildi değiştirir. Diğer oyuncular özel cildinizi göremez."</string>
     <string name="CUSTOM_SKIN">"ÖZEL CİLT"</string>
 
     <string name="Facebook_Profile">"Facebook Profili"</string>
-    <string name="You_must_be_signed_in_to_Facebook_">"Facebook'ta oturum açmış olmanız gerekmektedir."</string>
-    <string name="copy_details">"Detayları Kopyalayın"</string>
-    <string name="copied_error_details_to_clipboard">"Hata ayrıntıları panoya başarılı bir şekilde kopyalandı."</string>
+    <string name="You_must_be_signed_in_to_Facebook_">"Facebook'ta oturum açmış olmanız gerekiyor."</string>
+    <string name="copy_details">"Detayları Kopyala"</string>
+    <string name="copied_error_details_to_clipboard">"Hata ayrıntıları panoya başarıyla kopyalandı."</string>
 
-    <string name="No_file_browser_installed_">"Cihazınızda herhangi bir dosya yöneticisi bulunamamıştır."</string>
-    <string name="Choose_File">"Dosya Seçiniz"</string>
+    <string name="No_file_browser_installed_">"Cihazınızda herhangi bir dosya yöneticisi yüklü değil."</string>
+    <string name="Choose_File">"Dosya Seç"</string>
     <string name="Google_Profile">"Google Profili "</string>
     <string name="You_must_be_signed_in_to_Google_">"Google'da oturum açmış olmanız gerekmektedir."</string>
 
     <string name="MAYHEM">"MAYHEM "</string>
     <string name="eggs_">"Yumurtalar. "</string>
     <string name="Egg_Collector">"Yumurta Toplayıcısı"</string>
-    <string name="Egg_Hoarder">"Yumurta Stokçusu"</string>
-    <string name="Egg_Mogul">"Yumurta Kralı"</string>
+    <string name="Egg_Hoarder">"Yumurta Biriktirici"</string>
+    <string name="Egg_Mogul">"Yumurta Patronu"</string>
     <string name="Collect_1_000_eggs_">"1,000 Adet Yumurta toplayın."</string>
     <string name="Collect_5_000_eggs_">"5,000 Adet Yumurta toplayın."</string>
     <string name="Collect_10_000_eggs_">"10,000 Adet Yumurta toplayın."</string>
@@ -624,13 +624,13 @@
 
 
     <string name="Love_Nebulous_">"Nebulous'u Sevdiniz Mi?"</string>
-    <string name="Please_support_Nebulous_by_rating_it_">"Lütfen bizlere oy vererek, Nebulous'u destekleyin. "</string>
-    <string name="MAYHEM_MODE">"MAYHEM MOD "</string>
-    <string name="Times_Teleported_">"Kullanılan Işınlanma Sayısı:"</string>
+    <string name="Please_support_Nebulous_by_rating_it_">"Lütfen oy vererek, Nebulous'u destekleyin. "</string>
+    <string name="MAYHEM_MODE">"MAYHEM MODU "</string>
+    <string name="Times_Teleported_">"Işınlanma Sayısı:"</string>
     <string name="Powerups_Used_">"Kullanılan Powerups Sayısı:"</string>
-    <string name="Power_Hungry">"Güç Açlığı"</string>
+    <string name="Power_Hungry">"Güç Delisi"</string>
     <string name="Over_9000">"9000'in Üstünde"</string>
-    <string name="Omnipresence">"Her Yerde Birden Bulunma"</string>
+    <string name="Omnipresence">"Her Yerde Aynı Anda"</string>
 
     <string name="Shoot_9001_Powerups">"9001 Kez Güçlendirme kullanın."</string>
     <string name="Teleport_100_Times">"100 Kez Işınlanın."</string>
@@ -638,12 +638,12 @@
     <string name="Request_Timed_Out">"İsteğiniz Zaman Aşımına Uğradı"</string>
     <string name="You_Are_Spectating_">"İzliyorsunuz"</string>
     <string name="Account_In_Use_">"Hesabınız Şu Anda Kullanımda!"</string>
-    <string name="Cannot_Join_Arena_">"Arenaya katılım sağlanamadı."</string>
-    <string name="Signing_out_will_disconnect_you_from_the_current_game">"Şu anda çıkış yapmanız durumunda, bulunduğunuz oyundan atılacaksınız."</string>
+    <string name="Cannot_Join_Arena_">"Arenaya katılamadınız."</string>
+    <string name="Signing_out_will_disconnect_you_from_the_current_game">"Çıkış yaparsanız, mevcut oyundan bağlantınız kesilir."</string>
     <string name="raindrops_">"Yağmur Damlaları. "</string>
     <string name="Raindrop_Collector">"Yağmur Damlası Toplayıcısı"</string>
-    <string name="Raindrop_Hoarder">"Yağmur Stokçusu"</string>
-    <string name="Raindrop_Mogul">"Yağmur Damlası Kralı"</string>
+    <string name="Raindrop_Hoarder">"Yağmur Biriktirici"</string>
+    <string name="Raindrop_Mogul">"Yağmur Damlası Patronu"</string>
     <string name="Collect_1_000_raindrops_">"1,000 Adet Yağmur damlası toplayın."</string>
     <string name="Collect_5_000_raindrops_">"5,000 Adet Yağmur damlası toplayın."</string>
     <string name="Collect_10_000_raindrops_">"10,000 Adet Yağmur damlası toplayın."</string>
@@ -653,32 +653,32 @@
     <string name="Challenge_Sent">"Meydan okuma gönderildi."</string>
     <string name="_1v1_Challenge_">"1'e1 Meydan Oku!"</string>
     <string name="__has_challenged_you_to_a_1v1_match_">"%s size 1'e 1 maç ile meydan okudu!"</string>
-    <string name="Challenge_Expired">"Meydan okumanın süresi dolmuştur."</string>
+    <string name="Challenge_Expired">"Meydan okumanın süresi doldu."</string>
     <string name="Enable_Challenges">"Meydan Okumayı Etkinleştir"</string>
-    <string name="Wait_for_the_current_challenge_to_expire_">"Şuanki meydan okuma isteğinin iptal edilmesini beklemelisiniz. "</string>
+    <string name="Wait_for_the_current_challenge_to_expire_">"Şu anki meydan okuma isteğinin sona ermesini beklemelisiniz. "</string>
     <string name="CHALLENGE_OPTIONS">"MEYDAN OKUMA SEÇENEKLERİ"</string>
     <string name="Accept">"Kabul Et"</string>
     <string name="Decline">"Reddet"</string>
     <string name="Challenge_Declined">"Meydan Okuma Reddedildi"</string>
     <string name="Spectators_">"Seyirciler: "</string>
     <string name="Nebula_Collector">"Nebula Toplayıcısı"</string>
-    <string name="Nebula_Hoarder">"Nebula Stokçusu"</string>
-    <string name="Nebula_Mogul">"Nebula Kralı"</string>
+    <string name="Nebula_Hoarder">"Nebula Biriktirici"</string>
+    <string name="Nebula_Mogul">"Nebula Patronu"</string>
     <string name="Collect_1_000_nebulas_">"1,000 Adet Nebula toplayın."</string>
     <string name="Collect_5_000_nebulas_">"5,000 Adet Nebula toplayın."</string>
     <string name="Collect_10_000_nebulas_">"10,000 Adet Nebula toplayın."</string>
     <string name="nebulas_">"Nebulalar."</string>
     <string name="Incompatible_versions_">"Sürümler Uyumlu Değil!"</string>
-    <string name="Update_Available_">"Güncelleme Hazır!"</string>
-    <string name="VIEW_INVITES">"KLANA KATILIM İSTEKLERİ"</string>
+    <string name="Update_Available_">"Güncelleme Mevcut!"</string>
+    <string name="VIEW_INVITES">"KLANA İSTEKLERİNİ GÖRÜNTÜLE"</string>
     <string name="CLAN_INVITES">"KLAN DAVETLERİ"</string>
     <string name="Cancel_Invitation">"Daveti İptal Et"</string>
     <string name="DOWNLOAD">"İNDİR"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"TÜM ARKADAŞ İSTEKLERİNİ REDDET"</string>
     <string name="suns_">"Güneşler. "</string>
     <string name="Sun_Collector">"Güneş Toplayıcısı"</string>
-    <string name="Sun_Hoarder">"Güneş Stokçusu"</string>
-    <string name="Sun_Mogul">"Güneş Kralı"</string>
+    <string name="Sun_Hoarder">"Güneş Biriktirici"</string>
+    <string name="Sun_Mogul">"Güneş Patronu"</string>
     <string name="Collect_1_000_suns_">"1,000 Adet Güneş toplayın."</string>
     <string name="Collect_5_000_suns_">"5,000 Adet Güneş toplayın."</string>
     <string name="Collect_10_000_suns_">"10,000 Adet Güneş toplayın."</string>
@@ -686,8 +686,8 @@
     <string name="Free_Plasma_">"Ücretsiz Plazma! "</string>
     <string name="moons_">"aylar. "</string>
     <string name="Moon_Collector">"Ay Toplayıcısı"</string>
-    <string name="Moon_Hoarder">"Ay Stokçusu"</string>
-    <string name="Moon_Mogul">"Ay Kralı"</string>
+    <string name="Moon_Hoarder">"Ay Biriktirici"</string>
+    <string name="Moon_Mogul">"Ay Patronu"</string>
     <string name="Collect_1_000_moons_">"1,000 Adet Ay toplayın."</string>
     <string name="Collect_5_000_moons_">"5,000 Adet Ay toplayın."</string>
     <string name="Collect_10_000_moons_">"10,000 Adet Ay toplayın."</string>
@@ -702,16 +702,16 @@
     <string name="INVALID_TOKEN">"Geçersiz Jeton. "</string>
     <string name="banned_until">"Şu süreye kadar Yasaklandı "</string>
     <string name="Note_Collector">"Nota Toplayıcısı"</string>
-    <string name="Note_Hoarder">"Nota Stokcusu"</string>
-    <string name="Note_Mogul">"Nota Kralı"</string>
+    <string name="Note_Hoarder">"Nota Biriktirici"</string>
+    <string name="Note_Mogul">"Nota Patronu"</string>
     <string name="Collect_1_000_notes_">"1,000 Adet Nota toplayın."</string>
     <string name="Collect_5_000_notes_">"5,000 Adet Nota toplayın."</string>
     <string name="Collect_10_000_notes_">"10,000 Adet Nota toplayın."</string>
     <string name="notes_">"Notalar. "</string>
-    <string name="CLICK_CHEAT_DETECTED_">"HİLE YAPTIĞINIZ TESPİT EDİLMİŞTİR!"</string>
-    <string name="Pumpkin_Hoarder">"Balkabağı Stokçusu"</string>
-    <string name="Pumpkin_Mogul">"Balkabağı Kralı"</string>
-    <string name="Leaf_Mogul">"Yaprak Kralı"</string>
+    <string name="CLICK_CHEAT_DETECTED_">"HİLE YAPTIĞINIZ TESPİT EDİLDİ!"</string>
+    <string name="Pumpkin_Hoarder">"Balkabağı Biriktirici"</string>
+    <string name="Pumpkin_Mogul">"Balkabağı Patronu"</string>
+    <string name="Leaf_Mogul">"Yaprak Patronu"</string>
     <string name="Collect_5000_pumpkins_">"5,000 Adet Balkabağı toplayın."</string>
     <string name="Collect_10000_pumpkins_">"10,000 Adet Balkabağı toplayın."</string>
     <string name="Collect_10000_leaves_">"10,000 Adet Yaprak toplayın."</string>
@@ -719,11 +719,11 @@
     <string name="Eject_Skin">"Yem Deseni"</string>
     <string name="Double_Plasma__">"Çifte Plazma!!"</string>
     <string name="Ends">"Bitiş"</string>
-    <string name="Select_Clan_Member">"Klan Üyesini Seçin"</string>
+    <string name="Select_Clan_Member">"Klan Üyesini Seç"</string>
     <string name="Inappropriate_Skin">"Uygunsuz Avatar"</string>
-    <string name="Approved">"Onaylanmıştır"</string>
-    <string name="Rejected">"Reddedilmiştir"</string>
-    <string name="Refunded">"İade Edilmiştir"</string>
+    <string name="Approved">"Onaylandı"</string>
+    <string name="Rejected">"Reddedildi"</string>
+    <string name="Refunded">"İade Edildi"</string>
 
 
     <string name="contribution_warning">"Bu plazma miktarı ile katkıda bulunmak istediğinize emin misiniz? Yaptığınız katkılar sizlere geri iade edilmeyecektir."</string>
@@ -735,7 +735,7 @@
     <string name="Clan_Uploads">"Klan Yüklemeleri"</string>
     <string name="Empty">"Boş"</string>
     <string name="Select">"Seç"</string>
-    <string name="Current_Skin">"Güncel Cilt"</string>
+    <string name="Current_Skin">"Güncel Avatar"</string>
     <string name="Status">"Durum"</string>
     <string name="upload_size_failure">"Dosyanın boyutu çok büyük olduğu için bu görseli yükleyemezsiniz. Lütfen farklı bir görsel deneyiniz."</string>
     <string name="CONTRIBUTE_PLASMA">"PLAZMA KATKISI YAP"</string>
@@ -743,12 +743,12 @@
     <string name="Clan_Contribution">"Klan Katkısı"</string>
     <string name="FILTER">"FİLTRE"</string>
     <string name="List_Count_">"Liste Sayısı:"</string>
-    <string name="Download_Skins">"Cilt İndir"</string>
+    <string name="Download_Skins">"Avatar İndir"</string>
     <string name="ARENA_HISTORY">"ARENA TARİHİ"</string>
     <string name="WIN">"KAZANMAK"</string>
     <string name="LOSS">"KAYBETMEK"</string>
-    <string name="Other_players_can_not_see_your_skin_">"Diğer oyuncular Cildinizi (Skin) göremezler."</string>
-    <string name="Other_players_can_see_your_skin_">"Diğer oyuncular Cildinizi (Skin) görebilirler."</string>
+    <string name="Other_players_can_not_see_your_skin_">"Diğer oyuncular Avatarınızı (Skin) göremezler."</string>
+    <string name="Other_players_can_see_your_skin_">"Diğer oyuncular Avatarınızı (Skin) görebilirler."</string>
     <string name="LEGEND">"EFSANE"</string>
     <string name="Win_10000_Arenas">"10.000 Adet Arena oyunu kazanın."</string>
     <string name="UPLOAD_PREVIEW">"YÜKLEME ÖNİZLEMESİ"</string>
@@ -756,7 +756,7 @@
     <string name="upload_info">"Opaklık veya basit resimler ile daha kaliteli görüntü elde edebilirsiniz."</string>
     <string name="Compression_Quality_">"Sıkıştırma Kalitesi:"</string>
     <string name="inapproriate_info">"Uygunsuz Ciltler: Cinsel, Nefret, Kan Pıhtısı, Müstehcenlik, Şiddet, Uyuşturucu, Seks, Çıplaklık, Tam Vücut Selfie'ler, Bilinmezlik, anlaşılmayan ve değiştirilmeyen Nebulous ciltleridir."</string>
-    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Bu cildi yüklemek istediğinizden emin misiniz?"</string>
+    <string name="Are_you_sure_you_want_to_upload_this_skin_">"Bu Avatarı yüklemek istediğinizden emin misiniz?"</string>
     <string name="Grant_Permission">"İzin Ver"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous, tek oyunculu kaydınızı depolamak için depolama izninizi talep ediyor!"</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous'un, yakındaki Bluetooth cihazlarını bulabilmesi için Konum izinlerini vermeniz gerekmektedir."</string>
@@ -976,7 +976,7 @@ Oyunun kurallarını çiğneyen bir oyuncuyu fark ederseniz, lütfen bir "Modera
     <string name="You_cannot_open_this_present_yet_">"Bu hediyeyi henüz açamazsınız!"</string>
     <string name="Open_Present">"Hediyeyi Aç"</string>
     <string name="OPEN">"AÇIK"</string>
-    <string name="Halo">"Işık Halka"</string>
+    <string name="Halo">"Işık Halkası"</string>
     <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Bu halkayı kullanabilmek için en az %1$s seviyede olmalısınız ve %2$s başarım elde etmelisiniz."</string>
     <string name="Halos">"Baloncuk Halkaları"</string>
     <string name="CAMPAIGN">"Kampanya"</string>
