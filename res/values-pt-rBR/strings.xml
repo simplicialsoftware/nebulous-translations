@@ -13,7 +13,7 @@
     <string name="Server_">"Servidor:"</string>
     <string name="Game_Mode_">"Modo de Jogo:"</string>
     <string name="Show_Names">"Mostrar Nomes"</string>
-    <string name="Show_Avatars">"Mostrar Skins"</string>
+    <string name="Show_Avatars">"Mostrar avatares"</string>
     <string name="PLAY">"JOGAR"</string>
     <string name="OPTIONS">"OPÇÕES"</string>
 
@@ -23,11 +23,11 @@
     <string name="Loading___">"Carregando…"</string>
     <string name="Connecting___">"Conectando…"</string>
 
-    <string name="Are_You_Sure_">"Você tem Certeza?"</string>
+    <string name="Are_You_Sure_">"Você tem certeza?"</string>
     <string name="Yes">"Sim"</string>
     <string name="No">"Não"</string>
     <string name="WAIT">"AGUARDE…"</string>
-    <string name="Must_Specify_Name_">"É Necessário Especificar um Nome."</string>
+    <string name="Must_Specify_Name_">"É necessário Especificar um Nome."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
 
@@ -45,7 +45,7 @@
     <string name="PLAYING">"JOGANDO"</string>
     <string name="MULTIPLAYER">"MULTIJOGADOR"</string>
 
-    <string name="JOIN">"JUNTAR"</string>
+    <string name="JOIN">"Entrar"</string>
 
 
     <string name="Lobby_Name">"Nome da Sala"</string>
@@ -57,10 +57,10 @@
     <string name="SERVER">"SERVIDOR"</string>
     <string name="Joining_game_in_">"Entrando no jogo em "</string>
     <string name="Game_Full">"Jogo Cheio"</string>
-    <string name="US_East">"América Central"</string>
-    <string name="US_West">"América do Norte"</string>
+    <string name="US_East">"Leste dos EUA"</string>
+    <string name="US_West">"Oeste dos EUA "</string>
     <string name="Europe">"Europa"</string>
-    <string name="South_America">"Brasil"</string>
+    <string name="South_America">"America do sul"</string>
 
 
     <string name="SINGLE_PLAYER">"ÚNICO JOGADOR"</string>
