@@ -534,7 +534,7 @@
     <string name="Choose_File">"Pilih File"</string>
     <string name="Google_Profile">"Profil Google"</string>
     <string name="You_must_be_signed_in_to_Google_">"Anda harus login ke Google."</string>
-    <string name="MAYHEM">"MAYHEM"</string>
+    <string name="MAYHEM">"KEKACAUAN"</string>
     <string name="eggs_">"Telur."</string>
     <string name="Egg_Collector">"Kolektor Telur"</string>
     <string name="Egg_Hoarder">"Penimbun Telur"</string>
@@ -546,7 +546,7 @@
     <string name="CLAN_HISTORY">"RIWAYAT KLAN"</string>
     <string name="Love_Nebulous_">"Cinta Nebulous?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Mohon Dukungan Nebulous oleh penilaian ini."</string>
-    <string name="MAYHEM_MODE">"MODE MAYHEM"</string>
+    <string name="MAYHEM_MODE">"MODE KEKACAUAN"</string>
     <string name="Times_Teleported_">"Kali Teleportasi:"</string>
     <string name="Powerups_Used_">"Powerup Digunakan:"</string>
     <string name="Power_Hungry">"Kekuatan Lapar"</string>
@@ -1001,7 +1001,7 @@
     <string name="Asia">Asia</string>
     <string name="SET_PRIVACY">ATUR PRIVASI</string>
     <string name="ANIMATION">ANIMASI</string>
-    <string name="Color_Cycle">Color Cycle</string>
+    <string name="Color_Cycle">Siklus Warna</string>
     <string name="Fast">Cepat</string>
     <string name="Slow">Lambat</string>
     <string name="Rainbow">Pelangi</string>
@@ -1093,7 +1093,7 @@
     <string name="Collisions_">Tabrakan:</string>
     <string name="Absorbed_">Diserap:</string>
     <string name="team_warning">Bekerja sama dengan pemain yang bukan anggota tim Anda akan dikenakan DILARANG!</string>
-    <string name="Search_Filter">Penyaring Pencarian</string>
+    <string name="Search_Filter">Filter Pencarian</string>
     <string name="Received_">Menerima:</string>
     <string name="Opponent_Rating_Limit_">Batas Peringkat Lawan:</string>
     <string name="TOGGLE_FAVORITE">TOMBOL FAVORIT</string>
@@ -1102,7 +1102,7 @@
     <string name="Background_Scale_">Ukuran Latarbelakang:</string>
     <string name="Background_Lightness_">Kecerahan Latarbelakang:</string>
     <string name="Background_Image_">Gambar Latarbelakang:</string>
-    <string name="INVERT_SELECTION">INVERT\nSELECTION</string>
+    <string name="INVERT_SELECTION">MEMBALIKKAN\nPILIHAN</string>
     <string name="MINIMAP">PETA MINI</string>
     <string name="Victorious">Berjaya</string>
     <string name="Dominant">Dominan</string>
@@ -1131,7 +1131,7 @@
     <string name="CHARGE_UP">MENGISI DAYA</string>
     <string name="CLAN_DESCRIPTION_COLOR">WARNA DESKRIPSI KLAN</string>
     <string name="Responsible_Pet_Owner">Pemilik Pet Tanggungjawab</string>
-    <string name="Animal_Tamer">Pawang</string>
+    <string name="Animal_Tamer">Penjinak Hewan</string>
     <string name="Crocodile_Hunter">Pemburu Buaya</string>
     <string name="Get_A_Pet_To_Level_X_">Naikkan pet ke level %d.</string>
     <string name="plasma_boost_info">"Anda mendapatkan plasma tiga kali lipat dari semua sumber DALAM PERMAINAN saat ini aktif! Ini termasuk kemenangan arena dan turnamen! TIDAK berlaku pada pembelian plasma, roda putaran, atau hadiah khusus."</string>
