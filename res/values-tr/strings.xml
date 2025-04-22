@@ -69,8 +69,8 @@
     <string name="Difficulty_">"Zorluk:"</string>
     <string name="Delay_Disconnect">"Bağlantı Kesilmesini Geciktir"</string>
 
-    <string name="Max_Players">"Maksimum Oyuncu Sayısı"</string>
-    <string name="Min_Players">"Minimum Oyuncu Sayısı"</string>
+    <string name="Max_Players">"Maksimum Oyuncu"</string>
+    <string name="Min_Players">"Minimum Oyuncu"</string>
 
     <string name="OK">"TAMAM"</string>
     <string name="CANCEL">"İPTAL"</string>
