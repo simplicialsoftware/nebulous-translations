@@ -95,7 +95,7 @@
     <string name="SIGN_OUT">"ÇIKIŞ YAP"</string>
     <string name="ACHIEVEMENTS">"BAŞARILAR"</string>
     <string name="STATISTICS">"İSTATİSTİKLER"</string>
-    <string name="XP_">XP/DP:</string>
+    <string name="XP_">"XP/DP:"</string>
 
     <string name="Information">"Bilgi"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Bu avatarı kullanmak için ilgili başarıyı kazanmalısın."</string>
