@@ -15,7 +15,7 @@
     <string name="Game_Mode_">"Oyun Modu:"</string>
     <string name="Show_Names">"Adları göstərin"</string>
     <string name="Show_Avatars">"Cildləri göstərin"</string>
-    <string name="PLAY">"OYNAMAQ"</string>
+    <string name="PLAY">"OYNA"</string>
     <string name="OPTIONS">"Seçimlər"</string>
 
     <string name="Avatar_">"Cild:"</string>
@@ -124,7 +124,7 @@
     <string name="Unknown">"Naməlum"</string>
     <string name="Offline">"Oflayn"</string>
     <string name="Achievement_Earned">"Nailiyyət Qazanıldı"</string>
-    <string name="REFRESH">"Yeniləmək"</string>
+    <string name="REFRESH">"YENİLƏ"</string>
     <string name="DONE">"Bitdi"</string>
     <string name="Friend_Request_Sent">"Dostluq istəyi göndərildi…"</string>
     <string name="ERROR">"Xəta"</string>
@@ -458,7 +458,7 @@
     <string name="Player_Name">"Oyunçu Adı"</string>
 
     <string name="Daily_Reward">"Gündəlik Mükafat"</string>
-    <string name="Reset">"Sıfırlayın"</string>
+    <string name="Reset">"SIFIRLA"</string>
     <string name="Plasma">"Plazma"</string>
     <string name="Plasma_Mogul">"Plazma Riması"</string>
     <string name="Plasma_Collector">"Plazma Toplayan"</string>
@@ -469,7 +469,7 @@
     <string name="Plasma_Collected_">"Toplanmış plazma:"</string>
     <string name="Plasma_Purchases">"Plazma Satınalmaları"</string>
 
-    <string name="ENTER">"Giriş"</string>
+    <string name="ENTER">"GİRİŞ ET"</string>
     <string name="_1v1">"1'ə 1"</string>
     <string name="Practice">"Praktika"</string>
     <string name="ArenaDescription">"Yalnız bir şansınız var. Qalib %s plazma alacaq. "Ticarət uduşları" və ya "Havayı uduşlar" qadağa ilə nəticələnəcək."</string>
@@ -525,7 +525,7 @@
     <string name="SET_PERMISSIONS">"İcazələri Təyin Etmək"</string>
     <string name="Start_Clan_War">"Klan müharibəsi başladın"</string>
     <string name="Min_Level">"Minimum Səviyyə"</string>
-    <string name="SAVE">"Yaddaşa Yaz"</string>
+    <string name="SAVE">"YADDA SAXLA"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Oyunçu bu klana qoşulmaq üçün minimum səviyyə tələbinə cavab vermir:"</string>
     <string name="Insufficient_Permission">"İcazə Yoxdur!"</string>
     <string name="DOMINATION">"Hakimiyyət"</string>
