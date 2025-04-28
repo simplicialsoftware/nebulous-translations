@@ -1167,7 +1167,7 @@ Nebulous 규칙\n
     <string name="Session_Stats">세션 통계</string>
     <string name="Time_">시간: </string>
     <string name="Show_Session_Stats">세션 통계 보이기</string>
-    <string name="VALENTINES_DAY">"발랜타인 데이"</string>
+    <string name="VALENTINES_DAY">"발렌타인 데이"</string>
     <string name="shared_pack_info" translatable="true" tools:ignore="Untranslatable">이 스킨 꾸러미를 구매한 뒤 특별한 스킨들은 당신과 친구의 스킨 선택 메뉴의 상단에 표시됩니다.</string>
     <string name="shared_pack_purch_description" translatable="true" tools:ignore="Untranslatable">이 꾸러미는 특별하기 때문에 당신과 친구 모두 이 꾸러미를 얻게 됩니다!</string>
     <string name="Giveaways_">플라즈마 이벤트!</string>
