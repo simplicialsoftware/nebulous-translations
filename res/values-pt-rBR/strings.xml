@@ -26,7 +26,7 @@
     <string name="Are_You_Sure_">"Você tem Certeza?"</string>
     <string name="Yes">"Sim"</string>
     <string name="No">"Não"</string>
-    <string name="WAIT">"AGUARDE…"</string>
+    <string name="WAIT___">"AGUARDE…"</string>
     <string name="Must_Specify_Name_">"É Necessário Especificar um Nome."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
