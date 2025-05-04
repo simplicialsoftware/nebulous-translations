@@ -8,26 +8,26 @@
     <string name="Button_Margin_">"Kenarê Buton"</string>
     <string name="Buttons_">"Buton"</string>
     <string name="DEFAULTS">"Yen standard"</string>
-    <string name="WEEKLY">"Heftane"</string>
+    <string name="WEEKLY">"HEFTANE"</string>
     <string name="DAILY">"ROJANE"</string>
-    <string name="Server_">"pêşkêşkarên"</string>
-    <string name="Game_Mode_">"Listik mod"</string>
-    <string name="Show_Names">"Nawi bineser"</string>
-    <string name="Show_Avatars">"Skini Bineser"</string>
+    <string name="Server_">"Server"</string>
+    <string name="Game_Mode_">"Moda Lîstikê"</string>
+    <string name="Show_Names">"Nîşandana Navan"</string>
+    <string name="Show_Avatars">"Nîşandana Avatarê"</string>
     <string name="PLAY">"BAZÎ"</string>
-    <string name="OPTIONS">"VEBİJERKEN"</string>
+    <string name="OPTIONS">"VEBIJÊRK"</string>
 
     <string name="Avatar_">"Skin:"</string>
     <string name="Name_">"Nav:"</string>
 
-    <string name="Loading___">"Yüklenmis dibe…"</string>
+    <string name="Loading___">"Barkirin…"</string>
     <string name="Connecting___">"Girêdan …"</string>
 
-    <string name="Are_You_Sure_">"Piştrastini?"</string>
+    <string name="Are_You_Sure_">"Piştrastin?"</string>
     <string name="Yes">"Erê"</string>
     <string name="No">"Na"</string>
     <string name="WAIT">"SEKAN…"</string>
-    <string name="Must_Specify_Name_">"Divê navê xwe diyar bik."</string>
+    <string name="Must_Specify_Name_">"Divê Nav Diyar Bike."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Degerlendirma  naveroka app dibe ku dema ku bi dîtina komên guhertin."</string>
 
@@ -38,8 +38,8 @@
     <string name="Recombine_">"Ji nû ve bibin yek "</string>
     <string name="WINNER_">"SERKETÎ:"</string>
     <string name="IDLE">"BÊÇALAK"</string>
-    <string name="Name_Invalid_">"Navê lîstokan"</string>
-    <string name="Name_Taken_">"Navê gebul"</string>
+    <string name="Name_Invalid_">"Nav nederbasdare"</string>
+    <string name="Name_Taken_">"Nav Hatiye Girtin"</string>
     <string name="CONNECTED">"GIRÊDAYE"</string>
     <string name="JOINING___">"Tevlîbun…"</string>
     <string name="PLAYING">"Listuk"</string>
@@ -48,22 +48,22 @@
     <string name="JOIN">"Tevlibun"</string>
 
 
-    <string name="Lobby_Name">"Nave lobîye"</string>
+    <string name="Lobby_Name">"Nave Lobîye"</string>
     <string name="Not_found_">"Peyda nebûn."</string>
 
     <string name="Hidden">"Veşartî"</string>
 
 
-    <string name="SERVER">"PESKESKAREN"</string>
-    <string name="Joining_game_in_">"Tevli listuk  "</string>
+    <string name="SERVER">"SERVER"</string>
+    <string name="Joining_game_in_">"Tevlîbûna lîstikê di.."</string>
     <string name="Game_Full">"Listuk tije"</string>
-    <string name="US_East">"Rojhilata Abd"</string>
-    <string name="US_West">"ABD Rojava"</string>
+    <string name="US_East">"Rojhelatê DYA"</string>
+    <string name="US_West">"Rojavaya DYA"</string>
     <string name="Europe">"Ewropa"</string>
-    <string name="South_America">"ABD Başûr"</string>
+    <string name="South_America">"Amerîkaya Başûr"</string>
 
 
-    <string name="SINGLE_PLAYER">"Listikvan TENÊ"</string>
+    <string name="SINGLE_PLAYER">"LISTIKVAN TENÊ"</string>
     <string name="Background_">"Paşî:"</string>
     <string name="Difficulty_">"Zehmetî"</string>
     <string name="Delay_Disconnect">"Gıredane bıbıre"</string>
@@ -71,32 +71,32 @@
     <string name="Max_Players">"Zedetir listikvan"</string>
     <string name="Min_Players">"Dûşa herî  listikvan"</string>
 
-    <string name="OK">"Temam"</string>
-    <string name="CANCEL">"Betal bike"</string>
-    <string name="Chat_Name">"Navê sıhbet"</string>
+    <string name="OK">"Baş"</string>
+    <string name="CANCEL">"Bişûndekirin"</string>
+    <string name="Chat_Name">"Navê sohbetê"</string>
     <string name="Max_People">"Zedetır Gel"</string>
     <string name="START">"DESTPÊKIRIN"</string>
     <string name="CREATE">"AVAKIRIN"</string>
-    <string name="CUSTOM_GAMES">"Taybeti listuk"</string>
-    <string name="CHAT">"SIHBET"</string>
+    <string name="CUSTOM_GAMES">"LÎSTIKA XWEZAYÎ"</string>
+    <string name="CHAT">"SOHBET"</string>
     <string name="CUSTOM_SETUP">"SAZKİRİNA TAYBETİ"</string>
-    <string name="CHAT_SETUP">"Sazkirin SIHBET"</string>
+    <string name="CHAT_SETUP">"SAZKIRINA SOHETÊ"</string>
 
 
-    <string name="ACCOUNT">"Hesab"</string>
-    <string name="Red_Team">"Tîma sor"</string>
-    <string name="Green_Team">"Tima kesk"</string>
-    <string name="Blue_Team">"Tima heşin"</string>
-    <string name="Yellow_Team">"Tîma zer"</string>
-    <string name="Signed_in_as_">"Cebiye Îmze:"</string>
+    <string name="ACCOUNT">"HESAB"</string>
+    <string name="Red_Team">"Tîma Sor"</string>
+    <string name="Green_Team">"Tima Kesk"</string>
+    <string name="Blue_Team">"Tima Heşin"</string>
+    <string name="Yellow_Team">"Tîma Zer"</string>
+    <string name="Signed_in_as_">"Têketî wek:"</string>
     <string name="Not_signed_in_">"İmze tinne!"</string>
-    <string name="SET_NAME">"Nave danin "</string>
-    <string name="SIGN_OUT">"Derkewe "</string>
-    <string name="ACHIEVEMENTS">"Serkeftın"</string>
+    <string name="SET_NAME">"NAV DESTNÎŞAN BIKE"</string>
+    <string name="SIGN_OUT">"DERKEWE "</string>
+    <string name="ACHIEVEMENTS">"DESTKEFTIYÊN"</string>
     <string name="STATISTICS">"JIMARE"</string>
     <string name="XP_">"XP:"</string>
 
-    <string name="Information">"Agahî"</string>
+    <string name="Information">"Agahdarî"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Ji bo bikaranîna vê skin divê tu serkeftineke qezenc"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Ji bo bikaranîna vê skin divê tu bigihên asta"</string>
     <string name="SIGN_IN">"TÊKEVIM"</string>
@@ -104,41 +104,41 @@
     <string name="Single_Player_Stats">"Tabloya yek listikvanen"</string>
 
     <string name="Level">"Asta"</string>
-    <string name="PAUSED">"Navber"</string>
+    <string name="PAUSED">"NAVBER"</string>
 
 
-    <string name="FRIENDS">"Hewalan"</string>
+    <string name="FRIENDS">"HEVAL"</string>
     <string name="Warning">"Hişyar"</string>
     <string name="SIGNING_IN">"Têkeve pêşketin…"</string>
-    <string name="New_Friend_Request">"Hewalan nu re daxwaze Bisine!"</string>
-    <string name="REQUEST_FRIEND">"Daxwaza hewaltiye"</string>
+    <string name="New_Friend_Request">"Daxwaza Hevaltiya Nû!"</string>
+    <string name="REQUEST_FRIEND">"DAXWAZA HEVALÎYÊ"</string>
     <string name="Private">"Taybet"</string>
-    <string name="Public">"Raya gişti"</string>
+    <string name="Public">"gişti"</string>
     <string name="Bot">"Bot"</string>
     <string name="You">"Tu"</string>
-    <string name="This_player_is_a_bot">"Ev lıstıkvanen e a bot e."</string>
+    <string name="This_player_is_a_bot">"Ev lıstıkvanen e bot e."</string>
     <string name="This_player_is_not_signed_in">"Ev listikvanen tekavim pek na hat."</string>
 
-    <string name="Online">"Liser ser nete"</string>
+    <string name="Online">"Serhêla"</string>
     <string name="Unknown">"Nezanin"</string>
     <string name="Offline">"Ne girêdayî"</string>
     <string name="Achievement_Earned">"Serkeftinê Xistiye"</string>
-    <string name="REFRESH">"Nu kırın"</string>
+    <string name="REFRESH">"NÛVRKIRIN"</string>
     <string name="DONE">"BILA"</string>
-    <string name="Friend_Request_Sent">"Hevalê xwe re bişîne Daxwaza şandin …"</string>
+    <string name="Friend_Request_Sent">"Daxwaza Hevaltiyê Hat Şandin …"</string>
     <string name="ERROR">"ŞAŞÎ"</string>
     <string name="CONTINUE">"BERDEWAMKIRIN"</string>
     <string name="Global_" formatted="false">"% cîhane"</string>
-    <string name="FRIEND_CHAT">"Sıhbeta hewalan"</string>
-    <string name="LOBBY_NAME">"NAVE LOBBİYE"</string>
+    <string name="FRIEND_CHAT">"SOHBATA HEVALÎ"</string>
+    <string name="LOBBY_NAME">"NAVE LOBBIYE"</string>
     <string name="NULL">"NULL"</string>
 
 
     <string name="ALL">"GIŞT"</string>
-    <string name="FFA">"HEMU KES"</string>
-    <string name="FFA_TIME">"HEMU KES ZEMAN"</string>
-    <string name="TEAMS">"TIMEN"</string>
-    <string name="TEAMS_TIME">"TIMEN ZEMAN"</string>
+    <string name="FFA">"FFA"</string>
+    <string name="FFA_TIME">"FFA ZEMAN"</string>
+    <string name="TEAMS">"TÎM"</string>
+    <string name="TEAMS_TIME">"TÎM ZEMAN"</string>
     <string name="CTF">"CTF"</string>
     <string name="SURVIVAL">"Sax mayi "</string>
 
@@ -226,7 +226,7 @@
     <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Guleyan a reş hole nav listikvan cara ku raş hole nav te berî destpêkirina gule"</string>
     <string name="Absorb_5_doges_without_restarting">"Pişaftina 5 Dukayan bê nûve"</string>
 
-    <string name="Friends">"Hewalan"</string>
+    <string name="Friends">"Heval"</string>
     <string name="Dots_Eaten_">" Xala xwarin:"</string>
     <string name="Blobs_Eaten_">"Zuha xwarin:"</string>
     <string name="Blobs_Lost_">"Zuha windakirin:"</string>
@@ -235,7 +235,7 @@
     <string name="Times_Ejected_">"Zemanen navdilê:"</string>
     <string name="Times_Split_">"Zemanen parca:"</string>
     <string name="Biggest_Blob_">"Mezintirîn Blob:"</string>
-    <string name="Highest_Score_">"Berz jihevkiri:"</string>
+    <string name="Highest_Score_">"Xala herî bilind:"</string>
     <string name="Average_Score_">"Pûan jihevkiri:"</string>
     <string name="Times_Played_">"Zemane listikvan:"</string>
     <string name="Longest_Life_">"Dirêjtirîn heyat:"</string>
@@ -262,14 +262,14 @@
     <string name="Clan">"Klan"</string>
 
 
-    <string name="JOIN_CLAN">"Were clane"</string>
-    <string name="JOIN_RANDOM_CLAN">"WERE KLANA ODE"</string>
+    <string name="JOIN_CLAN">"TEVLÎ KLAM BIBE"</string>
+    <string name="JOIN_RANDOM_CLAN">"WTELVÎ KLANEKE RASTAHÎ BIBE"</string>
     <string name="LEAVE_CLAN">"DERKEWE Jİ KLANE"</string>
-    <string name="INVITE_MEMBER">"gazî ENDAMÊN"</string>
-    <string name="REMOVE_MEMBER">"Durxiztin  ENDAMÊN"</string>
+    <string name="INVITE_MEMBER">"ENDAMÊ VEXWENDIN"</string>
+    <string name="REMOVE_MEMBER">"JÊBIRINA ENDAM"</string>
 
 
-    <string name="CREATE_CLAN">"KLAN AWAKIRIN"</string>
+    <string name="CREATE_CLAN">"KLANÊ BIAFIRÎNE"</string>
     <string name="MEMBER">"ENDAM"</string>
     <string name="ADMIN">"ADMIN"</string>
     <string name="LEADER">"BIRÊVEBIR"</string>
@@ -355,7 +355,7 @@
 
     <string name="Forming">"Şekil"</string>
     <string name="Searching">"Legerin"</string>
-    <string name="In_Progress">"Ez teslîm nabim"</string>
+    <string name="In_Progress">"Ew di temambûnê de ye"</string>
 
     <string name="Wins">"Serkeftinen"</string>
 
@@ -374,9 +374,9 @@
     <string name="Player_XP">"Listukvan XP"</string>
 
     <string name="W_D_L">"WDL"</string>
-    <string name="MATCH_START">"Dest maç"</string>
+    <string name="MATCH_START">"DESTPÊKA MAÇÊ"</string>
     <string name="Clan_Warrior">"Klan şerwan"</string>
-    <string name="Win_a_Clan_War">"Serkeftın şere klan"</string>
+    <string name="Win_a_Clan_War">"Serkeftın Şere Klan"</string>
     <string name="Global">"Cîhane"</string>
     <string name="Spectating">"Temesevanan"</string>
 
@@ -397,7 +397,7 @@
     <string name="XP_Boost">"XP zedekirin"</string>
     <string name="Double">"Dûcar"</string>
     <string name="Hour">"Seet"</string>
-    <string name="Hours">"saetan"</string>
+    <string name="Hours">"Saetan"</string>
 
 
     <string name="Triple">"Setim"</string>
@@ -406,12 +406,12 @@
 
 
     <string name="Arena">"Şermeydan"</string>
-    <string name="Enter_the_Arena">"li sermeydana tekew"</string>
+    <string name="Enter_the_Arena">"Li sermeydana tekew"</string>
 
 
-    <string name="Purchase_History">"Dîroka kirîn"</string>
+    <string name="Purchase_History">"Dîroka Kirîn"</string>
 
-    <string name="Purchases_Unavailable_">"Kirîna bi kar"</string>
+    <string name="Purchases_Unavailable_">"Kirîn Berdest Nîne"</string>
     <string name="You_can_purchase_this_skin_for">"Tu dikarî vê skin  ji bo kirîna"</string>
     <string name="PURCHASE">"KIRRÎN"</string>
     <string name="Error_in_backup_data_">"Şaşi li welat hilanine!"</string>
@@ -420,15 +420,15 @@
     <string name="Remove_Ads">"Durxistin ADS!"</string>
     <string name="Reward">"Xelat"</string>
     <string name="Please_Wait___">"Ji kerema xwe li bendê be …"</string>
-    <string name="Purchasing">"kirînê"</string>
+    <string name="Purchasing">"Kirînê"</string>
 
-    <string name="Purchase_Successful_">"Bikirin serkeftî."</string>
+    <string name="Purchase_Successful_">"Kirîn Serkeft."</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Hûn dikarin divê, îlhamek ji bo bikaranîna kirîn."</string>
     <string name="Confirm_Purchase">"Piştrast kirin "</string>
-    <string name="x3_XP_24_hours">"3x XP 24 Saetan"</string>
-    <string name="x3_XP_1_Hour">"3x XP 1 Saetan"</string>
-    <string name="x2_XP_24_Hour">"2x XP 24 Saetan"</string>
-    <string name="x2_XP_1_Hour">"2x XP 1 Saetan"</string>
+    <string name="x3_XP_24_hours">"x3 XP 24 Saetan"</string>
+    <string name="x3_XP_1_Hour">"x3 XP 1 Saetan"</string>
+    <string name="x2_XP_24_Hour">"x2 XP 24 Saetan"</string>
+    <string name="x2_XP_1_Hour">"x2 XP 1 Saetan"</string>
     <string name="Cost_">"Nirx:"</string>
     <string name="You_cannot_purchase_this_right_now_">"Hûn dikarin vê mafê bikirin ne niha."</string>
 
@@ -555,14 +555,14 @@
     <string name="REPORT">"NÛÇE"</string>
     <string name="Reported">"Nucehandin"</string>
     <string name="Threats">"Gefxwarin"</string>
-    <string name="Spam">"spam"</string>
+    <string name="Spam">"Spam"</string>
     <string name="Other">"Yên din"</string>
     <string name="Leave_Team">"Tim berde"</string>
 
-    <string name="Remove_Player">"jê listukvan"</string>
-    <string name="Reject_Invitation">"Red wexvandin"</string>
-    <string name="Leave_Game">"Listuke berde"</string>
-    <string name="Remove_Friend">"Hewalan rake"</string>
+    <string name="Remove_Player">"Jê Listukvan"</string>
+    <string name="Reject_Invitation">"Red Wexvandin"</string>
+    <string name="Leave_Game">"Listuke Berde"</string>
+    <string name="Remove_Friend">"Hewalan Rake"</string>
     <string name="Remove_Clan_Member">"Ev kese klana rake"</string>
     <string name="Flag_lobby_as_inappropriate">"Lobiye all nelicih "</string>
     <string name="Promote_Clan_Member">"Rasthatî kesi klane"</string>
@@ -1118,100 +1118,100 @@
     <string name="TRY_IT_">TRY IT!</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">You need to buy a pack to use this.</string>
     <string name="GET_PACK">GET PACK</string>
-    <string name="Position_in_queue">Position in queue</string>
-    <string name="PROFILE_MENU_BACKGROUND_COLOR">PROFILE MENU BACKGROUND COLOR</string>
+    <string name="Position_in_queue">Cihê di rêzê de</string>
+    <string name="PROFILE_MENU_BACKGROUND_COLOR">RENGÊ PAŞXANEYÊ YÊ MENÛYA PROFÎLÊ</string>
     <string name="DARK_MATTER">DARK MATTER</string>
-    <string name="Textures_will_be_regenerated_">Black textures and custom skins will be regenerated.</string>
-    <string name="Enable_Profile_Colors">Enable Profile Colors</string>
-    <string name="Session_Stats">Session Stats</string>
-    <string name="Time_">Time:</string>
-    <string name="Show_Session_Stats">Show Session Stats</string>
+    <string name="Textures_will_be_regenerated_">Tekstûrên reş û çermên xwerû dê ji nû ve werin çêkirin..</string>
+    <string name="Enable_Profile_Colors">Rengên Profîlê Çalak Bike</string>
+    <string name="Session_Stats">Statîstîkên Danişînê</string>
+    <string name="Time_">Dem:</string>
+    <string name="Show_Session_Stats">Statîstîkên Danişînê Nîşan Bide</string>
     <string name="VALENTINES_DAY">"VALENTINES DAY"</string>
-    <string name="Giveaways_">Giveaways!</string>
-    <string name="Max_XP_Chain_">Max XP Chain:</string>
-    <string name="POSITION_CANCEL_BUTTON">POSITION CANCEL BUTTON</string>
-    <string name="INVISIBILITY">INVISIBILITY</string>
-    <string name="Set_Skin">Set Skin</string>
-    <string name="Primary">Primary</string>
-    <string name="Secondary">Secondary</string>
-    <string name="Both">Both</string>
+    <string name="Giveaways_">Diyarî!</string>
+    <string name="Max_XP_Chain_">Zincîra XP ya Max:</string>
+    <string name="POSITION_CANCEL_BUTTON">BIŞKOJA BETALKIRINA POZÎSYONÊ</string>
+    <string name="INVISIBILITY">NEDÎTÎBÛN</string>
+    <string name="Set_Skin">Çermê Saz Bike</string>
+    <string name="Primary">Bingehîn</string>
+    <string name="Secondary">Dûwemdor</string>
+    <string name="Both">Herdû</string>
 
-    <string name="Enable__Multiskin">"Enable\nMultiskin"</string>
-    <string name="MULTISKIN">MULTISKIN</string>
-    <string name="DISABLED">DISABLED</string>
+    <string name="Enable__Multiskin">"Çalak bike\nPirçerm"</string>
+    <string name="MULTISKIN">ÇERMÊN PIRÇERM</string>
+    <string name="DISABLED">BÊMECEL</string>
 
-    <string name="Refund__Multiskin">Refund\nMultiskin</string>
-    <string name="Invalid_Clan_ID_">Invalid clan ID.</string>
-    <string name="MUTED">MUTED</string>
-    <string name="SKIN">SKIN</string>
+    <string name="Refund__Multiskin">Vegerandina Pereyan\nÇermê Piralî</string>
+    <string name="Invalid_Clan_ID_">Nasnameya klan a nederbasdar.</string>
+    <string name="MUTED">BÊDENG</string>
+    <string name="SKIN">ÇERM</string>
     <string name="Choose_Skin_Size">Choose Skin Size</string>
-    <string name="Other_players_will_not_be_able_to_hear_you_">Other players will not be able to hear you!</string>
-    <string name="Allow_permission_to_enable_voice_recording_">Allow permission to enable voice recording.</string>
-    <string name="voice_chat_prompt">Content rating of the app may change with voice chat enabled. For best audio use a headset.</string>
-    <string name="Only_leader_can_answer_requests_">Only leader can answer requests.</string>
-    <string name="Sent_request_not_invited_">Sent request (not invited).</string>
-    <string name="REMOVE_SKIN_FROM_COMMUNITY_">REMOVE SKIN FROM COMMUNITY!</string>
-    <string name="This_cannot_be_undone_">This cannot be undone!</string>
-    <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Watch a video to get a temporary boost for %d lives!</string>
-    <string name="WATCH_VIDEO_">WATCH VIDEO!</string>
-    <string name="PERMANENT_BOOSTS">PERMANENT BOOSTS</string>
-    <string name="Video_failed_to_load_">Video failed to load!</string>
-    <string name="Video_Ready_">Video Ready!</string>
-    <string name="GIVE_PLASMA">GIVE PLASMA</string>
-    <string name="Specify_amount_">Specify amount:</string>
-    <string name="Specify_amount_again_to_confirm_">Specify amount again to confirm:</string>
-    <string name="Amounts_did_not_match_">Amounts did not match!</string>
-    <string name="RECEIVE_PLASMA">RECEIVE PLASMA</string>
-    <string name="MULTIBLOB">MULTIBLOB</string>
-    <string name="Play_Nebulous_For_1_Year_">Play Nebulous For 1 Year!</string>
-    <string name="Play_Nebulous_For_X_Years_">Play Nebulous For %d Years!</string>
-    <string name="Starting___">Starting…</string>
-    <string name="Tournament_Starting">Tournament Starting</string>
-    <string name="Max_Tilt_Angle_3D_">Max Tilt Angle 3D:</string>
-    <string name="Mode_3D">3D Mode</string>
-    <string name="Names_Below_Blobs">Names Below Blobs</string>
-    <string name="Name_Scale_">"Name Scale:"</string>
-    <string name="Button_3D">Button 3D</string>
-    <string name="Hide_Button_">Hide Button?</string>
-    <string name="Show_Boost_Button">Show Boost Button</string>
-    <string name="Spectate_Killer_On_Death">Spectate Killer On Death</string>
-    <string name="Rainbow_Holes">Rainbow Holes</string>
-    <string name="LIFE_STEAL">LIFE STEAL</string>
-    <string name="Kicked_From_Game_">Kicked From Game!</string>
-    <string name="Conquest">Conquest</string>
-    <string name="Finish_the_last_mission_in_the_campaign_">Finish the last mission in the campaign.</string>
-    <string name="Collected_">Collected:</string>
-    <string name="Collisions_">Collisions:</string>
-    <string name="Absorbed_">Absorbed:</string>
-    <string name="team_warning">Teaming up with a player that is not on your team will result in a ban!</string>
-    <string name="Search_Filter">Search Filter</string>
-    <string name="Received_">Received:</string>
-    <string name="Opponent_Rating_Limit_">Opponent Rating Limit:</string>
-    <string name="TOGGLE_FAVORITE">TOGGLE FAVORITE</string>
-    <string name="Favorited">Favorited</string>
-    <string name="Unfavorited">Unfavorited</string>
-    <string name="Background_Scale_">Background Scale:</string>
-    <string name="Background_Lightness_">Background Lightness:</string>
-    <string name="Background_Image_">Background Image:</string>
+    <string name="Other_players_will_not_be_able_to_hear_you_">Lîstikvanên din dê nikaribin te bibihîzin!</string>
+    <string name="Allow_permission_to_enable_voice_recording_">Destûrê bide çalakkirina tomarkirina deng.</string>
+    <string name="voice_chat_prompt">Nirxandina naveroka sepanê dibe ku dema sohbeta dengî çalak be biguhere. Ji bo dengê çêtirîn guhguhkê bikar bînin..</string>
+    <string name="Only_leader_can_answer_requests_">Tenê serok dikare daxwazan bibersivîne.</string>
+    <string name="Sent_request_not_invited_">Daxwaza şandî (nehatiye vexwendin).</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">ÇERM JI CIVAKÊ DERXIN!</string>
+    <string name="This_cannot_be_undone_">Ev nikare were betalkirin!</string>
+    <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Vîdyoyekê temaşe bike da ku ji bo %d jiyanan zêdebûnek demkî bi dest bixî!</string>
+    <string name="WATCH_VIDEO_">VÎDEO TEMAŞE BIKE!</string>
+    <string name="PERMANENT_BOOSTS">BOOSTEN DAÎMÎ</string>
+    <string name="Video_failed_to_load_">Vîdyo nehat barkirin!</string>
+    <string name="Video_Ready_">Vîdyoyê Amade ye!</string>
+    <string name="GIVE_PLASMA">PLAZMA BIDE</string>
+    <string name="Specify_amount_">Mîqdar diyar bike:</string>
+    <string name="Specify_amount_again_to_confirm_">Ji bo piştrastkirinê dîsa mîqdar diyar bike:</string>
+    <string name="Amounts_did_not_match_">Mîqdar li hev nehatin!</string>
+    <string name="RECEIVE_PLASMA">PLAZMA WERGIRTIN</string>
+    <string name="MULTIBLOB">PIRBLOB</string>
+    <string name="Play_Nebulous_For_1_Year_">1 Sal Nebulouse lîstin!</string>
+    <string name="Play_Nebulous_For_X_Years_">Lîstina Nebulous bo %d Salan!</string>
+    <string name="Starting___">Destpêkirin…</string>
+    <string name="Tournament_Starting">Destpêka Turnuvayê</string>
+    <string name="Max_Tilt_Angle_3D_">Goşeya Tilbûna Herî Zêde 3D:</string>
+    <string name="Mode_3D">3D Mod</string>
+    <string name="Names_Below_Blobs">Navên li bin Blob</string>
+    <string name="Name_Scale_">"Pîvana Navî:"</string>
+    <string name="Button_3D">Pişkov 3D</string>
+    <string name="Hide_Button_">Bişkoka Veşartinê?</string>
+    <string name="Show_Boost_Button">Bişkoka Boost Nîşan Bide</string>
+    <string name="Spectate_Killer_On_Death">Kujerê Temaşekirinê Li Ser Mirinê</string>
+    <string name="Rainbow_Holes">Kunên Kevanê</string>
+    <string name="LIFE_STEAL">DIZÎNA JIYANÊ</string>
+    <string name="Kicked_From_Game_">Ji Lîstikê Hat Derxistin!</string>
+    <string name="Conquest">Dagirî</string>
+    <string name="Finish_the_last_mission_in_the_campaign_">Mîsyona dawîn a di kampanyayê de biqedînin.</string>
+    <string name="Collected_">Berhevkirî:</string>
+    <string name="Collisions_">Pêkhatin:</string>
+    <string name="Absorbed_">Mijandin:</string>
+    <string name="team_warning">Tîmkirina bi lîstikvanekî ku ne di tîma we de ye dê bibe sedema qedexeyê.!</string>
+    <string name="Search_Filter">Fîltera Lêgerînê</string>
+    <string name="Received_">Wergirtî:</string>
+    <string name="Opponent_Rating_Limit_">Sînorê Nirxandina Dijber:</string>
+    <string name="TOGGLE_FAVORITE">Bişîne bo bijareyan</string>
+    <string name="Favorited">Di bijareyan de</string>
+    <string name="Unfavorited">Ji bijareyan rake</string>
+    <string name="Background_Scale_">Pîvana Paşxaneyê:</string>
+    <string name="Background_Lightness_">Ronahîya Paşxaneyê:</string>
+    <string name="Background_Image_">Wêneya Paşxaneyê:</string>
     <string name="INVERT_SELECTION">INVERT\nSELECTION</string>
-    <string name="MINIMAP">MINIMAP</string>
+    <string name="MINIMAP">Nexşeya Biçûk</string>
     <string name="Victorious">Victorious</string>
     <string name="Dominant">Dominant</string>
     <string name="Champion">Champion</string>
     <string name="Win_10_Tournaments">Win 10 Tournaments</string>
     <string name="Win_100_Tournaments">Win 100 Tournaments</string>
-    <string name="HERO">HERO</string>
+    <string name="HERO">QEHREMAN</string>
     <string name="CHAMPION">CHAMPION</string>
     <string name="DASH">DASH</string>
     <string name="setting_changed">Settings updated. You may need to reconnect to the server for it to take effect.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Perform 10,000 tricks in a Trick Mode game.</string>
     <string name="Tricky">Tricky</string>
-    <string name="SUPPORTER">VIP</string>
+    <string name="SUPPORTER">TAYBETÎ</string>
     <string name="CONQUEROR">Fetihkar</string>
     <string name="TRICKY">TRICKY</string>
-    <string name="x4_XP_Permanent">4x XP Daîmî</string>
-    <string name="x4_XP_24_hours">4x XP 24 Saetek</string>
-    <string name="x4_XP_1_Hour">4x XP 1 Saet</string>
+    <string name="x4_XP_Permanent">x4 XP Daîmî</string>
+    <string name="x4_XP_24_hours">x4 XP 24 Saetek</string>
+    <string name="x4_XP_1_Hour">x4 XP 1 Saet</string>
     <string name="Quad">Çare</string>
     <string name="Middle_East">Navenda Rojhilatê Navîn</string>
     <string name="XP_4x">XP 4x</string>
@@ -1285,12 +1285,12 @@ KOMUTÊN RÊVEBİRÊ:
     <string name="FREE_FOR_ALL">JI BO HEMU KESAN BELAŞ</string>
     <string name="SPECIAL">TAYBETİ</string>
     <string name="FREE">BELAŞ</string>
-    <string name="x5_Clan_XP_1_Day">5x CLAN XP 1 Rojan</string>
-    <string name="x5_Clan_XP_7_days">5x CLAN XP 7 Rojan</string>
-    <string name="x5_Clan_XP_Perm">5x CLAN XP Daîmî</string>
-    <string name="Quin">5X</string>
-    <string name="x5_XP_1_Hour">5x XP 1 Saeten</string>
-    <string name="x5_XP_24_hours">5x XP 24 Saeten</string>
+    <string name="x5_Clan_XP_1_Day">x5 CLAN XP 1 Rojan</string>
+    <string name="x5_Clan_XP_7_days">x5 CLAN XP 7 Rojan</string>
+    <string name="x5_Clan_XP_Perm">x5 CLAN XP Daîmî</string>
+    <string name="Quin">Quin</string>
+    <string name="x5_XP_1_Hour">x5 XP 1 Saeten</string>
+    <string name="x5_XP_24_hours">x5 XP 24 Saeten</string>
     <string name="x5_XP_Permanent">5x XP Daîmî</string>
     <string name="CAMPAIGN_2">CAMPAIGN 2</string>
     <string name="XP_5x">XP 5x</string>
@@ -1299,7 +1299,7 @@ KOMUTÊN RÊVEBİRÊ:
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">RENGE PAŞVERU YE KLAN</string>
     <string name="activate">Çalak Bike</string>
-    <string name="clan_id">CLAN ID</string>
+    <string name="clan_id">klan id</string>
     <string name="language_change_warning">Guhestina ziman dibe sedema jinûve destpêkirina sepanê.</string>
     <string name="xmas_gift_boost_message">Te xelata 3x rojane 1 ya Piştgiriya Plazma wergirt!</string>
     <string name="no_response">Ji serverê bersiv nayê dayîn. Ji kerema xwe ve girêdana înternetê kontrol bikin.</string>
