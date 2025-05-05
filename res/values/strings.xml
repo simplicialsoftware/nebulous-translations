@@ -40,10 +40,10 @@
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Content rating of the app may change when finding groups."</string>
 
-    <string name="_Rank_">" Rank "</string>
-    <string name="_Alias_">" Alias "</string>
-    <string name="_Score_">" Score "</string>
-    <string name="Score__">"Score: "</string>
+    <string name="_Rank_">" Rank:"</string>
+    <string name="_Alias_">" Alias:"</string>
+    <string name="_Score_">" Score:"</string>
+    <string name="Score__">"Score:"</string>
     <string name="Recombine_">"Recombine: "</string>
     <string name="WINNER_">"WINNER:"</string>
     <string name="IDLE">"IDLE"</string>
@@ -51,10 +51,10 @@
     <string name="Name_Taken_">"Name taken."</string>
     <string name="CONNECTED">"CONNECTED"</string>
     <string name="JOINING___">"JOINING…"</string>
-    <string name="PLAYING">"PLAYING"</string>
-    <string name="MULTIPLAYER">"MULTIPLAYER"</string>
+    <string name="PLAYING">"PLAYING:"</string>
+    <string name="MULTIPLAYER">"MULTIPLAYER:"</string>
 
-    <string name="JOIN">"JOIN"</string>
+    <string name="JOIN">"JOIN:"</string>
 
 
     <string name="Lobby_Name">"Lobby Name"</string>
@@ -257,7 +257,7 @@
     <string name="Special_Effects">Special Effects</string>
     <string name="Blob_Mushiness">Blob Mushiness</string>
 
-    <string name="Specify_private_game_name">Specify private game name</string>
+    <string name="Specify_private_game_name">Specify private game name.</string>
     <string name="In_Game_Chat">In-Game Chat</string>
     <string name="My_Status_">My Status:</string>
     <string name="Game_Size_">Game Size:</string>
@@ -402,7 +402,7 @@
     <string name="Current">Current</string>
     <string name="leaves_">leaves.</string>
     <string name="Leaf_Collector">Leaf Collector</string>
-    <string name="Collect_1000_leaves_">Collect 1,000 leaves.</string>
+    <string name="Collect_1.000_leaves_">Collect 1,000 leaves.</string>
     <string name="XP_Boost">XP Boost</string>
     <string name="Double">Double</string>
     <string name="Hour">Hour</string>
@@ -411,7 +411,7 @@
 
     <string name="Triple">Triple</string>
     <string name="Leaf_Hoarder">Leaf Hoarder</string>
-    <string name="Collect_5000_leaves_">Collect 5,000 leaves.</string>
+    <string name="Collect_5.000_leaves_">Collect 5,000 leaves.</string>
 
 
     <string name="Arena">Arena</string>
@@ -434,10 +434,10 @@
     <string name="Purchase_Successful_">Purchase successful.</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">You may need to reconnect to use the purchase.</string>
     <string name="Confirm_Purchase">Confirm Purchase</string>
-    <string name="x3_XP_24_hours">3x XP 24 Hours</string>
-    <string name="x3_XP_1_Hour">3x XP 1 Hour</string>
-    <string name="x2_XP_24_Hour">2x XP 24 Hours</string>
-    <string name="x2_XP_1_Hour">2x XP 1 Hour</string>
+    <string name="x3_XP_24_hours">3x –XP– 24 Hours</string>
+    <string name="x3_XP_1_Hour">3x –XP– 1 Hour</string>
+    <string name="x2_XP_24_Hour">2x –XP– 24 Hours</string>
+    <string name="x2_XP_1_Hour">2x –XP– 1 Hour</string>
     <string name="Cost_">Cost:</string>
     <string name="You_cannot_purchase_this_right_now_">You cannot purchase this right now.</string>
 
@@ -637,7 +637,7 @@
     <string name="Times_Teleported_">Times Teleported:</string>
     <string name="Powerups_Used_">Powerups Used:</string>
     <string name="Power_Hungry">Power Hungry</string>
-    <string name="Over_9000">Over 9000</string>
+    <string name="Over_9.000">Over 9.000</string>
     <string name="Omnipresence">Omnipresence</string>
 
     <string name="Shoot_9001_Powerups">Shoot 9001 Powerups</string>
