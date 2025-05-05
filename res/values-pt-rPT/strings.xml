@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<recursos xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"Jogadores"</string>
     <string name="Control_">"Controlo:"</string>
     <string name="CLOSE">"FECHAR"</string>
@@ -36,11 +36,11 @@
     <string name="_Score_">" Pontos "</string>
     <string name="Score__">"Pontos: "</string>
     <string name="Recombine_">"Recombinar em: "</string>
-    <string name="WINNER_">"VENCEDOR:"</string>
+     <string name="WINNER_">"VENCEDOR:"</string> 
     <string name="IDLE">"INATIVO"</string>
     <string name="Name_Invalid_">"Nome inválido."</string>
     <string name="Name_Taken_">"Nome assumido."</string>
-    <string name="CONNECTED">"CONECTADO"</string>
+     <string name="CONNECTED">"CONECTADO"</string> <string name="CONNECTED">"CONECTADO"</string>
     <string name="JOINING___">"A ENTRAR…"</string>
     <string name="PLAYING">"A JOGAR"</string>
     <string name="MULTIPLAYER">"MULTIJOGADOR"</string>
@@ -51,7 +51,7 @@
     <string name="Lobby_Name">"Nome da Sala"</string>
     <string name="Not_found_">"Não encontrado."</string>
 
-    <string name="Hidden">"Oculto"</string>
+     <string name="Hidden">"Oculto"</string> <string name="Hidden">"Oculto"</string>
 
 
     <string name="SERVER">"SERVIDOR"</string>
