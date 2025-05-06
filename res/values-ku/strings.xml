@@ -107,7 +107,7 @@
     <string name="PAUSED">"NAVBER"</string>
 
 
-    <string name="FRIENDS">"HEVAL"</string>
+    <string name="FRIENDS">"HEVALÊN"</string>
     <string name="Warning">"Hişyar"</string>
     <string name="SIGNING_IN">"Têkeve pêşketin…"</string>
     <string name="New_Friend_Request">"Daxwaza Hevaltiya Nû!"</string>
@@ -227,31 +227,31 @@
     <string name="Absorb_5_doges_without_restarting">"Pişaftina 5 Dukayan bê nûve"</string>
 
     <string name="Friends">"Heval"</string>
-    <string name="Dots_Eaten_">" Xala xwarin:"</string>
-    <string name="Blobs_Eaten_">"Zuha xwarin:"</string>
-    <string name="Blobs_Lost_">"Zuha windakirin:"</string>
-    <string name="Mass_Gained_">"Komî xistin:"</string>
-    <string name="Mass_Ejected_">"Puanen navdilê:"</string>
-    <string name="Times_Ejected_">"Zemanen navdilê:"</string>
-    <string name="Times_Split_">"Zemanen parca:"</string>
+    <string name="Dots_Eaten_">" Xala Xwarin:"</string>
+    <string name="Blobs_Eaten_">"Blobs Xwarin:"</string>
+    <string name="Blobs_Lost_">"Zuha Windakirin:"</string>
+    <string name="Mass_Gained_">"Komî Xistin:"</string>
+    <string name="Mass_Ejected_">"Puanen Navdilê:"</string>
+    <string name="Times_Ejected_">"Zemanen Navdilê:"</string>
+    <string name="Times_Split_">"Zemanen Parça:"</string>
     <string name="Biggest_Blob_">"Mezintirîn Blob:"</string>
-    <string name="Highest_Score_">"Xala herî bilind:"</string>
-    <string name="Average_Score_">"Pûan jihevkiri:"</string>
-    <string name="Times_Played_">"Zemane listikvan:"</string>
-    <string name="Longest_Life_">"Dirêjtirîn heyat:"</string>
-    <string name="Games_Won_">"Listuka serkeft:"</string>
+    <string name="Highest_Score_">"Xale Herî Bilind:"</string>
+    <string name="Average_Score_">"Xala Navînî:"</string>
+    <string name="Times_Played_">"Zemane Listikvan:"</string>
+    <string name="Longest_Life_">"Dirêjtirîn Heyat:"</string>
+    <string name="Games_Won_">"Listuka Serkeft:"</string>
 
     <string name="You_must_wait_until_the_end_of_the_round_">"Tu divê heta dawiya tûra sekandin"</string>
     <string name="Dont_show_again">"Careke din nîşan ne"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Dîtin.Di a yek-listukvan despekirina hilanînê, bi XP mezintir. Ma tu dixwazî ​​ji bo restorekirina hilanînê?"</string>
 
-    <string name="Special_Effects">"Bandora taybet"</string>
-    <string name="Blob_Mushiness">"Dılopen muchines"</string>
+    <string name="Special_Effects">"Bandora Taybet"</string>
+    <string name="Blob_Mushiness">"Dılopen Muchines"</string>
 
     <string name="Specify_private_game_name">"Hên bi navê listuka taybet"</string>
     <string name="In_Game_Chat">"Li-Listuka Sıhbet"</string>
-    <string name="My_Status_">"Rewş min:"</string>
-    <string name="Game_Size_">"Boyutan listuke"</string>
+    <string name="My_Status_">"Rewşa Min:"</string>
+    <string name="Game_Size_">"Mezinahiya lîstikê"</string>
 
     <string name="Server_Restart_">"Jınu ve peskeskaran"</string>
     <string name="GOAL_">"ARMANC!"</string>
@@ -382,9 +382,9 @@
 
 
     <string name="snowflakes_">"pirtikên."</string>
-    <string name="presents_">"Amade"</string>
-    <string name="Snowflake_Collector">"Pirtiken berhewkirin"</string>
-    <string name="Present_Collector">"Amade berhevkirin."</string>
+    <string name="presents_">"amade"</string>
+    <string name="Snowflake_Collector">"Pirtiken Berhewkirin"</string>
+    <string name="Present_Collector">"Amade Berhevkirin."</string>
 
 
     <string name="Season">"Demsal"</string>
@@ -394,14 +394,14 @@
     <string name="leaves_">"dihêle."</string>
     <string name="Leaf_Collector">"Berhevkirina  pel"</string>
     <string name="Collect_1000_leaves_">"Berhev 1,000 pelên."</string>
-    <string name="XP_Boost">"XP zedekirin"</string>
+    <string name="XP_Boost">"XP Zedekirin"</string>
     <string name="Double">"Dûcar"</string>
     <string name="Hour">"Seet"</string>
     <string name="Hours">"Saetan"</string>
 
 
     <string name="Triple">"Setim"</string>
-    <string name="Leaf_Hoarder">"Girtinan pela"</string>
+    <string name="Leaf_Hoarder">"Girtinan Pela"</string>
     <string name="Collect_5000_leaves_">"Berhev 5,000 pelên."</string>
 
 
@@ -450,14 +450,14 @@
     <string name="BIGGEST">"Mezin "</string>
 
 
-    <string name="Copy_ID">"Kopya id"</string>
+    <string name="Copy_ID">"Kopya ID"</string>
     <string name="View_Profile">"Profile bi ser "</string>
     <string name="Send_Message">"Peyam bişîne"</string>
     <string name="Account_ID">"Hesab ID"</string>
     <string name="Player_Name">"Navê listukvan"</string>
 
-    <string name="Daily_Reward">"Xelad rojane"</string>
-    <string name="Reset">"reset bike"</string>
+    <string name="Daily_Reward">"Xelata Rojane"</string>
+    <string name="Reset">"Vegerandin"</string>
     <string name="Plasma">"Plasma"</string>
     <string name="Plasma_Mogul">"Plasma Mezinan"</string>
     <string name="Plasma_Collector">"Plasma berhew"</string>
@@ -628,7 +628,7 @@
     <string name="Times_Teleported_">"Zemane tirejkiri:"</string>
     <string name="Powerups_Used_">"Kuvet dayi:"</string>
     <string name="Power_Hungry">"Kuvet bırçi"</string>
-    <string name="Over_9000">"ser 9000"</string>
+    <string name="Over_9000">"Ser 9000"</string>
     <string name="Omnipresence">"sihêtî"</string>
 
     <string name="Shoot_9001_Powerups">"Guleyan 9001 kuvetan"</string>
@@ -655,14 +655,14 @@
     <string name="Challenge_Expired">"Meydanxvazi kapê de"</string>
     <string name="Enable_Challenges">"çalak meydanxweziyan "</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"Li bendê ji bo testê niha bi dawî dibe."</string>
-    <string name="CHALLENGE_OPTIONS">"Ayaran meydanxvaziyan "</string>
+    <string name="CHALLENGE_OPTIONS">"AYARAN MEYDANXVAZIYAN "</string>
     <string name="Accept">"Baweranîn"</string>
     <string name="Decline">"Paşvegerrî"</string>
     <string name="Challenge_Declined">"Meydanxwazi kabul nekir"</string>
     <string name="Spectators_">"Temaşevanan"</string>
-    <string name="Nebula_Collector">"nebula hevdan"</string>
-    <string name="Nebula_Hoarder">"nebula vesandin"</string>
-    <string name="Nebula_Mogul">"nebula mezin"</string>
+    <string name="Nebula_Collector">"Nebula Hevdan"</string>
+    <string name="Nebula_Hoarder">"Nebula Vesandin"</string>
+    <string name="Nebula_Mogul">"Nebula Mezin"</string>
     <string name="Collect_1_000_nebulas_">"Berhev 1,000 nebulas."</string>
     <string name="Collect_5_000_nebulas_">"Berhev 5,000 nebulas."</string>
     <string name="Collect_10_000_nebulas_">"Berhev 10,000 nebulas."</string>
@@ -720,13 +720,13 @@
     <string name="Ends">"Ğılas"</string>
     <string name="Select_Clan_Member">"Kesi Klana pelke"</string>
     <string name="Inappropriate_Skin">"Nelicıh skin"</string>
-    <string name="Approved">"pejirandin"</string>
-    <string name="Rejected">"red"</string>
-    <string name="Refunded">"îade kirin"</string>
+    <string name="Approved">"Pejirandin"</string>
+    <string name="Rejected">"Red"</string>
+    <string name="Refunded">"Vegerandin kirin"</string>
 
 
-    <string name="contribution_warning">"Ma tu bawer î ku dixwazî ​​ji vê Plasmayê? Beşdariyên ji bo wê ne îade kirin."</string>
-    <string name="Upload">"Beğe "</string>
+    <string name="contribution_warning">"hişyariya beşdariyê"</string>
+    <string name="Upload">"Barkirin "</string>
     <string name="upload_warning">"Bi rastî jî tu dixwazî ​​vê data'yê barbikê skin?  Din lîstikvanên bikaribe ji bo dîtina vê skin wê. Ev dibe ku ji yek heftiyê ji bo çermê te bi be vegeriyan. meşkan nelcih be dê werin redkirin û nayê îade kirin!"</string>
 
     <string name="In_Review">"İmtihan"</string>
@@ -756,7 +756,7 @@
     <string name="Compression_Quality_">"Sıkıştirmo ji bu kalite:"</string>
     <string name="inapproriate_info">"meşkan skine uygun nebe xundisa u geri bistandin  calaki sex cerm hebe u ji te kabul nabe nebulos ! "</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">"Bi rastî jî tu dixwazî ​​vê data'yê barbikê skin?"</string>
-    <string name="Grant_Permission">"Pisgiri destur"</string>
+    <string name="Grant_Permission">"Pisgiri Destur"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulos  divê destûrên embarkirini  ji bo hilanînê, pêşketin yek listuvan te!"</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous, divê destûrên  zir bibînin cîhazên nêzî Bluetooth."</string>
     <string name="FFA_ULTRA">"FFA ULTRA"</string>
@@ -765,16 +765,16 @@
 
     <string name="BANNED_PLAYERS">"Listukvanen qedeke kirin"</string>
     <string name="MAIL">"POSTE"</string>
-    <string name="WRITE_MAIL">"MAIL nivise"</string>
-    <string name="Days">"rojan"</string>
+    <string name="WRITE_MAIL">"NAMEYÊ BINIVÎSE"</string>
+    <string name="Days">"Rojan"</string>
     <string name="Message">"Agah"</string>
     <string name="Subject">"Mijar"</string>
     <string name="SEND">"ŞANDIN"</string>
     <string name="To">"Ber"</string>
     <string name="RESET">"RESET"</string>
-    <string name="Message_Sent_">"Peyama şandın"</string>
+    <string name="Message_Sent_">"Peyam Hat Şandin"</string>
     <string name="From">"Ji"</string>
-    <string name="Sent">"şandin"</string>
+    <string name="Sent">"Şandin"</string>
     <string name="REPLY">"BERSIV"</string>
     <string name="Delete_Message">"Vemirandina Peyama"</string>
     <string name="BLOCK">"DESTE"</string>
@@ -1035,29 +1035,29 @@
     <string name="Mass_Mastery">Mass Mastery</string>
     <string name="Gain_100_000_000_mass">Gain 100,000,000 mass</string>
     <string name="VET">VET</string>
-    <string name="Mute">Mute</string>
-    <string name="Unmute">Unmute</string>
-    <string name="Community">Community</string>
-    <string name="Buy">Buy</string>
-    <string name="Sell">Sell</string>
-    <string name="community_skin_requirement">You must purchase Enable Custom Skins to use community skins.</string>
-    <string name="You_can_purchase_this_community_skin_for_">You can purchase this community skin for</string>
-    <string name="VIEW_UPLOADER">VIEW UPLOADER</string>
-    <string name="POPULAR">POPULAR</string>
-    <string name="NEW">NEW</string>
+    <string name="Mute">Bêdeng</string>
+    <string name="Unmute">Bêdengkirinê rake</string>
+    <string name="Community">Civatî</string>
+    <string name="Buy">Kirrîn</string>
+    <string name="Sell">Firotin</string>
+    <string name="community_skin_requirement">Ji bo bikaranîna çermên civakê divê hûn Çermên Xweserkirî Çalak Bikin (Çermên Xweser Çalak Bike) bikirin.</string>
+    <string name="You_can_purchase_this_community_skin_for_">Hûn dikarin vê skin civakê bikirin</string>
+    <string name="VIEW_UPLOADER">LI XWEDIYÊ DINÊRE</string>
+    <string name="POPULAR">YA HERÎ GELEMPERÎ</string>
+    <string name="NEW">NŞH</string>
     <string name="Manage_Configurations">Manage Configurations</string>
     <string name="Leave_blank_for_all_uploaders_">Leave blank for all uploaders.</string>
     <string name="More___">More…</string>
-    <string name="This_cannot_be_used_in_FFA_Classic_">This cannot be used in FFA Classic.</string>
-    <string name="ENEMY">ENEMY</string>
-    <string name="ALLY">ALLY</string>
-    <string name="Rename">Rename</string>
-    <string name="Set_friendly_name_">Set friendly name.</string>
-    <string name="Leave_blank_for_none_">Leave blank for none.</string>
-    <string name="Vote_Kick">Kick Player</string>
-    <string name="FONT">FONT</string>
-    <string name="CIRCLE">CIRCLE</string>
-    <string name="SQUARES">SQUARES</string>
+    <string name="This_cannot_be_used_in_FFA_Classic_">Ev nikare di FFA Classic de were bikar anîn.</string>
+    <string name="ENEMY">DIJMIN</string>
+    <string name="ALLY">HEVKAR</string>
+    <string name="Rename">Guhertina navî.</string>
+    <string name="Set_friendly_name_">Navekî dostane destnîşan bike.</string>
+    <string name="Leave_blank_for_none_">Ji bo tiştek tune be vala bihêle.</string>
+    <string name="Vote_Kick">Lîstikvanê Kickê</string>
+    <string name="FONT">FONTE</string>
+    <string name="CIRCLE">ÇEMBER</string>
+    <string name="SQUARES">ÇARGOŞE</string>
     <string name="TRICK_MODE">TRICK MODE</string>
     <string name="ICE_SPLIT">ICE SPLIT</string>
     <string name="TRICK_SPLIT">TRICK SPLIT</string>
