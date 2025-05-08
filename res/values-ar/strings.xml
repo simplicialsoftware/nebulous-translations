@@ -111,18 +111,18 @@
     <string name="Warning">"تحذير"</string>
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
-    <string name="REQUEST_FRIEND">"إرسال طلب صداقة"</string>
-    <string name="Private">"خاص"</string>
-    <string name="Public">"عام"</string>
+    <string name="REQUEST_FRIEND">"إرسال طلب صداقة."</string>
+    <string name="Private">"خـاصة"</string>
+    <string name="Public">"عـامة"</string>
     <string name="Bot">"لاعب آلي"</string>
     <string name="You">"أنت"</string>
-    <string name="This_player_is_a_bot">"هذا اللاعب آلي"</string>
-    <string name="This_player_is_not_signed_in">"هذا اللاعب لم يسجل الدخول"</string>
+    <string name="This_player_is_a_bot">"هذا اللاعب آلي."</string>
+    <string name="This_player_is_not_signed_in">"هذا اللاعب لم يسجل الدخول."</string>
 
     <string name="Online">"مُـتَـصِـل"</string>
     <string name="Unknown">"غير معروف"</string>
     <string name="Offline">"غـيـر مُـتَـصِـل"</string>
-    <string name="Achievement_Earned">"تم تحقيق الإنجاز"</string>
+    <string name="Achievement_Earned">"تم تحقيق الإنجاز!"</string>
     <string name="REFRESH">"تحديث"</string>
     <string name="DONE">"تَـم"</string>
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
@@ -143,7 +143,7 @@
     <string name="SURVIVAL">"النجاة"</string>
 
 
-    <string name="Clan_XP">"نقاط خبرة العشيرة"</string>
+    <string name="Clan_XP">"نقاط خبرة العشيرة."</string>
 
 
     <string name="Dot_Nibbler">"قاضم النقاط"</string>
@@ -406,10 +406,10 @@
 
 
     <string name="Arena">"تَحدي!"</string>
-    <string name="Enter_the_Arena">"دخول تحدي"</string>
+    <string name="Enter_the_Arena">"دخول تحدي:"</string>
 
 
-    <string name="Purchase_History">"سِجِل المشتريات"</string>
+    <string name="Purchase_History">"سِجِل المشتريات."</string>
 
     <string name="Purchases_Unavailable_">"المُشتريات غير متوفرة!"</string>
     <string name="You_can_purchase_this_skin_for">"يمكنك شراء هذه الصورة!"</string>
@@ -450,8 +450,8 @@
     <string name="BIGGEST">"أكبر"</string>
 
 
-    <string name="Copy_ID">"نسخ رقم الهوية"</string>
-    <string name="View_Profile">"عرض الصفحة الشخصية"</string>
+    <string name="Copy_ID">"نسخ رقم الهوية!"</string>
+    <string name="View_Profile">"عرض الصفحة الشخصية!"</string>
     <string name="Send_Message">"إرسال رسالة"</string>
     <string name="Account_ID">"رقم هوية الحساب"</string>
     <string name="Player_Name">"اسم اللاعب"</string>
