@@ -197,12 +197,12 @@
     <string name="Absorb_100_000_dots">"Sammle 100.000 Punkte"</string>
     <string name="Absorb_1_000_000_dots">"Sammle 1.000.000 Punkte"</string>
 
-    <string name="Absorb_4_blobs_quickly">"Absorbiere 4 Blobs schnell nacheinander"</string>
-    <string name="Absorb_8_blobs_quickly">"Absorbiere 8 Blobs schnell nacheinander"</string>
-    <string name="Absorb_16_blobs_quickly">"Absorbiere 16 Blobs schnell nacheinander"</string>
-    <string name="Absorb_24_blobs_quickly">"Absorbiere 24 Blobs schnell nacheinander"</string>
-    <string name="Absorb_32_blobs_quickly">"Absorbiere 32 Blobs schnell nacheinander"</string>
-    <string name="Absorb_40_blobs_quickly">"Absorbiere 40 Blobs schnell nacheinander"</string>
+    <string name="Absorb_4_blobs_quickly">"Absorbiere 4 Blobs schnell"</string>
+    <string name="Absorb_8_blobs_quickly">"Absorbiere 8 Blobs schnell"</string>
+    <string name="Absorb_16_blobs_quickly">"Absorbiere 16 Blobs schnell"</string>
+    <string name="Absorb_24_blobs_quickly">"Absorbiere 24 Blobs schnell"</string>
+    <string name="Absorb_32_blobs_quickly">"Absorbiere 32 Blobs schnell"</string>
+    <string name="Absorb_40_blobs_quickly">"Absorbiere 40 Blobs schnell"</string>
 
     <string name="Absorb_8_player_blobs_without_restarting">"Absorbiere 8 Spieler-Blobs ohne neu zu starten"</string>
     <string name="Absorb_16_player_blobs_without_restarting">"Absorbiere 16 Spieler-Blobs ohne neu zu starten"</string>
