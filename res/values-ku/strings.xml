@@ -891,7 +891,7 @@
     <string name="CO_LEADER">CO LEADER</string>
     <string name="CLAN_HOUSE">Malê Klanê</string>
 
-    <string name="ROOM">ROOM</string>
+    <string name="ROOM">JÛRE</string>
     <string name="EXPERIMENTAL">CERİBANDİNİ</string>
     <string name="members">endamên</string>
     <string name="Delete_ALL_Messages_">HEMÛ Peyam Jêbirin!</string>
@@ -981,21 +981,21 @@
     <string name="Second_Pet">Te destûr dide ku du heywanên malê bi heman demê hebin!</string>
     <string name="This_item_requires">Ev tişt hewce dike</string>
     <string name="not_enough_plasma">Plasma ya kêm e.</string>
-    <string name="MARK_UNREAD">MARK UNREAD</string>
+    <string name="MARK_UNREAD">NEXWENDİYE MARKE BİKE</string>
     <string name="ROYALE_DUO">ROYALE DUO</string>
-    <string name="Choose_Partner">Choose Partner</string>
-    <string name="REMOVE_FRIEND">REMOVE FRIEND</string>
-    <string name="Creator">Creator</string>
-    <string name="PROFILE_COLOR">PROFILE COLOR</string>
-    <string name="Enable_Colors">Enable Colors</string>
-    <string name="Particles">Particles</string>
-    <string name="Clan_Particle_Uploads">Clan Particle Uploads</string>
-    <string name="Particle_Uploads">Particle Uploads</string>
-    <string name="Blob_Outline">Blob Outline</string>
+    <string name="Choose_Partner">Hevrêkê Hilbijêre</string>
+    <string name="REMOVE_FRIEND">HEVALÊ JÊ BİBE</string>
+    <string name="Creator">Çêker</string>
+    <string name="PROFILE_COLOR">RENGÊ PROFİLE</string>
+    <string name="Enable_Colors">RENGÊN ÇALAK BİKE</string>
+    <string name="Particles">Parçecik</string>
+    <string name="Clan_Particle_Uploads">Barkirina Parçecikên Klanê</string>
+    <string name="Particle_Uploads">Barkirina Parçecik</string>
+    <string name="Blob_Outline">Blobe Tendura</string>
     <string name="Game_Border">Game Border</string>
-    <string name="Select_some_text_first">Select some text first</string>
-    <string name="Save_the_profile_first">Save the profile first</string>
-    <string name="Birthday">Birthday</string>
+    <string name="Select_some_text_first">Pêşî hin nivîs hilbijêre</string>
+    <string name="Save_the_profile_first">Pêşî profile tomar bike</string>
+    <string name="Birthday">Rojbûn</string>
     <string name="Mass_Boost">Mass Boost</string>
 
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Mass Boost does not work in arenas, tournaments, or clan wars!</string>

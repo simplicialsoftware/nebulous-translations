@@ -1273,22 +1273,21 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="The_winner_will_receive_x_plasma_">Il vinvitore riceverà %s plasma!</string>
     <string name="admin_commands">"
 Comandi:
-!kick [0–31]
-!reset
-!welcome {messaggio}
-!difficulty [0-3] o [1-4] in Campagna
-!hidden
-!guests
-!slowchat
-!pausechat
-!mute {id}
-!admin {id}
-!allow {id}
-!allow reset
-!team [1-4] {id} (Solo nelle modalità a squadre)
-!winner
-!stats
-!info"
+!kick [0–31] - Espellere un giocatore
+!reset - Riavviare il gioco
+!welcome {messaggio di benvenuto}
+!difficulty [0-3] o [1-4] alla Campagna
+!hidden - Cambiare alla stanza nascosta
+!slowchat - Cambiare alla chat lenta
+!pausechat - Pausa la chat per un tempo
+!mute {id} - Silenziare a un giocatore
+!admin {id} - Aggiungare un'admin della stanza
+!allow {id} - Concedere l'autorizzazione a un giocatore
+!allow reset - Reimposta le autorizzazioni
+!team [1-4] {id} - Solo nelle modalità a squadre
+!winner - Vincitore d'una partida a tempo
+!stats - Statistiche della sessione
+!info - Informazioni della stanza
 </string>
     <string name="ID_Sort">Ricerca ID</string>
     <string name="Master_Tamer">Maestro Domatore</string>

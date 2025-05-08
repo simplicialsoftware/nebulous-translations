@@ -23,11 +23,11 @@
     <string name="Loading___">"Carregando…"</string>
     <string name="Connecting___">"Conectando…"</string>
 
-    <string name="Are_You_Sure_">"Você tem certeza?"</string>
+    <string name="Are_You_Sure_">"Você tem Certeza?"</string>
     <string name="Yes">"Sim"</string>
     <string name="No">"Não"</string>
     <string name="WAIT">"AGUARDE…"</string>
-    <string name="Must_Specify_Name_">"É Necessário especificar um nome."</string>
+    <string name="Must_Specify_Name_">"É Necessário Especificar um Nome."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
 
@@ -35,7 +35,7 @@
     <string name="_Alias_">" Apelido "</string>
     <string name="_Score_">" Pontos "</string>
     <string name="Score__">"Pontuação: "</string>
-    <string name="Recombine_">"Recombinar em: "</string>
+    <string name="Recombine_">"Recombinar: "</string>
     <string name="WINNER_">"VENCEDOR:"</string>
     <string name="IDLE">"INATIVO"</string>
     <string name="Name_Invalid_">"Nome inválido."</string>
@@ -45,7 +45,7 @@
     <string name="PLAYING">"JOGANDO"</string>
     <string name="MULTIPLAYER">"MULTIJOGADOR"</string>
 
-    <string name="JOIN">"ENTRAR"</string>
+    <string name="JOIN">"JUNTAR"</string>
 
 
     <string name="Lobby_Name">"Nome da Sala"</string>
@@ -149,7 +149,7 @@
     <string name="Dot_Nibbler">"Mordiscador de Pontos"</string>
     <string name="Dot_Muncher">"Caçador de Pontos"</string>
     <string name="Dot_Eater">"Comedor de Pontos"</string>
-    <string name="Dot_Gulper">"Comilão de Pontos"</string>
+    <string name="Dot_Gulper">"Engolidor de Pontos"</string>
     <string name="Dot_Gobbler">"Guloso de Pontos"</string>
     <string name="Dot_Devourer">"Devorador de Pontos"</string>
     <string name="Dot_Gormandizer">"Gordice de Pontos"</string>
@@ -160,7 +160,7 @@
     <string name="Mega_Gulp">"Mega Devorador"</string>
     <string name="Ultra_Gulp">"Ultra Devorador"</string>
     <string name="Monster_Gulp">"Devorador Monstruoso"</string>
-    <string name="Ludicrous_Gulp">"Devorador Absurdo"</string>
+    <string name="Ludicrous_Gulp">"Devorador Ridiculo"</string>
 
     <string name="Blobicide">"Blobicídio"</string>
     <string name="Blobtrocity">"Blobtrocidade"</string>
@@ -179,7 +179,7 @@
     <string name="Perfection">"Perfeição"</string>
     <string name="Single_Handedly">"Uma só Tacada"</string>
     <string name="Dodgey">"Espertalhão"</string>
-    <string name="Self_Contained">"Auto-Suficiente"</string>
+    <string name="Self_Contained">"Autônomo"</string>
     <string name="Survivalist">"Sobrevivente"</string>
     <string name="Ultramassive">"Ultramassivo"</string>
     <string name="Rapid_Ascension">"Ascensão Rápida"</string>
@@ -202,13 +202,13 @@
     <string name="Absorb_32_blobs_quickly">"Absorva 32 blobs rapidamente"</string>
     <string name="Absorb_40_blobs_quickly">"Absorva 40 blobs rapidamente"</string>
 
-    <string name="Absorb_8_player_blobs_without_restarting">"Absorva 8 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_16_player_blobs_without_restarting">"Absorva 16 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_32_player_blobs_without_restarting">"Absorva 32 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_48_player_blobs_without_restarting">"Absorva 48 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_80_player_blobs_without_restarting">"Absorva 80 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_160_player_blobs_without_restarting">"Absorva 160 blobs de jogadores sem reiniciar"</string>
-    <string name="Absorb_240_player_blobs_without_restarting">"Absorva 240 blobs de jogadores sem reiniciar"</string>
+    <string name="Absorb_8_player_blobs_without_restarting">"Absorva 8 blobs dos jogadores sem reiniciar"</string>
+    <string name="Absorb_16_player_blobs_without_restarting">"Absorva 16 blobs dos jogadores sem reiniciar"</string>
+    <string name="Absorb_32_player_blobs_without_restarting">"Absorva 32 blobs dos jogadores sem reiniciar"</string>
+    <string name="Absorb_48_player_blobs_without_restarting">"Absorva 48 blobs dos jogadores sem reiniciar"</string>
+    <string name="Absorb_80_player_blobs_without_restarting">"Absorva 80 blobs dos jogadores sem reiniciar"</string>
+    <string name="Absorb_160_player_blobs_without_restarting">"Absorva 160 blobs dos jogadores sem reiniciar"</string>
+    <string name="Absorb_240_player_blobs_without_restarting">"Absorva 240 blobs dos jogadores sem reiniciar"</string>
 
     <string name="Reach_a_score_of_1_000">"Atinja uma pontuação de 1.000"</string>
     <string name="Reach_a_score_of_5_000">"Atinja uma pontuação de 5.000"</string>
@@ -335,7 +335,7 @@
     <string name="_in_a_FFA_Game">" em um Jogo de FFA"</string>
     <string name="_in_a_Teams_Game">" em um Jogo de Equipes"</string>
     <string name="_dots">" pontos"</string>
-    <string name="_player_blobs">" blobs de jogadores"</string>
+    <string name="_player_blobs">" blobs dos jogadores"</string>
     <string name="Absorb_">"Absorver "</string>
     <string name="Collect_">"Coletar "</string>
 
@@ -531,7 +531,7 @@
     <string name="DOM_Domination">"Dominador da Dominação"</string>
     <string name="DOM_Hat_Trick">"Hat-Trick da Dominação"</string>
     <string name="Win_by_50_points_in_a_DOM_game_">"Vencer por 50 pontos em um jogo de Dominação."</string>
-    <string name="Score_33_points_in_a_single_DOM_game_">"Vencer 33 pontos em um único jogo Dominação"</string>
+    <string name="Score_33_points_in_a_single_DOM_game_">"Marcar 33 pontos em um único jogo Dominação"</string>
     <string name="Win_a_Domination_Game">"Ganhar um jogo de Dominação"</string>
     <string name="Select_Team">"Selecionar Equipe"</string>
     <string name="MANAGE_TEAMS">"GERENCIAR EQUIPES"</string>
@@ -564,7 +564,7 @@
     <string name="Leave_Game">"Sair do Jogo"</string>
     <string name="Remove_Friend">"Remover Amigo"</string>
     <string name="Remove_Clan_Member">"Remover Membro do Clã"</string>
-    <string name="Flag_lobby_as_inappropriate">"Denunciar sala como inapropriada "</string>
+    <string name="Flag_lobby_as_inappropriate">"Denunciar sala como inapropriada"</string>
     <string name="Promote_Clan_Member">"Promover Membro do Clã"</string>
     <string name="Leave_Clan">"Sair do Clã"</string>
     <string name="Candy_Hoarder">"Colecionador de Doces"</string>
@@ -625,9 +625,9 @@
     <string name="Love_Nebulous_">"Ama o Nebulous?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Por favor, apoie o Nebulous avaliando-o."</string>
     <string name="MAYHEM_MODE">"MODO MAYHEM"</string>
-    <string name="Times_Teleported_">"Vezes Teleportado:"</string>
-    <string name="Powerups_Used_">"Poderes Usado:"</string>
-    <string name="Power_Hungry">"Esfomeado de Poderes"</string>
+    <string name="Times_Teleported_">"Vezes Teletransportado:"</string>
+    <string name="Powerups_Used_">"Poderes Usados:"</string>
+    <string name="Power_Hungry">"Faminto de Poderes"</string>
     <string name="Over_9000">"Mais de 9.000"</string>
     <string name="Omnipresence">"Onipresença"</string>
 
@@ -660,13 +660,13 @@
     <string name="Decline">"Recusar"</string>
     <string name="Challenge_Declined">"Desafio Recusado"</string>
     <string name="Spectators_">"Espectadores:"</string>
-    <string name="Nebula_Collector">"Coletor de Nebulas"</string>
-    <string name="Nebula_Hoarder">"Colecionador de Nebulas"</string>
-    <string name="Nebula_Mogul">"Magnata de Nebulas"</string>
-    <string name="Collect_1_000_nebulas_">"Colete 1.000 nebulas."</string>
-    <string name="Collect_5_000_nebulas_">"Colete 5.000 nebulas."</string>
-    <string name="Collect_10_000_nebulas_">"Colete 10.000 nebulas."</string>
-    <string name="nebulas_">"nebulas."</string>
+    <string name="Nebula_Collector">"Coletor de Nebulosas"</string>
+    <string name="Nebula_Hoarder">"Colecionador de Nebulosas"</string>
+    <string name="Nebula_Mogul">"Magnata de Nebulosas"</string>
+    <string name="Collect_1_000_nebulas_">"Colete 1.000 nebulosas."</string>
+    <string name="Collect_5_000_nebulas_">"Colete 5.000 nebulosas."</string>
+    <string name="Collect_10_000_nebulas_">"Colete 10.000 nebulosas."</string>
+    <string name="nebulas_">"nebulosas."</string>
     <string name="Incompatible_versions_">"Versões Incompatíveis"</string>
     <string name="Update_Available_">"Atualização Disponível!"</string>
     <string name="VIEW_INVITES">"VER CONVITES"</string>
@@ -964,7 +964,7 @@ Regras do Nebulous\n
 13. Não troque os Clãs do Nebulous por dinheiro ou plasma.\n
 14. Não faça spam no chat ou e-mail.\n
         \n
-Se você não cumprir nenhuma dessas regras, sua conta poderá ser banida.\n
+Caso você não cumpra nenhuma dessas regras, sua conta poderá ser banida.\n
 (O tempo da punição pode ser de algumas horas até o banimento permanente, dependendo da situação e da gravidade do problema).\n
 \n
 Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
@@ -982,7 +982,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="Kill_All_Bots">Mate Todos os Bots</string>
     <string name="Survive">Sobreviva</string>
     <string name="Mission_d_Complete">Missão %d Completa!</string>
-    <string name="Mission_d_Failed">Missão %d Falida!</string>
+    <string name="Mission_d_Failed">Missão %d Falhada!</string>
     <string name="Next_Mission">Próxima Missão</string>
     <string name="Objective">Objetivo</string>
     <string name="GAME">JOGO</string>
@@ -1018,7 +1018,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="Save_the_profile_first">Salve o perfil primeiro</string>
     <string name="Birthday">Aniversário</string>
     <string name="Mass_Boost">Impulso de Massa</string>
-    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">O Impulso de Massa não funciona em arenas, torneios, e Guerras de Clãs!</string>
+    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">O Impulso de Massa não funciona em arenas, torneios e Guerras de Clãs!</string>
     <string name="ArenaDescriptionPure">SEM autoclick ou ultraclick. Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
     <string name="_1v1_Pure">1v1 Puro</string>
     <string name="Allow_Ultraclick">Permitir Ultraclick</string>
@@ -1026,7 +1026,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="Challenges_Won_">Desafios Vencidos:</string>
     <string name="trophy_info">Os troféus são concedidos no final da temporada de cada arena ou arena equipe para o 1º, 2º e 3º lugar. Os troféus serão concedidos apenas em regiões ativas com muitos jogadores.</string>
     <string name="BLOCKED">BLOQUEADO</string>
-    <string name="CLAN_WAR_HISTORY">Histórico de Guerras de Clãs</string>
+    <string name="CLAN_WAR_HISTORY">HISTÓRICO DE GUERRAS DE CLÃS</string>
     <string name="Particle">Partícula</string>
     <string name="Privacy">Privacidade</string>
     <string name="EULA">CLUF</string>
@@ -1057,16 +1057,16 @@ Em Revisão (Amarelo): Significa que a skin está sendo revisada, você deve agu
 
 Aprovado (Verde): A skin pode ser vista por outros jogadores.
 
-Reembolsado (Laranja): Você recebeu o reembolso da skin pois não atende aos padrões estabelecidos, você deve selecionar alguma outra imagem que não seja a mesma.
+Reembolsado (Laranja): você recebeu o reembolso da skin, pois ela não atende aos padrões estabelecidos. Você deve selecionar uma nova imagem que não seja a mesma.
 
-Rejeitado (Vermelho): Isso significa que sua skin não poderá ser vista por outros jogadores, porque possui conteúdo inadequado, seu plasma não será devolvido.
+Rejeitado (Vermelho): isso significa que sua skin não poderá ser visualizada por outros jogadores, pois contém conteúdo inadequado; seu plasma não será devolvido.
 
 
-PORQUE A MINHA SKIN PERSONALIZADA FOI REEMBOLSADA OU REJEITADA?
+POR QUE A MINHA SKIN PERSONALIZADA FOI REEMBOLSADA OU REJEITADA?
 
 Se a sua skin personalizada for reembolsada, não a compre novamente, pois ela será rejeitada e você perderá seus plasmas.
 
-Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personalizadas. Se você comprar uma skin com isso, ela será reembolsada ou rejeitada:
+Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se você comprar uma skin que contenha esses elementos, ela será reembolsada ou rejeitada:
 - Conteúdo e/ou alguma referência Sexual
 - Skins/Arte do Nebulous Não Modificadas
 - Conteúdo Gore (horror)/Suicídio
@@ -1083,7 +1083,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="PLAY_ONLINE_">JOGAR ONLINE!</string>
 
     <string name="Absorb_10_000_000_dots">Absorva 10,000,000 pontos</string>
-    <string name="Dot_Deity">Divino de Pontos</string>
+    <string name="Dot_Deity">Divindade dos Pontos</string>
     <string name="Mass_Mastery">Domínio de Massa</string>
     <string name="Gain_100_000_000_mass">Obtenha 100,000,000 de massa</string>
     <string name="VET">VET</string>
@@ -1122,14 +1122,14 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Hooked">Enganchado</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Seja puxado por um poder de gancho por 10 segundos</string>
     <string name="Pack">Pacote</string>
-    <string name="Skin_Pack">Pacote de Skin</string>
-    <string name="SKIN_PACK">PACOTE DE SKIN</string>
+    <string name="Skin_Pack">Pacote de Skins</string>
+    <string name="SKIN_PACK">PACOTE DE SKINS</string>
     <string name="HALLOWEEN">DIA DAS BRUXAS</string>
     <string name="pack_info">Depois que você comprar este pacote de skin, suas skins exclusivas aparecerão na parte superior dos menus de seleção de skin.</string>
-    <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins, Masc, Bonés EXCLUSIVOS e Mais!</string>
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins, Mascote, Bonés EXCLUSIVOS e Mais!</string>
     <string name="BUY_NOW_">COMPRAR AGORA!</string>
     <string name="already_purchased">Você ou a pessoa para qual você está comprando já possui isto.</string>
-    <string name="Halo_Animations">Animações da Aréola</string>
+    <string name="Halo_Animations">Animações da Auréola</string>
     <string name="Trick_Notifications">Notificações do Modo Trick</string>
     <string name="Channel">Canal</string>
     <string name="Choose_Text_Size">Escolher Tamanho do Texto</string>
@@ -1176,7 +1176,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Invites">Convites</string>
     <string name="Show_Spectator_Count">Mostrar Contagem de Espectadores</string>
     <string name="TRY_IT_">EXPERIMENTÁ-LA!</string>
-    <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Você pode experimentar esta skin durante uma jogada. Depois que você morrer ou trocar, a skin irá sumir. Quando você estiver experimentando a skin, ninguém mais poderá vê-lá.\nPreço: %s plasma.</string>
+    <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Você pode experimentar esta skin durante uma jogada. Depois que você morrer ou trocar, a skin irá sumir. Quando você estiver experimentando a skin, ninguém mais poderá vê-la.\nPreço: %s plasma.</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Você precisa comprar um pacote para usar isto.</string>
     <string name="GET_PACK">OBTER PACOTE</string>
     <string name="Position_in_queue">Posição na fila</string>
@@ -1218,7 +1218,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Invalid_Clan_ID_">ID do Clã Inválido.</string>
     <string name="MUTED">SILENCIADO</string>
     <string name="SKIN">SKIN</string>
-    <string name="Choose_Skin_Size">Escolha o tamanho da Skin</string>
+    <string name="Choose_Skin_Size">Escolha o Tamanho da Skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Os outros jogadores não poderão te ouvir!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Conceder a permissão para ativar a gravação de voz.</string>
     <string name="voice_chat_prompt">A classificação do conteúdo do aplicativo pode mudar com o chat por voz ativado. Para um áudio melhor, use um fone de ouvido.</string>
@@ -1309,7 +1309,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="skin_warning" translatable="true" tools:ignore="Untranslatable">
         "A sua skin não foi aprovada. Aqui estão algumas das razões mais comuns. Você NÃO deve enviar:
 
-		1. Uma foto de uma pessoa como skin da comunidade. Ela só poderá ser aceita como skin que não seja da comunidade.
+		1. Uma foto de uma pessoa não pode ser usada como skin da comunidade; ela só será aceita se não pertencer à comunidade.
 		2. Uma foto de alguém sem camisa.
 		3. Alguém em uma pose ou cena imprópria.
 		4. Representações de álcool ou drogas (incluindo maconha)
@@ -1366,7 +1366,7 @@ Comandos:
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Permissões ausentes</string>
     <string name="DELETE_ACCOUNT">EXCLUIR CONTA</string>
-    <string name="delete_prompt">Você tem certeza que quer excluir sua conta? Esta ação é PERMANENTE e NÃO PODERÁ SER DESFEITA!</string>
+    <string name="delete_prompt">Você tem certeza de que quer excluir sua conta? Esta ação é PERMANENTE e NÃO PODERÁ SER DESFEITA!</string>
 
 
     <string name="Type">Digite</string>
@@ -1397,13 +1397,13 @@ Comandos:
     <string name="SUDDEN_ATTACK">ATAQUE REPENTINO</string>
 
     <string name="sign_in_explanation" translatable="true">"
-Faça login para acessar o modo multijogador. Você poderá:
+Faça login para acessar o modo multijogador. Assim, você poderá:
 
-- Jogar e se comunicar com outros jogadores de todo o mundo
-- Compartilhar seu progresso com outros
-- Criar e decorar um perfil
-- Comprar plasma na loja
-- Enviar skins criadas pelos usuários
+- Jogar e se comunicar com jogadores de todo o mundo;
+- Compartilhar seu progresso com outros;
+- Criar e personalizar seu perfil;
+- Comprar plasma na loja;
+- Enviar skins criadas por usuários.
 
 Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
     </string>

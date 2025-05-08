@@ -45,7 +45,7 @@
     <string name="PLAYING">"खेल रहे है"</string>
     <string name="MULTIPLAYER">"मल्टीप्लेयर"</string>
 
-    <string name="JOIN">"शामिल हों"</string>
+    <string name="JOIN">"जोड़ना"</string>
 
 
     <string name="Lobby_Name">"लॉबी का नाम"</string>
@@ -55,7 +55,7 @@
 
 
     <string name="SERVER">"सर्वर"</string>
-    <string name="Joining_game_in_">"में खेल में शामिल होने से "</string>
+    <string name="Joining_game_in_">"खेल में शामिल होने जा रहा हूँ..."</string>
     <string name="Game_Full">"खेल पूर्ण"</string>
     <string name="US_East">"अमेरिका के पूर्वी"</string>
     <string name="US_West">"अमेरिका के पश्चिमी"</string>
@@ -88,7 +88,7 @@
     <string name="Green_Team">"हरी टीम"</string>
     <string name="Blue_Team">"नीली टीम"</string>
     <string name="Yellow_Team">"पीली टीम"</string>
-    <string name="Signed_in_as_">"इस रूप में साइन इन किया:"</string>
+    <string name="Signed_in_as_">"____ के रूप में साइन इन हैं।</string>
     <string name="Not_signed_in_">"प्रवेश नहीं किया!"</string>
     <string name="SET_NAME">"नाम भरें"</string>
     <string name="SIGN_OUT">"साइन आउट"</string>
@@ -839,7 +839,7 @@
     <string name="Cannot_block_more_than_x_accounts_">"की तुलना में अधिक ब्लॉक नहीं कर सकता %d खातों।"</string>
     <string name="This_is_you_">"यह तुम हो।"</string>
     <string name="Win_a_Paint_Game">"जीतो एक पेंट खेल"</string>
-    <string name="Whiteout">"whiteout"</string>
+    <string name="Whiteout">"व्हाइटआउट"</string>
     <string name="Speed_Painter">"स्पीड पेंटर"</string>
     <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"0 स्कोर वाले सभी विरोधियों के साथ एक पेंट खेल जीतो।"</string>
     <string name="Win_a_Paint_game_in_60_seconds_or_less_">"60 सेकंड या उससे कम में एक पेंट खेल जीतो।"</string>
@@ -888,7 +888,7 @@
     <string name="REMOVE">हटाना</string>
     <string name="BAN">बंद</string>
     <string name="MODERATORS">मध्यस्थों</string>
-    <string name="ALL_CLAN">ALL\nCLAN</string>
+    <string name="ALL_CLAN">सभी\nकबीले</string>
     <string name="CO_LEADER">सीओ नेता</string>
     <string name="CLAN_HOUSE">वंश मकान</string>
 

@@ -151,7 +151,7 @@
     <string name="Dodgey">"Dodgey:"</string>
     <string name="Self_Contained">"Self-Contained:"</string>
     <string name="Survivalist">"Survivalist:"</string>
-    <string name="Ultramassive">"Ultramassive:"</string>
+    <string name="Ultramassive">"Napakalaki"</string>
     <string name="Rapid_Ascension">"Mabilisang Asensiyon:"</string>
     <string name="Revenge">"Paghihiganti:"</string>
     <string name="Doge_Pound">"Doge Pound:"</string>
@@ -217,8 +217,8 @@
     <string name="GOAL_">"GOAL!:"</string>
     <string name="SOCCER">"SOCCER:"</string>
     <string name="DRAW">"PATAS:"</string>
-    <string name="Clan_Name">"Clan Name:"</string>
-    <string name="Clan">"Clan:"</string>
+    <string name="Clan_Name">"Pangalan ng Clan"</string>
+    <string name="Clan">"Angkan"</string>
     <string name="JOIN_CLAN">"SUMALI SA CLAN:"</string>
     <string name="JOIN_RANDOM_CLAN">"SUMALI SA KAHIT ANONG CLAN:"</string>
     <string name="LEAVE_CLAN">"UMALIS SA CLAN:"</string>
@@ -249,7 +249,7 @@
     <string name="CTF_Domination">"CTF Domination:"</string>
     <string name="CTF_Hat_Trick">"CTF Hat-Trick:"</string>
     <string name="Survival_Domination">"Survival Domination:"</string>
-    <string name="I_Will_Survive">"I Will Survive:"</string>
+    <string name="I_Will_Survive">"Mabubuhay ako"</string>
     <string name="Soccer_Domination">"Soccer Domination:"</string>
     <string name="Soccer_Hat_Trick">"Soccer Hat-Trick:"</string>
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Manalo sa pamamagitan ng 2,500 puntos sa isang larong FFA Time:"</string>
@@ -403,8 +403,8 @@
     <string name="Flag">"Bandila"</string>
     <string name="Win_10_Clan_Wars">"Manalo ng 10 Clan Wars"</string>
     <string name="Win_100_Clan_Wars">"Manalo ng 100 Clan Wars"</string>
-    <string name="Clan_Commander">"Clan Commander"</string>
-    <string name="Clan_General">"Clan General"</string>
+    <string name="Clan_Commander">"Kumander ng Klan"</string>
+    <string name="Clan_General">"Heneral ng Klan"</string>
     <string name="Clan_Wars_Won_">"Mga napanalunang Clan Wars:"</string>
     <string name="Arenas_Won_">"Mga napanalunang Arena:"</string>
     <string name="Arena_Mode">"Arena Mode"</string>
@@ -1012,8 +1012,8 @@
     <string name="POSITION_CANCEL_BUTTON">POSISYON SA CANCEL BUTTON</string>
     <string name="INVISIBILITY">INVISIBILITY</string>
     <string name="Set_Skin">I-Set Skin</string>
-    <string name="Primary">Primary</string>
-    <string name="Secondary">Secondary</string>
+    <string name="Primary">Pangunahin</string>
+    <string name="Secondary">Pangalawa</string>
     <string name="Both">Parehas</string>
     <string name="Enable__Multiskin">"Enable\nMultiskin"</string>
     <string name="MULTISKIN">MULTISKIN</string>
@@ -1153,8 +1153,8 @@ Commands:
     <string name="Attackers">Mga Umaatake</string>
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Nawawalang Permissions</string>
-    <string name="DELETE_ACCOUNT">I-DELETE ACCOUNT</string>
-    <string name="delete_prompt">Sigurado ka bang gusto mong i-delete ang iyong account? Ito ay PERMANENTE at HINDI NA MAIBABALIK!</string>
+    <string name="DELETE_ACCOUNT">TANGGALIN ANG ACCOUNT</string>
+    <string name="delete_prompt">Sigurado ka bang gusto mong tanggalin ang iyong account? Ito ay PERMANENTE at HINDI NA MAIBABALIK!</string>
 
 
     <string name="Type">Type</string>
