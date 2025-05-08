@@ -11,7 +11,7 @@
     <string name="Players">"Players"</string>
     <string name="Control_">"Control:"</string>
     <string name="CLOSE">"CLOSE"</string>
-    <string name="Stick_Size_">"Stick Size:"</string>
+    <string name="Game_Size_">"Game Size:"</string>
     <string name="Stick_Margin_">"Stick Margin:"</string>
     <string name="Button_Size_">"Button Size:"</string>
     <string name="Button_Margin_">"Button Margin:"</string>
@@ -35,7 +35,7 @@
     <string name="Are_You_Sure_">"Are you sure?"</string>
     <string name="Yes">"Yes"</string>
     <string name="No">"No"</string>
-    <string name="WAIT">"WAIT…"</string>
+    <string name="WAIT">"WAIT"</string>
     <string name="Must_Specify_Name_">"Must specify name."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Content rating of the app may change when finding groups."</string>
@@ -63,7 +63,7 @@
     <string name="Hidden">"Hidden"</string>
 
 
-    <string name="SERVER">"SERVER"</string>
+    <string name="Server:">"Server:"</string>
     <string name="Joining_game_in_">"Joining game in "</string>
     <string name="Game_Full">"Game Full"</string>
     <string name="US_East">"Central America"</string>
@@ -93,17 +93,17 @@
 
 
     <string name="ACCOUNT">"ACCOUNT"</string>
-    <string name="Red_Team">"Red Team"</string>
-    <string name="Green_Team">"Green Team"</string>
-    <string name="Blue_Team">"Blue Team"</string>
-    <string name="Yellow_Team">"Yellow Team"</string>
+    <string name="Red_Team">"Red Team:"</string>
+    <string name="Green_Team">"Green Team:"</string>
+    <string name="Blue_Team">"Blue Team:"</string>
+    <string name="Yellow_Team">"Yellow Team:"</string>
     <string name="Signed_in_as_">"Signed in as:"</string>
     <string name="Not_signed_in_">"Not signed in!"</string>
     <string name="SET_NAME">"SET NAME"</string>
     <string name="SIGN_OUT">"SIGN OUT"</string>
     <string name="ACHIEVEMENTS">"ACHIEVEMENTS"</string>
     <string name="STATISTICS">"STATISTICS"</string>
-    <string name="XP_">"XP:"</string>
+    <string name="XP_">"XP"</string>
 
     <string name="Information">"Information"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"To use this skin you must earn the achievement"</string>
@@ -112,7 +112,7 @@
 
     <string name="Single_Player_Stats">"Single Player Stats"</string>
 
-    <string name="Level">"Level"</string>
+    <string name="Level">"Leve:l"</string>
     <string name="PAUSED">"PAUSED"</string>
 
 
