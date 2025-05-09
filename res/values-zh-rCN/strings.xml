@@ -1270,14 +1270,14 @@ Commands:
 !allow {id}
 !allow reset"
 </string>
-    <string name="ID_Sort">ID排序</string>
+    <string name="ID_Sort">身分_排序</string>
     <string name="Master_Tamer">超级驯兽师</string>
     <string name="Get_ALL_Pets_To_Level_100_">把所有宠物达到100级</string>
-    <string name="TAMER">TAMER</string>
+    <string name="TAMER">馴獸師</string>
     <string name="Allow_Recombine">允许重组</string>
     <string name="Defenders">防守者</string>
     <string name="Attackers">攻击者</string>
-    <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
+    <string name="MEGA_SPLIT">超級分割 六十四次</string>
     <string name="Missing_Permissions">欠缺权限</string>
     <string name="DELETE_ACCOUNT">删除帐户</string>
     <string name="delete_prompt">你確定要删除帐戶吗？删除后不能重啟这个帐戶，遊戏將重新开始</string>
@@ -1296,25 +1296,25 @@ Commands:
     <string name="x5_XP_1_Hour">5倍经验值 1小时</string>
     <string name="x5_XP_24_hours">5倍经验值 24小时</string>
     <string name="x5_XP_Permanent">5倍经验值 永久</string>
-    <string name="CAMPAIGN_2">CAMPAIGN 2</string>
+    <string name="CAMPAIGN_2">活動 2</string>
     <string name="XP_5x">5倍经验值</string>
-    <string name="India">India</string>
-    <string name="Tutorial">Tutorial</string>
+    <string name="India">印度</string>
+    <string name="Tutorial">教育指南</string>
     <string name="TYCOON">TYCOON</string>
-    <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
-    <string name="activate">Activate</string>
-    <string name="clan_id">CLAN ID</string>
-    <string name="language_change_warning">Changing the language will cause the app to restart.</string>
-    <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
-    <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
-    <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
+    <string name="CLAN_BACKGROUND_COLOR">氏族背景顏色</string>
+    <string name="activate">啟用設定</string>
+    <string name="clan_id">氏族身分</string>
+    <string name="language_change_warning">更改語言將導致應用程式重新啟動.</string>
+    <string name="xmas_gift_boost_message">您已收到一份為期 一 天的 三 倍血漿增強禮物!</string>
+    <string name="no_response">伺服器沒有回應. 請檢查網路連接.</string>
+    <string name="RAMADAN">齋戒月</string>
+    <string name="SUDDEN_ATTACK">突然襲擊</string>
+    <string name="_2x_skin_resolution">二倍皮膚分辨率</string>
+    <string name="pm">晚上</string>
+    <string name="You_are_already_friends_">你們已經是朋友了.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="Translator">翻譯者</string>
+    <string name="SUCCESS">成功</string>
 
 
     <string-array name="control_modes">
