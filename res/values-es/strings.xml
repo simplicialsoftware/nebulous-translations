@@ -2,10 +2,10 @@
     <string name="Players">"Jugadores"</string>
     <string name="Control_">"Control:"</string>
     <string name="CLOSE">"CERRAR"</string>
-    <string name="Stick_Size_">"Tamaño pad:"</string>
-    <string name="Stick_Margin_">"Ubicación pad:"</string>
-    <string name="Button_Size_">"Tamaño botones:"</string>
-    <string name="Button_Margin_">"Margen botones:"</string>
+    <string name="Stick_Size_">"Tamaño del pad:"</string>
+    <string name="Stick_Margin_">"Ubicación del pad:"</string>
+    <string name="Button_Size_">"Tamaño de botones:"</string>
+    <string name="Button_Margin_">"Margen de botones:"</string>
     <string name="Buttons_">"Botones:"</string>
     <string name="DEFAULTS">"POR DEFECTO"</string>
     <string name="WEEKLY">"SEMANAL"</string>
@@ -18,7 +18,7 @@
     <string name="OPTIONS">"OPCIONES"</string>
 
     <string name="Avatar_">"Skin:"</string>
-    <string name="Name_">"Nombre:"</string>
+    <string name="Name_">"Nombre: "</string>
 
     <string name="Loading___">"Cargando…"</string>
     <string name="Connecting___">"Conectando…"</string>
@@ -35,7 +35,7 @@
     <string name="_Alias_">" Apodo "</string>
     <string name="_Score_">" Puntuación "</string>
     <string name="Score__">"Puntuación: "</string>
-    <string name="Recombine_">"Juntarse: "</string>
+    <string name="Recombine_">"Recombinar: "</string>
     <string name="WINNER_">"GANADOR: "</string>
     <string name="IDLE">"INACTIVO"</string>
     <string name="Name_Invalid_">"Nombre Inválido "</string>
@@ -64,8 +64,8 @@
 
 
     <string name="SINGLE_PLAYER">"UN JUGADOR"</string>
-    <string name="Background_">"Fondo:"</string>
-    <string name="Difficulty_">"Dificultad:"</string>
+    <string name="Background_">"Fondo: "</string>
+    <string name="Difficulty_">"Dificultad: "</string>
     <string name="Delay_Disconnect">"Retraso en la desconexión"</string>
 
     <string name="Max_Players">"Jugadores máximos"</string>
@@ -151,8 +151,8 @@
     <string name="Dot_Eater">"Come puntos"</string>
     <string name="Dot_Gulper">"Tragón de puntos"</string>
     <string name="Dot_Gobbler">"Engulle puntos"</string>
-    <string name="Dot_Devourer">"Devorador de puntos"</string>
-    <string name="Dot_Gormandizer">"Goloso de puntos"</string>
+    <string name="Dot_Devourer">"Devorapuntos"</string>
+    <string name="Dot_Gormandizer">"Glotón de puntos"</string>
     <string name="Dot_Sommelier">"Catador de puntos"</string>
 
     <string name="Quadra_Gulp">"Tragón Cuádruple"</string>
@@ -168,7 +168,7 @@
     <string name="Blobastrophe">"Blobástrofe"</string>
     <string name="Blobihilation">"Blobiquilación"</string>
     <string name="Blobageddon">"Blobagedón"</string>
-    <string name="Blobocalypse">"Blobocalípsis"</string>
+    <string name="Blobocalypse">"Blobocalipsis"</string>
 
     <string name="Experienced_Nebulator">"Jugador experimentado"</string>
     <string name="Expert_Nebulator">"Jugador experto"</string>
@@ -241,12 +241,12 @@
     <string name="Longest_Life_">"Vida más larga:"</string>
     <string name="Games_Won_">"Partidas ganadas:"</string>
 
-    <string name="You_must_wait_until_the_end_of_the_round_">"Debes esperar hasta el final de la ronda"</string>
+    <string name="You_must_wait_until_the_end_of_the_round_">"Debes esperar hasta el final de la ronda "</string>
     <string name="Dont_show_again">"No mostrar de nuevo"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Se encontró un respaldo de modo Un Jugador con más experiencia. ¿Deseas restaurarlo?"</string>
 
     <string name="Special_Effects">"Efectos especiales"</string>
-    <string name="Blob_Mushiness">"Blandura del blob"</string>
+    <string name="Blob_Mushiness">"Blandura del Blob"</string>
 
     <string name="Specify_private_game_name">"Especificar nombre de la partida privada"</string>
     <string name="In_Game_Chat">"Chat en la partida"</string>
@@ -286,7 +286,7 @@
     <string name="Show_Clan_Names">"Mostrar clanes"</string>
     <string name="Show_Levels">"Mostrar Niveles"</string>
     <string name="SET_MOTD">"ESTABLECER DESCRIPCIÓN"</string>
-    <string name="No_such_user_found_">"No se encontró dicho usuario. "</string>
+    <string name="No_such_user_found_">"No se encontró ningun usuario. "</string>
     <string name="No_open_public_clans_exist_">"No existen clanes públicos abiertos "</string>
     <string name="You_aren_t_invited_to_that_clan_">"No has sido invitado a ese clan "</string>
     <string name="No_such_clan_exists_">"El clan no existe. "</string>
@@ -306,7 +306,7 @@
     <string name="Soccer_Hat_Trick">"Triplete en Fútbol"</string>
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Gana por 2.500 puntos en TCT Tiempo."</string>
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Gana por 7.500 puntos en Equipos Tiempo."</string>
-    <string name="Win_by_3_points_in_a_CTF_game_">"Gana por 3 puntos en CLB."</string>
+    <string name="Win_by_3_points_in_a_CTF_game_">"Gana por 3 puntos en una  CLB."</string>
     <string name="Score_3_points_in_a_single_CTF_game_">"Marca 3 puntos en una sola partida de CLB."</string>
     <string name="Win_by_2_500_points_in_a_Survival_game_">"Gana con 2.500 puntos en Supervivencia."</string>
     <string name="Survive_but_do_not_win_a_survival_game_">"Sobrevive en Supervivencia sin ganar."</string>
@@ -442,7 +442,7 @@
 
 
     <string name="until">"hasta"</string>
-    <string name="New_Message_">"¡Nuevo mensaje!"</string>
+    <string name="New_Message_">"¡Nuevo Mensaje!"</string>
     <string name="Seasonal">"Estacional"</string>
 
 
@@ -471,7 +471,7 @@
     <string name="ENTER">"ENTRAR"</string>
     <string name="_1v1">"1vs1"</string>
     <string name="Practice">"Practicar"</string>
-    <string name="ArenaDescription">Solo tienes una vida. El ganador recibirá %s plasma. Si haces trampa para conseguir "puntos gratis", serás baneado.</string>
+    <string name="ArenaDescription">Solo tienes una vida. El ganador recibirá %s Plasma. Si haces trampa para conseguir "puntos gratis", serás baneado.</string>
     <string name="Contestant">"Concursante"</string>
     <string name="Duelist">"Duelista"</string>
     <string name="Gladiator">"Gladiador"</string>
@@ -717,7 +717,7 @@
     <string name="Collect_10000_leaves_">"Recoge 10.000 hojas."</string>
     <string name="Eject">"Expulsar"</string>
     <string name="Eject_Skin">"Skin de masa expulsada"</string>
-    <string name="Double_Plasma__">"¡¡Doble plasma!!"</string>
+    <string name="Double_Plasma__">"¡¡Doble Plasma!!"</string>
     <string name="Ends">"Acaba"</string>
     <string name="Select_Clan_Member">"Seleccionar miembros del clan"</string>
     <string name="Inappropriate_Skin">"Skin inapropiada"</string>
@@ -726,9 +726,9 @@
     <string name="Refunded">"Reembolsada"</string>
 
 
-    <string name="contribution_warning">"¿Estás seguro de que quieres donar este plasma? Las donaciones no serán devueltas."</string>
+    <string name="contribution_warning">"¿Estás seguro de que quieres donar este Plasma? Las donaciones no serán devueltas."</string>
     <string name="Upload">"Subir"</string>
-    <string name="upload_warning">"¿Estás seguro de que deseas subir esta skin? Otros jugadores serán capaces de verla. Puede demorarse hasta 1 semana en ser revisada. Las skins inapropiadas serán rechazadas y el plasma no será devuelto."</string>
+    <string name="upload_warning">"¿Estás seguro de que deseas subir esta skin? Otros jugadores serán capaces de verla. Puede demorarse hasta 1 semana en ser revisada. Las skins inapropiadas serán rechazadas y el Plasma no será devuelto."</string>
 
     <string name="In_Review">"En revisión"</string>
     <string name="Account_Uploads">"Skins de la Cuenta"</string>
@@ -807,7 +807,7 @@
     <string name="Tournament_Competing">Compitiendo en Torneo</string>
     <string name="Tournament_Registered">Registrado en Torneo</string>
     <string name="Tournament">Torneo</string>
-    <string name="TourneyDescription">Debes registrarte para participar en el torneo. Se cobrará el plasma cuando el torneo comience, pero se puede anular el registro antes de que empiece. El torneo se iniciará cuando haya al menos %d concursantes.</string>
+    <string name="TourneyDescription">Debes registrarte para participar en el torneo. Se cobrará el Plasma cuando el torneo comience, pero se puede anular el registro antes de que empiece. El torneo se iniciará cuando haya al menos %d concursantes.</string>
     <string name="Register">Registrar</string>
 
     <string name="Registered">Registrado</string>
@@ -878,7 +878,7 @@
     <string name="Plethora_of_Spins">Plétora de Giros (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">DESCONECTAR TODOS LOS DISPOSITIVOS</string>
     <string name="Tournament_Forming">Formando Torneo</string>
-    <string name="TeamTourneyDescription">Tú y tu compañero deben registrarse para jugar en el torneo por equipos. Se descontará el plasma una vez haya comenzado el torneo, pero pueden cancelar el registro antes de que comience. Se requieren al menos %d participantes para empezar.</string>
+    <string name="TeamTourneyDescription">Tú y tu compañero deben registrarse para jugar en el torneo por equipos. Se descontará el Plasma una vez haya comenzado el torneo, pero pueden cancelar el registro antes de que comience. Se requieren al menos %d participantes para empezar.</string>
     <string name="Free_Agent">Agente Gratis</string>
     <string name="This_player_selected_a_different_teammate_">Este jugador seleccionó un compañero diferente </string>
     <string name="muted_until">silenciado hasta</string>
@@ -964,7 +964,7 @@ Reglas de Nebulous\n
 11. No banear muchos miembros de un Clan sin la autorización del Líder.\n
 12. Nunca mentir a un Moderador.\n
 13. No hacer "Equipo" con un oponente en modos de juego de Equipos.\n
-14. No cambiar Clanes de Nebulous por dinero real o plasma.\n
+14. No cambiar Clanes de Nebulous por dinero real o Plasma.\n
         \n
 Si no cumples con alguna de estas reglas, tu cuenta podría ser suspendida.\n
 (El tiempo del castigo puede ser de unas pocas horas a un ban permanente, dependiendo de la situación y gravedad del problema).\n
@@ -995,7 +995,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="App_Perf_Stats">Estadísticas de Rendimiento de la App</string>
     <string name="COPY">COPIAR</string>
     <string name="_1v1_Ultra"> 1vs1 Ultra</string>
-    <string name="ArenaDescriptionUltra">El ganador recibirá %s plasma. Si haces trampa para conseguir "puntos gratis", serás baneado.</string>
+    <string name="ArenaDescriptionUltra">El ganador recibirá %s Plasma. Si haces trampa para conseguir "puntos gratis", serás baneado.</string>
     <string name="BANNED">BANEADO</string>
     <string name="CLAN_MEMBERS">MIEMBROS DEL CLAN</string>
     <string name="CLAN_REQUESTS">SOLICITUDES DE CLAN</string>
@@ -1003,7 +1003,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="Pet_2">Mascota 2</string>
     <string name="Second_Pet">¡Te permite tener dos mascotas al mismo tiempo!</string>
     <string name="This_item_requires">Este elemento requiere</string>
-    <string name="not_enough_plasma">no hay suficiente plasma</string>
+    <string name="not_enough_plasma">no hay suficiente Plasma</string>
     <string name="MARK_UNREAD">MARCAR NO LEÍDO</string>
     <string name="ROYALE_DUO">DUO ROYALE</string>
     <string name="Choose_Partner">Elegir Compañero</string>
@@ -1021,7 +1021,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="Birthday">Cumpleaños</string>
     <string name="Mass_Boost">Acelerador de Masa</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">¡El Acelerador de Masa no funciona en Arenas, Torneos y Guerras de Clanes!</string>
-    <string name="ArenaDescriptionPure">SIN autoclick ni ultraclick. Solo tienes una vida. El ganador recibirá %s plasma. Si haces trampa para conseguir "puntos gratis", serás baneado.</string>
+    <string name="ArenaDescriptionPure">SIN autoclick ni ultraclick. Solo tienes una vida. El ganador recibirá %s Plasma. Si haces trampa para conseguir "puntos gratis", serás baneado.</string>
     <string name="_1v1_Pure"> 1vs1 Puro</string>
     <string name="Allow_Ultraclick">Permitir Ultraclick</string>
     <string name="Allow_Mass_Boost">Permitir Acelerador de Masa</string>
@@ -1063,12 +1063,12 @@ Aprobada (Verde): La skin la pueden ver otros jugadores.
 
 Reembolsada (Naranja): Recibiste un reembolso de la skin, debido a que no cumple con las normas establecidas; debes seleccionar alguna otra imagen que no sea la misma.
 
-Rechazada (Rojo): Significa que tu skin no la podrán ver otros jugadores porque tiene contenido inapropiado y no se devolverá el plasma.
+Rechazada (Rojo): Significa que tu skin no la podrán ver otros jugadores porque tiene contenido inapropiado y no se devolverá el Plasma.
 
 
 ¿POR QUÉ MI SKIN FUE REEMBOLSADA O RECHAZADA?
 
-Si tu skin personalizada es reembolsada, no la vuelvas a comprar porque será rechazada y perderás tu plasma.
+Si tu skin personalizada es reembolsada, no la vuelvas a comprar porque será rechazada y perderás tu Plasma.
 
 Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compras una skin con lo siguiente, será reembolsada o rechazada:
 - Contenido y/o alguna referencia Sexual
@@ -1097,7 +1097,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Community">Comunidad</string>
     <string name="Buy">Comprar</string>
     <string name="Sell">Vender</string>
-    <string name="community_skin_information_for_seller" translatable="true" tools:ignore="Untranslatable">Cuando hagas que tu skin personalizada sea una skin de comunidad, aparecerá en la pestaña de skins de comunidad. ¡Otras personas pueden ver y comprar skins de tu comunidad! Cada vez que alguien compre la skin que tú subiste a Comunidad, recibirás una pequeña cantidad de plasma. ¡Las skins comunitarias no pueden ser fotografías de personas reales! Recibirás 100 plasma por cada skin/mascota de comunidad vendida o 50 plasma por cada partícula de comunidad vendida.</string>
+    <string name="community_skin_information_for_seller" translatable="true" tools:ignore="Untranslatable">Cuando hagas que tu skin personalizada sea una skin de comunidad, aparecerá en la pestaña de skins de comunidad. ¡Otras personas pueden ver y comprar skins de tu comunidad! Cada vez que alguien compre la skin que tú subiste a Comunidad, recibirás una pequeña cantidad de Plasma. ¡Las skins comunitarias no pueden ser fotografías de personas reales! Recibirás 100 Plasma por cada skin/mascota de comunidad vendida o 50 Plasma por cada partícula de comunidad vendida.</string>
     <string name="community_skin_requirement">Debes comprar "Activar Skins Personalizadas" para usar Skin de comunidad.</string>
     <string name="You_can_purchase_this_community_skin_for_">Puedes comprar esta skin de comunidad por</string>
     <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">Las skins de comunidad son subidas por otros jugadores. Las skins de comunidad sólo funciona con skins personalizadas y pueden ser animadas con skins normales.</string>
@@ -1169,7 +1169,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="person_left" translatable="true" tools:ignore="Untranslatable">alguien salió</string>
     <string name="Left_the_group" translatable="true" tools:ignore="Untranslatable">Salió del grupo</string>
     <string name="Tricks_Performed_">Tricks Ejecutados </string>
-    <string name="Not_enough_plasma_">¡No tienes suficiente plasma!</string>
+    <string name="Not_enough_plasma_">¡No tienes suficiente Plasma!</string>
     <string name="GET_PLASMA">CONSEGUIR PLASMA</string>
     <string name="ASTEROIDS">ASTEROIDES</string>
     <string name="CHRISTMAS">NAVIDAD</string>
@@ -1181,7 +1181,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Invites">Invitaciones</string>
     <string name="Show_Spectator_Count">Mostrar recuento de espectadores</string>
     <string name="TRY_IT_">PROBAR SKIN </string>
-    <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Puedes probar esta skin para un juego. Después de que mueras o la cambies, desaparecerá. Cuando estás probando una skin, nadie más puede verla.\nPrecio: %s plasma.</string>
+    <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Puedes probar esta skin para un juego. Después de que mueras o la cambies, desaparecerá. Cuando estás probando una skin, nadie más puede verla.\nPrecio: %s Plasma.</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Necesitas comprar un pack para usar esto </string>
     <string name="GET_PACK">CONSEGUIR PACK</string>
     <string name="Position_in_queue">Posición en fila</string>
@@ -1198,12 +1198,12 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="circle" translatable="true" tools:ignore="Untranslatable">círculo</string>
     <string name="mega_pop" translatable="true" tools:ignore="Untranslatable">mega pop</string>
     <string name="no_virus" translatable="true" tools:ignore="Untranslatable">sandbox (no virus)</string>
-    <string name="plasma_hunt" translatable="true" tools:ignore="Untranslatable">cazador de plasma</string>
+    <string name="plasma_hunt" translatable="true" tools:ignore="Untranslatable">cazador de Plasma</string>
     <string name="speed" translatable="true" tools:ignore="Untranslatable">velocidad</string>
     <string name="Session_Stats">Estadísticas de Sesión</string>
     <string name="Time_">Tiempo </string>
     <string name="Show_Session_Stats">Mostrar estadísticas de Sesión</string>
-    <string name="VALENTINES_DAY">"DÍA DE SAN VALENTíN"</string>
+    <string name="VALENTINES_DAY">"DÍA DE SAN VALENTÍN"</string>
     <string name="shared_pack_info" translatable="true" tools:ignore="Untranslatable">Después de comprar este pack de skins, ¡sus skins exclusivas aparecerán en la parte superior de los menús de selección de skins para ti y tu amigo!</string>
     <string name="shared_pack_purch_description" translatable="true" tools:ignore="Untranslatable">¡Este es un paquete especial, por lo que tanto tú como un amigo recibiréis el paquete!</string>
     <string name="Giveaways_">¡Sorteos!</string>
@@ -1217,7 +1217,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Both">Ambos</string>
     <string name="multiskin_period_description" translatable="true" tools:ignore="Untranslatable">"Especifica el período de cambio de multiskin en segundos (0–10). 0 desactivará multiskin."</string>
     <string name="Enable__Multiskin">"Activar\nMultiskin"</string>
-    <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"Multiskin te permite usar dos skins que se alternan. Tú eliges que tan rápido cambian las skins. Cuando llegues al nivel 1,000, esta característica es gratuita. Si compras Multiskin antes del nivel 1,000, recuperarás el plasma cuando lo alcances."</string>
+    <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"Multiskin te permite usar dos skins que se alternan. Tú eliges que tan rápido cambian las skins. Cuando llegues al nivel 1,000, esta característica es gratuita. Si compras Multiskin antes del nivel 1,000, recuperarás el Plasma cuando lo alcances."</string>
     <string name="MULTISKIN">MULTISKIN</string>
     <string name="DISABLED">DESACTIVADO</string>
     <string name="Refund__Multiskin">"Reembolso\nMultiskin"</string>
@@ -1283,7 +1283,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Win_100_Tournaments">Gana 100 Torneos</string>
     <string name="HERO">HÉROE</string>
     <string name="CHAMPION">CAMPEÓN</string>
-    <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">¡No puedes ganar EXP o plasma en modo sandbox!</string>
+    <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">¡No puedes ganar EXP o Plasma en modo sandbox!</string>
     <string name="DASH">LÁNZATE</string>
     <string name="setting_changed">Ajustes actualizados. Es posible que deba volver a conectarse al servidor para que surta efecto.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Realiza 10,000 trucos en MODO TRICKS.</string>
@@ -1307,7 +1307,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Animal_Tamer">Domador de Animales</string>
     <string name="Crocodile_Hunter">Cazador de Cocodrilos</string>
     <string name="Get_A_Pet_To_Level_X_">Consigue una mascota nivel %d.</string>
-    <string name="plasma_boost_info">"¡Ganas tres veces plasma de todas las fuentes DENTRO DEL JUEGO mientras el acelerador está activo! ¡Esto incluye premios de arena y torneos! NO funciona en compras de plasma, giros o recompensas especiales."</string>
+    <string name="plasma_boost_info">"¡Ganas tres veces Plasma de todas las fuentes DENTRO DEL JUEGO mientras el acelerador está activo! ¡Esto incluye premios de arena y torneos! NO funciona en compras de Plasma, giros o recompensas especiales."</string>
     <string name="Plasma_Boost_7_Days_">¡Acelerador de Plasma por 7 Días!</string>
     <string name="Plasma_Boost_1_Day_">¡Acelerador de Plasma por 1 Día!</string>
     <string name="Plasma_Boost_2_Hours_">¡Acelerador de Plasma por 2 Horas!</string>
@@ -1343,7 +1343,7 @@ Subir la misma skin NO aprobada varias veces resultará en más sanciones o en u
     <string name="Battle_">¡Batalla!</string>
     <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
     <string name="Battle_Royale">Battle Royale</string>
-    <string name="The_winner_will_receive_x_plasma_">El ganador recibirá %s plasma!</string>
+    <string name="The_winner_will_receive_x_plasma_">El ganador recibirá %s Plasma!</string>
     <string name="admin_commands">"
 Comandos:
 !kick [0–31] 
@@ -1397,7 +1397,7 @@ Comandos:
     <string name="activate">activar</string>
     <string name="clan_id">ID del clan</string>
     <string name="language_change_warning">Cambiar el idioma hará que la aplicación se reinicie.</string>
-    <string name="xmas_gift_boost_message">¡Has recibido un regalo de acelerador de plasma 3x por 1 día!</string>
+    <string name="xmas_gift_boost_message">¡Has recibido un regalo de acelerador de Plasma 3x por 1 día!</string>
     <string name="no_response">No hay respuesta del servidor. Por favor, comprueba tu conexión a internet.</string>
     <string name="RAMADAN">RAMADÁN</string>
     <string name="SUDDEN_ATTACK">ATAQUE SÚBITO</string>
@@ -1409,7 +1409,7 @@ Comandos:
 - Jugar y comunicarte con otros jugadores de todo el mundo
 - Compartir tu progreso con los demás
 - Crear y decorar tu perfil
-- Comprar plasma en la tienda
+- Comprar Plasma en la tienda
 - Subir skins creadas por usuarios
 
 Si no deseas registrarte, aún puedes jugar en modo individual."
