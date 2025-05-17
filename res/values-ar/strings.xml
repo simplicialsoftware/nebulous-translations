@@ -55,7 +55,7 @@
 
 
     <string name="SERVER">"سيرفر"</string>
-    <string name="Joining_game_in_">"الانضمام للعبة "</string>
+    <string name="Joining_game_in_">"الانضمام إلى اللعبة "</string>
     <string name="Game_Full">"اللعبه ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
@@ -110,13 +110,13 @@
     <string name="FRIENDS">"صَـديـق"</string>
     <string name="Warning">"تحذير"</string>
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
-    <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
+    <string name="New_Friend_Request">"طلب صداقة جديد"</string>
     <string name="REQUEST_FRIEND">"إرسال طلب صداقة"</string>
     <string name="Private">"خاص"</string>
     <string name="Public">"عام"</string>
     <string name="Bot">"لاعب آلي"</string>
     <string name="You">"أنت"</string>
-    <string name="This_player_is_a_bot">"هذا اللاعب آلي"</string>
+    <string name="This_player_is_a_bot">"هذا اللاعب هو بوت"</string>
     <string name="This_player_is_not_signed_in">"هذا اللاعب لم يسجل الدخول"</string>
 
     <string name="Online">"مُـتَـصِـل"</string>
@@ -125,7 +125,7 @@
     <string name="Achievement_Earned">"تم تحقيق الإنجاز"</string>
     <string name="REFRESH">"تحديث"</string>
     <string name="DONE">"تَـم"</string>
-    <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
+    <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة "</string>
     <string name="ERROR">"خطأ"</string>
     <string name="CONTINUE">"متابعة"</string>
     <string name="Global_" formatted="false">"عالميا"</string>
@@ -139,7 +139,7 @@
     <string name="FFA_TIME">"حر للجميع 'بالتوقيت' "</string>
     <string name="TEAMS">"الفِرق"</string>
     <string name="TEAMS_TIME">"الفِرق 'بالتوقيت'"</string>
-    <string name="CTF">"إمساك العَلَمِ"</string>
+    <string name="CTF">"إمساك العَلَمْ"</string>
     <string name="SURVIVAL">"النجاة"</string>
 
 
@@ -550,10 +550,10 @@
     <string name="team_arena_info">"بمجرد إنشاء فريق، يمكنك دعوة الأعضاء وإزالتهم مجانًا. كما أن لعب مباريات الساحة الجماعية مجاني أيضًا. لا يمكنك تغيير اسم فريقك بعد إنشائه!"</string>
 
 
-    <string name="Invited">"تمت الدعوة"</string>
+    <string name="Invited">"تمت الدعوة بالفعل!"</string>
     <string name="Invitation_Sent">" تم إرسال الدعوة "</string>
     <string name="REPORT">"تقرير"</string>
-    <string name="Reported">"تم إرسال التقرير"</string>
+    <string name="Reported">"تم إرسال التقرير!"</string>
     <string name="Threats">"التهديدات"</string>
     <string name="Spam">"إزعاج"</string>
     <string name="Other">"آخر"</string>
@@ -1328,13 +1328,13 @@ Commands:
     <string name="Allow_Recombine">السماح بإعادة التجميع</string>
     <string name="Defenders">المُدافِعون</string>
     <string name="Attackers">المُهاجِمون</string>
-    <string name="MEGA_SPLIT">64x قسمة كبير</string>
+    <string name="MEGA_SPLIT"> قسمة كبير</string>
     <string name="Missing_Permissions">أذونات مفقودة</string>
-    <string name="DELETE_ACCOUNT">حذف الحساب</string>
+    <string name="DELETE_ACCOUNT">حذف الحساب!</string>
     <string name="delete_prompt">هل أنت متأكد انك تريد حذف حسابك؟ هذا دائم ولا يمكن التراجع عن ذلك! اكتب للحذف!: DELETE ID</string>
 
 
-    <string name="Type">أكتب</string>
+    <string name="Type">يكتب</string>
     <string name="Complete_campaign_mission_">أكمل مهمات الحملة</string>
     <string name="Specify_Reason_">حدد السبب:</string>
     <string name="FREE_FOR_ALL">حر للجميع</string>
