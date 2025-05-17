@@ -286,7 +286,7 @@
     <string name="Show_Clan_Names">"Mostrar clanes"</string>
     <string name="Show_Levels">"Mostrar Niveles"</string>
     <string name="SET_MOTD">"ESTABLECER DESCRIPCIÓN"</string>
-    <string name="No_such_user_found_">"No se encontró Ningún usuario. "</string>
+    <string name="No_such_user_found_">"No se encontró ningún usuario. "</string>
     <string name="No_open_public_clans_exist_">"No existen clanes públicos abiertos "</string>
     <string name="You_aren_t_invited_to_that_clan_">"No has sido invitado a ese clan "</string>
     <string name="No_such_clan_exists_">"El clan no existe. "</string>
