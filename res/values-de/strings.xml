@@ -67,7 +67,7 @@
 
     <string name="SINGLE_PLAYER">"Einzelspieler:"</string>
     <string name="Background_">"Hintergrund:"</string>
-    <string name="Difficulty_">"Schwierigkeit:"</string>
+    <string name="Difficulty_">"Schwierigkeitsgrad:"</string>
     <string name="Delay_Disconnect">"Verzögerung für Rauswurf bei schlechter Verbindung"</string>
 
     <string name="Max_Players">"Max. Spieler"</string>
@@ -109,8 +109,8 @@
     <string name="PAUSED">"Pause"</string>
 
 
-    <string name="FRIENDS">"Freunde"</string>
-    <string name="Warning">"Warnung"</string>
+    <string name="FRIENDS">"Freundesliste"</string>
+    <string name="Warning">"Hinweis"</string>
     <string name="SIGNING_IN">"ANMELDEN…"</string>
     <string name="New_Friend_Request">"Neue Freundschaftsanfrage!"</string>
     <string name="REQUEST_FRIEND">"Freundschaftsanfrage senden"</string>
@@ -126,11 +126,11 @@
     <string name="Offline">"Offline"</string>
     <string name="Achievement_Earned">"Erfolg freigeschaltet"</string>
     <string name="REFRESH">"Aktualisieren"</string>
-    <string name="DONE">"Fertig"</string>
+    <string name="DONE">"Abgeschlossen"</string>
     <string name="Friend_Request_Sent">"Freundschaftsanfrage erfolgreich gesendet"</string>
-    <string name="ERROR">"Fehler"</string>
+    <string name="ERROR">"Problem"</string>
     <string name="CONTINUE">"Weiter"</string>
-    <string name="Global_" formatted="false">"Global %"</string>
+    <string name="Global_" formatted="false">"Weltweit %"</string>
     <string name="FRIEND_CHAT">"Freunde Chat"</string>
     <string name="LOBBY_NAME">"Lobby Name"</string>
     <string name="NULL">"Null"</string>
@@ -234,7 +234,7 @@
     <string name="Blobs_Lost_">"Blobs verloren:"</string>
     <string name="Mass_Gained_">"Masse aufgenommen:"</string>
     <string name="Mass_Ejected_">"Masse ausgeworfen:"</string>
-    <string name="Times_Ejected_">"Anzahl Masse ausgeworfen:"</string>
+    <string name="Times_Ejected_">"Anzahl Menge ausgeworfen:"</string>
     <string name="Times_Split_">"Anzahl Teilungen:"</string>
     <string name="Biggest_Blob_">"Größter Blob:"</string>
     <string name="Highest_Score_">"Höchster Punktestand:"</string>
