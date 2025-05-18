@@ -63,7 +63,7 @@
     <string name="South_America">"Nam Mỹ"</string>
 
 
-    <string name="SINGLE_PLAYER">"OFFLINE"</string>
+    <string name="SINGLE_PLAYER">"NGOẠI TUYẾN"</string>
     <string name="Background_">"Nền:"</string>
     <string name="Difficulty_">"Mức độ:"</string>
     <string name="Delay_Disconnect">"Kết nối bị hoãn"</string>
@@ -262,24 +262,24 @@
     <string name="Clan">"Hội"</string>
 
 
-    <string name="JOIN_CLAN">"VÀO HỘI"</string>
-    <string name="JOIN_RANDOM_CLAN">"VÀO HỘI BẤT KÌ"</string>
-    <string name="LEAVE_CLAN">"RỜI HỘI"</string>
+    <string name="JOIN_CLAN">"THAM GIA BĂNG ĐẢNG"</string>
+    <string name="JOIN_RANDOM_CLAN">"VÀO BĂNG ĐẢNG BẤT KÌ"</string>
+    <string name="LEAVE_CLAN">"RỜI BĂNG ĐẢNG"</string>
     <string name="INVITE_MEMBER">"MỜI THÀNH VIÊN"</string>
     <string name="REMOVE_MEMBER">"ĐUỔI THÀNH VIÊN"</string>
 
 
     <string name="CREATE_CLAN">"TẠO BĂNG ĐẢNG"</string>
     <string name="MEMBER">"THÀNH VIÊN"</string>
-    <string name="ADMIN">"QUẢN TRỊ"</string>
-    <string name="LEADER">"KẺ CẦM ĐẦU"</string>
-    <string name="ELDER">"ĐÀN ANH"</string>
+    <string name="ADMIN">"QUẢN LÝ"</string>
+    <string name="LEADER">"THỦ LĨNH"</string>
+    <string name="ELDER">"PHÓ QUẢN LÝ"</string>
 
 
-    <string name="Not_in_a_clan_">"Không trong hội"</string>
+    <string name="Not_in_a_clan_">"Không trong băng đảng"</string>
 
 
-    <string name="CLAN">"HỘI"</string>
+    <string name="CLAN">"BĂNG ĐẢNG"</string>
 
 
     <string name="Specify_Clan_ID">Chỉ rõ ID Hội"</string>
@@ -759,8 +759,8 @@
     <string name="Grant_Permission">"Cấp phép"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous cần quyền truy cập để lưu lại tiến trình game của bạn!"</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous cần quyền để có thể kết nối với các thiết bị Bluetooth khi cần."</string>
-    <string name="FFA_ULTRA">"TỰ DO ULTRA"</string>
-    <string name="FFAU">"T. D. U."</string>
+    <string name="FFA_ULTRA">"FFAU"</string>
+    <string name="FFAU">"FFAU"</string>
     <string name="_in_a_FFAU_Game">" ở một Chơi Tự Do Ultra"</string>
 
     <string name="BANNED_PLAYERS">"NGƯỜI CHƠI BỊ CẤM"</string>
@@ -868,7 +868,7 @@
     <string name="Win_a_Team_Deathmatch_Game">"Giành chiến thắng một trò chơi Team Deathmatch"</string>
     <string name="TEAM_DEATHMATCH">"Team Deathmatch"</string>
     <string name="Speed_Click_Toggle">"Tốc độ Bấm Chuyển đổi"</string>
-    <string name="MOD">"QUẢN TRỊ VIÊN"</string>
+    <string name="MOD">"MOD"</string>
     <string name="FAQ">"Câu hỏi thường gặp"</string>
     <string name="BUY_EXTRA_SPINS">MUA VÒNG QUAY</string>
     <string name="Spins_Remaining">Vòng quay còn lại</string>
@@ -888,7 +888,7 @@
     <string name="BAN">CẤM</string>
     <string name="MODERATORS">NGƯỜI QUẢN LÝ</string>
     <string name="ALL_CLAN">CẢ HỘI</string>
-    <string name="CO_LEADER">PHÓ BĂNG ĐẢNG</string>
+    <string name="CO_LEADER">ĐỘI TRƯỞNG</string>
     <string name="CLAN_HOUSE">NHÀ HỘI</string>
 
     <string name="ROOM">PHÒNG</string>
@@ -934,7 +934,7 @@
     <string name="Pet_Uploads">Tải ảnh Thú lên</string>
     <string name="BLOB">ĐỐM</string>
     <string name="Clan_Pet_Uploads">Tải ảnh Thú hội</string>
-    <string name="YT">TUBER</string>
+    <string name="YT">YT</string>
     <string name="FREE_TODAY">NAY MIỄN PHÍ! </string>
     <string name="Cannot_cancel_this_skin_yet_">Không thể hủy skin này</string>
     <string name="SPLIT_16X">TÁCH 16x</string>
