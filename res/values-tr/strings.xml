@@ -100,7 +100,7 @@
     <string name="Information">"Bilgi Alın"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Bu avatarı kullanabilmeniz için ilgili kazanımı elde etmeniz gerekmektedir."</string>
     <string name="To_use_this_skin_you_must_reach_level">"Bu avatarı kullanabilmeniz için erişmeniz gereken seviye"</string>
-    <string name="SIGN_IN">"GİRİŞ YAPIN"</string>
+    <string name="SIGN_IN">"GİRİŞ YAP"</string>
 
     <string name="Single_Player_Stats">"Tek Kişilik Oyun İstatistikleri"</string>
 
@@ -270,7 +270,7 @@
     <string name="REMOVE_MEMBER">"BİR ÜYEYİ ÇIKARIN"</string>
 
 
-    <string name="CREATE_CLAN">"KLAN OLUŞTURUN"</string>
+    <string name="CREATE_CLAN">"KLAN OLUŞTUR"</string>
     <string name="MEMBER">"ÜYE "</string>
     <string name="ADMIN">"YÖNETİCİ "</string>
     <string name="LEADER">"LİDER"</string>
@@ -290,7 +290,7 @@
     <string name="No_such_user_found_">"Böyle bir kullanıcı bulunamadı."</string>
     <string name="No_open_public_clans_exist_">"Herkese açık bir klan yok."</string>
     <string name="You_aren_t_invited_to_that_clan_">"Bu klana davet edilmediniz."</string>
-    <string name="No_such_clan_exists_">"Böyle bir klan bulunmamaktadır."</string>
+    <string name="No_such_clan_exists_">"Böyle bir klan bulunmamakta."</string>
     <string name="That_clan_is_full_">"Bu Klan Dolu."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Diğer kullanıcı senin klanının bir üyesi değil."</string>
     <string name="_You_can_t_be_your_own_friend_">"Kendin ile arkadaş olamazsın."</string>
@@ -356,7 +356,7 @@
 
     <string name="Forming">"Biçimlendiriliyor"</string>
     <string name="Searching">"Aranıyor"</string>
-    <string name="In_Progress">"İşlem Devam Etmekte"</string>
+    <string name="In_Progress">"İşleminiz Devam Etmekte"</string>
 
     <string name="Wins">"Galibiyetler"</string>
 
@@ -377,7 +377,7 @@
     <string name="W_D_L">"G-B-K"</string>
     <string name="MATCH_START">"MAÇ BAŞLIYOR"</string>
     <string name="Clan_Warrior">"Klan Savaşçısı"</string>
-    <string name="Win_a_Clan_War">"Bir Klan Savaşı kazanın."</string>
+    <string name="Win_a_Clan_War">"Bir Klan Savaşı kazan."</string>
     <string name="Global">"Küresel"</string>
     <string name="Spectating">"İzliyorsunuz"</string>
 
@@ -415,12 +415,12 @@
     <string name="Purchases_Unavailable_">"Üzgünüz, Satın Alımlar şu anda mevcut değildir!"</string>
     <string name="You_can_purchase_this_skin_for">"Bu avatarı şu ücret karşılığında satın alabilirsiniz:"</string>
     <string name="PURCHASE">"Satın Al"</string>
-    <string name="Error_in_backup_data_">"Yedekleme verisinde hata meydana gelmiştir!"</string>
+    <string name="Error_in_backup_data_">"Yedekleme verisinde hata meydana gelmiştir !"</string>
 
 
     <string name="Remove_Ads">"Reklamları Kaldır"</string>
     <string name="Reward">"Ödül"</string>
-    <string name="Please_Wait___">"Lütfen bekleyiniz…"</string>
+    <string name="Please_Wait___">"Lütfen bekleyin…"</string>
     <string name="Purchasing">"Satın alınıyor"</string>
 
     <string name="Purchase_Successful_">"Satın alma işlemi başarı ile tamamlandı."</string>
@@ -552,7 +552,7 @@
 
 
     <string name="Invited">"Davet Edildi"</string>
-    <string name="Invitation_Sent">"Davetiniz Gönderilmiştir."</string>
+    <string name="Invitation_Sent">"Davetiniz Gönderildi."</string>
     <string name="REPORT">"BİLDİR"</string>
     <string name="Reported">"Bildirildi"</string>
     <string name="Threats">"Tehditler"</string>
@@ -593,7 +593,7 @@
     <string name="Bead_Mogul">"Boncuk Kralı"</string>
     <string name="beads_">"Boncuklar."</string>
 
-    <string name="Rejoin_Game">"Oyuna Yeniden Girin"</string>
+    <string name="Rejoin_Game">"Oyuna Yeniden katıl"</string>
     <string name="PRIZES">"ÖDÜLLER "</string>
 
     <string name="Enable_Custom_Skin">"Özel Cildi Etkinleştirin"</string>
@@ -604,9 +604,9 @@
     <string name="Facebook_Profile">"Facebook Profili"</string>
     <string name="You_must_be_signed_in_to_Facebook_">"Facebook'ta oturum açmış olmanız gerekmektedir."</string>
     <string name="copy_details">"Detayları Kopyalayın"</string>
-    <string name="copied_error_details_to_clipboard">"Hata ayrıntıları panoya başarılı bir şekilde kopyalandı."</string>
+    <string name="copied_error_details_to_clipboard">"Hata ayrıntıları panoya başarılı şekilde kopyalandı."</string>
 
-    <string name="No_file_browser_installed_">"Cihazınızda herhangi bir dosya yöneticisi bulunamamıştır."</string>
+    <string name="No_file_browser_installed_">"Cihazınızda herhangi bir dosya yöneticisi bulunmamıştır."</string>
     <string name="Choose_File">"Dosya Seçiniz"</string>
     <string name="Google_Profile">"Google Profili "</string>
     <string name="You_must_be_signed_in_to_Google_">"Google'da oturum açmış olmanız gerekmektedir."</string>
@@ -839,7 +839,7 @@
     <string name="Cannot_block_more_than_x_accounts_">"%d kadar hesap engellediniz. Daha fazla hesap engelleyemezsiniz."</string>
     <string name="This_is_you_">"Bu sizsiniz."</string>
     <string name="Win_a_Paint_Game">"Bir Boya Savaşı Oyununu kazanın"</string>
-    <string name="Whiteout">"Bembeyaz"</string>
+    <string name="Whiteout">"Beyazlık"</string>
     <string name="Speed_Painter">"Hızlı Boyacı"</string>
     <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"Bütün rakiplerinin 0 puanı var iken bir Boya Oyunu kazanın."</string>
     <string name="Win_a_Paint_game_in_60_seconds_or_less_">"60 saniye veya daha az bir sürede Boya Oyunu kazanın."</string>
@@ -1044,7 +1044,7 @@ Oyunun kurallarını çiğneyen bir oyuncuyu fark ederseniz, lütfen bir "Modera
     <string name="POSITION_EJECT_BUTTON">"YEM ATMA BUTON KONUMUNU AYARLA"</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">"YEM HIZI DEĞİŞTİRME BUTON KONUMUNU AYARLA"</string>
     <string name="WIFI">"WIFI"</string>
-    <string name="JOIN_IP">"IP ile Katıl"</string>
+    <string name="JOIN_IP">"IP ile Katılın"</string>
     <string name="Specify_Host_IP">"Host IP Belirle"</string>
     <string name="ADVANCED_SETUP">"Gelişmiş Ayar"</string>
     <string name="WORLD_CUP_EVENT___">"DÜNYA KUPASI ETKİNLİĞİ!!!"</string>
@@ -1170,7 +1170,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Requests">"İstekler"</string>
     <string name="Invites">"Davetler"</string>
     <string name="Show_Spectator_Count">"Seyirci Sayısını Göster"</string>
-    <string name="TRY_IT_">"DENE!"</string>
+    <string name="TRY_IT_">"DENEYİN!"</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">"Bu ögeyi  kullanmak için paket satın almanız gerekiyor."</string>
     <string name="GET_PACK">"PAKETİ AL"</string>
     <string name="Position_in_queue">"Oyun için Kalan Sıra Sayısı"</string>
