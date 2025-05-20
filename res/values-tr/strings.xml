@@ -828,7 +828,7 @@
     <string name="Tournaments_Temporarily_Disabled">"Turnuvalar geçici bir süreliğine kapatıldı."</string>
     <string name="CLAN_NAME_COLOR">"KLAN İSMİ RENGİ"</string>
     <string name="Tuber">"YT"</string>
-    <string name="youtube_prompt">"Bu kişinin sahip olduğu Nebulous YouTube kanalını ziyaret etmek ister misiniz? Bu kanallar Nebulous'un geliştiricileri ile hiçbir şekilde bağlantısı yoktur."</string>
+    <string name="youtube_prompt">"Bu kişinin sahip olduğu Nebulous YouTube kanalını ziyaret etmek ister misin? Bu kanallar Nebulous'un geliştiricileri ile hiçbir şekilde bağlantısı yoktur."</string>
     <string name="Tournament_Matches_Won_">"Kazanılan Turnuva Maçları:"</string>
     <string name="PAINT">"BOYA"</string>
     <string name="BLOCKED_ACCOUNTS">"ENGELLENMİŞ HESAPLAR"</string>
