@@ -58,7 +58,7 @@
     <string name="SERVER">"SUNUCU"</string>
     <string name="Joining_game_in_">"Oyuna Katılıyorsunuz "</string>
     <string name="Game_Full">"Oyun Dolu."</string>
-    <string name="US_East">"Doğu ABD"</string>
+    <string name="US_East">"Reklam Yok"</string>
     <string name="US_West">"Batı ABD"</string>
     <string name="Europe">"Avrupa"</string>
     <string name="South_America">"Güney Amerika"</string>
@@ -151,7 +151,7 @@
     <string name="Dot_Muncher">"Benek Kıtırtan"</string>
     <string name="Dot_Eater">"Benek Yiyici"</string>
     <string name="Dot_Gulper">"Benek Hamlatan"</string>
-    <string name="Dot_Gobbler">"Benek Süpürücü"</string>
+    <string name="Dot_Gobbler">"Benek Yutucu"</string>
     <string name="Dot_Devourer">"Benek Emici"</string>
     <string name="Dot_Gormandizer">"Benek Oburu"</string>
     <string name="Dot_Sommelier">"Benek Sömürücü"</string>
@@ -182,7 +182,7 @@
     <string name="Dodgey">"Dikkatli"</string>
     <string name="Self_Contained">"Sapasağlam"</string>
     <string name="Survivalist">"Sağ Kalan"</string>
-    <string name="Ultramassive">"Atarlı"</string>
+    <string name="Ultramassive">"Ultra Devasa"</string>
     <string name="Rapid_Ascension">"Hızlı Yükseliş"</string>
     <string name="Revenge">"İntikam"</string>
     <string name="Doge_Pound">"Doge Avcısı"</string>
@@ -203,7 +203,7 @@
     <string name="Absorb_32_blobs_quickly">"Hızlıca 32 Baloncuk Yiyin."</string>
     <string name="Absorb_40_blobs_quickly">"Hızlıca 40 Baloncuk Yiyin."</string>
 
-    <string name="Absorb_8_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan önce 8 Baloncuk Yiyin."</string>
+    <string name="Absorb_8_player_blobs_without_reخstarting">"Oyun Yeniden Başlatılmadan önce 8 Baloncuk Yiyin."</string>
     <string name="Absorb_16_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan önce 16 Baloncuk Yiyin."</string>
     <string name="Absorb_32_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan önce 32 Baloncuk Yiyin."</string>
     <string name="Absorb_48_player_blobs_without_restarting">"Oyun Yeniden Başlatılmadan önce 48 Baloncuk Yiyin."</string>
@@ -247,7 +247,7 @@
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Daha Yüksek XP'ye sahip bir tekli-oyuncu istatistik yedeği bulunmuştur. Yedeği kurtarmak ister misiniz?"</string>
 
     <string name="Special_Effects">"Özel Efektler"</string>
-    <string name="Blob_Mushiness">"Baloncuk Esnekliği"</string>
+    <string name="Blob_Mushiness">"Baloncuk Yoõunlugu"</string>
 
     <string name="Specify_private_game_name">"Özel Oyun Adını Yazınız"</string>
     <string name="In_Game_Chat">"Oyun içi Sohbet"</string>
