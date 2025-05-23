@@ -712,7 +712,7 @@
     <string name="ZA">"KIAMAT ZOMBI"</string>
     <string name="Pandemic">"Pandemi"</string>
     <string name="Immunity">"Kekebalan"</string>
-    <string name="Win_as_zombies_in_2_minutes_or_less_">"Menang sebagai zombi dalam 2 menit atau kurang."</string>
+    <string name="Win_as_zombies_in_2_minutes_or_less_">"Menang sebagai zombie dalam 2 menit atau kurang."</string>
     <string name="Win_as_survivors_with_no_losses_">"Menang sebagai pemain selamat tanpa termakan oleh zombi atau kerugian Gumpalan."</string>
     <string name="ZOMBIE_">"ZOMBI!"</string>
     <string name="SURVIVOR_">"SELAMAT!"</string>
