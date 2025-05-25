@@ -892,7 +892,7 @@
 
     <string name="ROOM">STANZA</string>
     <string name="EXPERIMENTAL">SPERIMENTALE</string>
-    <string name="members">membri</string>
+    <string name="members">member</string>
     <string name="Delete_ALL_Messages_">Elimina tutti i messaggi!</string>
     <string name="SAVE_PROFILE">SALVA PROFILO</string>
     <string name="Move">"Muovi"</string>
