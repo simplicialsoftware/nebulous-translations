@@ -1179,7 +1179,7 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="GIVE_PLASMA">DAI PLASMA</string>
     <string name="Specify_amount_">Specifica quantità:</string>
     <string name="Specify_amount_again_to_confirm_">Specifica la quantità di nuovo per confermare:</string>
-    <string name="Amounts_did_not_match_">Le quantità non corrispondono!</string>
+    <string name="Amount_did_not_match_">Le quantità non corrispondono!</string>
     <string name="RECEIVE_PLASMA">RICEVI PLASMA</string>
     <string name="MULTIBLOB">MULTIPALLA</string>
     <string name="Play_Nebulous_For_1_Year_">Gioca a Nebulous per 1 anno!</string>
@@ -1217,8 +1217,8 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="Victorious">Vittorioso</string>
     <string name="Dominant">Dominante</string>
     <string name="Champion">Campione</string>
-    <string name="Win_10_Tournaments">Vinci 10 Tornei</string>
-    <string name="Win_100_Tournaments">Vinci 100 Tornei</string>
+    <string name="Win_10_Tournament">Vinci 10 Tornei</string>
+    <string name="Win_100_Tournament">Vinci 100 Tornei</string>
     <string name="HERO">EROE</string>
     <string name="CHAMPION">CAMPIONE</string>
     <string name="DASH">SCATTO</string>
@@ -1234,8 +1234,8 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="Quad">Quadruplo</string>
     <string name="Middle_East">Medio Oriente</string>
     <string name="XP_4x">XP 4x</string>
-    <string name="You_cannot_play_for_x_minutes_">Non puoi giocare per %d minuti.</string>
-    <string name="x4_Clan_XP_Perm">XP del clan 4x Permanente!</string>
+    <string name="You_can't_play_for_x_minutes_">Non puoi giocare per %d minuti.</string>
+    <string name="x4_Clan_XP_Permanent">XP del clan 4x Permanente!</string>
     <string name="x4_Clan_XP_7_days">XP del clan 4x per 7 Giorni</string>
     <string name="x4_Clan_XP_1_Day">XP del clan 4x per 1 Giorno </string>
     <string name="CHARGE_UP">CARICA</string>
@@ -1255,7 +1255,7 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="You_Have_Mail_">Hai una mail da %s!</string>
     <string name="Clan_Request_Reviewed_Notification">La tua richiesta di entrare %s clan è stata rivista!</string>
     <string name="CRAZY_SPLIT">DIVISIONE FOLLE 32x</string>
-    <string name="Sold_Community_Skins_">"Skin della comunità vendute: "</string>
+    <string name="Sold_Community_Skin_">"Skin della comunità vendute: "</string>
     <string name="Estimated_Earnings_">"Guadagni stimati: "</string>
     <string name="Win_a_Paint_Game">Vinci una partita in modalità disegno</string>
     <string name="South_Africa">Sud Africa</string>
