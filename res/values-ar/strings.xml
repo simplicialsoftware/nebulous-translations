@@ -35,27 +35,27 @@
     <string name="_Alias_">" الإسم المُستعار "</string>
     <string name="_Score_">" النقاط "</string>
     <string name="Score__">"النقاط: "</string>
-    <string name="Recombine_">"إعادة التجميع: "</string>
+    <string name="Recombine_">"إعادة تجميع: "</string>
     <string name="WINNER_">"الفائز:"</string>
-    <string name="IDLE">"خمول"</string>
+    <string name="IDLE">"خمُول"</string>
     <string name="Name_Invalid_">"الإسم غير صالح !"</string>
-    <string name="Name_Taken_">"الاسم مستعمل."</string>
+    <string name="Name_Taken_">"الاِسم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
     <string name="PLAYING">"في طور اللعب"</string>
-    <string name="MULTIPLAYER">"متعدد اللاعبين"</string>
+    <string name="MULTIPLAYER">"مُتعدد اللاعبين"</string>
 
     <string name="JOIN">"إنضم"</string>
 
 
-    <string name="Lobby_Name">"أسم السيرفر"</string>
+    <string name="Lobby_Name">"اِسم السيرفر"</string>
     <string name="Not_found_">"لم يتم العثور عليه."</string>
 
     <string name="Hidden">"مخفي"</string>
 
-
-    <string name="SERVER">"سيرفر"</string>
-    <string name="Joining_game_in_">"الانضمام للعبة "</string>
+    
+    <string name="SERVER"> الخادم "</string>
+    <string name="Joining_game_in_"> الإنضمام الى اللعبة "</string>
     <string name="Game_Full">"اللعبه ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
@@ -73,7 +73,7 @@
 
     <string name="OK">"حسنًا"</string>
     <string name="CANCEL">"إلغاء"</string>
-    <string name="Chat_Name">"اسم الدردشة"</string>
+    <string name="Chat_Name">"اِسم الدردشة"</string>
     <string name="Max_People">"الحد الأقصى للناس"</string>
     <string name="START">"البداية"</string>
     <string name="CREATE">"إنشاء"</string>
@@ -91,7 +91,7 @@
     <string name="Signed_in_as_">"تم تسجيل الدخول كـ:"</string>
     <string name="Not_signed_in_">"لم يتم تسجيل الدخول"</string>
     <string name="SET_NAME">"تحديد الإسم"</string>
-    <string name="SIGN_OUT">"تسجيل الخروج من الحساب"</string>
+    <string name="SIGN_OUT">"تسجيل خروج من الحساب"</string>
     <string name="ACHIEVEMENTS">"الإنجازات"</string>
     <string name="STATISTICS">"الإحصائيات"</string>
     <string name="XP_">"نقاط الخبرة:"</string>
@@ -127,10 +127,10 @@
     <string name="DONE">"تَـم"</string>
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
-    <string name="CONTINUE">"متابعة"</string>
-    <string name="Global_" formatted="false">"عالميا"</string>
+    <string name="CONTINUE">"مُتابعة"</string>
+    <string name="Global_" formatted="false">"عالمياً"</string>
     <string name="FRIEND_CHAT">"دردشة الأصدقاء"</string>
-    <string name="LOBBY_NAME">"اسم الردهة"</string>
+    <string name="LOBBY_NAME">"اِسم الردهة"</string>
     <string name="NULL">"لا شيء"</string>
 
 
@@ -170,7 +170,7 @@
     <string name="Blobageddon">"ماسح الدوائر"</string>
     <string name="Blobocalypse">"مدمر الدوائر"</string>
 
-    <string name="Experienced_Nebulator">"لاعب متمرس"</string>
+    <string name="Experienced_Nebulator">"لاعب مُتمرس"</string>
     <string name="Expert_Nebulator">"لاعب خبير"</string>
     <string name="Master_Nebulator">"لاعب متدرب"</string>
     <string name="Grand_Master_Nebulator">"لاعب محترف"</string>
@@ -188,8 +188,8 @@
 
     <string name="Absorb_50_dots">"استيعاب ٥٠ نقطة"</string>
     <string name="Absorb_300_dots">"استيعاب ٣٠٠ نقطة"</string>
-    <string name="Absorb_1_000_dots">"استيعاب ج ١٠٠٠ نقطة"</string>
-    <string name="Absorb_5_000_dots">"استيعاب ٥٠٠٠ نقطة"</string>
+    <string name="Absorb_1_000_dots">"استيعاب ج ١،٠٠٠ نقطة"</string>
+    <string name="Absorb_5_000_dots">"استيعاب ٥،٠٠٠ نقطة"</string>
     <string name="Absorb_10_000_dots">"استيعاب ١٠،٠٠٠ النقاط"</string>
     <string name="Absorb_50_000_dots">"استيعاب ٥٠،٠٠٠ النقاط"</string>
     <string name="Absorb_100_000_dots">"استيعاب ١٠٠،٠٠٠ النقاط"</string>
@@ -258,12 +258,12 @@
     <string name="SOCCER">"كرة القدم"</string>
     <string name="DRAW">"تعادل"</string>
 
-    <string name="Clan_Name">"اسم العشيرة"</string>
+    <string name="Clan_Name">"اِسم العشيرة"</string>
     <string name="Clan">"العشيرة"</string>
 
 
     <string name="JOIN_CLAN">"انضم للعشيرة"</string>
-    <string name="JOIN_RANDOM_CLAN">"انضمام لعشيرة عشوائية"</string>
+    <string name="JOIN_RANDOM_CLAN">"الاِنضمام لعشيرة عشوائية"</string>
     <string name="LEAVE_CLAN">"الخروج من العشيرة"</string>
     <string name="INVITE_MEMBER">"دعوة لاعب"</string>
     <string name="REMOVE_MEMBER">"إزالة العضو"</string>
@@ -290,10 +290,10 @@
     <string name="No_open_public_clans_exist_">"لا يوجد عشيرة عامة مفتوحة."</string>
     <string name="You_aren_t_invited_to_that_clan_">"لم يتم دعوتك إلى هذه العشيرة."</string>
     <string name="No_such_clan_exists_">"لا يوجد مثل هذه العشيرة !"</string>
-    <string name="That_clan_is_full_">"هذه العَشيرة ممتَلئة!"</string>
+    <string name="That_clan_is_full_">"هذه العشيرة مُمتلئة!"</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"هذا المستخدم ليس عضو في عشيرتك:"</string>
     <string name="_You_can_t_be_your_own_friend_">"لا يمكنك أن تكون صديق لنفسك:"</string>
-    <string name="A_clan_with_that_name_already_exists_">"عشيرة بهذا الإسم موجودة مسبقا:"</string>
+    <string name="A_clan_with_that_name_already_exists_">"عشيرة بهذا الإسم موجودة مسبقاً:"</string>
     <string name="Duration_">"المدة:"</string>
 
     <string name="FFA_Time_Domination">"سيطرة بالتوقيت"</string>
@@ -418,9 +418,9 @@
 
 
     <string name="Remove_Ads">"إزالة الاعلانات"</string>
-    <string name="Reward">" مكافاة"</string>
+    <string name="Reward">" مُكافاة"</string>
     <string name="Please_Wait___">"الرجاء الإنتظار…"</string>
-    <string name="Purchasing">"المشتريات"</string>
+    <string name="Purchasing">"المُشتريات"</string>
 
     <string name="Purchase_Successful_">" تم الشراء!"</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"قد تحتاج لإعادة الدخول لكي يتم التفعيل."</string>
@@ -454,7 +454,7 @@
     <string name="View_Profile">"عرض الصفحة الشخصية"</string>
     <string name="Send_Message">"إرسال رسالة"</string>
     <string name="Account_ID">"رقم هوية الحساب"</string>
-    <string name="Player_Name">"اسم اللاعب"</string>
+    <string name="Player_Name">"اِسم اللاعب"</string>
 
     <string name="Daily_Reward">"المكافأة اليومية"</string>
     <string name="Reset">"إعادة تعيين"</string>
@@ -592,7 +592,7 @@
     <string name="Bead_Mogul">"ملك الكريات"</string>
     <string name="beads_">"الكريات."</string>
 
-    <string name="Rejoin_Game">"إعادة الانضمام للعبة"</string>
+    <string name="Rejoin_Game">"إعادة الإنضمام للعبة"</string>
     <string name="PRIZES">"الجوائز"</string>
 
     <string name="Enable_Custom_Skin">"تمكين الصور المخصصة"</string>
