@@ -405,8 +405,8 @@
     <string name="Collect_5000_leaves_">"เก็บ 5000 ใบไม้"</string>
 
 
-    <string name="Arena">"อารีนา"</string>
-    <string name="Enter_the_Arena">"เข้าสู่การแข่งขันอารีนา"</string>
+    <string name="Arena">"อารีน่า"</string>
+    <string name="Enter_the_Arena">"เข้าสู่การแข่งขันอารีน่า"</string>
 
 
     <string name="Purchase_History">"ประวัติการซื้อ"</string>
@@ -458,28 +458,28 @@
 
     <string name="Daily_Reward">"รางวัลประจำวัน"</string>
     <string name="Reset">"รีเซ็ต"</string>
-    <string name="Plasma">"พลาสมา"</string>
-    <string name="Plasma_Mogul">"คนคลั่งพลาสมา"</string>
-    <string name="Plasma_Collector">"คนเก็บพลาสมา"</string>
-    <string name="Plasma_Hoarder">"นักสะสมพลาสมา"</string>
-    <string name="Collect_1_000_Plasma">"เก็บ 1,000 พลาสมา"</string>
-    <string name="Collect_10_000_Plasma_">"เก็บ 10,000 พลาสมา"</string>
-    <string name="Collect_100_000_Plasma">"เก็บ 100,000 พลาสมา"</string>
-    <string name="Plasma_Collected_">"พลาสมาที่เก็บ:"</string>
-    <string name="Plasma_Purchases">"พลาสมาที่ซื้อ/ใช้จ่าย"</string>
+    <string name="Plasma">"พลาสม่า"</string>
+    <string name="Plasma_Mogul">"คนคลั่งพลาสม่า"</string>
+    <string name="Plasma_Collector">"คนเก็บพลาสม่า"</string>
+    <string name="Plasma_Hoarder">"นักสะสมพลาสม่า"</string>
+    <string name="Collect_1_000_Plasma">"เก็บ 1,000 พลาสม่า"</string>
+    <string name="Collect_10_000_Plasma_">"เก็บ 10,000 พลาสม่า"</string>
+    <string name="Collect_100_000_Plasma">"เก็บ 100,000 พลาสม่า"</string>
+    <string name="Plasma_Collected_">"พลาสม่าที่เก็บ:"</string>
+    <string name="Plasma_Purchases">"พลาสม่าที่ซื้อ/ใช้จ่าย"</string>
 
     <string name="ENTER">"เข้าสู่"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"โหมดฝึกหัด"</string>
-    <string name="ArenaDescription">"คุณจะมีเพียงหนึ่งชีวิต ผู้ชนะจะได้รับ %s พลาสมา แลกเปลี่ยนการชนะหรือชนะฟรีจะส่งผลให้ถูกแบน"</string>
+    <string name="ArenaDescription">"คุณจะมีเพียงหนึ่งชีวิต ผู้ชนะจะได้รับ %s พลาสม่า แลกเปลี่ยนการชนะหรือชนะฟรีจะส่งผลให้ถูกแบน"</string>
     <string name="Contestant">"ผู้เข้าแข่งขัน"</string>
     <string name="Duelist">"นักดวล"</string>
     <string name="Gladiator">"นักต่อสู้"</string>
     <string name="Challenger">"ผู้ท้าดวล"</string>
-    <string name="Win_1_1v1_Arenas_">"ชนะอารีนา"</string>
-    <string name="Win_10_Arenas_">"ชนะ 10 อารีนา"</string>
-    <string name="Win_100_Arenas_">"ชนะ 100 อารีนา"</string>
-    <string name="Win_1000_Arenas">"ชนะ 1,000 อารีนา"</string>
+    <string name="Win_1_1v1_Arenas_">"ชนะอารีน่า"</string>
+    <string name="Win_10_Arenas_">"ชนะ 10 อารีน่า"</string>
+    <string name="Win_100_Arenas_">"ชนะ 100 อารีน่า"</string>
+    <string name="Win_1000_Arenas">"ชนะ 1,000 อารีน่า"</string>
 
 
     <string name="Already_in_arena_">"อยู่ในอารีนาแล้ว"</string>
@@ -545,7 +545,7 @@
     <string name="Team">"ทีม"</string>
     <string name="Specify_Account_ID">"ระบุไอดีบัญชี"</string>
     <string name="Team_Created_">"สร้างทีมแล้ว!"</string>
-    <string name="Team_Arena">"อารีนาทีม"</string>
+    <string name="Team_Arena">"อารีน่าทีม"</string>
     <string name="No_Teams">"ไม่มีทีม"</string>
     <string name="team_arena_info">"เมื่อคุณสร้างทีมแล้วคุณสามารถเชิญและลบสมาชิกและเล่นการแข่งขันอารีนาทีมได้ฟรี คุณไม่สามารถเปลี่ยนชื่อทีมของคุณได้เมื่อสร้างแล้ว!"</string>
 
@@ -637,7 +637,7 @@
     <string name="Request_Timed_Out">"คำขอหมดเวลา"</string>
     <string name="You_Are_Spectating_">"คุณกำลังชม"</string>
     <string name="Account_In_Use_">"บัญชีอยู่ในการใช้งาน!"</string>
-    <string name="Cannot_Join_Arena_">"ไม่สามารถเข้าร่วมอารีนาได้"</string>
+    <string name="Cannot_Join_Arena_">"ไม่สามารถเข้าร่วมอารีน่าได้"</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"ออกจากระบบจะตัดการเชื่อมต่อคุณออกจากเกมปัจจุบัน!"</string>
     <string name="raindrops_">"เม็ดฝ​​น"</string>
 
