@@ -997,7 +997,7 @@
     <string name="App_Perf_Stats">แสดงสถิติประสิทธิภาพของแอป</string>
     <string name="COPY">คัดลอก</string>
     <string name="_1v1_Ultra">1v1 อัลตรา</string>
-    <string name="ArenaDescriptionUltra">ผู้ชนะจะได้รับ %s พลาสมา</string>
+    <string name="ArenaDescriptionUltra">ผู้ชนะจะได้รับ %s พลาสม่า</string>
     <string name="BANNED">ถูกแบน</string>
     <string name="CLAN_MEMBERS">สมาชิกแคลน</string>
     <string name="CLAN_REQUESTS">คำขอเข้าร่วมแคลน</string>
@@ -1005,7 +1005,7 @@
     <string name="Pet_2">สัตว์เลี้ยง 2</string>
     <string name="Second_Pet">ฟีเจอร์นี้ทำให้คุณสามารถมีสัตว์เลี้ยงสองตัวพร้อมกัน!</string>
     <string name="This_item_requires">ไอเทมนี้ต้องการ</string>
-    <string name="not_enough_plasma">พลาสมาไม่เพียงพอ</string>
+    <string name="not_enough_plasma">พลาสม่าไม่เพียงพอ</string>
     <string name="MARK_UNREAD">ทำเครื่องหมายว่ายังไม่ได้อ่าน</string>
     <string name="ROYALE_DUO">รอยัลดูโอ้</string>
     <string name="Choose_Partner">เลือกคู่หู</string>
@@ -1023,9 +1023,9 @@
     <string name="Birthday">วันเกิด</string>
     <string name="Mass_Boost">คะแนนบูสต์</string>
 
-    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">คะแนนบูสต์ไม่สามารถใช้ได้ในอารีนา, ทัวร์นาเมนต์ หรือแคลนวอ</string>
+    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">คะแนนบูสต์ไม่สามารถใช้ได้ในอารีน่า, ทัวร์นาเมนต์ หรือแคลนวอ</string>
 
-    <string name="ArenaDescriptionPure">ไม่มีการใช้ออโต้คลิกหรืออัลตราคลิก คุณจะมีเพียงหนึ่งชีวิต ผู้ชนะจะได้รับ %s พลาสมา</string>
+    <string name="ArenaDescriptionPure">ไม่มีการใช้ออโต้คลิกหรืออัลตราคลิก คุณจะมีเพียงหนึ่งชีวิต ผู้ชนะจะได้รับ %s พลาสม่า</string>
     <string name="_1v1_Pure">1v1 เพียวๆ</string>
     <string name="Allow_Ultraclick">อนุญาตให้ใช้อัลตราคลิก</string>
     <string name="Allow_Mass_Boost">อนุญาตให้ใช้คะแนนบูสต์</string>
@@ -1129,8 +1129,8 @@
     <string name="Failed_to_join">เข้าร่วมไม่สำเร็จ</string>
     <string name="Full">เต็ม</string>
     <string name="Tricks_Performed_">ทำทริค:</string>
-    <string name="Not_enough_plasma_">พลาสมาไม่เพียงพอ!</string>
-    <string name="GET_PLASMA">รับพลาสมา</string>
+    <string name="Not_enough_plasma_">พลาสม่าไม่เพียงพอ!</string>
+    <string name="GET_PLASMA">รับพลาสม่า</string>
     <string name="ASTEROIDS">ดาวเคราะห์น้อย</string>
     <string name="CHRISTMAS">คริสต์มาส</string>
     <string name="Reason">เหตุผล</string>
@@ -1179,14 +1179,14 @@
     <string name="This_cannot_be_undone_">การกระทํานี้ไม่สามารถยกเลิกได้</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">ดูวิดีโอเพื่อรับบูสต์ชั่วคราวสำหรับ %d เกมชีวิต!</string>
     <string name="WATCH_VIDEO_">ดูวิดีโอ!</string>
-    <string name="PERMANENT_BOOSTS">พลาสมาบูสต์ถาวร</string>
+    <string name="PERMANENT_BOOSTS">พลาสม่าบูสต์ถาวร</string>
     <string name="Video_failed_to_load_">โหลดวิดีโอไม่สำเร็จ!</string>
     <string name="Video_Ready_">วิดีโอพร้อมแล้ว!</string>
-    <string name="GIVE_PLASMA">ให้พลาสมา</string>
+    <string name="GIVE_PLASMA">ให้พลาสม่า</string>
     <string name="Specify_amount_">ระบุจำนวน:</string>
     <string name="Specify_amount_again_to_confirm_">ระบุจำนวนอีกครั้งเพื่อยืนยัน:</string>
     <string name="Amounts_did_not_match_">จำนวนไม่ตรงกัน!</string>
-    <string name="RECEIVE_PLASMA">ได้รับพลาสมา</string>
+    <string name="RECEIVE_PLASMA">ได้รับพลาสม่า</string>
     <string name="MULTIBLOB">หลายตัว</string>
     <string name="Play_Nebulous_For_1_Year_">เล่น Nebulous เป็นเวลา 1 ปี!</string>
     <string name="Play_Nebulous_For_X_Years_">เล่น Nebulous เป็นเวลา %d ปี!</string>
@@ -1248,13 +1248,13 @@
     <string name="CLAN_DESCRIPTION_COLOR">สีคำอธิบายแคลน</string>
     <string name="Responsible_Pet_Owner">เจ้าของสัตว์เลี้ยงที่มีความรับผิดชอบ</string>
     <string name="Animal_Tamer">นักฝึกสัตว์</string>
-    <string name="Crocodile_Hunter">น่าล่าจรเข้</string>
+    <string name="Crocodile_Hunter">นักล่าจระเข้</string>
     <string name="Get_A_Pet_To_Level_X_">ทำให้สัตว์เลี้ยงถึงเลเวล %d</string>
-    <string name="plasma_boost_info">"คุณจะได้รับพลาสมาเพิ่มเป็น 3 เท่า จากที่มาในเกมทั้งหมดในขณะที่การบูสต์ทำงานอยู่ ซึ่งรวมถึงอารีนาและทัวร์นาเมนต์ ไม่สามารถใช้ได้กับการซื้อพลาสมา สปิน หรือรางวัลพิเศษอื่นๆใดๆ"</string>
-    <string name="Plasma_Boost_7_Days_">พลาสมาบูสต์ 7 วัน!!!</string>
-    <string name="Plasma_Boost_1_Day_">พลาสมาบูสต์ 1 วัน!</string>
-    <string name="Plasma_Boost_2_Hours_">พลาสมาบูสต์ 2 ชั่วโมง</string>
-    <string name="Plasma_Boost">พลาสมาบูสต์</string>
+    <string name="plasma_boost_info">"คุณจะได้รับพลาสม่าเพิ่มเป็น 3 เท่า จากที่มาในเกมทั้งหมดในขณะที่การบูสต์ทำงานอยู่ ซึ่งรวมถึงอารีน่าและทัวร์นาเมนต์ ไม่สามารถใช้ได้กับการซื้อพลาสม่า สปิน หรือรางวัลพิเศษอื่นๆใดๆ"</string>
+    <string name="Plasma_Boost_7_Days_">พลาสม่าบูสต์ 7 วัน!!!</string>
+    <string name="Plasma_Boost_1_Day_">พลาสม่าบูสต์ 1 วัน!</string>
+    <string name="Plasma_Boost_2_Hours_">พลาสม่าบูสต์ 2 ชั่วโมง</string>
+    <string name="Plasma_Boost">พลาสม่าบูสต์</string>
     <string name="particle_info">คุณต้องมีเลเวลอย่างน้อย 50 และใช้สกินที่มีละอองเพื่อที่จะสามารถเห็นละอองอื่นๆ</string>
     <string name="Plain_Score_Text">"ข้อความคะแนนธรรมดา"</string>
     <string name="Custom_Skin_Reviewed_Notification">สกินแบบกำหนดเองของคุณได้รับการตรวจสอบแล้ว!</string>
@@ -1275,8 +1275,8 @@
     <string name="Battle_">ต่อสู้!</string>
     <string name="BATTLE_ROYALE">แบทเทิลรอยัล</string>
     <string name="Battle_Royale">แบทเทิลรอยัล</string>
-    <string name="The_winner_will_receive_x_plasma_">ผู้ชนะจะได้รับ %s พลาสมา!</string>
-    <string name="admin_commands">"
+    <string name="The_winner_will_receive_x_plasma_">ผู้ชนะจะได้รับ %s พลาสม่า!</string>
+    <string name="admin_commands">คำสั่งผู้ดูแลระบบ</string>
 คำสั่ง:
 !kick [0–31] | (เตะผู้เล่น)
 !reset | (รีเซ็ตห้องเกม)
@@ -1326,7 +1326,7 @@
     <string name="activate">เปิดใช้งาน</string>
     <string name="clan_id">แคลนไอดี</string>
     <string name="language_change_warning">การเปลี่ยนภาษาจะทำให้แอปรีสตาร์ท</string>
-    <string name="xmas_gift_boost_message">คุณได้รับของขวัญเป็น 3X พลาสมาบูสต์เป็นเวลา 1 วัน!</string>
+    <string name="xmas_gift_boost_message">คุณได้รับของขวัญเป็น 3X พลาสม่าบูสต์เป็นเวลา 1 วัน!</string>
     <string name="no_response">ไม่มีการตอบสนองจากเซิร์ฟเวอร์ โปรดตรวจสอบการเชื่อมต่ออินเตอร์เน็ต</string>
     <string name="RAMADAN">รอมฎอน</string>
     <string name="SUDDEN_ATTACK">การโจมตีอย่างกะทันหัน</string>
