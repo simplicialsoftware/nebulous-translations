@@ -1198,13 +1198,13 @@
     <string name="Invalid_Clan_ID_">اسم العشيرة غير صالح</string>
     <string name="MUTED">"حُظِر من الدَردَشة"</string>
     <string name="SKIN">سكن</string>
-    <string name="Choose_Skin_Size">اختر حجم سكنك</string>
+    <string name="Choose_Skin_Size">اختر حجم جلدك</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">لن يتمكن اللاعبين الاخرين من سماعك!</string>
     <string name="Allow_permission_to_enable_voice_recording_">السماح بأذن لتمكين التسجيل الصوتي</string>
     <string name="voice_chat_prompt">للحصول على أفضل صوت أستخدم سماعة الرأس..</string>
     <string name="Only_leader_can_answer_requests_">"فَقط القائد يستطيع قبول الطلبات</string>
     <string name="Sent_request_not_invited_">تم ارسال طلبك (لست مدعو).</string>
-    <string name="REMOVE_SKIN_FROM_COMMUNITY_">أحذف السكن من المُجتمع!</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">أحذف الجلد من المُجتمع!</string>
     <string name="This_cannot_be_undone_">هذه لا يمكن التراجع عنها.!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">شاهد فيديو للحصول على مكافآة  %d مؤقتة!</string>
     <string name="WATCH_VIDEO_">شاهد فيديو!</string>
@@ -1237,7 +1237,7 @@
     <string name="Collected_">جُمِعت:</string>
     <string name="Collisions_">تَعارُض:</string>
     <string name="Absorbed_">مُنهَمِك:</string>
-    <string name="team_warning">" جعل خصمُك من الفريق سيؤدي ذلك إلى حظرك من اللعبة."</string>
+    <string name="team_warning">" جعل خصمُك الى الفريق سيؤدي ذلك إلى حظرك من اللعبة."</string>
     <string name="Search_Filter">تصفيّة البَحِث</string>
     <string name="Received_">تم الاستلام:</string>
     <string name="Opponent_Rating_Limit_">حد تصنيف الخصم</string>
@@ -1286,7 +1286,7 @@
     <string name="Plasma_Boost">مُسرِّع البلازما</string>
     <string name="particle_info">يجِب أن تكون في المستوى الـ 50 على الأقل وتستخدم سكن اساسي به جزئيَّات. من أجل رؤية أي جزئيات أخرى.</string>
     <string name="Plain_Score_Text">"نص النقاط"</string>
-    <string name="Custom_Skin_Reviewed_Notification">لقد قمنا بمُراجعة سكنك!</string>
+    <string name="Custom_Skin_Reviewed_Notification">لقد قُمنا بمُراجعة جِلدك</string>
     <string name="You_Have_Mail_">لديك رسالة من %s!</string>
     <string name="Clan_Request_Reviewed_Notification">طلبك للإنضمام للعشيرة %s تمَّت مُراجعتهُ!</string>
     <string name="CRAZY_SPLIT">انقسام مجنونx</string>
@@ -1376,7 +1376,7 @@ Commands:
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
-    <string name="Translator">متـرجـم</string>
+    <string name="Translator">مُتـرجـم</string>
     <string name="SUCCESS">تم بنجاح</string>
 
 
@@ -1414,7 +1414,7 @@ Commands:
     </string-array>
 
     <string-array name="sizes">
-        <item>"صغير جدا"</item>
+        <item>"صغير جداً"</item>
         <item>"صغير"</item>
         <item>"عادي"</item>
         <item>"كبير"</item>
