@@ -14,7 +14,7 @@
     <string name="Game_Mode_">"Mode Permainan:"</string>
     <string name="Show_Names">"Tampilkan Nama"</string>
     <string name="Show_Avatars">"Tampilkan Skin"</string>
-    <string name="PLAY">"MAIN"</string>
+    <string name="PLAY">"BERMAIN"</string>
     <string name="OPTIONS">"OPSI"</string>
 
     <string name="Avatar_">"Skins:"</string>
@@ -124,10 +124,10 @@
     <string name="CTF">"CTF"</string>
     <string name="SURVIVAL">"BERTAHAN HIDUP"</string>
     <string name="Clan_XP">"XP Klan"</string>
-    <string name="Dot_Nibbler">"Dot Nibbler"</string>
-    <string name="Dot_Muncher">"Dot Muncher"</string>
-    <string name="Dot_Eater">"Dot Eater"</string>
-    <string name="Dot_Gulper">"Dot Gulper"</string>
+    <string name="Dot_Nibbler">"Penggigit Titik"</string>
+    <string name="Dot_Muncher">"Pengunyah titik"</string>
+    <string name="Dot_Eater">"Pemakan Titik"</string>
+    <string name="Dot_Gulper">"Titik Gulper"</string>
     <string name="Dot_Gobbler">"Dot Gobbler"</string>
     <string name="Dot_Devourer">"Dot Devourer"</string>
     <string name="Dot_Gormandizer">"Dot Gormandizer"</string>
