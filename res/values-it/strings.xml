@@ -1032,7 +1032,7 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="You_can_purchase_this_hat_for">Puoi comprare questo cappello per</string>
     <string name="You_can_purchase_this_particle_for">Puoi comprare questa particella per</string>
     <string name="You_can_purchase_this_eject_skin_for">Puoi comprare questa skin di espulsione per</string>
-    <string name="Skin">Skin</string>
+    <string name="Skin">Pelle</string>
     <string name="Custom_Skin">Skin personalizzata</string>
     <string name="Color">Colore</string>
     <string name="RECENT_PLAYERS">GIOCATORI RECENTI</string>
@@ -1162,7 +1162,7 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="Refund__Multiskin">Rimborso\nSkin multiple</string>
     <string name="Invalid_Clan_ID_">ID Clan non valido.</string>
     <string name="MUTED">SILENZIATO</string>
-    <string name="SKIN">SKIN</string>
+    <string name="SKIN">PELLE</string>
     <string name="Choose_Skin_Size">Scegli dimensione Skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Gli altri giocatori non potranno sentirti!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Abilita permesso per utilizzare il registratore vocale</string>
