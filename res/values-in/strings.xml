@@ -81,7 +81,7 @@
     <string name="Signed_in_as_">"Login sebagai:"</string>
     <string name="Not_signed_in_">"Tidak Login!"</string>
     <string name="SET_NAME">"ATUR NAMA"</string>
-    <string name="SIGN_OUT">"LOGOUT"</string>
+    <string name="SIGN_OUT">"KELUAR"</string>
     <string name="ACHIEVEMENTS">"PRESTASI"</string>
     <string name="STATISTICS">"STATISTIK"</string>
     <string name="XP_">"XP:"</string>
@@ -416,7 +416,7 @@
     <string name="ArenaDescription">"Anda hanya mendapatkan satu kehidupan. Pemenang akan mendapatkan %s plasma."</string>
     <string name="Contestant">"Kontestan"</string>
     <string name="Duelist">"Duelist"</string>
-    <string name="Gladiator">"Gladiator"</string>
+    <string name="Gladiator">"Budak"</string>
     <string name="Challenger">"Penantang"</string>
     <string name="Win_1_1v1_Arenas_">"Memenangkan Arena."</string>
     <string name="Win_10_Arenas_">"Menang 10 Arena."</string>
@@ -438,7 +438,7 @@
     <string name="Clan_General">"Klan Umum"</string>
     <string name="Clan_Wars_Won_">"Klan Perang Dimenangkan:"</string>
     <string name="Arenas_Won_">"Arena Dimenangkan:"</string>
-    <string name="Arena_Mode">"Mode Arena"</string>
+    <string name="Arena_Mode">"Modus Arena"</string>
     <string name="Connection_Lost">"Koneksi Terputus"</string>
     <string name="Present_Hoarder">"Penimbun Kado"</string>
     <string name="Present_Mogul">"Mogul Kado"</string>
@@ -534,7 +534,7 @@
     <string name="Choose_File">"Pilih File"</string>
     <string name="Google_Profile">"Profil Google"</string>
     <string name="You_must_be_signed_in_to_Google_">"Anda harus login ke Google."</string>
-    <string name="MAYHEM">"MAYHEM"</string>
+    <string name="MAYHEM">"Aniaya"</string>
     <string name="eggs_">"Telur."</string>
     <string name="Egg_Collector">"Kolektor Telur"</string>
     <string name="Egg_Hoarder">"Penimbun Telur"</string>
@@ -546,7 +546,7 @@
     <string name="CLAN_HISTORY">"RIWAYAT KLAN"</string>
     <string name="Love_Nebulous_">"Cinta Nebulous?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Mohon Dukungan Nebulous oleh penilaian ini."</string>
-    <string name="MAYHEM_MODE">"MODE MAYHEM"</string>
+    <string name="MAYHEM_MODE">"MODUS KEKACUAN"</string>
     <string name="Times_Teleported_">"Kali Teleportasi:"</string>
     <string name="Powerups_Used_">"Powerup Digunakan:"</string>
     <string name="Power_Hungry">"Kekuatan Lapar"</string>
@@ -652,7 +652,7 @@
     <string name="Clan_Uploads">"Klan Skin Upload"</string>
     <string name="Empty">"Kosong"</string>
     <string name="Select">"Pilih"</string>
-    <string name="Current_Skin">"Skin Saat ini"</string>
+    <string name="Current_Skin">"Kulit Saat Ini"</string>
     <string name="Status">"Status"</string>
     <string name="upload_size_failure">"Tidak bisa mengunggah gambar ini karena terlalu besar. Silakan coba gambar yang berbeda."</string>
     <string name="CONTRIBUTE_PLASMA">"MENYUMBANG PLASMA"</string>
@@ -891,7 +891,7 @@
     <string name="BANNED">DILARANG</string>
     <string name="CLAN_MEMBERS">ANGGOTA KLAN</string>
     <string name="CLAN_REQUESTS">PERSETUJUAN ANGGOTA</string>
-    <string name="Pet_1">Pet 1</string>
+    <string name="Pet_1">Hewan Peliharaan 1</string>
     <string name="Pet_2">Pet 2</string>
     <string name="Second_Pet">Anda dapat menggunakan 2 Pet sekaligus!</string>
     <string name="This_item_requires">Item ini memerlukan </string>
