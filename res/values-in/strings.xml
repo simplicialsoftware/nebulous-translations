@@ -799,7 +799,7 @@
     <string name="muted_until">Dibisukan Sampai</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Peringkat konten aplikasi dapat berubah ketika bermain multipemain.</string>
     <string name="UI_Opacity_">Opasitas UI</string>
-    <string name="LOAD">BAWAAN</string>
+    <string name="LOAD">MEMUAT</string>
     <string name="REMOVE">HAPUS</string>
     <string name="BAN">MELARANG</string>
     <string name="MODERATORS">MODERATOR</string>
