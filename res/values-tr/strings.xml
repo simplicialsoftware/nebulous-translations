@@ -22,13 +22,13 @@
     <string name="Name_">"İsim:"</string>
 
     <string name="Loading___">"Yükleniyor…"</string>
-    <string name="Connecting___">"Bağlanılıyor…"</string>
+    <string name="Connecting___">"Bağlanıyor…"</string>
 
     <string name="Are_You_Sure_">"Emin Misiniz?"</string>
     <string name="Yes">"Evet"</string>
     <string name="No">"Hayır"</string>
     <string name="WAIT">"Lütfen Bekleyiniz…"</string>
-    <string name="Must_Specify_Name_">"Bir isim girmelisiniz."</string>
+    <string name="Must_Specify_Name_">"Bir İsim Girmelisiniz."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Uygulamanın içerik derecelendirmesi, grupları bulur iken değişebilmektedir."</string>
 
@@ -38,11 +38,11 @@
     <string name="Score__">"Puan: "</string>
     <string name="Recombine_">"Birleşme: "</string>
     <string name="WINNER_">"KAZANAN:"</string>
-    <string name="IDLE">"Hareket Etmiyorsunuz:"</string>
+    <string name="IDLE">"Hareketsiz:"</string>
     <string name="Name_Invalid_">"Geçersiz İsim."</string>
     <string name="Name_Taken_">"İsim Zaten Alınmış."</string>
     <string name="CONNECTED">"BAĞLANDI"</string>
-    <string name="JOINING___">"BAĞLANIYORSUNUZ"</string>
+    <string name="JOINING___">"BAĞLANIYOR"</string>
     <string name="PLAYING">"OYNANIYOR"</string>
     <string name="MULTIPLAYER">"ÇOK OYUNCULU"</string>
 
@@ -56,7 +56,7 @@
 
 
     <string name="SERVER">"SUNUCU"</string>
-    <string name="Joining_game_in_">"Oyuna Katılıyorsunuz "</string>
+    <string name="Joining_game_in_">"Oyuna Katılıyor "</string>
     <string name="Game_Full">"Oyun Dolu."</string>
     <string name="US_East">"Doğu ABD"</string>
     <string name="US_West">"Batı ABD"</string>
@@ -89,18 +89,18 @@
     <string name="Green_Team">"Yeşil Takım"</string>
     <string name="Blue_Team">"Mavi Takım"</string>
     <string name="Yellow_Team">"Sarı Takım"</string>
-    <string name="Signed_in_as_">"Giriş Yapılmıştır:"</string>
-    <string name="Not_signed_in_">"Giriş Yapılamamıştır!"</string>
-    <string name="SET_NAME">"İSİM BELİRLEYİN"</string>
-    <string name="SIGN_OUT">"OTURUMU KAPATIN"</string>
+    <string name="Signed_in_as_">"Giriş Yapıldı:"</string>
+    <string name="Not_signed_in_">"Giriş Yapılamadı!"</string>
+    <string name="SET_NAME">"İSİM BELİRLE"</string>
+    <string name="SIGN_OUT">"OTURUMU KAPAT"</string>
     <string name="ACHIEVEMENTS">"KAZANIMLAR"</string>
     <string name="STATISTICS">"İSTATİSTİKLER"</string>
     <string name="XP_">"XP/DP:"</string>
 
-    <string name="Information">"Bilgi Alın"</string>
+    <string name="Information">"Bilgi Al"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Bu avatarı kullanabilmeniz için ilgili kazanımı elde etmeniz gerekmektedir."</string>
     <string name="To_use_this_skin_you_must_reach_level">"Bu avatarı kullanabilmeniz için erişmeniz gereken seviye"</string>
-    <string name="SIGN_IN">"GİRİŞ YAPIN"</string>
+    <string name="SIGN_IN">"GİRİŞ YAP"</string>
 
     <string name="Single_Player_Stats">"Tek Kişilik Oyun İstatistikleri"</string>
 
@@ -113,22 +113,22 @@
     <string name="SIGNING_IN">"GİRİŞ YAPILIYOR…"</string>
     <string name="New_Friend_Request">"Yeni Arkadaşlık İsteği!"</string>
     <string name="REQUEST_FRIEND">"ARKADAŞLIK İSTEĞİ"</string>
-    <string name="Private">"Size Özel"</string>
+    <string name="Private">"Özel"</string>
     <string name="Public">"Herkese Açık"</string>
     <string name="Bot">"Bot"</string>
-    <string name="You">"Siz"</string>
+    <string name="You">"Sen"</string>
     <string name="This_player_is_a_bot">"Bu Oyuncu Bir Bottur."</string>
     <string name="This_player_is_not_signed_in">"Bu Oyuncu Giriş Yapmamıştır."</string>
 
     <string name="Online">"Çevrim İçi"</string>
     <string name="Unknown">"Bilinmeyen"</string>
-    <string name="Offline">"çevrim dışı"</string>
+    <string name="Offline">"Çevrim Dışı"</string>
     <string name="Achievement_Earned">"Kazanım Elde Edildi"</string>
     <string name="REFRESH">"YENİLE"</string>
     <string name="DONE">"TAMAMLANDI"</string>
     <string name="Friend_Request_Sent">"Arkadaşlık İsteği Gönderildi…"</string>
     <string name="ERROR">"HATA"</string>
-    <string name="CONTINUE">"DEVAM EDİN"</string>
+    <string name="CONTINUE">"DEVAM ET"</string>
     <string name="Global_" formatted="false">"Küresel %"</string>
     <string name="FRIEND_CHAT">"ARKADAŞINIZ İLE SOHBET"</string>
     <string name="LOBBY_NAME">"LOBİ ADI"</string>
@@ -249,9 +249,9 @@
     <string name="Special_Effects">"Özel Efektler"</string>
     <string name="Blob_Mushiness">"Baloncuk Esnekliği"</string>
 
-    <string name="Specify_private_game_name">"Özel Oyun Adını Yazınız"</string>
-    <string name="In_Game_Chat">"Oyun içi Sohbet"</string>
-    <string name="My_Status_">"Kendi Durumum:"</string>
+    <string name="Specify_private_game_name">"Özel Oyun İsmi"</string>
+    <string name="In_Game_Chat">"Oyun İçi Sohbet"</string>
+    <string name="My_Status_">"Durumum:"</string>
     <string name="Game_Size_">"Oyun Boyutu:"</string>
 
     <string name="Server_Restart_">"Sunucunun Yeniden Başlatılmasına Kalan Süre:"</string>
@@ -266,11 +266,11 @@
     <string name="JOIN_CLAN">"KLANA KATIL"</string>
     <string name="JOIN_RANDOM_CLAN">"RASTGELE BİR KLANA KATIL"</string>
     <string name="LEAVE_CLAN">"KLANDAN AYRIL"</string>
-    <string name="INVITE_MEMBER">"BİR ÜYEYİ DAVET EDİN"</string>
-    <string name="REMOVE_MEMBER">"BİR ÜYEYİ ÇIKARIN"</string>
+    <string name="INVITE_MEMBER">"ÜYEYİ DAVET ET"</string>
+    <string name="REMOVE_MEMBER">"ÜYEYİ ÇIKAR"</string>
 
 
-    <string name="CREATE_CLAN">"KLAN OLUŞTURUN"</string>
+    <string name="CREATE_CLAN">"KLAN OLUŞTUR"</string>
     <string name="MEMBER">"ÜYE "</string>
     <string name="ADMIN">"YÖNETİCİ "</string>
     <string name="LEADER">"LİDER"</string>
@@ -283,10 +283,10 @@
     <string name="CLAN">"KLAN"</string>
 
 
-    <string name="Specify_Clan_ID">"Klan ID'sini Belirtiniz."</string>
+    <string name="Specify_Clan_ID">"Klan ID'sini Belirt."</string>
     <string name="Show_Clan_Names">"Klan İsimlerini Göster"</string>
     <string name="Show_Levels">"Seviyeleri Göster"</string>
-    <string name="SET_MOTD">"Klanın Ön Bilgisini Kaydedin"</string>
+    <string name="SET_MOTD">"Klanın Ön Bilgisini Kaydet"</string>
     <string name="No_such_user_found_">"Böyle bir kullanıcı bulunamadı."</string>
     <string name="No_open_public_clans_exist_">"Herkese açık bir klan yok."</string>
     <string name="You_aren_t_invited_to_that_clan_">"Bu klana davet edilmediniz."</string>
@@ -321,8 +321,8 @@
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"Tüm Nebulous Sevenlerimize Teşekkürlerimizi Sunuyoruz."</string>
     <string name="Color_Blind">"Renk Körlüğü"</string>
     <string name="Daily_Quest_Complete_">"Günlük Görevi Tamamlayın!"</string>
-    <string name="COPY_ID">"HESAP KİMLİĞİNİ KOPYALA"</string>
-    <string name="My_Account_ID">"Hesap Kimliğim"</string>
+    <string name="COPY_ID">"HESAP NUMARASINI KOPYALA"</string>
+    <string name="My_Account_ID">"Hesap Numarası"</string>
 
 
     <string name="COMPLETE">"TAMAMLANDI"</string>
@@ -338,7 +338,7 @@
     <string name="_dots">" benekler"</string>
     <string name="_player_blobs">" oyuncu baloncukları"</string>
     <string name="Absorb_">"Yut "</string>
-    <string name="Collect_">"Toplayın "</string>
+    <string name="Collect_">"Topla "</string>
 
     <string name="FFA_CLASSIC">"HERKES TEK KLASİK"</string>
 
@@ -377,9 +377,9 @@
     <string name="W_D_L">"G-B-K"</string>
     <string name="MATCH_START">"MAÇ BAŞLIYOR"</string>
     <string name="Clan_Warrior">"Klan Savaşçısı"</string>
-    <string name="Win_a_Clan_War">"Bir Klan Savaşı kazanın."</string>
+    <string name="Win_a_Clan_War">"Bir Klan Savaşı Kazan."</string>
     <string name="Global">"Küresel"</string>
-    <string name="Spectating">"İzliyorsunuz"</string>
+    <string name="Spectating">"İzleniyor"</string>
 
 
     <string name="snowflakes_">"Kar Taneleri."</string>
@@ -454,7 +454,7 @@
     <string name="Copy_ID">"Kimliği Kopyala"</string>
     <string name="View_Profile">"Profili Görüntüle"</string>
     <string name="Send_Message">"Mesaj Gönder"</string>
-    <string name="Account_ID">"Hesap Kimliği"</string>
+    <string name="Account_ID">"Hesap Numarası"</string>
     <string name="Player_Name">"Oyuncu Adı"</string>
 
     <string name="Daily_Reward">"Günlük Ödül"</string>
@@ -485,7 +485,7 @@
 
     <string name="Already_in_arena_">"Zaten Arenadasınız."</string>
     <string name="Already_in_queue_">"Zaten Oyun Sırasındasınız."</string>
-    <string name="Invalid_Account_ID_">"Geçersiz Hesap Kimliği."</string>
+    <string name="Invalid_Account_ID_">"Geçersiz Hesap Numarası."</string>
 
     <string name="Validating">"Doğrulanıyor"</string>
 
@@ -535,7 +535,7 @@
     <string name="Score_33_points_in_a_single_DOM_game_">"Tek bir Hakimiyet oyununda 33 puan kazanın."</string>
     <string name="Win_a_Domination_Game">"Bir Hakimiyet oyunu kazanın."</string>
     <string name="Select_Team">"Takımınızı Seçiniz"</string>
-    <string name="MANAGE_TEAMS">"TAKIMLARI YÖNETİN"</string>
+    <string name="MANAGE_TEAMS">"TAKIMLARI YÖNET"</string>
     <string name="CLAN_INVITE">"KLAN DAVETİ"</string>
     <string name="TEAM_INVITE">"TAKIM DAVETİ"</string>
     <string name="Team_Size">"Takım Sınırı"</string>
@@ -544,7 +544,7 @@
     <string name="Solo">"Tek"</string>
     <string name="Teams">"Takımlar"</string>
     <string name="Team">"Takım"</string>
-    <string name="Specify_Account_ID">"Hesap Kimliğini belirtin"</string>
+    <string name="Specify_Account_ID">"Hesap Numarasını Belirt"</string>
     <string name="Team_Created_">"Takım  başarıyla oluşturuldu!"</string>
     <string name="Team_Arena">"Takım Arenası"</string>
     <string name="No_Teams">"Takımsız"</string>
@@ -552,7 +552,7 @@
 
 
     <string name="Invited">"Davet Edildi"</string>
-    <string name="Invitation_Sent">"Davetiniz Gönderilmiştir."</string>
+    <string name="Invitation_Sent">"Davet Gönderildi."</string>
     <string name="REPORT">"BİLDİR"</string>
     <string name="Reported">"Bildirildi"</string>
     <string name="Threats">"Tehditler"</string>
@@ -564,7 +564,7 @@
     <string name="Reject_Invitation">"Daveti Reddet"</string>
     <string name="Leave_Game">"Oyundan Ayrıl"</string>
     <string name="Remove_Friend">"Arkadaşı Kaldır"</string>
-    <string name="Remove_Clan_Member">"Bir Klan Üyesini Çıkar"</string>
+    <string name="Remove_Clan_Member">"Klan Üyesini Çıkar"</string>
     <string name="Flag_lobby_as_inappropriate">"Bu lobiyi uygunsuz olarak işaretleyin"</string>
     <string name="Promote_Clan_Member">"Klan Üyesinin Rütbesini Yükselt"</string>
     <string name="Leave_Clan">"Klandan Ayrıl"</string>
@@ -593,20 +593,20 @@
     <string name="Bead_Mogul">"Boncuk Kralı"</string>
     <string name="beads_">"Boncuklar."</string>
 
-    <string name="Rejoin_Game">"Oyuna Yeniden Girin"</string>
+    <string name="Rejoin_Game">"Oyuna Yeniden Gir"</string>
     <string name="PRIZES">"ÖDÜLLER "</string>
 
-    <string name="Enable_Custom_Skin">"Özel Cildi Etkinleştirin"</string>
-    <string name="Use_Custom_Skin">"Özel Cildi Kullanın"</string>
+    <string name="Enable_Custom_Skin">"Özel Cildi Etkinleştir"</string>
+    <string name="Use_Custom_Skin">"Özel Cilt Kullan"</string>
     <string name="custom_skin_description">"Bu özellik sizin profil resminizi veya herhangi bir dosyayı cilt olarak kullanabilmenizi sağlar. Ancak bu özellik sadece sizin gördüğünüz cildi değiştirmektedir. Diğer oyuncular sizin özel cildinizi göremeyecektir."</string>
     <string name="CUSTOM_SKIN">"ÖZEL CİLT"</string>
 
     <string name="Facebook_Profile">"Facebook Profili"</string>
     <string name="You_must_be_signed_in_to_Facebook_">"Facebook'ta oturum açmış olmanız gerekmektedir."</string>
-    <string name="copy_details">"Detayları Kopyalayın"</string>
+    <string name="copy_details">"Detayları Kopyala"</string>
     <string name="copied_error_details_to_clipboard">"Hata ayrıntıları panoya başarılı bir şekilde kopyalandı."</string>
 
-    <string name="No_file_browser_installed_">"Cihazınızda herhangi bir dosya yöneticisi bulunamamıştır."</string>
+    <string name="No_file_browser_installed_">"Cihazınızda herhangi bir dosya yöneticisi bulunamadı."</string>
     <string name="Choose_File">"Dosya Seçiniz"</string>
     <string name="Google_Profile">"Google Profili "</string>
     <string name="You_must_be_signed_in_to_Google_">"Google'da oturum açmış olmanız gerekmektedir."</string>
@@ -647,13 +647,13 @@
     <string name="Collect_1_000_raindrops_">"1,000 Adet Yağmur damlası toplayın."</string>
     <string name="Collect_5_000_raindrops_">"5,000 Adet Yağmur damlası toplayın."</string>
     <string name="Collect_10_000_raindrops_">"10,000 Adet Yağmur damlası toplayın."</string>
-    <string name="Copy_Message">"Mesajı Kopyalayın"</string>
+    <string name="Copy_Message">"Mesajı Kopyala"</string>
     <string name="Copied_to_clipboard_">"Panoya başarıyla kopyalandı."</string>
     <string name="COPY_NAME">"İSMİ KOPYALA"</string>
     <string name="Challenge_Sent">"Meydan okuma gönderildi."</string>
     <string name="_1v1_Challenge_">"1'e1 Meydan Oku!"</string>
     <string name="__has_challenged_you_to_a_1v1_match_">"%s size 1'e 1 maç ile meydan okudu!"</string>
-    <string name="Challenge_Expired">"Meydan okumanın süresi dolmuştur."</string>
+    <string name="Challenge_Expired">"Meydan okumanın süresi doldu."</string>
     <string name="Enable_Challenges">"Meydan Okumayı Etkinleştir"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"Şuanki meydan okuma isteğinin iptal edilmesini beklemelisiniz. "</string>
     <string name="CHALLENGE_OPTIONS">"MEYDAN OKUMA SEÇENEKLERİ"</string>
@@ -721,9 +721,9 @@
     <string name="Ends">"Bitiş"</string>
     <string name="Select_Clan_Member">"Klan Üyesini Seçin"</string>
     <string name="Inappropriate_Skin">"Uygunsuz Avatar"</string>
-    <string name="Approved">"Onaylanmıştır"</string>
-    <string name="Rejected">"Reddedilmiştir"</string>
-    <string name="Refunded">"İade Edilmiştir"</string>
+    <string name="Approved">"Onaylandı"</string>
+    <string name="Rejected">"Reddedildi"</string>
+    <string name="Refunded">"İade Edildi"</string>
 
 
     <string name="contribution_warning">"Bu plazma miktarı ile katkıda bulunmak istediğinize emin misiniz? Yaptığınız katkılar sizlere geri iade edilmeyecektir."</string>
@@ -766,7 +766,7 @@
 
     <string name="BANNED_PLAYERS">"YASAKLANMIŞ OYUNCULAR"</string>
     <string name="MAIL">"POSTA"</string>
-    <string name="WRITE_MAIL">"POSTA YAZIN"</string>
+    <string name="WRITE_MAIL">"POSTA YAZ"</string>
     <string name="Days">"Gün"</string>
     <string name="Message">"Mesaj"</string>
     <string name="Subject">"Konu"</string>
@@ -784,7 +784,7 @@
     <string name="Select_Friend">"Arkadaş Seç"</string>
     <string name="Failed_to_send_mail_">"Posta gönderme işlemi başarısız oldu. "</string>
     <string name="In_Game_Mail">"Oyun içi Posta"</string>
-    <string name="Nav_Buttons_">"Navigasyon Butonları:"</string>
+    <string name="Nav_Buttons_">"Arayüz Butonları:"</string>
     <string name="account_warning">"Asla herhangi bir sebepten ötürü kimse ile herhangi bir şekilde "Hesap Şifrenizi" veya herhangi bir şekilde "Kişisel Bilgilerinizi" paylaşmayınız!"</string>
     <string name="Clan_Hero">"Klan Kahramanı"</string>
     <string name="Win_1000_Clan_Wars">"1.000 Adet Klan Savaşı kazanın."</string>
@@ -916,7 +916,7 @@
     <string name="x2_Clan_XP_7_Days">"7 Günlük 2x Klan XP'si"</string>
     <string name="RECEIVED">"ALINAN POSTA"</string>
     <string name="SENT">"GÖNDERİLEN POSTA"</string>
-    <string name="Enable_Invites">"Davetiyelereri Etkinleştirin"</string>
+    <string name="Enable_Invites">"Davetiyeleri Etkinleştir"</string>
     <string name="Game_Invitation">"Oyun Davetiyesi"</string>
     <string name="__has_invited_you_to_join_their_game_">"%s ,sizi kendi oyununa katılmaya davet etti!"</string>
     <string name="Invitation_declined_">"Davetiye Reddedildi!"</string>
@@ -1016,8 +1016,8 @@ Oyunun kurallarını çiğneyen bir oyuncuyu fark ederseniz, lütfen bir "Modera
     <string name="Particle_Uploads">"Parçacık Yüklemeleri"</string>
     <string name="Blob_Outline">"Baloncuk Dış Çizgisi"</string>
     <string name="Game_Border">"Harita Sınırı"</string>
-    <string name="Select_some_text_first">"Önce bir metin seçiniz."</string>
-    <string name="Save_the_profile_first">"Önce profili kaydediniz."</string>
+    <string name="Select_some_text_first">"Önce bir metin seç."</string>
+    <string name="Save_the_profile_first">"Önce profili kaydet."</string>
     <string name="Birthday">"Doğum Günü"</string>
     <string name="Mass_Boost">"Kütle Takviyesi"</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">"Kütle Takviyesi Arenalar'da, Turnuvalar'da ve Klan Savaşların'da çalışmaz!"</string>
