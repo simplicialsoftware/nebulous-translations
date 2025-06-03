@@ -22,7 +22,7 @@
     <string name="Name_">"İsim:"</string>
 
     <string name="Loading___">"Yükleniyor…"</string>
-    <string name="Connecting___">"Bağlanılıyor…"</string>
+    <string name="Connecting___">"Bağlanıyor…"</string>
 
     <string name="Are_You_Sure_">"Emin Misiniz?"</string>
     <string name="Yes">"Evet"</string>
@@ -40,7 +40,7 @@
     <string name="WINNER_">"KAZANAN:"</string>
     <string name="IDLE">"Hareket Etmiyorsunuz:"</string>
     <string name="Name_Invalid_">"Geçersiz İsim."</string>
-    <string name="Name_Taken_">"İsim Zaten Alınmış."</string>
+    <string name="Name_Taken_">"Bu İsim Zaten Alınmış."</string>
     <string name="CONNECTED">"BAĞLANDI"</string>
     <string name="JOINING___">"BAĞLANIYORSUNUZ"</string>
     <string name="PLAYING">"OYNANIYOR"</string>
@@ -91,7 +91,7 @@
     <string name="Yellow_Team">"Sarı Takım"</string>
     <string name="Signed_in_as_">"Giriş Yapılmıştır:"</string>
     <string name="Not_signed_in_">"Giriş Yapılamamıştır!"</string>
-    <string name="SET_NAME">"İSİM BELİRLEYİN"</string>
+    <string name="SET_NAME">"BİR İSİM BELİRLEYİN"</string>
     <string name="SIGN_OUT">"OTURUMU KAPATIN"</string>
     <string name="ACHIEVEMENTS">"KAZANIMLAR"</string>
     <string name="STATISTICS">"İSTATİSTİKLER"</string>
@@ -283,7 +283,7 @@
     <string name="CLAN">"KLAN"</string>
 
 
-    <string name="Specify_Clan_ID">"Klan ID'sini Belirtiniz."</string>
+    <string name="Specify_Clan_ID">"Klan Kimliğini Belirtiniz."</string>
     <string name="Show_Clan_Names">"Klan İsimlerini Göster"</string>
     <string name="Show_Levels">"Seviyeleri Göster"</string>
     <string name="SET_MOTD">"Klanın Ön Bilgisini Kaydedin"</string>
@@ -527,7 +527,7 @@
     <string name="Min_Level">"Minimum Seviye "</string>
     <string name="SAVE">"KAYDET"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Bu oyuncunun şuanki seviyesi klana katılmak için yeterli değildir."</string>
-    <string name="Insufficient_Permission">"Yetersiz Yetki"</string>
+    <string name="Insufficient_Permission">"Yetersiz İzin"</string>
     <string name="DOMINATION">"HAKİMİYET"</string>
     <string name="DOM_Domination">"Hakimiyet Egemenliği"</string>
     <string name="DOM_Hat_Trick">"Hakimiyet Üçlemesi"</string>
@@ -673,7 +673,7 @@
     <string name="VIEW_INVITES">"KLANA KATILIM İSTEKLERİ"</string>
     <string name="CLAN_INVITES">"KLAN DAVETLERİ"</string>
     <string name="Cancel_Invitation">"Daveti İptal Et"</string>
-    <string name="DOWNLOAD">"İNDİR"</string>
+    <string name="DOWNLOAD">"YÜKLE"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"TÜM ARKADAŞ İSTEKLERİNİ REDDET"</string>
     <string name="suns_">"Güneşler. "</string>
     <string name="Sun_Collector">"Güneş Toplayıcısı"</string>
@@ -857,7 +857,7 @@
     <string name="Permanent">"Kalıcı"</string>
     <string name="Apply_To_Account">"Hesaba Uygulayın."</string>
     <string name="Spin_">"Çevirin!"</string>
-    <string name="Next_Spin">"Sonraki Ücretsiz Çevirme"</string>
+    <string name="Next_Spin">"Bir Sonraki Ücretsiz Çevirme"</string>
     <string name="Wheel_Of_Nebulous_">"Nebulous Çarkı!"</string>
     <string name="XP_2x">"XP 2x"</string>
     <string name="XP_3x">"XP 3x"</string>
@@ -889,7 +889,7 @@
     <string name="REMOVE">"KALDIR"</string>
     <string name="BAN">"YASAK"</string>
     <string name="MODERATORS">"MODERATÖRLER"</string>
-    <string name="ALL_CLAN">"TÜM\nKLAN"</string>
+    <string name="ALL_CLAN">"TÜM\KLAN"</string>
     <string name="CO_LEADER">"LİDER YARDIMCISI"</string>
     <string name="CLAN_HOUSE">"KLAN EVİ"</string>
     <string name="ROOM">"ODA"</string>
@@ -959,7 +959,7 @@ Nebulous'un Kuralları:\n
 6- Oyun içinde veya dışında asla Hesabınızı başkaları ile paylaşmayın ve sakın takas yoluna gitmeyiniz.\n
 7- Üst sıralara ulaşmak için asla Hile Yapmayınız!  Klan Savaşı-Arena (Bedava Puan vb.)\n
 8- Uygun olmayan isimlerle (Argo, +18 İçerikli İsimlerle) özel oda oluşturmayınız.\n
-9- Moderatörlere uyum sağlamanı kesinlikle ve şiddetle Tavsiye Ediyoruz.\n
+9- Moderatörlere uyum sağlamayı kesinlikle ve şiddetle Tavsiye Ediyoruz.\n
 10- Oyundaki hatalardan (BUG) faydalanmayınız. (Bizlere bildirebilirsiniz)\n
 11- Lider olmadan çok fazla Klan Üyesi yasaklamayınız.\n
 12- Sohbette gereksiz mesaj (Spam) yapmayınız.\n
