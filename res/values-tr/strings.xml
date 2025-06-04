@@ -24,7 +24,7 @@
     <string name="Loading___">"Yükleniyor…"</string>
     <string name="Connecting___">"Bağlanılıyor…"</string>
 
-    <string name="Are_You_Sure_">"Emin Misiniz?"</string>
+    <string name="Are_You_Sure_">"Emin Misin?"</string>
     <string name="Yes">"Evet"</string>
     <string name="No">"Hayır"</string>
     <string name="WAIT">"Lütfen Bekleyiniz…"</string>
@@ -42,7 +42,7 @@
     <string name="Name_Invalid_">"Geçersiz İsim."</string>
     <string name="Name_Taken_">"İsim Zaten Alınmış."</string>
     <string name="CONNECTED">"BAĞLANDI"</string>
-    <string name="JOINING___">"BAĞLANIYORSUNUZ"</string>
+    <string name="JOINING___">"KATILIYORSUNUZ"</string>
     <string name="PLAYING">"OYNANIYOR"</string>
     <string name="MULTIPLAYER">"ÇOK OYUNCULU"</string>
 
@@ -113,7 +113,7 @@
     <string name="SIGNING_IN">"GİRİŞ YAPILIYOR…"</string>
     <string name="New_Friend_Request">"Yeni Arkadaşlık İsteği!"</string>
     <string name="REQUEST_FRIEND">"ARKADAŞLIK İSTEĞİ"</string>
-    <string name="Private">"Size Özel"</string>
+    <string name="Private">"Özel"</string>
     <string name="Public">"Herkese Açık"</string>
     <string name="Bot">"Bot"</string>
     <string name="You">"Siz"</string>
@@ -122,7 +122,7 @@
 
     <string name="Online">"Çevrim İçi"</string>
     <string name="Unknown">"Bilinmeyen"</string>
-    <string name="Offline">"çevrim dışı"</string>
+    <string name="Offline">"Çevrim Dışı"</string>
     <string name="Achievement_Earned">"Kazanım Elde Edildi"</string>
     <string name="REFRESH">"YENİLE"</string>
     <string name="DONE">"TAMAMLANDI"</string>
@@ -254,7 +254,7 @@
     <string name="My_Status_">"Kendi Durumum:"</string>
     <string name="Game_Size_">"Oyun Boyutu:"</string>
 
-    <string name="Server_Restart_">"Sunucunun Yeniden Başlatılmasına Kalan Süre:"</string>
+    <string name="Server_Restart_">"Sunucunun Yeniden Başlatılması"</string>
     <string name="GOAL_">"GOL!"</string>
     <string name="SOCCER">"FUTBOL"</string>
     <string name="DRAW">"BERABERE"</string>
@@ -277,7 +277,7 @@
     <string name="ELDER">"KIDEMLİ"</string>
 
 
-    <string name="Not_in_a_clan_">"Herhangi bir Klanda Değilsiniz."</string>
+    <string name="Not_in_a_clan_">"Herhangi bir klanda değilsiniz."</string>
 
 
     <string name="CLAN">"KLAN"</string>
@@ -392,7 +392,7 @@
     <string name="The_next_season_begins">"Bir sonraki sezon başlıyor…"</string>
 
     <string name="Current">"Güncel"</string>
-    <string name="leaves_">"Yapraklar."</string>
+    <string name="leaves_">"Ayrılmak."</string>
     <string name="Leaf_Collector">"Yaprak Toplayıcısı"</string>
     <string name="Collect_1000_leaves_">"1.000 Yaprak toplayın."</string>
     <string name="XP_Boost">"XP Katlayıcı"</string>
@@ -889,15 +889,15 @@
     <string name="REMOVE">"KALDIR"</string>
     <string name="BAN">"YASAK"</string>
     <string name="MODERATORS">"MODERATÖRLER"</string>
-    <string name="ALL_CLAN">"TÜM\nKLAN"</string>
+    <string name="ALL_CLAN">"TÜM KLAN"</string>
     <string name="CO_LEADER">"LİDER YARDIMCISI"</string>
     <string name="CLAN_HOUSE">"KLAN EVİ"</string>
     <string name="ROOM">"ODA"</string>
     <string name="EXPERIMENTAL">"DENEME"</string>
-    <string name="members">"Üyeler"</string>
+    <string name="members">"üyeler"</string>
     <string name="Delete_ALL_Messages_">"TÜM Mesajlarınızı Silin!"</string>
     <string name="SAVE_PROFILE">"DEĞİŞİKLİKLERİ KAYDET"</string>
-    <string name="Move">"Sırala"</string>
+    <string name="Move">"Taşınma"</string>
     <string name="New_Position">"Yeni Sıralama"</string>
     <string name="ALLIANCES">"İTTİFAKLAR"</string>
     <string name="ENEMIES">"DÜŞMANLAR"</string>
@@ -915,7 +915,7 @@
     <string name="gift_purchase_warning">"Bu satın alma işlemini bir arkadaşınıza hediye etmeyi tercih ettiğinizden dolayı için kendinize alamayacaksınız!"</string>
     <string name="x2_Clan_XP_7_Days">"7 Günlük 2x Klan XP'si"</string>
     <string name="RECEIVED">"ALINAN POSTA"</string>
-    <string name="SENT">"GÖNDERİLEN POSTA"</string>
+    <string name="SENT">"GÖNDERİLDİ"</string>
     <string name="Enable_Invites">"Davetiyelereri Etkinleştirin"</string>
     <string name="Game_Invitation">"Oyun Davetiyesi"</string>
     <string name="__has_invited_you_to_join_their_game_">"%s ,sizi kendi oyununa katılmaya davet etti!"</string>
@@ -935,7 +935,7 @@
     <string name="Pet_Uploads">"Evcil Hayvan Yüklemeleri"</string>
     <string name="BLOB">"Baloncuk"</string>
     <string name="Clan_Pet_Uploads">"Klan Evcil Hayvan Yüklemeleri"</string>
-    <string name="YT">"YT"</string>
+    <string name="YT">"YouTube"</string>
     <string name="FREE_TODAY">"BUGÜN ÜCRETSİZ!"</string>
     <string name="Cannot_cancel_this_skin_yet_">"Bu özel avatarı iptal edebilmek için lütfen biraz bekleyiniz."</string>
     <string name="SPLIT_16X">"16x BÖLÜNME"</string>
