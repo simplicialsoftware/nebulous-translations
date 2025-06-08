@@ -67,7 +67,7 @@
     <string name="SINGLE_PLAYER">"ЕДИН ИГРАЧ"</string>
     <string name="Background_">"Пейзаж:"</string>
     <string name="Difficulty_">"Трудност:"</string>
-    <string name="Delay_Disconnect">"Забави Изключването"</string>
+    <string name="Delay_Disconnect">"Отмяна Изключването"</string>
 
     <string name="Max_Players">"Макс Играчи"</string>
     <string name="Min_Players">"Мин Играчи"</string>
@@ -81,7 +81,7 @@
     <string name="CUSTOM_GAMES">"Къстъм игри"</string>
     <string name="CHAT">"ЧАТ"</string>
     <string name="CUSTOM_SETUP">"Къстъм Настройки"</string>
-    <string name="CHAT_SETUP">"ЧАТ НАСТРОЙКИ"</string>
+    <string name="CHAT_SETUP">"Настройки на чата"</string>
 
 
     <string name="SIGN_IN">"ВПИШИ СЕ"</string>
