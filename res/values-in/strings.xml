@@ -66,7 +66,7 @@
     <string name="OK">"OKE"</string>
     <string name="CANCEL">"BATAL"</string>
     <string name="Chat_Name">"Nama Obrolan"</string>
-    <string name="Max_People">"Max Pemain"</string>
+    <string name="Max_People">"Maks Pemain"</string>
     <string name="START">"MULAI"</string>
     <string name="CREATE">"BUAT"</string>
     <string name="CUSTOM_GAMES">"PERMAINAN KUSTOM"</string>
@@ -848,7 +848,7 @@
     <string name="Hats">Topi</string>
     <string name="Pet_Uploads">Unggah Pet</string>
     <string name="BLOB">GUMPALAN</string>
-    <string name="Clan_Pet_Uploads">Klan Skin Pet Upload</string>
+    <string name="Clan_Pet_Uploads">Unggahan Skin Pet Klan</string>
     <string name="YT">YT</string>
     <string name="FREE_TODAY">GRATIS HARI INI!</string>
     <string name="Cannot_cancel_this_skin_yet_">Belum bisa membatalkan skin ini.</string>
@@ -1001,7 +1001,7 @@
     <string name="Asia">Asia</string>
     <string name="SET_PRIVACY">ATUR PRIVASI</string>
     <string name="ANIMATION">ANIMASI</string>
-    <string name="Color_Cycle">Color Cycle</string>
+    <string name="Color_Cycle">Siklus Warna</string>
     <string name="Fast">Cepat</string>
     <string name="Slow">Lambat</string>
     <string name="Rainbow">Pelangi</string>
@@ -1030,7 +1030,7 @@
     <string name="You_need_to_buy_a_pack_to_use_this_">Untuk menggunakan skin ini Anda harus membeli paket skin</string>
     <string name="GET_PACK">DAPATKAN PAKET</string>
     <string name="Position_in_queue">Posisi antrian</string>
-    <string name="PROFILE_MENU_BACKGROUND_COLOR">WARNA LATARBELAKANG PROFIL</string>
+    <string name="PROFILE_MENU_BACKGROUND_COLOR">WARNA LATAR BELAKANG PROFIL</string>
     <string name="DARK_MATTER">DARK MATTER</string>
     <string name="Textures_will_be_regenerated_">Tekstur hitam dan kustom skin akan dibuat ulang.</string>
     <string name="Enable_Profile_Colors">Aktifkan Warna Profil</string>
@@ -1102,7 +1102,7 @@
     <string name="Background_Scale_">Ukuran Latarbelakang:</string>
     <string name="Background_Lightness_">Kecerahan Latarbelakang:</string>
     <string name="Background_Image_">Gambar Latarbelakang:</string>
-    <string name="INVERT_SELECTION">INVERT\nSELECTION</string>
+    <string name="INVERT_SELECTION">MEMBALIKAN\nPILIHAN</string>
     <string name="MINIMAP">PETA MINI</string>
     <string name="Victorious">Berjaya</string>
     <string name="Dominant">Dominan</string>
@@ -1121,7 +1121,7 @@
     <string name="x4_XP_Permanent">4x XP Permanen</string>
     <string name="x4_XP_24_hours">4x XP 24 Jam</string>
     <string name="x4_XP_1_Hour">4x XP 1 Jam </string>
-    <string name="Quad">Quadruple</string>
+    <string name="Quad">4X</string>
     <string name="Middle_East">Timur Tengah</string>
     <string name="XP_4x">XP 4x</string>
     <string name="You_cannot_play_for_x_minutes_">Anda tidak bisa bermain selama %d menit</string>
@@ -1131,7 +1131,7 @@
     <string name="CHARGE_UP">MENGISI DAYA</string>
     <string name="CLAN_DESCRIPTION_COLOR">WARNA DESKRIPSI KLAN</string>
     <string name="Responsible_Pet_Owner">Pemilik Pet Tanggungjawab</string>
-    <string name="Animal_Tamer">Pawang</string>
+    <string name="Animal_Tamer">Penjinak Hewan</string>
     <string name="Crocodile_Hunter">Pemburu Buaya</string>
     <string name="Get_A_Pet_To_Level_X_">Naikkan pet ke level %d.</string>
     <string name="plasma_boost_info">"Anda mendapatkan plasma tiga kali lipat dari semua sumber DALAM PERMAINAN saat ini aktif! Ini termasuk kemenangan arena dan turnamen! TIDAK berlaku pada pembelian plasma, roda putaran, atau hadiah khusus."</string>
