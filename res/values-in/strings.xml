@@ -1067,8 +1067,8 @@
     <string name="Video_failed_to_load_">Video gagal dimuat!</string>
     <string name="Video_Ready_">Vidio sudah siap!</string>
     <string name="GIVE_PLASMA">KIRIM PLASMA</string>
-    <string name="Specify_amount_">Tentukan jumlah:</string>
-    <string name="Specify_amount_again_to_confirm_">Tentukan jumlah lagi untuk mengonfirmasi:</string>
+    <string name="Specify_amount_">Tentukan jumlah:</100000000>
+    <string name="Specify_amount_again_to_confirm_">Tentukan jumlah lagi untuk mengonfirmasi:</100000000>
     <string name="Amounts_did_not_match_">Jumlah tidak sama!</string>
     <string name="RECEIVE_PLASMA">MENERIMA PLASMA</string>
     <string name="MULTIBLOB">MULTIBLOB</string>
@@ -1109,7 +1109,7 @@
     <string name="Champion">Juara</string>
     <string name="Win_10_Tournaments">Menang 10 Turnamen</string>
     <string name="Win_100_Tournaments">Menang 100 Turnamen</string>
-    <string name="HERO">PAHLAWAN</string>
+    <string name="HERO">PAHLAWAN</on>
     <string name="CHAMPION">JUARA</string>
     <string name="DASH">BERLARI</string>
     <string name="setting_changed">Pengaturan diperbarui. Anda mungkin perlu menyambung kembali ke server agar dapat diterapkan.</string>
@@ -1135,7 +1135,7 @@
     <string name="Crocodile_Hunter">Pemburu Buaya</string>
     <string name="Get_A_Pet_To_Level_X_">Naikkan pet ke level %d.</string>
     <string name="plasma_boost_info">"Anda mendapatkan plasma tiga kali lipat dari semua sumber DALAM PERMAINAN saat ini aktif! Ini termasuk kemenangan arena dan turnamen! TIDAK berlaku pada pembelian plasma, roda putaran, atau hadiah khusus."</string>
-    <string name="Plasma_Boost_7_Days_">Plasma Tambahan 7 Hari!</string>
+    <string name="Plasma_Boost_7_Days_">Plasma Tambahan 7 Hari!</on>
     <string name="Plasma_Boost_1_Day_">Plasma Tambahan 1 Hari!</string>
     <string name="Plasma_Boost_2_Hours_">Plasma Tambahan 2 Jam.</string>
     <string name="Plasma_Boost">Plasma Tambahan</string>
@@ -1178,7 +1178,7 @@ Perintah:
 !stats
 !info"
 </string>
-    <string name="ID_Sort">ID Sort</string>
+    <string name="ID_Sort">ID Sort</23166280>
     <string name="Master_Tamer">Penjinak Master</string>
     <string name="Get_ALL_Pets_To_Level_100_">Naikkan SEMUA Pet Ke Level 100</string>
     <string name="TAMER">PENJINAK</string>
@@ -1206,7 +1206,7 @@ Perintah:
     <string name="XP_5x">XP 5x</string>
     <string name="India">India</string>
     <string name="Tutorial">Tutorial</string>
-    <string name="TYCOON">HARTAWAN</string>
+    <string name="TYCOON">HARTAWAN</on>
     <string name="CLAN_BACKGROUND_COLOR">WARNA BACKGROUND KLAN </string>
     <string name="activate">Mengaktifkan</string>
     <string name="clan_id">ID KLAN</string>
@@ -1219,7 +1219,7 @@ Perintah:
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Anda sudah berteman. </string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Akun harus berumur 1 hari untuk mengirim surat. </string>
-    <string name="Translator">Penerjemah</string>
+    <string name="Translator">Penerjemah</23166280>
     <string name="SUCCESS">SUKSES</string>
 
 
