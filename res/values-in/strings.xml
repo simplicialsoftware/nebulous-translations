@@ -52,7 +52,7 @@
     <string name="Hidden">"Tersembunyi"</string>
     <string name="SERVER">"SERVER"</string>
     <string name="Joining_game_in_">"Bergabung dipermainan "</string>
-    <string name="Game_Full">"Permainan Penuh"</string>
+    <string name="Game_Full">"Pemain Penuh"</string>
     <string name="US_East">"Amerika Tengah"</string>
     <string name="US_West">"Amerika Utara"</string>
     <string name="Europe">"Eropa"</string>
@@ -61,8 +61,8 @@
     <string name="Background_">"Latar Belakang:"</string>
     <string name="Difficulty_">"Kesulitan:"</string>
     <string name="Delay_Disconnect">"Memperlambat Disconnect"</string>
-    <string name="Max_Players">"Maks Pemain"</string>
-    <string name="Min_Players">"Min Pemain"</string>
+    <string name="Max_Players">"Maksimal Pemain"</string>
+    <string name="Min_Players">"Minimal Pemain"</string>
     <string name="OK">"OKE"</string>
     <string name="CANCEL">"BATAL"</string>
     <string name="Chat_Name">"Nama Obrolan"</string>
@@ -146,9 +146,9 @@
     <string name="Blobageddon">"Blobageddon"</string>
     <string name="Blobocalypse">"Blobocalypse"</string>
     <string name="Experienced_Nebulator">"Pengalaman Nebulator"</string>
-    <string name="Expert_Nebulator">"Ahli Nebulator"</string>
-    <string name="Master_Nebulator">"Guru Nebulator"</string>
-    <string name="Grand_Master_Nebulator">"Guru Besar Nebulator"</string>
+    <string name="Expert_Nebulator">"Nebulator Ahli"</string>
+    <string name="Master_Nebulator">"Nebulator Master"</string>
+    <string name="Grand_Master_Nebulator">"Nebulator Grand Master"</string>
     <string name="Impossible">"Mustahil"</string>
     <string name="Perfection">"Kesempurnaan"</string>
     <string name="Single_Handedly">"Seorang Diri"</string>
