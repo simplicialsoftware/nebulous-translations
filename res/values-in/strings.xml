@@ -615,7 +615,7 @@
     <string name="HOST">"HOST"</string>
     <string name="This_device_does_not_support_bluetooth_">"Perangkat ini tidak mendukung bluetooth."</string>
     <string name="member_permissions">"Izin Anggota"</string>
-    <string name="edit">"SUNTING"</string>
+    <string name="edit">"edit"</string>
     <string name="start_clan_war">"Mulai Perang Klan"</string>
     <string name="join_clan_war">"Gabung Perang Klan"</string>
     <string name="none">"TIDAK ADA"</string>
@@ -708,7 +708,7 @@
     <string name="name_color_instructions">"Pilih karakter huruf yang ingin Anda ubah kemudian pilih warna yang akan Anda taruh ke huruf itu untuk merubah warna huruf itu."</string>
     <string name="Cannot_change_this_character_">"Tidak dapat mengubah karakter ini"</string>
     <string name="ZOMBIE_APOCALYPSE">"KIAMAT ZOMBI"</string>
-    <string name="Survive_a_Zombie_Apocalypse">"Bertahan Kiamat Zombi"</string>
+    <string name="Survive_a_Zombie_Apocalypse">"Bertahan Hidup Kiamat Zombi"</string>
     <string name="ZA">"KIAMAT ZOMBI"</string>
     <string name="Pandemic">"Pandemi"</string>
     <string name="Immunity">"Kekebalan"</string>
@@ -799,7 +799,7 @@
     <string name="muted_until">Dibisukan Sampai</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Peringkat konten aplikasi dapat berubah ketika bermain multipemain.</string>
     <string name="UI_Opacity_">Opasitas UI</string>
-    <string name="LOAD">BAWAAN</string>
+    <string name="LOAD">MEMUAT</string>
     <string name="REMOVE">HAPUS</string>
     <string name="BAN">MELARANG</string>
     <string name="MODERATORS">MODERATOR</string>
