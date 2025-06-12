@@ -32,13 +32,13 @@
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
 
     <string name="_Rank_">" المرتبة "</string>
-    <string name="_Alias_">" الإسم المُستعار "</string>
+    <string name="_Alias_">" الاسم المُستعار "</string>
     <string name="_Score_">" النقاط "</string>
     <string name="Score__">"النقاط: "</string>
     <string name="Recombine_">"إعادة التجميع: "</string>
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"خمول"</string>
-    <string name="Name_Invalid_">"الإسم غير صالح !"</string>
+    <string name="Name_Invalid_">"الاسم غير صالح !"</string>
     <string name="Name_Taken_">"الاسم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
@@ -59,7 +59,7 @@
     <string name="Game_Full">"اللعبه ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
-    <string name="Europe">"اوروبا"</string>
+    <string name="Europe">"أوروبا"</string>
     <string name="South_America">"امريكا الجنوبية"</string>
 
 
@@ -128,7 +128,7 @@
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
     <string name="CONTINUE">"متابعة"</string>
-    <string name="Global_" formatted="false">"عالميا"</string>
+    <string name="Global_" formatted="false">"عالمياً"</string>
     <string name="FRIEND_CHAT">"دردشة الأصدقاء"</string>
     <string name="LOBBY_NAME">"اسم الردهة"</string>
     <string name="NULL">"لا شيء"</string>
@@ -263,7 +263,7 @@
 
 
     <string name="JOIN_CLAN">"انضم للعشيرة"</string>
-    <string name="JOIN_RANDOM_CLAN">"انضمام لعشيرة عشوائية"</string>
+    <string name="JOIN_RANDOM_CLAN">"الانضمام إلى عشيرة عشوائية"</string>
     <string name="LEAVE_CLAN">"الخروج من العشيرة"</string>
     <string name="INVITE_MEMBER">"دعوة لاعب"</string>
     <string name="REMOVE_MEMBER">"إزالة العضو"</string>
