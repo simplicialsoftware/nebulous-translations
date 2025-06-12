@@ -907,7 +907,7 @@
     <string name="x3_Clan_XP_7_days">클랜 경험치 3배: 일주일</string>
     <string name="x3_Clan_XP_1_Day">클랜 경험치 3배: 1일</string>
     <string name="x2_Clan_XP_1_Day">클랜 경험치 2배: 1일</string>
-    <string name="Pets">펫</string>
+    <string name="Pets">펫들</string>
     <string name="Pet">펫</string>
     <string name="You_can_purchase_this_pet_for">다음 가격으로 이 펫을 구매할 수 있습니다: </string>
     <string name="gift_to_friend">친구에게 선물하기</string>
@@ -996,7 +996,7 @@ Nebulous 규칙\n
     <string name="COPY">복사하기</string>
     <string name="_1v1_Ultra">1:1 울트라</string>
     <string name="ArenaDescriptionUltra">승자는 %s 플라즈마를 획득합니다.</string>
-    <string name="BANNED">밴</string>
+    <string name="BANNED">밴 & 정지</string>
     <string name="CLAN_MEMBERS">클랜 멤버</string>
     <string name="CLAN_REQUESTS">가입 신청</string>
     <string name="Pet_1">첫번째 펫</string>
@@ -1083,7 +1083,7 @@ Nebulous 규칙\n
     <string name="SQUARES">사각형</string>
     <string name="TRICK_MODE">기술 모드</string>
     <string name="ICE_SPLIT">얼음 저격</string>
-    <string name="TRICK_SPLIT">핵펀치</string>
+    <string name="TRICK_SPLIT">핵 펀치</string>
     <string name="POP_SPLIT">팝 스플릿</string>
     <string name="PUSH_SPLIT">밀치기</string>
     <string name="Level_Colors">레벨 색상</string>
@@ -1257,7 +1257,7 @@ Nebulous 규칙\n
     <string name="TRICKY">장인</string>
     <string name="x4_XP_Permanent">경험치 4배: 무기한</string>
     <string name="x4_XP_24_hours">경험치 4배: 24시간</string>
-    <string name="x4_XP_1_Hour">경험치 4배: 1시간</string>
+    <string name="x4_XP_1_Hours">경험치 4배: 1시간</string>
     <string name="Quad">4배</string>
     <string name="Middle_East">중동</string>
     <string name="XP_4x">경험치 4배</string>
