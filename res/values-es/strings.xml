@@ -1353,7 +1353,7 @@ Comandos:
 !hidden
 !slowchat (Ralentizar chat)
 !pausechat
-!mute {id}
+!mute {id} (Silenciar jugador)
 !admin {id}
 !allow {id} (Permitir un jugador en la sala)
 !allow reset (Reiniciar permisos de jugadores en la sala)
