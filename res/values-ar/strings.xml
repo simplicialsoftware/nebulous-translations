@@ -32,13 +32,13 @@
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
 
     <string name="_Rank_">" المرتبة "</string>
-    <string name="_Alias_">" الإسم المُستعار "</string>
+    <string name="_Alias_">" الاسم المُستعار "</string>
     <string name="_Score_">" النقاط "</string>
     <string name="Score__">"النقاط: "</string>
     <string name="Recombine_">"إعادة التجميع: "</string>
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"خمول"</string>
-    <string name="Name_Invalid_">"الإسم غير صالح !"</string>
+    <string name="Name_Invalid_">"الاسم غير صالح !"</string>
     <string name="Name_Taken_">"الاسم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
@@ -55,11 +55,11 @@
 
 
     <string name="SERVER">"سيرفر"</string>
-    <string name="Joining_game_in_">"الانضمام للعبة "</string>
+    <string name="Joining_game_in_">"الانضمام إلى اللعبة "</string>
     <string name="Game_Full">"اللعبه ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
-    <string name="Europe">"اوروبا"</string>
+    <string name="Europe">"أوروبا"</string>
     <string name="South_America">"امريكا الجنوبية"</string>
 
 
@@ -128,7 +128,7 @@
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
     <string name="CONTINUE">"متابعة"</string>
-    <string name="Global_" formatted="false">"عالميا"</string>
+    <string name="Global_" formatted="false">"عالميًا"</string>
     <string name="FRIEND_CHAT">"دردشة الأصدقاء"</string>
     <string name="LOBBY_NAME">"اسم الردهة"</string>
     <string name="NULL">"لا شيء"</string>
@@ -263,7 +263,7 @@
 
 
     <string name="JOIN_CLAN">"انضم للعشيرة"</string>
-    <string name="JOIN_RANDOM_CLAN">"انضمام لعشيرة عشوائية"</string>
+    <string name="JOIN_RANDOM_CLAN">"الانضمام إلى عشيرة عشوائية"</string>
     <string name="LEAVE_CLAN">"الخروج من العشيرة"</string>
     <string name="INVITE_MEMBER">"دعوة لاعب"</string>
     <string name="REMOVE_MEMBER">"إزالة العضو"</string>
@@ -482,8 +482,8 @@
     <string name="Win_1000_Arenas">"الفوز بـ1000 تحدي."</string>
 
 
-    <string name="Already_in_arena_">"أنت في تحدي حاليّا."</string>
-    <string name="Already_in_queue_">"انت في القائمة حاليا."</string>
+    <string name="Already_in_arena_">"أنت في تحدي حاليًا."</string>
+    <string name="Already_in_queue_">"انت في القائمة حاليًا."</string>
     <string name="Invalid_Account_ID_">"رقم هوية الحساب غير صالح."</string>
 
     <string name="Validating">"التحقق من صحة"</string>
@@ -533,7 +533,7 @@
     <string name="Win_by_50_points_in_a_DOM_game_">"الفوز بفارق 50 نقطة في لعبة السيطرة."</string>
     <string name="Score_33_points_in_a_single_DOM_game_">"تسجيل 33 نقطة في لعبة سيطرة واحدة."</string>
     <string name="Win_a_Domination_Game">"الفوز في لعبة السيطرة"</string>
-    <string name="Select_Team">"اختر فريق"</string>
+    <string name="Select_Team">"اختر فريقًا"</string>
     <string name="MANAGE_TEAMS">"إدارة الفِرق"</string>
     <string name="CLAN_INVITE">"الدعوة إلى العشيرة"</string>
     <string name="TEAM_INVITE">"الدعوة الى الفريق"</string>
@@ -1096,7 +1096,7 @@
     <string name="community_skin_requirement">يجب عليك شراء الجلد المخصص لكي تستطيع شراء واستعمال جلود المجتمع.</string>
     <string name="You_can_purchase_this_community_skin_for_">تستطيع شراء جلد المجتمع هذا بمقابل</string>
     <string name="community_skin_information_for_buyer" translatable="true">يتم تحميل جلود المجتمع من قبل لاعبين آخرين. تعمل هذه الجلود المجتمعية تمامًا مثل الجلود المخصصة، ويمكن تحريكها باستخدام الجلود العادية.</string>
-    <string name="VIEW_UPLOADER">اظهار صاحب الجلد</string>
+    <string name="VIEW_UPLOADER">إظهار صاحب الجلد</string>
     <string name="POPULAR">الشائع</string>
     <string name="NEW">جديد</string>
     <string name="Manage_Configurations">إدارة التكوينات</string>
@@ -1170,7 +1170,7 @@
     <string name="Invites">الدعوات</string>
     <string name="Show_Spectator_Count">إظهار عداد المشاهدة</string>
     <string name="TRY_IT_">جربه</string>
-    <string name="You_need_to_buy_a_pack_to_use_this_">تحتاج لشراء حزمه لتستخدم هذه</string>
+    <string name="You_need_to_buy_a_pack_to_use_this_">تحتاج إلى شراء حزمه لاستخدام هذا</string>
     <string name="GET_PACK">احصل على الحزمة</string>
     <string name="Position_in_queue">الموضع في قائمة الأنتظار</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">لون ملفك الشخصي في الخلفية</string>
@@ -1183,7 +1183,7 @@
     <string name="VALENTINES_DAY">"يوم الحب"</string>
     <string name="Giveaways_">!هدايا</string>
     <string name="Max_XP_Chain_">:سلسلة الخبرة القصوى</string>
-    <string name="POSITION_CANCEL_BUTTON">الغاء موقع الزر</string>
+    <string name="POSITION_CANCEL_BUTTON">إلغاء موقع الزر</string>
     <string name="INVISIBILITY">خاصية الاخفاء</string>
     <string name="Set_Skin">وضع البشرة </string>
     <string name="Primary">ابتدائي )اساسي)</string>
@@ -1376,7 +1376,7 @@ Commands:
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
-    <string name="Translator">متـرجـم</string>
+    <string name="Translator">مُترجِم</string>
     <string name="SUCCESS">تم بنجاح</string>
 
 
