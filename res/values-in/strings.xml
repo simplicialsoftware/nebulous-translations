@@ -66,7 +66,7 @@
     <string name="OK">"OKE"</string>
     <string name="CANCEL">"BATAL"</string>
     <string name="Chat_Name">"Nama Obrolan"</string>
-    <string name="Max_People">"Max Pemain"</string>
+    <string name="Max_People">"Maks Pemain"</string>
     <string name="START">"MULAI"</string>
     <string name="CREATE">"BUAT"</string>
     <string name="CUSTOM_GAMES">"PERMAINAN KUSTOM"</string>
@@ -523,7 +523,7 @@
     <string name="Rejoin_Game">"Bergabung Kembali Permainan"</string>
     <string name="PRIZES">"HADIAH"</string>
     <string name="Enable_Custom_Skin">"Aktifkan Kustom Skin"</string>
-    <string name="Use_Custom_Skin">"Custom\nSkin"</string>
+    <string name="Use_Custom_Skin">"Kustom\nSkin"</string>
     <string name="custom_skin_description">"Fitur ini memungkinkan Anda menggunakan foto profil Anda atau file Skin Anda. Ini hanya akan mengubah Skin yang anda lihat. Pemain lain tidak akan melihat Kustom Skin Anda."</string>
     <string name="CUSTOM_SKIN">"KUSTOM SKIN"</string>
     <string name="Facebook_Profile">"Profil Facebook"</string>
@@ -649,7 +649,7 @@
     <string name="upload_warning">"Apakah Anda yakin ingin mengunggah Skin ini? pemain lain akan dapat melihat Skin ini. Ini bisa memakan waktu hingga satu minggu untuk Skin anda untuk ditinjau. Skin yang tidak pantas akan ditolak dan tidak akan dikembalikan!"</string>
     <string name="In_Review">"Dalam Ulasan"</string>
     <string name="Account_Uploads">"Skin Unggahan Saya"</string>
-    <string name="Clan_Uploads">"Klan Skin Upload"</string>
+    <string name="Clan_Uploads">"Unggahan Skin Klan"</string>
     <string name="Empty">"Kosong"</string>
     <string name="Select">"Pilih"</string>
     <string name="Current_Skin">"Skin Saat ini"</string>
@@ -668,7 +668,7 @@
     <string name="Other_players_can_see_your_skin_">"Pemain lain bisa melihat Skin Anda."</string>
     <string name="LEGEND">"LEGENDA"</string>
     <string name="Win_10000_Arenas">"Menang 10.000 Arena"</string>
-    <string name="UPLOAD_PREVIEW">"UPLOAD DI PRATINJAU"</string>
+    <string name="UPLOAD_PREVIEW">"UNGGAHAN DI PRATINJAU"</string>
     <string name="Transparency">"Transparansi"</string>
     <string name="upload_info">"Anda dapat mencapai kualitas yang lebih baik tanpa Transparansi atau dengan gambar sederhana."</string>
     <string name="Compression_Quality_">"Kualitas Kompresi:"</string>
@@ -848,7 +848,7 @@
     <string name="Hats">Topi</string>
     <string name="Pet_Uploads">Unggah Pet</string>
     <string name="BLOB">GUMPALAN</string>
-    <string name="Clan_Pet_Uploads">Klan Skin Pet Upload</string>
+    <string name="Clan_Pet_Uploads">Unggahan Skin Pet Klan</string>
     <string name="YT">YT</string>
     <string name="FREE_TODAY">GRATIS HARI INI!</string>
     <string name="Cannot_cancel_this_skin_yet_">Belum bisa membatalkan skin ini.</string>
@@ -1007,7 +1007,7 @@
     <string name="Rainbow">Pelangi</string>
     <string name="Horizontal">Horizontal</string>
     <string name="Vertical">Vertikal</string>
-    <string name="GROUP">GRUP </string>
+    <string name="GROUP">GRUP</string>
     <string name="LEAVE">KELUAR</string>
     <string name="Group">Grup</string>
     <string name="Not_in_a_group_">Tidak dalam grup.</string>
@@ -1102,7 +1102,7 @@
     <string name="Background_Scale_">Ukuran Latarbelakang:</string>
     <string name="Background_Lightness_">Kecerahan Latarbelakang:</string>
     <string name="Background_Image_">Gambar Latarbelakang:</string>
-    <string name="INVERT_SELECTION">INVERT\nSELECTION</string>
+    <string name="INVERT_SELECTION">MEMBALIKKAN\nPILIHAN</string>
     <string name="MINIMAP">PETA MINI</string>
     <string name="Victorious">Berjaya</string>
     <string name="Dominant">Dominan</string>
@@ -1121,7 +1121,7 @@
     <string name="x4_XP_Permanent">4x XP Permanen</string>
     <string name="x4_XP_24_hours">4x XP 24 Jam</string>
     <string name="x4_XP_1_Hour">4x XP 1 Jam </string>
-    <string name="Quad">Quadruple</string>
+    <string name="Quad">4x</string>
     <string name="Middle_East">Timur Tengah</string>
     <string name="XP_4x">XP 4x</string>
     <string name="You_cannot_play_for_x_minutes_">Anda tidak bisa bermain selama %d menit</string>
@@ -1131,7 +1131,7 @@
     <string name="CHARGE_UP">MENGISI DAYA</string>
     <string name="CLAN_DESCRIPTION_COLOR">WARNA DESKRIPSI KLAN</string>
     <string name="Responsible_Pet_Owner">Pemilik Pet Tanggungjawab</string>
-    <string name="Animal_Tamer">Pawang</string>
+    <string name="Animal_Tamer">Penjinak Hewan</string>
     <string name="Crocodile_Hunter">Pemburu Buaya</string>
     <string name="Get_A_Pet_To_Level_X_">Naikkan pet ke level %d.</string>
     <string name="plasma_boost_info">"Anda mendapatkan plasma tiga kali lipat dari semua sumber DALAM PERMAINAN saat ini aktif! Ini termasuk kemenangan arena dan turnamen! TIDAK berlaku pada pembelian plasma, roda putaran, atau hadiah khusus."</string>
