@@ -1352,7 +1352,7 @@ Comandos:
 !difficulty [0-3] o [1-4] para Campaña
 !hidden
 !slowchat (Ralentizar chat)
-!pausechat
+!pausechat (Pausar chat)
 !mute {id}
 !admin {id}
 !allow {id} (Permitir un jugador en la sala)
