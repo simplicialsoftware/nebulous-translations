@@ -128,7 +128,7 @@
     <string name="Friend_Request_Sent">"Richiesta di amicizia inviata"</string>
     <string name="ERROR">"ERRORE"</string>
     <string name="CONTINUE">"CONTINUA"</string>
-    <string name="Global_" formatted="false">"Globale"</string>
+    <string name="Global" formatted="false">"Globale"</string>
     <string name="FRIEND_CHAT">"CHAT D'AMICI"</string>
     <string name="LOBBY_NAME">"NOME DELLA STANZA"</string>
     <string name="NULL">"NULL"</string>
@@ -468,7 +468,7 @@
     <string name="Plasma_Collected_">"Plasma raccolto:"</string>
     <string name="Plasma_Purchases">"Acquisti con il plasma"</string>
 
-    <string name="ENTER">"ENTRA"</string>
+    <string name="ENTER">"ENTRATA"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Allenamento"</string>
     <string name="ArenaDescription">"Hai solo una vita. Il vincitore riceverà %s plasma."</string>
@@ -770,7 +770,7 @@
     <string name="Message">Messaggio</string>
     <string name="Subject">Oggetto</string>
     <string name="SEND">INVIA</string>
-    <string name="To">A</string>
+    <string name="To_Field">A</string>
     <string name="RESET">RESETTA</string>
     <string name="Message_Sent_">Messaggio inviato!</string>
     <string name="From">Da</string>
@@ -848,16 +848,16 @@
     <string name="Ultraclick_1_Hour">Ultraclick per 1 ora</string>
     <string name="Ultraclick">Ultraclick</string>
     <string name="May_Reduce_Lag">Potrebbe ridurre il lag</string>
-    <string name="Ultraclick_Permanent">"Ultraclick permanente"</string>
-    <string name="Autoclick_Permanent">"Autoclick permanente"</string>
-    <string name="x3_XP_Permanent">"Tripli XP permanenti"</string>
-    <string name="x2_XP_Permanent">"Doppi XP permanenti"</string>
-    <string name="Permanent">"Permanente"</string>
-    <string name="Apply_To_Account">"Applicare sul profilo"</string>
-    <string name="Spin_">"Gira!"</string>
-    <string name="Next_Spin">"Giro successivo"</string>
-    <string name="Wheel_Of_Nebulous_">"Ruota di Nebulous!"</string>
-    <string name="XP_2x">"Doppio XP"</string>
+    <string name="Ultraclick_Permanent">"Ultraclick permanente</string>
+    <string name="Autoclick_Permanent">"Autoclick permanente</string>
+    <string name="x3_XP_Permanent">"Tripli XP permanenti</string>
+    <string name="x2_XP_Permanent">"Doppi XP permanenti</string>
+    <string name="Permanent">"Permanente</string>
+    <string name="Apply_To_Account">"Applicare sul profilo</string>
+    <string name="Spin_">"Gira!</string>
+    <string name="Next_Spin">"Giro successivo</string>
+    <string name="Wheel_Of_Nebulous">"Ruota di Nebulous!</string>
+    <string name="XP_2x">"Doppio XP</string>
     <string name="XP_3x">"Triplo XP"</string>
     <string name="NOW">"ADESSO"</string>
     <string name="Team_Deathmatch_Domination">"Dominazione Deathmatch a squadre"</string>
@@ -893,7 +893,7 @@
     <string name="ROOM">STANZA</string>
     <string name="EXPERIMENTAL">SPERIMENTALE</string>
     <string name="members">membri</string>
-    <string name="Delete_ALL_Messages_">Elimina tutti i messaggi!</string>
+    <string name="Delete_ALL_Messages">Elimina tutti i messaggi!</string>
     <string name="SAVE_PROFILE">SALVA PROFILO</string>
     <string name="Move">"Muovi"</string>
     <string name="New_Position">"Nuova posizione"</string>
@@ -1044,7 +1044,7 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="JOIN_IP">"UNISCITI ALL'IP"</string>
     <string name="Specify_Host_IP">"Specifica l'IP dell'Host"</string>
     <string name="ADVANCED_SETUP">SETUP AVANZATO</string>
-    <string name="WORLD_CUP_EVENT___">EVENTO COPPA DEL MONDO!!!</string>
+    <string name="WORLD_CUP_EVENT">EVENTO COPPA DEL MONDO!!!</string>
     <string name="world_cup_event_description">Doppi XP e Doppio Plasma nella modalità Calcio fino alla fine della Coppa del Mondo!</string>
     <string name="GIF_Skins">Skin animate</string>
     <string name="PLAY_ONLINE_">GIOCA ONLINE!</string>
@@ -1059,19 +1059,19 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="Buy">Compra</string>
     <string name="Sell">Vendi</string>
     <string name="community_skin_requirement">Devi prima abilitare le skin personalizzate per usare le skin della community.</string>
-    <string name="You_can_purchase_this_community_skin_for_">Puoi acquistare questa skin della community per </string>
+    <string name="You_can_purchase_this_community_skin_for">Puoi acquistare questa skin della community per </string>
     <string name="VIEW_UPLOADER">VEDI IL CARICATORE</string>
     <string name="POPULAR">POPOLARI</string>
     <string name="NEW">NUOVE</string>
     <string name="Manage_Configurations">Controlla configurazioni</string>
-    <string name="Leave_blank_for_all_uploaders_">Lascia vuoto per tutti i caricatori.</string>
-    <string name="More___">Di più…</string>
-    <string name="This_cannot_be_used_in_FFA_Classic_">Questo oggetto non può essere usato in TCT classico.</string>
+    <string name="Leave_blank_for_all_uploaders">Lascia vuoto per tutti i caricatori.</string>
+    <string name="More_">Di più…</string>
+    <string name="This_cannot_be_used_in_FFA_Classic">Questo oggetto non può essere usato in TCT classico.</string>
     <string name="ENEMY">NEMICI</string>
     <string name="ALLY">ALLEATI</string>
     <string name="Rename">Rinomina</string>
-    <string name="Set_friendly_name_">Seleziona soppranome</string>
-    <string name="Leave_blank_for_none_">Lascia vuoto per nessuno.</string>
+    <string name="Set_friendly_name">Seleziona sopprannome</string>
+    <string name="Leave_blank_for_none">Lascia vuoto per nessuno.</string>
     <string name="Vote_Kick">Caccia giocatore</string>
     <string name="FONT">CARATTERE</string>
     <string name="CIRCLE">CERCHIO</string>
@@ -1121,8 +1121,8 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="Failed">Non riuscito</string>
     <string name="Failed_to_join">Impossibile unirsi</string>
     <string name="Full">Pieno</string>
-    <string name="Tricks_Performed_">Trick eseguiti:</string>
-    <string name="Not_enough_plasma_">Plasma insufficiente!</string>
+    <string name="Tricks_Performed">Trick eseguiti:</string>
+    <string name="Not_enough_plasma">Plasma insufficiente!</string>
     <string name="GET_PLASMA">OTTIENI PLASMA</string>
     <string name="ASTEROIDS">ASTEROIDI</string>
     <string name="CHRISTMAS">NATALE</string>
@@ -1139,7 +1139,7 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="Position_in_queue">Posizione in coda</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">COLORE SFONDO MENU PROFILO</string>
     <string name="DARK_MATTER">MATERIA OSCURA</string>
-    <string name="Textures_will_be_regenerated_">Le texture nere e le skin personalizzate verranno rigenerate.</string>
+    <string name="Textures_will_be_regenerated">Le texture nere e le skin personalizzate verranno rigenerate.</string>
     <string name="Enable_Profile_Colors">Abilita Colori Profilo</string>
     <string name="no_virus" translatable="true" tools:ignore="Untranslatable">Sandbox (senza virus)</string>
     <string name="Session_Stats">Statistiche sessione di gioco</string>
@@ -1184,11 +1184,11 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="MULTIBLOB">MULTIPALLA</string>
     <string name="Play_Nebulous_For_1_Year_">Gioca a Nebulous per 1 anno!</string>
     <string name="Play_Nebulous_For_X_Years_">Gioca a Nebulous per %d anni!</string>
-    <string name="Starting___">Avvio…</string>
+    <string name="Starting">Avvio…</string>
     <string name="Tournament_Starting">Avviamento torneo</string>
     <string name="Max_Tilt_Angle_3D_">Angolo di inclinazione massimo 3D:</string>
     <string name="Mode_3D">Modalità 3D</string>
-    <string name="Names_Below_Blobs">Nomi sotto alle Palle</string>
+    <string name="Names_Below_Blobs">Nomi sotto alle Sfere</string>
     <string name="Name_Scale_">"Dimensione nomi:"</string>
     <string name="Button_3D">Tasto 3D</string>
     <string name="Hide_Button_">Nascondi tasto?</string>
@@ -1228,19 +1228,19 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="SUPPORTER">VIP</string>
     <string name="CONQUEROR">CONQUISTATORE</string>
     <string name="TRICKY">FURFANTE</string>
-    <string name="x4_XP_Permanent">4x XP Permanente</string>
+    <string name="4x_XP_Permanent">4x XP Permanente</string>
     <string name="x4_XP_24_hours">4x XP 24 Ore</string>
     <string name="x4_XP_1_Hour">4x XP 1 Ora</string>
     <string name="Quad">Quadruplo</string>
     <string name="Middle_East">Medio Oriente</string>
     <string name="XP_4x">XP 4x</string>
-    <string name="You_cannot_play_for_x_minutes_">Non puoi giocare per %d minuti.</string>
-    <string name="x4_Clan_XP_Perm">XP del clan 4x Permanente!</string>
-    <string name="x4_Clan_XP_7_days">XP del clan 4x per 7 Giorni</string>
-    <string name="x4_Clan_XP_1_Day">XP del clan 4x per 1 Giorno </string>
+    <string name="You_cannot_play_for_x_minutes">Non puoi giocare per %d minuti.</string>
+    <string name="4x_Clan_XP_Perm">XP del clan 4x Permanente!</string>
+    <string name="4x_Clan_XP_7_days">XP del clan 4x per 7 Giorni</string>
+    <string name="4x_Clan_XP_1_Day">XP del clan 4x per 1 Giorno </string>
     <string name="CHARGE_UP">CARICA</string>
     <string name="CLAN_DESCRIPTION_COLOR">COLORE DESCRIZIONE CLAN</string>
-    <string name="Responsible_Pet_Owner">Proprietario dell\'animale</string>
+    <string name="Responsible_Pet_Owner">Proprietario dell'animale</string>
     <string name="Animal_Tamer">Domatore di animali</string>
     <string name="Crocodile_Hunter">Cacciatore di coccodrilli</string>
     <string name="Get_A_Pet_To_Level_X_">Porta Un Animale Al Livello %d.</string>
@@ -1267,7 +1267,7 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="SET_EMOTE">IMPOSTA EMOTE</string>
     <string name="Winner_Winner_Chicken_Dinner">Vincitore-Vincitore!!</string>
     <string name="Win_a_Battle_Royale_">Vinci una battaglia Royale.</string>
-    <string name="Battle_">Battaglia!</string>
+    <string name="Battle">Battaglia!</string>
     <string name="BATTLE_ROYALE">BATTAGLIA ROYALE</string>
     <string name="Battle_Royale">Battaglia Royale</string>
     <string name="The_winner_will_receive_x_plasma_">Il vinvitore riceverà %s plasma!</string>
