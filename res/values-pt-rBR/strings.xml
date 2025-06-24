@@ -222,7 +222,7 @@
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"Jogue 5 minutos seguidos, sem perder nenhum blob"</string>
     <string name="Play_20_minutes_straight_without_restarting">"Jogue 20 minutos seguidos sem reiniciar"</string>
     <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"Absorva 5 buracos negros supermassivos no prazo de 30 segundos de partida"</string>
-    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Atinja uma pontuação de 5000 em 1 minuto de partida"</string>
+    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Atinja uma pontuação de 5.000 em 1 minuto de partida"</string>
     <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Atire um buraco negro para o último jogador que atirou um buraco negro em você antes de reiniciar."</string>
     <string name="Absorb_5_doges_without_restarting">"Absorva 5 doges sem reiniciar"</string>
 
@@ -308,7 +308,7 @@
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Ganhar por 7.500 pontos em um jogo de Equipes com Tempo"</string>
     <string name="Win_by_3_points_in_a_CTF_game_">"Vencer por 3 pontos em um jogo de CAB."</string>
     <string name="Score_3_points_in_a_single_CTF_game_">"Ganhar 3 pontos em um único jogo de CAB."</string>
-    <string name="Win_by_2_500_points_in_a_Survival_game_">"Vencer por 2,500 pontos em um jogo de Sobrevivência."</string>
+    <string name="Win_by_2_500_points_in_a_Survival_game_">"Vencer por 2.500 pontos em um jogo de Sobrevivência."</string>
     <string name="Survive_but_do_not_win_a_survival_game_">"Sobreviver mas não ganhar um jogo de sobrevivência."</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"Vencer por 8 pontos em um jogo de Futebol."</string>
     <string name="Score_3_goals_in_a_single_Soccer_game_">"Marcar 3 gols em um único jogo de futebol."</string>
@@ -346,7 +346,7 @@
     <string name="To_use_this_skin_you_must_collect">"Para usar esta skin, você deve coletar"</string>
     <string name="Australia">"Austrália"</string>
     <string name="Pumpkin_Collector">"Coletor de Abóboras"</string>
-    <string name="Collect_1000_pumpkins_">"Coletar 1000 abóboras."</string>
+    <string name="Collect_1000_pumpkins_">"Coletar 1.000 abóboras."</string>
 
     <string name="FFAC">"FFAC"</string>
     <string name="NONE">"NENHUM"</string>
@@ -631,7 +631,7 @@
     <string name="Over_9000">"Mais de 9.000"</string>
     <string name="Omnipresence">"Onipresença"</string>
 
-    <string name="Shoot_9001_Powerups">"Atire 9001 Poderes"</string>
+    <string name="Shoot_9001_Powerups">"Atire 9.001 Poderes"</string>
     <string name="Teleport_100_Times">"Teleporte 100 Vezes"</string>
     <string name="Shoot_20_Powerups_Without_Restarting">"Atire 20 Poderes Sem Reiniciar"</string>
     <string name="Request_Timed_Out">"A Solicitação Expirou"</string>
@@ -643,9 +643,9 @@
     <string name="Raindrop_Collector">"Coletor de Gotas de Chuva"</string>
     <string name="Raindrop_Hoarder">"Colecionador de Gotas de Chuva"</string>
     <string name="Raindrop_Mogul">"Magnata de Gotas de Chuva"</string>
-    <string name="Collect_1_000_raindrops_">"Colete 1,000 gotas de chuva."</string>
-    <string name="Collect_5_000_raindrops_">"Colete 5,000 gotas de chuva."</string>
-    <string name="Collect_10_000_raindrops_">"Colete 10,000 gotas de chuva."</string>
+    <string name="Collect_1_000_raindrops_">"Colete 1.000 gotas de chuva."</string>
+    <string name="Collect_5_000_raindrops_">"Colete 5.000 gotas de chuva."</string>
+    <string name="Collect_10_000_raindrops_">"Colete 10.000 gotas de chuva."</string>
     <string name="Copy_Message">"Copiar Mensagem"</string>
     <string name="Copied_to_clipboard_">"Copiado para a área de transferência."</string>
     <string name="COPY_NAME">"COPIAR NOME"</string>
@@ -687,9 +687,9 @@
     <string name="Moon_Collector">"Coletor de Luas"</string>
     <string name="Moon_Hoarder">"Colecionador de Luas"</string>
     <string name="Moon_Mogul">"Magnata de Luas"</string>
-    <string name="Collect_1_000_moons_">"Colete 1,000 luas."</string>
-    <string name="Collect_5_000_moons_">"Colete 5,000 luas."</string>
-    <string name="Collect_10_000_moons_">"Colete 10,000 luas."</string>
+    <string name="Collect_1_000_moons_">"Colete 1.000 luas."</string>
+    <string name="Collect_5_000_moons_">"Colete 5.000 luas."</string>
+    <string name="Collect_10_000_moons_">"Colete 10.000 luas."</string>
     <string name="BLUETOOTH">"BLUETOOTH"</string>
     <string name="HOST">"HOST"</string>
     <string name="This_device_does_not_support_bluetooth_">"Este dispositivo não suporta Bluetooth."</string>
@@ -748,7 +748,7 @@
     <string name="Other_players_can_not_see_your_skin_">Outros jogadores não podem ver a sua skin.</string>
     <string name="Other_players_can_see_your_skin_">Outros jogadores podem ver a sua skin</string>
     <string name="LEGEND">LENDA</string>
-    <string name="Win_10000_Arenas">Ganhar 10,000 Arenas</string>
+    <string name="Win_10000_Arenas">Ganhar 10.000 Arenas</string>
     <string name="UPLOAD_PREVIEW">PRÉVIA DO ENVIO</string>
     <string name="Transparency">Transparência</string>
     <string name="upload_info">Você pode conseguir uma melhor qualidade, sem transparência ou com imagens simples.</string>
@@ -1082,10 +1082,10 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     </string>
     <string name="PLAY_ONLINE_">JOGAR ONLINE!</string>
 
-    <string name="Absorb_10_000_000_dots">Absorva 10,000,000 pontos</string>
+    <string name="Absorb_10_000_000_dots">Absorva 10.000.000 pontos</string>
     <string name="Dot_Deity">Divindade dos Pontos</string>
     <string name="Mass_Mastery">Domínio de Massa</string>
-    <string name="Gain_100_000_000_mass">Obtenha 100,000,000 de massa</string>
+    <string name="Gain_100_000_000_mass">Obtenha 100.000.000 de massa</string>
     <string name="VET">VET</string>
     <string name="Mute">Silenciar</string>
     <string name="Unmute">Dessilenciar</string>
@@ -1280,7 +1280,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">Você não pode ganhar XP ou plasma no modo Sem Vírus (Sandbox)!</string>
     <string name="DASH">DASH</string>
     <string name="setting_changed">Configurações atualizadas. Pode ser necessário que você se reconecte ao servidor para que elas entrem em vigor.</string>
-    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Execute 10,000 tricks em um jogo no Modo Trick.</string>
+    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Realize 10.000 tricks no MODO TRICK</string>
     <string name="Tricky">Tricky</string>
     <string name="SUPPORTER">VIP</string>
     <string name="CONQUEROR">CONQUISTADOR</string>
