@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"Jogadores"</string>
-    <string name="Control_">"Controlo:"</string>
+    <string name="Control_">"Controle:"</string>
     <string name="CLOSE">"FECHAR"</string>
     <string name="Stick_Size_">"Tamanho do controlo:"</string>
     <string name="Stick_Margin_">"Margem do controlo:"</string>
@@ -1166,7 +1166,7 @@
     <string name="DISABLED">DESATIVADO</string>
     <string name="Refund__Multiskin">Restituir\nMulti-Skin</string>
     <string name="Invalid_Clan_ID_">ID do Clã Inválido.</string>
-    <string name="MUTED">SILENCIADO</string>
+    <string name="MUTED"MUTADO</string>
     <string name="Choose_Skin_Size">Escolha o tamanho da Skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Outros jogadores não poderão te ouvir!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Conceder a permissão para ativar a gravação de voz.</string>
