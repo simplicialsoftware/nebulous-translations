@@ -97,7 +97,7 @@
     <string name="XP_">"XP:"</string>
 
     <string name="Information">"Informação"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para utilizar esta skin tem de atingir a conquista"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Para utilizar esta skin tem que adquirir a conquista"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Para utilizar esta skin tens de atingir o nível"</string>
     <string name="SIGN_IN">"AUTENTICAR"</string>
 
@@ -115,7 +115,7 @@
     <string name="Private">"Privado"</string>
     <string name="Public">"Público"</string>
     <string name="Bot">"Bot"</string>
-    <string name="You">"Tu"</string>
+    <string name="You">"Você"</string>
     <string name="This_player_is_a_bot">"Este jogador é um bot."</string>
     <string name="This_player_is_not_signed_in">"Este jogador não está autenticado."</string>
 
@@ -137,8 +137,8 @@
     <string name="ALL">"TODOS"</string>
     <string name="FFA">"FFA"</string>
     <string name="FFA_TIME">"FFA TEMPO"</string>
-    <string name="TEAMS">"EQUIPAS"</string>
-    <string name="TEAMS_TIME">"EQUIPAS TEMPO"</string>
+    <string name="TEAMS">"EQUIPES"</string>
+    <string name="TEAMS_TIME">"EQUIPES TEMPO"</string>
     <string name="CTF">"CAB"</string>
     <string name="SURVIVAL">"SOBREVIVÊNCIA"</string>
 
@@ -254,7 +254,7 @@
     <string name="Game_Size_">"Tamanho do jogo:"</string>
 
     <string name="Server_Restart_">"Reiniciar Servidor:"</string>
-    <string name="GOAL_">"GOLO!"</string>
+    <string name="GOAL_">"GOL!"</string>
     <string name="SOCCER">"FUTEBOL"</string>
     <string name="DRAW">"EMPATE"</string>
 
@@ -524,7 +524,7 @@
     <string name="SET_PERMISSIONS">"DEFINIR PERMISSÕES"</string>
     <string name="Start_Clan_War">"Iniciar Guerra de Clãs"</string>
     <string name="Min_Level">"Nível mínimo"</string>
-    <string name="SAVE">"GUARDAR"</string>
+    <string name="SAVE">"SALVAR"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Este jogador não cumpre o requisito mínimo de nível para se juntar a este clã:"</string>
     <string name="Insufficient_Permission">"Permissões insuficientes"</string>
     <string name="DOMINATION">"DOMINAÇÃO"</string>
@@ -541,13 +541,13 @@
     <string name="Team_Name">"Nome da Equipa"</string>
     <string name="CREATE_TEAM">"CRIAR EQUIPA"</string>
     <string name="Solo">"Individual"</string>
-    <string name="Teams">"Equipas"</string>
-    <string name="Team">"Equipa"</string>
+    <string name="Teams">"Equipes"</string>
+    <string name="Team">"Equipe"</string>
     <string name="Specify_Account_ID">"Especificar ID de Conta"</string>
-    <string name="Team_Created_">"Equipa criada!"</string>
-    <string name="Team_Arena">"Arena de Equipa"</string>
-    <string name="No_Teams">"Sem Equipas"</string>
-    <string name="team_arena_info">"Depois de criar uma equipa, podes convidar e remover membros livremente. Também és livre de jogar partidas de arena em equipa. Uma vez criada a equipa, não é possível alterar o seu nome."</string>
+    <string name="Team_Created_">"Equipe criada!"</string>
+    <string name="Team_Arena">"Arena de Equipe"</string>
+    <string name="No_Teams">"Sem Equipes"</string>
+    <string name="team_arena_info">"Depois de criar uma equipe, podes convidar e remover membros livremente. Também és livre de jogar partidas de arena em equipa. Uma vez criada a equipa, não é possível alterar o seu nome."</string>
 
     <string name="Invited">"Convidado"</string>
     <string name="Invitation_Sent">"Convite enviado"</string>
