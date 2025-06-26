@@ -117,12 +117,12 @@
     <string name="Public">"Herkese Açık"</string>
     <string name="Bot">"Bot"</string>
     <string name="You">"Siz"</string>
-    <string name="This_player_is_a_bot">"Bu Oyuncu Bir Bottur."</string>
-    <string name="This_player_is_not_signed_in">"Bu Oyuncu Giriş Yapmamıştır."</string>
+    <string name="This_player_is_a_bot">"Bu oyuncu bottur."</string>
+    <string name="This_player_is_not_signed_in">"Bu oyuncu giriş yapmamıştır."</string>
 
     <string name="Online">"Çevrim İçi"</string>
     <string name="Unknown">"Bilinmeyen"</string>
-    <string name="Offline">"çevrim dışı"</string>
+    <string name="Offline">"Çevrim Dışı"</string>
     <string name="Achievement_Earned">"Kazanım Elde Edildi"</string>
     <string name="REFRESH">"YENİLE"</string>
     <string name="DONE">"TAMAMLANDI"</string>
@@ -251,7 +251,7 @@
 
     <string name="Specify_private_game_name">"Özel Oyun Adını Yazınız"</string>
     <string name="In_Game_Chat">"Oyun içi Sohbet"</string>
-    <string name="My_Status_">"Kendi Durumum:"</string>
+    <string name="My_Status_">"Durumum:"</string>
     <string name="Game_Size_">"Oyun Boyutu:"</string>
 
     <string name="Server_Restart_">"Sunucunun Yeniden Başlatılmasına Kalan Süre:"</string>
@@ -266,8 +266,8 @@
     <string name="JOIN_CLAN">"KLANA KATIL"</string>
     <string name="JOIN_RANDOM_CLAN">"RASTGELE BİR KLANA KATIL"</string>
     <string name="LEAVE_CLAN">"KLANDAN AYRIL"</string>
-    <string name="INVITE_MEMBER">"BİR ÜYEYİ DAVET EDİN"</string>
-    <string name="REMOVE_MEMBER">"BİR ÜYEYİ ÇIKARIN"</string>
+    <string name="INVITE_MEMBER">"ÜYE DAVET EDİN"</string>
+    <string name="REMOVE_MEMBER">"ÜYE ÇIKARIN"</string>
 
 
     <string name="CREATE_CLAN">"KLAN OLUŞTURUN"</string>
@@ -335,19 +335,19 @@
     <string name="Reach_a_score_of_">"Şu Puana Erişin "</string>
     <string name="_in_a_FFA_Game">" Bir Herkes Tek oyununda"</string>
     <string name="_in_a_Teams_Game">" Bir Takımlı oyununda"</string>
-    <string name="_dots">" benekler"</string>
-    <string name="_player_blobs">" oyuncu baloncukları"</string>
-    <string name="Absorb_">"Yut "</string>
-    <string name="Collect_">"Toplayın "</string>
+    <string name="_dots">"benekler"</string>
+    <string name="_player_blobs">"oyuncu baloncukları"</string>
+    <string name="Absorb_">"Yut"</string>
+    <string name="Collect_">"Topla"</string>
 
     <string name="FFA_CLASSIC">"HERKES TEK KLASİK"</string>
 
 
-    <string name="pumpkins_">"Balkabakları "</string>
+    <string name="pumpkins_">"bal kabakları "</string>
     <string name="To_use_this_skin_you_must_collect">"Bu avatarı kullanmak için toplamanız gereken"</string>
     <string name="Australia">"Avustralya"</string>
-    <string name="Pumpkin_Collector">"Balkabağı Toplayıcısı"</string>
-    <string name="Collect_1000_pumpkins_">"1.000 adet balkabağı toplayın."</string>
+    <string name="Pumpkin_Collector">"Bal kabağı Toplayıcısı"</string>
+    <string name="Collect_1000_pumpkins_">"1.000 adet bal kabağı toplayın."</string>
 
     <string name="FFAC">"HERKES TEK KLASİK"</string>
     <string name="NONE">"HİÇBİRİ"</string>
@@ -362,7 +362,7 @@
 
     <string name="Score">"Skor"</string>
     <string name="Rating">"Sıralama"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"Yeni bir klan lideri ayarlamak üzeresiniz!"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"Yeni bir Klan Lideri ayarlamak üzeresiniz!"</string>
     <string name="XP">"XP"</string>
     <string name="High_Score">"Yüksek Skor"</string>
 
@@ -412,10 +412,10 @@
 
     <string name="Purchase_History">"Satın Alma Geçmişi"</string>
 
-    <string name="Purchases_Unavailable_">"Üzgünüz, Satın Alımlar şu anda mevcut değildir!"</string>
+    <string name="Purchases_Unavailable_">"Üzgünüz, Satın Alımlar şu an için mevcut değildir!"</string>
     <string name="You_can_purchase_this_skin_for">"Bu avatarı şu ücret karşılığında satın alabilirsiniz:"</string>
     <string name="PURCHASE">"Satın Al"</string>
-    <string name="Error_in_backup_data_">"Yedekleme verisinde hata meydana gelmiştir!"</string>
+    <string name="Error_in_backup_data_">"Yedekleme verisinde hata meydana geldi!"</string>
 
 
     <string name="Remove_Ads">"Reklamları Kaldır"</string>
