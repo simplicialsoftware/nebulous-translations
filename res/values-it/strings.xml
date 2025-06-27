@@ -468,7 +468,7 @@
     <string name="Plasma_Collected_">"Plasma raccolto:"</string>
     <string name="Plasma_Purchases">"Acquisti con il plasma"</string>
 
-    <string name="ENTER">"ENTRA"</string>
+    <string name="ENTERTA">"ENTRA"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Allenamento"</string>
     <string name="ArenaDescription">"Hai solo una vita. Il vincitore riceverà %s plasma."</string>
@@ -770,7 +770,7 @@
     <string name="Message">Messaggio</string>
     <string name="Subject">Oggetto</string>
     <string name="SEND">INVIA</string>
-    <string name="To">A</string>
+    <string name="To_Field">A</string>
     <string name="RESET">RESETTA</string>
     <string name="Message_Sent_">Messaggio inviato!</string>
     <string name="From">Da</string>
@@ -1188,7 +1188,7 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="Tournament_Starting">Avviamento torneo</string>
     <string name="Max_Tilt_Angle_3D_">Angolo di inclinazione massimo 3D:</string>
     <string name="Mode_3D">Modalità 3D</string>
-    <string name="Names_Below_Blobs">Nomi sotto alle Palle</string>
+    <string name="Names_Below_Blobs">Nomi sotto alle Sfere</string>
     <string name="Name_Scale_">"Dimensione nomi:"</string>
     <string name="Button_3D">Tasto 3D</string>
     <string name="Hide_Button_">Nascondi tasto?</string>
@@ -1228,9 +1228,9 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="SUPPORTER">VIP</string>
     <string name="CONQUEROR">CONQUISTATORE</string>
     <string name="TRICKY">FURFANTE</string>
-    <string name="x4_XP_Permanent">4x XP Permanente</string>
-    <string name="x4_XP_24_hours">4x XP 24 Ore</string>
-    <string name="x4_XP_1_Hour">4x XP 1 Ora</string>
+    <string name="x4_XP_Permanent">x4 XP Permanente</string>
+    <string name="x4_XP_24_hours">x4 XP 24 Ore</string>
+    <string name="x4_XP_1_Hour">x4 XP 1 Ora</string>
     <string name="Quad">Quadruplo</string>
     <string name="Middle_East">Medio Oriente</string>
     <string name="XP_4x">XP 4x</string>
