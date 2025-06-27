@@ -209,9 +209,9 @@
     <string name="Longest_Life_">"Hidup Terpanjang:"</string>
     <string name="Games_Won_">"Permainan Dimenangkan:"</string>
     <string name="You_must_wait_until_the_end_of_the_round_">"Anda harus menunggu sampai akhir ronde ini."</string>
-    <string name="Dont_show_again">"Jangan tampilkan lagi"</string>
+    <string name="Dont_show_again">"Jangan tampilkan lagi:"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Menemukan cadangan statistik pemain tunggal dengan XP yang lebih tinggi. Apakah Anda ingin mengembalikan cadangan?"</string>
-    <string name="Special_Effects">"Tampilkan Efek Khusus"</string>
+    <string name="Special_Effects">"Tampilkan Efek Khusus:"</string>
     <string name="Blob_Mushiness">"Tampilkan Bubur Gumpalan"</string>
     <string name="Specify_private_game_name">"Tentukan nama permainan pribadi"</string>
     <string name="In_Game_Chat">"Tampilkan Obrolan Permainan"</string>
@@ -222,7 +222,7 @@
     <string name="SOCCER">"SEPAK BOLA"</string>
     <string name="DRAW">"SERI"</string>
 
-    <string name="Clan_Name">"Nama Klan"</string>
+    <string name="Clan_Name">"Nama Klan."</string>
     <string name="Clan">"Klan"</string>
 
 
