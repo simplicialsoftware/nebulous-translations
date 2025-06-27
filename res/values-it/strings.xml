@@ -468,7 +468,7 @@
     <string name="Plasma_Collected_">"Plasma raccolto:"</string>
     <string name="Plasma_Purchases">"Acquisti con il plasma"</string>
 
-    <string name="ENTER">"ENTRA"</string>
+    <string name="ENTERAT">"ENTRA"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Allenamento"</string>
     <string name="ArenaDescription">"Hai solo una vita. Il vincitore riceverà %s plasma."</string>
@@ -770,7 +770,7 @@
     <string name="Message">Messaggio</string>
     <string name="Subject">Oggetto</string>
     <string name="SEND">INVIA</string>
-    <string name="To">A</string>
+    <string name="To_Field">A</string>
     <string name="RESET">RESETTA</string>
     <string name="Message_Sent_">Messaggio inviato!</string>
     <string name="From">Da</string>
