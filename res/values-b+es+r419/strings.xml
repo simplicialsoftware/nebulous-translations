@@ -728,7 +728,7 @@
 
     <string name="contribution_warning">"¿Estás seguro de que quieres donar ese plasma? Las donaciones no serán devueltas."</string>
     <string name="Upload">"Subir"</string>
-    <string name="upload_warning">"¿Estás seguro de que deseas subir esta skin? Otros jugadores serán capaces de ver esa skin. Puede tardar hasta 1 semana en ser revisada. ¡Las skins inapropiadas serán rechazadas y el plasma no será devuelto!"</string>
+    <string name="upload_warning">"¿Estás seguro de que deseas subir esta skin? Otros jugadores serán capaces de ver esa skin. Puede tardar hasta 1 semana en ser revisada y aprobada. ¡Las skins inapropiadas serán rechazadas y no se reembolsará el plasma!"</string>
 
     <string name="In_Review">"En Revisión"</string>
     <string name="Account_Uploads">"Skins de la Cuenta"</string>
