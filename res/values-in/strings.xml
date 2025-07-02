@@ -1138,34 +1138,34 @@
     <string name="Plasma_Boost_7_Days_">Plasma Tambahan 7 Hari!</string>
     <string name="Plasma_Boost_1_Day_">Plasma Tambahan 1 Hari!</string>
     <string name="Plasma_Boost_2_Hours_">Plasma Tambahan 2 Jam.</string>
-    <string name="Plasma_Boost">Plasma Tambahan</string>
-    <string name="particle_info">Anda harus minimal level 50 dan menggunakan skin dasar dengan partikel untuk melihat partikel apa pun.</string>
-    <string name="Plain_Score_Text">"Teks Skor Biasa"</string>
-    <string name="Custom_Skin_Reviewed_Notification">Kustom Skin Anda Telah Ditinjau!</string>
-    <string name="You_Have_Mail_">Anda menerima surat dari %s!</string>
-    <string name="Clan_Request_Reviewed_Notification">Permintaan Anda Untuk Bergabung dengan Klan %s Telah Ditinjau!</string>
-    <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
-    <string name="Sold_Community_Skins_">"Skin Komunitas Terjual: "</string>
-    <string name="Estimated_Earnings_">"Perkiraan pendapatan: "</string>
-    <string name="South_Africa">Afrika Selatan </string>
+<string name="Plasma_Boost">Plasma Boost</string>
+<string name="particle_info">You must be at least level 50 and wearing a base skin with particles to see any particles.</string>
+<string name="Plain_Score_Text">"Plain Score Text"</string>
+<string name="Custom_Skin_Reviewed_Notification">Your Custom Skin Has Been Reviewed!</string>
+<string name="You_Have_Mail_">You received mail from %s!</string>
+<string name="Clan_Request_Reviewed_Notification">Your Request to Join Clan %s Has Been Reviewed!</string>
+<string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
+<string name="Sold_Community_Skins_">"Community Skin Sold: "</string>
+<string name="Estimated_Earnings_">"Estimated earnings: "</string>
+    <string name="South_Africa">South Africa </string>
     <string name="SPLIT_">SPLIT:</string>
-    <string name="WALLS">DINDING</string>
-    <string name="COMP_BANNED">KOMP DILARANG</string>
-    <string name="FIND_GAMES">CARI PERMAINAN</string>
-    <string name="PLAY_SOLO">MAINKAN SOLO</string>
-    <string name="SET_EMOTE">ATUR EMOTE</string>
+    <string name="WALLS">WALLS</string>
+    <string name="COMP_BANNED">COMP BANNED</string>
+    <string name="FIND_GAMES">FIND GAMES</string>
+    <string name="PLAY_SOLO">PLAY SOLO</string>
+    <string name="SET_EMOTE">SET EMOTE</string>
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
-    <string name="Win_a_Battle_Royale_">Memenangkan Pertempuran Royale.</string>
-    <string name="Battle_">Pertempuran!</string>
-    <string name="BATTLE_ROYALE">PERTEMPURAN ROYALE</string>
-    <string name="Battle_Royale">Pertempuran Royale</string>
-    <string name="The_winner_will_receive_x_plasma_">Pemenang akan mendapatkan %s plasma!</string>
-    <string name="admin_commands">"
-Perintah:
+    <string name="Win_a_Battle_Royale_">Win the Battle Royale.</string>
+    <string name="Battle_">Battle!</string>
+<string name="BATTLE_ROYALE">BATTLE ROYALE</string>
+<string name="Battle_Royale">Battle Royale</string>
+<string name="The_winner_will_receive_x_plasma_">The winner will get %s plasma!</string>
+<string name="admin_commands">"
+Commands:
 !kick [0–31]
 !reset
-!welcome {pesan}
-!difficulty [0-3] atau [1-4] dengan Kampanye
+!welcome {message}
+!difficulty [0-3] or [1-4] with Campaign
 !hidden
 !slowchat
 !pausechat
@@ -1173,74 +1173,73 @@ Perintah:
 !admin {id}
 !allow {id}
 !allow reset
-!team [1-4] {id} (hanya di satu mode tim)
+!team [1-4] {id} (only in one team mode)
 !winner
 !stats
 !info"
 </string>
-    <string name="ID_Sort">ID Sort</string>
-    <string name="Master_Tamer">Penjinak Master</string>
-    <string name="Get_ALL_Pets_To_Level_100_">Naikkan SEMUA Pet Ke Level 100</string>
-    <string name="TAMER">PENJINAK</string>
-    <string name="Allow_Recombine">Membolehkan Bergabung Kembali</string>
-    <string name="Defenders">Pembela</string>
-    <string name="Attackers">Penyerang</string>
-    <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
-    <string name="Missing_Permissions">Izin Hilang</string>
-    <string name="DELETE_ACCOUNT">HAPUS AKUN</string>
-    <string name="delete_prompt">Apakah Anda yakin ingin menghapus akun Anda? Ini PERMANEN dan TIDAK DAPAT DIBATALKAN!</string>
-    <string name="Type">Ketik</string>
-    <string name="Complete_campaign_mission_">Selesaikan kampanye misi</string>
-    <string name="Specify_Reason_">Alasan spesifik:</string>
-    <string name="FREE_FOR_ALL">GRATIS UNTUK SEMUA</string>
-    <string name="SPECIAL">SPESIAL</string>
-    <string name="FREE">GRATIS</string>
-    <string name="x5_Clan_XP_1_Day">5X XP KLAN 1 HARI</string>
-    <string name="x5_Clan_XP_7_days">5X XP KLAN 7 HARI</string>
-    <string name="x5_Clan_XP_Perm">5X XP KLAN PERMANEN!</string>
-    <string name="Quin">5X</string>
-    <string name="x5_XP_1_Hour">5X XP 1 JAM</string>
-    <string name="x5_XP_24_hours">5X XP 24 JAM</string>
-    <string name="x5_XP_Permanent">5X XP PERMANEN</string>
-    <string name="CAMPAIGN_2">KAMPANYE 2</string>
+null <string name="ID_Sort">ID Sort</string>
+<string name="Master_Tamer">Master Tamer</string>
+<string name="Get_ALL_Pets_To_Level_100_">Raise ALL Pets To Level 100</string>
+<string name="TAMER">TAMER</string>
+<string name="Allow_Recombine">Allow Recombine</string>
+<string name="Defenders">Defenders</string>
+<string name="Attackers">Attackers</string>
+<string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
+<string name="Missing_Permissions">Missing Permissions</string>
+<string name="DELETE_ACCOUNT">DELETE ACCOUNT</string>
+<string name="delete_prompt">Are you sure you want to delete your account? This is PERMANENT and CANNOT BE CANCELLED!</string>
+<string name="Type">Type</string>
+<string name="Complete_campaign_mission_">Complete the mission campaign</string>
+<string name="Specify_Reason_">Specific reason:</string>
+<string name="FREE_FOR_ALL">FREE FOR ALL</string>
+<string name="SPECIAL">SPECIAL</string>
+<string name="FREE">FREE</string>
+<string name="x5_Clan_XP_1_Day">5X CLAN XP 1 DAY</string>
+<string name="x5_Clan_XP_7_days">5X CLAN XP 7 DAYS</string>
+<string name="x5_Clan_XP_Perm">5X CLAN XP PERMANENT!</string>
+<string name="Quin">5X</string>
+    <string name="x5_XP_1_Hour">5X XP 1 HOUR</string>
+    <string name="x5_XP_24_hours">5X XP 24 HOURS</string>
+    <string name="x5_XP_Permanent">5X XP PERMANENT</string>
+    <string name="CAMPAIGN_2">CAMPAIGN 2</string>
     <string name="XP_5x">XP 5x</string>
     <string name="India">India</string>
     <string name="Tutorial">Tutorial</string>
-    <string name="TYCOON">HARTAWAN</string>
-    <string name="CLAN_BACKGROUND_COLOR">WARNA BACKGROUND KLAN </string>
-    <string name="activate">Mengaktifkan</string>
-    <string name="clan_id">ID KLAN</string>
-    <string name="language_change_warning">Mengubah bahasa akan menyebabkan aplikasi dimulai ulang</string>
-    <string name="xmas_gift_boost_message">Kamu mendapatkan hadiah 3x Plasma Tambahan untuk 1 hari!</string>
-    <string name="no_response">Tidak bisa bergabung ke server. Mohon cek koneksi internet Anda.</string>
-    <string name="RAMADAN">RAMADHAN</string>
-    <string name="SUDDEN_ATTACK">SERANGAN MENDADAK</string>
-    <string name="_2x_skin_resolution">2x Skin Resolusi</string>
-    <string name="pm">PM</string>
-    <string name="You_are_already_friends_">Anda sudah berteman. </string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Akun harus berumur 1 hari untuk mengirim surat. </string>
-    <string name="Translator">Penerjemah</string>
-    <string name="SUCCESS">SUKSES</string>
+    <string name="TYCOON">Treasurer</string>
+    <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR </string>
+    <string name="activate">Activate</string>
+    <string name="clan_id">ID CLAN</string>
+<string name="language_change_warning">Changing the language will cause the application to restart</string>
+<string name="xmas_gift_boost_message">You got 3x Extra Plasma for 1 day!</string>
+<string name="no_response">Unable to join the server. Please check your internet connection.</string>
+<string name="RAMADAN">RAMADAN</string>
+<string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+<string name="_2x_skin_resolution">2x Skin Resolution</string>
+<string name="pm">PM</string>
+<string name="You_are_already_friends_">You are already friends. </string>
+<string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail. </string>
+<string name="Translator">Translator</string>
+<string name="SUCCESS">SUCCESS</string>
 
+<string-array name="control_modes">
+<item>"Normal"</item>
+<item>"Relative"</item>
+<item>"Drag Towards"</item>
+<item>"Bring"</item>
+<item>"Touch and Go"</item>
+<item>"Tilt"</item>
+</string-array>
 
-    <string-array name="control_modes">
-        <item>"Normal"</item>
-        <item>"Relatif"</item>
-        <item>"Seret Menuju"</item>
-        <item>"Membawa"</item>
-        <item>"Sentuh dan Pergi"</item>
-        <item>"Memiringkan"</item>
-    </string-array>
-
-    <string-array name="button_modes">
-        <item>"Kiri"</item>
-        <item>"Kanan"</item>
-        <item>"Kanan + Kiri"</item>
-        <item>"Tumpuk ke Kiri"</item>
-        <item>"Tumpuk ke Kanan"</item>
-        <item>"Kustom"</item>
-    </string-array>
-
+<string-array name="button_modes">
+<item>"Left"</item>
+<item>"Right"</item>
+<item>"Right + Left"</item>
+<item>"Stack to Left"</item>
+<item>"Stack Right"</item>
+<item>"Custom"</item>
+</string-array>
+ 
     <string-array name="themes">
         <item>"Bintang (Gelap)"</item>
         <item>"Jaring (Gelap)"</item>
