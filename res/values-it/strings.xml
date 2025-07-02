@@ -1270,7 +1270,7 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="Battle_">Battaglia!</string>
     <string name="BATTLE_ROYALE">BATTAGLIA ROYALE</string>
     <string name="Battle_Royale">Battaglia Royale</string>
-    <string name="The_winner_will_receive_x_plasma_">Il vinvitore riceverà %s plasma!</string>
+    <string name="The_winner_will_receive_x_plasma_">Il vinvitore ricverà %s plasma!</string>
     <string name="admin_commands">"
 Comandi:
 !kick [0–31] - Espellere un giocatore
