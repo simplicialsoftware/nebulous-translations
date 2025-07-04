@@ -110,7 +110,7 @@
     <string name="REFRESH">"MENYEGARKAN"</string>
     <string name="DONE">"SELESAI"</string>
     <string name="Friend_Request_Sent">"Permintaan teman dikirim…"</string>
-    <string name="ERROR">"RALAT"</string>
+    <string name="ERROR">"EROR"</string>
     <string name="CONTINUE">"LANJUTKAN"</string>
     <string name="Global_" formatted="false">"Global %"</string>
     <string name="FRIEND_CHAT">"TEMAN OBROLAN"</string>
@@ -362,7 +362,7 @@
     <string name="Leaf_Hoarder">"Penimbun Daun"</string>
     <string name="Collect_5000_leaves_">"Mengumpulkan 5.000 Daun."</string>
     <string name="Arena">"Arena"</string>
-    <string name="Enter_the_Arena">"Masukkan Arena"</string>
+    <string name="Enter_the_Arena">"Memaasuki Arena"</string>
     <string name="Purchase_History">"Riwayat Pembelian"</string>
     <string name="Purchases_Unavailable_">"Pembelian Tidak Tersedia!"</string>
     <string name="You_can_purchase_this_skin_for">"Anda dapat membeli kulit ini untuk"</string>
@@ -392,7 +392,7 @@
     <string name="until">"sampai"</string>
     <string name="New_Message_">"Pesan Baru!"</string>
     <string name="Seasonal">"Musiman"</string>
-    <string name="Temporarily_Disabled_">"Sementara Dinonaktifkan."</string>
+    <string name="Temporarily_Disabled_">"Dinonaktifkan Sementara."</string>
     <string name="BIGGEST">"TERBESAR"</string>
     <string name="Copy_ID">"Salin ID"</string>
     <string name="View_Profile">"Tampilkan Profil"</string>
@@ -415,8 +415,8 @@
     <string name="Practice">"Latihan"</string>
     <string name="ArenaDescription">"Anda hanya mendapatkan satu kehidupan. Pemenang akan mendapatkan %s plasma."</string>
     <string name="Contestant">"Kontestan"</string>
-    <string name="Duelist">"Duelist"</string>
-    <string name="Gladiator">"Gladiator"</string>
+    <string name="Duelist">"Berduel"</string>
+    <string name="Gladiator">"Sama"</string>
     <string name="Challenger">"Penantang"</string>
     <string name="Win_1_1v1_Arenas_">"Memenangkan Arena."</string>
     <string name="Win_10_Arenas_">"Menang 10 Arena."</string>
