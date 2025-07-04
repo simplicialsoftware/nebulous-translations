@@ -1001,7 +1001,7 @@
     <string name="Asia">Asia</string>
     <string name="SET_PRIVACY">ATUR PRIVASI</string>
     <string name="ANIMATION">ANIMASI</string>
-    <string name="Color_Cycle">Color Cycle</string>
+    <string name="Color_Cycle">Siklus Warna</string>
     <string name="Fast">Cepat</string>
     <string name="Slow">Lambat</string>
     <string name="Rainbow">Pelangi</string>
@@ -1030,7 +1030,7 @@
     <string name="You_need_to_buy_a_pack_to_use_this_">Untuk menggunakan skin ini Anda harus membeli paket skin</string>
     <string name="GET_PACK">DAPATKAN PAKET</string>
     <string name="Position_in_queue">Posisi antrian</string>
-    <string name="PROFILE_MENU_BACKGROUND_COLOR">WARNA LATARBELAKANG PROFIL</string>
+    <string name="PROFILE_MENU_BACKGROUND_COLOR">WARNA LATAR BELAKANG PROFIL</string>
     <string name="DARK_MATTER">DARK MATTER</string>
     <string name="Textures_will_be_regenerated_">Tekstur hitam dan kustom skin akan dibuat ulang.</string>
     <string name="Enable_Profile_Colors">Aktifkan Warna Profil</string>
@@ -1041,7 +1041,7 @@
     <string name="Giveaways_">Giveaways!</string>
     <string name="Max_XP_Chain_">Max XP Diperoleh:</string>
     <string name="POSITION_CANCEL_BUTTON">POSISI TOMBOL BATAL POWERUP</string>
-    <string name="INVISIBILITY">LIMUNAN</string>
+    <string name="INVISIBILITY">TIDAK TERLIHAT</string>
     <string name="Set_Skin">Atur Skin</string>
     <string name="Primary">Utama</string>
     <string name="Secondary">Sekunder</string>
