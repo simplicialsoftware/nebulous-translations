@@ -4,8 +4,8 @@
     <string name="CLOSE">"CERRAR"</string>
     <string name="Stick_Size_">"Tamaño del Joystick:"</string>
     <string name="Stick_Margin_">"Margen del Joystick:"</string>
-    <string name="Button_Size_">"Tamaño del Boton:"</string>
-    <string name="Button_Margin_">"Margen del Boton:"</string>
+    <string name="Button_Size_">"Tamaño del Botón:"</string>
+    <string name="Button_Margin_">"Margen del Botón:"</string>
     <string name="Buttons_">"Botones:"</string>
     <string name="DEFAULTS">"POR DEFECTO"</string>
     <string name="WEEKLY">"SEMANAL"</string>
