@@ -501,11 +501,11 @@
     <string name="Flag">"ЗНАМЕНА 2"</string>
     <string name="Win_10_Clan_Wars">"Победа 10 Clan Wars"</string>
     <string name="Win_100_Clan_Wars">"Спечели 100 Clan Wars"</string>
-    <string name="Clan_Commander">"Clan Commander"</string>
-    <string name="Clan_General">"Clan General"</string>
-    <string name="Clan_Wars_Won_">"Clan Wars Won:"</string>
-    <string name="Arenas_Won_">"Arenas Won:"</string>
-    <string name="Arena_Mode">"Mode Arena"</string>
+    <string name="Clan_Commander">"Командир на клана"</string>
+    <string name="Clan_General">"Генерал на клана"</string>
+    <string name="Clan_Wars_Won_">"Спечелени войни на кланове:"</string>
+    <string name="Arenas_Won_">"Спечелени арени:"</string>
+    <string name="Arena_Mode">"Режим Арена"</string>
     <string name="Connection_Lost">"Връзката е прекъсната"</string>
 
     <string name="Present_Hoarder">"Present Hoarder"</string>
