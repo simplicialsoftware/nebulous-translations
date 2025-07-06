@@ -715,9 +715,9 @@
     <string name="Win_as_zombies_in_2_minutes_or_less_">"Menangkan sebagai zombi dalam 2 menit atau kurang."</string>
     <string name="Win_as_survivors_with_no_losses_">"Menangkan sebagai pemain hidup tanpa termakan oleh zombi atau kerugian gumpalan."</string>
     <string name="ZOMBIE_">"ZOMBI!"</string>
-    <string name="SURVIVOR_">"PENGHIDUPAN!"</string>
+    <string name="SURVIVOR_">"PENYELAMAT!"</string>
     <string name="Zombies">"Zombi"</string>
-    <string name="Survivors">"Penghidupan"</string>
+    <string name="Survivors">"Penyelamat"</string>
     <string name="Enter_a_Tournament">"Masuk Turnamen"</string>
     <string name="Win_a_Tournament">"Menangkan Turnamen"</string>
     <string name="Tournament_Competing">"Turnamen Bersaing"</string>
