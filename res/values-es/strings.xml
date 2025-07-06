@@ -2,10 +2,10 @@
     <string name="Players">"Jugadores"</string>
     <string name="Control_">"Control:"</string>
     <string name="CLOSE">"CERRAR"</string>
-    <string name="Stick_Size_">"Tamaño del joystick:"</string>
+    <string name="Stick_Size_">"Tamaño del Joystick:"</string>
     <string name="Stick_Margin_">"Margen del Joystick:"</string>
-    <string name="Button_Size_">"Tamaño del boton:"</string>
-    <string name="Button_Margin_">"Margen del boton:"</string>
+    <string name="Button_Size_">"Tamaño del Boton:"</string>
+    <string name="Button_Margin_">"Margen del Boton:"</string>
     <string name="Buttons_">"Botones:"</string>
     <string name="DEFAULTS">"POR DEFECTO"</string>
     <string name="WEEKLY">"SEMANAL"</string>
@@ -68,8 +68,8 @@
     <string name="Difficulty_">"Dificultad:"</string>
     <string name="Delay_Disconnect">"Retraso en la desconexión"</string>
 
-    <string name="Max_Players">"Jugadores máximos"</string>
-    <string name="Min_Players">"Jugadores mínimos"</string>
+    <string name="Max_Players">"Jugadores Máximos"</string>
+    <string name="Min_Players">"Jugadores Mínimos"</string>
 
     <string name="OK">"VALE"</string>
     <string name="CANCEL">"CANCELAR"</string>
@@ -101,7 +101,7 @@
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Para utilizar esta skin tienes que completar el logro"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Para utilizar esta skin tienes que alcanzar el nivel"</string>
 
-    <string name="Single_Player_Stats">"Estadísticas en modo Un Jugador"</string>
+    <string name="Single_Player_Stats">"Estadísticas en Modo Un Jugador"</string>
 
     <string name="Level">"Nivel"</string>
     <string name="PAUSED">"EN PAUSA"</string>
@@ -170,8 +170,8 @@
     <string name="Blobageddon">"Blobagedón"</string>
     <string name="Blobocalypse">"Blobocalípsis"</string>
 
-    <string name="Experienced_Nebulator">"Jugador experimentado"</string>
-    <string name="Expert_Nebulator">"Jugador experto"</string>
+    <string name="Experienced_Nebulator">"Jugador Experimentado"</string>
+    <string name="Expert_Nebulator">"Jugador Experto"</string>
     <string name="Master_Nebulator">"Maestro de Nebulous"</string>
     <string name="Grand_Master_Nebulator">"Gran Maestro de Nebulous"</string>
     <string name="Impossible">"Imposible"</string>
@@ -258,7 +258,7 @@
     <string name="SOCCER">"FÚTBOL"</string>
     <string name="DRAW">"EMPATE"</string>
 
-    <string name="Clan_Name">"Nombre del clan"</string>
+    <string name="Clan_Name">"Nombre del Clan"</string>
     <string name="Clan">"Clan"</string>
 
 
@@ -411,13 +411,13 @@
 
     <string name="Purchase_History">"Historial de compras"</string>
 
-    <string name="Purchases_Unavailable_">"¡Compras no disponibles!"</string>
+    <string name="Purchases_Unavailable_">"¡Compras no Disponibles!"</string>
     <string name="You_can_purchase_this_skin_for">"Puedes comprar esta skin por"</string>
     <string name="PURCHASE">"COMPRAR"</string>
     <string name="Error_in_backup_data_">"¡Error en la copia de seguridad!"</string>
 
 
-    <string name="Remove_Ads">"Quitar anuncios"</string>
+    <string name="Remove_Ads">"Quitar Anuncios"</string>
     <string name="Reward">"Recompensa"</string>
     <string name="Please_Wait___">"Por favor, espera…"</string>
     <string name="Purchasing">"Comprando"</string>
@@ -433,7 +433,7 @@
     <string name="You_cannot_purchase_this_right_now_">"No puedes comprar esto en este momento."</string>
 
 
-    <string name="Loading_Purchases___">"Cargando compras…"</string>
+    <string name="Loading_Purchases___">"Cargando Compras…"</string>
     <string name="In_App_Purchases">"Compras en la aplicación"</string>
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"No se puede aplicar otro acelerador de EXP hasta que el acelerador actual termine."</string>
     <string name="This_purchase_has_already_been_redeemed_">"Esta compra ya ha sido canjeada."</string>
