@@ -198,7 +198,7 @@
     <string name="Dots_Eaten_">"Titik-titik Dimakan:"</string>
     <string name="Blobs_Eaten_">"Gumpalan Dimakan:"</string>
     <string name="Blobs_Lost_">"Gumpalan Hilang:"</string>
-    <string name="Mass_Gained_">"Massa Diraih:"</string>
+    <string name="Mass_Gained_">"Massa Diproleh:"</string>
     <string name="Mass_Ejected_">"Massa Dikeluarkan:"</string>
     <string name="Times_Ejected_">"Kali Dikeluarkan:"</string>
     <string name="Times_Split_">"Kali Berpisah:"</string>
@@ -367,7 +367,7 @@
     <string name="Purchases_Unavailable_">"Pembelian Tidak Tersedia!"</string>
     <string name="You_can_purchase_this_skin_for">"Anda dapat membeli kulit ini untuk"</string>
     <string name="PURCHASE">"Membeli"</string>
-    <string name="Error_in_backup_data_">"Ralat dalam backup data!"</string>
+    <string name="Error_in_backup_data_">"kesalahan dalam backup data!"</string>
     <string name="Remove_Ads">"Hapus iklan"</string>
     <string name="Reward">"Penghargaan"</string>
     <string name="Please_Wait___">"Mohon Tunggu…"</string>
@@ -517,7 +517,7 @@
     <string name="Collect_5_000_beads_">"Mengumpulkan 5.000 Manik-manik."</string>
     <string name="Collect_10_000_beads_">"Mengumpulkan 10.000 Manik-manik."</string>
     <string name="Bead_Collector">"Kolektor Manik-manik"</string>
-    <string name="Bead_Hoarder">"Hoarder Manik-manik"</string>
+    <string name="Bead_Hoarder">"Penimbun Manik-manik"</string>
     <string name="Bead_Mogul">"Mogul Manik-manik"</string>
     <string name="beads_">"Manik-manik."</string>
     <string name="Rejoin_Game">"Bergabung Kembali Permainan"</string>
