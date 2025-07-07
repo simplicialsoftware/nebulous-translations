@@ -1160,7 +1160,7 @@
     <string name="BATTLE_ROYALE">PERTEMPURAN ROYALE</string>
     <string name="Battle_Royale">Pertempuran Royale</string>
     <string name="The_winner_will_receive_x_plasma_">Pemenang akan mendapatkan %s plasma!</string>
-    <string name="admin_commands">"
+    <string name="admin_commands">perintah admin</string>
 Perintah:
 !kick [0–31]
 !reset
@@ -1188,7 +1188,7 @@ Perintah:
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Izin Hilang</string>
     <string name="DELETE_ACCOUNT">HAPUS AKUN</string>
-    <string name="delete_prompt">Apakah Anda yakin ingin menghapus akun Anda? Ini PERMANEN dan TIDAK DAPAT DIBATALKAN!</string>
+    <string name="delete_prompt">hapus permintaan!</string>
     <string name="Type">Ketik</string>
     <string name="Complete_campaign_mission_">Selesaikan kampanye misi</string>
     <string name="Specify_Reason_">Alasan spesifik:</string>
@@ -1210,20 +1210,20 @@ Perintah:
     <string name="CLAN_BACKGROUND_COLOR">WARNA BACKGROUND KLAN </string>
     <string name="activate">Mengaktifkan</string>
     <string name="clan_id">ID KLAN</string>
-    <string name="language_change_warning">Mengubah bahasa akan menyebabkan aplikasi dimulai ulang</string>
+    <string name="language_change_warning">peringatan perubahan bahasa</string>
     <string name="xmas_gift_boost_message">Kamu mendapatkan hadiah 3x Plasma Tambahan untuk 1 hari!</string>
     <string name="no_response">Tidak bisa bergabung ke server. Mohon cek koneksi internet Anda.</string>
     <string name="RAMADAN">RAMADHAN</string>
     <string name="SUDDEN_ATTACK">SERANGAN MENDADAK</string>
     <string name="_2x_skin_resolution">2x Skin Resolusi</string>
-    <string name="pm">PM</string>
+    <string name="pm">pm</string>
     <string name="You_are_already_friends_">Anda sudah berteman. </string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Akun harus berumur 1 hari untuk mengirim surat. </string>
     <string name="Translator">Penerjemah</string>
     <string name="SUCCESS">SUKSES</string>
 
 
-    <string-array name="control_modes">
+    <string-array name="control_modes">mode kontrol</string>
         <item>"Normal"</item>
         <item>"Relatif"</item>
         <item>"Seret Menuju"</item>
@@ -1232,7 +1232,7 @@ Perintah:
         <item>"Memiringkan"</item>
     </string-array>
 
-    <string-array name="button_modes">
+    <string-array name="button_modes">mode tombol</string>
         <item>"Kiri"</item>
         <item>"Kanan"</item>
         <item>"Kanan + Kiri"</item>
@@ -1241,7 +1241,7 @@ Perintah:
         <item>"Kustom"</item>
     </string-array>
 
-    <string-array name="themes">
+    <string-array name="themes">tema</string>
         <item>"Bintang (Gelap)"</item>
         <item>"Jaring (Gelap)"</item>
         <item>"Jaring (Putih)"</item>
@@ -1249,14 +1249,14 @@ Perintah:
         <item>"Tidak ada"</item>
     </string-array>
 
-    <string-array name="difficulties">
+    <string-array name="difficulties">kesulitan</string>
         <item>"Mudah"</item>
         <item>"Sedang"</item>
         <item>"Sulit"</item>
         <item>"MUSTAHIL"</item>
     </string-array>
 
-    <string-array name="sizes">
+    <string-array name="sizes">ukuran</string>
         <item>"Mungil"</item>
         <item>"Kecil"</item>
         <item>"Normal"</item>
@@ -1264,7 +1264,7 @@ Perintah:
         <item>"SANGAT BESAR"</item>
     </string-array>
 
-    <string-array name="clan_war_sizes">
+    <string-array name="clan_war_sizes">ukuran perang klan</string>
         <item>"Peta Mungil (2v2)"</item>
         <item>"Peta Mungil (3v3)"</item>
         <item>"Peta Kecil (5v5)"</item>
