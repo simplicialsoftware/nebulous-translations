@@ -146,14 +146,14 @@
     <string name="Clan_XP">"XP do Clã"</string>
 
 
-    <string name="Dot_Nibbler">"Mordiscador de Pontos"</string>
+    <string name="Dot_Nibbler">"Roedor de Pontos"</string>
     <string name="Dot_Muncher">"Caçador de Pontos"</string>
     <string name="Dot_Eater">"Comedor de Pontos"</string>
     <string name="Dot_Gulper">"Engolidor de Pontos"</string>
     <string name="Dot_Gobbler">"Guloso de Pontos"</string>
     <string name="Dot_Devourer">"Devorador de Pontos"</string>
     <string name="Dot_Gormandizer">"Gordice de Pontos"</string>
-    <string name="Dot_Sommelier">"Escançador de Pontos"</string>
+    <string name="Dot_Sommelier">"Degustador de Pontos"</string>
 
     <string name="Quadra_Gulp">"Devorador Quádruplo"</string>
     <string name="Multi_Gulp">"Multi Devorador"</string>
@@ -638,7 +638,7 @@
     <string name="You_Are_Spectating_">"Você Está Observando."</string>
     <string name="Account_In_Use_">"Conta Em Uso!"</string>
     <string name="Cannot_Join_Arena_">"Não pode entrar na Arena."</string>
-    <string name="Signing_out_will_disconnect_you_from_the_current_game">"Deslogando irá desconectá-lo do jogo atual!"</string>
+    <string name="Signing_out_will_disconnect_you_from_the_current_game">"Saindo você irá desconectar do jogo atual!"</string>
     <string name="raindrops_">"gotas de chuva."</string>
     <string name="Raindrop_Collector">"Coletor de Gotas de Chuva"</string>
     <string name="Raindrop_Hoarder">"Colecionador de Gotas de Chuva"</string>
