@@ -291,7 +291,7 @@
     <string name="No_such_user_found_">"Dieser Spieler wurde nicht gefunden!"</string>
     <string name="No_open_public_clans_exist_">"Es gibt keine öffentlichen Clans."</string>
     <string name="You_aren_t_invited_to_that_clan_">"Nicht zu diesem Clan eingeladen."</string>
-    <string name="No_such_clan_exists_">"DIeser Clan existiert nicht."</string>
+    <string name="No_such_clan_exists_">"Dieser Clan existiert nicht."</string>
     <string name="That_clan_is_full_">"Der Clan ist voll."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Anderer Benutzer ist kein Mitglied in deinem Clan"</string>
     <string name="_You_can_t_be_your_own_friend_">"Sie können nicht Ihr eigener Freund sein."</string>
@@ -314,7 +314,7 @@
     <string name="Survive_but_do_not_win_a_survival_game_">"Überlebe, aber gewinne nicht das Überleben Spiel."</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"Gewinne mit 8 Punkten in einem Fußball Spiel."</string>
     <string name="Score_3_goals_in_a_single_Soccer_game_">"Schieße 3 Tore in einem Fußball Spiel."</string>
-    <string name="Total_Domination">"Alleinige Herrschaft"</string>
+    <string name="Total_Domination">"Gesamt Herrschaft"</string>
     <string name="Win_500_games_of_any_type_">"Gewinne 500 Spiele von irgendeiner Art."</string>
     <string name="Translations">"Übersetzungen"</string>
     <string name="Developers">"Entwickler"</string>
