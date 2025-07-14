@@ -810,9 +810,9 @@
     <string name="Register">Iscriviti</string>
 
     <string name="Registered">Iscritto</string>
-    <string name="Not_Registered">Non iscritto</string>
+    <string name="Not_Registered">Non registratto</string>
     <string name="Prize_Pool">Montepremi</string>
-    <string name="Registrants">Partecipanti</string>
+    <string name="Registrants">registranti</string>
     <string name="Round_Of">Round di</string>
     <string name="Next_Tournament">Prossimo torneo</string>
     <string name="Plasma_Won">Plasma vinto</string>
