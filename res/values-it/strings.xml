@@ -807,7 +807,7 @@
     <string name="Tournament_Registered">Iscritto al torneo</string>
     <string name="Tournament">Torneo</string>
     <string name="TourneyDescription">Ti devi iscrivere per giocare nel torneo. Ti sarà tolto il plasma quando inizierà il torneo ma puoi disiscriverti prima che inizi. Il torneo inizierà quando ci saranno almeno %d concorrenti.</string>
-    <string name="Register">Iscriviti</string>
+    <string name="Register">registrado</string>
 
     <string name="Registered">Iscritto</string>
     <string name="Not_Registered">Non iscritto</string>
