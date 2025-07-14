@@ -89,7 +89,7 @@
     <string name="Green_Team">"Equipo Verde"</string>
     <string name="Blue_Team">"Equipo Azul"</string>
     <string name="Yellow_Team">"Equipo Amarillo"</string>
-    <string name="Signed_in_as_">"Conectado como:"</string>
+    <string name="Signed_in_as_">"inicio sesion como:"</string>
     <string name="Not_signed_in_">"¡No registrado!"</string>
     <string name="SET_NAME">"CAMBIAR NOMBRE"</string>
     <string name="SIGN_OUT">"CERRAR SESIÓN"</string>
