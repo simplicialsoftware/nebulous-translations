@@ -283,7 +283,7 @@
 
 
     <string name="Specify_Clan_ID">"Especifica la ID del Clan"</string>
-    <string name="Show_Clan_Names">"Mostrar clanes"</string>
+    <string name="Show_Clan_Names">"Mostrar nombres de los clanes "</string>
     <string name="Show_Levels">"Mostrar Niveles"</string>
     <string name="SET_MOTD">"ESTABLECER DESCRIPCIÓN"</string>
     <string name="No_such_user_found_">"No se encontró dicho usuario. "</string>
