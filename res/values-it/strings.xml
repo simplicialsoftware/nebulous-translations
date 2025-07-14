@@ -801,7 +801,7 @@
     <string name="SURVIVOR_">"SOPRAVVISSUTO!"</string>
     <string name="Zombies">"Zombie"</string>
     <string name="Survivors">"Sopravvissuti"</string>
-    <string name="Enter_a_Tournament">Partecipa ad un torneo</string>
+    <string name="Enter_a_Tournament">Partecipa a un torneo</string>
     <string name="Win_a_Tournament">Vinci un torneo</string>
     <string name="Tournament_Competing">Torneo in competizione</string>
     <string name="Tournament_Registered">Iscritto al torneo</string>
