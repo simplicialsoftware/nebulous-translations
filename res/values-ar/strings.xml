@@ -1,13 +1,13 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="Players">"اللاعبين."</string>
+    <string name="Players">"اللاعبون."</string>
     <string name="Control_">"التحكم"</string>
     <string name="CLOSE">"إغلاق"</string>
     <string name="Stick_Size_">"حجم موجه الدائرة:"</string>
     <string name="Stick_Margin_">"إرتفاع موجه الدائرة:"</string>
     <string name="Button_Size_">"حجم الأزرار:"</string>
-    <string name="Button_Margin_">"إرتفاع الأزرار:"</string>
+    <string name="Button_Margin_">"مسافة الأزرار:"</string>
     <string name="Buttons_">"الأزرار:"</string>
-    <string name="DEFAULTS">"الإفتراضي"</string>
+    <string name="DEFAULTS">"الافتراضي"</string>
     <string name="WEEKLY">"الأسبوعي"</string>
     <string name="DAILY">"اليومي"</string>
     <string name="Server_">"السيرفر"</string>
@@ -48,7 +48,7 @@
     <string name="JOIN">"إنضم"</string>
 
 
-    <string name="Lobby_Name">"أسم السيرفر"</string>
+    <string name="Lobby_Name">" اسم الخادم</string>
     <string name="Not_found_">"لم يتم العثور عليه."</string>
 
     <string name="Hidden">"مخفي"</string>
@@ -56,7 +56,7 @@
 
     <string name="SERVER">"سيرفر"</string>
     <string name="Joining_game_in_">"الانضمام للعبة "</string>
-    <string name="Game_Full">"اللعبه ممتلئة"</string>
+    <string name="Game_Full">"اللعبة ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
     <string name="Europe">"اوروبا"</string>
@@ -110,7 +110,7 @@
     <string name="FRIENDS">"صَـديـق"</string>
     <string name="Warning">"تحذير"</string>
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
-    <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
+    <string name="New_Friend_Request">"طلب صداقة جديد"</string>
     <string name="REQUEST_FRIEND">"إرسال طلب صداقة"</string>
     <string name="Private">"خاص"</string>
     <string name="Public">"عام"</string>
@@ -188,12 +188,12 @@
 
     <string name="Absorb_50_dots">"استيعاب ٥٠ نقطة"</string>
     <string name="Absorb_300_dots">"استيعاب ٣٠٠ نقطة"</string>
-    <string name="Absorb_1_000_dots">"استيعاب ج ١٠٠٠ نقطة"</string>
+    <string name="Absorb_1_000_dots">"استيعاب ١٠٠٠ نقطة"</string>
     <string name="Absorb_5_000_dots">"استيعاب ٥٠٠٠ نقطة"</string>
-    <string name="Absorb_10_000_dots">"استيعاب ١٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_10_000_dots">" استيعاب ١٠،٠٠٠ نقطة"</string>
     <string name="Absorb_50_000_dots">"استيعاب ٥٠،٠٠٠ النقاط"</string>
-    <string name="Absorb_100_000_dots">"استيعاب ١٠٠،٠٠٠ النقاط"</string>
-    <string name="Absorb_1_000_000_dots">"استيعاب ١،٠٠٠،٠٠٠ النقاط"</string>
+    <string name="Absorb_100_000_dots">"استيعاب ١٠٠،٠٠٠ نقطة"</string>
+    <string name="Absorb_1_000_000_dots">"استيعاب ١،٠٠٠،٠٠٠ نقطة"</string>
 
     <string name="Absorb_4_blobs_quickly">"استيعاب ٤ من الدوائر بسرعة"</string>
     <string name="Absorb_8_blobs_quickly">"استيعاب ٨ من الدوائر بسرعة"</string>
@@ -304,7 +304,7 @@
     <string name="I_Will_Survive">"سأنجو"</string>
     <string name="Soccer_Domination">"السيطرة في كرة القدم"</string>
     <string name="Soccer_Hat_Trick">"ثلاثية في كرة القدم"</string>
-    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"الفوز بـ 2500 درجة او اكثر في لعبة حر للجميع بالتوقيت."</string>
+    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"الفوز بـ 2500 نقطة او اكثر في لعبة حر للجميع بالتوقيت."</string>
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"الفوز بـ 7500 درجة او اكثر في لعبة الفرق بالتوقيت."</string>
     <string name="Win_by_3_points_in_a_CTF_game_">"الفوز بـ 3 نقاط في لعبة إمساك العلم."</string>
     <string name="Score_3_points_in_a_single_CTF_game_">"تسجيل 3 نقاط في لعبة إمساك العلم واحدة."</string>
