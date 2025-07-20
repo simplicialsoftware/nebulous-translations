@@ -8,7 +8,7 @@
     <string name="Button_Margin_">"إرتفاع الأزرار:"</string>
     <string name="Buttons_">"الأزرار:"</string>
     <string name="DEFAULTS">"الإفتراضي"</string>
-    <string name="WEEKLY">"الأسبوعي"</string>
+    <string name="WEEKLY">"الاسبوعي"</string>
     <string name="DAILY">"اليومي"</string>
     <string name="Server_">"السيرفر"</string>
     <string name="Game_Mode_">"نوع اللعبة"</string>
@@ -18,7 +18,7 @@
     <string name="OPTIONS">"الإعدادات"</string>
 
     <string name="Avatar_">"الصورة"</string>
-    <string name="Name_">"الإسم"</string>
+    <string name="Name_">"الاسم"</string>
 
     <string name="Loading___">"جاري التحميل…"</string>
     <string name="Connecting___">"جاري الإتصال…"</string>
