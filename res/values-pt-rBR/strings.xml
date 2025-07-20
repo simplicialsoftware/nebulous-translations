@@ -11,7 +11,7 @@
     <string name="WEEKLY">"SEMANAL"</string>
     <string name="DAILY">"DIÁRIO"</string>
     <string name="Server_">"Servidor:"</string>
-    <string name="Game_Mode_">"Modo de Jogo:"</string>
+    <string name="Game_Mode">"Modo de Jogo:"</string>
     <string name="Show_Names">"Mostrar Nomes"</string>
     <string name="Show_Avatars">"Mostrar Skins"</string>
     <string name="PLAY">"JOGAR"</string>
