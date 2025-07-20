@@ -8,7 +8,7 @@
     <string name="Button_Margin_">"إرتفاع الأزرار:"</string>
     <string name="Buttons_">"الأزرار:"</string>
     <string name="DEFAULTS">"الإفتراضي"</string>
-    <string name="WEEKLY">"الأسبوعي"</string>
+    <string name="WEEKLY">"أسبوعي"</string>
     <string name="DAILY">"اليومي"</string>
     <string name="Server_">"السيرفر"</string>
     <string name="Game_Mode_">"نوع اللعبة"</string>
@@ -18,7 +18,7 @@
     <string name="OPTIONS">"الإعدادات"</string>
 
     <string name="Avatar_">"الصورة"</string>
-    <string name="Name_">"الإسم"</string>
+    <string name="Name_">"الاسم"</string>
 
     <string name="Loading___">"جاري التحميل…"</string>
     <string name="Connecting___">"جاري الإتصال…"</string>
@@ -27,7 +27,7 @@
     <string name="Yes">"نعم"</string>
     <string name="No">"لا"</string>
     <string name="WAIT">"انتظر …"</string>
-    <string name="Must_Specify_Name_">"يجب تحديد الإسم."</string>
+    <string name="Must_Specify_Name_">"يجب تحديد الاسم."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
 
@@ -38,12 +38,12 @@
     <string name="Recombine_">"إعادة التجميع: "</string>
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"خمول"</string>
-    <string name="Name_Invalid_">"الإسم غير صالح !"</string>
-    <string name="Name_Taken_">"الاسم مستعمل."</string>
+    <string name="Name_Invalid_">"الاسم غير صالح!"</string>
+    <string name="Name_Taken_">"الاسم مستخدم."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
     <string name="PLAYING">"في طور اللعب"</string>
-    <string name="MULTIPLAYER">"متعدد اللاعبين"</string>
+    <string name="MULTIPLAYER">"اللعب الجماعي"</string>
 
     <string name="JOIN">"إنضم"</string>
 
@@ -56,10 +56,10 @@
 
     <string name="SERVER">"سيرفر"</string>
     <string name="Joining_game_in_">"الانضمام للعبة "</string>
-    <string name="Game_Full">"اللعبه ممتلئة"</string>
+    <string name="Game_Full">"اللعبة ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
-    <string name="Europe">"اوروبا"</string>
+    <string name="Europe">"أوروبا"</string>
     <string name="South_America">"امريكا الجنوبية"</string>
 
 
@@ -283,7 +283,7 @@
 
 
     <string name="Specify_Clan_ID">"تحديد هوية العشيرة"</string>
-    <string name="Show_Clan_Names">"مشاهدة أسماء العشائر"</string>
+    <string name="Show_Clan_Names">"عرض أسماء العشائر"</string>
     <string name="Show_Levels">"مشاهدة المستويات"</string>
     <string name="SET_MOTD">"ضع رسالة اليوم"</string>
     <string name="No_such_user_found_">"لم يتم العثور على هذا المستخدم."</string>
@@ -471,7 +471,7 @@
     <string name="ENTER">"أدخل"</string>
     <string name="_1v1">"١ضد١"</string>
     <string name="Practice">"تمرن"</string>
-    <string name="ArenaDescription">"حياة واحدة. وسيحصل الفائز %s البلازما."</string>
+    <string name="ArenaDescription">"حياة واحدة. يحصل الفائز %s البلازما."</string>
     <string name="Contestant">"متنافس"</string>
     <string name="Duelist">"مبارز"</string>
     <string name="Gladiator">"مجالد"</string>
