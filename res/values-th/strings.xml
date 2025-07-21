@@ -653,7 +653,7 @@
     <string name="Challenge_Sent">"ส่งคำท้าแล้ว"</string>
     <string name="_1v1_Challenge_">"ท้าทาย 1v1!"</string>
     <string name="__has_challenged_you_to_a_1v1_match_">"%s ได้ท้าให้คุณแข่งขันแบบ 1v1!"</string>
-    <string name="Challenge_Expired">"คำท้าหมดอายุ"</string>
+    <string name="Challenge_Expired">"คำท้าหมดเวลา"</string>
     <string name="Enable_Challenges">"เปิดใช้งานการท้าทาย"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"รอให้คำท้าปัจจุบันหมดอายุก่อนค่อยเชิญใหม่"</string>
     <string name="CHALLENGE_OPTIONS">"ตัวเลือกการท้าทาย"</string>
@@ -717,7 +717,7 @@
     <string name="Collect_10000_leaves_">"เก็บ 10,000 ใบไม้"</string>
     <string name="Eject">"สกินตอนยิง"</string>
     <string name="Eject_Skin">"สกินตอนยิง"</string>
-    <string name="Double_Plasma__">"ดับเบิ้ลพลาสมา!!"</string>
+    <string name="Double_Plasma__">"พลาสมาสองเท่า!!"</string>
     <string name="Ends">"จบ"</string>
     <string name="Select_Clan_Member">"เลือกสมาชิกแคลน"</string>
     <string name="Inappropriate_Skin">"สกินไม่เหมาะสม"</string>
@@ -911,7 +911,7 @@
     <string name="Pets">สัตว์เลี้ยง</string>
     <string name="Pet">สัตว์เลี้ยง</string>
     <string name="You_can_purchase_this_pet_for">คุณสามารถซื้อสัตว์เลี้ยงนี้ได้โดยใช้</string>
-    <string name="gift_to_friend">ของขวัญให้เพื่อน</string>
+    <string name="gift_to_friend">ส่งของขวัญให้เพื่อน</string>
     <string name="gift_purchase_warning">คุณจะไม่ได้รับการสั่งซื้อนี้ เพราะคุณได้เลือกที่จะซื้อเป็นของขวัญให้เพื่อน</string>
     <string name="x2_Clan_XP_7_Days">2x แคลน XP 7 วัน</string>
     <string name="RECEIVED">ที่ได้รับ</string>
