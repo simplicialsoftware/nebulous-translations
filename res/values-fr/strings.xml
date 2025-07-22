@@ -58,8 +58,8 @@
     <string name="SERVER">"SERVEUR"</string>
     <string name="Joining_game_in_">"Rejoindre la partie "</string>
     <string name="Game_Full">"Partie complète"</string>
-    <string name="US_East">"Amérique Centrale"</string>
-    <string name="US_West">"Amérique du Nord"</string>
+    <string name="US_East">"Côte Est des États-Unis"</string>
+    <string name="US_West">"Côte Ouest des États-Unis"</string>
     <string name="Europe">"Europe"</string>
     <string name="South_America">"Amérique du Sud"</string>
 
@@ -154,7 +154,7 @@
     <string name="Dot_Gobbler">"Gobeur de Points"</string>
     <string name="Dot_Devourer">"Devoreur de Points"</string>
     <string name="Dot_Gormandizer">"Goumandise de Points"</string>
-    <string name="Dot_Sommelier">"Un grand festin de Points"</string>
+    <string name="Dot_Sommelier">"Gourmet de Points"</string>
 
     <string name="Quadra_Gulp">"Quadruple !"</string>
     <string name="Multi_Gulp">"Gorgée Multiple!"</string>
@@ -203,28 +203,28 @@
     <string name="Absorb_32_blobs_quickly">"Absorber 32 blobs de joueur rapidement"</string>
     <string name="Absorb_40_blobs_quickly">"Absorber 40 blobs de joueur rapidement"</string>
 
-    <string name="Absorb_8_player_blobs_without_restarting">"Absorber 8 blobs de joueur sans mourir"</string>
-    <string name="Absorb_16_player_blobs_without_restarting">"Absorber 16 blobs de joueur sans mourir"</string>
-    <string name="Absorb_32_player_blobs_without_restarting">"Absorber 32 blobs de joueur sans mourir"</string>
-    <string name="Absorb_48_player_blobs_without_restarting">"Absorber 48 blobs de joueur sans mourir"</string>
-    <string name="Absorb_80_player_blobs_without_restarting">"Absorber 80 blobs de joueur sans mourir"</string>
-    <string name="Absorb_160_player_blobs_without_restarting">"Absorber 160 blobs de joueur sans mourir"</string>
-    <string name="Absorb_240_player_blobs_without_restarting">"Absorber 240 blobs de joueur sans mourir"</string>
+    <string name="Absorb_8_player_blobs_without_restarting">"Absorber 8 blobs de joueur sans être détruit"</string>
+    <string name="Absorb_16_player_blobs_without_restarting">"Absorber 16 blobs de joueur sans être détruit"</string>
+    <string name="Absorb_32_player_blobs_without_restarting">"Absorber 32 blobs de joueur sans être détruit"</string>
+    <string name="Absorb_48_player_blobs_without_restarting">"Absorber 48 blobs de joueur sans être détruit"</string>
+    <string name="Absorb_80_player_blobs_without_restarting">"Absorber 80 blobs de joueur sans être détruit"</string>
+    <string name="Absorb_160_player_blobs_without_restarting">"Absorber 160 blobs de joueur sans être détruit"</string>
+    <string name="Absorb_240_player_blobs_without_restarting">"Absorber 240 blobs de joueur sans être détruit"</string>
 
-    <string name="Reach_a_score_of_1_000">"Atteindre un score de masse de 1 000"</string>
-    <string name="Reach_a_score_of_5_000">"Atteindre un score de masse de 5 000"</string>
-    <string name="Reach_a_score_of_10_000">"Atteindre un score de masse de 10 000"</string>
-    <string name="Reach_a_score_of_15_000">"Atteindre un score de masse de 15 000"</string>
-    <string name="Reach_a_score_of_20_000">"Atteindre un score de masse de 20 000"</string>
+   <string name="Reach_a_score_of_1_000">"Atteindre une masse de 1 000"</string>
+    <string name="Reach_a_score_of_5_000">"Atteindre une masse de 5 000"</string>
+    <string name="Reach_a_score_of_10_000">"Atteindre une masse de 10 000"</string>
+    <string name="Reach_a_score_of_15_000">"Atteindre une masse de 15 000"</string>
+    <string name="Reach_a_score_of_20_000">"Atteindre une masse de 20 000"</string>
 
-    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Atteindre un score de masse de 10 000 sans perdre de blobs"</string>
+    <string name="Play_5_minutes_straight_without_losing_any_blobs">"Jouer 5 minutes d'affilée sans perdre de blobs"</string>
     <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Atteindre un score de masse de 5 000 sans se diviser ou éjecter de la masse"</string>
     <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Jouer 5 minutes d'affilée sans entrer en collision avec un trou noir"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"Jouer 5 minutes d'affilées sans perdre aucun de vos blobs"</string>
     <string name="Play_20_minutes_straight_without_restarting">"Jouer 20 minutes d'affilées sans mourir"</string>
-    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"Absorber 5 nébuleuses bleues dans les 30 secondes après avoir commencé à jouer"</string>
+    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"Absorber 5 trous noirs supermassifs dans les 30 secondes après avoir commencé"</string>
     <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Atteindre un score de masse de 5 000 en 1 minute après avoir commencé à jouer"</string>
-    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Pousser un trou noir sur le dernier joueur ayant poussé un trou noir sur vous avant de mourir"</string>
+    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Repousser un trou noir sur le joueur qui vous en a lancé un avant d'être détruit"</string>
     <string name="Absorb_5_doges_without_restarting">"Absorber 5 joueurs avec le skin du chien sans mourir "</string>
 
     <string name="Friends">"Amis"</string>
@@ -244,7 +244,7 @@
 
     <string name="You_must_wait_until_the_end_of_the_round_">"Tu dois attendre la fin de la partie"</string>
     <string name="Dont_show_again">"Ne plus afficher :"</string>
-    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"On a trouvé quelque chose pour toi ! Apparemment tu as déjà joué des parties tout seul, veux-tu restaurer ton ancien niveau ?"</string>
+    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Sauvegarde solo trouvée avec plus d'XP. Restaurer ?"</string>
 
     <string name="Special_Effects">"Afficher les Effets Spéciaux"</string>
     <string name="Blob_Mushiness">"Afficher les Effets de Collision"</string>
@@ -277,7 +277,7 @@
     <string name="ELDER">"AÎNÉ"</string>
 
 
-    <string name="Not_in_a_clan_">"N'est membre d'aucun clan."</string>
+    <string name="Not_in_a_clan_">"N'appartient à aucun clan"</string>
 
 
     <string name="CLAN">"CLAN"</string>
