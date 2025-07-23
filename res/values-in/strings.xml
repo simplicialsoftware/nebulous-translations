@@ -632,9 +632,9 @@
     <string name="Pumpkin_Hoarder">"Penimbun Labu"</string>
     <string name="Pumpkin_Mogul">"Mogul Labu"</string>
     <string name="Leaf_Mogul">"Mogul Daun"</string>
-    <string name="Collect_5000_pumpkins_">"Mengumpulkan 5.000 Labu."</string>
-    <string name="Collect_10000_pumpkins_">"Mengumpulkan 10.000 Labu."</string>
-    <string name="Collect_10000_leaves_">"Mengumpulkan 10.000 Daun."</string>
+    <string name="Collect_5_000_pumpkins_">"Mengumpulkan 5.000 Labu."</string>
+    <string name="Collect_10_000_pumpkins_">"Mengumpulkan 10.000 Labu."</string>
+    <string name="Collect_10_000_leaves_">"Mengumpulkan 10.000 Daun."</string>
     <string name="Eject">"Mengeluarkan"</string>
     <string name="Eject_Skin">"Skin Luar"</string>
     <string name="Double_Plasma__">"Plasma Dobel!!"</string>
@@ -667,7 +667,7 @@
     <string name="Other_players_can_not_see_your_skin_">"Pemain lain tidak bisa melihat Skin Anda."</string>
     <string name="Other_players_can_see_your_skin_">"Pemain lain bisa melihat Skin Anda."</string>
     <string name="LEGEND">"LEGENDA"</string>
-    <string name="Win_10000_Arenas">"Menang 10.000 Arena"</string>
+    <string name="Win_10_000_Arenas">"Menang 10.000 Arena"</string>
     <string name="UPLOAD_PREVIEW">"UPLOAD DI PRATINJAU"</string>
     <string name="Transparency">"Transparansi"</string>
     <string name="upload_info">"Anda dapat mencapai kualitas yang lebih baik tanpa Transparansi atau dengan gambar sederhana."</string>
@@ -767,8 +767,8 @@
     <string name="May_Reduce_Lag">"(Semoga Mengurangi Lag)"</string>
     <string name="Ultraclick_Permanent">"Ultraklik Permanen"</string>
     <string name="Autoclick_Permanent">"Autoklik Permanen"</string>
-    <string name="x3_XP_Permanent">"3x XP Permanen"</string>
-    <string name="x2_XP_Permanent">"2x XP Permanen"</string>
+    <string name="3x_XP_Permanent">"3x XP Permanen"</string>
+    <string name="2x_XP_Permanent">"2x XP Permanen"</string>
     <string name="Permanent">"Permanen"</string>
     <string name="Apply_To_Account">Terapkan Ke Akun</string>
     <string name="Spin_">Putar!</string>
@@ -1049,7 +1049,7 @@
     <string name="Enable__Multiskin">"Aktifkan\nMultiskin"</string>
     <string name="MULTISKIN">MULTISKIN</string>
     <string name="DISABLED">DINONAKTIFKAN</string>
-    <string name="Refund__Multiskin">Pengembalian\nMultiskin</string>
+    <string name="Refund__Multiskin">Pengembalian Multiskin</string>
     <string name="Invalid_Clan_ID_">ID Klan Tidak Valid</string>
     <string name="MUTED">DIBISUKAN</string>
     <string name="SKIN">SKIN</string>
@@ -1065,7 +1065,7 @@
     <string name="WATCH_VIDEO_">TONTON VIDEO!</string>
     <string name="PERMANENT_BOOSTS">TAMBAHAN PERMANEN</string>
     <string name="Video_failed_to_load_">Video gagal dimuat!</string>
-    <string name="Video_Ready_">Vidio sudah siap!</string>
+    <string name="Video_Ready_">Video sudah siap!</string>
     <string name="GIVE_PLASMA">KIRIM PLASMA</string>
     <string name="Specify_amount_">Tentukan jumlah:</string>
     <string name="Specify_amount_again_to_confirm_">Tentukan jumlah lagi untuk mengonfirmasi:</string>
@@ -1113,7 +1113,7 @@
     <string name="CHAMPION">JUARA</string>
     <string name="DASH">BERLARI</string>
     <string name="setting_changed">Pengaturan diperbarui. Anda mungkin perlu menyambung kembali ke server agar dapat diterapkan.</string>
-    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Melakukan 10.000 trik dalam permainan trik mode.</string>
+    <string name="Perform_10_000_tricks_in_a_Trick_Mode_game_">Melakukan 10.000 trik dalam permainan trik mode.</string>
     <string name="Tricky">Penuh Akal</string>
     <string name="SUPPORTER">VIP</string>
     <string name="CONQUEROR">PENAKLUK</string>
@@ -1153,7 +1153,7 @@
     <string name="COMP_BANNED">KOMP DILARANG</string>
     <string name="FIND_GAMES">CARI PERMAINAN</string>
     <string name="PLAY_SOLO">MAINKAN SOLO</string>
-    <string name="SET_EMOTE">ATUR EMOTE</string>
+    <string name="SET_EMOTE">ATUR EMOT</string>
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
     <string name="Win_a_Battle_Royale_">Memenangkan Pertempuran Royale.</string>
     <string name="Battle_">Pertempuran!</string>
