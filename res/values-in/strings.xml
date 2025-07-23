@@ -1,6 +1,6 @@
 <resources>
     <string name="Players">"Pemain"</string>
-    <string name="Control_">"Kontrol :"</string>
+    <string name="Control_">"Kontrol:"</string>
     <string name="CLOSE">"TUTUP"</string>
     <string name="Stick_Size_">"Ukuran stik:"</string>
     <string name="Stick_Margin_">"Tepi stik:"</string>
