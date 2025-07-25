@@ -71,11 +71,11 @@
     <string name="Max_Players">"Maxim de Jucători"</string>
     <string name="Min_Players">"Minim de Jucători"</string>
 
-    <string name="OK">"OK"</string>
+    <string name="OK">"Bine"</string>
     <string name="CANCEL">"ANULARE"</string>
     <string name="Chat_Name">"Nume Chat"</string>
     <string name="Max_People">"Maxim de Oameni"</string>
-    <string name="START">"START"</string>
+    <string name="START">"ÎNCEPUT"</string>
     <string name="CREATE">"CREAZĂ"</string>
     <string name="CUSTOM_GAMES">"JOCURI PERSONALIZATE"</string>
     <string name="CHAT">"CHAT"</string>
@@ -273,7 +273,7 @@
     <string name="MEMBER">"MEMBRU"</string>
     <string name="ADMIN">"ADMIN"</string>
     <string name="LEADER">"LIDER"</string>
-    <string name="ELDER">"ELDER"</string>
+    <string name="ELDER">"MAI MARE"</string>
 
 
     <string name="Not_in_a_clan_">"Nu ești în clan."</string>
@@ -1051,16 +1051,17 @@
     <string name="More___">Mai Mult…</string>
     <string name="This_cannot_be_used_in_FFA_Classic_">Acesta nu poate fi folosit în FFA Clasic.</string>
     <string name="ENEMY">INAMIC</string>
-    <string name="ALLY">ALLY</string>
+    <string name="ALLY">ALIAT</string>
     <string name="Rename">Redenumiți</string>
     <string name="Set_friendly_name_">Setează un nume prietenos.</string>
     <string name="Leave_blank_for_none_">Lăsați necompletat pentru niciunul.</string>
     <string name="Vote_Kick">Kick Player</string>
     <string name="FONT">FONT</string>
     <string name="CIRCLE">CERC</string>
-    <string name="SQUARES">SQUARES</string>
+    <string name="SQUARES">PĂTRATE</string>
     <string name="TRICK_MODE">TRICK MODE</string>
-    <string name="ICE_SPLIT">ICE SPLIT</string>
+    <string name="ICE_SPLIT">GHEAȚĂ SPLIT
+</string>
     <string name="TRICK_SPLIT">TRICK SPLIT</string>
     <string name="POP_SPLIT">POP SPLIT</string>
     <string name="PUSH_SPLIT">PUSH SPLIT</string>
@@ -1083,7 +1084,7 @@
     <string name="Channel">Canal</string>
     <string name="Choose_Text_Size">Alegeți Dimensiunea Text</string>
     <string name="LEVEL_COLOR">LEVEL COLOR</string>
-    <string name="INITIATE">INITIATE</string>
+    <string name="INITIATE">INIŢIA</string>
     <string name="x3_Clan_XP_Perm">3x Clan XP Permanent!</string>
     <string name="x2_Clan_XP_Perm">2x Clan XP Permanent!</string>
     <string name="Japan">Japonia</string>
@@ -1112,7 +1113,8 @@
     <string name="Reason">Motiv</string>
     <string name="PUBLIC">PUBLIC</string>
     <string name="PRIVATE">PRIVAT</string>
-    <string name="Joined">Joined</string>
+    <string name="Joined">S-a alăturat
+</string>
     <string name="Requests">Cereri</string>
     <string name="Invites">Invită</string>
     <string name="Show_Spectator_Count">Arată Numărul de Spectatori</string>
@@ -1139,7 +1141,7 @@
 
     <string name="Enable__Multiskin">"Permite\nMultiskin"</string>
     <string name="MULTISKIN">MULTISKIN</string>
-    <string name="DISABLED">DISABLED</string>
+    <string name="DISABLED">DEZACTIVAT</string>
 
     <string name="Refund__Multiskin">Refund\nMultiskin</string>
     <string name="Invalid_Clan_ID_">Invalid clan ID.</string>
