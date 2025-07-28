@@ -51,7 +51,7 @@
     <string name="Not_found_">"Tidak ditemukan."</string>
     <string name="Hidden">"Tersembunyi"</string>
     <string name="SERVER">"SERVER"</string>
-    <string name="Joining_game_in_">"Bergabung permainan di "</string>
+    <string name="Joining_game_in_">"Bergabung ke permainan"</string>
     <string name="Game_Full">"Permainan Penuh"</string>
     <string name="US_East">"Amerika Tengah"</string>
     <string name="US_West">"Amerika Utara"</string>
@@ -136,7 +136,7 @@
     <string name="Multi_Gulp">"Multi Gulp"</string>
     <string name="Mega_Gulp">"Mega Gulp"</string>
     <string name="Ultra_Gulp">"Ultra Gulp"</string>
-    <string name="Monster_Gulp">"Raksasa Gulp"</string>
+    <string name="Monster_Gulp">"Penelan Raksasa"</string>
     <string name="Ludicrous_Gulp">"Menggelikan Gulp"</string>
     <string name="Blobicide">"Blobicide"</string>
     <string name="Blobtrocity">"Blobtrocity"</string>
@@ -281,9 +281,9 @@
     <string name="Translations">"Terjemahan"</string>
     <string name="Developers">"Pengembang"</string>
     <string name="Special_Thanks">"Terima Kasih Khusus"</string>
-    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Terima kasih Banyak Untuk Setiap Fans Nebula"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Terima kasih Banyak Untuk Setiap Fans Nebulous!"</string>
     <string name="Color_Blind">"Buta Warna"</string>
-    <string name="Daily_Quest_Complete_">"Misi Harian Berhasil!"</string>
+    <string name="Daily_Quest_Complete_">"Misi Harian Selesai!"</string>
     <string name="COPY_ID">"SALIN ID"</string>
     <string name="My_Account_ID">"ID Akun Saya"</string>
 
@@ -738,7 +738,7 @@
     <string name="Finals">"Final"</string>
     <string name="Unregister">"Tidak Daftar"</string>
     <string name="Enter_My_Match">"Masuk Pertandingan Saya"</string>
-    <string name="Starts_In">"Mulai di"</string>
+    <string name="Starts_In">"Mulai Dalam"</string>
     <string name="Seconds">"Detik"</string>
     <string name="Tournaments_Temporarily_Disabled">"Turnamen sementara Dinonaktifkan"</string>
     <string name="CLAN_NAME_COLOR">"WARNA NAMA KLAN"</string>
@@ -799,7 +799,7 @@
     <string name="muted_until">Dibisukan Sampai</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Peringkat konten aplikasi dapat berubah ketika bermain multipemain.</string>
     <string name="UI_Opacity_">Opasitas UI</string>
-    <string name="LOAD">BAWAAN</string>
+    <string name="LOAD">MUAT</string>
     <string name="REMOVE">HAPUS</string>
     <string name="BAN">MELARANG</string>
     <string name="MODERATORS">MODERATOR</string>
@@ -1031,7 +1031,7 @@
     <string name="GET_PACK">DAPATKAN PAKET</string>
     <string name="Position_in_queue">Posisi antrian</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">WARNA LATARBELAKANG PROFIL</string>
-    <string name="DARK_MATTER">DARK MATTER</string>
+    <string name="DARK_MATTER">MATERI GELAP</string>
     <string name="Textures_will_be_regenerated_">Tekstur hitam dan kustom skin akan dibuat ulang.</string>
     <string name="Enable_Profile_Colors">Aktifkan Warna Profil</string>
     <string name="Session_Stats">Statistik Sesi</string>
@@ -1086,7 +1086,7 @@
     <string name="Spectate_Killer_On_Death">Tonton Pembunuh Saat Kematian</string>
     <string name="Rainbow_Holes">Lubang Pelangi</string>
     <string name="LIFE_STEAL">MENCURI NYAWA</string>
-    <string name="Kicked_From_Game_">Dihapuskan Dari Permainan!</string>
+    <string name="Kicked_From_Game_">Dikeluarkan Dari Permainan!</string>
     <string name="Conquest">Penaklukan</string>
     <string name="Finish_the_last_mission_in_the_campaign_">Selesaikan misi terakhir di mode kampanye.</string>
     <string name="Collected_">Dikumpulkan:</string>
@@ -1117,7 +1117,7 @@
     <string name="Tricky">Penuh Akal</string>
     <string name="SUPPORTER">VIP</string>
     <string name="CONQUEROR">PENAKLUK</string>
-    <string name="TRICKY">PENUH AKAL</string>
+    <string name="TRICKY">AHLI TRIK</string>
     <string name="x4_XP_Permanent">4x XP Permanen</string>
     <string name="x4_XP_24_hours">4x XP 24 Jam</string>
     <string name="x4_XP_1_Hour">4x XP 1 Jam </string>
