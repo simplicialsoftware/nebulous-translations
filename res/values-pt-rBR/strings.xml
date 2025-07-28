@@ -643,9 +643,9 @@
     <string name="Raindrop_Collector">"Coletor de Gotas de Chuva"</string>
     <string name="Raindrop_Hoarder">"Colecionador de Gotas de Chuva"</string>
     <string name="Raindrop_Mogul">"Magnata de Gotas de Chuva"</string>
-    <string name="Collect_1_000_raindrops_">"Colete 1,000 gotas de chuva."</string>
-    <string name="Collect_5_000_raindrops_">"Colete 5,000 gotas de chuva."</string>
-    <string name="Collect_10_000_raindrops_">"Colete 10,000 gotas de chuva."</string>
+    <string name="Collect_1_000_raindrops_">"Colete 1.000 gotas de chuva."</string>
+    <string name="Collect_5_000_raindrops_">"Colete 5.000 gotas de chuva."</string>
+    <string name="Collect_10_000_raindrops_">"Colete 10.000 gotas de chuva."</string>
     <string name="Copy_Message">"Copiar Mensagem"</string>
     <string name="Copied_to_clipboard_">"Copiado para a área de transferência."</string>
     <string name="COPY_NAME">"COPIAR NOME"</string>
@@ -687,9 +687,9 @@
     <string name="Moon_Collector">"Coletor de Luas"</string>
     <string name="Moon_Hoarder">"Colecionador de Luas"</string>
     <string name="Moon_Mogul">"Magnata de Luas"</string>
-    <string name="Collect_1_000_moons_">"Colete 1,000 luas."</string>
-    <string name="Collect_5_000_moons_">"Colete 5,000 luas."</string>
-    <string name="Collect_10_000_moons_">"Colete 10,000 luas."</string>
+    <string name="Collect_1_000_moons_">"Colete 1.000 luas."</string>
+    <string name="Collect_5_000_moons_">"Colete 5.000 luas."</string>
+    <string name="Collect_10_000_moons_">"Colete 10.000 luas."</string>
     <string name="BLUETOOTH">"BLUETOOTH"</string>
     <string name="HOST">"HOST"</string>
     <string name="This_device_does_not_support_bluetooth_">"Este dispositivo não suporta Bluetooth."</string>
@@ -748,7 +748,7 @@
     <string name="Other_players_can_not_see_your_skin_">Outros jogadores não podem ver a sua skin.</string>
     <string name="Other_players_can_see_your_skin_">Outros jogadores podem ver a sua skin</string>
     <string name="LEGEND">LENDA</string>
-    <string name="Win_10000_Arenas">Ganhar 10,000 Arenas</string>
+    <string name="Win_10000_Arenas">Ganhar 10.000 Arenas</string>
     <string name="UPLOAD_PREVIEW">PRÉVIA DO ENVIO</string>
     <string name="Transparency">Transparência</string>
     <string name="upload_info">Você pode conseguir uma melhor qualidade, sem transparência ou com imagens simples.</string>
@@ -1082,10 +1082,10 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     </string>
     <string name="PLAY_ONLINE_">JOGAR ONLINE!</string>
 
-    <string name="Absorb_10_000_000_dots">Absorva 10,000,000 pontos</string>
+    <string name="Absorb_10_000_000_dots">Absorva 10.000.000 pontos</string>
     <string name="Dot_Deity">Divindade dos Pontos</string>
     <string name="Mass_Mastery">Domínio de Massa</string>
-    <string name="Gain_100_000_000_mass">Obtenha 100,000,000 de massa</string>
+    <string name="Gain_100_000_000_mass">Obtenha 100.000.000 de massa</string>
     <string name="VET">VET</string>
     <string name="Mute">Silenciar</string>
     <string name="Unmute">Dessilenciar</string>
