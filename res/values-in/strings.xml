@@ -126,7 +126,7 @@
     <string name="Clan_XP">"XP Klan"</string>
     <string name="Dot_Nibbler">"Dot Nibbler"</string>
     <string name="Dot_Muncher">"Dot Muncher"</string>
-    <string name="Dot_Eater">"Dot Eater"</string>
+    <string name="Dot_Eater">"Pemakan Dot"</string>
     <string name="Dot_Gulper">"Dot Gulper"</string>
     <string name="Dot_Gobbler">"Dot Gobbler"</string>
     <string name="Dot_Devourer">"Dot Devourer"</string>
@@ -790,7 +790,7 @@
     <string name="Spins_Remaining">Putaran Tersisa</string>
     <string name="One_Spin">Satu Putaran (1)</string>
     <string name="Bundle_of_Spins">Putaran Bundel (10)</string>
-    <string name="Plethora_of_Spins">Putaran Kebanyakan (50)</string>
+    <string name="Plethora_of_Spins">Putaran Berlimpah (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">LOGOUT DARI SEMUA PERANGKAT</string>
     <string name="Tournament_Forming">Turnamen Terbentuk</string>
     <string name="TeamTourneyDescription">Anda dan rekan Anda harus mendaftar untuk bermain di turnamen tim. Anda akan dikenakan plasma ketika turnamen dimulai tetapi Anda dapat membatalkan registrasi sebelum dimulai. Membutuhkan setidaknya %d kontestan untuk memulai.</string>
