@@ -166,7 +166,7 @@
     <string name="Blobicide">"Baloncuk Üfleyen"</string>
     <string name="Blobtrocity">"Baloncuk Yiyen"</string>
     <string name="Blobaccre">"Baloncuk Yutucu"</string>
-    <string name="Blobastrophe">"Baloncuk  Uzmanı"</string>
+    <string name="Blobastrophe">"Baloncuk Uzmanı"</string>
     <string name="Blobihilation">"Baloncuk Çıldırtan"</string>
     <string name="Blobageddon">" Baloncuk Kışkırtan"</string>
     <string name="Blobocalypse">"Baloncuk Kanırtan"</string>
@@ -356,13 +356,13 @@
 
     <string name="Forming">"Biçimlendiriliyor"</string>
     <string name="Searching">"Aranıyor"</string>
-    <string name="In_Progress">"İşlem Devam Etmekte"</string>
+    <string name="In_Progress">"İşleminiz Devam Etmekte"</string>
 
     <string name="Wins">"Galibiyetler"</string>
 
     <string name="Score">"Skor"</string>
     <string name="Rating">"Sıralama"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"Yeni bir klan lideri ayarlamak üzeresiniz!"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"Yeni bir klan lideri belirlemek üzeresiniz!"</string>
     <string name="XP">"XP"</string>
     <string name="High_Score">"Yüksek Skor"</string>
 
@@ -377,7 +377,7 @@
     <string name="W_D_L">"G-B-K"</string>
     <string name="MATCH_START">"MAÇ BAŞLIYOR"</string>
     <string name="Clan_Warrior">"Klan Savaşçısı"</string>
-    <string name="Win_a_Clan_War">"Bir Klan Savaşı kazanın."</string>
+    <string name="Win_a_Clan_War">"Bir Klan Savaşı Kazanın."</string>
     <string name="Global">"Küresel"</string>
     <string name="Spectating">"İzliyorsunuz"</string>
 
@@ -545,7 +545,7 @@
     <string name="Teams">"Takımlar"</string>
     <string name="Team">"Takım"</string>
     <string name="Specify_Account_ID">"Hesap Kimliğini belirtin"</string>
-    <string name="Team_Created_">"Takım  başarıyla oluşturuldu!"</string>
+    <string name="Team_Created_">"Takım başarıyla oluşturuldu!"</string>
     <string name="Team_Arena">"Takım Arenası"</string>
     <string name="No_Teams">"Takımsız"</string>
     <string name="team_arena_info">"Bir takım oluşturduğunuz takdirde ücretsiz bir şekilde üye ekleyebilir veya çıkarabilirsiniz. Takım arena maçlarında oynamak da ücretsizdir. Oluşturduğunuz takımın ismini takımınızı oluşturduktan sonra değiştiremezsiniz."</string>
@@ -583,8 +583,8 @@
     <string name="Name_is_already_in_use_">"Bu isim zaten kullanılmaktadır."</string>
     <string name="User_is_not_in_the_team_">"Kullanıcı takımda mevcut değil."</string>
     <string name="You_are_not_invited_to_team_">"Takıma davet edilmediniz."</string>
-    <string name="Team_does_not_exist_">"Takım bulunamıyor. (Takım yok):"</string>
-    <string name="Please_wait_a_minute_before_sending_another_report_">"Başka bir rapor  göndermeden önce lütfen bir dakika kadar bekleyiniz."</string>
+    <string name="Team_does_not_exist_">"Takım bulunamadı. (Takım yok):"</string>
+    <string name="Please_wait_a_minute_before_sending_another_report_">"Başka bir rapor göndermeden önce lütfen bir dakika kadar bekleyiniz."</string>
     <string name="Collect_1_000_beads_">"1.000 Adet Boncuk toplayın."</string>
     <string name="Collect_5_000_beads_">"5.000 Adet Boncuk toplayın."</string>
     <string name="Collect_10_000_beads_">"10.000 Adet Boncuk toplayın."</string>
@@ -593,7 +593,7 @@
     <string name="Bead_Mogul">"Boncuk Kralı"</string>
     <string name="beads_">"Boncuklar."</string>
 
-    <string name="Rejoin_Game">"Oyuna Yeniden Girin"</string>
+    <string name="Rejoin_Game">"Oyuna Yeniden Katılın"</string>
     <string name="PRIZES">"ÖDÜLLER "</string>
 
     <string name="Enable_Custom_Skin">"Özel Cildi Etkinleştirin"</string>
@@ -748,7 +748,7 @@
     <string name="WIN">"KAZANMAK"</string>
     <string name="LOSS">"KAYBETMEK"</string>
     <string name="Other_players_can_not_see_your_skin_">"Diğer oyuncular Cildinizi (Skin) göremezler."</string>
-    <string name="Other_players_can_see_your_skin_">"Diğer oyuncular Cildinizi (Skin) görebilirler."</string>
+    <string name="Other_players_can_see_your_skin_">"Diğer oyuncular Cildinizi (Skin) görünüyor."</string>
     <string name="LEGEND">"EFSANE"</string>
     <string name="Win_10000_Arenas">"10.000 Adet Arena oyunu kazanın."</string>
     <string name="UPLOAD_PREVIEW">"YÜKLEME ÖNİZLEMESİ"</string>
@@ -848,7 +848,7 @@
     <string name="Autoclick_1_Hour">"1 Saatlik Autoclick"</string>
     <string name="Ultraclick_24_Hours">"24 Saatlik Ultraclick"</string>
     <string name="Ultraclick_1_Hour">"1 Saatlik Ultraclick"</string>
-    <string name="Ultraclick">"UltraClick"</string>
+    <string name="Ultraclick">"Ultraclick"</string>
     <string name="May_Reduce_Lag">"(Gecikmeyi Azaltabilmektedir)"</string>
     <string name="Ultraclick_Permanent">"Kalıcı Ultraclick"</string>
     <string name="Autoclick_Permanent">"Kalıcı Autoclick"</string>
@@ -864,7 +864,7 @@
     <string name="NOW">"ŞİMDİ"</string>
     <string name="Team_Deathmatch_Domination">"Takımlı Hakimiyet Ölüm Müsabakası"</string>
     <string name="We_Will_Survive">"Hayatta Kalacağız"</string>
-    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Takımlı Ölüm Müsabakasında en az 5 kişi var ken kazanın."</string>
+    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Takımlı Ölüm Müsabakasında en az 5 kişi var iken kazanın."</string>
 
     <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"Takımlı Ölüm Müsabakasını kazanmadan hayatta kalın."</string>
     <string name="Win_a_Team_Deathmatch_Game">"Bir Takımlı Ölüm Müsabakası Kazan"</string>
@@ -916,7 +916,7 @@
     <string name="x2_Clan_XP_7_Days">"7 Günlük 2x Klan XP'si"</string>
     <string name="RECEIVED">"ALINAN POSTA"</string>
     <string name="SENT">"GÖNDERİLEN POSTA"</string>
-    <string name="Enable_Invites">"Davetiyelereri Etkinleştirin"</string>
+    <string name="Enable_Invites">"Davetiyeleri Etkinleştirin"</string>
     <string name="Game_Invitation">"Oyun Davetiyesi"</string>
     <string name="__has_invited_you_to_join_their_game_">"%s ,sizi kendi oyununa katılmaya davet etti!"</string>
     <string name="Invitation_declined_">"Davetiye Reddedildi!"</string>
@@ -939,7 +939,7 @@
     <string name="FREE_TODAY">"BUGÜN ÜCRETSİZ!"</string>
     <string name="Cannot_cancel_this_skin_yet_">"Bu özel avatarı iptal edebilmek için lütfen biraz bekleyiniz."</string>
     <string name="SPLIT_16X">"16x BÖLÜNME"</string>
-    <string name="SET_PUBLIC_DESCRIPTION">"KLANIN GENEL AÇIKLAMASINI AYARLA"</string>
+    <string name="SET_PUBLIC_DESCRIPTION">"KLANIN GENEL AÇIKLAMASINI AYARLAYIN"</string>
     <string name="SET_NOTE">"NOT EKLEYİN"</string>
     <string name="enable_notifications">"Bildirimleri Etkinleştirin"</string>
     <string name="PROMOTE_MEMBER">"RÜTBEYİ YÜKSELT"</string>
@@ -1044,11 +1044,11 @@ Oyunun kurallarını çiğneyen bir oyuncuyu fark ederseniz, lütfen bir "Modera
     <string name="POSITION_EJECT_BUTTON">"YEM ATMA BUTON KONUMUNU AYARLA"</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">"YEM HIZI DEĞİŞTİRME BUTON KONUMUNU AYARLA"</string>
     <string name="WIFI">"WIFI"</string>
-    <string name="JOIN_IP">"IP ile Katıl"</string>
+    <string name="JOIN_IP">"IP ile Katılın"</string>
     <string name="Specify_Host_IP">"Host IP Belirle"</string>
     <string name="ADVANCED_SETUP">"Gelişmiş Ayar"</string>
     <string name="WORLD_CUP_EVENT___">"DÜNYA KUPASI ETKİNLİĞİ!!!"</string>
-    <string name="world_cup_event_description">"Dünya kupası\'nın sonuna kadar futbol modunda iki kat daha fazla XP ve plazma verilecektir!"</string>
+    <string name="world_cup_event_description">"Dünya kupası'nın sonuna kadar futbol modunda iki kat daha fazla XP ve plazma verilecektir!"</string>
     <string name="GIF_Skins">"GIF Ciltler"</string>
     <string name="PLAY_ONLINE_">"ONLINE OYNA!"</string>
     <string name="Absorb_10_000_000_dots">"10,000,000 Benek yutun."</string>
@@ -1106,8 +1106,8 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="ENEMY">"DÜŞMAN"</string>
     <string name="ALLY">"MÜTTEFİK"</string>
     <string name="Rename">"Yeniden Adlandır"</string>
-    <string name="Set_friendly_name_">"Arkadaşına Takma İsim Ayarla."</string>
-    <string name="Leave_blank_for_none_">"Ayarlamamak istiyorsanız boş bırakın."</string>
+    <string name="Set_friendly_name_">"Arkadaşına Takma İsim Belirle."</string>
+    <string name="Leave_blank_for_none_">"Ayarlamak istiyorsanız boş bırakın."</string>
     <string name="Vote_Kick">"Oyuncuyu At"</string>
     <string name="FONT">"YAZI TİPİ"</string>
     <string name="CIRCLE">"ÇEMBER"</string>
@@ -1171,7 +1171,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Invites">"Davetler"</string>
     <string name="Show_Spectator_Count">"Seyirci Sayısını Göster"</string>
     <string name="TRY_IT_">"DENE!"</string>
-    <string name="You_need_to_buy_a_pack_to_use_this_">"Bu ögeyi  kullanmak için paket satın almanız gerekiyor."</string>
+    <string name="You_need_to_buy_a_pack_to_use_this_">"Bu ögeyi kullanmak için paket satın almanız gerekiyor."</string>
     <string name="GET_PACK">"PAKETİ AL"</string>
     <string name="Position_in_queue">"Oyun için Kalan Sıra Sayısı"</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">"PROFİL MENÜSÜ ARKA PLAN RENGİ"</string>
@@ -1191,10 +1191,10 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Primary">"Birincil"</string>
     <string name="Secondary">"İkincil"</string>
     <string name="Both">"İkisi de"</string>
-    <string name="Enable__Multiskin">"Çoklu Cilt\n Etkinleştir"</string>
+    <string name="Enable__Multiskin">"Çoklu Cilt'i Etkinleştir"</string>
     <string name="MULTISKIN">"ÇOKLU CİLT"</string>
     <string name="DISABLED">"DEVRE DIŞI"</string>
-    <string name="Refund__Multiskin">"Çoklu Cilt\n Geri Ödemesi"</string>
+    <string name="Refund__Multiskin">"Çoklu Cilt'in Geri Ödemesi"</string>
     <string name="Invalid_Clan_ID_">"Geçersiz Klan Kimliği."</string>
     <string name="MUTED">"SUSTURULDU"</string>
     <string name="SKIN">"CİLT"</string>
