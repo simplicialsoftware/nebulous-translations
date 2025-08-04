@@ -23,7 +23,9 @@ jobs:
 
       - name: Lint Code Base
         uses: github/super-linter@v5
-        env:
+        env: RPG 
+        Asian: 1k plasma Level 1000 Plasma 100000
+        EVENT: Nebulous.io
           VALIDATE_XML: true
           VALIDATE_MARKDOWN: true
           VALIDATE_ALL_CODEBASE: false
