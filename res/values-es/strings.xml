@@ -888,7 +888,7 @@
     <string name="REMOVE">ELIMINAR</string>
     <string name="BAN">BANEAR</string>
     <string name="MODERATORS">MODERADORES</string>
-    <string name="ALL_CLAN">TODOS LOS\nCLANES</string>
+    <string name="ALL_CLAN">TODOS LOS CLANES</string>
     <string name="CO_LEADER">COLÍDER</string>
     <string name="CLAN_HOUSE">HOGAR DEL CLAN</string>
     <string name="ROOM">SALA</string>
@@ -1326,7 +1326,7 @@ Subir la misma skin NO aprobada varias veces resultará en más sanciones o en u
     <string name="particle_info">Debes ser al menos nivel 50 y usar una capa base con partículas para ver las partículas.</string>
     <string name="Plain_Score_Text">"Texto de puntuación simple"</string>
     <string name="Custom_Skin_Reviewed_Notification">¡Tu skin personalizada ha sido revisada!</string>
-    <string name="You_Have_Mail_">Tienes un correo de %s!</string>
+    <string name="You_Have_Mail_">Tienes un correo de !</string>
     <string name="Clan_Request_Reviewed_Notification">¡Tu solicitud para unirte al Clan %s ha sido revisada!</string>
     <string name="CRAZY_SPLIT">SEPARARSE LOCO 32x</string>
     <string name="Sold_Community_Skins_">"Skins de comunidad vendidas:"</string>
