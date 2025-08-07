@@ -994,7 +994,7 @@
     <string name="Enable_Colors">色変更を有効にする</string>
     <string name="Particles">パーティクル</string>
     <string name="Clan_Particle_Uploads">クラン粒子アップロード</string>
-    <string name="Particle_Uploads">パーティクルアップロード</string>
+    <string name="Clan_Particle_Uploads">パーティクルアップロード</string>
     <string name="Blob_Outline">枠の表示</string>
     <string name="Game_Border">ゲームボーダー</string>
     <string name="Select_some_text_first">最初にテキストを選択</string>
