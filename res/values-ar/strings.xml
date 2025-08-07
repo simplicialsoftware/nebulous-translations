@@ -243,7 +243,7 @@
 
     <string name="You_must_wait_until_the_end_of_the_round_">"يجب عليك الانتظار حتى نهاية الجولة"</string>
     <string name="Dont_show_again">"عدم الإظهار مرة أخرى"</string>
-    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"تم العثور على نسخة احتياطية من احصائيات لاعب واحد مع نقاط خبرة اعلى . هل ترغب في استعادة النسخة الاحتياطية؟"</string>
+    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"تم العثور على نسخة احتياطية من احصائيات لاعب واحد مع نقاط خبرة اعلى . هل ترغب في استعادة النسخة الإحتياطية؟"</string>
 
     <string name="Special_Effects">"المؤثرات الخاصة"</string>
     <string name="Blob_Mushiness">"طراء الدائرة"</string>
@@ -414,7 +414,7 @@
     <string name="Purchases_Unavailable_">"المُشتريات غير متوفرة!"</string>
     <string name="You_can_purchase_this_skin_for">"يمكنك شراء هذه الصورة!"</string>
     <string name="PURCHASE">"شراء"</string>
-    <string name="Error_in_backup_data_">"خطأ في البيانات الاحتياطية!"</string>
+    <string name="Error_in_backup_data_">"خطأ في البيانات الأحتياطية!"</string>
 
 
     <string name="Remove_Ads">"إزالة الاعلانات"</string>
@@ -436,7 +436,7 @@
     <string name="Loading_Purchases___">"تحميل المشتريات …"</string>
     <string name="In_App_Purchases">"المشتريات في التطبيق"</string>
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"لا يمكن تطبيق مسرع جديد لنقاط الخبرة حتى ينتهي المسرع الحالي."</string>
-    <string name="This_purchase_has_already_been_redeemed_">"تم إرجاع الشراء."</string>
+    <string name="This_purchase_has_already_been_redeemed_">"تم استرداد الشراء"</string>
 
     <string name="You_cannot_remove_yourself__Leave_clan_instead_">"لا يمكنك ازالة نفسك .. يمكنك مغادرة العشيرة بدلاً من ذلك."</string>
 
@@ -446,7 +446,7 @@
     <string name="Seasonal">"موسمي"</string>
 
 
-    <string name="Temporarily_Disabled_">"موقوف مؤقتا."</string>
+    <string name="Temporarily_Disabled_">"مُعطل مؤقتا."</string>
     <string name="BIGGEST">"أكبر"</string>
 
 
@@ -729,7 +729,7 @@
     <string name="Upload">"تحميل"</string>
     <string name="upload_warning">"هل انت متأكد من انك تريد استخدام هذه الصورة؟ اللاعبين الآخرين سيمكنهم رؤية هذه الصورة، يمكن ان تستغرق عملية قبول الصورة اسبوع او اقل، اذا كانت الصورة غير لائقة سيتم رفضها و لن تسترجع البلازما التي اشتريت بها هذه الصورة."</string>
 
-    <string name="In_Review">"جاري التحقق منها"</string>
+    <string name="In_Review">"قيد المراجعة"</string>
     <string name="Account_Uploads">"تحميلات الحساب "</string>
     <string name="Clan_Uploads">"تحميلات العشيرة "</string>
     <string name="Empty">"فارغة"</string>
@@ -1082,10 +1082,10 @@
 - الناس يستخدمون السلاح
 - إشارات فاحشة باليد"</string>
     <string name="PLAY_ONLINE_">اللعِب أونلاين !</string>
-    <string name="Absorb_10_000_000_dots">اجمع 10,000,000 نقطة</string>
+    <string name="Absorb_10_000_000_dots">اكتسب 10,000,000 نقطة</string>
     <string name="Dot_Deity">آله النقاط</string>
     <string name="Mass_Mastery">السيطرة على الكتلة</string>
-    <string name="Gain_100_000_000_mass">كسب 100,000,000 من الكتلة</string>
+    <string name="Gain_100_000_000_mass">اكتسب 100,000,000 كتلة</string>
     <string name="VET">سَـنـة</string>
     <string name="Mute">كتم</string>
     <string name="Unmute">إلغاء الكتم</string>
@@ -1120,7 +1120,7 @@
     <string name="Level_Colors">ألوان المستوى</string>
     <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكية!</string>
     <string name="Hooked">مُعلَق</string>
-    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">لقد علقت في خطاف لمدة 10ثواني</string>
+    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">تعلق في الخطاف لمدة ١٠ ثانية</string>
     <string name="Pack">حزمة</string>
     <string name="Skin_Pack">حزمة اشكال</string>
     <string name="SKIN_PACK">حزمة اشكال</string>
@@ -1183,16 +1183,16 @@
     <string name="VALENTINES_DAY">"يوم الحب"</string>
     <string name="Giveaways_">!هدايا</string>
     <string name="Max_XP_Chain_">:سلسلة الخبرة القصوى</string>
-    <string name="POSITION_CANCEL_BUTTON">الغاء موقع الزر</string>
+    <string name="POSITION_CANCEL_BUTTON">إلغاء موقع الزر</string>
     <string name="INVISIBILITY">خاصية الاخفاء</string>
-    <string name="Set_Skin">وضع البشرة </string>
-    <string name="Primary">ابتدائي )اساسي)</string>
+    <string name="Set_Skin">وضع الجلد</string>
+    <string name="Primary">ابتدائي) أساسي)</string>
     <string name="Secondary">ثانوي</string>
     <string name="Both">اثنين معاً</string>
 
     <string name="Enable__Multiskin">"تفعيل \n متعددة الجلد"</string>
     <string name="MULTISKIN">مُتعددة الجِلد</string>
-    <string name="DISABLED">الغاء التفعيل</string>
+    <string name="DISABLED">إلغاء التفعيل</string>
 
     <string name="Refund__Multiskin">استعادة نقودك /nMultiskin</string>
     <string name="Invalid_Clan_ID_">اسم العشيرة غير صالح</string>
@@ -1258,7 +1258,7 @@
     <string name="CHAMPION">بطل</string>
     <string name="DASH">إندفاع</string>
     <string name="setting_changed">تحديث الضبط، قد تحتاج إلى إعادة الأتصال بالخادم حتى يتم تفعيله.</string>
-    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">قم بفِعل 10،000 ترك في طور الحركات.</string>
+    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">قم بتنفيذ 10.000 حركة في طور الحركات</string>
     <string name="Tricky">مخادع</string>
     <string name="SUPPORTER">مميز</string>
     <string name="CONQUEROR">المنتصر</string>
