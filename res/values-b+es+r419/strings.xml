@@ -423,7 +423,7 @@
     <string name="Purchasing">"Comprando"</string>
 
     <string name="Purchase_Successful_">"¡Compra realizada con éxito!"</string>
-    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Es posible que necesites reconectarse para usar lo comprado"</string>
+    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Es posible que necesites reconectarte para usar lo comprado."</string>
     <string name="Confirm_Purchase">"Confirmar compra"</string>
     <string name="x3_XP_24_hours">"EXP 3x 24 horas"</string>
     <string name="x3_XP_1_Hour">"EXP 3x 1 hora"</string>
@@ -483,7 +483,7 @@
 
 
     <string name="Already_in_arena_">"Ya estás en la Arena."</string>
-    <string name="Already_in_queue_">"Ya estás en la cola "</string>
+    <string name="Already_in_queue_">"Ya estás en la cola."</string>
     <string name="Invalid_Account_ID_">"ID de cuenta inválida."</string>
 
     <string name="Validating">"Validando"</string>
@@ -573,7 +573,7 @@
     <string name="Collect_1_000_candies_">"Recoge 1,000 Caramelos."</string>
     <string name="Collect_5_000_candies_">"Recoge 5,000 Caramelos."</string>
     <string name="Collect_10_000_candies_">"Recoge 10,000 Caramelos."</string>
-    <string name="candies_">"Caramelos."</string>
+    <string name="candies_">"caramelos."</string>
     <string name="Language">"Idioma"</string>
     <string name="Control_Opacity_">"Opacidad de los controles:"</string>
     <string name="You_dont_own_the_team_">"No eres el dueño del equipo:"</string>
@@ -640,7 +640,7 @@
     <string name="Account_In_Use_">"La cuenta está en uso"</string>
     <string name="Cannot_Join_Arena_">"No te puedes unir a la Arena "</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"¡Si sales te desconectarás de la partida actual!"</string>
-    <string name="raindrops_">"Gotas de Lluvia."</string>
+    <string name="raindrops_">"gotas de lluvia."</string>
     <string name="Raindrop_Collector">"Coleccionista de gotas de lluvia"</string>
     <string name="Raindrop_Hoarder">"Acaparador de gotas de lluvia"</string>
     <string name="Raindrop_Mogul">"Magnate de gotas de lluvia"</string>
@@ -651,7 +651,7 @@
     <string name="Copied_to_clipboard_">"Copiado al portapapeles."</string>
     <string name="COPY_NAME">"COPIAR NOMBRE"</string>
     <string name="Challenge_Sent">"Reto Enviado"</string>
-    <string name="_1v1_Challenge_">" Reto 1vs1 "</string>
+    <string name="_1v1_Challenge_">" ¡Reto 1vs1! "</string>
     <string name="__has_challenged_you_to_a_1v1_match_">"¡%s te ha retado a un 1vs1!"</string>
     <string name="Challenge_Expired">"Reto Expirado"</string>
     <string name="Enable_Challenges">"Habilitar Retos"</string>
@@ -779,7 +779,7 @@
     <string name="REPLY">"RESPONDER"</string>
     <string name="Delete_Message">"Eliminar Mensaje"</string>
     <string name="BLOCK">"BLOQUEAR"</string>
-    <string name="DELETE">"Eliminar"</string>
+    <string name="DELETE">"ELIMINAR"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Nota: Se puede desbloquear a alguien enviándole una solicitud de amistad."</string>
     <string name="Select_Friend">"Elige un Amigo"</string>
     <string name="Failed_to_send_mail_">"No se pudo enviar el correo."</string>
