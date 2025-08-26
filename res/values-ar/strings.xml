@@ -898,7 +898,7 @@
     <string name="SAVE_PROFILE">حفظ الحالة الشخصية</string>
     <string name="Move">"نقل"</string>
     <string name="New_Position">"مركز جديد"</string>
-    <string name="ALLIANCES">"الحلفاء"</string>
+    <string name="ALLIANCES">"الحُلفاء"</string>
     <string name="ENEMIES">"الأعداء"</string>
     <string name="NEW_ALLIANCE">"تحالف جديد"</string>
     <string name="NEW_ENEMY">"عدو جديد"</string>
@@ -952,7 +952,7 @@
 اللعبة\n
 \n
 1. لا تقم بمشاركة او تبادل الحسابات مع أي شخص، سيتسبب ذلك بحظر حسابي كِلا اللاعبيْن بشكل دائم.\n
-2. لا تقم بطلب حساب من أي شخص، سيتسبب ذلك بحضر حسابك بشكل دائم\n
+2. لا تقم بطلب حساب من أي شخص لأي سبب، سيتسبب ذلك بحضر حسابك بشكل دائم\n
 3. لا تقم بالتظاهر أنك مُدير او يوتيوبر، سيتسبب ذلك بحضر حسابك بشكل دائم\n
 4. لا تقم بالغش للوصول إلى مراتب عالية في حروب العشيرة او التحديات، سيتسبب ذلك بإعادة نقاط و إنجازات حسابك من الصفر و قد تصل الأمور حتى حضر حسابك بشكل دائم\n
 5. لا تسأل عن مرتبة القائد داخل العشائر\n
@@ -962,7 +962,7 @@
 9. لا تقم بالإستفادة من الأخطاء في اللعبة\n
 10. لا تقم بحضر عدة أعضاء من العشيرة بدون موافقة القائد\ \n
 11. في أطوار اللعبة التي تحتوي على فِرق لا تقم بتشكيل فريق وهمي مع عدوك\n
-12. لا تكذب على المدراء\n
+12. لا تكذب على المُدراء\n
 13. لا تقم بتبادل العشائر من أجل المال أو البلازما\n
 14. لا تقم بإزعاج أي احد في الدردشة أو إرسال بريد مزعج\n
         \n
@@ -983,9 +983,9 @@
     <string name="Mission">المهمة</string>
     <string name="Kill_All_Bots">إلتهم كل الآليين</string>
     <string name="Survive">إبقى على قيد الحياة</string>
-    <string name="Mission_d_Complete">المهمة %d إكتملت!</string>
-    <string name="Mission_d_Failed">المهمة %d فشلت!</string>
-    <string name="Next_Mission">المهمة التالية</string>
+    <string name="Mission_d_Complete">المُهمة %d إكتملت!</string>
+    <string name="Mission_d_Failed">المُهمة %d فشلت!</string>
+    <string name="Next_Mission">المُهمة التالية</string>
     <string name="Objective">الهدف</string>
     <string name="GAME">لعبة</string>
     <string name="Saved_">تم الحفظ!</string>
@@ -1002,7 +1002,7 @@
     <string name="Pet_1">حيوان اليف 1</string>
     <string name="Pet_2">حيوان اليف 2</string>
     <string name="Second_Pet">يسمح لك أن يكون لديك اثنين من الحيوانات الأليفة في نفس الوقت!</string>
-    <string name="This_item_requires">هذا العنصر يتطلب</string>
+    <string name="This_item_requires">هذا العنصر يتطلّب</string>
     <string name="not_enough_plasma">لايوجد بلازما كافية.</string>
     <string name="MARK_UNREAD">وضع علامة غير مقروء</string>
     <string name="ROYALE_DUO">رويال ثنائي</string>
@@ -1083,7 +1083,7 @@
 - إشارات فاحشة باليد"</string>
     <string name="PLAY_ONLINE_">اللعِب أونلاين !</string>
     <string name="Absorb_10_000_000_dots">اجمع 10,000,000 نقطة</string>
-    <string name="Dot_Deity">آله النقاط</string>
+    <string name="Dot_Deity">آلة النقاط</string>
     <string name="Mass_Mastery">السيطرة على الكتلة</string>
     <string name="Gain_100_000_000_mass">كسب 100,000,000 من الكتلة</string>
     <string name="VET">سَـنـة</string>
@@ -1104,7 +1104,7 @@
     <string name="More___">المزيد…</string>
     <string name="This_cannot_be_used_in_FFA_Classic_">لا يمكن استخدام هذا في لعبة حر للجميع الكلاسيكية</string>
     <string name="ENEMY">عدو</string>
-    <string name="ALLY">حليف</string>
+    <string name="ALLY">حَليف</string>
     <string name="Rename">إعادة التسمية</string>
     <string name="Set_friendly_name_">حدد اسما لصديقك.</string>
     <string name="Leave_blank_for_none_">اترك فراغا لعدم التغيير.</string>
@@ -1164,14 +1164,14 @@
     <string name="CHRISTMAS">كريسماس</string>
     <string name="Reason">السبب</string>
     <string name="PUBLIC">عـامة</string>
-    <string name="PRIVATE">خـاصة</string>
+    <string name="PRIVATE">خـاصَة</string>
     <string name="Joined">الأنضمامات</string>
     <string name="Requests">الطلبات</string>
     <string name="Invites">الدعوات</string>
     <string name="Show_Spectator_Count">إظهار عداد المشاهدة</string>
     <string name="TRY_IT_">جربه</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">تحتاج لشراء حزمه لتستخدم هذه</string>
-    <string name="GET_PACK">احصل على الحزمة</string>
+    <string name="GET_PACK">أحصل على الحزمة</string>
     <string name="Position_in_queue">الموضع في قائمة الأنتظار</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">لون ملفك الشخصي في الخلفية</string>
     <string name="DARK_MATTER">مادة مُظلِمه</string>
@@ -1179,7 +1179,7 @@
     <string name="Enable_Profile_Colors">تفعيل الوان الخلفية</string>
     <string name="Session_Stats">احصائيات الجلسة</string>
     <string name="Time_">:الزمن</string>
-    <string name="Show_Session_Stats">إظهار احصائيات الموسم</string>
+    <string name="Show_Session_Stats">إظهار إحصائيات الموسم</string>
     <string name="VALENTINES_DAY">"يوم الحب"</string>
     <string name="Giveaways_">!هدايا</string>
     <string name="Max_XP_Chain_">:سلسلة الخبرة القصوى</string>
@@ -1190,11 +1190,11 @@
     <string name="Secondary">ثانوي</string>
     <string name="Both">اثنين معاً</string>
 
-    <string name="Enable__Multiskin">"تفعيل \n متعددة الجلد"</string>
+    <string name="Enable__Multiskin">"تفعيل \n متعدّدة الجلد"</string>
     <string name="MULTISKIN">مُتعددة الجِلد</string>
     <string name="DISABLED">الغاء التفعيل</string>
 
-    <string name="Refund__Multiskin">استعادة نقودك /nMultiskin</string>
+    <string name="Refund__Multiskin">إستعادة نقودك /nMultiskin</string>
     <string name="Invalid_Clan_ID_">اسم العشيرة غير صالح</string>
     <string name="MUTED">"حُظِر من الدَردَشة"</string>
     <string name="SKIN">سكن</string>
@@ -1203,16 +1203,16 @@
     <string name="Allow_permission_to_enable_voice_recording_">السماح بأذن لتمكين التسجيل الصوتي</string>
     <string name="voice_chat_prompt">للحصول على أفضل صوت أستخدم سماعة الرأس..</string>
     <string name="Only_leader_can_answer_requests_">"فَقط القائد يستطيع قبول الطلبات</string>
-    <string name="Sent_request_not_invited_">تم ارسال طلبك (لست مدعو).</string>
+    <string name="Sent_request_not_invited_">تم إرسال طلبك (لست مدعو).</string>
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">أحذف السكن من المُجتمع!</string>
-    <string name="This_cannot_be_undone_">هذه لا يمكن التراجع عنها.!</string>
+    <string name="This_cannot_be_undone_">هذه لا يُمكِن التراجع عنها.!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">شاهد فيديو للحصول على مكافآة  %d مؤقتة!</string>
     <string name="WATCH_VIDEO_">شاهد فيديو!</string>
     <string name="PERMANENT_BOOSTS">مسرع دائم</string>
     <string name="Video_failed_to_load_">فشل تحميل الفيديو!</string>
     <string name="Video_Ready_">الفيديو جاهز!</string>
     <string name="GIVE_PLASMA">"مَنح بلازما"</string>
-    <string name="Specify_amount_">حدد المبلغ:</string>
+    <string name="Specify_amount_">حدّد المبلغ:</string>
     <string name="Specify_amount_again_to_confirm_">حدد المبلغ مرة اخرى للإكمال:</string>
     <string name="Amounts_did_not_match_">المبلغ غير مُتطابق!</string>
     <string name="RECEIVE_PLASMA">تلقي البلازما</string>
@@ -1239,7 +1239,7 @@
     <string name="Absorbed_">مُنهَمِك:</string>
     <string name="team_warning">" جعل خصمُك من الفريق سيؤدي ذلك إلى حظرك من اللعبة."</string>
     <string name="Search_Filter">تصفيّة البَحِث</string>
-    <string name="Received_">تم الاستلام:</string>
+    <string name="Received_">تم الإستلام:</string>
     <string name="Opponent_Rating_Limit_">حد تصنيف الخصم</string>
     <string name="TOGGLE_FAVORITE">تبديل المُفَضلة</string>
     <string name="Favorited">مُفضَل</string>
@@ -1341,11 +1341,11 @@ Commands:
     <string name="SPECIAL">مميز</string>
     <string name="FREE">مجانا</string>
     <string name="x5_Clan_XP_1_Day">مسرع العشيرةX5  لمدة يوم واحد </string>
-    <string name="x5_Clan_XP_7_days">مسرع العشيرةX5  لمدة سبع ايام</string>
+    <string name="x5_Clan_XP_7_days">مسرع العشيرةX5  لمدة سبعة ايام</string>
     <string name="x5_Clan_XP_Perm">5X مسرع العشيرة دائم</string>
     <string name="Quin">5X</string>
-    <string name="x5_XP_1_Hour">  مسرع X5 لمدة ساعة</string>
-    <string name="x5_XP_24_hours">مسرع X5 لمدة 24ساعة</string>
+    <string name="x5_XP_1_Hour">  مسرع X5 لمدّة ساعة</string>
+    <string name="x5_XP_24_hours">مسرع X5 لمدّة 24ساعة</string>
     <string name="x5_XP_Permanent">مسرع دائم X5</string>
     <string name="CAMPAIGN_2">حملة ضد الاَليين 2</string>
     <string name="India">الهند</string>
@@ -1368,7 +1368,7 @@ Commands:
 - مشاركة تقدمك مع اللاعبين
 - إنشاء وتخصيص الملف الشخصي
 - شراء البلازما في المتجر
-- يمكنك تحميل جلود مجتمع اللاعبين
+- يُمكِنك تحميل جلود مجتمع اللاعبين
 
 "إذا كنت لا ترغب في تسجيل الدخول، يمكنك أيضًا اللعب الفردي.
     </string>
@@ -1376,7 +1376,7 @@ Commands:
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
-    <string name="Translator">متـرجـم</string>
+    <string name="Translator">مُتـرجـم</string>
     <string name="SUCCESS">تم بنجاح</string>
 
 
@@ -1384,7 +1384,7 @@ Commands:
         <item>"طبيعي"</item>
         <item>"خاص"</item>
         <item>"سحب نحو"</item>
-        <item>"اسحب بعيد"</item>
+        <item>"إسحب بعيد"</item>
         <item>"على حافة الهاوية"</item>
         <item>"إمالة"</item>
     </string-array>
