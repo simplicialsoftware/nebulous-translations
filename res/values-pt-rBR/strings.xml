@@ -1462,3 +1462,16 @@ Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
         <item>"Normal (8vs8)"</item>
     </string-array>
 </resources>
+  <string name="well_played">¡Bien jugado!</string>
+<string name="unstoppable">¡Imparable!</string>
+<string name="low_connection">Conexión inestable</string>
+<string name="bonus_round">Ronda extra</string>
+<string name="power_up">Mejora activada</string>
+<string name="new_skin_unlocked">¡Nueva skin desbloqueada!</string>
+<string name="fast_mode">Modo rápido</string>
+<string name="safe_zone">Zona segura</string>
+<string name="watch_ad">Mira un anuncio</string>
+<string name="customize">Personalizar</string>
+
+
+	  
