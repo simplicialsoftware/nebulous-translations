@@ -11,7 +11,7 @@
     <string name="WEEKLY">"SEMANAL"</string>
     <string name="DAILY">"DIARIO"</string>
     <string name="Server_">"Servidor:"</string>
-    <string name="Game_Mode_">"Modo de Juego:"</string>
+    <string name="Game_Mode_">"Modo Juego:"</string>
     <string name="Show_Names">"Mostrar Nombres"</string>
     <string name="Show_Avatars">"Mostrar Skins"</string>
     <string name="PLAY">"JUGAR"</string>
@@ -34,9 +34,9 @@
     <string name="_Rank_">" Posición "</string>
     <string name="_Alias_">" Apodo "</string>
     <string name="_Score_">" Puntuación "</string>
-    <string name="Score__">"Puntuación: "</string>
+    <string name="Score__">"Puntuación "</string>
     <string name="Recombine_">"Juntarse: "</string>
-    <string name="WINNER_">"GANADOR: "</string>
+    <string name="WINNER_">"GANADOR "</string>
     <string name="IDLE">"INACTIVO"</string>
     <string name="Name_Invalid_">"Nombre Inválido "</string>
     <string name="Name_Taken_">"Nombre en Uso "</string>
@@ -64,8 +64,8 @@
 
 
     <string name="SINGLE_PLAYER">"UN JUGADOR"</string>
-    <string name="Background_">"Fondo:"</string>
-    <string name="Difficulty_">"Dificultad:"</string>
+    <string name="Background_">"Fondo"</string>
+    <string name="Difficulty_">"Dificultad"</string>
     <string name="Delay_Disconnect">"Retraso en la desconexión"</string>
 
     <string name="Max_Players">"Jugadores máximos"</string>
@@ -89,8 +89,8 @@
     <string name="Green_Team">"Equipo Verde"</string>
     <string name="Blue_Team">"Equipo Azul"</string>
     <string name="Yellow_Team">"Equipo Amarillo"</string>
-    <string name="Signed_in_as_">"Conectado como:"</string>
-    <string name="Not_signed_in_">"¡No registrado!"</string>
+    <string name="Signed_in_as_">"Conectado como"</string>
+    <string name="Not_signed_in_">"No registrado"</string>
     <string name="SET_NAME">"CAMBIAR NOMBRE"</string>
     <string name="SIGN_OUT">"CERRAR SESIÓN"</string>
     <string name="ACHIEVEMENTS">"LOGROS"</string>
@@ -110,7 +110,7 @@
     <string name="FRIENDS">"AMIGOS"</string>
     <string name="Warning">"Advertencia"</string>
     <string name="SIGNING_IN">"INICIANDO SESIÓN…"</string>
-    <string name="New_Friend_Request">"¡Nueva solicitud de amistad!"</string>
+    <string name="New_Friend_Request">"Nueva solicitud de amistad"</string>
     <string name="REQUEST_FRIEND">"SOLICITUD DE AMISTAD"</string>
     <string name="Private">"Privado"</string>
     <string name="Public">"Público"</string>
@@ -172,8 +172,8 @@
 
     <string name="Experienced_Nebulator">"Jugador experimentado"</string>
     <string name="Expert_Nebulator">"Jugador experto"</string>
-    <string name="Master_Nebulator">"Maestro de Nebulous"</string>
-    <string name="Grand_Master_Nebulator">"Gran Maestro de Nebulous"</string>
+    <string name="Master_Nebulator">"Maestro Nebulous"</string>
+    <string name="Grand_Master_Nebulator">"Gran Maestro Nebulous"</string>
     <string name="Impossible">"Imposible"</string>
 
     <string name="Perfection">"Perfección"</string>
@@ -227,19 +227,19 @@
     <string name="Absorb_5_doges_without_restarting">"Absorbe 5 doges sin reiniciar"</string>
 
     <string name="Friends">"Amigos"</string>
-    <string name="Dots_Eaten_">"Puntos absorbidos:"</string>
-    <string name="Blobs_Eaten_">"Blobs absorbidos:"</string>
-    <string name="Blobs_Lost_">"Blobs perdidos:"</string>
-    <string name="Mass_Gained_">"Masa ganada:"</string>
-    <string name="Mass_Ejected_">"Masa expulsada:"</string>
-    <string name="Times_Ejected_">"Veces que expulsaste masa:"</string>
-    <string name="Times_Split_">"Veces que te dividiste:"</string>
-    <string name="Biggest_Blob_">"Blob más grande:"</string>
-    <string name="Highest_Score_">"Puntuación más alta:"</string>
-    <string name="Average_Score_">"Puntuación promedio:"</string>
-    <string name="Times_Played_">"Partidas jugadas:"</string>
-    <string name="Longest_Life_">"Vida más larga:"</string>
-    <string name="Games_Won_">"Partidas ganadas:"</string>
+    <string name="Dots_Eaten_">"Puntos absorbidos"</string>
+    <string name="Blobs_Eaten_">"Blobs absorbidos"</string>
+    <string name="Blobs_Lost_">"Blobs perdidos"</string>
+    <string name="Mass_Gained_">"Masa ganada"</string>
+    <string name="Mass_Ejected_">"Masa expulsada"</string>
+    <string name="Times_Ejected_">"Veces que expulsaste masa"</string>
+    <string name="Times_Split_">"Veces que te dividiste"</string>
+    <string name="Biggest_Blob_">"Blob más grande"</string>
+    <string name="Highest_Score_">"Puntuación más alta"</string>
+    <string name="Average_Score_">"Puntuación promedio"</string>
+    <string name="Times_Played_">"Partidas jugadas"</string>
+    <string name="Longest_Life_">"Vida más larga"</string>
+    <string name="Games_Won_">"Partidas ganadas"</string>
 
     <string name="You_must_wait_until_the_end_of_the_round_">"Debes esperar hasta el final de la ronda"</string>
     <string name="Dont_show_again">"No mostrar de nuevo"</string>
@@ -250,11 +250,11 @@
 
     <string name="Specify_private_game_name">"Especificar nombre de la partida privada"</string>
     <string name="In_Game_Chat">"Chat en la partida"</string>
-    <string name="My_Status_">"Mi estado:"</string>
-    <string name="Game_Size_">"Tamaño del mapa:"</string>
+    <string name="My_Status_">"Mi estado"</string>
+    <string name="Game_Size_">"Tamaño del mapa"</string>
 
-    <string name="Server_Restart_">"Reiniciando servidor:"</string>
-    <string name="GOAL_">"¡GOL!"</string>
+    <string name="Server_Restart_">"Reiniciando servidor"</string>
+    <string name="GOAL_">"GOL"</string>
     <string name="SOCCER">"FÚTBOL"</string>
     <string name="DRAW">"EMPATE"</string>
 
