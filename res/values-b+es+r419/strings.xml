@@ -777,9 +777,9 @@
     <string name="From">"De"</string>
     <string name="Sent">"Enviado"</string>
     <string name="REPLY">"RESPONDER"</string>
-    <string name="Delete_Message">"Eliminar Mensaje"</string>
+    <string name="Delete_Message">"Borrar Mensaje"</string>
     <string name="BLOCK">"BLOQUEAR"</string>
-    <string name="DELETE">"ELIMINAR"</string>
+    <string name="DELETE">"BORRAR"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Nota: Se puede desbloquear a alguien enviándole una solicitud de amistad."</string>
     <string name="Select_Friend">"Elige un Amigo"</string>
     <string name="Failed_to_send_mail_">"No se pudo enviar el correo."</string>
