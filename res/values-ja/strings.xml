@@ -60,15 +60,15 @@
     <string name="SERVER">"サーバー"</string>
     <string name="Joining_game_in_">"ゲームに参加"</string>
     <string name="Game_Full">"満員"</string>
-    <string name="US_East">"中央アメリカ"</string>
-    <string name="US_West">"北アメリカ"</string>
+    <string name="US_East">"中米"</string>
+    <string name="US_West">"北米"</string>
     <string name="Europe">"ヨーロッパ"</string>
-    <string name="South_America">"南アメリカ"</string>
+    <string name="South_America">"南米"</string>
 
 
     <string name="SINGLE_PLAYER">"オフライン"</string>
-    <string name="Background_">"背景 : "</string>
-    <string name="Difficulty_">"難易度 : "</string>
+    <string name="Background_">"背景: "</string>
+    <string name="Difficulty_">"難易度: "</string>
     <string name="Delay_Disconnect">"接続切れを遅延します"</string>
 
     <string name="Max_Players">"最多プレイヤー数"</string>
@@ -1101,7 +1101,7 @@
     <string name="Rainbow">Rainbow</string>
     <string name="Horizontal">Horizontal</string>
     <string name="Vertical">Vertical</string>
-    <string name="GROUP">GROUP</string>
+    <string name="GROUP">グループ</string>
     <string name="LEAVE">LEAVE</string>
     <string name="Group">Group</string>
     <string name="Not_in_a_group_">Not in a group.</string>
@@ -1111,7 +1111,7 @@
     <string name="Tricks_Performed_">Tricks Performed:</string>
     <string name="Not_enough_plasma_">Not enough plasma!</string>
     <string name="GET_PLASMA">GET PLASMA</string>
-    <string name="ASTEROIDS">ASTEROIDS</string>
+    <string name="ASTEROIDS">小惑星</string>
     <string name="CHRISTMAS">クリスマス</string>
     <string name="Reason">Reason</string>
     <string name="PUBLIC">公開</string>
@@ -1173,7 +1173,7 @@
     <string name="Starting___">Starting…</string>
     <string name="Tournament_Starting">Tournament Starting</string>
     <string name="Max_Tilt_Angle_3D_">Max Tilt Angle 3D:</string>
-    <string name="Mode_3D">3D Mode</string>
+    <string name="Mode_3D">3Dモード</string>
     <string name="Names_Below_Blobs">Names Below Blobs</string>
     <string name="Name_Scale_">"Name Scale:"</string>
     <string name="Button_3D">Button 3D</string>
@@ -1182,7 +1182,7 @@
     <string name="Spectate_Killer_On_Death">Spectate Killer On Death</string>
     <string name="Rainbow_Holes">Rainbow Holes</string>
     <string name="LIFE_STEAL">LIFE STEAL</string>
-    <string name="Kicked_From_Game_">Kicked From Game!</string>
+    <string name="Kicked_From_Game_">部屋から追い出されました！</string>
     <string name="Conquest">Conquest</string>
     <string name="Finish_the_last_mission_in_the_campaign_">Finish the last mission in the campaign.</string>
     <string name="Collected_">Collected:</string>
@@ -1206,13 +1206,13 @@
     <string name="Win_10_Tournaments">Win 10 Tournaments</string>
     <string name="Win_100_Tournaments">Win 100 Tournaments</string>
     <string name="HERO">ヒーロー</string>
-    <string name="CHAMPION">CHAMPION</string>
+    <string name="CHAMPION">チャンピオン</string>
     <string name="DASH">ダッシュ</string>
     <string name="setting_changed">Settings updated. You may need to reconnect to the server for it to take effect.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Perform 10,000 tricks in a Trick Mode game.</string>
     <string name="Tricky">トリッキ</string>
     <string name="SUPPORTER">VIP</string>
-    <string name="CONQUEROR">CONQUEROR</string>
+    <string name="CONQUEROR">コンケラー</string>
     <string name="TRICKY">トリッキ</string>
     <string name="x4_XP_Permanent">永久に経験値4倍</string>
     <string name="x4_XP_24_hours">経験値4倍24時間</string>
@@ -1302,7 +1302,7 @@
     <string name="x5_XP_Permanent">永久に経験値5倍</string>
     <string name="CAMPAIGN_2">キャンペーン2</string>
     <string name="XP_5x">経験値5倍</string>
-    <string name="India">インディア</string>
+    <string name="India">インド</string>
     <string name="Tutorial">チュートリアル</string>
     <string name="TYCOON">タイクーン</string>
     <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
