@@ -1244,7 +1244,7 @@
     <string name="Sold_Community_Skins_">"Sold Community Skins: "</string>
     <string name="Estimated_Earnings_">"Estimated Earnings: "</string>
     <string name="South_Africa">南アフリカ</string>
-    <string name="SPLIT_">スプリット：</string>
+    <string name="SPLIT_">分割：</string>
     <string name="WALLS">壁</string>
     <string name="COMP_BANNED">競技に禁止された</string>
     <string name="FIND_GAMES">ゲームを検索する</string>
@@ -1287,7 +1287,7 @@
     <string name="delete_prompt">Are you sure you want to delete your account? This is PERMANENT and CANNOT BE UNDONE!</string>
 
 
-    <string name="Type">タイプ</string>
+    <string name="Type">これを入力して：</string>
     <string name="Complete_campaign_mission_">キャンペーンミッションを完了する</string>
     <string name="Specify_Reason_">Specify Reason:</string>
     <string name="FREE_FOR_ALL">誰でも自由</string>
