@@ -1182,7 +1182,7 @@
     <string name="Spectate_Killer_On_Death">Spectate Killer On Death</string>
     <string name="Rainbow_Holes">Rainbow Holes</string>
     <string name="LIFE_STEAL">LIFE STEAL</string>
-    <string name="Kicked_From_Game_">あなたは部屋から追い出されました！</string>
+    <string name="Kicked_From_Game_">あなたはルームから追い出されました！</string>
     <string name="Conquest">Conquest</string>
     <string name="Finish_the_last_mission_in_the_campaign_">Finish the last mission in the campaign.</string>
     <string name="Collected_">Collected:</string>
