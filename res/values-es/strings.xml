@@ -1270,7 +1270,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Opponent_Rating_Limit_">Límite de calificación del oponente:</string>
     <string name="TOGGLE_FAVORITE">ALTERNAR FAVORITO</string>
     <string name="Favorited">Favorito</string>
-    <string name="Unfavorited">No favorito</string>
+    <string name="Unfavorited">un favorito</string>
     <string name="Background_Scale_">Escala del Fondo:</string>
     <string name="Background_Lightness_">Brillo del Fondo:</string>
     <string name="Background_Image_">Imagen de Fondo:</string>
