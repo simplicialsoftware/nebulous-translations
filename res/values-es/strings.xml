@@ -48,7 +48,7 @@
     <string name="JOIN">"UNIRSE"</string>
 
 
-    <string name="Lobby_Name">"Nombre de la sala"</string>
+    <string name="lobby_name">"Nombre de la sala"</string>
     <string name="Not_found_">"No encontrado "</string>
 
     <string name="Hidden">"Oculto"</string>
