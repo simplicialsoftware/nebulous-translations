@@ -1287,7 +1287,7 @@
     <string name="delete_prompt">Are you sure you want to delete your account? This is PERMANENT and CANNOT BE UNDONE!</string>
 
 
-    <string name="Type">これを入力して：</string>
+    <string name="Type">これを入力してください：</string>
     <string name="Complete_campaign_mission_">キャンペーンミッションを完了する</string>
     <string name="Specify_Reason_">理由を詳しく述べてください：</string>
     <string name="FREE_FOR_ALL">誰でも自由</string>
