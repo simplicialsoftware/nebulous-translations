@@ -1113,7 +1113,7 @@
     <string name="GET_PLASMA">GET PLASMA</string>
     <string name="ASTEROIDS">小惑星</string>
     <string name="CHRISTMAS">クリスマス</string>
-    <string name="Reason">Reason</string>
+    <string name="Reason">理由</string>
     <string name="PUBLIC">公開</string>
     <string name="PRIVATE">非公開</string>
     <string name="Joined">Joined</string>
@@ -1163,7 +1163,7 @@
     <string name="Video_failed_to_load_">Video failed to load!</string>
     <string name="Video_Ready_">ビデオができています！</string>
     <string name="GIVE_PLASMA">プラズマを送る</string>
-    <string name="Specify_amount_">Specify amount:</string>
+    <string name="Specify_amount_">金額を指定してください：</string>
     <string name="Specify_amount_again_to_confirm_">Specify amount again to confirm:</string>
     <string name="Amounts_did_not_match_">Amounts did not match!</string>
     <string name="RECEIVE_PLASMA">プラズマを受け取る</string>
@@ -1289,7 +1289,7 @@
 
     <string name="Type">これを入力して：</string>
     <string name="Complete_campaign_mission_">キャンペーンミッションを完了する</string>
-    <string name="Specify_Reason_">Specify Reason:</string>
+    <string name="Specify_Reason_">理由を詳しく述べてください：</string>
     <string name="FREE_FOR_ALL">誰でも自由</string>
     <string name="SPECIAL">特別</string>
     <string name="FREE">無料</string>
