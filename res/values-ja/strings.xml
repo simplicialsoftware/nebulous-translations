@@ -1104,9 +1104,9 @@
     <string name="GROUP">グループ</string>
     <string name="LEAVE">LEAVE</string>
     <string name="Group">グループ</string>
-    <string name="Not_in_a_group_">Not in a group.</string>
-    <string name="Failed">Failed</string>
-    <string name="Failed_to_join">Failed to join</string>
+    <string name="Not_in_a_group_">グループにいません。</string>
+    <string name="Failed">失敗した</string>
+    <string name="Failed_to_join">参加するは失敗した</string>
     <string name="Full">Full</string>
     <string name="Tricks_Performed_">Tricks Performed:</string>
     <string name="Not_enough_plasma_">Not enough plasma!</string>
@@ -1116,7 +1116,7 @@
     <string name="Reason">理由</string>
     <string name="PUBLIC">公開</string>
     <string name="PRIVATE">非公開</string>
-    <string name="Joined">Joined</string>
+    <string name="Joined">参加した</string>
     <string name="Requests">Requests</string>
     <string name="Invites">Invites</string>
     <string name="Show_Spectator_Count">Show Spectator Count</string>
