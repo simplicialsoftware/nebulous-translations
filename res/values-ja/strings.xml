@@ -926,9 +926,9 @@
     <string name="Invitation_accepted_">招待が受け入れられました！</string>
     <string name="Invitation_expired_">招待状の期限が切れました</string>
     <string name="Wait_for_the_current_invitation_to_expire_">先ほど送った招待状の期限が切れるまでお待ちください。</string>
-    <string name="BLOB_COLOR">ブロブのカラー</string>
+    <string name="BLOB_COLOR">ブロブカラー</string>
     <string name="ENABLED">ON</string>
-    <string name="Enable_Custom_Blob_Color">ブロブのカスタムカラーを有効にする</string>
+    <string name="Enable_Custom_Blob_Color">ブロブカスタムカラーを有効にする</string>
     <string name="Choose_Menu">メニューを選択</string>
     <string name="SPECTATE">観戦</string>
     <string name="INVITE">招待する</string>
