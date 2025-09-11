@@ -1027,8 +1027,7 @@
     <string name="POSITION_EJECT_BUTTON">位置イジェクトボタン</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">位置イジェクトトグルボタン</string>
     <string name="WIFI">WI-FI</string>
-    <strin
-        OIN_IP">IPに参加する</string>
+    <string name="JOIN_IP">IPに参加する</string>
     <string name="Specify_Host_IP">ホストIPを指定する</string>
     <string name="ADVANCED_SETUP">詳細設定</string>
     <string name="WORLD_CUP_EVENT___">世界イベント！</string>
