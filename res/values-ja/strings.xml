@@ -926,9 +926,9 @@
     <string name="Invitation_accepted_">招待が受け入れられました！</string>
     <string name="Invitation_expired_">招待状の期限が切れました</string>
     <string name="Wait_for_the_current_invitation_to_expire_">先ほど送った招待状の期限が切れるまでお待ちください。</string>
-    <string name="BLOB_COLOR">ブロブの色</string>
+    <string name="BLOB_COLOR">ブロブのカラー</string>
     <string name="ENABLED">ON</string>
-    <string name="Enable_Custom_Blob_Color">ブロブのカスタム色を有効にする</string>
+    <string name="Enable_Custom_Blob_Color">ブロブのカスタムカラーを有効にする</string>
     <string name="Choose_Menu">メニューを選択</string>
     <string name="SPECTATE">観戦</string>
     <string name="INVITE">招待する</string>
@@ -969,7 +969,7 @@
     <string name="Next_Mission">次のミッション</string>
     <string name="Objective">目的</string>
     <string name="GAME">ゲーム</string>
-    <string name="Saved_">保存しましま！</string>
+    <string name="Saved_">保存しました！</string>
     <string name="Name_Opacity_">名前の不透明度：</string>
     <string name="SET_PROFILE_PIC">プロフィール画像を設定</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">フレンド招待を受け入れてください！</string>
@@ -991,7 +991,7 @@
     <string name="REMOVE_FRIEND">友達を削除</string>
     <string name="Creator">クリエイター</string>
     <string name="PROFILE_COLOR">プロフィールカラー</string>
-    <string name="Enable_Colors">色変更を有効にする</string>
+    <string name="Enable_Colors">カラーを有効にする</string>
     <string name="Particles">パーティクル</string>
     <string name="Clan_Particle_Uploads">クラン粒子アップロード</string>
     <string name="Particle_Uploads">パーティクルアップロード</string>
@@ -1018,16 +1018,17 @@
     <string name="You_can_purchase_this_hat_for">この帽子を購入する事が可能です</string>
     <string name="You_can_purchase_this_particle_for">あなたはこの帽子を購入することができます</string>
     <string name="You_can_purchase_this_eject_skin_for">イジェクトスキンを購入可能です</string>
-    <string name="Skin">肌</string>
+    <string name="Skin">スキン</string>
     <string name="Custom_Skin">カスタムスキン</string>
-    <string name="Color">色</string>
+    <string name="Color">カラー</string>
     <string name="RECENT_PLAYERS">最近の選手</string>
     <string name="POSITION_CONTROL_STICK">"ポジションコントロールスティック"</string>
     <string name="POSITION_SPLIT_BUTTON">位置分割ボタン</string>
     <string name="POSITION_EJECT_BUTTON">位置イジェクトボタン</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">位置イジェクトトグルボタン</string>
     <string name="WIFI">WI-FI</string>
-    <string name="JOIN_IP">IPに参加する</string>
+    <strin
+        OIN_IP">IPに参加する</string>
     <string name="Specify_Host_IP">ホストIPを指定する</string>
     <string name="ADVANCED_SETUP">詳細設定</string>
     <string name="WORLD_CUP_EVENT___">世界イベント！</string>
@@ -1067,7 +1068,7 @@
     <string name="TRICK_SPLIT">TRICK SPLIT</string>
     <string name="POP_SPLIT">POP SPLIT</string>
     <string name="PUSH_SPLIT">PUSH SPLIT</string>
-    <string name="Level_Colors">レベルの色</string>
+    <string name="Level_Colors">レベルカラー</string>
     <string name="click_info">Autoclick / Ultraclick do not work in FFA Classic!</string>
     <string name="Hooked">Hooked</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Be pulled by a hookshot spell for 10 seconds</string>
@@ -1085,8 +1086,8 @@
     <string name="Trick_Notifications">トリック通知</string>
     <string name="Channel">チャンネル</string>
     <string name="Choose_Text_Size">Choose Text Size</string>
-    <string name="LEVEL_COLOR">レベルの色</string>
-    <string name="level_color_instructions" translatable="true">あなたのレベルの色を選択して。</string>
+    <string name="LEVEL_COLOR">レベルカラー</string>
+    <string name="level_color_instructions" translatable="true">あなたのレベルカラーを選択して。</string>
     <string name="INITIATE">INITIATE</string>
     <string name="x3_Clan_XP_Perm">永久にクラン経験値3倍！</string>
     <string name="x2_Clan_XP_Perm">永久にクラン経験値2倍！</string>
@@ -1095,7 +1096,7 @@
     <string name="Asia">アジア</string>
     <string name="SET_PRIVACY">プライバシーを設定する</string>
     <string name="ANIMATION">アニメーション</string>
-    <string name="Color_Cycle">色サイクル</string>
+    <string name="Color_Cycle">カラーサイクル</string>
     <string name="Fast">高速</string>
     <string name="Slow">低速</string>
     <string name="Rainbow">虹</string>
@@ -1127,7 +1128,7 @@
     <string name="PROFILE_MENU_BACKGROUND_COLOR">PROFILE MENU BACKGROUND COLOR</string>
     <string name="DARK_MATTER">DARK MATTER</string>
     <string name="Textures_will_be_regenerated_">Black textures and custom skins will be regenerated.</string>
-    <string name="Enable_Profile_Colors">Enable Profile Colors</string>
+    <string name="Enable_Profile_Colors">プロフィールカラーを有効にする</string>
     <string name="Session_Stats">Session Stats</string>
     <string name="Time_">Time:</string>
     <string name="Show_Session_Stats">Show Session Stats</string>
