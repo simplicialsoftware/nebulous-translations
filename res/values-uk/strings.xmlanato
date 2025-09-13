@@ -1155,7 +1155,7 @@
     <string name="This_cannot_be_undone_">"Це не можна буде змінити!"</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">"Подивитися відео, щоб отримати тимчасовий буст на %d життів!"</string>
     <string name="WATCH_VIDEO_">"ДИВИТИСЯ ВІДЕО!"</string>
-    <string name="PERMANENT_BOOSTS">"ПОСТІЙНІ БУСТИ"</string>
+    <string name="PERMANENT_BOOSTS">"ПОСТІЙНІ ПОСИЛЮВАЧІ"</string>
     <string name="Video_failed_to_load_">"Не вдалося завантажити відео!"</string>
     <string name="Video_Ready_">"Відео готове!"</string>
     <string name="GIVE_PLASMA">"ДАТИ ПЛАЗМУ"</string>
@@ -1174,17 +1174,17 @@
     <string name="Name_Scale_">"Масштаб імені:"</string>
     <string name="Button_3D">"Кнопка 3D"</string>
     <string name="Hide_Button_">"Сховати кнопку?"</string>
-    <string name="Show_Boost_Button">"Показати кнопку буста"</string>
+    <string name="Show_Boost_Button">"Показати кнопку посилювача"</string>
     <string name="Spectate_Killer_On_Death">"Спостерігати за вбивцею після смерті"</string>
     <string name="Rainbow_Holes">"Райдужні діри"</string>
     <string name="LIFE_STEAL">"ВКРАСТИ ЖИТТЯ"</string>
-    <string name="Kicked_From_Game_">"Вигнано з гри!"</string>
+    <string name="Kicked_From_Game_">"Вас вигнали з гри!"</string>
     <string name="Conquest">"Завоювання"</string>
     <string name="Finish_the_last_mission_in_the_campaign_">"Закінчити останню місію в кампанії"</string>
     <string name="Collected_">"Зібрано:"</string>
     <string name="Collisions_">"Зіткнення:"</string>
     <string name="Absorbed_">"Поглинуто:"</string>
-    <string name="team_warning">"Якщо Ви будете грати в команді з гравцем не з Вашої команди, Ви отримаєте бан!"</string>
+    <string name="team_warning">"Якщо Ви будете грати в команді з гравцем не з вашої команди, ви отримаєте бан!"</string>
     <string name="Search_Filter">"Фільтр пошуку"</string>
     <string name="Received_">"Отримано:"</string>
     <string name="Opponent_Rating_Limit_">"Обмеження рейтингу суперника:"</string>
@@ -1207,7 +1207,7 @@
     <string name="setting_changed">"Налаштування оновлені. Можливо, Вам потрібно буде заново приєднатися до серверу, щоб вони спрацювали."</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">"Зробити 10,000 трюків в режимі Трюків</string>
     <string name="Tricky">"Трюкач"</string>
-    <string name="SUPPORTER">"прихильник"</string>
+    <string name="SUPPORTER">"ПОМІЧНИК"</string>
     <string name="CONQUEROR">"ЗАВОЙОВНИК"</string>
     <string name="TRICKY">"ТРЮКАЧ"</string>
     <string name="x4_XP_Permanent">"Постійний 4х досвід"</string>
@@ -1227,10 +1227,10 @@
     <string name="Crocodile_Hunter">"Мисливець на крокодилів"</string>
     <string name="Get_A_Pet_To_Level_X_">"Підняти тваринку на рівень %d."</string>
     <string name="plasma_boost_info">"Ви накопичуєте в 3 рази більше плазми з усіх джерел ВСЕРЕДИНІ ГРИ поки буст активний! Включно з аренами і виграшами з турнірів! НЕ працює з покупкою плазми, в обертах чи спеціальних нагородах."</string>
-    <string name="Plasma_Boost_7_Days_">"Буст плазми на 7 днів!!!"</string>
-    <string name="Plasma_Boost_1_Day_">"Буст плазми на 1 день!"</string>
-    <string name="Plasma_Boost_2_Hours_">"Буст плазми на 2 години"</string>
-    <string name="Plasma_Boost">"Буст плазми"</string>
+    <string name="Plasma_Boost_7_Days_">"Посилювач плазми на 7 днів!!!"</string>
+    <string name="Plasma_Boost_1_Day_">"Посилювач плазми на 1 день!"</string>
+    <string name="Plasma_Boost_2_Hours_">"Посилювач плазми на 2 години"</string>
+    <string name="Plasma_Boost">"Посилювач плазми"</string>
     <string name="particle_info">"Вам потрібно мати щонайменше 50 рівень і використовувати базовий скін з частинками, щоб побачити частинки."</string>
     <string name="Plain_Score_Text">"Простий текст розподілу"</string>
     <string name="Custom_Skin_Reviewed_Notification">"Ваш кастомний скін було розглянуто!"</string>
@@ -1254,22 +1254,22 @@
     <string name="The_winner_will_receive_x_plasma_">"Переможець отримає %s плазми!"</string>
     <string name="admin_commands">"
 Команди:
-!kick [0-31]
-!reset
-!welcome {message}
-!difficulty [0-3] чи [1-4] для Кампанії 
+!kick [0-31] - вигнати гравця
+!reset - перезапустити
+!welcome {message} - вітальне повідомлення
+!difficulty складність  [0-3] чи [1-4] для Кампанії 
 !hidden - змінити приховану кімнату
-!guests
+!guests - гості
 !slowchat - змінити повільний чат
 !pausechat - призупинити чат на деякий час
-!mute {id}
-!admin {id} Додати адміністратора до кімнати
+!mute {id} - замутити гравця
+!admin {id} - Додати адміністратора до кімнати
 !allow {id}
 !allow reset"
 </string>
     <string name="ID_Sort">ID Sort</string>
     <string name="Master_Tamer">"Майстерний приборкувач"</string>
-    <string name="Get_ALL_Pets_To_Level_100_">"Підняти ВСІХ тваринок до рівню 100"</string>
+    <string name="Get_ALL_Pets_To_Level_100_">"Підняти ВСІХ тваринок до рівня 100"</string>
     <string name="TAMER">"ПРИБОРКУВАЧ"</string>
     <string name="Allow_Recombine">"Дозволити з'єднання"</string>
     <string name="Defenders">"Захисники"</string>
@@ -1300,15 +1300,15 @@
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">КОЛІР ФОНУ КЛАНУ</string>
     <string name="activate">активувати</string>
-    <string name="clan_id">CLAN ID</string>
+    <string name="clan_id">ID клану</string>
     <string name="language_change_warning">Changing the language will cause the app to restart.</string>
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
+    <string name="no_response">Немає відповіді від сервера. Будь ласка, перевірте інтернет-з’єднання.</string>
     <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
+    <string name="SUDDEN_ATTACK">РАПТОВА АТАКА</string>
 
     <string name="sign_in_explanation">
-"Увійдіть, щоб отримати доступ до багатокористувацької гри. Ви зможете:
+"Увійдіть, щоб отримати доступ до онлайн гри. Ви зможете:
 - Грати та спілкуватися з іншими гравцями з усього світу
 - Ділитися своїм прогресом з іншими
 - Створювати та прикрашати профіль
@@ -1316,10 +1316,10 @@
 - Завантажувати шкіри, створені користувачами
 Якщо ви не бажаєте увійти, ви все ще можете грати в одиночну гру."
 </string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="_2x_skin_resolution">2x Розширення скіна </string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Ви вже друзі.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Щоб надсилати пошту, аккаунту повинно бути більше 1 дня.</string>
     <string name="Translator">Перекладач</string>
     <string name="SUCCESS">УСПІХ</string>
 
@@ -1362,7 +1362,7 @@
         <item>"Маленьке"</item>
         <item>"Середнє"</item>
         <item>"Велике"</item>
-        <item>"HUGE"</item>
+        <item>"Величезне"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
