@@ -1111,7 +1111,7 @@
     <string name="Tricks_Performed_">Tricks Performed:</string>
     <string name="Not_enough_plasma_">Not enough plasma!</string>
     <string name="GET_PLASMA">GET PLASMA</string>
-    <string name="ASTEROIDS">小惑星</string>
+    <string name="ASTEROIDS">アステロイド</string>
     <string name="CHRISTMAS">クリスマス</string>
     <string name="Reason">理由</string>
     <string name="PUBLIC">公開</string>
@@ -1209,7 +1209,7 @@
     <string name="CHAMPION">チャンピオン</string>
     <string name="DASH">ダッシュ</string>
     <string name="setting_changed">Settings updated. You may need to reconnect to the server for it to take effect.</string>
-    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Perform 10,000 tricks in a Trick Mode game.</string>
+    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">トリックモードで10,000トリックを実行する</string>
     <string name="Tricky">トリッキ</string>
     <string name="SUPPORTER">VIP</string>
     <string name="CONQUEROR">コンケラー</string>
