@@ -1300,7 +1300,7 @@
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">КОЛІР ФОНУ КЛАНУ</string>
     <string name="activate">активувати</string>
-    <string name="clan_id">ID клану</string>
+    <string name="clan_id">ID КЛАНУ</string>
     <string name="language_change_warning">Changing the language will cause the app to restart.</string>
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
     <string name="no_response">Немає відповіді від сервера. Будь ласка, перевірте інтернет-з’єднання.</string>
@@ -1316,7 +1316,7 @@
 - Завантажувати шкіри, створені користувачами
 Якщо ви не бажаєте увійти, ви все ще можете грати в одиночну гру."
 </string>
-    <string name="_2x_skin_resolution">2x Розширення скіна </string>
+    <string name="_2x_skin_resolution">2x Розширення Скіна</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Ви вже друзі.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Щоб надсилати пошту, аккаунту повинно бути більше 1 дня.</string>
@@ -1362,7 +1362,7 @@
         <item>"Маленьке"</item>
         <item>"Середнє"</item>
         <item>"Велике"</item>
-        <item>"Величезне"</item>
+        <item>"ВЕЛИЧЕЗНЕ"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
