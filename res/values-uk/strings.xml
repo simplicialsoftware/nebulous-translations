@@ -612,7 +612,7 @@
     <string name="You_must_be_signed_in_to_Google_">"Ви повинні увiйти в Google."</string>
 
     <string name="MAYHEM">"МЕЙХЕМ"</string>
-    <string name="eggs_">"Яйця"</string>
+    <string name="eggs_">"яйця "</string>
     <string name="Egg_Collector">"Збирач яєць"</string>
     <string name="Egg_Hoarder">"Накопичувач яєць"</string>
     <string name="Egg_Mogul">"Колекціонер яєць"</string>
@@ -675,7 +675,7 @@
     <string name="Cancel_Invitation">"Скасувати запрошення"</string>
     <string name="DOWNLOAD">"ЗАВАНТАЖИТИ"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"ВІДХИЛИТИ ВСІ ЗАПИТИ НА ДРУЖБУ?"</string>
-    <string name="suns_">"Сонця"</string>
+    <string name="suns_">"сонця "</string>
     <string name="Sun_Collector">"Збирач сонць"</string>
     <string name="Sun_Hoarder">"Накопичувач сонць"</string>
     <string name="Sun_Mogul">"Колекціонер сонць"</string>
@@ -684,7 +684,7 @@
     <string name="Collect_10_000_suns_">"Зібрати 10,000 сонць"</string>
     <string name="Reward_Videos_">"Винагорода за відео!"</string>
     <string name="Free_Plasma_">"Безкоштовна плазма!"</string>
-    <string name="moons_">"Супутники"</string>
+    <string name="moons_">"супутники "</string>
     <string name="Moon_Collector">"Збирач супутників"</string>
     <string name="Moon_Hoarder">"Накопичувач супутників"</string>
     <string name="Moon_Mogul">"Колекціонер супутників"</string>
@@ -707,7 +707,7 @@
     <string name="Collect_1_000_notes_">"Зібрати 1,000 нот"</string>
     <string name="Collect_5_000_notes_">"Зібрати 5,000 нот"</string>
     <string name="Collect_10_000_notes_">"Зібрати 10,000 нот"</string>
-    <string name="notes_">"Ноти"</string>
+    <string name="notes_">"ноти "</string>
     <string name="CLICK_CHEAT_DETECTED_">"ВИЯВЛЕНО АВТОКЛІКЕР!"</string>
     <string name="Pumpkin_Hoarder">"Накопичувач гарбузів"</string>
     <string name="Pumpkin_Mogul">"Колекціонер гарбузів"</string>
@@ -717,7 +717,7 @@
     <string name="Collect_10000_leaves_">"Зібрати 10,000 листочків"</string>
     <string name="Eject">"Викидати масу"</string>
     <string name="Eject_Skin">"Скін викиду маси"</string>
-    <string name="Double_Plasma__">"Подвійна плазма!!!"</string>
+    <string name="Double_Plasma__">"Подвійна плазма !!"</string>
     <string name="Ends">"Закінчується"</string>
     <string name="Select_Clan_Member">"Виберіть учасника клану"</string>
     <string name="Inappropriate_Skin">"Неприйнятний скін"</string>
@@ -762,7 +762,7 @@
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Nebulous потребує  дозволу розташування, щоб знайти поблизу Bluetooth пристрої."</string>
     <string name="FFA_ULTRA">"ФФА УЛЬТРА"</string>
     <string name="FFAU">"ФФАУ"</string>
-    <string name="_in_a_FFAU_Game">"У грі ФФА Ультра"</string>
+    <string name="_in_a_FFAU_Game">" у грі ФФА Ультра"</string>
 
     <string name="BANNED_PLAYERS">"ЗАБАНЕНІ ГРАВЦІ"</string>
     <string name="MAIL">"ЛИСТ"</string>
