@@ -599,7 +599,7 @@
     <string name="PRIZES">"賞品"</string>
 
     <string name="Enable_Custom_Skin">"カスタムスキンを購入する"</string>
-    <string name="Use_Custom_Skin">"カスタムス\nキンを使用する"</string>
+    <string name="Use_Custom_Skin">"カスタムスキン\nを使用する"</string>
     <string name="custom_skin_description">"この機能を使用すると、指定した画像をスキンとして使用することができます。この機能で変えたスキンはあなたしか見れません。"</string>
     <string name="CUSTOM_SKIN">"カスタムスキン"</string>
 
@@ -744,7 +744,7 @@
     <string name="CONTRIBUTE_PLASMA">"プラズマを寄付する"</string>
     <string name="Specify_Contribution_Amount">"貢献量を指定します"</string>
     <string name="Clan_Contribution">"クランに貢献"</string>
-    <string name="FILTER">"フィルタ"</string>
+    <string name="FILTER">"フィルター"</string>
     <string name="List_Count_">"リスト数："</string>
     <string name="Download_Skins">"ダウンロードスキン"</string>
     <string name="ARENA_HISTORY">"アリーナの歴史"</string>
@@ -792,7 +792,7 @@
     <string name="Clan_Hero">"クランヒーロー"</string>
     <string name="Win_1000_Clan_Wars">"クラン戦争1000回勝利"</string>
     <string name="NAME_COLOR">"名前の色"</string>
-    <string name="name_color_instructions">"あなたが色変更したい文字を選択して。"</string>
+    <string name="name_color_instructions">"あなたが色変更したい文字を選択してください。"</string>
     <string name="Cannot_change_this_character_">"この文字は色変更できません"</string>
     <string name="ZOMBIE_APOCALYPSE">"ゾンビの黙示録"</string>
     <string name="Survive_a_Zombie_Apocalypse">"ゾンビの黙示録で生き残ります"</string>
@@ -1086,7 +1086,7 @@
     <string name="Channel">チャンネル</string>
     <string name="Choose_Text_Size">Choose Text Size</string>
     <string name="LEVEL_COLOR">レベルカラー</string>
-    <string name="level_color_instructions" translatable="true">あなたのレベルカラーを選択して。</string>
+    <string name="level_color_instructions" translatable="true">あなたのレベルカラーを選択してください。</string>
     <string name="INITIATE">INITIATE</string>
     <string name="x3_Clan_XP_Perm">永久にクラン経験値3倍！</string>
     <string name="x2_Clan_XP_Perm">永久にクラン経験値2倍！</string>
