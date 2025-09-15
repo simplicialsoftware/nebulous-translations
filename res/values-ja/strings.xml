@@ -1106,7 +1106,7 @@
     <string name="Group">グループ</string>
     <string name="Not_in_a_group_">グループにいません。</string>
     <string name="Failed">失敗しました</string>
-    <string name="Failed_to_join">参加するは失敗しました</string>
+    <string name="Failed_to_join">参加に失敗しました</string>
     <string name="Full">Full</string>
     <string name="Tricks_Performed_">Tricks Performed:</string>
     <string name="Not_enough_plasma_">Not enough plasma!</string>
