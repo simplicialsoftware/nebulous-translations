@@ -31,7 +31,7 @@
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"El contenido de esta aplicación puede variar cuando se buscan grupos "</string>
 
-    <string name="_Rank_">" Posición "</string>
+    <string name="_Rank_">" Rango "</string>
     <string name="_Alias_">" Apodo "</string>
     <string name="_Score_">" Puntuación "</string>
     <string name="Score__">"Puntuación: "</string>
@@ -71,7 +71,7 @@
     <string name="Max_Players">"Jugadores máximos"</string>
     <string name="Min_Players">"Jugadores mínimos"</string>
 
-    <string name="OK">"VALE"</string>
+    <string name="OK">"Bueno"</string>
     <string name="CANCEL">"CANCELAR"</string>
     <string name="Chat_Name">"Nombre del chat"</string>
     <string name="Max_People">"Personas máximas"</string>
@@ -321,7 +321,7 @@
     <string name="Color_Blind">"Modo daltónico"</string>
     <string name="Daily_Quest_Complete_">"¡Misión diaria completada!"</string>
     <string name="COPY_ID">"COPIAR ID"</string>
-    <string name="My_Account_ID">"Mi ID"</string>
+    <string name="My_Account_ID">"Mi ID de Cuenta"</string>
 
 
     <string name="COMPLETE">"COMPLETA"</string>
@@ -337,7 +337,7 @@
     <string name="_dots">" puntos"</string>
     <string name="_player_blobs">" blobs del jugador"</string>
     <string name="Absorb_">"Absorber "</string>
-    <string name="Collect_">"Recoger "</string>
+    <string name="Collect_">"Recolectar "</string>
 
     <string name="FFA_CLASSIC">"TCT CLÁSICO"</string>
 
