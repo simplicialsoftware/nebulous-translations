@@ -4,9 +4,9 @@
     <string name="Players">"Игроки"</string>
     <string name="Control_">"Настройки управления:"</string>
     <string name="CLOSE">"ЗАКРЫТЬ"</string>
-    <string name="Stick_Size_">"Размер джойстика:"</string>
+    <string name="Stick_Size_">"Масштаб джойстика:"</string>
     <string name="Stick_Margin_">"Отрыв джойстика:"</string>
-    <string name="Button_Size_">"Размер кнопок:"</string>
+    <string name="Button_Size_">"Масштаб кнопок:"</string>
     <string name="Button_Margin_">"Отрыв кнопок:"</string>
     <string name="Buttons_">"Кнопки:"</string>
     <string name="DEFAULTS">"ВОССТАНОВИТЬ ПО УМОЛЧАНИЮ"</string>
@@ -16,8 +16,8 @@
     <string name="Game_Mode_">"Режим:"</string>
     <string name="Show_Names">"Отображать никнеймы"</string>
     <string name="Show_Avatars">"Отображать скины"</string>
-    <string name="PLAY">"ИГРАТЬ"</string>
-    <string name="OPTIONS">"НАСТРОЙКИ"</string>
+    <string name="PLAY">"СТАРТ"</string>
+    <string name="OPTIONS">"ПАРАМЕТРЫ"</string>
 
     <string name="Avatar_">"Скин:"</string>
     <string name="Name_">"Никнейм:"</string>
@@ -41,7 +41,7 @@
     <string name="WINNER_">"ПОБЕДИТЕЛЬ:"</string>
     <string name="IDLE">"ОФЛАЙН"</string>
     <string name="Name_Invalid_">"Имя недействительно."</string>
-    <string name="Name_Taken_">"Имя уже занято."</string>
+    <string name="Name_Taken_">"Имя уже используется."</string>
     <string name="CONNECTED">"Подключение"</string>
     <string name="JOINING___">"Присоединение…"</string>
     <string name="PLAYING">"ИГРАТЬ"</string>
@@ -980,7 +980,7 @@
     <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Чтобы использовать это свечение необходим %1$s уровень %2$s достижений."</string>
     <string name="Halos">Свечения</string>
     <string name="CAMPAIGN">Кампания</string>
-    <string name="Mission">Задание</string>
+    <string name="Mission">Миссия</string>
     <string name="Kill_All_Bots">Уничтожьте всех ботов</string>
     <string name="Survive">Выживите</string>
     <string name="Mission_d_Complete">Миссия %d выполнена!</string>
@@ -1389,7 +1389,7 @@
         <item>"Маленькое"</item>
         <item>"Нормальное"</item>
         <item>"Большое"</item>
-        <item>"Огромное"</item>
+        <item>"ОГРОМНОЕ"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
