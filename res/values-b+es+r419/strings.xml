@@ -1222,8 +1222,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="DISABLED">DESHABILITAR</string>
     <string name="Refund__Multiskin">"Reembolso\nMultiskin"</string>
     <string name="Invalid_Clan_ID_">ID de Clan inválida.</string>
-    <string name="MUTED">SILENCIADO</string>
-    <string name="SKIN">SKIN</string>
+    <string name="MUTED">SILENCIADO</stristringCIONCION  <string name="SKIN">SKIN</string>
     <string name="Choose_Skin_Size">Elige el tamaño de la skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">¡Otros jugadores no podrán escucharte!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Permitir permiso para habilitar la grabación de voz.</string>
@@ -1369,7 +1368,7 @@ Comandos:
     <string name="Allow_Recombine">Permitir Recombinar</string>
     <string name="Defenders">Defensores</string>
     <string name="Attackers">Atacantes</string>
-    <string name="MEGA_SPLIT">MEGA SEPARACION 64x</string>
+    <string name="MEGA_SPLIT">MEGA SEPARACIÓN 64x</string>
     <string name="Missing_Permissions">Permisos que faltan</string>
     <string name="DELETE_ACCOUNT">ELIMINAR CUENTA</string>
     <string name="delete_prompt">¿Estás seguro de que deseas eliminar su cuenta? ¡Esto es PERMANENTE y NO SE PUEDE DESHACER!</string>
