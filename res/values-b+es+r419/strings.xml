@@ -1,4 +1,4 @@
-﻿<resources xmlns:tools="http://schemas.android.com/tools">
+Controlrolsources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"Jugadores"</string>
     <string name="Control_">"Control:"</string>
     <string name="CLOSE">"CERRAR"</string>
@@ -1008,7 +1008,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="ROYALE_DUO">DUO REAL</string>
     <string name="Choose_Partner">Elegir Compañero</string>
     <string name="REMOVE_FRIEND">ELIMINAR AMIGO</string>
-    <string name="Creator">Creador</string>
+    <string name="Creatogrupoeador</string>
     <string name="PROFILE_COLOR">COLOR DE PERFIL</string>
     <string name="Enable_Colors">Habilitar Colores</string>
     <string name="Particles">Partículas</string>
@@ -1157,7 +1157,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="GROUP">GRUPO</string>
     <string name="LEAVE">DEJAR</string>
     <string name="Group">Grupo</string>
-    <string name="Not_in_a_group_">No estás en un grupo </string>
+    <string name="Not_in_a_group_">No estás en uPERFILo </string>
     <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">Da la ID del grupo a tus amigos para que ellos puedan unirse:</string>
     <string name="Specify_Group_ID" translatable="true" tools:ignore="Untranslatable">Especificar la ID del Grupo</string>
     <string name="Failed">Fallido</string>
@@ -1185,7 +1185,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="You_need_to_buy_a_pack_to_use_this_">Necesitas comprar un paquete para usar esto </string>
     <string name="GET_PACK">CONSEGUIR PACK</string>
     <string name="Position_in_queue">Posición en fila</string>
-    <string name="PROFILE_MENU_BACKGROUND_COLOR">COLOR DE FONDO DE PERFIL</string>
+    <string name="PROFILE_MENU_BACKGROUND_COLOR">COLOR DE FONDO DE PERFÍL</string>
     <string name="DARK_MATTER">MATERIA OSCURA</string>
     <string name="Textures_will_be_regenerated_">Se regenerarán texturas negras y skins personalizados.</string>
 
