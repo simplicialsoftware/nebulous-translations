@@ -377,7 +377,7 @@
     <string name="MATCH_START">"COMIENZA LA PARTIDA EN"</string>
     <string name="Clan_Warrior">"Guerrero del Clan"</string>
     <string name="Win_a_Clan_War">"Gana una guerra de Clanes"</string>
-    <string name="Global">"Global"</string>
+    <string name="Global">"Perfil"</string>
     <string name="Spectating">"Observando"</string>
 
 
@@ -451,7 +451,7 @@
 
 
     <string name="Copy_ID">"Copiar ID"</string>
-    <string name="View_Profile">"Ver Perfil"</string>
+    <string name="View_Profile">"Ver Perfíl"</string>
     <string name="Send_Message">"Enviar Mensaje"</string>
     <string name="Account_ID">"Ver ID"</string>
     <string name="Player_Name">"Nombre del Jugador"</string>
