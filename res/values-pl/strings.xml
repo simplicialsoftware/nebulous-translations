@@ -519,7 +519,7 @@
     <string name="Omnipresence">"Wszechobecność"</string>
     <string name="Shoot_9001_Powerups">"Wystrzel 9001 wzmocnień."</string>
     <string name="Teleport_100_Times">"Przeteleportuj się 100 razy."</string>
-    <string name="Shoot_20_Powerups_Without_Restarting">"Wystrzel 20 wzmocnień bez ponownego startu."</string>
+    <string name="Shoot_20_Powerups_Without_Restarting">"Wystrzel 20 wzmocnień bez restartu."</string>
     <string name="Request_Timed_Out">"Upłynął Limit Czasu Żądania."</string>
     <string name="You_Are_Spectating_">"Jesteś Obserwatorem."</string>
     <string name="Account_In_Use_">"Konto jest już w użyciu."</string>
@@ -1004,7 +1004,7 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="Failed_to_join">"Nie udało się dołączyć."</string>
     <string name="Full">"Pełno"</string>
     <string name="Tricks_Performed_">"Wykonane Triki:"</string>
-    <string name="Not_enough_plasma_">"Wzmocnienie Masy!"</string>
+    <string name="Not_enough_plasma_">"Niewystarczająca ilość plazmy!"</string>
     <string name="GET_PLASMA">"KUP PLAZMĘ"</string>
     <string name="ASTEROIDS">"ASTEROIDY"</string>
     <string name="CHRISTMAS">"BOŻE NARODZENIE"</string>
@@ -1139,7 +1139,7 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="South_Africa">"Afryka Południowa"</string>
     <string name="SPLIT_">"PODZIAŁ:"</string>
     <string name="WALLS">"ŚCIANY"</string>
-    <string name="COMP_BANNED">"RANK ZBANOWANE"</string>
+    <string name="COMP_BANNED">"COMP BANNED"</string>
     <string name="FIND_GAMES">"ZNAJDŹ GRY"</string>
     <string name="PLAY_SOLO">"GRAJ SOLO"</string>
     <string name="SET_EMOTE">"USTAW EMOTKĘ"</string>
