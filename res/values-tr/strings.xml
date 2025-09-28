@@ -138,7 +138,7 @@
     <string name="ALL">"HEPSİ"</string>
     <string name="FFA">"HERKES TEK"</string>
     <string name="FFA_TIME">"HERKES TEK (Süreli)"</string>
-    <string name="TEAMS">"TAKIMLI"</string>
+    <string name="TEAMS">"TAKIMLAR"</string>
     <string name="TEAMS_TIME">"TAKIMLI (Süreli)"</string>
     <string name="CTF">"BAYRAK KAPMACA"</string>
     <string name="SURVIVAL">"HAYATTA KALMA"</string>
@@ -179,13 +179,13 @@
 
     <string name="Perfection">"Mükemmellik"</string>
     <string name="Single_Handedly">"Tek-El"</string>
-    <string name="Dodgey">"Dikkatli"</string>
+    <string name="Dodgey">"Şüpheli"</string>
     <string name="Self_Contained">"Sapasağlam"</string>
-    <string name="Survivalist">"Sağ Kalan"</string>
+    <string name="Survivalist">"Hayatta Kalan"</string>
     <string name="Ultramassive">"Atarlı"</string>
     <string name="Rapid_Ascension">"Hızlı Yükseliş"</string>
     <string name="Revenge">"İntikam"</string>
-    <string name="Doge_Pound">"Doge Avcısı"</string>
+    <string name="Doge_Pound">"Köpek Barınağı"</string>
 
     <string name="Absorb_50_dots">"50 Adet Benek Yutun."</string>
     <string name="Absorb_300_dots">"300 Adet Benek Yutun."</string>
@@ -889,7 +889,7 @@
     <string name="REMOVE">"KALDIR"</string>
     <string name="BAN">"YASAK"</string>
     <string name="MODERATORS">"MODERATÖRLER"</string>
-    <string name="ALL_CLAN">"TÜM\nKLAN"</string>
+    <string name="ALL_CLAN">"TÜM KLAN"</string>
     <string name="CO_LEADER">"LİDER YARDIMCISI"</string>
     <string name="CLAN_HOUSE">"KLAN EVİ"</string>
     <string name="ROOM">"ODA"</string>
@@ -935,7 +935,7 @@
     <string name="Pet_Uploads">"Evcil Hayvan Yüklemeleri"</string>
     <string name="BLOB">"Baloncuk"</string>
     <string name="Clan_Pet_Uploads">"Klan Evcil Hayvan Yüklemeleri"</string>
-    <string name="YT">"YT"</string>
+    <string name="YT">"Youtuber"</string>
     <string name="FREE_TODAY">"BUGÜN ÜCRETSİZ!"</string>
     <string name="Cannot_cancel_this_skin_yet_">"Bu özel avatarı iptal edebilmek için lütfen biraz bekleyiniz."</string>
     <string name="SPLIT_16X">"16x BÖLÜNME"</string>
@@ -1008,7 +1008,7 @@ Oyunun kurallarını çiğneyen bir oyuncuyu fark ederseniz, lütfen bir "Modera
     <string name="ROYALE_DUO">"İKİLİ BATTLE ROYALE"</string>
     <string name="Choose_Partner">"Partner Seç"</string>
     <string name="REMOVE_FRIEND">"ARKADAŞINI KALDIR"</string>
-    <string name="Creator">"Kurucu"</string>
+    <string name="Creator">"Oluşturucu"</string>
     <string name="PROFILE_COLOR">"PROFİL RENGİ"</string>
     <string name="Enable_Colors">"Renkleri Etkinleştir"</string>
     <string name="Particles">"Parçacıklar"</string>
@@ -1230,7 +1230,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Show_Boost_Button">"Takviye Butonunu Göster"</string>
     <string name="Spectate_Killer_On_Death">"Yiyeni İzle"</string>
     <string name="Rainbow_Holes">"Gökkuşağı Delikler"</string>
-    <string name="LIFE_STEAL">"Yaşam Çal"</string>
+    <string name="LIFE_STEAL">"Can Çal"</string>
     <string name="Kicked_From_Game_">"Yönetici tarafından odadan atıldınız!"</string>
     <string name="Conquest">"Fatih"</string>
     <string name="Finish_the_last_mission_in_the_campaign_">"Kampanyadaki son görevi (20)tamamlayın."</string>
@@ -1248,7 +1248,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="Background_Lightness_">"Arka Plan Şeffaflığı:"</string>
     <string name="Background_Image_">"Arka Plan Görüntüsü:"</string>
     <string name="INVERT_SELECTION">"Seçilmeyen Karakterleri Seç"</string>
-    <string name="MINIMAP">"Minik Harita"</string>
+    <string name="MINIMAP">"Mini Harita"</string>
     <string name="Victorious">"Galip"</string>
     <string name="Dominant">"Hakim"</string>
     <string name="Champion">"Şampiyon"</string>
@@ -1274,7 +1274,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="x4_Clan_XP_Perm">"Kalıcı 4x Klan XP'si!"</string>
     <string name="x4_Clan_XP_7_days">"7 Günlük 4x Klan XP'si"</string>
     <string name="x4_Clan_XP_1_Day">"1 Günlük 4x Klan XP'si"</string>
-    <string name="CHARGE_UP">"Şarj"</string>
+    <string name="CHARGE_UP">"Şarj Et"</string>
     <string name="CLAN_DESCRIPTION_COLOR">"KLAN AÇIKLAMA RENGİ"</string>
     <string name="Responsible_Pet_Owner">"Sorumlu Evcil Hayvan Sahibi"</string>
     <string name="Animal_Tamer">"Hayvan Terbiyecisi"</string>
