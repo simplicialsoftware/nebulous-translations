@@ -162,13 +162,13 @@
     <string name="Monster_Gulp">"Monster Gulp"</string>
     <string name="Ludicrous_Gulp">"Ludicrous Gulp"</string>
 
-    <string name="Blobicide">"Blobicide"</string>
+    <string name="Blobicide">"Blobisidi"</string>
     <string name="Blobtrocity">"Blobtrocity"</string>
     <string name="Blobaccre">"Blobaccre"</string>
     <string name="Blobastrophe">"Blobastrophe"</string>
-    <string name="Blobihilation">"Blobihilation"</string>
+    <string name="Blobihilation">"Blobihilaatio"</string>
     <string name="Blobageddon">"Blobageddon"</string>
-    <string name="Blobocalypse">"Blobocalypse"</string>
+    <string name="Blobocalypse">"Blobokalypsi"</string>
 
     <string name="Experienced_Nebulator">"Kokenut"</string>
     <string name="Expert_Nebulator">"Ekspertti"</string>
@@ -677,7 +677,8 @@
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"Hylkää kaikki ystäväkutsut."</string>
     <string name="suns_">"auringot."</string>
     <string name="Sun_Collector">"Aurinko kerääjä"</string>
-    <string name="Sun_Hoarder">"Sun hoarder"</string>
+    <string name="Sun_Hoarder">"Auringon hamstraaja
+"</string>
     <string name="Sun_Mogul">"Sun moguli"</string>
     <string name="Collect_1_000_suns_">"Kerää 1000 auringot."</string>
     <string name="Collect_5_000_suns_">"Kerää 5000 auringot."</string>
@@ -685,19 +686,19 @@
     <string name="Reward_Videos_">"Palkitse videot!"</string>
     <string name="Free_Plasma_">"Ilmaista Plasmaa!"</string>
     <string name="moons_">"Kuista."</string>
-    <string name="Moon_Collector">"Moon Collector"</string>
-    <string name="Moon_Hoarder">"Moon hoarder"</string>
+    <string name="Moon_Collector">"Kuun keräilijä"</string>
+    <string name="Moon_Hoarder">"Kuun hamstraaja"</string>
     <string name="Moon_Mogul">"Moon moguli"</string>
     <string name="Collect_1_000_moons_">"Kerää 1000 kuuta."</string>
     <string name="Collect_5_000_moons_">"Kerää 5000 kuuta."</string>
     <string name="Collect_10_000_moons_">"Kerää 10,000 kuista."</string>
     <string name="BLUETOOTH">"Bluetooth"</string>
-    <string name="HOST">"Host"</string>
+    <string name="HOST">"Isäntä"</string>
     <string name="This_device_does_not_support_bluetooth_">"Tämä laite ei tue bluetooth yhteyttä."</string>
     <string name="member_permissions">"Jäsen Oikeudet"</string>
     <string name="edit">"Muokata"</string>
     <string name="start_clan_war">"Aloita klaanisota."</string>
-    <string name="join_clan_war">"Join Clan War"</string>
+    <string name="join_clan_war">"Liity klaanisotaan"</string>
     <string name="none">"Ei mitään"</string>
     <string name="INVALID_TOKEN">"Virheellinen Token!"</string>
     <string name="banned_until">"Kielletyt kunnes "</string>
@@ -742,7 +743,7 @@
     <string name="Specify_Contribution_Amount">"Määritä lahjoitusosuuden määrä"</string>
     <string name="Clan_Contribution">"Klaani lahjoitukisen osuudet"</string>
     <string name="FILTER">"Suodata"</string>
-    <string name="List_Count_">"List Count:"</string>
+    <string name="List_Count_">"Luettelon määrä:"</string>
     <string name="Download_Skins">"Lataa Skins"</string>
     <string name="ARENA_HISTORY">"Areea historia"</string>
     <string name="WIN">"Voitto"</string>
@@ -800,7 +801,7 @@
     <string name="Win_as_survivors_with_no_losses_">"Voita selviytyjinä ilman tappioita."</string>
     <string name="ZOMBIE_">"Zombie!"</string>
     <string name="SURVIVOR_">"Selviytyjä!"</string>
-    <string name="Zombies">"Zombies"</string>
+    <string name="Zombies">"Zombeja"</string>
     <string name="Survivors">"Selviytyjät"</string>
     <string name="Enter_a_Tournament">"Liity Turnaukseem"</string>
     <string name="Win_a_Tournament">"Voita turnaus"</string>
@@ -1009,8 +1010,8 @@
     <string name="trophy_info">Pokaalit ovat ansaittu jokaisen arenan tai tiimi areenan lopussa ensimmäislle toiselle ja kolmennella paikalla oleville. Pokaalleja jaetaan vain maissa joissa on paljon aktiivisia pelaajia.</string>
     <string name="BLOCKED">Estetty</string>
     <string name="CLAN_WAR_HISTORY">CLAN WAR HISTORY</string>
-    <string name="Particle">Particle</string>
-    <string name="Privacy">Privacy</string>
+    <string name="Particle">Partikkeli</string>
+    <string name="Privacy">Yksityisyys</string>
     <string name="EULA">EULA</string>
     <string name="You_can_purchase_this_hat_for">You can purchase this hat for</string>
     <string name="You_can_purchase_this_particle_for">You can purchase this particle for</string>
