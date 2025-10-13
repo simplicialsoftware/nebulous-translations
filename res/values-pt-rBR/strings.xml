@@ -29,7 +29,7 @@
     <string name="WAIT">"AGUARDE…"</string>
     <string name="Must_Specify_Name_">"É Necessário Especificar um Nome."</string>
 
-    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
+    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"A classificação indicativa do aplicativo poderá mudar quando encontrar grupos."</string>
 
     <string name="_Rank_">" Posição "</string>
     <string name="_Alias_">" Apelido "</string>
@@ -603,7 +603,7 @@
     <string name="Facebook_Profile">"Perfil do Facebook"</string>
     <string name="You_must_be_signed_in_to_Facebook_">"Você precisa estar conectado ao Facebook."</string>
     <string name="copy_details">"Copiar Detalhes"</string>
-    <string name="copied_error_details_to_clipboard">"Detalhes do erro copiado para área de transferência"</string>
+    <string name="copied_error_details_to_clipboard">"Detalhes do erro copiados para área de transferência."</string>
 
     <string name="No_file_browser_installed_">"Nenhum gerenciador de arquivos instalado!"</string>
     <string name="Choose_File">"Escolher Arquivo"</string>
@@ -880,7 +880,7 @@
     <string name="Free_Agent">Agente Livre</string>
     <string name="This_player_selected_a_different_teammate_">Este jogador selecionou um companheiro de equipe diferente.</string>
     <string name="muted_until">Silenciado até</string>
-    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">A classificação de conteúdo do aplicativo pode mudar ao jogar no modo multijogador.</string>
+    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">A classificação indicativa do aplicativo poderá mudar ao jogar no modo multijogador.</string>
     <string name="UI_Opacity_">Opacidade da Interface</string>
     <string name="LOAD">CARREGAR</string>
     <string name="REMOVE">REMOVER</string>
