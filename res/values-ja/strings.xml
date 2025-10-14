@@ -944,7 +944,7 @@
     <string name="SPLIT_16X">16分裂</string>
     <string name="SET_PUBLIC_DESCRIPTION">公開説明文を設定する</string>
     <string name="SET_NOTE">メモを設定する</string>
-    <string name="enable_notifications">通知をオンにします</string>
+    <string name="enable_notifications">通知を有効にする</string>
     <string name="PROMOTE_MEMBER">昇進メンバー</string>
     <string name="DEMOTE_MEMBER">降格メンバー</string>
     <string name="HAPPY_BIRTHDAY_">ネビュラス誕生日</string>
@@ -1117,8 +1117,8 @@
     <string name="PUBLIC">公開</string>
     <string name="PRIVATE">非公開</string>
     <string name="Joined">参加しました</string>
-    <string name="Requests">Requests</string>
-    <string name="Invites">Invites</string>
+    <string name="Requests">リクエスト</string>
+    <string name="Invites">招待</string>
     <string name="Show_Spectator_Count">Show Spectator Count</string>
     <string name="TRY_IT_">TRY IT!</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">You need to buy a pack to use this.</string>
@@ -1154,7 +1154,7 @@
     <string name="Allow_permission_to_enable_voice_recording_">Allow permission to enable voice recording.</string>
     <string name="voice_chat_prompt">Content rating of the app may change with voice chat enabled. For best audio use a headset.</string>
     <string name="Only_leader_can_answer_requests_">Only leader can answer requests.</string>
-    <string name="Sent_request_not_invited_">Sent request (not invited).</string>
+    <string name="Sent_request_not_invited_">リクエスト送信済み（招待されていない）。</string>
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">REMOVE SKIN FROM COMMUNITY!</string>
     <string name="This_cannot_be_undone_">This cannot be undone!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Watch a video to get a temporary boost for %d lives!</string>
