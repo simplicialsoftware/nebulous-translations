@@ -30,7 +30,7 @@
     <string name="WAIT">"기다려주세요 …"</string>
     <string name="Must_Specify_Name_">"반드시 이름을 지정해야합니다."</string>
 
-    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"그룹을 찾는 경우 응용 프로그램에 대한 내용 등급이 변경 될 수 있습니다."</string>
+    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"그룹을 찾을 경우 앱의 콘텐츠 등급이 변경될 수 있습니다."</string>
 
     <string name="_Rank_">" 랭킹 "</string>
     <string name="_Alias_">" 익명 "</string>
@@ -118,7 +118,7 @@
     <string name="Bot">"봇"</string>
     <string name="You">"당신"</string>
     <string name="This_player_is_a_bot">"이 플레이어는 봇입니다."</string>
-    <string name="This_player_is_not_signed_in">"이 플레이어는 로그인 하지 않았습니다."</string>
+    <string name="This_player_is_not_signed_in">"이 플레이어는 로그인하지 않았습니다."</string>
 
     <string name="Online">"온라인"</string>
     <string name="Unknown">"알 수 없음"</string>
@@ -179,8 +179,8 @@
 
     <string name="Perfection">"완벽"</string>
     <string name="Single_Handedly">"혼자 스스로"</string>
-    <string name="Dodgey">"신속한 회피"</string>
-    <string name="Self_Contained">"독립적"</string>
+    <string name="Dodgey">"교묘한 회피"</string>
+    <string name="Self_Contained">"스스로 완성된"</string>
     <string name="Survivalist">"생존주의자"</string>
     <string name="Ultramassive">"파란것은 영양가가 높은 귀중한 블랙홀이죠"</string>
     <string name="Rapid_Ascension">"빠른 상승"</string>
@@ -224,8 +224,8 @@
     <string name="Play_20_minutes_straight_without_restarting">"다시 시작하지 않고 20 분 플레이"</string>
     <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"시작 30 초 이내에 파란 블랙홀 5 개 흡수"</string>
     <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"시작 1 분  이내에 5,000 점 달성"</string>
-    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"다시 시작하기 전에 당신에게 마지막으로 당신을 블랙홀에 넣은 유저에게 블랙홀 밀치기"</string>
-    <string name="Absorb_5_doges_without_restarting">"다시 시작하지 않고 개 스킨 유저 5명 흡수하기"</string>
+    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"다시 시작하기 전에 당신에게 마지막으로 당신을 블랙홀에 넣은 플레이어에게 블랙홀 밀치기"</string>
+    <string name="Absorb_5_doges_without_restarting">"다시 시작하지 않고 개 스킨 플레이어 5명 흡수하기"</string>
 
     <string name="Friends">"친구"</string>
     <string name="Dots_Eaten_">"먹은 도트 :"</string>
@@ -264,15 +264,15 @@
 
 
     <string name="JOIN_CLAN">"클랜 가입"</string>
-    <string name="JOIN_RANDOM_CLAN">"랜덤 클랜 가입"</string>
-    <string name="LEAVE_CLAN">"클랜 떠나기"</string>
+    <string name="JOIN_RANDOM_CLAN">"무작위 클랜 가입"</string>
+    <string name="LEAVE_CLAN">"클랜 탈퇴"</string>
     <string name="INVITE_MEMBER">"멤버 초대"</string>
     <string name="REMOVE_MEMBER">"멤버 추방"</string>
 
 
     <string name="CREATE_CLAN">"클랜 생성"</string>
     <string name="MEMBER">"멤버"</string>
-    <string name="ADMIN">"공동대표"</string>
+    <string name="ADMIN">"부대표"</string>
     <string name="LEADER">"대표"</string>
     <string name="ELDER">"장로"</string>
 
@@ -317,7 +317,7 @@
     <string name="Win_500_games_of_any_type_">"종류에 상관없이 500번 승리"</string>
     <string name="Translations">"번역자"</string>
     <string name="Developers">"개발자"</string>
-    <string name="Special_Thanks">"특별히 고마운 분들"</string>
+    <string name="Special_Thanks">"특별 감사 명단"</string>
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"모든 Nebulous 팬들에게 감사 드립니다."</string>
     <string name="Color_Blind">"색맹"</string>
     <string name="Daily_Quest_Complete_">"일일 퀘스트 완료!"</string>
@@ -425,7 +425,7 @@
     <string name="Purchasing">"구매"</string>
 
     <string name="Purchase_Successful_">"성공적으로 구매되었습니다."</string>
-    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"당신은 구매하려면 다시 연결해야 할 수도 있습니다."</string>
+    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"구매를 사용하려면 다시 연결해야 할 수도 있습니다."</string>
     <string name="Confirm_Purchase">"구매 확인"</string>
     <string name="x3_XP_24_hours">"경험치 3배: 24 시간"</string>
     <string name="x3_XP_1_Hour">"경험치 3배: 1시간"</string>
@@ -449,7 +449,7 @@
 
 
     <string name="Temporarily_Disabled_">"일시적으로 사용할 수 없습니다."</string>
-    <string name="BIGGEST">"가장 큰 유저"</string>
+    <string name="BIGGEST">"가장 큰 플레이어"</string>
 
 
     <string name="Copy_ID">"ID 복사"</string>
@@ -475,7 +475,7 @@
     <string name="Practice">"연습"</string>
     <string name="ArenaDescription">"당신은 단 하나의 생명을 받습니다. 승자는 %s 개의 플라즈마를 얻을 것 입니다."</string>
     <string name="Contestant">"참가자"</string>
-    <string name="Duelist">"투쟁가"</string>
+    <string name="Duelist">"결투가"</string>
     <string name="Gladiator">"검투사"</string>
     <string name="Challenger">"챌린저"</string>
     <string name="Win_1_1v1_Arenas_">"아레나 1 회 승리"</string>
@@ -521,7 +521,7 @@
     <string name="Collect_1_000_snowflakes_">"눈송이 1,000 개 수집하기"</string>
     <string name="Collect_5_000_snowflakes_">"눈송이 5,000 개 수집하기"</string>
     <string name="Collect_10_000_snowflakes_">"눈송이 10,000 개 수집하기"</string>
-    <string name="Show_All">"전체보기"</string>
+    <string name="Show_All">"전체 보기"</string>
 
     <string name="SET_PERMISSIONS">"권한 설정"</string>
     <string name="Start_Clan_War">"클랜 전쟁을 시작합니다"</string>
@@ -559,7 +559,7 @@
     <string name="Threats">"위협"</string>
     <string name="Spam">"스팸"</string>
     <string name="Other">"기타"</string>
-    <string name="Leave_Team">"팀 떠나기"</string>
+    <string name="Leave_Team">"팀 탈퇴"</string>
 
     <string name="Remove_Player">"플레이어 추방"</string>
     <string name="Reject_Invitation">"초대 거절"</string>
@@ -578,14 +578,14 @@
     <string name="candies_">"개의 사탕."</string>
     <string name="Language">"언어"</string>
     <string name="Control_Opacity_">"조작키 불투명도 :"</string>
-    <string name="You_dont_own_the_team_">"당신은 다음 팀을 보유하고 있지 않습니다:"</string>
+    <string name="You_dont_own_the_team_">"당신은 이 팀의 소유자가 아닙니다:"</string>
     <string name="User_has_already_been_invited_">"이미 초대된 상태입니다."</string>
     <string name="Maximum_players_allowed_on_the_team_">"팀 최대 플레이어 수: "</string>
     <string name="Name_is_already_in_use_">"이름이 이미 사용 중입니다."</string>
-    <string name="User_is_not_in_the_team_">"해당 유저가 팀에 없습니다."</string>
+    <string name="User_is_not_in_the_team_">"해당 플레이어가 팀에 없습니다."</string>
     <string name="You_are_not_invited_to_team_">"당신은 팀에 초대되지 않았습니다"</string>
     <string name="Team_does_not_exist_">"다음 팀은 존재하지 않습니다: "</string>
-    <string name="Please_wait_a_minute_before_sending_another_report_">"새로운 신고를 하려면 잠시 기다려주세요."</string>
+    <string name="Please_wait_a_minute_before_sending_another_report_">"다시 신고하려면 잠시 기다려주세요."</string>
     <string name="Collect_1_000_beads_">"구슬 1,000 개 수집하기"</string>
     <string name="Collect_5_000_beads_">"구슬 5,000 개 수집하기"</string>
     <string name="Collect_10_000_beads_">"구슬 10,000 개 수집하기"</string>
@@ -630,16 +630,16 @@
     <string name="Times_Teleported_">"순간이동한 횟수 :"</string>
     <string name="Powerups_Used_">"마법 사용 횟수 :"</string>
     <string name="Power_Hungry">"마법에 굶주린 자"</string>
-    <string name="Over_9000">"마법 성애자"</string>
-    <string name="Omnipresence">"동에번쩍 서에번쩍"</string>
+    <string name="Over_9000">"마법 광팬"</string>
+    <string name="Omnipresence">"어디에나 존재"</string>
     <string name="Shoot_9001_Powerups">"마법 9,001 번 발사"</string>
     <string name="Teleport_100_Times">"텔레포트 100 번 하기"</string>
-    <string name="Shoot_20_Powerups_Without_Restarting">"다시 시작하지 않고 20 개의 마법 발사</string>
+    <string name="Shoot_20_Powerups_Without_Restarting">"다시 시작하지 않고 20 개의 마법 발사"</string>
     <string name="Request_Timed_Out">"요청 시간이 초과되었습니다."</string>
     <string name="You_Are_Spectating_">"당신은 관전중입니다."</string>
     <string name="Account_In_Use_">"계정이 사용중입니다!"</string>
     <string name="Cannot_Join_Arena_">"아레나에 참여할 수 없습니다."</string>
-    <string name="Signing_out_will_disconnect_you_from_the_current_game">"로그아웃시 현재 플레이하고있는 게임으로부터 연결이 해제됩니다!</string>
+    <string name="Signing_out_will_disconnect_you_from_the_current_game">"로그아웃시 현재 플레이하고있는 게임으로부터 연결이 해제됩니다!"</string>
     <string name="raindrops_">"개의 빗방울."</string>
     <string name="Raindrop_Collector">"빗방울 수집가"</string>
     <string name="Raindrop_Hoarder">"빗방울 축적가"</string>
@@ -672,12 +672,12 @@
     <string name="Update_Available_">"업데이트가 있습니다!"</string>
     <string name="VIEW_INVITES">"초대 대기목록"</string>
     <string name="CLAN_INVITES">"클랜 초대 대기목록"</string>
-    <string name="Cancel_Invitation">초대 취소하기</string>
+    <string name="Cancel_Invitation">"초대 취소하기"</string>
     <string name="DOWNLOAD">다운로드</string>
-    <string name="REJECT_ALL_FRIEND_INVITATIONS_">모든 친구신청을 거부하시겠습니까?</string>
+    <string name="REJECT_ALL_FRIEND_INVITATIONS_">모든 친구 신청을 거부하시겠습니까?</string>
     <string name="suns_">"개의 태양."</string>
     <string name="Sun_Collector">태양 수집가</string>
-    <string name="Sun_Hoarder">"태양 축적가</string>
+    <string name="Sun_Hoarder">태양 축적가</string>
     <string name="Sun_Mogul">태양 탐색가</string>
     <string name="Collect_1_000_suns_">태양 1,000 개 수집하기</string>
     <string name="Collect_5_000_suns_">태양 5,000 개 수집하기</string>
@@ -726,7 +726,7 @@
     <string name="Refunded">"환불"</string>
 
 
-    <string name="contribution_warning">"정말로 플라즈마를 기부하시겠습니까? 기부금은 환불되지 않습니다."</string>
+    <string name="contribution_warning">"정말 플라즈마를 기부하시겠습니까? 기부금은 환불되지 않습니다."</string>
     <string name="Upload">"업로드"</string>
     <string name="upload_warning">"정말로 이 스킨을 업로드하시겠습니까? 다른 플레이어들이 이 스킨을 볼 수 있으며, 스킨 검토에는 일주일 이상이 소요될 수 있습니다. 부적절한 스킨은 거절되며, 환불되지 않습니다!"</string>
 
@@ -759,7 +759,7 @@
     <string name="Are_you_sure_you_want_to_upload_this_skin_">정말로 이 스킨을 업로드하시겠습니까?</string>
     <string name="Grant_Permission">권한 부여</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">싱글 플레이어 진행상황을 저장하려면 Nebulous에 저장소 권한이 부여되어야 합니다.</string>
-    <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">블루투스 디바이스를 찾으려면 Nebulous에 위치 권환이 부여되어야 합니다.</string>
+    <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">블루투스 디바이스를 찾으려면 Nebulous에 위치 권한이 부여되어야 합니다.</string>
     <string name="FFA_ULTRA">울트라 개인전</string>
     <string name="FFAU">울트라</string>
     <string name="_in_a_FFAU_Game">울트라 개인전 게임에서</string>
@@ -882,7 +882,7 @@
     <string name="Free_Agent">랜덤 팀원매칭</string>
     <string name="This_player_selected_a_different_teammate_">이 플레이어는 다른 팀원을 선택했습니다.</string>
     <string name="muted_until">다음 기간까지 뮤트:</string>
-    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">멀티 플레이에 참여할 경우 응용 프로그램에 대한 등급이 변경 될 수 있습니다.</string>
+    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">멀티 플레이에 참여할 경우 앱에 대한 등급이 변경 될 수 있습니다.</string>
     <string name="UI_Opacity_">UI 투명도</string>
     <string name="LOAD">불러오기</string>
     <string name="REMOVE">추방</string>
@@ -894,7 +894,7 @@
     <string name="ROOM">방</string>
     <string name="EXPERIMENTAL">실험적인</string>
     <string name="members">멤버들</string>
-    <string name="Delete_ALL_Messages_">모든 메시지를 삭제하십시오!</string>
+    <string name="Delete_ALL_Messages_">모든 메세지를 삭제하십시오!</string>
     <string name="SAVE_PROFILE">프로필 저장</string>
     <string name="Move">이동</string>
     <string name="New_Position">새 위치</string>
