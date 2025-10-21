@@ -1173,8 +1173,8 @@
     <string name="Names_Below_Blobs">Nume sub blob</string>
     <string name="Name_Scale_">"Scala de nume:"</string>
     <string name="Button_3D">Buton 3D</string>
-    <string name="Hide_Button_">Hide Button?</string>
-    <string name="Show_Boost_Button">Show Boost Button</string>
+    <string name="Hide_Button_">Ascunde buton</string>
+    <string name="Show_Boost_Button">Afișează buton boost</string>
     <string name="Spectate_Killer_On_Death">Spectate Killer On Death</string>
     <string name="Rainbow_Holes">Rainbow Holes</string>
     <string name="LIFE_STEAL">LIFE STEAL</string>
@@ -1184,7 +1184,7 @@
     <string name="Collected_">Colectat:</string>
     <string name="Collisions_">Collisions:</string>
     <string name="Absorbed_">Absorbed:</string>
-    <string name="team_warning">Teaming up with a player that is not on your team will result in a ban! Făcând echipă cu un jucător din altă echipă va rezulta cu ban!</string>
+    <string name="team_warning"> Făcând echipă cu un jucător din altă echipă va rezulta cu ban!</string>
     <string name="Search_Filter">Search Filter</string>
     <string name="Received_">Primit:</string>
     <string name="Opponent_Rating_Limit_">Opponent Rating Limit:</string>
@@ -1309,7 +1309,7 @@ Comenzi:
     <string name="no_response">Fără răspuns de la server. Vă rugăm să verificați conexiunea la internet.</string>
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">ATAC BRUSC</string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="_2x_skin_resolution">2x Skin rezoluție</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Sunteți deja prieteni.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Contul trebuie să aibă o vechime de 1 zi pentru a trimite emailuri.</string>
