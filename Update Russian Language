@@ -1389,7 +1389,7 @@
         <item>"Маленькое"</item>
         <item>"Нормальное"</item>
         <item>"Большое"</item>
-        <item>"HUGE"</item>
+        <item>"Огромный"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
