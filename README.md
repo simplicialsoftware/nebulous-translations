@@ -35,6 +35,7 @@ Open the `res` folder to see all of the supported languages. `res/values` contai
 `res/values-da`: Danish<br>
 `res/values-de`: German<br>
 `res/values-el`: Greek<br>
+`res/values-he`: Hebrew<br>
 `res/values-es`: Spanish<br>
 `res/values-et`: Estonian<br>
 `res/values-fi`: Finnish<br>
