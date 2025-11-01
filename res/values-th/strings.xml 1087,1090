@@ -1084,10 +1084,10 @@
     <string name="CIRCLE">วงกลม</string>
     <string name="SQUARES">สี่เหลี่ยม</string>
     <string name="TRICK_MODE">ทริคโหมด</string>
-    <string name="ICE_SPLIT">ICE SPLIT</string>
+    <string name="ICE_SPLIT">เยือกเเข็งสปลิท/string>
     <string name="TRICK_SPLIT">ทริคสปลิท</string>
     <string name="POP_SPLIT">ป๊อปสปลิท</string>
-    <string name="PUSH_SPLIT">PUSH SPLIT</string>
+    <string name="PUSH_SPLIT">ผลักสปลิท</string>
     <string name="Level_Colors">สีเลเวล</string>
     <string name="click_info">ออโต้คลิก / อัลตราคลิก ไม่สามารถใช้ได้ใน FFA คลาสสิค!</string>
     <string name="Hooked">ติดเบ็ด</string>
