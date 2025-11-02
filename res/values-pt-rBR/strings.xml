@@ -1458,7 +1458,8 @@ Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
     <string-array name="clan_war_sizes">
         <item>"Dupla (2vs2)"</item>
         <item>"Minúsculo (3vs3)"</item>
-        <item>"Pequeno (5vs5)"</item>
+        <item>"Pequeno (5vs5)"</ 
+								  item>
         <item>"Normal (8vs8)"</item>
     </string-array>
 </resources>
