@@ -576,7 +576,7 @@
     <string name="Collect_1_000_candies_">"飴を1000個収集する"</string>
     <string name="Collect_5_000_candies_">"飴を5000個収集する"</string>
     <string name="Collect_10_000_candies_">"飴を1万個収集する"</string>
-    <string name="candies_">"飴"</string>
+    <string name="candies_">"飴。"</string>
     <string name="Language">"言語"</string>
     <string name="Control_Opacity_">"コントローラーの不透明度："</string>
     <string name="You_dont_own_the_team_">"あなたはこのチームに入っていません。"</string>
@@ -1096,9 +1096,9 @@
     <string name="SET_PRIVACY">プライバシーを設定する</string>
     <string name="ANIMATION">アニメーション</string>
     <string name="Color_Cycle">カラーサイクル</string>
-    <string name="Fast">高速</string>
-    <string name="Slow">低速</string>
-    <string name="Rainbow">虹</string>
+    <string name="Fast">ファスト</string>
+    <string name="Slow">スロー</string>
+    <string name="Rainbow">レインボー</string>
     <string name="Horizontal">水平</string>
     <string name="Vertical">垂直</string>
     <string name="GROUP">グループ</string>
@@ -1108,7 +1108,7 @@
     <string name="Failed">失敗した</string>
     <string name="Failed_to_join">参加に失敗した</string>
     <string name="Full">Full</string>
-    <string name="Tricks_Performed_">Tricks Performed:</string>
+    <string name="Tricks_Performed_">トリックを実行した回数：</string>
     <string name="Not_enough_plasma_">Not enough plasma!</string>
     <string name="GET_PLASMA">GET PLASMA</string>
     <string name="ASTEROIDS">アステロイド</string>
@@ -1146,7 +1146,7 @@
     <string name="DISABLED">OFF</string>
 
     <string name="Refund__Multiskin">マルチスキン\nを返金する</string>
-    <string name="Invalid_Clan_ID_">Invalid clan ID.</string>
+    <string name="Invalid_Clan_ID_">無効なクランID。</string>
     <string name="MUTED">ミュートされた</string>
     <string name="SKIN">スキン</string>
     <string name="Choose_Skin_Size">Choose Skin Size</string>
@@ -1155,8 +1155,8 @@
     <string name="voice_chat_prompt">Content rating of the app may change with voice chat enabled. For best audio use a headset.</string>
     <string name="Only_leader_can_answer_requests_">Only leader can answer requests.</string>
     <string name="Sent_request_not_invited_">リクエスト送信済み（未招待）。</string>
-    <string name="REMOVE_SKIN_FROM_COMMUNITY_">REMOVE SKIN FROM COMMUNITY!</string>
-    <string name="This_cannot_be_undone_">This cannot be undone!</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">コミュニティからこのスキンを削除する！</string>
+    <string name="This_cannot_be_undone_">これは取り消せません！</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Watch a video to get a temporary boost for %d lives!</string>
     <string name="WATCH_VIDEO_">ビデオを見る！</string>
     <string name="PERMANENT_BOOSTS">永久にブースト</string>
@@ -1176,9 +1176,9 @@
     <string name="Mode_3D">3Dモード</string>
     <string name="Names_Below_Blobs">Names Below Blobs</string>
     <string name="Name_Scale_">"Name Scale:"</string>
-    <string name="Button_3D">Button 3D</string>
-    <string name="Hide_Button_">Hide Button?</string>
-    <string name="Show_Boost_Button">Show Boost Button</string>
+    <string name="Button_3D">3Dボタン</string>
+    <string name="Hide_Button_">ボタンを非表示にする？</string>
+    <string name="Show_Boost_Button">ブーストボタンを表示にする</string>
     <string name="Spectate_Killer_On_Death">Spectate Killer On Death</string>
     <string name="Rainbow_Holes">Rainbow Holes</string>
     <string name="LIFE_STEAL">LIFE STEAL</string>
@@ -1202,7 +1202,7 @@
     <string name="MINIMAP">MINIMAP</string>
     <string name="Victorious">Victorious</string>
     <string name="Dominant">Dominant</string>
-    <string name="Champion">Champion</string>
+    <string name="Champion">チャンピオン</string>
     <string name="Win_10_Tournaments">Win 10 Tournaments</string>
     <string name="Win_100_Tournaments">Win 100 Tournaments</string>
     <string name="HERO">ヒーロー</string>
@@ -1224,8 +1224,8 @@
     <string name="x4_Clan_XP_Perm">永久にクラン経験値4倍！</string>
     <string name="x4_Clan_XP_7_days">クラン経験値4倍7日間</string>
     <string name="x4_Clan_XP_1_Day">クラン経験値4倍1日間</string>
-    <string name="CHARGE_UP">CHARGE UP</string>
-    <string name="CLAN_DESCRIPTION_COLOR">CLAN DESCRIPTION COLOR</string>
+    <string name="CHARGE_UP">チャージアップ</string>
+    <string name="CLAN_DESCRIPTION_COLOR">クランの説明カラー</string>
     <string name="Responsible_Pet_Owner">Responsible Pet Owner</string>
     <string name="Animal_Tamer">Animal Tamer</string>
     <string name="Crocodile_Hunter">Crocodile Hunter</string>
@@ -1244,7 +1244,7 @@
     <string name="Sold_Community_Skins_">"Sold Community Skins: "</string>
     <string name="Estimated_Earnings_">"Estimated Earnings: "</string>
     <string name="South_Africa">南アフリカ</string>
-    <string name="SPLIT_">分割：</string>
+    <string name="SPLIT_">スプリット：</string>
     <string name="WALLS">壁</string>
     <string name="COMP_BANNED">競技に禁止された</string>
     <string name="FIND_GAMES">ゲームを検索する</string>
@@ -1284,7 +1284,7 @@
     <string name="MEGA_SPLIT">MEGAスプリット64x</string>
     <string name="Missing_Permissions">Missing Permissions</string>
     <string name="DELETE_ACCOUNT">アカウントを削除する</string>
-    <string name="delete_prompt">Are you sure you want to delete your account? This is PERMANENT and CANNOT BE UNDONE!</string>
+    <string name="delete_prompt">アカウントを削除してもよろしいですか？これは元に戻せません！</string>
 
 
     <string name="Type">これを入力してください：</string>
