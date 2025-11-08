@@ -84,10 +84,10 @@
 
 
     <string name="ACCOUNT">"ACCOUNT"</string>
-    <string name="Red_Team">"Rode Team"</string>
-    <string name="Green_Team">"Groene Team"</string>
-    <string name="Blue_Team">"Blauwe Team"</string>
-    <string name="Yellow_Team">"Gele Team"</string>
+    <string name="Red_Team">"Rood Team"</string>
+    <string name="Green_Team">"Groen Team"</string>
+    <string name="Blue_Team">"Blauw Team"</string>
+    <string name="Yellow_Team">"Geel Team"</string>
     <string name="Signed_in_as_">"Aangemeld als:"</string>
     <string name="Not_signed_in_">"Niet aangemeld!"</string>
     <string name="SET_NAME">"NAAM INSTELLEN"</string>
@@ -155,12 +155,12 @@
     <string name="Dot_Gormandizer">"Dot Schranser"</string>
     <string name="Dot_Sommelier">"Dot Sommelier"</string>
 
-    <string name="Quadra_Gulp">"Quadra Gulp"</string>
-    <string name="Multi_Gulp">"Multi Gulp"</string>
-    <string name="Mega_Gulp">"Mega Gulp"</string>
-    <string name="Ultra_Gulp">"Ultra Gulp"</string>
-    <string name="Monster_Gulp">"Monster Gulp"</string>
-    <string name="Ludicrous_Gulp">"Absurde Gulp"</string>
+    <string name="Quadra_Gulp">"QuadraGulp"</string>
+    <string name="Multi_Gulp">"MultiGulp"</string>
+    <string name="Mega_Gulp">"MegaGulp"</string>
+    <string name="Ultra_Gulp">"UltraGulp"</string>
+    <string name="Monster_Gulp">"MonsterGulp"</string>
+    <string name="Ludicrous_Gulp">"AbsurdeGulp"</string>
 
     <string name="Blobicide">"Blobicide"</string>
     <string name="Blobtrocity">"Blobtrocity"</string>
@@ -184,7 +184,7 @@
     <string name="Ultramassive">"Ultra massief"</string>
     <string name="Rapid_Ascension">"Snelle Stijging"</string>
     <string name="Revenge">"Wraak"</string>
-    <string name="Doge_Pound">"Doge Pound"</string>
+    <string name="Doge_Pound">"Doge-hok"</string>
 
     <string name="Absorb_50_dots">"Absorbeer 50 Dots"</string>
     <string name="Absorb_300_dots">"Absorbeer 300 Dots"</string>
@@ -227,7 +227,7 @@
     <string name="Absorb_5_doges_without_restarting">"Absorbeer 5 doges zonder opnieuw te beginnen"</string>
 
     <string name="Friends">"Vrienden"</string>
-    <string name="Dots_Eaten_">"Dots Gegeten:"</string>
+    <string name="Dots_Eaten_">"Punten Gegeten:"</string>
     <string name="Blobs_Eaten_">"Blobs Gegeten:"</string>
     <string name="Blobs_Lost_">"Blobs Verloren:"</string>
     <string name="Mass_Gained_">"Massa Verkregen:"</string>
@@ -254,7 +254,7 @@
     <string name="Game_Size_">"Spel Grootte:"</string>
 
     <string name="Server_Restart_">"Server Herstart"</string>
-    <string name="GOAL_">"GOAL!"</string>
+    <string name="GOAL_">"Doel punt!"</string>
     <string name="SOCCER">"VOETBAL"</string>
     <string name="DRAW">"GELIJKSPEL"</string>
 
@@ -296,8 +296,9 @@
     <string name="A_clan_with_that_name_already_exists_">"Er bestaat al een clan met deze naam."</string>
     <string name="Duration_">"Tijdsduur:"</string>
 
-    <string name="FFA_Time_Domination">"FFA Time Overheersing"</string>
-    <string name="Teams_Time_Domination">"Teams Time Overheersing"</string>
+    <string name="FFA_Time_Domination">"FFA Tijd Overheersing"</string>
+    <string name="Teams_Time_Domination">"Fout: OKE
+Goed: OKÉ Tijd Overheersing"</string>
     <string name="CTF_Domination">"CTF Overheersing"</string>
     <string name="CTF_Hat_Trick">"CTF Hattrick"</string>
     <string name="Survival_Domination">"Survival Overheersing"</string>
