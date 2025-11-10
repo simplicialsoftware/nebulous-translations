@@ -1006,7 +1006,7 @@
     <string name="Allow_Ultraclick">Permite Ultraclick</string>
     <string name="Allow_Mass_Boost">Permite Boost Masă</string>
     <string name="Challenges_Won_">Provocări Câștigate:</string>
-    <string name="trophy_info">Trofeele se acordă la sfârșitul fiecărui arena sau sezon de echipă pentru locul 1, 2 și 3. Trofeele sunt acordate doar în regiuni active cu mulți jucători.</string>
+    <string name="trophy_info">Trofeele se acordă la sfârșitul fiecărui arene sau sezon de echipă pentru locul 1, 2 și 3. Trofeele sunt acordate doar în regiuni active cu mulți jucători.</string>
     <string name="BLOCKED">BLOCAT</string>
     <string name="CLAN_WAR_HISTORY">ISTORIA CLAN WAR</string>
     <string name="Particle">Particule</string>
@@ -1143,7 +1143,7 @@
 
     <string name="Refund__Multiskin">Rambursare\nMultiskin</string>
     <string name="Invalid_Clan_ID_">ID clan invalid.</string>
-    <string name="MUTED">FĂRĂ SUNET</string>
+    <string name="MUTED">MUTAT</string>
     <string name="SKIN">SKIN</string>
     <string name="Choose_Skin_Size">Alege Dimensiune Skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Alți playeri nu te vor putea auzi!</string>
@@ -1242,7 +1242,7 @@
     <string name="South_Africa">Africa de Sud</string>
     <string name="SPLIT_">SPLIT:</string>
     <string name="WALLS">PEREȚI</string>
-    <string name="COMP_BANNED">BANAT COMPETIȚII </string>
+    <string name="COMP_BANNED">BANAT COMPETIȚII</string>
     <string name="FIND_GAMES">GĂSEȘTE JOCURI</string>
     <string name="PLAY_SOLO">JOACĂ SINGUR</string>
     <string name="SET_EMOTE">SETEAZĂ EMOTE</string>
