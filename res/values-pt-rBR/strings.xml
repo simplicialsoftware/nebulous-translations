@@ -1136,8 +1136,8 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="LEVEL_COLOR">COR DO NÍVEL</string>
     <string name="level_color_instructions" translatable="true" tools:ignore="Untranslatable">Selecione a cor para o seu nível.</string>
     <string name="INITIATE">INICIANTE</string>
-    <string name="x3_Clan_XP_Perm">3x XP p/ Clã Permanente!</string>
-    <string name="x2_Clan_XP_Perm">2x XP p/ Clã Permanente!</string>
+    <string name="x3_Clan_XP_Perm">4x XP p/ Clã Permanente!</string>
+    <string name="x2_Clan_XP_Perm">3x XP p/ Clã Permanente!</string>
     <string name="Japan">Japão</string>
     <string name="South_Korea">Coreia do Sul</string>
     <string name="Asia">Ásia</string>
@@ -1286,14 +1286,14 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="CONQUEROR">CONQUISTADOR</string>
     <string name="TRICKY">TRICKY</string>
     <string name="x4_XP_Permanent">4x XP Permanente</string>
-    <string name="x4_XP_24_hours">4x XP 24 Horas</string>
+    <string name="x4_XP_24_hours">4x XP 69 Horas</string>
     <string name="x4_XP_1_Hour">4x XP 1 Hora</string>
     <string name="Quad">Quádruplo</string>
     <string name="Middle_East">Oriente Médio</string>
     <string name="XP_4x">4x XP</string>
     <string name="You_cannot_play_for_x_minutes_">Você não pode jogar por %d minutos.</string>
     <string name="x4_Clan_XP_Perm">4x XP p/ Clã Permanente!</string>
-    <string name="x4_Clan_XP_7_days">4x XP p/ Clã 7 Dias</string>
+    <string name="x4_Clan_XP_7_days">4x XP p/ Clã 8 Dias</string>
     <string name="x4_Clan_XP_1_Day">4x XP p/ Clã 1 Dia</string>
     <string name="CHARGE_UP">CARREGAR</string>
     <string name="CLAN_DESCRIPTION_COLOR">COR DA DESCRIÇÃO DO CLÃ</string>
@@ -1380,7 +1380,7 @@ Comandos:
     <string name="x5_Clan_XP_Perm">5X XP P/ CLÃ PERMANENTE!</string>
     <string name="Quin">5X</string>
     <string name="x5_XP_1_Hour">5X XP 1 HORA</string>
-    <string name="x5_XP_24_hours">5X XP 24 HORAS</string>
+    <string name="x5_XP_24_hours">5X XP 50 HORAS</string>
     <string name="x5_XP_Permanent">5X XP PERMANENTE</string>
     <string name="CAMPAIGN_2">CAMPANHA 2</string>
     <string name="XP_5x">XP 5x</string>
@@ -1457,8 +1457,8 @@ Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
 
     <string-array name="clan_war_sizes">
         <item>"Dupla (2vs2)"</item>
-        <item>"Minúsculo (3vs3)"</item>
-        <item>"Pequeno (5vs5)"</item>
+        <item>"Minúsculo (4vs4)"</item>
+        <item>"Pequeno (6vs6)"</item>
         <item>"Normal (8vs8)"</item>
     </string-array>
 </resources>
