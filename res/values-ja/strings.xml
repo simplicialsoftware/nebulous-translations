@@ -1096,8 +1096,8 @@
     <string name="SET_PRIVACY">プライバシーを設定する</string>
     <string name="ANIMATION">アニメーション</string>
     <string name="Color_Cycle">カラーサイクル</string>
-    <string name="Fast">ファスト</string>
-    <string name="Slow">スロー</string>
+    <string name="Fast">高速</string>
+    <string name="Slow">低速</string>
     <string name="Rainbow">レインボー</string>
     <string name="Horizontal">水平</string>
     <string name="Vertical">垂直</string>
