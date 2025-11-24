@@ -45,7 +45,7 @@
     <string name="PLAYING">"JOGANDO"</string>
     <string name="MULTIPLAYER">"MULTIJOGADOR"</string>
 
-    <string name="JOIN">"JUNTAR"</string>
+    <string name="JOIN">"ENTRAR"</string>
 
 
     <string name="Lobby_Name">"Nome da Sala"</string>
@@ -63,7 +63,7 @@
     <string name="South_America">"Brasil"</string>
 
 
-    <string name="SINGLE_PLAYER">"ÚNICO JOGADOR"</string>
+    <string name="SINGLE_PLAYER">"UM JOGADOR"</string>
     <string name="Background_">"Fundo:"</string>
     <string name="Difficulty_">"Dificuldade:"</string>
     <string name="Delay_Disconnect">"Atrasar a Desconexão"</string>
@@ -136,9 +136,9 @@
 
     <string name="ALL">"TODOS"</string>
     <string name="FFA">"FFA"</string>
-    <string name="FFA_TIME">"FFA COM TEMPO"</string>
+    <string name="FFA_TIME">"FFA CRONOMETRADO"</string>
     <string name="TEAMS">"EQUIPES"</string>
-    <string name="TEAMS_TIME">"EQUIPES COM TEMPO"</string>
+    <string name="TEAMS_TIME">"EQUIPES CRONOMETRADO"</string>
     <string name="CTF">"CAB"</string>
     <string name="SURVIVAL">"SOBREVIVÊNCIA"</string>
 
@@ -227,13 +227,13 @@
     <string name="Absorb_5_doges_without_restarting">"Absorva 5 doges sem reiniciar"</string>
 
     <string name="Friends">"Amigos"</string>
-    <string name="Dots_Eaten_">"Pontos Comidos:"</string>
-    <string name="Blobs_Eaten_">"Blobs Comidos:"</string>
+    <string name="Dots_Eaten_">"Pontos Absorvidos:"</string>
+    <string name="Blobs_Eaten_">"Blobs Absorvidos:"</string>
     <string name="Blobs_Lost_">"Blobs Perdidos:"</string>
     <string name="Mass_Gained_">"Massa Ganhada:"</string>
     <string name="Mass_Ejected_">"Massa Ejetada:"</string>
-    <string name="Times_Ejected_">"Vezes Ejetado:"</string>
-    <string name="Times_Split_">"Vezes Dividido:"</string>
+    <string name="Times_Ejected_">"Ejeções:"</string>
+    <string name="Times_Split_">"Divisões:"</string>
     <string name="Biggest_Blob_">"Maior Blob:"</string>
     <string name="Highest_Score_">"Maior Pontuação:"</string>
     <string name="Average_Score_">"Pontuação Média:"</string>
@@ -296,16 +296,16 @@
     <string name="A_clan_with_that_name_already_exists_">"Um clã com este nome já existe."</string>
     <string name="Duration_">"Duração:"</string>
 
-    <string name="FFA_Time_Domination">"Dominador do FFA com Tempo"</string>
-    <string name="Teams_Time_Domination">"Dominador de Equipes com Tempo"</string>
+    <string name="FFA_Time_Domination">"Dominador do FFA Cronometrado"</string>
+    <string name="Teams_Time_Domination">"Dominador de Equipes Cronometrado"</string>
     <string name="CTF_Domination">"Dominador do CAB"</string>
     <string name="CTF_Hat_Trick">"Hat-Trick do CAB"</string>
     <string name="Survival_Domination">"Dominador de Sobrevivência"</string>
     <string name="I_Will_Survive">"Eu vou sobreviver"</string>
     <string name="Soccer_Domination">"Dominador do Futebol"</string>
     <string name="Soccer_Hat_Trick">"Hat-Trick do Futebol"</string>
-    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Ganhar por 2.500 pontos em um jogo de FFA com Tempo."</string>
-    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Ganhar por 7.500 pontos em um jogo de Equipes com Tempo"</string>
+    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Ganhar por 2.500 pontos em um jogo de FFA Cronometrado."</string>
+    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Ganhar por 7.500 pontos em um jogo de Equipes Cronometrado."</string>
     <string name="Win_by_3_points_in_a_CTF_game_">"Vencer por 3 pontos em um jogo de CAB."</string>
     <string name="Score_3_points_in_a_single_CTF_game_">"Ganhar 3 pontos em um único jogo de CAB."</string>
     <string name="Win_by_2_500_points_in_a_Survival_game_">"Vencer por 2,500 pontos em um jogo de Sobrevivência."</string>
@@ -326,11 +326,11 @@
 
     <string name="COMPLETE">"COMPLETO"</string>
     <string name="INCOMPLETE">"INCOMPLETO"</string>
-    <string name="Win_a_FFA_Time_Game">"Vencer um Jogo de FFA com Tempo"</string>
+    <string name="Win_a_FFA_Time_Game">"Vencer um Jogo de FFA Cronometrado"</string>
     <string name="Win_a_CTF_Game">"Vencer um Jogo de CAB</string>
     <string name="Win_a_Soccer_Game">"Vencer um Jogo de Futebol"</string>
     <string name="Win_a_Survival_Game">"Vencer um Jogo de Sobrevivência"</string>
-    <string name="Win_a_Teams_Time_Game">"Vencer um Jogo de Equipes com Tempo"</string>
+    <string name="Win_a_Teams_Time_Game">"Vencer um Jogo de Equipes Cronometrado"</string>
     <string name="Reach_a_score_of_">"Atinja uma pontuação de "</string>
     <string name="_in_a_FFA_Game">" em um Jogo de FFA"</string>
     <string name="_in_a_Teams_Game">" em um Jogo de Equipes"</string>
@@ -346,7 +346,7 @@
     <string name="To_use_this_skin_you_must_collect">"Para usar esta skin, você deve coletar"</string>
     <string name="Australia">"Austrália"</string>
     <string name="Pumpkin_Collector">"Coletor de Abóboras"</string>
-    <string name="Collect_1000_pumpkins_">"Coletar 1000 abóboras."</string>
+    <string name="Collect_1000_pumpkins_">"Coletar 1.000 abóboras."</string>
 
     <string name="FFAC">"FFAC"</string>
     <string name="NONE">"NENHUM"</string>
@@ -422,7 +422,7 @@
     <string name="Please_Wait___">"Por favor, aguarde…"</string>
     <string name="Purchasing">"Comprando"</string>
 
-    <string name="Purchase_Successful_">"Compra bem-sucedida."</string>
+    <string name="Purchase_Successful_">"Compra realizada com sucesso."</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Talvez você precise se reconectar para usar a compra."</string>
     <string name="Confirm_Purchase">"Confirmar Compra"</string>
     <string name="x3_XP_24_hours">"3x XP 24 Horas"</string>
@@ -525,13 +525,13 @@
     <string name="Start_Clan_War">"Começar uma Guerra de Clã"</string>
     <string name="Min_Level">"Nível Mínimo"</string>
     <string name="SAVE">"SALVAR"</string>
-    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Este jogador não cumpriu a exigência de nível mínimo para se juntar a este clã:"</string>
+    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Este jogador não cumpriu a exigência de nível mínimo para entrar no clã:"</string>
     <string name="Insufficient_Permission">"Permissões Insuficientes"</string>
     <string name="DOMINATION">"DOMINAÇÃO"</string>
     <string name="DOM_Domination">"Dominador da Dominação"</string>
     <string name="DOM_Hat_Trick">"Hat-Trick da Dominação"</string>
     <string name="Win_by_50_points_in_a_DOM_game_">"Vencer por 50 pontos em um jogo de Dominação."</string>
-    <string name="Score_33_points_in_a_single_DOM_game_">"Marcar 33 pontos em um único jogo Dominação"</string>
+    <string name="Score_33_points_in_a_single_DOM_game_">"Marcar 33 pontos em um único jogo de Dominação"</string>
     <string name="Win_a_Domination_Game">"Ganhar um jogo de Dominação"</string>
     <string name="Select_Team">"Selecionar Equipe"</string>
     <string name="MANAGE_TEAMS">"GERENCIAR EQUIPES"</string>
@@ -564,7 +564,7 @@
     <string name="Leave_Game">"Sair do Jogo"</string>
     <string name="Remove_Friend">"Remover Amigo"</string>
     <string name="Remove_Clan_Member">"Remover Membro do Clã"</string>
-    <string name="Flag_lobby_as_inappropriate">"Denunciar sala como inapropriada"</string>
+    <string name="Flag_lobby_as_inappropriate">"Sinalizar sala como inapropriada"</string>
     <string name="Promote_Clan_Member">"Promover Membro do Clã"</string>
     <string name="Leave_Clan">"Sair do Clã"</string>
     <string name="Candy_Hoarder">"Colecionador de Doces"</string>
@@ -575,7 +575,7 @@
     <string name="Collect_10_000_candies_">"Colete 10.000 doces."</string>
     <string name="candies_">"doces."</string>
     <string name="Language">"Idioma"</string>
-    <string name="Control_Opacity_">"Opacidade do Controlador:"</string>
+    <string name="Control_Opacity_">"Opacidade dos Controles:"</string>
     <string name="You_dont_own_the_team_">"Você não é dono da equipe:"</string>
     <string name="User_has_already_been_invited_">"O usuário já foi convidado."</string>
     <string name="Maximum_players_allowed_on_the_team_">"Máximo de jogadores permitidos na equipe:"</string>
@@ -687,9 +687,9 @@
     <string name="Moon_Collector">"Coletor de Luas"</string>
     <string name="Moon_Hoarder">"Colecionador de Luas"</string>
     <string name="Moon_Mogul">"Magnata de Luas"</string>
-    <string name="Collect_1_000_moons_">"Colete 1,000 luas."</string>
-    <string name="Collect_5_000_moons_">"Colete 5,000 luas."</string>
-    <string name="Collect_10_000_moons_">"Colete 10,000 luas."</string>
+    <string name="Collect_1_000_moons_">"Colete 1.000 luas."</string>
+    <string name="Collect_5_000_moons_">"Colete 5.000 luas."</string>
+    <string name="Collect_10_000_moons_">"Colete 10.000 luas."</string>
     <string name="BLUETOOTH">"BLUETOOTH"</string>
     <string name="HOST">"HOST"</string>
     <string name="This_device_does_not_support_bluetooth_">"Este dispositivo não suporta Bluetooth."</string>
