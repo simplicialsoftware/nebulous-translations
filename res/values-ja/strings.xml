@@ -508,7 +508,7 @@
     <string name="Clan_Wars_Won_">"勝ったクラン戦争の数 : "</string>
     <string name="Arenas_Won_">"勝ったアリーナゲームの数 : "</string>
     <string name="Arena_Mode">"アリーナモード"</string>
-    <string name="Connection_Lost">"切断されました。"</string>
+    <string name="Connection_Lost">"切断されました"</string>
 
     <string name="Present_Hoarder">"プレゼント箱貯蓄の達人"</string>
     <string name="Present_Mogul">"プレゼントをもぐもぐ"</string>
@@ -673,8 +673,8 @@
     <string name="nebulas_">"星雲"</string>
     <string name="Incompatible_versions_">"このバージョンでは利用できません"</string>
     <string name="Update_Available_">"利用可能なバージョンです"</string>
-    <string name="VIEW_INVITES">"招待した人"</string>
-    <string name="CLAN_INVITES">"クランに招待した人"</string>
+    <string name="VIEW_INVITES">"招待状を見る"</string>
+    <string name="CLAN_INVITES">"クラン招待状"</string>
     <string name="Cancel_Invitation">"招待を取り消す"</string>
     <string name="DOWNLOAD">"ダウンロード"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"招待を全て拒否しますか？"</string>
@@ -891,7 +891,7 @@
     <string name="REMOVE">除去する</string>
     <string name="BAN">禁止</string>
     <string name="MODERATORS">モデレーター</string>
-    <string name="ALL_CLAN">すべてのクラン</string>
+    <string name="ALL_CLAN">全ての\nクラン</string>
     <string name="CO_LEADER">Coリーダー</string>
     <string name="CLAN_HOUSE">クランハウス</string>
 
