@@ -763,9 +763,9 @@
     <string name="Grant_Permission">"グラント許可"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"シングルプレイヤーの進行状況をバックアップするにはネビュラスにストレージ権限が必要です"</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Bluetoothに接続するには端末とBluetooth機器が近くにないといけません。"</string>
-    <string name="FFA_ULTRA">"ULTRA FFA"</string>
+    <string name="FFA_ULTRA">"個人戦（ウルトラ）"</string>
     <string name="FFAU">"FFAU"</string>
-    <string name="_in_a_FFAU_Game">"FFA ULTRAゲームで"</string>
+    <string name="_in_a_FFAU_Game">"個人戦（ウルトラ）ゲームで"</string>
 
     <string name="BANNED_PLAYERS">"禁止プレイヤー"</string>
     <string name="MAIL">"郵便物"</string>
