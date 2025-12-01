@@ -766,7 +766,7 @@
 
     <string name="BANNED_PLAYERS">"JUGADORES BANEADOS"</string>
     <string name="MAIL">"CORREO"</string>
-    <string name="WRITE_MAIL">"ESCRIBIR MENSAJE"</string>
+    <string name="WRITE_MAIL">"ESCRIBIR CORREO"</string>
     <string name="Days">"Días"</string>
     <string name="Message">"Mensaje:"</string>
     <string name="Subject">"Asunto:"</string>
