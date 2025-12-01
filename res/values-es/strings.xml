@@ -1274,7 +1274,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Background_Scale_">Escala del Fondo:</string>
     <string name="Background_Lightness_">Brillo del Fondo:</string>
     <string name="Background_Image_">Imagen de Fondo:</string>
-    <string name="INVERT_SELECTION">INVERTIR\nSELECCIÓN</string>
+    <string name="INVERT_SELECTION">INVERTIR SELECCIÓN</string>
     <string name="MINIMAP">MINIMAPA</string>
     <string name="Victorious">Victorioso</string>
     <string name="Dominant">Dominante</string>
