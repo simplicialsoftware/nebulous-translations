@@ -789,7 +789,7 @@
     <string name="Clan_Hero">"Héroe del Clan"</string>
     <string name="Win_1000_Clan_Wars">"Gana 1.000 guerras de clanes"</string>
     <string name="NAME_COLOR">"COLOR DEL NOMBRE"</string>
-    <string name="name_color_instructions">"Selecciona los caracteres que deseas cambiar y luego selecciona el color para cambiarlos."</string>
+    <string name="name_color_instructions">"Selecciona los caracteres que deseas modificar y luego selecciona el color para cambiarlos."</string>
     <string name="Cannot_change_this_character_">"No se puede cambiar este carácter"</string>
     <string name="ZOMBIE_APOCALYPSE">"APOCALIPSIS ZOMBI"</string>
     <string name="Survive_a_Zombie_Apocalypse">"Sobrevive a un Apocalipsis Zombi"</string>
