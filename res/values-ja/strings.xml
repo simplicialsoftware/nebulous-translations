@@ -1285,7 +1285,7 @@
     <string name="MEGA_SPLIT">MEGAスプリット64x</string>
     <string name="Missing_Permissions">Missing Permissions</string>
     <string name="DELETE_ACCOUNT">アカウントを削除する</string>
-    <string name="delete_prompt">アカウントを削除してもよろしいですか？これは元に戻せません！</string>
+    <string name="delete_prompt">アカウントを削除してもよろしいですか？これは取り消せません！</string>
 
 
     <string name="Type">これを入力してください：</string>
@@ -1309,7 +1309,7 @@
     <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
     <string name="activate">Activate</string>
     <string name="clan_id">クランID</string>
-    <string name="language_change_warning">Changing the language will cause the app to restart.</string>
+    <string name="language_change_warning">言語を変更するには、アプリケーションを再起動する必要があります。<string>
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
     <string name="no_response">No response from server. Please check the internet connection.</string>
     <string name="RAMADAN">ラマダン</string>
