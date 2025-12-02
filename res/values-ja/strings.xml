@@ -1117,7 +1117,7 @@
     <string name="PUBLIC">公開</string>
     <string name="PRIVATE">非公開</string>
     <string name="Joined">参加しました</string>
-    <string name="Requests">リクエスト</string>
+    <string name="Requests">要請</string>
     <string name="Invites">招待状</string>
     <string name="Show_Spectator_Count">Show Spectator Count</string>
     <string name="TRY_IT_">TRY IT!</string>
@@ -1153,8 +1153,8 @@
     <string name="Other_players_will_not_be_able_to_hear_you_">Other players will not be able to hear you!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Allow permission to enable voice recording.</string>
     <string name="voice_chat_prompt">Content rating of the app may change with voice chat enabled. For best audio use a headset.</string>
-    <string name="Only_leader_can_answer_requests_">Only leader can answer requests.</string>
-    <string name="Sent_request_not_invited_">リクエスト送信済み（未招待）。</string>
+    <string name="Only_leader_can_answer_requests_">リーダーのみが要請に応答できます。/string>
+    <string name="Sent_request_not_invited_">要請送信済み（未招待）。</string>
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">コミュニティからこのスキンを削除する！</string>
     <string name="This_cannot_be_undone_">これは取り消せません！</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Watch a video to get a temporary boost for %d lives!</string>
