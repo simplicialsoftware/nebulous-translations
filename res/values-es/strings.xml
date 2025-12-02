@@ -1370,7 +1370,7 @@ Comandos:
     <string name="Defenders">Defensores</string>
     <string name="Attackers">Atacantes</string>
     <string name="MEGA_SPLIT">MEGA SEPARARSE 64x</string>
-    <string name="Missing_Permissions">Permisos Pendientes</string>
+    <string name="Missing_Permissions">Permisos Faltantes</string>
     <string name="DELETE_ACCOUNT">ELIMINAR CUENTA</string>
     <string name="delete_prompt">¿Estás seguro de que deseas eliminar tu cuenta? ¡Esto es PERMANENTE y NO SE PUEDE DESHACER!</string>
 
