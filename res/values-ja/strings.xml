@@ -1154,7 +1154,7 @@
     <string name="Other_players_will_not_be_able_to_hear_you_">Other players will not be able to hear you!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Allow permission to enable voice recording.</string>
     <string name="voice_chat_prompt">Content rating of the app may change with voice chat enabled. For best audio use a headset.</string>
-    <string name="Only_leader_can_answer_requests_">リーダーのみが要請に応答できます。/string>
+    <string name="Only_leader_can_answer_requests_">リーダーのみが要請に応答できます。</string>
     <string name="Sent_request_not_invited_">要請送信済み（未招待）。</string>
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">コミュニティからこのスキンを削除する！</string>
     <string name="This_cannot_be_undone_">これは取り消せません！</string>
