@@ -1284,7 +1284,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="HERO">HÉROE</string>
     <string name="CHAMPION">CAMPEÓN</string>
     <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">¡No puedes ganar EXP o plasma en modo sandbox!</string>
-    <string name="DASH">LÁNZATE</string>
+    <string name="DASH">CORRE</string>
     <string name="setting_changed">Ajustes actualizados. Es posible que deba volver a conectarse al servidor para que surta efecto.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Realiza 10,000 trucos en MODO TRICKS.</string>
     <string name="Tricky">Tricky</string>
