@@ -97,8 +97,8 @@
     <string name="XP_">"نقاط الخبرة:"</string>
 
     <string name="Information">"معلومات"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"لاستخدام هذه الصورة يجب أن تحقق الإنجاز"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"لاستخدام هذه الصورة يجب أن تصل إلى المستوى"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"لإستخدام هذا الجلد يجب أن تحقق الإنجاز"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"لإستخدام هذا الجلد يجب أن تصل إلى المستوى"</string>
     <string name="SIGN_IN">"تسجيل الدخول"</string>
 
     <string name="Single_Player_Stats">"إحصائيات لاعب واحد"</string>
@@ -1306,20 +1306,20 @@
     <string name="Battle_Royale">صِراع حتى النهاية!</string>
     <string name="The_winner_will_receive_x_plasma_">الفائِز سوف يَحصُل على %s بلازما!</string>
     <string name="admin_commands">"
-Commands:
-!kick [0–31]
-!reset
-!welcome {message}
-!difficulty [0-3] or [1-4] for Campaign
-!hidden
-!guests
-!slowchat
-!pausechat
-!mute {id}
-!admin {id}
-!allow {id}
-!allow reset
-!winner"
+Commands:الأوامر 
+!kick [0–31] طرد[31-0]! 
+!reset إعادة!
+!welcome {message}  مرحبا بك {رسالة}! 
+!difficulty [0-3] or [1-4] for Campaign صعوبة [3-0] أو [4-1] للحملة! 
+!hidden إخفاء! 
+!guests زوار! 
+!slowchat تعطيل الدردشة! 
+!pausechat إيقاف الدردشة! 
+!mute {id} كتم {رقم هوية الحساب}! 
+!admin {id} مُشرِف {رقم هوية الحساب}! 
+!allow {id} سماح {رقم هوية الحساب}! 
+!allow reset سماح بإعادة! 
+!winner" الفائز! 
 </string>
     <string name="ID_Sort">نوع الهوية</string>
     <string name="Master_Tamer">مُروِّض مُتقن</string>
@@ -1343,7 +1343,7 @@ Commands:
     <string name="x5_Clan_XP_1_Day">مسرع العشيرةX5  لمدة يوم واحد </string>
     <string name="x5_Clan_XP_7_days">مسرع العشيرةX5  لمدة سبع ايام</string>
     <string name="x5_Clan_XP_Perm">5X مسرع العشيرة دائم</string>
-    <string name="Quin">5X</string>
+    <string name="Quin">5X</string> 
     <string name="x5_XP_1_Hour">  مسرع X5 لمدة ساعة</string>
     <string name="x5_XP_24_hours">مسرع X5 لمدة 24ساعة</string>
     <string name="x5_XP_Permanent">مسرع دائم X5</string>
@@ -1360,17 +1360,15 @@ Commands:
     <string name="RAMADAN">رمضان</string>
     <string name="SUDDEN_ATTACK">هجوم مفاجئ</string>
 
-    <string name="sign_in_explanation" translatable="true">
+    <string name="sign_in_explanation" translatable="true"> "شرح تسجيل الدخول" 
 قم بتسجيل الدخول  للعِب الجماعي."
 
 ستتمكن من:
 - اللعب والتواصل مع لاعبين آخرين حول العالم
 - مشاركة تقدمك مع اللاعبين
 - إنشاء وتخصيص الملف الشخصي
-- شراء البلازما في المتجر
-- يمكنك تحميل جلود مجتمع اللاعبين
-
-"إذا كنت لا ترغب في تسجيل الدخول، يمكنك أيضًا اللعب الفردي.
+- شراء البلازما من المتجر
+- يمكنك تحميل جلود مجتمع الدخول"إذا كنت لا ترغب في تسجيل الدخول، يمكنك أيضًا اللعب الفردي.
     </string>
     <string name="_2x_skin_resolution">2X دقة الجلد</string>
     <string name="pm">الخاص</string>
@@ -1414,7 +1412,7 @@ Commands:
     </string-array>
 
     <string-array name="sizes">
-        <item>"صغير جدا"</item>
+        <item>"صغير اللاعبينجرا"</item>
         <item>"صغير"</item>
         <item>"عادي"</item>
         <item>"كبير"</item>
@@ -1422,7 +1420,7 @@ Commands:
     </string-array>
 
     <string-array name="clan_war_sizes">
-        <item>"صغير (٢ضد٢)"</item>
+        <item>"صغير جدًا (٢ضد٢)"</item>
         <item>"صغير (٣ضد٣)"</item>
         <item>"عادي (٥ضد٥)"</item>
         <item>"كبير (٨ضد٨)"</item>
