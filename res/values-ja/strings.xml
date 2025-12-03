@@ -673,7 +673,7 @@
     <string name="nebulas_">"星雲"</string>
     <string name="Incompatible_versions_">"このバージョンでは利用できません"</string>
     <string name="Update_Available_">"利用可能なバージョンです"</string>
-    <string name="VIEW_INVITES">"招待状を見る"</string>
+    <string name="VIEW_INVITES">"招待状を表示"</string>
     <string name="CLAN_INVITES">"クラン招待状"</string>
     <string name="Cancel_Invitation">"招待を取り消す"</string>
     <string name="DOWNLOAD">"ダウンロード"</string>
