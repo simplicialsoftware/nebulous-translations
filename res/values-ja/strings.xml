@@ -673,7 +673,7 @@
     <string name="nebulas_">"星雲"</string>
     <string name="Incompatible_versions_">"このバージョンでは利用できません"</string>
     <string name="Update_Available_">"利用可能なバージョンです"</string>
-    <string name="VIEW_INVITES">"招待状を見る"</string>
+    <string name="VIEW_INVITES">"招待状を表示"</string>
     <string name="CLAN_INVITES">"クラン招待状"</string>
     <string name="Cancel_Invitation">"招待を取り消す"</string>
     <string name="DOWNLOAD">"ダウンロード"</string>
@@ -1046,7 +1046,7 @@
     <string name="Sell">販売</string>
     <string name="community_skin_requirement">コミュニティを使用するには『カスタムスキンを有効にする』を購入する必要がありますskins.</string>
     <string name="You_can_purchase_this_community_skin_for_">このコミュニティスキンは次の目的で購入できます</string>
-    <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">コミュニティスキンは他のプレイヤーから送られます。コミュニティスキンは、カスタムスキンと同様に機能し、標準スキンと連動させることができます。</string>
+    <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">コミュニティスキンは他のプレイヤーから贈られます。コミュニティスキンは、カスタムスキンと同じように使え、標準スキンと組み合わせることができます。</string>
     <string name="VIEW_UPLOADER">アップローダーを表示</string>
     <string name="POPULAR">人気</string>
     <string name="NEW">新しい</string>
