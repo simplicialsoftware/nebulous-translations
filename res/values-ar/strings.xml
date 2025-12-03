@@ -1422,7 +1422,7 @@ Commands:
     </string-array>
 
     <string-array name="clan_war_sizes">
-        <item>"صغير (٢ضد٢)"</item>
+        <item>"صغير جدًا (٢ضد٢)"</item>
         <item>"صغير (٣ضد٣)"</item>
         <item>"عادي (٥ضد٥)"</item>
         <item>"كبير (٨ضد٨)"</item>
