@@ -153,7 +153,8 @@
     <string name="Dot_Gobbler">"Guloso de Pontos"</string>
     <string name="Dot_Devourer">"Devorador de Pontos"</string>
     <string name="Dot_Gormandizer">"Gordice de Pontos"</string>
-    <string name="Dot_Sommelier">"Escançador de Pontos"</string>
+    <string name="Dot_Sommelier">"Supremacia de Pontos"</string>
+    <string name="Dot_Deity">Divindade dos Pontos</string>
 
     <string name="Quadra_Gulp">"Devorador Quádruplo"</string>
     <string name="Multi_Gulp">"Multi Devorador"</string>
@@ -184,7 +185,10 @@
     <string name="Ultramassive">"Ultramassivo"</string>
     <string name="Rapid_Ascension">"Ascensão Rápida"</string>
     <string name="Revenge">"Vingança"</string>
-    <string name="Doge_Pound">"Libra dos Doges"</string>
+    <string name="Doge_Pound">"Canil dos Doges"</string>
+
+	<string name="Mass_Mastery">Domínio de Massa</string>
+    <string name="Gain_100_000_000_mass">Obtenha 100,000,000 de massa</string>
 
     <string name="Absorb_50_dots">"Absorva 50 pontos"</string>
     <string name="Absorb_300_dots">"Absorva 300 pontos"</string>
@@ -194,6 +198,7 @@
     <string name="Absorb_50_000_dots">"Absorva 50.000 pontos"</string>
     <string name="Absorb_100_000_dots">"Absorva 100.000 pontos"</string>
     <string name="Absorb_1_000_000_dots">"Absorva 1.000.000 pontos"</string>
+	<string name="Absorb_10_000_000_dots">Absorva 10,000,000 pontos</string>
 
     <string name="Absorb_4_blobs_quickly">"Absorva 4 blobs rapidamente"</string>
     <string name="Absorb_8_blobs_quickly">"Absorva 8 blobs rapidamente"</string>
@@ -260,7 +265,6 @@
 
     <string name="Clan_Name">"Nome do Clã"</string>
     <string name="Clan">"Clã"</string>
-
 
     <string name="JOIN_CLAN">"ENTRAR NO CLÃ"</string>
     <string name="JOIN_RANDOM_CLAN">"ENTRAR EM UM CLÃ ALEATÓRIO"</string>
@@ -638,7 +642,7 @@
     <string name="You_Are_Spectating_">"Você Está Observando."</string>
     <string name="Account_In_Use_">"Conta Em Uso!"</string>
     <string name="Cannot_Join_Arena_">"Não pode entrar na Arena."</string>
-    <string name="Signing_out_will_disconnect_you_from_the_current_game">"Deslogando irá desconectá-lo do jogo atual!"</string>
+    <string name="Signing_out_will_disconnect_you_from_the_current_game">"Deslogar irá desconectá-lo do jogo atual!"</string>
     <string name="raindrops_">"gotas de chuva."</string>
     <string name="Raindrop_Collector">"Coletor de Gotas de Chuva"</string>
     <string name="Raindrop_Hoarder">"Colecionador de Gotas de Chuva"</string>
@@ -969,7 +973,7 @@ Caso você não cumpra nenhuma dessas regras, sua conta poderá ser banida.\n
 \n
 Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     </string>
-    <string name="Blob_Chat_Bubbles">Bolhas do Chat no Blob</string>
+    <string name="Blob_Chat_Bubbles">Balão de Chat no Blob</string>
     <string name="CHRISTMAS_ADVENT_SKINS">CHEGADA DO NATAL</string>
     <string name="You_cannot_open_this_present_yet_">Você ainda não pode abrir este presente!</string>
     <string name="Open_Present">Abrir Presente</string>
@@ -1082,10 +1086,6 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     </string>
     <string name="PLAY_ONLINE_">JOGAR ONLINE!</string>
 
-    <string name="Absorb_10_000_000_dots">Absorva 10,000,000 pontos</string>
-    <string name="Dot_Deity">Divindade dos Pontos</string>
-    <string name="Mass_Mastery">Domínio de Massa</string>
-    <string name="Gain_100_000_000_mass">Obtenha 100,000,000 de massa</string>
     <string name="VET">VET</string>
     <string name="Mute">Silenciar</string>
     <string name="Unmute">Dessilenciar</string>
@@ -1332,7 +1332,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="FIND_GAMES">ENCONTRAR JOGOS</string>
     <string name="PLAY_SOLO">JOGAR SOZINHO</string>
     <string name="SET_EMOTE">DEFINIR EMOTE</string>
-    <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
+    <string name="Winner_Winner_Chicken_Dinner">Virou Realeza!</string>
     <string name="Win_a_Battle_Royale_">Ganhe um jogo de Batalha Real.</string>
     <string name="Battle_">Batalha!</string>
     <string name="BATTLE_ROYALE">BATALHA REAL</string>
