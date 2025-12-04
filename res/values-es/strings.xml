@@ -915,7 +915,7 @@
     <string name="x2_Clan_XP_7_Days">"2x EXP Clan 7 días"</string>
     <string name="RECEIVED">"RECIBIDO"</string>
     <string name="SENT">"ENVIADO"</string>
-    <string name="Enable_Invites">"Activar Invitaciones"</string>
+    <string name="Enable_Invites">"Habilitar Invitaciones"</string>
     <string name="Game_Invitation">"Invitación a un Juego"</string>
     <string name="__has_invited_you_to_join_their_game_">"%s te ha invitado a unirse a su juego!"</string>
     <string name="Invitation_declined_">"¡Invitación rechazada!"</string>
