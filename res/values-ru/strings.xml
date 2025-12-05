@@ -2,11 +2,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <string name="Players">"Игроки"</string>
-    <string name="Control_">"Управление:"</string>
+    <string name="Control_">"Настройки управления:"</string>
     <string name="CLOSE">"ЗАКРЫТЬ"</string>
-    <string name="Stick_Size_">"Размер джойстика:"</string>
+    <string name="Stick_Size_">"Масштаб джойстика:"</string>
     <string name="Stick_Margin_">"Отрыв джойстика:"</string>
-    <string name="Button_Size_">"Размер кнопок:"</string>
+    <string name="Button_Size_">"Масштаб кнопок:"</string>
     <string name="Button_Margin_">"Отрыв кнопок:"</string>
     <string name="Buttons_">"Кнопки:"</string>
     <string name="DEFAULTS">"ВОССТАНОВИТЬ ПО УМОЛЧАНИЮ"</string>
@@ -17,7 +17,7 @@
     <string name="Show_Names">"Отображать никнеймы"</string>
     <string name="Show_Avatars">"Отображать скины"</string>
     <string name="PLAY">"ИГРАТЬ"</string>
-    <string name="OPTIONS">"НАСТРОЙКИ"</string>
+    <string name="OPTIONS">"ПАРАМЕТРЫ"</string>
 
     <string name="Avatar_">"Скин:"</string>
     <string name="Name_">"Никнейм:"</string>
@@ -41,7 +41,7 @@
     <string name="WINNER_">"ПОБЕДИТЕЛЬ:"</string>
     <string name="IDLE">"ОФЛАЙН"</string>
     <string name="Name_Invalid_">"Имя недействительно."</string>
-    <string name="Name_Taken_">"Имя уже занято."</string>
+    <string name="Name_Taken_">"Имя уже используется."</string>
     <string name="CONNECTED">"Подключение"</string>
     <string name="JOINING___">"Присоединение…"</string>
     <string name="PLAYING">"ИГРАТЬ"</string>
@@ -981,7 +981,7 @@
     <string name="Halos">Свечения</string>
     <string name="CAMPAIGN">Кампания</string>
     <string name="Mission">Миссия</string>
-    <string name="Kill_All_Bots">Убейте всех ботов</string>
+    <string name="Kill_All_Bots">Уничтожьте всех ботов</string>
     <string name="Survive">Выживите</string>
     <string name="Mission_d_Complete">Миссия %d выполнена!</string>
     <string name="Mission_d_Failed">Миссия %d провалена!</string>
@@ -992,7 +992,7 @@
     <string name="Name_Opacity_">Прозрачность имен:</string>
     <string name="SET_PROFILE_PIC">Установить изобр. профиля</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">Принять все запросы дружбы!</string>
-    <string name="App_Perf_Stats">Производительность приложения</string>
+    <string name="App_Perf_Stats">Статистика производительности игры</string>
     <string name="COPY">КОПИРОВАТЬ</string>
     <string name="_1v1_Ultra">1v1 Ультра</string>
     <string name="ArenaDescriptionUltra">Победитель получит %s плазмы.</string>
@@ -1268,10 +1268,10 @@
     <string name="SPLIT_">Разделение:</string>
     <string name="WALLS">Стены</string>
     <string name="COMP_BANNED">БАН В СОРЕВНОВАНИЯХ</string>
-    <string name="FIND_GAMES">ИСКАТЬ ИГРЫ</string>
-    <string name="PLAY_SOLO">ИГРАТЬ ОДНОМУ</string>
+    <string name="FIND_GAMES">НАЙТИ ИГРЫ</string>
+    <string name="PLAY_SOLO">ОДИНОЧНАЯ ИГРА</string>
     <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">Ваше устройство имеет нестабильное соединение с сервером. Это вызывает подвисания в игре. Пожалуйста смените WIFI или измените провайдер. Так-же убедитесь, что вы играете на ближайшем к вам сервере.</string>
-    <string name="SET_EMOTE">УСТАНОВИТЬ ЭМОЦИЮ</string>
+    <string name="SET_EMOTE">НАЗНАЧИТЬ ЭМОЦИЮ</string>
     <string name="Winner_Winner_Chicken_Dinner">Выигрыш есть - можно поесть!</string>
     <string name="Win_a_Battle_Royale_">Выиграть в режиме королевская битва.</string>
     <string name="Battle_">В бой!</string>
@@ -1294,7 +1294,7 @@
 </string>
     <string name="ID_Sort">Сортировать по ID</string>
     <string name="Master_Tamer">Главный укротитель</string>
-    <string name="Get_ALL_Pets_To_Level_100_">Довести ВСЕХ питомцев до уровня 100</string>
+    <string name="Get_ALL_Pets_To_Level_100_">Прокачайте ВСЕХ питомцев до уровня 100</string>
     <string name="TAMER">УКРОТИТЕЛЬ</string>
     <string name="Allow_Recombine">Разрешить рекомбинацию</string>
     <string name="Defenders">Защитники</string>
@@ -1309,7 +1309,7 @@
     <string name="Complete_campaign_mission_">Выполните миссию кампании</string>
     <string name="Specify_Reason_">Указать причину:</string>
     <string name="FREE_FOR_ALL">ПРОТИВ ВСЕХ</string>
-    <string name="SPECIAL">СПЕЦИАЛЬНЫЕ</string>
+    <string name="SPECIAL">ОСОБЫЕ</string>
     <string name="FREE">БЕСПЛАТНО</string>
     <string name="x5_Clan_XP_1_Day">5X КЛАНОВЫЙ XP НА 1 ДЕНЬ</string>
     <string name="x5_Clan_XP_7_days">5X КЛАНОВЫЙ XP НА 7 ДНЕЙ</string>
@@ -1355,9 +1355,9 @@
         <item>"Классическое"</item>
         <item>"Свободное (джойстик появится на том месте, где вы нажмёте)"</item>
         <item>"Перемещение к"</item>
-        <item>"Уволакивание"</item>
+        <item>"Перетаскивание"</item>
         <item>"Двигаться при нажатии"</item>
-        <item>"Наклон"</item>
+        <item>"Наклон устройства"</item>
     </string-array>
 
     <string-array name="button_modes">
@@ -1389,7 +1389,7 @@
         <item>"Маленькое"</item>
         <item>"Нормальное"</item>
         <item>"Большое"</item>
-        <item>"HUGE"</item>
+        <item>"ОГРОМНОЕ"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
