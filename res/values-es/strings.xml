@@ -1,4 +1,4 @@
-﻿<resources xmlns:tools="http://schemas.android.com/tools">
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"Jugadores"</string>
     <string name="Control_">"Control:"</string>
     <string name="CLOSE">"CERRAR"</string>
@@ -48,7 +48,7 @@
     <string name="JOIN">"UNIRSE"</string>
 
 
-    <string name="Lobby_Name">"Nombre de la sala"</string>
+    <string name="lobby_name">"Nombre de la sala"</string>
     <string name="Not_found_">"No encontrado "</string>
 
     <string name="Hidden">"Oculto"</string>
@@ -71,7 +71,7 @@
     <string name="Max_Players">"Jugadores máximos"</string>
     <string name="Min_Players">"Jugadores mínimos"</string>
 
-    <string name="OK">"VALE"</string>
+    <string name="OK">"ACEPTAR"</string>
     <string name="CANCEL">"CANCELAR"</string>
     <string name="Chat_Name">"Nombre del chat"</string>
     <string name="Max_People">"Personas máximas"</string>
@@ -357,7 +357,7 @@
     <string name="Searching">"Buscando…"</string>
     <string name="In_Progress">"En progreso"</string>
 
-    <string name="Wins">"Ganadas"</string>
+    <string name="Wins">"VICTORIAS"</string>
 
     <string name="Score">"Puntuación"</string>
     <string name="Rating">"Calificación"</string>
@@ -1270,7 +1270,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Opponent_Rating_Limit_">Límite de calificación del oponente:</string>
     <string name="TOGGLE_FAVORITE">ALTERNAR FAVORITO</string>
     <string name="Favorited">Favorito</string>
-    <string name="Unfavorited">No favorito</string>
+    <string name="Unfavorited">un favorito</string>
     <string name="Background_Scale_">Escala del Fondo:</string>
     <string name="Background_Lightness_">Brillo del Fondo:</string>
     <string name="Background_Image_">Imagen de Fondo:</string>
