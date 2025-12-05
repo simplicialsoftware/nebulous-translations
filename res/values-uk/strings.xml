@@ -436,7 +436,7 @@
 
     <string name="Loading_Purchases___">"Завантаження покупок…"</string>
     <string name="In_App_Purchases">"Покупки всередині гри"</string>
-    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Неможливо застосувати новий буст досвіду, поки поточний буст не завершився."</string>
+    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Неможливо застосувати нове посилення досвіду, поки діє поточне посилення."</string>
     <string name="This_purchase_has_already_been_redeemed_">"Ця покупка вже погашена."</string>
 
     <string name="You_cannot_remove_yourself__Leave_clan_instead_">"Ви не можете видалити себе. Вийдіть з клану."</string>
@@ -454,7 +454,7 @@
     <string name="Copy_ID">"Скопіювати ID"</string>
     <string name="View_Profile">"Переглянути профіль"</string>
     <string name="Send_Message">"Надіслати повідомлення"</string>
-    <string name="Account_ID">"ID акаунта"</string>
+    <string name="Account_ID">"ID аккаунту"</string>
     <string name="Player_Name">"Ім'я гравця"</string>
 
     <string name="Daily_Reward">"Щоденна нагорода"</string>
@@ -472,7 +472,7 @@
     <string name="ENTER">"ВВІЙТИ"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Практика"</string>
-    <string name="ArenaDescription">"Ви маєте тiльки одне життя. Переможець отримає %s плазми. Продані або безкоштовні перемоги закінчаться баном."</string>
+    <string name="ArenaDescription">"Ви маєте тiльки одне життя. Переможець отримає %s плазми. Гра в команді або дарування перемоги карається баном."</string>
     <string name="Contestant">"Суперник"</string>
     <string name="Duelist">"Дуеліст"</string>
     <string name="Gladiator">"Гладіатор"</string>
@@ -485,7 +485,7 @@
 
     <string name="Already_in_arena_">"Вже в арені"</string>
     <string name="Already_in_queue_">"Вже у черзі"</string>
-    <string name="Invalid_Account_ID_">"Некоректний ID акаунта"</string>
+    <string name="Invalid_Account_ID_">"Некоректний ID акаунту"</string>
 
     <string name="Validating">"Стверджування"</string>
 
@@ -506,7 +506,7 @@
     <string name="Clan_Wars_Won_">"Виграно кланових вiйн:"</string>
     <string name="Arenas_Won_">"Арен виграно:"</string>
     <string name="Arena_Mode">"Режим арена"</string>
-    <string name="Connection_Lost">"Зв'язок втрачено"</string>
+    <string name="Connection_Lost">"З'єднання втрачено"</string>
 
     <string name="Present_Hoarder">"Накопичувач подарункiв"</string>
     <string name="Present_Mogul">"Колекцiонер подарункiв"</string>
@@ -544,11 +544,11 @@
     <string name="Solo">"Соло"</string>
     <string name="Teams">"Команди"</string>
     <string name="Team">"Команда"</string>
-    <string name="Specify_Account_ID">"Вкажіть ID акаунта"</string>
+    <string name="Specify_Account_ID">"Вкажіть ID акаунту"</string>
     <string name="Team_Created_">"Команда створена!"</string>
     <string name="Team_Arena">"Командна арена"</string>
     <string name="No_Teams">"Немає команд"</string>
-    <string name="team_arena_info">"Після створення команди Ви зможете запрошувати і видаляти гравцiв безкоштовно. Крім того, Ви зможете безкоштовно грати у команднi матчі. Ви не зможете змінити назву Вашої команди пiсля створення!"</string>
+    <string name="team_arena_info">"Після створення команди ви зможете запрошувати і видаляти гравцiв безкоштовно. Крім того, ви зможете безкоштовно грати у команднi матчі. Ви не зможете змінити назву вашої команди пiсля створення!"</string>
 
 
     <string name="Invited">"Запрошений"</string>
@@ -598,7 +598,7 @@
 
     <string name="Enable_Custom_Skin">"Включити кастомні скіни"</string>
     <string name="Use_Custom_Skin">"Використовувати кастомний скін"</string>
-    <string name="custom_skin_description">"Ця функція дозволяє використовувати фотографію або файл в якості Вашого скiна. Це змінить тільки скiн який Ви бачите. Інші люди не бачитимуть Вашого кастомного скiна."</string>
+    <string name="custom_skin_description">"Ця функція дозволяє використовувати фотографію або файл в якості вашого скiна. Це змінить тільки скiн який ви бачите. Інші люди не бачитимуть Вашого кастомного скiна."</string>
     <string name="CUSTOM_SKIN">"КАСТОМНИЙ СКIН"</string>
 
     <string name="Facebook_Profile">"Facebook профіль"</string>
@@ -698,9 +698,9 @@
     <string name="edit">"Редагувати"</string>
     <string name="start_clan_war">"Почати вiйну кланiв"</string>
     <string name="join_clan_war">"Приєднатися до кланової війни"</string>
-    <string name="none">" пусто"</string>
+    <string name="none">"Пусто"</string>
     <string name="INVALID_TOKEN">"Некоректний знак!"</string>
-    <string name="banned_until">"забанено до "</string>
+    <string name="banned_until">"Забанено до"</string>
     <string name="Note_Collector">"Збирач нот"</string>
     <string name="Note_Hoarder">"Накопичувач нот"</string>
     <string name="Note_Mogul">"Колекціонер нот"</string>
@@ -708,7 +708,7 @@
     <string name="Collect_5_000_notes_">"Зібрати 5,000 нот"</string>
     <string name="Collect_10_000_notes_">"Зібрати 10,000 нот"</string>
     <string name="notes_">"ноти "</string>
-    <string name="CLICK_CHEAT_DETECTED_">"ВИЯВЛЕНО ОБМАН З КЛІКАМИ!"</string>
+    <string name="CLICK_CHEAT_DETECTED_">"ВИЯВЛЕНО АВТОКЛІКЕР!"</string>
     <string name="Pumpkin_Hoarder">"Накопичувач гарбузів"</string>
     <string name="Pumpkin_Mogul">"Колекціонер гарбузів"</string>
     <string name="Leaf_Mogul">"Колекціонер листя"</string>
@@ -733,7 +733,7 @@
     <string name="In_Review">"Розглядається"</string>
     <string name="Account_Uploads">"Завантаження на акаунті"</string>
     <string name="Clan_Uploads">"Завантаження клану"</string>
-    <string name="Empty">"Порожній"</string>
+    <string name="Empty">"Пусто"</string>
     <string name="Select">"Вибрати"</string>
     <string name="Current_Skin">"Поточний скін"</string>
     <string name="Status">"Статус"</string>
@@ -747,8 +747,8 @@
     <string name="ARENA_HISTORY">"ІСТОРІЯ АРЕН"</string>
     <string name="WIN">"ПЕРЕМОГА"</string>
     <string name="LOSS">"ПОРАЗКА"</string>
-    <string name="Other_players_can_not_see_your_skin_">"Інші гравці не можуть бачити Ваш скін."</string>
-    <string name="Other_players_can_see_your_skin_">"Інші гравці можуть бачити Ваш скін."</string>
+    <string name="Other_players_can_not_see_your_skin_">"Інші гравці не можуть бачити ваш скін."</string>
+    <string name="Other_players_can_see_your_skin_">"Інші гравці можуть бачити ваш скін."</string>
     <string name="LEGEND">"ЛЕГЕНДА"</string>
     <string name="Win_10000_Arenas">"Виграти в 10,000 аренах"</string>
     <string name="UPLOAD_PREVIEW">"Перегляд завантаження"</string>
@@ -785,23 +785,23 @@
     <string name="Failed_to_send_mail_">"Не вдалося надіслати листа"</string>
     <string name="In_Game_Mail">"Пошта всередині гри"</string>
     <string name="Nav_Buttons_">"Кнопки навігації:"</string>
-    <string name="account_warning">"Ніколи не повідомляйте свій пароль від акаунта або особисту інформацію будь-кому з якої б то не було причини!"</string>
+    <string name="account_warning">"Ніколи не повідомляйте свій пароль від акаунту або особисту інформацію будь-кому з якої б то не було причини!"</string>
     <string name="Clan_Hero">"Герой клану"</string>
     <string name="Win_1000_Clan_Wars">"Виграти 1,000 кланових війн"</string>
-    <string name="NAME_COLOR">"КОЛІР НАЗВИ"</string>
+    <string name="NAME_COLOR">"КОЛІР ІМЕНІ"</string>
     <string name="name_color_instructions">"Виділіть символи, які потрібно змінити, і виберіть колір, щоб змінити їх."</string>
     <string name="Cannot_change_this_character_">"Неможливо змінити цей символ "</string>
     <string name="ZOMBIE_APOCALYPSE">"ЗОМБІ АПОКАЛІПСИС"</string>
-    <string name="Survive_a_Zombie_Apocalypse">"Вижити в Зомбі Апокаліпсису"</string>
+    <string name="Survive_a_Zombie_Apocalypse">"Вижити в зомбі апокаліпсисісі"</string>
     <string name="ZA">"З.А."</string>
     <string name="Pandemic">"Пандемія"</string>
     <string name="Immunity">"Імунітет"</string>
-    <string name="Win_as_zombies_in_2_minutes_or_less_">"Перемогти як зомбі за 2 хвилини або менше"</string>
-    <string name="Win_as_survivors_with_no_losses_">"Перемогти як той, що вижив, без будь-яких втрат"</string>
+    <string name="Win_as_zombies_in_2_minutes_or_less_">"Перемогти за зомбі за 2 хвилини або менше"</string>
+    <string name="Win_as_survivors_with_no_losses_">"Перемогти за виживших, без будь-яких втрат"</string>
     <string name="ZOMBIE_">"ЗОМБІ!"</string>
-    <string name="SURVIVOR_">"ТОЙ, ЩО ВИЖИВ!"</string>
+    <string name="SURVIVOR_">"ВИЖИВШИЙ!"</string>
     <string name="Zombies">"Зомбі"</string>
-    <string name="Survivors">"Ті, що залишилися в живих"</string>
+    <string name="Survivors">"Виживші"</string>
     <string name="Enter_a_Tournament">"Ввійти в турнір"</string>
     <string name="Win_a_Tournament">"Виграти турнір"</string>
     <string name="Tournament_Competing">"Турнірні змагання"</string>
