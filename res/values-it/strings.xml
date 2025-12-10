@@ -38,8 +38,8 @@
     <string name="Recombine_">"Ricombinare tra: "</string>
     <string name="WINNER_">"VINCITORE:"</string>
     <string name="IDLE">"INATTIVO"</string>
-    <string name="Name_Invalid_">"Nome non valido."</string>
-    <string name="Name_Taken_">"Nome già in uso."</string>
+    <string name="Name">"Nome non valido."</string>
+    <string name="_Taken_">"Nome già in uso."</string>
     <string name="CONNECTED">"CONNESSO"</string>
     <string name="JOINING___">"UNENDOSI…"</string>
     <string name="PLAYING">"IN GIOCO"</string>
@@ -48,7 +48,7 @@
     <string name="JOIN">"ENTRA"</string>
 
 
-    <string name="Lobby_Name">"Nome della stanza"</string>
+    <string name="Lobby_">"Nome della stanza"</string>
     <string name="Not_found_">"Non trovata."</string>
 
     <string name="Hidden">"Nascosta"</string>
@@ -63,7 +63,7 @@
     <string name="South_America">America Del Sud"</string>
 
 
-    <string name="SINGLE_PLAYER">"GIOCATORE SINGOLO"</string>
+    <string name=_PLAYER">"GIOCATORE SINGOLO"</string>
     <string name="Background_">"Sfondo:"</string>
     <string name="Difficulty_">"Difficoltà:"</string>
     <string name="Delay_Disconnect">"Ritarda la disconnessione"</string>
@@ -77,7 +77,7 @@
     <string name="Max_People">"Giocatori massimi"</string>
     <string name="START">"INIZIA"</string>
     <string name="CREATE">"CREA"</string>
-    <string name="CUSTOM_GAMES">"PARTITE PERSONALIZZATE"</string>
+    <string name="CUSTOM_GAMES">"PARTITE IZZATE"</string>
     <string name="CHAT">"CHAT"</string>
     <string name="CUSTOM_SETUP">"IMPOSTAZIONI PERSONALIZZATE"</string>
     <string name="CHAT_SETUP">"IMPOSTAZIONI DELLA CHAT"</string>
@@ -90,15 +90,16 @@
     <string name="Yellow_Team">"Squadra Gialla"</string>
     <string name="Signed_in_as_">"Connesso come:"</string>
     <string name="Not_signed_in_">"Non connesso al profilo!"</string>
-    <string name="SET_NAME">"IMPOSTA NOME"</string>
+    <string name="SET_N
+    ">"IMPOSTA NOME"</string>
     <string name="SIGN_OUT">"ESCI"</string>
     <string name="ACHIEVEMENTS">"OBIETTIVI"</string>
     <string name="STATISTICS">"STATISTICHE"</string>
     <string name="XP_">"XP:"</string>
 
     <string name="Information">"Informazioni"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Per utilizzare questa skin devi completare l\'obiettivo"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Per utilizzare questa skin devi raggiungere il livello"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Per utilizzare  skin devi completare l\'obiettivo"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Per utilizzare questa skin devi  il livello"</string>
     <string name="SIGN_IN">"ACCEDI"</string>
 
     <string name="Single_Player_Stats">"Statistiche Giocatore Singolo"</string>
@@ -110,14 +111,14 @@
     <string name="FRIENDS">"AMICI"</string>
     <string name="Warning">"Attenzione"</string>
     <string name="SIGNING_IN">"ACCESSO IN CORSO"</string>
-    <string name="New_Friend_Request">"Nuova richiesta di amicizia"</string>
+    <string name="New_Friend_Request">"Nuova richiesta  amicizia"</string>
     <string name="REQUEST_FRIEND">"RICHIEDI AMICIZIA"</string>
     <string name="Private">"Privato"</string>
     <string name="Public">"Pubblico"</string>
     <string name="Bot">"Bot"</string>
     <string name="You">"Tu"</string>
     <string name="This_player_is_a_bot">"Questo giocatore è un bot"</string>
-    <string name="This_player_is_not_signed_in">"Questo giocatore non è connesso ad un profilo"</string>
+    <string name="This_player_is_not_signed_in">"Questo giocatore non è  ad un profilo"</string>
 
     <string name="Online">"Connesso"</string>
     <string name="Unknown">"Sconosciuto"</string>
