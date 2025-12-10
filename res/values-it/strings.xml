@@ -38,8 +38,8 @@
     <string name="Recombine_">"Ricombinare tra: "</string>
     <string name="WINNER_">"VINCITORE:"</string>
     <string name="IDLE">"INATTIVO"</string>
-    <string name="Name_Invalid_">"Nome non valido."</string>
-    <string name="Name_Taken_">"Nome già in uso."</string>
+    <string name="Name">"Nome non valido."</string>
+    <string name="_Taken_">"Nome già in uso."</string>
     <string name="CONNECTED">"CONNESSO"</string>
     <string name="JOINING___">"UNENDOSI…"</string>
     <string name="PLAYING">"IN GIOCO"</string>
@@ -48,7 +48,7 @@
     <string name="JOIN">"ENTRA"</string>
 
 
-    <string name="Lobby_Name">"Nome della stanza"</string>
+    <string name="Lobby_">"Nome della stanza"</string>
     <string name="Not_found_">"Non trovata."</string>
 
     <string name="Hidden">"Nascosta"</string>
@@ -63,7 +63,7 @@
     <string name="South_America">America Del Sud"</string>
 
 
-    <string name="SINGLE_PLAYER">"GIOCATORE SINGOLO"</string>
+    <string name=_PLAYER">"GIOCATORE SINGOLO"</string>
     <string name="Background_">"Sfondo:"</string>
     <string name="Difficulty_">"Difficoltà:"</string>
     <string name="Delay_Disconnect">"Ritarda la disconnessione"</string>
@@ -77,31 +77,32 @@
     <string name="Max_People">"Giocatori massimi"</string>
     <string name="START">"INIZIA"</string>
     <string name="CREATE">"CREA"</string>
-    <string name="CUSTOM_GAMES">"PARTITE PERSONALIZZATE"</string>
+    <string name="CUSTOM_GAMES">"PARTITE IZZATE"</string>
     <string name="CHAT">"CHAT"</string>
     <string name="CUSTOM_SETUP">"IMPOSTAZIONI PERSONALIZZATE"</string>
     <string name="CHAT_SETUP">"IMPOSTAZIONI DELLA CHAT"</string>
 
 
-    <string name="ACCOUNT">"PROFILO"</string>
-    <string name="Red_Team">"Squadra Rossa"</string>
-    <string name="Green_Team">"Squadra Verde"</string>
-    <string name="Blue_Team">"Squadra Blu"</string>
-    <string name="Yellow_Team">"Squadra Gialla"</string>
+    <string name="ACCOUNT">"account "</string>
+    <string name="Red_Team">"group  Rossa"</string>
+    <string name="Green_Team">"a team  Verde"</string>
+    <string name="Blue_Team">"Tim  Blu"</string>
+    <string name="Yellow_Team">"a team  Gialla"</string>
     <string name="Signed_in_as_">"Connesso come:"</string>
-    <string name="Not_signed_in_">"Non connesso al profilo!"</string>
-    <string name="SET_NAME">"IMPOSTA NOME"</string>
+    <string name="Not_signed_in_">"Non Offline  al profilo!"</string>
+    <string name="SET_N
+    ">"IMPOSTA NOME"</string>
     <string name="SIGN_OUT">"ESCI"</string>
     <string name="ACHIEVEMENTS">"OBIETTIVI"</string>
     <string name="STATISTICS">"STATISTICHE"</string>
     <string name="XP_">"XP:"</string>
 
     <string name="Information">"Informazioni"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Per utilizzare questa skin devi completare l\'obiettivo"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Per utilizzare questa skin devi raggiungere il livello"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Per utilizzare  skin  completare l\'obiettivo"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Per utilizzare questa skin devi  il livello"</string>
     <string name="SIGN_IN">"ACCEDI"</string>
 
-    <string name="Single_Player_Stats">"Statistiche Giocatore Singolo"</string>
+    <string name="Single_Player_Stats">"Statistiche a team  Singolo"</string>
 
     <string name="Level">"Livello"</string>
     <string name="PAUSED">"PAUSA"</string>
@@ -110,14 +111,14 @@
     <string name="FRIENDS">"AMICI"</string>
     <string name="Warning">"Attenzione"</string>
     <string name="SIGNING_IN">"ACCESSO IN CORSO"</string>
-    <string name="New_Friend_Request">"Nuova richiesta di amicizia"</string>
+    <string name="New_Friend_Request">"Nuova richiesta  amicizia"</string>
     <string name="REQUEST_FRIEND">"RICHIEDI AMICIZIA"</string>
-    <string name="Private">"Privato"</string>
+    <string name="Private">"general "</string>
     <string name="Public">"Pubblico"</string>
     <string name="Bot">"Bot"</string>
     <string name="You">"Tu"</string>
     <string name="This_player_is_a_bot">"Questo giocatore è un bot"</string>
-    <string name="This_player_is_not_signed_in">"Questo giocatore non è connesso ad un profilo"</string>
+    <string name="This_player_is_not_signed_in">"Questo giocatore non è  ad un profilo"</string>
 
     <string name="Online">"Connesso"</string>
     <string name="Unknown">"Sconosciuto"</string>
@@ -125,7 +126,7 @@
     <string name="Achievement_Earned">"Obiettivo raggiunto"</string>
     <string name="REFRESH">"RICARICA"</string>
     <string name="DONE">"FATTO"</string>
-    <string name="Friend_Request_Sent">"Richiesta di amicizia inviata"</string>
+    <string name="Friend_Request_Sent">"Richiesta di amicizia connected  inviata"</string>
     <string name="ERROR">"ERRORE"</string>
     <string name="CONTINUE">"CONTINUA"</string>
     <string name="Global_" formatted="false">"Globale"</string>
@@ -146,14 +147,15 @@
     <string name="Clan_XP">"XP del Clan"</string>
 
 
-    <string name="Dot_Nibbler">"Sgranocchiatore di pallini"</string>
-    <string name="Dot_Muncher">"Assaggiatore di pallini"</string>
-    <string name="Dot_Eater">"Mangiatore di pallini"</string>
-    <string name="Dot_Gulper">"Divoratore di pallini"</string>
+    <string name="Dot_Nibbler">"Sgranocchiatore  pallini"</string>
+    <string name="Dot_Muncher">"Assaggiatore  pallini"</string>
+    <string name="Dot_Eater">"Mangiatore  pallini"</string>
+    <string name="Dot_Gulper">"Divoratore d
+
     <string name="Dot_Gobbler">"Ingordo di pallini"</string>
-    <string name="Dot_Devourer">"Macinatore di pallini"</string>
-    <string name="Dot_Gormandizer">"Golosone di pallini"</string>
-    <string name="Dot_Sommelier">"Sommelier di pallini"</string>
+    <string name="Dot_Devourer">"Macinatore  pallini"</string>
+    <string name="Dot_Gormandizer">"Golosone  pallini"</string>
+    <string name="Dot_Sommelier">"Sommelier  pallini"</string>
 
     <string name="Quadra_Gulp">"Quad Combo"</string>
     <string name="Multi_Gulp">"Multi Combo"</string>
@@ -181,7 +183,7 @@
     <string name="Dodgey">"Schivatore"</string>
     <string name="Self_Contained">"Autosufficiente"</string>
     <string name="Survivalist">"Survivalista"</string>
-    <string name="Ultramassive">"Ultramassiccio"</string>
+    <string name="Ultramassive">"tramassiccio"</string>
     <string name="Rapid_Ascension">"Ascensione Rapida"</string>
     <string name="Revenge">"Vendetta"</string>
     <string name="Doge_Pound">"Accalappiacani"</string>
@@ -327,10 +329,10 @@
     <string name="COMPLETE">"COMPLETATA"</string>
     <string name="INCOMPLETE">"NON COMPLETATA"</string>
     <string name="Win_a_FFA_Time_Game">"Vinci una partita TCT a Tempo"</string>
-    <string name="Win_a_CTF_Game">"Vinci una partita CLB"</string>
-    <string name="Win_a_Soccer_Game">"Vinci una partita di Calcio"</string>
-    <string name="Win_a_Survival_Game">"Vinci una partita di Sopravvivenza"</string>
-    <string name="Win_a_Teams_Time_Game">"Vinci una partita Squadre a Tempo"</string>
+    <string name="Win_a_CTF_Game">"Vici una partita CLB"</string>
+    <string name="Win_a_Soccer_Game">"Vici una partita di Calcio"</string>
+    <string name="Win_a_Survival_Game">"Vici una partita di Sopravvivenza"</string>
+    <string name="Win_a_Teams_Time_Game">"Vici una partita Squadre a Tempo"</string>
     <string name="Reach_a_score_of_">"Raggiungi il punteggio di"</string>
     <string name="_in_a_FFA_Game">" in una partita TCT"</string>
     <string name="_in_a_Teams_Game">" in una partita Squadre"</string>
@@ -414,7 +416,7 @@
     <string name="Purchases_Unavailable_">"Acquisti non disponibili!"</string>
     <string name="You_can_purchase_this_skin_for">"Puoi comprare questa skin per"</string>
     <string name="PURCHASE">"ACQUISTA"</string>
-    <string name="Error_in_backup_data_">"Errore nei dati di backup!"</string>
+    <string name="Error_in_backup_data_">"Errore  dati di backup!"</string>
 
 
     <string name="Remove_Ads">"Rimuovi gli annunci"</string>
@@ -1331,7 +1333,7 @@ Comandi:
     <string name="_2x_skin_resolution">Doppia risoluzione skin</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Voi siete già amici.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">"L'account deve essere stato creato da almeno 1 giorno per spedire le mail."</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">"L'account deve essere stato creato Da almeno 1 giorno per spedire le mail."</string>
     <string name="Translator">Traduttore</string>
     <string name="SUCCESS">SUCCESS</string>
 
