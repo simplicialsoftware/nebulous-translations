@@ -297,7 +297,7 @@
     <string name="Wins">"Wygrywają"</string>
     <string name="Score">"Wynik"</string>
     <string name="Rating">"Ocena"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"Czy na pewno chcesz mianować tą osobę Liderem Klanu?\nUważaj! Ta opcja jest bardzo ryzykowna."</string>
+    <string name="You_are_about_to_make_a_new_leader_">"Czy na pewno chcesz mianować tę osobę Liderem Klanu?\nUważaj! Ta opcja jest bardzo ryzykowna."</string>
     <string name="XP">"XP"</string>
     <string name="High_Score">"Wysoki wynik"</string>
     <string name="_3v3">"3vs3"</string>
@@ -348,7 +348,7 @@
     <string name="x2_XP_24_Hour">"x2 XP na dzień"</string>
     <string name="x2_XP_1_Hour">"x2 XP na godzinę"</string>
     <string name="Cost_">"Cena:"</string>
-    <string name="You_cannot_purchase_this_right_now_">"Obecnie nie możesz tego kupić."</string>
+    <string name="You_cannot_purchase_this_right_now_">"Nie możesz teraz tego kupić."</string>
     <string name="Loading_Purchases___">"Ładowanie Zakupów…"</string>
     <string name="In_App_Purchases">"Zakupy w Aplikacji"</string>
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Nie można zastosować nowego mnożnika do XP, dopóki obecny mnożnik nie wygaśnie."</string>
@@ -388,7 +388,7 @@
     <string name="Win_100_Arenas_">"Wygraj 100 Aren."</string>
     <string name="Win_1000_Arenas">"Wygraj 1.000 Aren."</string>
     <string name="Already_in_arena_">"Jesteś już na Arenie."</string>
-    <string name="Already_in_queue_">"Już jesteś w kolejce."</string>
+    <string name="Already_in_queue_">"Jesteś w kolejce."</string>
     <string name="Invalid_Account_ID_">"Nieprawidłowy ID Konta."</string>
     <string name="Validating">"Potwierdzanie"</string>
     <string name="Randomize">"Wylosuj Nową Misję"</string>
@@ -612,7 +612,7 @@
     <string name="contribution_warning">"Czy na pewno chcesz wpłacić tę plazmę? Nie ma możliwości jej zwrotu."</string>
     <string name="Upload">"PRZEŚLIJ"</string>
     <string name="upload_warning">"Czy na pewno chcesz przesłać tę skórkę tak, aby inni gracze mogli ją zobaczyć? Rozpatrzenie skórki może potrwać do tygodnia. Nieodpowiednie skórki będą odrzucane i nie będą zwracane!"</string>
-    <string name="In_Review">"W Toku Rozpatrzenia"</string>
+    <string name="In_Review">"W trakcie rozpatrywania"</string>
     <string name="Account_Uploads">"Moje Skórki"</string>
     <string name="Clan_Uploads">"Klanowe Skórki"</string>
     <string name="Empty">"Brak"</string>
@@ -621,7 +621,7 @@
     <string name="Status">"Status:"</string>
     <string name="upload_size_failure">"Nie można przesłać tego obrazu, ponieważ jest zbyt duży. Spróbuj użyć innego obrazu."</string>
     <string name="CONTRIBUTE_PLASMA">"PRZEKAŻ PLAZMĘ"</string>
-    <string name="Specify_Contribution_Amount">"Określ ilość przesyłanej Plazmy:"</string>
+    <string name="Specify_Contribution_Amount">"Podaj ilość plazmy do przekazania:"</string>
     <string name="Clan_Contribution">"Składka Klanowa"</string>
     <string name="FILTER">"FILTRUJ"</string>
     <string name="List_Count_">"Wyników na Liście:"</string>
@@ -666,7 +666,7 @@
     <string name="Failed_to_send_mail_">"Nie udało się wysłać maila."</string>
     <string name="In_Game_Mail">"Maile w Grze"</string>
     <string name="Nav_Buttons_">"Przyciski Interfejsu:"</string>
-    <string name="account_warning">"Dbaj o bezpieczeństwo swojego konta i nigdy nie udostępniaj danych do logowania innym osobom!."</string>
+    <string name="account_warning">"Dbaj o bezpieczeństwo swojego konta i nigdy nie udostępniaj danych logowania innym osobom!."</string>
     <string name="Clan_Hero">"Klanowy Bohater"</string>
     <string name="Win_1000_Clan_Wars">"Wygraj 1.000 Wojen Klanowych."</string>
     <string name="NAME_COLOR">"KOLOR NAZWY"</string>
@@ -762,7 +762,7 @@
     <string name="Free_Agent">"Free Agent"</string>
     <string name="This_player_selected_a_different_teammate_">"Ten gracz wybrał innego członka."</string>
     <string name="muted_until">"Wyciszono do"</string>
-    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">"Ocena zawartości aplkacji może ulec zmianie podczas gry wieloosobowej."</string>
+    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">"Ocena zawartości aplikacji może ulec zmianie podczas gry wieloosobowej."</string>
     <string name="UI_Opacity_">"Przezroczystość UI:"</string>
     <string name="LOAD">"WCZYTAJ"</string>
     <string name="REMOVE">"USUŃ"</string>
@@ -791,7 +791,7 @@
     <string name="Pet">"Zwierzak"</string>
     <string name="You_can_purchase_this_pet_for">"Możesz kupić tego zwierzaka za:"</string>
     <string name="gift_to_friend">"Prezent Dla Znajomego"</string>
-    <string name="gift_purchase_warning">Nie otrzymasz tego zakupu, ponieważ zaznaczyłeś opcję Prezent Dla Znajomego. Odznacz tą opcję, jeżeli dany przedmiot chcesz kupić dla siebie. </string>
+    <string name="gift_purchase_warning">Nie otrzymasz tego zakupu, ponieważ zaznaczyłeś opcję Prezent Dla Znajomego. Odznacz tę opcję, jeżeli dany przedmiot chcesz kupić dla siebie. </string>
     <string name="x2_Clan_XP_7_Days">"Klanowy mnożnik 2x XP na 7 dni"</string>
     <string name="RECEIVED">"OTRZYMANE"</string>
     <string name="SENT">"WYSŁANE"</string>
@@ -815,7 +815,7 @@
     <string name="BLOB">"KULA"</string>
     <string name="Clan_Pet_Uploads">"Klanowe Zwierzaki"</string>
     <string name="YT">"YT"</string>
-    <string name="FREE_TODAY">"DZIŚ DARMOWE"</string>
+    <string name="FREE_TODAY">"DARMOWE DZISIAJ"</string>
     <string name="Cannot_cancel_this_skin_yet_">"Nie możesz jeszcze anulować tej skórki."</string>
     <string name="SPLIT_16X">"PODZIAŁ 16X"</string>
     <string name="SET_PUBLIC_DESCRIPTION">"USTAW PUBLICZNY OPIS"</string>
@@ -827,7 +827,7 @@
     <string name="Years">"Lat/a"</string>
     <string name="Friend_Added_">"Dodano Znajomego!"</string>
     <string name="_in_a_16x_Split_Game">" w trybie Podział 16x."</string>
-    <string name="Rules">"Zaady"</string>
+    <string name="Rules">"Zasady"</string>
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
 Zasady Nebulous\n
 \n
@@ -876,7 +876,7 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="App_Perf_Stats">"Statystyki Wydajności Aplikacji"</string>
     <string name="COPY">"SKOPIUJ"</string>
     <string name="_1v1_Ultra">"1vs1 Ultra"</string>
-    <string name="ArenaDescriptionUltra">"Zwycięzca otrzyma %s plazmy. Handel wygranymi lub „darmowyme wygrane” będą skutkować banem."</string>
+    <string name="ArenaDescriptionUltra">"Zwycięzca otrzyma %s plazmy. Handel wygranymi lub „darmowe wygrane” będą skutkować banem."</string>
     <string name="BANNED">"ZBANOWANI"</string>
     <string name="CLAN_MEMBERS">"KLANOWICZE"</string>
     <string name="CLAN_REQUESTS">"PROŚBY O DODANIE DO KLANU"</string>
@@ -900,8 +900,8 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="Select_some_text_first">"Najpierw zaznacz tekst."</string>
     <string name="Save_the_profile_first">"Najpierw zapisz profil."</string>
     <string name="Birthday">"Urodziny"</string>
-    <string name="Mass_Boost">"Ulepszenie Masy"</string>
-    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">"Ulepszenie Masy nie działa na Arenach, Turniejach, Wojnach Klanowych i w FFA Klasycznym!"</string>
+    <string name="Mass_Boost">"Wzmocnienie Masy"</string>
+    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">"Wzmocnienie Masy nie działa na Arenach, Turniejach, Wojnach Klanowych i w FFA Klasycznym!"</string>
     <string name="ArenaDescriptionPure">"BEZ Autoklika i Ultraklika. Masz tylko jedno życie. Zwycięzca otrzyma % plazmy. Handel wygranymi lub „darmowe wygrane” będą skutkować banem."</string>
     <string name="_1v1_Pure">"Klasyczne 1vs1"</string>
     <string name="Allow_Ultraclick">"Zezwól na Ultraklika"</string>
@@ -1217,7 +1217,7 @@ Jeśli nie chcesz się logować, możesz nadal grać w trybie jednego gracza."
     <string name="You_are_already_friends_">Jesteście już znajomymi.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Aby wysłać maila, konto musi mieć 1 dzień.</string>
     <string name="Translator">Tłumacz</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">SUKCES</string>
     <string-array name="control_modes">
         <item>"Domyślne"</item>
         <item>"Względne"</item>
