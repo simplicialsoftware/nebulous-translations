@@ -55,7 +55,7 @@
     <string name="Hidden">"Tersembunyi"</string>
 
 
-    <string name="SERVER">"SERVER"</string>
+    <string name="SERVER">"Pelayan"</string>
     <string name="Joining_game_in_">"Menyertai permainan dalam "</string>
     <string name="Game_Full">"Permainan Penuh"</string>
     <string name="US_East">"Amerika Timur"</string>
@@ -120,19 +120,19 @@
     <string name="This_player_is_a_bot">"Pemain ini bot."</string>
     <string name="This_player_is_not_signed_in">"Pemain ini tidak tandai masuk."</string>
 
-    <string name="Online">"Online"</string>
+    <string name="Online">"Dalam talian"</string>
     <string name="Unknown">"tidak dikenali"</string>
-    <string name="Offline">"Offline"</string>
+    <string name="Offline">"Di luar talian"</string>
     <string name="Achievement_Earned">"Capaian Diperolehi"</string>
     <string name="REFRESH">"MENYEGARKAN"</string>
     <string name="DONE">"SUDAH"</string>
     <string name="Friend_Request_Sent">"Permintaan Kawan Dihantar…"</string>
-    <string name="ERROR">"ERROR"</string>
+    <string name="ERROR">"Ralat"</string>
     <string name="CONTINUE">"BERSAMBUNG"</string>
     <string name="Global_" formatted="false">"% Global"</string>
     <string name="FRIEND_CHAT">"CHAT KAWAN"</string>
     <string name="LOBBY_NAME">"NAMA LOBI"</string>
-    <string name="NULL">"NULL"</string>
+    <string name="NULL">"Batal"</string>
 
 
     <string name="ALL">"SEMUA"</string>
@@ -274,7 +274,7 @@
     <string name="MEMBER">"AHLI"</string>
     <string name="ADMIN">"ADMIN"</string>
     <string name="LEADER">"KETUA"</string>
-    <string name="ELDER">"ELDER"</string>
+    <string name="ELDER">"Penatua"</string>
 
 
     <string name="Not_in_a_clan_">"Tidak ada klan."</string>
@@ -1248,7 +1248,7 @@
     <string name="SET_EMOTE">SET EMOTE</string>
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
     <string name="Win_a_Battle_Royale_">Win a Battle Royale.</string>
-    <string name="Battle_">Battle!</string>
+    <string name="Battle_">Pertempuran!</string>
     <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
     <string name="Battle_Royale">Battle Royale</string>
     <string name="The_winner_will_receive_x_plasma_">The winner will receive %s plasma!</string>
@@ -1285,7 +1285,7 @@ Commands:
     <string name="Specify_Reason_">Specify Reason:</string>
     <string name="FREE_FOR_ALL">FREE FOR ALL</string>
     <string name="SPECIAL">SPECIAL</string>
-    <string name="FREE">FREE</string>
+    <string name="FREE">Percuma</string>
     <string name="x5_Clan_XP_1_Day">5X CLAN XP 1 DAY</string>
     <string name="x5_Clan_XP_7_days">5X CLAN XP 7 DAYS</string>
     <string name="x5_Clan_XP_Perm">5X CLAN XP PERMANENT!</string>
@@ -1293,7 +1293,7 @@ Commands:
     <string name="x5_XP_1_Hour">5X XP 1 HOUR</string>
     <string name="x5_XP_24_hours">5X XP 24 HOURS</string>
     <string name="x5_XP_Permanent">5X XP PERMANENT</string>
-    <string name="CAMPAIGN_2">CAMPAIGN 2</string>
+    <string name="CAMPAIGN_2">Kempen 2</string>
     <string name="XP_5x">XP 5x</string>
     <string name="India">India</string>
     <string name="Tutorial">Tutorial</string>
@@ -1311,7 +1311,7 @@ Commands:
     <string name="You_are_already_friends_">You are already friends.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
     <string name="Translator">Translator</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">Kejayaan</string>
 
 
     <string-array name="control_modes">
