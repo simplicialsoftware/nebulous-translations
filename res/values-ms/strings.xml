@@ -198,7 +198,7 @@
 
     <string name="Absorb_4_blobs_quickly">"Serap 4 blobs dengan cepat"</string>
     <string name="Absorb_8_blobs_quickly">"Serap 8 blobs dengan cepat"</string>
-    <string name="Absorb_16_blobs_quickly">"Serap 16 blibs dengan cepat"</string>
+    <string name="Absorb_16_blobs_quickly">"Serap 16 blobs dengan cepat"</string>
     <string name="Absorb_24_blobs_quickly">"Serap 24 blobs dengan cepat"</string>
     <string name="Absorb_32_blobs_quickly">"Serap 32 blobs dengan cepat"</string>
     <string name="Absorb_40_blobs_quickly">"Serap 40 blobs dengan cepat"</string>
@@ -558,7 +558,7 @@
     <string name="Threats">"Ancaman"</string>
     <string name="Spam">"Spam"</string>
     <string name="Other">"Lain"</string>
-    <string name="Leave_Team">"Meninggalkan Pasukkan"</string>
+    <string name="Leave_Team">"Meninggalkan Pasukan"</string>
 
     <string name="Remove_Player">"Buang Ahli"</string>
     <string name="Reject_Invitation">"Tolak Jemputan"</string>
@@ -582,7 +582,7 @@
     <string name="Maximum_players_allowed_on_the_team_">"Pemain maksimum yang dibenar dalam pasukan:"</string>
     <string name="Name_is_already_in_use_">"Nama itu sudah dipakai oleh seorang lain."</string>
     <string name="User_is_not_in_the_team_">"Pengguna tidak berada dalam pasukan."</string>
-    <string name="You_are_not_invited_to_team_">"Kamu tidak dijemput ke dalam Pasukkan itu:"</string>
+    <string name="You_are_not_invited_to_team_">"Kamu tidak dijemput ke dalam Pasukan itu:"</string>
     <string name="Team_does_not_exist_">"Pasukan tidak wujud:"</string>
     <string name="Please_wait_a_minute_before_sending_another_report_">"Sila tunggu sebentar sebelum menghantar laporan lain."</string>
     <string name="Collect_1_000_beads_">"Kumpul 1000 manik."</string>
@@ -785,8 +785,8 @@
     <string name="Failed_to_send_mail_">"Gagal menghantar mel."</string>
     <string name="In_Game_Mail">"Mel Permainan"</string>
     <string name="Nav_Buttons_">"Butang Nav:"</string>
-    <string name="account_warning">"Jangan berkongsi password akaun akamu atau maklumat peribadi dengan sesiapa untuk apa-apa sebab!"</string>
-    <string name="Clan_Hero">"Hiro Klan"</string>
+    <string name="account_warning">"Jangan berkongsi password akaun akaunmu atau maklumat peribadi dengan sesiapa untuk apa-apa sebab!"</string>
+    <string name="Clan_Hero">"Hero Klan"</string>
     <string name="Win_1000_Clan_Wars">"Menang 1000 Perangan Klan"</string>
     <string name="NAME_COLOR">"WARNA NAMA"</string>
     <string name="name_color_instructions">"Pilih perkataan yang kamu mahu menukar kemudian pilih warna untuk menukar mereka."</string>
@@ -850,9 +850,9 @@
     <string name="Ultraclick_1_Hour">"Ultraclick 1 Jam"</string>
     <string name="Ultraclick">"Ultraclick"</string>
     <string name="May_Reduce_Lag">"(Boleh Mengurangkan Lag)"</string>
-    <string name="Ultraclick_Permanent">"Ultraclick TSepanjang Hayat"</string>
+    <string name="Ultraclick_Permanent">"Ultraclick Sepanjang Hayat"</string>
     <string name="Autoclick_Permanent">"Autoclick Sepanjang Hayat"</string>
-    <string name="x3_XP_Permanent">"3x XP Senpanjang Hayat"</string>
+    <string name="x3_XP_Permanent">"3x XP Sepanjang Hayat"</string>
     <string name="x2_XP_Permanent">"2x XP Sepanjang Hayat"</string>
     <string name="Permanent">"Sepanjang Hayat"</string>
     <string name="Apply_To_Account">"Sapukan Kepada Akaun"</string>
