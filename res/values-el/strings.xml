@@ -119,9 +119,9 @@
     <string name="This_player_is_a_bot">"Αυτός ο παίκτης είναι Ρομπότ."</string>
     <string name="This_player_is_not_signed_in">"Αυτός ο παίκτης δεν είναι συνδεδεμένος."</string>
 
-    <string name="Online">"Συνδεδεμένος"</string>
+    <string name="Online">"Online"</string>
     <string name="Unknown">"Άγνωστο"</string>
-    <string name="Offline">"Αποσυνδεδεμένος"</string>
+    <string name="Offline">"Offline"</string>
     <string name="Achievement_Earned">"Κερδίσατε το επίτευγμα"</string>
     <string name="REFRESH">"ΑΝΑΝΕΩΣΗ"</string>
     <string name="DONE">"ΕΤΟΙΜΟ"</string>
@@ -907,9 +907,9 @@
     <string name="x3_Clan_XP_7_days">3x Κλαν ΠΕ για 7 ημέρες</string>
     <string name="x3_Clan_XP_1_Day">3x Κλαν ΠΕ για 1 ημέρα</string>
     <string name="x2_Clan_XP_1_Day">2x Κλαν ΠΕ για 1 ημέρα</string>
-    <string name="Pets">Κατοικίδια</string>
-    <string name="Pet">Κατοικίδιο</string>
-    <string name="You_can_purchase_this_pet_for">Μπορείτε να αγοράσετε αυτό το κατοικίδιο για</string>
+    <string name="Pets">Ζωάκια</string>
+    <string name="Pet">Ζωάκι</string>
+    <string name="You_can_purchase_this_pet_for">Μπορείτε να αγοράσετε αυτό το ζωάκι για</string>
     <string name="gift_to_friend">Δώρο σε φίλο</string>
     <string name="gift_purchase_warning">Δεν θα παραλάβετε αυτην την αγορά επειδή διαλέξατε να χαρίσετε αυτήν την αγορά σε φίλο σας.</string>
     <string name="x2_Clan_XP_7_Days">2x Κλαν ΠΕ για 7 ημέρες</string>
@@ -931,9 +931,9 @@
     <string name="error_1">Μόνο ο ηγέτης ή ο παίκτης με το διαμαντένιο αστέρι μπορεί να στείλει μήνυμα σε όλο το Κλαν.</string>
     <string name="Hat">Καπέλο</string>
     <string name="Hats">Καπέλα</string>
-    <string name="Pet_Uploads">Ανεβάσματα κατοικιδίων</string>
+    <string name="Pet_Uploads">Ανεβάσματα Zωακιών</string>
     <string name="BLOB">ΑΜΟΡΦΗ ΜΑΖΑ</string>
-    <string name="Clan_Pet_Uploads">Ανεβάσματα Κλαν κατοικιδίων</string>
+    <string name="Clan_Pet_Uploads">Ανεβάσματα Κλαν Zωακιών</string>
     <string name="YT">YT</string>
     <string name="FREE_TODAY">ΔΩΡΕΑΝ ΣΗΜΕΡΑ!</string>
     <string name="Cannot_cancel_this_skin_yet_">Δεν μπορεί να ακυρωθεί αυτό το σκιν αυτή τη στιγμή.</string>
@@ -976,9 +976,9 @@
     <string name="BANNED">ΑΠΟΚΛΕΙΣΜΕΝΟΣ</string>
     <string name="CLAN_MEMBERS">ΜΕΛΗ ΚΛΑΝ</string>
     <string name="CLAN_REQUESTS">ΑΙΤΗΜΑΤΑ ΓΙΑ ΚΛΑΝ</string>
-    <string name="Pet_1">Κατοικίδιο 1</string>
-    <string name="Pet_2">Κατοικίδιο 2</string>
-    <string name="Second_Pet">Σας δείνει την δυνατότητα να έχετε δύο κατοικίδια!</string>
+    <string name="Pet_1">Ζωάκι 1</string>
+    <string name="Pet_2">Ζωάκι 2</string>
+    <string name="Second_Pet">Σας δείνει την δυνατότητα να έχετε δύο ζωάκια!</string>
     <string name="This_item_requires">Αυτό το πράγμα χρειάζεται</string>
     <string name="not_enough_plasma">Δεν έχεις αρκετό πλάσμα.</string>
     <string name="MARK_UNREAD">ΣΗΜΕΙΩΣΗ ΩΣ ΑΔΙΑΒΑΣΤΟ</string>
@@ -1074,7 +1074,7 @@
 
     <string name="pack_info">Όταν αγοράσετε αυτό το πακέτο με σκιν, τα σκιν θα εμφανιστούν στην αρχή της σελίδας επιλογής σκιν.</string>
 
-    <string name="EXCLUSIVE_skins_pets_hats_and_more_">ΑΠΟΚΛΕΙΣΤΙΚΑ Σκιν, Κατοικίδια, Καπέλα και αλλά!</string>
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">ΑΠΟΚΛΕΙΣΤΙΚΑ Σκιν, Ζωάκια, Καπέλα και αλλά!</string>
     <string name="BUY_NOW_">ΑΓΟΡΑΣΤΕ ΤΩΡΑ!</string>
     <string name="already_purchased">Εσύ ή ο παίκτης για τον οποίο το αγοράζετε αυτό το έχει ήδη.</string>
     <string name="Halo_Animations">Κινούμενα φωτοστέφανα</string>
@@ -1221,10 +1221,10 @@
     <string name="x4_Clan_XP_1_Day">4x Clan ΠΕ για 1 μέρα</string>
     <string name="CHARGE_UP">ΦΟΡΤΩΣΗ</string>
     <string name="CLAN_DESCRIPTION_COLOR">ΧΡΩΜΑ ΠΕΡΙΓΡΑΦΗΣ ΚΛΑΝ</string>
-    <string name="Responsible_Pet_Owner">Υπεύθυνος κάτοχος κατοικίδιου</string>
+    <string name="Responsible_Pet_Owner">Υπεύθυνος κάτοχος ζωακιού</string>
     <string name="Animal_Tamer">Δαμαστής Ζώων</string>
     <string name="Crocodile_Hunter">Κυνηγός Κροκοδείλων</string>
-    <string name="Get_A_Pet_To_Level_X_">Αυξήστε το επίπεδο του κατοικίδιου στο επίπεδο %d.</string>
+    <string name="Get_A_Pet_To_Level_X_">Αυξήστε το επίπεδο του ζωακιού στο επίπεδο %d.</string>
     <string name="plasma_boost_info">"Παίρνετε τριπλάσια πλάσμα σε οτιδήποτε που είναι μέσα στο παιχνίδι όσο η ενίσχυση είναι ενεργή! Μέσα σε αυτό είναι οι αρένες και τα τουρνουά! ΔΕΝ δουλεύει στις αγορές πλάσμα, τροχούς ή ειδικές επιβραβεύσεις."</string>
     <string name="Plasma_Boost_7_Days_">Ενίσχυση πλάσμα για 7 μέρες!!!</string>
     <string name="Plasma_Boost_1_Day_">Ενίσχυση πλάσμα για 1 μέρα!</string>
@@ -1242,7 +1242,7 @@
     <string name="SPLIT_">ΔΙΑΙΡΕΣΗ:</string>
     <string name="WALLS">ΤΟΙΧΟΙ</string>
     <string name="COMP_BANNED">COMP BANNED</string>
-    <string name="FIND_GAMES">ΑΝΑΖΗΤΗΣΗ ΠΑΙΧΝΙΔΙΩΝ</string>
+    <string name="FIND_GAMES">ΒΡΕΣ ΠΑΙΧΝΙΔΙΑ</string>
     <string name="PLAY_SOLO">ΜΟΝΑΧΙΚΟ ΠΑΙΧΝΙΔΙ</string>
     <string name="SET_EMOTE">ΘΈΣΕ ΣΥΝΑΊΣΘΗΜΑ</string>
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
@@ -1268,7 +1268,7 @@ Commands:
 </string>
     <string name="ID_Sort">ID Sort</string>
     <string name="Master_Tamer">Μάστερ Γητευτής</string>
-    <string name="Get_ALL_Pets_To_Level_100_">Αναβάθμισε ΌΛΑ τα κατοικίδια έως το επίπεδο 100</string>
+    <string name="Get_ALL_Pets_To_Level_100_">Αναβάθμισε ΌΛΑ τα ζωάκια έως το επίπεδο 100</string>
     <string name="TAMER">Κυνηγός</string>
     <string name="Allow_Recombine">Επιτρέπεται η επανένωση</string>
     <string name="Defenders">Αμυνόμενοι</string>
