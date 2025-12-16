@@ -116,7 +116,7 @@
     <string name="TEAMS_TIME">"DRUŻYNY CZASOWE"</string>
     <string name="CTF">"PRZEJMIJ FLAGĘ"</string>
     <string name="SURVIVAL">"PRZETRWANIE"</string>
-    <string name="Clan_XP">"Klanowe XP"</string>
+    <string name="Clan_XP">"XP Klanu"</string>
     <string name="Dot_Nibbler">"Kropkowy Skubacz"</string>
     <string name="Dot_Muncher">"Kropkowy Przeżuwacz"</string>
     <string name="Dot_Eater">"Kropkowy Zjadacz"</string>
@@ -366,7 +366,7 @@
     <string name="Player_Name">"Nazwa Gracza"</string>
     <string name="Daily_Reward">"Dzienna Nagroda"</string>
     <string name="Reset">"Reset"</string>
-    <string name="Plasma">"Plazmy"</string>
+    <string name="Plasma">"Plazma"</string>
     <string name="Plasma_Mogul">"Miłośnik Plazmy"</string>
     <string name="Plasma_Collector">"Kolekcjoner Plazmy"</string>
     <string name="Plasma_Hoarder">"Zbieracz Plazmy"</string>
@@ -381,7 +381,7 @@
     <string name="ArenaDescription">"Masz tylko jedno życie. Zwycięzca otrzyma %s plazmy. Handel wygranymi lub "darmowe wygrane" będą skutkować banem."</string>
     <string name="Contestant">"Zawodnik"</string>
     <string name="Duelist">"Szermierz"</string>
-    <string name="Gladiator">"Gladiatorów"</string>
+    <string name="Gladiator">"Gladiator"</string>
     <string name="Challenger">"Miłośnik Zmagań"</string>
     <string name="Win_1_1v1_Arenas_">"Wygraj Arenę 1vs1."</string>
     <string name="Win_10_Arenas_">"Wygraj 10 Aren."</string>
@@ -827,7 +827,7 @@
     <string name="Years">"Lat/a"</string>
     <string name="Friend_Added_">"Dodano Znajomego!"</string>
     <string name="_in_a_16x_Split_Game">" w trybie Podział 16x."</string>
-    <string name="Rules">"Zaady"</string>
+    <string name="Rules">"Zasady"</string>
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
 Zasady Nebulous\n
 \n
@@ -877,7 +877,7 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="COPY">"SKOPIUJ"</string>
     <string name="_1v1_Ultra">"1vs1 Ultra"</string>
     <string name="ArenaDescriptionUltra">"Zwycięzca otrzyma %s plazmy. Handel wygranymi lub „darmowyme wygrane” będą skutkować banem."</string>
-    <string name="BANNED">"ZBANOWANI"</string>
+    <string name="BANNED">"ZBANOWANY"</string>
     <string name="CLAN_MEMBERS">"KLANOWICZE"</string>
     <string name="CLAN_REQUESTS">"PROŚBY O DODANIE DO KLANU"</string>
     <string name="Pet_1">"1 Zwierzak"</string>
@@ -947,7 +947,7 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="VIEW_UPLOADER">"ZOBACZ PROFIL AUTORA"</string>
     <string name="POPULAR">"POPULARNE"</string>
     <string name="NEW">"NOWE"</string>
-    <string name="Manage_Configurations">"Zarządzaj Konfiguracją"</string>
+    <string name="Manage_Configurations">"Zarządzaj Konfiguracjami"</string>
     <string name="Leave_blank_for_all_uploaders_">"Pozostaw to pole puste, aby wyświetlić wszystkich autorów skórek bez filtrowania."</string>
     <string name="More___">"Więcej…"</string>
     <string name="This_cannot_be_used_in_FFA_Classic_">"Nie można tego używać w FFA Klasycznym."</string>
@@ -968,7 +968,7 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="Level_Colors">"Kolory Poziomów"</string>
     <string name="click_info">"Autoklik i Ultraklik nie działają w FFA Klasycznym!"</string>
     <string name="Hooked">"Uwięziony na Haku"</string>
-    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">"Utrzymaj się na wzmocnieniu "hak" przez 10 sekund w dowolnym trybie mayhem."</string>
+    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">"Utrzymaj się na haku przez 10 sekund w dowolnym trybie mayhem."</string>
     <string name="Pack">"Paczki"</string>
     <string name="Skin_Pack">"Paczka Skórek"</string>
     <string name="SKIN_PACK">"PACZKA"</string>
@@ -1123,7 +1123,7 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="Animal_Tamer">"Opiekun Zwierzaków"</string>
     <string name="Crocodile_Hunter">"Łowca Krokodyli"</string>
     <string name="Get_A_Pet_To_Level_X_">"Osiągnij %d Poziom Zwierzaka."</string>
-    <string name="plasma_boost_info">"Zyskujesz trzykrotność plazmy ze wszystkich źródeł W GRZE, gdy ulepszenie jest aktywne! Obejmuje wygrane na Arenach i w Turniejach! NIE działa podczas zakupów Plazmy, w kole Nebulous lub w nagrodach specjalnych.</string>
+    <string name="plasma_boost_info">"Zyskujesz trzykrotność plazmy ze wszystkich źródeł W GRZE, gdy ulepszenie jest aktywne! Obejmuje wygrane gry na Arenach i na Turniejach! NIE działa podczas zakupów Plazmy, w kole Nebulous lub w nagrodach specjalnych.</string>
     <string name="Plasma_Boost_7_Days_">"Mnożnik Plazmy na tydzień"</string>
     <string name="Plasma_Boost_1_Day_">"Mnożnik Plazmy na dzień"</string>
     <string name="Plasma_Boost_2_Hours_">"Mnożnik Plazmy na 2 godziny"</string>
@@ -1134,8 +1134,8 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="You_Have_Mail_">"Nowy Mail Od %s!"</string>
     <string name="Clan_Request_Reviewed_Notification">"Twoja prośba o dołączenie do klanu %s została rozpatrzona!"</string>
     <string name="CRAZY_SPLIT">"SZALONY PODZIAŁ"</string>
-    <string name="Sold_Community_Skins_">"Sprzedane Skórki Społeczności:"</string>
-    <string name="Estimated_Earnings_">"Dotychczasowe Zarobki:"</string>
+    <string name="Sold_Community_Skins_">"Sprzedane Skórki Społeczności: "</string>
+    <string name="Estimated_Earnings_">"Szacowane Zarobki: "</string>
     <string name="South_Africa">"Afryka Południowa"</string>
     <string name="SPLIT_">"PODZIAŁ:"</string>
     <string name="WALLS">"ŚCIANY"</string>
@@ -1166,7 +1166,7 @@ Komendy Admina:
 </string>
     <string name="ID_Sort">"Sortuj ID"</string>
     <string name="Master_Tamer">"Arcyopiekun"</string>
-    <string name="Get_ALL_Pets_To_Level_100_">"Uzyskaj 100 poziom na WSZYSTKICH zwierzakach."</string>
+    <string name="Get_ALL_Pets_To_Level_100_">"Osiągnij 100 poziom na WSZYSTKICH zwierzakach."</string>
     <string name="TAMER">"OPIEKUN"</string>
     <string name="Allow_Recombine">"Zezwól na Rekombinację"</string>
     <string name="Defenders">"Obrońcy"</string>
