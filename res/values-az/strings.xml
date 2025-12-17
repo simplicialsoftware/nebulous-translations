@@ -2,15 +2,15 @@
 
     <string name="Players">"Oyunçular"</string>
     <string name="Control_">"Nəzarət:"</string>
-    <string name="CLOSE">"Bağla"</string>
+    <string name="CLOSE">"BAĞLA"</string>
     <string name="Stick_Size_">"Çubuq Ölçüsü:"</string>
     <string name="Stick_Margin_">"Çubuq Kənarı"</string>
     <string name="Button_Size_">"Düymə ölçüsü:"</string>
     <string name="Button_Margin_">"Düymə kənarı:"</string>
     <string name="Buttons_">"Düymələr:"</string>
     <string name="DEFAULTS">"DEFOLTLAR"</string>
-    <string name="WEEKLY">"Həftəlik"</string>
-    <string name="DAILY">"Günlük"</string>
+    <string name="WEEKLY">"HƏFTƏLİK"</string>
+    <string name="DAILY">"GÜNLÜK"</string>
     <string name="Server_">"Server:"</string>
     <string name="Game_Mode_">"Oyun Modu:"</string>
     <string name="Show_Names">"Adları göstərin"</string>
@@ -41,10 +41,10 @@
     <string name="IDLE">"Boşda"</string>
     <string name="Name_Invalid_">"Ad etibarsızdır."</string>
     <string name="Name_Taken_">"Ad götürülüb."</string>
-    <string name="CONNECTED">"Qoşuldu"</string>
+    <string name="CONNECTED">"QOŞULDU"</string>
     <string name="JOINING___">"Qoşulur…"</string>
-    <string name="PLAYING">"Oynayır"</string>
-    <string name="MULTIPLAYER">"Çox Oyunçulu"</string>
+    <string name="PLAYING">"OYNAYIR"</string>
+    <string name="MULTIPLAYER">"ÇOX OYUNÇULU"</string>
 
     <string name="JOIN">"Qoşul"</string>
 
@@ -64,7 +64,7 @@
     <string name="South_America">"Cənubi Amerika"</string>
 
 
-    <string name="SINGLE_PLAYER">"Tək Oyunçulu"</string>
+    <string name="SINGLE_PLAYER">"TƏK OYUNÇULU"</string>
     <string name="Background_">"Fon:"</string>
     <string name="Difficulty_">"Çətinlik:"</string>
     <string name="Delay_Disconnect">"Kəsilməni gecikdirmək"</string>
@@ -78,23 +78,23 @@
     <string name="Max_People">"Maksimum İnsan"</string>
     <string name="START">"Başla"</string>
     <string name="CREATE">"Yarat"</string>
-    <string name="CUSTOM_GAMES">"Xüsusi Oyunlar"</string>
-    <string name="CHAT">"Söhbət"</string>
-    <string name="CUSTOM_SETUP">"Xüsusi Qurulum"</string>
-    <string name="CHAT_SETUP">"Söhbət Qurulumu"</string>
+    <string name="CUSTOM_GAMES">"XÜSUSİ OYUNLAR"</string>
+    <string name="CHAT">"SÖHBƏT"</string>
+    <string name="CUSTOM_SETUP">"XÜSUSİ QURULUM"</string>
+    <string name="CHAT_SETUP">"SÖHBƏT QURULUMU"</string>
 
 
-    <string name="ACCOUNT">"Hesab"</string>
+    <string name="ACCOUNT">"HESAB"</string>
     <string name="Red_Team">"Qırmızı Komanda"</string>
     <string name="Green_Team">"Yaşıl Komanda"</string>
     <string name="Blue_Team">"Mavi Komanda"</string>
     <string name="Yellow_Team">"Sarı Komanda"</string>
     <string name="Signed_in_as_">"Daxil olunub : "</string>
     <string name="Not_signed_in_">"Daxil Olmayıb!"</string>
-    <string name="SET_NAME">"Adı Qur"</string>
-    <string name="SIGN_OUT">"Çıxış et"</string>
-    <string name="ACHIEVEMENTS">"Nailiyyətlər"</string>
-    <string name="STATISTICS">"Statistika"</string>
+    <string name="SET_NAME">"ADI QUR"</string>
+    <string name="SIGN_OUT">"ÇIXIŞ ET"</string>
+    <string name="ACHIEVEMENTS">"NAİLİYYƏTLƏR"</string>
+    <string name="STATISTICS">"STATİSTİKA"</string>
     <string name="XP_">"XP:"</string>
 
     <string name="Information">"Məlumat"</string>
@@ -105,10 +105,10 @@
     <string name="Single_Player_Stats">"Tək Oyunçu Statistikası"</string>
 
     <string name="Level">"Səviyyə"</string>
-    <string name="PAUSED">"Pauza"</string>
+    <string name="PAUSED">"PAUZA"</string>
 
 
-    <string name="FRIENDS">"Dostlar"</string>
+    <string name="FRIENDS">"DOSTLAR"</string>
     <string name="Warning">"Xəbərdarlıq"</string>
     <string name="SIGNING_IN">"Daxil olur…"</string>
     <string name="New_Friend_Request">"Yeni Dost İstəyi!"</string>
@@ -135,9 +135,9 @@
     <string name="NULL">"NULL"</string>
 
 
-    <string name="ALL">"Hamısı"</string>
-    <string name="FFA">"Hərkəs Tək"</string>
-    <string name="FFA_TIME">"Hərkəs Tək(Zamanlı)"</string>
+    <string name="ALL">"HAMISI"</string>
+    <string name="FFA">"HƏRKƏS TƏK"</string>
+    <string name="FFA_TIME">"HƏRKƏS TƏK(ZAMANLI)"</string>
     <string name="TEAMS">"Komanda oyunu"</string>
     <string name="TEAMS_TIME">"Komanda oyunu (Zamanlı)"</string>
     <string name="CTF">"Bayraq Qapma"</string>
