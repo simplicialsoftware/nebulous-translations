@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="Players">"Jogadores"</string>
+    <string name="Players">"Jogadorex."</string>
     <string name="Control_">"Controle:"</string>
     <string name="CLOSE">"FECHAR"</string>
     <string name="Stick_Size_">"Tamanho do Controlador:"</string>
