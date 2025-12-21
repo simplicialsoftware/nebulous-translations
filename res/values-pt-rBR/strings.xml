@@ -1,27 +1,27 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"Jogadores"</string>
     <string name="Control_">"Controle:"</string>
-    <string name="CLOSE">"FECHAR"</string>
-    <string name="Stick_Size_">"Tamanho do Controlador:"</string>
-    <string name="Stick_Margin_">"Margem do Controlador:"</string>
-    <string name="Button_Size_">"Tamanho dos Botões:"</string>
-    <string name="Button_Margin_">"Margem dos Botões:"</string>
-    <string name="Buttons_">"Botões"</string>
-    <string name="DEFAULTS">"PADRÕES"</string>
-    <string name="WEEKLY">"SEMANAL"</string>
-    <string name="DAILY">"DIÁRIO"</string>
-    <string name="Server_">"Servidor:"</string>
-    <string name="Game_Mode_">"Modo de Jogo:"</string>
-    <string name="Show_Names">"Mostrar Nomes"</string>
-    <string name="Show_Avatars">"Mostrar Skins"</string>
-    <string name="PLAY">"JOGAR"</string>
-    <string name="OPTIONS">"OPÇÕES"</string>
+    <string name="close">"FECHAR"</string>
+    <string name="stick_size">Tamanho do Controlador:"</string>
+    <string name="stick_margin">Margem do Controlador:"</string>
+    <string name="button_size">Tamanho dos Botões:"</string>
+    <string name="button_margin">"Margem dos Botões:"</string>
+    <string name="Buttons">Botões"</string>
+    <string name="defaults">PADRÕES"</string>
+    <string name="weekly">"SEMANAL"</string>
+    <string name="daily">"DIÁRIO"</string>
+    <string name="server">"Servidor:"</string>
+    <string name="game_mode">Modo><de Jogo:"</string>
+    <string name="show_avatars">Mostrar <Nomes</string>
+    <string name="show_avatars">Mostrar <Skins</string>
+    <string name="play">JOGAR"</string>
+    <string name="options">OPÇÕES"</string>
 
-    <string name="Avatar_">"Skin:"</string>
+    <string name=avator">Skin:"</string>
     <string name="Name_">"Nome:"</string>
 
-    <string name="Loading___">"Carregando…"</string>
-    <string name="Connecting___">"Conectando…"</string>
+    <string name="loading">Carregando…"</string>
+    <string name="connecting">Conectando…"</string>
 
     <string name="Are_You_Sure_">"Você tem Certeza?"</string>
     <string name="Yes">"Sim"</string>
