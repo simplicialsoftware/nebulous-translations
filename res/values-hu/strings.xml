@@ -54,14 +54,14 @@
     <string name="Background_">"Háttér"</string>
     <string name="Difficulty_">"Nehézség"</string>
     <string name="Delay_Disconnect">"Késleltetett kilépés"</string>
-    <string name="Max_Players">"Max játékosok"</string>
-    <string name="Min_Players">"Min játékosok"</string>
+    <string name="Max_Players">"Maximum játékosok"</string>
+    <string name="Min_Players">"Minimum játékosok"</string>
     <string name="OK">"OK"</string>
-    <string name="CANCEL">"TÖRÖL"</string>
+    <string name="CANCEL">"BEZÁR"</string>
     <string name="Chat_Name">"Chat neve"</string>
-    <string name="Max_People">"Max emberek"</string>
+    <string name="Max_People">"Maximum emberek"</string>
     <string name="START">"INDUL"</string>
-    <string name="CREATE">"KÉSZÍTÉS"</string>
+    <string name="CREATE">"LÉTREHOZÁS"</string>
     <string name="CUSTOM_GAMES">"EGYEDI JÁTÉKOK"</string>
     <string name="CHAT">"CHAT"</string>
     <string name="CUSTOM_SETUP">"EGYEDI FELÉPÍTÉS"</string>
@@ -109,7 +109,7 @@
     <string name="FRIEND_CHAT">"BARÁT CHAT"</string>
     <string name="LOBBY_NAME">"LOBBY NÉV"</string>
     <string name="NULL">"NULL"</string>
-    <string name="ALL">"MINDEN"</string>
+    <string name="ALL">"ÖSSZES"</string>
     <string name="FFA">"FFA"</string>
     <string name="FFA_TIME">"FFA IDŐ"</string>
     <string name="TEAMS">"CSAPAT"</string>
@@ -202,12 +202,12 @@
     <string name="Longest_Life_">"Leghosszabb élettartam: "</string>
     <string name="Games_Won_">"Megnyert játékok:"</string>
     <string name="You_must_wait_until_the_end_of_the_round_">"Meg kell várnod a játék végét!"</string>
-    <string name="Dont_show_again">"Ne mutasd mégegyszer"</string>
+    <string name="Dont_show_again">"Ne mutasd többet"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Van egy magasabb XP-s eredményed, szeretnéd elmenteni?"</string>
     <string name="Special_Effects">"Különleges hatások"</string>
     <string name="Blob_Mushiness">"Folt hatások"</string>
     <string name="Specify_private_game_name">"Add meg a privát játék nevét"</string>
-    <string name="In_Game_Chat">"Játék chat"</string>
+    <string name="In_Game_Chat">"Játékon belüli chat"</string>
     <string name="My_Status_">"Saját státusz:"</string>
     <string name="Game_Size_">"Lobby méret:"</string>
     <string name="Server_Restart_">"Szerver újraindítása: "</string>
@@ -304,13 +304,13 @@
     <string name="_5v5">"5v5"</string>
     <string name="_8v8">"8v8"</string>
     <string name="Top_Ranks">"Legmagasabb rangok"</string>
-    <string name="My_Ranks">"Saját rangom"</string>
+    <string name="My_Ranks">"Saját rangjaim"</string>
     <string name="Player_XP">"Játékos XP"</string>
     <string name="W_D_L">"Gy_D_V"</string>
     <string name="MATCH_START">"MECCS KEZDÉS"</string>
     <string name="Clan_Warrior">"Klán Harcos"</string>
     <string name="Win_a_Clan_War">"Nyerj egy klán háborút!"</string>
-    <string name="Global">"Globális_"</string>
+    <string name="Global">"Globális"</string>
     <string name="Spectating">"Megfigyelés"</string>
     <string name="snowflakes_">"hópelyhek"</string>
     <string name="presents_">"ajándékok"</string>
@@ -453,12 +453,12 @@
     <string name="Spam">"Spam"</string>
     <string name="Other">"Más"</string>
     <string name="Leave_Team">"Kilépés a csapatból"</string>
-    <string name="Remove_Player">"Játékos törlése"</string>
+    <string name="Remove_Player">"Játékos eltávolítása"</string>
     <string name="Reject_Invitation">"Meghívás elutasítása"</string>
     <string name="Leave_Game">"Kilépés a játékból"</string>
-    <string name="Remove_Friend">"Barát törlése"</string>
-    <string name="Remove_Clan_Member">"Klán tag kidobása"</string>
-    <string name="Flag_lobby_as_inappropriate">"Kifogásolható lobby név"</string>
+    <string name="Remove_Friend">"Barát eltávolítása"</string>
+    <string name="Remove_Clan_Member">"Klán tag eltávolítása"</string>
+    <string name="Flag_lobby_as_inappropriate">"Kifogásolható lobby"</string>
     <string name="Promote_Clan_Member">"Klán tag előléptetése"</string>
     <string name="Leave_Clan">"Kilépés a klánból"</string>
     <string name="Candy_Hoarder">"Cukorka felhalmozó"</string>
@@ -486,7 +486,7 @@
     <string name="Bead_Mogul">"Gyöngy őrült"</string>
     <string name="beads_">"gyöngyöket."</string>
     <string name="Rejoin_Game">"Újracsatlakozás a játékhoz"</string>
-    <string name="PRIZES">"DÍJAK"</string>
+    <string name="PRIZES">"JUTALMAK"</string>
     <string name="Enable_Custom_Skin">"Egyedi kinézet engedélyezése."</string>
     <string name="Use_Custom_Skin">"Kinézet használata"</string>
     <string name="custom_skin_description">"Ez a funkció lehetővé teszi, hogy használd a profilképedet vagy feltölts egy egyedi fájlt a kinézetednek. Ezt a kinézetet csak te látod. Más emeberek nem látják az egyedikinézeted."</string>
@@ -543,7 +543,7 @@
     <string name="Wait_for_the_current_challenge_to_expire_">"Várjon, amíg a jelenlegi kihívás lejár!"</string>
     <string name="CHALLENGE_OPTIONS">"KIHÍVÁS OPCIÓK"</string>
     <string name="Accept">"Elfogad"</string>
-    <string name="Decline">"Hanyatlás"</string>
+    <string name="Decline">"Elutasít"</string>
     <string name="Challenge_Declined">"Kihívás elutasítva"</string>
     <string name="Spectators_">"Nézők:"</string>
     <string name="Nebula_Collector">"Csillagköd gyüjtő"</string>
@@ -593,7 +593,7 @@
     <string name="Collect_5_000_notes_">"Gyűjts össze 5000 hangjegyet!"</string>
     <string name="Collect_10_000_notes_">"Gyűjts össze 10.000 hangjegyet!"</string>
     <string name="notes_">"hangjegyeket."</string>
-    <string name="CLICK_CHEAT_DETECTED_">"Klikk csalás felfedezve!"</string>
+    <string name="CLICK_CHEAT_DETECTED_">"Klikk csalás észlelve!"</string>
     <string name="Pumpkin_Hoarder">"Tök felhalmozó"</string>
     <string name="Pumpkin_Mogul">"Tök őrült"</string>
     <string name="Leaf_Mogul">"Levél őrült"</string>
@@ -656,7 +656,7 @@
     <string name="RESET">"Visszaállítás"</string>
     <string name="Message_Sent_">"Üzenet elküldve!"</string>
     <string name="From">"tól/től"</string>
-    <string name="Sent">"Küldött"</string>
+    <string name="Sent">"Elküldve"</string>
     <string name="REPLY">"VÁLASZ"</string>
     <string name="Delete_Message">"Üzenet törlése"</string>
     <string name="BLOCK">"TILTÁS"</string>
@@ -723,18 +723,18 @@
     <string name="Speed_Painter">"Gyors festő"</string>
     <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"Nyerj egy festék játékot úgy, hogy az ellenfeleidnek 0 pontja van!"</string>
     <string name="Win_a_Paint_game_in_60_seconds_or_less_">"Nyerj egy festék játékot maximum 60 másodperc alatt!"</string>
-    <string name="Autoclick">"Autóklikk"</string>
-    <string name="Autoclick_24_Hours">"Autóklikk 24 óra"</string>
-    <string name="Autoclick_1_Hour">"Autóklikk 1 óra"</string>
-    <string name="Ultraclick_24_Hours">"Ultraklikk 24 óra"</string>
-    <string name="Ultraclick_1_Hour">"Ultraklikk 1 óra"</string>
-    <string name="Ultraclick">"Ultraklikk"</string>
+    <string name="Autoclick">"Autoclick"</string>
+    <string name="Autoclick_24_Hours">"Autoclick 24 óra"</string>
+    <string name="Autoclick_1_Hour">"Autoclick 1 óra"</string>
+    <string name="Ultraclick_24_Hours">"Ultraclick 24 óra"</string>
+    <string name="Ultraclick_1_Hour">"Ultraclick 1 óra"</string>
+    <string name="Ultraclick">"Ultraclick"</string>
     <string name="May_Reduce_Lag">"(Csökkentheti a laggot)"</string>
-    <string name="Ultraclick_Permanent">"Állandó ultraklikk"</string>
-    <string name="Autoclick_Permanent">"Állandó autoklikk"</string>
-    <string name="x3_XP_Permanent">"Állandó 3x XP"</string>
-    <string name="x2_XP_Permanent">"Állandó 2x XP"</string>
-    <string name="Permanent">"Állandó"</string>
+    <string name="Ultraclick_Permanent">"Örök ultraclick"</string>
+    <string name="Autoclick_Permanent">"Örök autoclick"</string>
+    <string name="x3_XP_Permanent">"Örök 3x XP"</string>
+    <string name="x2_XP_Permanent">"Örök 2x XP"</string>
+    <string name="Permanent">"Örök"</string>
     <string name="Apply_To_Account">"Alkalmazás a fiókra"</string>
     <string name="Spin_">"Pörgetés!"</string>
     <string name="Next_Spin">"Következő pörgetés"</string>
@@ -748,7 +748,7 @@
     <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"Maradj életben, de ne nyerj egy Csapat Deatchmatch játékot!"</string>
     <string name="Win_a_Team_Deathmatch_Game">"Nyerj egy Csapat Deathmatch játékot!"</string>
     <string name="TEAM_DEATHMATCH">"CSAPAT DEATHMATCH"</string>
-    <string name="Speed_Click_Toggle">"Gyors klikk letiltása"</string>
+    <string name="Speed_Click_Toggle">"Gyors click letiltása"</string>
     <string name="MOD">"MOD"</string>
     <string name="FAQ">GY.I.K.</string>
     <string name="BUY_EXTRA_SPINS">EXTRA PÖRGETÉSEK VÁSÁRLÁSA</string>
@@ -772,7 +772,7 @@
     <string name="CO_LEADER">VEZÉR HELYETTES</string>
     <string name="CLAN_HOUSE">KLÁN HÁZ</string>
     <string name="ROOM">SZOBA</string>
-    <string name="EXPERIMENTAL">KISÉRLETI</string>
+    <string name="EXPERIMENTAL">KISÉRLET</string>
     <string name="members">Tagok</string>
     <string name="Delete_ALL_Messages_">Minden üzenet törlése!</string>
     <string name="SAVE_PROFILE">PROFIL MENTÉSE</string>
@@ -901,7 +901,7 @@
     <string name="POSITION_EJECT_BUTTON">LÖVŐ GOMB POZÍCIÓJA</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">POSITION EJECT TOGGLE BUTTON</string>
     <string name="WIFI">WIFI</string>
-    <string name="JOIN_IP">CSATLAKOZÁS IP</string>
+    <string name="JOIN_IP">IP-re csatlakozás</string>
     <string name="Specify_Host_IP">Add meg a Host IP-t!</string>
     <string name="ADVANCED_SETUP">Különleges beállítás</string>
     <string name="WORLD_CUP_EVENT___">VILÁG KUPA ESEMÉNY!</string>
@@ -959,8 +959,8 @@
     <string name="Choose_Text_Size">Válassz szöveg méretet!</string>
     <string name="LEVEL_COLOR">SZINT SZÍN</string>
     <string name="INITIATE">BEAVATOTT</string>
-    <string name="x3_Clan_XP_Perm">Állandó 3x klán XP!</string>
-    <string name="x2_Clan_XP_Perm">Állandó 2x klán XP!</string>
+    <string name="x3_Clan_XP_Perm">Örök 3x klán XP!</string>
+    <string name="x2_Clan_XP_Perm">Örök 2x klán XP!</string>
     <string name="Japan">Japán</string>
     <string name="South_Korea">Dél Kórea</string>
     <string name="Asia">Ázsia</string>
@@ -1083,14 +1083,14 @@
     <string name="SUPPORTER">VIP</string>
     <string name="CONQUEROR">Hódító</string>
     <string name="TRICKY">Trükkös</string>
-    <string name="x4_XP_Permanent">4x XP állandó</string>
+    <string name="x4_XP_Permanent">4x XP örök</string>
     <string name="x4_XP_24_hours">4x XP 24 óra</string>
     <string name="x4_XP_1_Hour">4x XP 1 óra</string>
     <string name="Quad">négyszeres</string>
     <string name="Middle_East">Közép Kelet</string>
     <string name="XP_4x">XP 4x</string>
     <string name="You_cannot_play_for_x_minutes_">Nem tudsz játszani %d percig!</string>
-    <string name="x4_Clan_XP_Perm">4x Klán XP állandó</string>
+    <string name="x4_Clan_XP_Perm">4x Klán XP örök</string>
     <string name="x4_Clan_XP_7_days">4x Klán XP 7 nap</string>
     <string name="x4_Clan_XP_1_Day">4x Klán XP 1 nap</string>
     <string name="CHARGE_UP">FELTÖLT</string>
@@ -1109,7 +1109,7 @@
     <string name="Custom_Skin_Reviewed_Notification">A kinézetedet felülvizsgálták!</string>
     <string name="You_Have_Mail_">Leveled érkezett %s -tól/től!</string>
     <string name="Clan_Request_Reviewed_Notification">A kérésed, hogy csatlakozz a %s klánhoz, felül lett vizsgálva!</string>
-    <string name="CRAZY_SPLIT">ŐRÜLT SPLIT 32x</string>
+    <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
     <string name="Sold_Community_Skins_">"Eladott közösségi kinézetek: "</string>
     <string name="Estimated_Earnings_">"Becsült jövedelem: "</string>
     <string name="South_Africa">Dél Afrika</string>
@@ -1125,7 +1125,7 @@
     <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
     <string name="Battle_Royale">Battle Royale</string>
     <string name="The_winner_will_receive_x_plasma_">A nyertes %s plazma jutalomban részesül!</string>
-    <string name="admin_commands">"
+    <string name="admin_commands">
 Commands:
 !kick [0–31]
 !reset
@@ -1147,12 +1147,12 @@ Commands:
     <string name="Allow_Recombine">Rekombinálódás</string>
     <string name="Defenders">Védekezők</string>
     <string name="Attackers">Támadók</string>
-    <string name="MEGA_SPLIT">ÓRIÁS SPLIT 64x</string>
+    <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Missing Permissions</string>
     <string name="DELETE_ACCOUNT">Fiók törlése</string>
-    <string name="delete_prompt">Biztos törölni szeretnéd a fiókodat? Ez a művelet nem vonható vissza! Biztos vagy benne?</string>
+    <string name="delete_prompt">Biztos törölni szeretnéd a fiókodat? Ez a művelet nem vonható vissza!</string>
 
-
+    
     <string name="Type">Típus</string>
     <string name="Complete_campaign_mission_">Csináld meg a kampány küldetést</string>
     <string name="Specify_Reason_">Hiányzó engedély:</string>
@@ -1161,30 +1161,30 @@ Commands:
     <string name="FREE">INGYENES</string>
     <string name="x5_Clan_XP_1_Day">5X KLÁN XP 1 NAPIG</string>
     <string name="x5_Clan_XP_7_days">5X KLÁN XP 7 NAPIG</string>
-    <string name="x5_Clan_XP_Perm">5X KLÁN XP ÁLLANDÓ!</string>
+    <string name="x5_Clan_XP_Perm">5X KLÁN XP ÖRÖK!</string>
     <string name="Quin">5X</string>
     <string name="x5_XP_1_Hour">5X XP 1 ÓRÁIG</string>
     <string name="x5_XP_24_hours">5X XP 24 ÓRÁIG</string>
-    <string name="x5_XP_Permanent">5X XP ÁLLANDÓ</string>
+    <string name="x5_XP_Permanent">5X XP ÖRÖK</string>
     <string name="CAMPAIGN_2">KAMPÁNY2</string>
     <string name="XP_5x">XP 5x</string>
     <string name="India">India</string>
     <string name="Tutorial">Oktatóanyag</string>
     <string name="TYCOON">IPARMÁGNÁS</string>
-    <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
-    <string name="activate">Activate</string>
-    <string name="clan_id">CLAN ID</string>
-    <string name="language_change_warning">Changing the language will cause the app to restart.</string>
-    <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
+    <string name="CLAN_BACKGROUND_COLOR">KLÁN HÁTTÉRSZÍN</string>
+    <string name="activate">Aktivál</string>
+    <string name="clan_id">KLÁN ID</string>
+    <string name="language_change_warning">Nyelv megváltoztatáskor a játék újra fog indulni.</string>
+    <string name="xmas_gift_boost_message">3x plazma boostot kaptál 1 napra!</string>
+    <string name="no_response">Nem érkezett válasz a szervertől. Kérlek ellenőrizd az internetkapcsolatot.</string>
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
     <string name="_2x_skin_resolution">2x Skin Resolution</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">Már barátok vagytok.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">A fióknak 1 naposnak kell lennie, hogy levelet küldhess.</string>
+    <string name="Translator">Fordító</string>
+    <string name="SUCCESS">SIKERÜLT</string>
 
 
     <string-array name="control_modes">
