@@ -287,13 +287,13 @@
     <string name="Show_Levels">"Mostrar Niveles"</string>
     <string name="SET_MOTD">"ESTABLECER DESCRIPCIÓN"</string>
     <string name="No_such_user_found_">"No se encontró dicho usuario. "</string>
-    <string name="No_open_public_clans_exist_">"No existen clanes públicos abiertos "</string>
+    <string name="No_open_public_clans_exist_">"No existen clanes públicos disponible. "</string>
     <string name="You_aren_t_invited_to_that_clan_">"No has sido invitado a ese clan "</string>
     <string name="No_such_clan_exists_">"El clan no existe. "</string>
     <string name="That_clan_is_full_">"El clan está lleno. "</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Este otro usuario no es un miembro de tu clan "</string>
-    <string name="_You_can_t_be_your_own_friend_">"No puedes ser tu propio amigo "</string>
-    <string name="A_clan_with_that_name_already_exists_">"Ya existe un clan con ese nombre "</string>
+    <string name="_You_can_t_be_your_own_friend_">"No puedes ser tu propio amigo. "</string>
+    <string name="A_clan_with_that_name_already_exists_">"Ya existe un clan con ese nombre. "</string>
     <string name="Duration_">"Duración:"</string>
 
     <string name="FFA_Time_Domination">"Dominio en TCT Tiempo"</string>
@@ -566,7 +566,7 @@
     <string name="Remove_Clan_Member">"Expulsar Miembro del Clan"</string>
     <string name="Flag_lobby_as_inappropriate">"Marcar sala como inapropiada"</string>
     <string name="Promote_Clan_Member">"Ascender miembro"</string>
-    <string name="Leave_Clan">"Dejar el Clan"</string>
+    <string name="Leave_Clan">"Dejar el clan"</string>
     <string name="Candy_Hoarder">"Acaparador de Caramelos"</string>
     <string name="Candy_Collector">"Coleccionista de Caramelos"</string>
     <string name="Candy_Mogul">"Magnate de Caramelos"</string>
@@ -636,7 +636,7 @@
     <string name="Teleport_100_Times">"Teletranspórtate 100 veces"</string>
     <string name="Shoot_20_Powerups_Without_Restarting">"Dispara 20 poderes sin reiniciar"</string>
     <string name="Request_Timed_Out">"Tiempo de espera agotado"</string>
-    <string name="You_Are_Spectating_">"Estás espectando"</string>
+    <string name="You_Are_Spectating_">"Estás observando "</string>
     <string name="Account_In_Use_">"La cuenta está en uso"</string>
     <string name="Cannot_Join_Arena_">"No te puedes unir a la Arena "</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"Si sales, ¡te desconectarás de la partida actual!"</string>
@@ -815,7 +815,7 @@
     <string name="Prize_Pool">Premio total:</string>
     <string name="Registrants">Registrados:</string>
     <string name="Round_Of">Ronda de</string>
-    <string name="Next_Tournament">El Siguiente Torneo</string>
+    <string name="Next_Tournament">El Siguiente torneo</string>
     <string name="Plasma_Won">Plasma ganado</string>
     <string name="Semi_Finals">Semifinales</string>
     <string name="Quarter_Finals">Cuartos de final</string>
@@ -823,10 +823,10 @@
     <string name="Finals">Final</string>
     <string name="Unregister">Cancelar registro</string>
     <string name="Enter_My_Match">Entrar a mi partida</string>
-    <string name="Starts_In">Comienza En</string>
+    <string name="Starts_In">Comienza en</string>
     <string name="Seconds">Segundos</string>
     <string name="Tournaments_Temporarily_Disabled">Torneos temporalmente desactivados</string>
-    <string name="CLAN_NAME_COLOR">COLOR NOMBRE DEL CLAN</string>
+    <string name="CLAN_NAME_COLOR">COLOR DEL NOMBRE DEL CLAN</string>
     <string name="Tuber">YouTuber</string>
     <string name="youtube_prompt">¿Te gustaría visitar el canal de YouTube de Nebulous? Los canales no están afiliados con los creadores de Nebulous.</string>
     <string name="Tournament_Matches_Won_">Torneos ganados:</string>
@@ -1125,7 +1125,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Level_Colors">Colores de Nivel</string>
     <string name="click_info">¡Autoclick / Ultraclick no funcionan en TCT Clásico!</string>
     <string name="Hooked">Enganchado</string>
-    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Sé empujado por un hechizo de gancho durante 10 segundos </string>
+    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Sé arrastrado por un hechizo de gancho durante 10 segundos </string>
     <string name="Pack">Pack</string>
     <string name="Skin_Pack">Pack de Skins</string>
     <string name="SKIN_PACK">PACK DE SKINS</string>
@@ -1133,7 +1133,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="pack_info">Después de comprar este pack de skins, sus máscaras exclusivas aparecerán en la parte superior de los menús de selección de skins.</string>
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">¡Skins, Mascotas, Sombreros y Más EXCLUSIVAS!</string>
     <string name="BUY_NOW_">¡COMPRAR AHORA!</string>
-    <string name="already_purchased">Tú o la persona para la que estás comprando esto ya sois dueños de esto.</string>
+    <string name="already_purchased">Tú o la persona para la que estás comprando esto ya lo posee.</string>
     <string name="Halo_Animations">Animación del Halo</string>
     <string name="Trick_Notifications">Notificación de Tricks</string>
     <string name="Channel">Canal</string>
@@ -1414,9 +1414,9 @@ Comandos:
 
 Si no deseas registrarte, aún puedes jugar en modo individual."
     </string>
-    <string name="_2x_skin_resolution">Resolución de skin doble</string>
+    <string name="_2x_skin_resolution">Resolución de skin duplicada</string>
     <string name="pm">MP</string>
-    <string name="You_are_already_friends_">Ya sois amigos </string>
+    <string name="You_are_already_friends_"> <"Ya son Amigos" >
     <string name="Account_must_be_1_day_old_to_send_mail_">Para enviar correo, la cuenta debe haber sido creada, por lo menos, hace un día </string>
     <string name="Translator">Traductor</string>
     <string name="SUCCESS">ÉXITO</string>
