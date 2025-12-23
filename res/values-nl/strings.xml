@@ -41,7 +41,7 @@
     <string name="Name_Invalid_">"Naam is ongeldig."</string>
     <string name="Name_Taken_">"Naam is al in gebruik."</string>
     <string name="CONNECTED">"VERBONDEN"</string>
-    <string name="JOINING___">"AANMELDEN…."</string>
+    <string name="JOINING___">"DEELNEMEN…."</string>
     <string name="PLAYING">"SPELEN"</string>
     <string name="MULTIPLAYER">"MULTIPLAYER"</string>
 
@@ -101,7 +101,7 @@
     <string name="To_use_this_skin_you_must_reach_level">"Om deze skin te gebruiken moet je het volgende level bereiken:"</string>
     <string name="SIGN_IN">"AANMELDEN"</string>
 
-    <string name="Single_Player_Stats">"Single Player Statistieken"</string>
+    <string name="Single_Player_Stats">"Enkele Speler Statistieken"</string>
 
     <string name="Level">"Level"</string>
     <string name="PAUSED">"GEPAUZEERD"</string>
@@ -110,7 +110,7 @@
     <string name="FRIENDS">"VRIENDEN"</string>
     <string name="Warning">"Waarschuwing"</string>
     <string name="SIGNING_IN">"INLOGGEN…"</string>
-    <string name="New_Friend_Request">"Nieuwe Vriendschapsverzoek!"</string>
+    <string name="New_Friend_Request">"Nieuw Vriendschapsverzoek!"</string>
     <string name="REQUEST_FRIEND">"VRIEND TOEVOEGEN"</string>
     <string name="Private">"Privé"</string>
     <string name="Public">"Openbaar"</string>
@@ -216,12 +216,12 @@
     <string name="Reach_a_score_of_15_000">"Bereik een score van 15,000"</string>
     <string name="Reach_a_score_of_20_000">"Bereik een score van 20,000"</string>
 
-    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Bereik een score van 10,000 zonder het verliezen van blobs"</string>
+    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Bereik een score van 10,000 zonder blobs te verliezen"</string>
     <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Bereik een score van 5000 zonder te splitsen of uit te werpen"</string>
     <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Speel 5 minuten achter elkaar zonder een zwart gat te raken"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"Speel 5 minuten achter elkaar zonder blobs te verliezen"</string>
     <string name="Play_20_minutes_straight_without_restarting">"Speel 20 minuten achter elkaar zonder opnieuw te beginnen"</string>
-    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"Absorbeer 5 superzware zwarte gaten binnen 30 seconden van de start"</string>
+    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"Absorbeer 5 superzware zwarte gaten binnen 30 seconden vanaf het begin"</string>
     <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Bereik een score van 5.000 binnen 1 minuut vanaf het begin"</string>
     <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Schiet een zwart gat in de laatste speler die een zwart gat op je heeft geschoten voordat je opnieuw begint"</string>
     <string name="Absorb_5_doges_without_restarting">"Absorbeer 5 doges zonder opnieuw te beginnen"</string>
@@ -238,7 +238,7 @@
     <string name="Highest_Score_">"Hoogste Score:"</string>
     <string name="Average_Score_">"Gemiddelde Score:"</string>
     <string name="Times_Played_">"Aantal Keer Gespeeld:"</string>
-    <string name="Longest_Life_">"Langst Gespeeld:"</string>
+    <string name="Longest_Life_">"Langste Leven:"</string>
     <string name="Games_Won_">"Aantal Spellen Gewonnen:"</string>
 
     <string name="You_must_wait_until_the_end_of_the_round_">"Je moet wachten tot het einde van deze ronde"</string>
@@ -263,13 +263,13 @@
 
 
     <string name="JOIN_CLAN">"AANMELDEN BIJ CLAN"</string>
-    <string name="JOIN_RANDOM_CLAN">"JOIN WILLEKEURIGE CLAN"</string>
+    <string name="JOIN_RANDOM_CLAN">"AANMELDEN BIJ WILLEKEURIGE CLAN"</string>
     <string name="LEAVE_CLAN">"VERLAAT CLAN"</string>
     <string name="INVITE_MEMBER">"SPELER UITNODIGEN"</string>
     <string name="REMOVE_MEMBER">"VERWIJDER LID"</string>
 
 
-    <string name="CREATE_CLAN">"MAAK CLAN AAN"</string>
+    <string name="CREATE_CLAN">"CLAN AANMAKEN"</string>
     <string name="MEMBER">"LID"</string>
     <string name="ADMIN">"BEHEERDER"</string>
     <string name="LEADER">"LEIDER"</string>
@@ -355,7 +355,7 @@
 
     <string name="Forming">"Vormen"</string>
     <string name="Searching">"Zoeken"</string>
-    <string name="In_Progress">"Bezig"</string>
+    <string name="In_Progress">"In Behandeling"</string>
 
     <string name="Wins">"Overwinningen"</string>
 
@@ -521,7 +521,7 @@
     <string name="Collect_10_000_snowflakes_">"Verzamel 10.000 sneeuwvlokken."</string>
     <string name="Show_All">"Toon Alles"</string>
 
-    <string name="SET_PERMISSIONS">"GEEF TOESTEMMING"</string>
+    <string name="SET_PERMISSIONS">"TOESTEMMING INSTELLEN"</string>
     <string name="Start_Clan_War">"Start een Clan Oorlog"</string>
     <string name="Min_Level">"Minimum Level"</string>
     <string name="SAVE">"OPSLAAN"</string>
@@ -539,7 +539,7 @@
     <string name="TEAM_INVITE">"NODIG UIT VOOR TEAM"</string>
     <string name="Team_Size">"Team Grootte"</string>
     <string name="Team_Name">"Teamnaam"</string>
-    <string name="CREATE_TEAM">"MAAK TEAM"</string>
+    <string name="CREATE_TEAM">"MAAK EEN TEAM"</string>
     <string name="Solo">"Alleen"</string>
     <string name="Teams">"Teams"</string>
     <string name="Team">"Team"</string>
@@ -553,7 +553,7 @@
     <string name="Invited">"Uitgenodigd"</string>
     <string name="Invitation_Sent">"Uitnodiging Verzonden"</string>
     <string name="REPORT">"MELDEN"</string>
-    <string name="Reported">"Geraporteerd"</string>
+    <string name="Reported">"Gerapporteerd"</string>
     <string name="Threats">"Bedreigingen"</string>
     <string name="Spam">"Spam"</string>
     <string name="Other">"Anders"</string>
@@ -779,7 +779,7 @@
     <string name="Delete_Message">"Verwijder Bericht"</string>
     <string name="BLOCK">"BLOKKEER"</string>
     <string name="DELETE">"VERWIJDER"</string>
-    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Opmerking: Je kunt iemand de-blokkeren door een vriendschapverzoek te sturen."</string>
+    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Opmerking: Je kunt iemand deblokkeren door een vriendschapverzoek te sturen."</string>
     <string name="Select_Friend">"Selecteer een Vriend"</string>
     <string name="Failed_to_send_mail_">"Mail versturen is mislukt "</string>
     <string name="In_Game_Mail">"Nebu Mail"</string>
@@ -853,7 +853,7 @@
     <string name="Autoclick_Permanent">"Autoklik Permanent"</string>
     <string name="x3_XP_Permanent">"3x XP Permanent"</string>
     <string name="x2_XP_Permanent">"2x XP Permanent"</string>
-    <string name="Permanent">"Blijvend"</string>
+    <string name="Permanent">"Permanent"</string>
     <string name="Apply_To_Account">"Aanvraag doen tot account"</string>
     <string name="Spin_">"Draai!"</string>
     <string name="Next_Spin">"Volgende draai"</string>
@@ -992,7 +992,7 @@ Merk je dat een speler de spelregels heeft overtreden, meld dit dan aan een Mode
     <string name="Name_Opacity_">Naam Doorzichtigheid:</string>
     <string name="SET_PROFILE_PIC">PROFIELFOTO INSTELLEN</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">ACCEPTEER ALLE VRIENDSCHAPSVERZOEKEN!</string>
-    <string name="App_Perf_Stats">App Prestatie Stats</string>
+    <string name="App_Perf_Stats">App Prestatie Statistieken</string>
     <string name="COPY">KOPIEER</string>
     <string name="_1v1_Ultra">1v1 Ultra</string>
     <string name="ArenaDescriptionUltra">De winnaar ontvangt %s plasma.</string>
@@ -1041,7 +1041,7 @@ Merk je dat een speler de spelregels heeft overtreden, meld dit dan aan een Mode
     <string name="Custom_Skin">Custom Skin</string>
     <string name="Color">Kleur</string>
     <string name="RECENT_PLAYERS">RECENT ONTMOETTE SPELERS</string>
-    <string name="POSITION_CONTROL_STICK">"POSITIE CONTROLESTICK"</string>
+    <string name="POSITION_CONTROL_STICK">"POSITIE STUURKNOP"</string>
     <string name="POSITION_SPLIT_BUTTON">POSITIE SPLIT KNOP</string>
     <string name="POSITION_EJECT_BUTTON">POSITIE UITWERP KNOP</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">POSITIE UITWERP SWITCH KNOP</string>
@@ -1081,7 +1081,7 @@ Merk je dat een speler de spelregels heeft overtreden, meld dit dan aan een Mode
     <string name="FONT">FONT</string>
     <string name="CIRCLE">CIRKEL</string>
     <string name="SQUARES">BLOKKEN</string>
-    <string name="TRICK_MODE">TRICK MODE</string>
+    <string name="TRICK_MODE">TRICK MODUS</string>
     <string name="ICE_SPLIT">ICE SPLIT</string>
     <string name="TRICK_SPLIT">TRICK SPLIT</string>
     <string name="POP_SPLIT">POP SPLIT</string>
@@ -1089,7 +1089,7 @@ Merk je dat een speler de spelregels heeft overtreden, meld dit dan aan een Mode
     <string name="Level_Colors">Level Kleuren</string>
     <string name="click_info">Autoclick / Ultraclick werken niet in FFA Klassiek!</string>
     <string name="Hooked">Gehaakt</string>
-    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Word 10 seconden voorgetrokken door een haak</string>
+    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Word 10 seconden voortgetrokken door een haak</string>
     <string name="Pack">Pakket</string>
     <string name="Skin_Pack">Skin Pakket</string>
     <string name="SKIN_PACK">SKIN PAKKET</string>
@@ -1146,9 +1146,9 @@ Merk je dat een speler de spelregels heeft overtreden, meld dit dan aan een Mode
     <string name="DARK_MATTER">donkere materie</string>
     <string name="Textures_will_be_regenerated_">Zwarte textures en custom skins worden opnieuw gegenereerd.</string>
     <string name="Enable_Profile_Colors">Gebruik Profiel Kleuren</string>
-    <string name="Session_Stats">Sessie Stats</string>
+    <string name="Session_Stats">Sessie Statistieken</string>
     <string name="Time_">Tijd:</string>
-    <string name="Show_Session_Stats">Toon Sessie Stats</string>
+    <string name="Show_Session_Stats">Toon Sessie Statistieken</string>
     <string name="VALENTINES_DAY">"VALENTIJNSDAG"</string>
     <string name="Giveaways_">Cadeaus!</string>
     <string name="Max_XP_Chain_">Max XP Ketting:</string>
@@ -1202,7 +1202,7 @@ Merk je dat een speler de spelregels heeft overtreden, meld dit dan aan een Mode
     <string name="LIFE_STEAL">leven stelen</string>
     <string name="Kicked_From_Game_">Gekickt Uit Het Spel!</string>
     <string name="Conquest">Overwinning</string>
-    <string name="Finish_the_last_mission_in_the_campaign_">Voltooi de laatste missie van de campaigne.</string>
+    <string name="Finish_the_last_mission_in_the_campaign_">Voltooi de laatste missie van de campagne.</string>
     <string name="Collected_">Verzameld:</string>
     <string name="Collisions_">Botsingen:</string>
     <string name="Absorbed_">Opgenomen:</string>
@@ -1244,11 +1244,11 @@ Merk je dat een speler de spelregels heeft overtreden, meld dit dan aan een Mode
     <string name="x4_Clan_XP_1_Day">4x Clan XP 1 Dag</string>
     <string name="CHARGE_UP">OPLADEN</string>
     <string name="CLAN_DESCRIPTION_COLOR">clanbeschrijving kleur</string>
-    <string name="Responsible_Pet_Owner">Verantwoordelijke Huisdier eigennaar</string>
+    <string name="Responsible_Pet_Owner">Verantwoordelijke Huisdiereigenaar</string>
     <string name="Animal_Tamer">dierentemmer</string>
     <string name="Crocodile_Hunter">krokodillenjager</string>
     <string name="Get_A_Pet_To_Level_X_">Bereik Met Een Huisdier Level %d.</string>
-    <string name="plasma_boost_info">"Je krijgt 3x plasma van elke gamemode terwel je booster actief is! Dit werkt niet, als je plasma koopt of spins, speciaale beloningen."</string>
+    <string name="plasma_boost_info">"Je krijgt 3x plasma van elke gamemode terwijl je booster actief is! Dit werkt niet bij het aanschaffen van Plasma, Rad van Nebulous of speciale beloningen."</string>
     <string name="Plasma_Boost_7_Days_">Plasma Boost 7 Dagen!!!</string>
     <string name="Plasma_Boost_1_Day_">Plasma Boost 1 dag!</string>
     <string name="Plasma_Boost_2_Hours_">Plasma Boost 2 uren.</string>
@@ -1257,7 +1257,7 @@ Merk je dat een speler de spelregels heeft overtreden, meld dit dan aan een Mode
     <string name="Plain_Score_Text">"gewone partituurtekst"</string>
     <string name="Custom_Skin_Reviewed_Notification">Je aangepaste uiterlijk is beoordeeld!</string>
     <string name="You_Have_Mail_">Je hebt post van %s!</string>
-    <string name="Clan_Request_Reviewed_Notification">Your Request To Join Clan %s Been Reviewed!</string>
+    <string name="Clan_Request_Reviewed_Notification">Je aanmelding bij clan %s is beoordeeld!</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
     <string name="Sold_Community_Skins_">"verkochte gemeenschap Skins: "</string>
     <string name="Estimated_Earnings_">"Geschatte opbrengst: "</string>
@@ -1320,7 +1320,7 @@ Commands:
     <string name="India">India</string>
     <string name="Tutorial">Uitleg</string>
     <string name="TYCOON">magnaat</string>
-    <string name="CLAN_BACKGROUND_COLOR">CLan Achtergrond Kleur</string>
+    <string name="CLAN_BACKGROUND_COLOR">Clan Achtergrond Kleur</string>
     <string name="activate">activeer</string>
     <string name="clan_id">CLAN ID</string>
     <string name="language_change_warning">Als u de taal wijzigt, wordt de app opnieuw gestart.</string>
@@ -1374,7 +1374,7 @@ Commands:
         <item>"Klein"</item>
         <item>"Normaal"</item>
         <item>"Groot"</item>
-        <item>"reusachtig"</item>
+        <item>"Reusachtig"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
