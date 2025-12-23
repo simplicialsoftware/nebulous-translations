@@ -799,7 +799,7 @@
     <string name="muted_until">Dibisukan Sampai</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">Peringkat konten aplikasi dapat berubah ketika bermain multipemain.</string>
     <string name="UI_Opacity_">Opasitas UI</string>
-    <string name="LOAD">BAWAAN</string>
+    <string name="LOAD">MEMUAT</string>
     <string name="REMOVE">HAPUS</string>
     <string name="BAN">MELARANG</string>
     <string name="MODERATORS">MODERATOR</string>
@@ -843,7 +843,7 @@
     <string name="Choose_Menu">Pilih Menu</string>
     <string name="SPECTATE">MENONTON</string>
     <string name="INVITE">UNDANG</string>
-    <string name="error_1">Hanya Pemimpin Atau Wakil Pemimpin Yang Bisa Mengirim Mail Klan.</string>
+    <string name="error_1">kesalahan.</string>
     <string name="Hat">Topi</string>
     <string name="Hats">Topi</string>
     <string name="Pet_Uploads">Unggah Pet</string>
@@ -900,7 +900,7 @@
     <string name="ROYALE_DUO">ROYALE DUO</string>
     <string name="Choose_Partner">Pilih Rekan</string>
     <string name="REMOVE_FRIEND">HAPUS TEMAN</string>
-    <string name="Creator">Kreator</string>
+    <string name="Creator">Pencipta</string>
     <string name="PROFILE_COLOR">WARNA PROFIL</string>
     <string name="Enable_Colors">Aktifkan Warna</string>
     <string name="Particles">Partikel</string>
