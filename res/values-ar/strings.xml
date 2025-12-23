@@ -805,7 +805,7 @@
     <string name="Win_a_Tournament">الفوز ببطولة</string>
     <string name="Tournament_Competing">التنافس في البطولة</string>
     <string name="Tournament_Registered">تم تسجيل البطولة</string>
-    <string name="Tournament">!البطولة</string>
+    <string name="Tournament">البطولة!</string>
     <string name="TourneyDescription">يجب عليك التسجيل للعب في البطولة،سوف يتم شحن البلازما عند بداية البطولة،يمكنك إلغاء تسجيلك قبل بداية البطولة وسوف تبدأ البطولة عندما يكون هناك على الأقل %d من المتنافسين.</string>
     <string name="Register">التسجيل</string>
 
