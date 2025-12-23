@@ -39,7 +39,7 @@
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"خمول"</string>
     <string name="Name_Invalid_">"الإسم غير صالح !"</string>
-    <string name="Name_Taken_">"الاسم مستعمل."</string>
+    <string name="Name_Taken_">"الإسم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
     <string name="PLAYING">"في طور اللعب"</string>
@@ -73,14 +73,14 @@
 
     <string name="OK">"حسنًا"</string>
     <string name="CANCEL">"إلغاء"</string>
-    <string name="Chat_Name">"اسم الدردشة"</string>
+    <string name="Chat_Name">"إسم الدَردَشة"</string>
     <string name="Max_People">"الحد الأقصى للناس"</string>
     <string name="START">"البداية"</string>
     <string name="CREATE">"إنشاء"</string>
     <string name="CUSTOM_GAMES">"ألعاب مخصصة"</string>
-    <string name="CHAT">"الدردشة"</string>
+    <string name="CHAT">"الدَردَشة"</string>
     <string name="CUSTOM_SETUP">"إعدادات مخصصة"</string>
-    <string name="CHAT_SETUP">"إعدادات الدردشة"</string>
+    <string name="CHAT_SETUP">"إعدادات الدَردَشة"</string>
 
 
     <string name="ACCOUNT">"حساب"</string>
@@ -129,8 +129,8 @@
     <string name="ERROR">"خطأ"</string>
     <string name="CONTINUE">"متابعة"</string>
     <string name="Global_" formatted="false">"عالميا"</string>
-    <string name="FRIEND_CHAT">"دردشة الأصدقاء"</string>
-    <string name="LOBBY_NAME">"اسم الردهة"</string>
+    <string name="FRIEND_CHAT">"دَردَشة الأصدقاء"</string>
+    <string name="LOBBY_NAME">"إسم الردهة"</string>
     <string name="NULL">"لا شيء"</string>
 
 
@@ -174,7 +174,7 @@
     <string name="Expert_Nebulator">"لاعب خبير"</string>
     <string name="Master_Nebulator">"لاعب متدرب"</string>
     <string name="Grand_Master_Nebulator">"لاعب محترف"</string>
-    <string name="Impossible">"مستحيل"</string>
+    <string name="Impossible">"!مستحيل"</string>
 
     <string name="Perfection">"الإتقان"</string>
     <string name="Single_Handedly">"عمل فردي"</string>
@@ -183,12 +183,12 @@
     <string name="Survivalist">"المكافح"</string>
     <string name="Ultramassive">"العملاق"</string>
     <string name="Rapid_Ascension">"الصعود السريع"</string>
-    <string name="Revenge">"انتقام"</string>
+    <string name="Revenge">"أنتقام"</string>
     <string name="Doge_Pound">"جامع الكلاب"</string>
 
     <string name="Absorb_50_dots">"استيعاب ٥٠ نقطة"</string>
     <string name="Absorb_300_dots">"استيعاب ٣٠٠ نقطة"</string>
-    <string name="Absorb_1_000_dots">"استيعاب ج ١٠٠٠ نقطة"</string>
+    <string name="Absorb_1_000_dots">"استيعاب ١٠٠٠ نقطة"</string>
     <string name="Absorb_5_000_dots">"استيعاب ٥٠٠٠ نقطة"</string>
     <string name="Absorb_10_000_dots">"استيعاب ١٠،٠٠٠ النقاط"</string>
     <string name="Absorb_50_000_dots">"استيعاب ٥٠،٠٠٠ النقاط"</string>
@@ -637,7 +637,7 @@
     <string name="Request_Timed_Out">"إنتهت مدة صلاحية الطلب"</string>
     <string name="You_Are_Spectating_">"أنت مشاهد."</string>
     <string name="Account_In_Use_">"الحساب في قيد الاستخدام!"</string>
-    <string name="Cannot_Join_Arena_">"لا يمكن دخول الحلبة."</string>
+    <string name="Cannot_Join_Arena_">"لا يمكن دخول الحَلبة."</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"تسجيل الخروج سيجعلك تغادر اللعبة الحالية!"</string>
     <string name="raindrops_">"قطرات المطر."</string>
     <string name="Raindrop_Collector">"جامع قطرات المطر"</string>
@@ -1096,17 +1096,17 @@
     <string name="community_skin_requirement">يجب عليك شراء الجلد المخصص لكي تستطيع شراء واستعمال جلود المجتمع.</string>
     <string name="You_can_purchase_this_community_skin_for_">تستطيع شراء جلد المجتمع هذا بمقابل</string>
     <string name="community_skin_information_for_buyer" translatable="true">يتم تحميل جلود المجتمع من قبل لاعبين آخرين. تعمل هذه الجلود المجتمعية تمامًا مثل الجلود المخصصة، ويمكن تحريكها باستخدام الجلود العادية.</string>
-    <string name="VIEW_UPLOADER">اظهار صاحب الجلد</string>
+    <string name="VIEW_UPLOADER">إظهار صاحب الجلد</string>
     <string name="POPULAR">الشائع</string>
     <string name="NEW">جديد</string>
     <string name="Manage_Configurations">إدارة التكوينات</string>
-    <string name="Leave_blank_for_all_uploaders_">اترك فراغا لرؤية جميع المحملين</string>
+    <string name="Leave_blank_for_all_uploaders_">اترك فراغاً لرؤية جميع المحملين</string>
     <string name="More___">المزيد…</string>
-    <string name="This_cannot_be_used_in_FFA_Classic_">لا يمكن استخدام هذا في لعبة حر للجميع الكلاسيكية</string>
+    <string name="This_cannot_be_used_in_FFA_Classic_">لا يمكن استخدام هذا في لعبة الحر للجميع الكلاسيكية</string>
     <string name="ENEMY">عدو</string>
     <string name="ALLY">حليف</string>
     <string name="Rename">إعادة التسمية</string>
-    <string name="Set_friendly_name_">حدد اسما لصديقك.</string>
+    <string name="Set_friendly_name_">حدد اسماً لصديقك.</string>
     <string name="Leave_blank_for_none_">اترك فراغا لعدم التغيير.</string>
     <string name="Vote_Kick">طرد اللاعب</string>
     <string name="FONT">نوع الخط</string>
@@ -1170,7 +1170,7 @@
     <string name="Invites">الدعوات</string>
     <string name="Show_Spectator_Count">إظهار عداد المشاهدة</string>
     <string name="TRY_IT_">جربه</string>
-    <string name="You_need_to_buy_a_pack_to_use_this_">تحتاج لشراء حزمه لتستخدم هذه</string>
+    <string name="You_need_to_buy_a_pack_to_use_this_">تحتاج لشراء حزمة لتستخدم هذه</string>
     <string name="GET_PACK">احصل على الحزمة</string>
     <string name="Position_in_queue">الموضع في قائمة الأنتظار</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">لون ملفك الشخصي في الخلفية</string>
@@ -1183,7 +1183,7 @@
     <string name="VALENTINES_DAY">"يوم الحب"</string>
     <string name="Giveaways_">!هدايا</string>
     <string name="Max_XP_Chain_">:سلسلة الخبرة القصوى</string>
-    <string name="POSITION_CANCEL_BUTTON">الغاء موقع الزر</string>
+    <string name="POSITION_CANCEL_BUTTON">ألغاء موقع الزر</string>
     <string name="INVISIBILITY">خاصية الاخفاء</string>
     <string name="Set_Skin">وضع البشرة </string>
     <string name="Primary">ابتدائي )اساسي)</string>
@@ -1195,7 +1195,7 @@
     <string name="DISABLED">الغاء التفعيل</string>
 
     <string name="Refund__Multiskin">استعادة نقودك /nMultiskin</string>
-    <string name="Invalid_Clan_ID_">اسم العشيرة غير صالح</string>
+    <string name="Invalid_Clan_ID_">إسم العشيرة غير صالح</string>
     <string name="MUTED">"حُظِر من الدَردَشة"</string>
     <string name="SKIN">سكن</string>
     <string name="Choose_Skin_Size">اختر حجم سكنك</string>
@@ -1414,7 +1414,7 @@ Commands:
     </string-array>
 
     <string-array name="sizes">
-        <item>"صغير جدا"</item>
+        <item>"صغير جداً"</item>
         <item>"صغير"</item>
         <item>"عادي"</item>
         <item>"كبير"</item>
