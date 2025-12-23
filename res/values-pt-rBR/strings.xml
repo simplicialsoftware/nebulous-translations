@@ -1267,7 +1267,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Unfavorited">Desfavoritado</string>
     <string name="Background_Scale_">Tamanho do Plano de Fundo:</string>
     <string name="Background_Lightness_">Luminosidade do Plano de Fundo:</string>
-    <string name="Background_Image_">Imagem do Plano de Fundo:</string>
+    <string name="Background_Image_">Imagem de Plano de Fundo:</string>
     <string name="INVERT_SELECTION">INVERTER\nSELEÇÃO</string>
     <string name="MINIMAP">MINI-MAPA</string>
     <string name="Victorious">Vitorioso</string>
@@ -1365,8 +1365,8 @@ Comandos:
     <string name="Attackers">Atacantes</string>
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Permissões ausentes</string>
-    <string name="DELETE_ACCOUNT">EXCLUIR CONTA</string>
-    <string name="delete_prompt">Você tem certeza de que quer excluir sua conta? Esta ação é PERMANENTE e NÃO PODERÁ SER DESFEITA!</string>
+    <string name="DELETE_ACCOUNT">DELETAR CONTA</string>
+    <string name="delete_prompt">VOCÊ TEM CERTEZA DE QUE QUER EXCLUIR SUA CONTA? ESTA AÇÃO É PERMANENTE E NÃO PODERÁ SER DESFEITA!</string>
 
 
     <string name="Type">Digite</string>
@@ -1402,7 +1402,7 @@ Faça login para acessar o modo multijogador. Assim, você poderá:
 - Jogar e se comunicar com jogadores de todo o mundo;
 - Compartilhar seu progresso com outros;
 - Criar e personalizar seu perfil;
-- Comprar plasma na loja;
+- Comprar plasmas na loja;
 - Enviar skins criadas por usuários.
 
 Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
