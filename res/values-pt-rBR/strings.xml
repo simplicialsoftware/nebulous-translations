@@ -2,7 +2,7 @@
     <string name="Players">"Jogadores"</string>
     <string name="Control_">"Controle:"</string>
     <string name="CLOSE">"FECHAR"</string>
-    <string name="Stick_Size_">"Tamanho do Controlador:"</string>
+    <string name="Stick_Size_">"Tamanho do Analógico:"</string>
     <string name="Stick_Margin_">"Margem do Controlador:"</string>
     <string name="Button_Size_">"Tamanho dos Botões:"</string>
     <string name="Button_Margin_">"Margem dos Botões:"</string>
@@ -21,12 +21,10 @@
     <string name="Name_">"Nome:"</string>
 
     <string name="Loading___">"Carregando…"</string>
-    <string name="Connecting___">"Conectando…"</string>
-
-    <string name="Are_You_Sure_">"Você tem Certeza?"</string>
+    <string name="Are_You_Sure_">"Você tem certeza?"</string>
     <string name="Yes">"Sim"</string>
     <string name="No">"Não"</string>
-    <string name="WAIT">"AGUARDE…"</string>
+    <string name="WAIT">Carregando…</string>
     <string name="Must_Specify_Name_">"É Necessário Especificar um Nome."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
@@ -41,7 +39,7 @@
     <string name="Name_Invalid_">"Nome inválido."</string>
     <string name="Name_Taken_">"Nome em uso."</string>
     <string name="CONNECTED">"CONECTADO"</string>
-    <string name="JOINING___">"JUNTANDO…"</string>
+    <string name="JOINING___">Conectando…</string>
     <string name="PLAYING">"JOGANDO"</string>
     <string name="MULTIPLAYER">"MULTIJOGADOR"</string>
 
@@ -63,10 +61,10 @@
     <string name="South_America">"Brasil"</string>
 
 
-    <string name="SINGLE_PLAYER">"ÚNICO JOGADOR"</string>
+    <string name="SINGLE_PLAYER">"JOGADOR SOLO"</string>
     <string name="Background_">"Fundo:"</string>
     <string name="Difficulty_">"Dificuldade:"</string>
-    <string name="Delay_Disconnect">"Atrasar a Desconexão"</string>
+    <string name="Delay_Disconnect">Manter Conexão Temporária</string>
 
     <string name="Max_Players">"Máx. de Jogadores"</string>
     <string name="Min_Players">"Mín. de Jogadores"</string>
@@ -79,8 +77,8 @@
     <string name="CREATE">"CRIAR"</string>
     <string name="CUSTOM_GAMES">"JOGOS PERSONALIZADOS"</string>
     <string name="CHAT">"CHAT"</string>
-    <string name="CUSTOM_SETUP">"AJUSTE PERSONALIZADO"</string>
-    <string name="CHAT_SETUP">"CONFIGURAÇÃO DO CHAT"</string>
+    <string name="CUSTOM_SETUP">"CONFIGURAÇÃO PERSONALIZADA"</string>
+    <string name="CHAT_SETUP">"AJUSTES DO CHAT"</string>
 
 
     <string name="ACCOUNT">"CONTA"</string>
@@ -101,7 +99,7 @@
     <string name="To_use_this_skin_you_must_reach_level">"Para usar esta skin, você deve atingir o nível"</string>
     <string name="SIGN_IN">"ENTRAR"</string>
 
-    <string name="Single_Player_Stats">"Estatísticas de Único Jogador"</string>
+    <string name="Single_Player_Stats">"Estatísticas de jogador"</string>
 
     <string name="Level">"Nível"</string>
     <string name="PAUSED">"PAUSADO"</string>
@@ -125,7 +123,7 @@
     <string name="Achievement_Earned">"Conquista Desbloqueada"</string>
     <string name="REFRESH">"ATUALIZAR"</string>
     <string name="DONE">"FEITO"</string>
-    <string name="Friend_Request_Sent">"Pedido de Amizade enviado…"</string>
+    <string name="Friend_Request_Sent">"Pedido de amizade enviado…"</string>
     <string name="ERROR">"ERRO"</string>
     <string name="CONTINUE">"CONTINUAR"</string>
     <string name="Global_" formatted="false">"Global"</string>
@@ -139,7 +137,7 @@
     <string name="FFA_TIME">"FFA COM TEMPO"</string>
     <string name="TEAMS">"EQUIPES"</string>
     <string name="TEAMS_TIME">"EQUIPES COM TEMPO"</string>
-    <string name="CTF">"CAB"</string>
+    <string name="CTF">"Capture a Bandeira"</string>
     <string name="SURVIVAL">"SOBREVIVÊNCIA"</string>
 
 
@@ -147,13 +145,13 @@
 
 
     <string name="Dot_Nibbler">"Mordiscador de Pontos"</string>
-    <string name="Dot_Muncher">"Caçador de Pontos"</string>
+    <string name="Dot_Muncher">"Comedor de Pontos"</string>
     <string name="Dot_Eater">"Comedor de Pontos"</string>
     <string name="Dot_Gulper">"Engolidor de Pontos"</string>
     <string name="Dot_Gobbler">"Guloso de Pontos"</string>
     <string name="Dot_Devourer">"Devorador de Pontos"</string>
     <string name="Dot_Gormandizer">"Gordice de Pontos"</string>
-    <string name="Dot_Sommelier">"Escançador de Pontos"</string>
+    <string name="Dot_Sommelier">Sommelier de Pontos</string>
 
     <string name="Quadra_Gulp">"Devorador Quádruplo"</string>
     <string name="Multi_Gulp">"Multi Devorador"</string>
