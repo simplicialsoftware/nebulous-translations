@@ -51,7 +51,7 @@
     <string name="Not_found_">"Tidak ditemukan."</string>
     <string name="Hidden">"Tersembunyi"</string>
     <string name="SERVER">"SERVER"</string>
-    <string name="Joining_game_in_">"Bergabung permainan di "</string>
+    <string name="Joining_game_in_">"Bergabung dalam permainan "</string>
     <string name="Game_Full">"Permainan Penuh"</string>
     <string name="US_East">"Amerika Tengah"</string>
     <string name="US_West">"Amerika Utara"</string>
@@ -110,7 +110,7 @@
     <string name="REFRESH">"MENYEGARKAN"</string>
     <string name="DONE">"SELESAI"</string>
     <string name="Friend_Request_Sent">"Permintaan teman dikirim…"</string>
-    <string name="ERROR">"RALAT"</string>
+    <string name="ERROR">"KESALAHAN"</string>
     <string name="CONTINUE">"LANJUTKAN"</string>
     <string name="Global_" formatted="false">"Global %"</string>
     <string name="FRIEND_CHAT">"TEMAN OBROLAN"</string>
@@ -124,14 +124,14 @@
     <string name="CTF">"CTF"</string>
     <string name="SURVIVAL">"BERTAHAN HIDUP"</string>
     <string name="Clan_XP">"XP Klan"</string>
-    <string name="Dot_Nibbler">"Dot Nibbler"</string>
-    <string name="Dot_Muncher">"Dot Muncher"</string>
-    <string name="Dot_Eater">"Dot Eater"</string>
-    <string name="Dot_Gulper">"Dot Gulper"</string>
-    <string name="Dot_Gobbler">"Dot Gobbler"</string>
-    <string name="Dot_Devourer">"Dot Devourer"</string>
-    <string name="Dot_Gormandizer">"Dot Gormandizer"</string>
-    <string name="Dot_Sommelier">"Dot Sommelier"</string>
+    <string name="Dot_Nibbler">"Penggigit titik"</string>
+    <string name="Dot_Muncher">"Pengunyah titik"</string>
+    <string name="Dot_Eater">"Pemakan titik"</string>
+    <string name="Dot_Gulper">"Titik telan"</string>
+    <string name="Dot_Gobbler">"Titik Kalkunjantan"</string>
+    <string name="Dot_Devourer">"Pemakan titik"</string>
+    <string name="Dot_Gormandizer">"Titik Gormandizer"</string>
+    <string name="Dot_Sommelier">"Titik Tertentu"</string>
     <string name="Quadra_Gulp">"Quadra Gulp"</string>
     <string name="Multi_Gulp">"Multi Gulp"</string>
     <string name="Mega_Gulp">"Mega Gulp"</string>
@@ -367,7 +367,7 @@
     <string name="Purchases_Unavailable_">"Pembelian Tidak Tersedia!"</string>
     <string name="You_can_purchase_this_skin_for">"Anda dapat membeli kulit ini untuk"</string>
     <string name="PURCHASE">"Membeli"</string>
-    <string name="Error_in_backup_data_">"Ralat dalam backup data!"</string>
+    <string name="Error_in_backup_data_">"Masalah dalam backup data!"</string>
     <string name="Remove_Ads">"Hapus iklan"</string>
     <string name="Reward">"Penghargaan"</string>
     <string name="Please_Wait___">"Mohon Tunggu…"</string>
@@ -822,8 +822,8 @@
     <string name="x3_Clan_XP_7_days">3x XP Klan 7 Hari</string>
     <string name="x3_Clan_XP_1_Day">3x XP Klan 1 Hari</string>
     <string name="x2_Clan_XP_1_Day">2x XP Klan 1 Hari</string>
-    <string name="Pets">Pet</string>
-    <string name="Pet">Pet</string>
+    <string name="Pets">Peliharaan</string>
+    <string name="Pet">Peliharaan</string>
     <string name="You_can_purchase_this_pet_for">Anda bisa membeli pet ini</string>
     <string name="gift_to_friend">Hadiah Ke Teman</string>
     <string name="gift_purchase_warning">Anda tidak akan menerima pembelian ini karena Anda telah memilih untuk hadiah pembelian ini kepada seseorang teman.</string>
@@ -891,8 +891,8 @@
     <string name="BANNED">DILARANG</string>
     <string name="CLAN_MEMBERS">ANGGOTA KLAN</string>
     <string name="CLAN_REQUESTS">PERSETUJUAN ANGGOTA</string>
-    <string name="Pet_1">Pet 1</string>
-    <string name="Pet_2">Pet 2</string>
+    <string name="Pet_1">Peliharaan 1</string>
+    <string name="Pet_2">Peliharaan 2</string>
     <string name="Second_Pet">Anda dapat menggunakan 2 Pet sekaligus!</string>
     <string name="This_item_requires">Item ini memerlukan </string>
     <string name="not_enough_plasma">Plasma tidak cukup.</string>
@@ -1121,7 +1121,7 @@
     <string name="x4_XP_Permanent">4x XP Permanen</string>
     <string name="x4_XP_24_hours">4x XP 24 Jam</string>
     <string name="x4_XP_1_Hour">4x XP 1 Jam </string>
-    <string name="Quad">Quadruple</string>
+    <string name="Quad">Segi empat</string>
     <string name="Middle_East">Timur Tengah</string>
     <string name="XP_4x">XP 4x</string>
     <string name="You_cannot_play_for_x_minutes_">Anda tidak bisa bermain selama %d menit</string>
