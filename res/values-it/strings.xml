@@ -1159,7 +1159,7 @@ Se vedi un giocatore che non rispetta le regole, ti preghiamo di segnalarlo a un
     <string name="MULTISKIN">SKIN MULTIPLE</string>
     <string name="DISABLED">DISABILITATO</string>
 
-    <string name="Refund__Multiskin">Rimborso\nSkin multiple</string>
+    <string name="Refund_Multiskin">Rimborso\nSkin multiple</string>
     <string name="Invalid_Clan_ID_">ID Clan non valido.</string>
     <string name="MUTED">SILENZIATO</string>
     <string name="SKIN">SKIN</string>
