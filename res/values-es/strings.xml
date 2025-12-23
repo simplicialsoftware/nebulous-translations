@@ -1203,7 +1203,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Session_Stats">Estadísticas de Sesión</string>
     <string name="Time_">Tiempo </string>
     <string name="Show_Session_Stats">Mostrar estadísticas de Sesión</string>
-    <string name="VALENTINES_DAY">"DÍA DE SAN VALENTíN"</string>
+    <string name="VALENTINES_DAY">"DÍA DE SAN VALENTIN"</string>
     <string name="shared_pack_info" translatable="true" tools:ignore="Untranslatable">Después de comprar este pack de skins, ¡sus skins exclusivas aparecerán en la parte superior de los menús de selección de skins para ti y tu amigo!</string>
     <string name="shared_pack_purch_description" translatable="true" tools:ignore="Untranslatable">¡Este es un paquete especial, por lo que tanto tú como un amigo recibiréis el paquete!</string>
     <string name="Giveaways_">¡Sorteos!</string>
@@ -1216,11 +1216,11 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Secondary">Secundario</string>
     <string name="Both">Ambos</string>
     <string name="multiskin_period_description" translatable="true" tools:ignore="Untranslatable">"Especifica el período de cambio de multiskin en segundos (0–10). 0 desactivará multiskin."</string>
-    <string name="Enable__Multiskin">"Activar\nMultiskin"</string>
+    <string name="Enable__Multiskin">"Activar\Multiskin"</string>
     <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"Multiskin te permite usar dos skins que se alternan. Tú eliges que tan rápido cambian las skins. Cuando llegues al nivel 1,000, esta característica es gratuita. Si compras Multiskin antes del nivel 1,000, recuperarás el plasma cuando lo alcances."</string>
     <string name="MULTISKIN">MULTISKIN</string>
     <string name="DISABLED">DESACTIVADO</string>
-    <string name="Refund__Multiskin">"Reembolso\nMultiskin"</string>
+    <string name="Refund__Multiskin">"Reembolso\Multiskin"</string>
     <string name="Invalid_Clan_ID_">ID de Clan inválida </string>
     <string name="MUTED">SILENCIADO</string>
     <string name="SKIN">SKIN</string>
@@ -1274,7 +1274,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Background_Scale_">Escala del Fondo:</string>
     <string name="Background_Lightness_">Brillo del Fondo:</string>
     <string name="Background_Image_">Imagen de Fondo:</string>
-    <string name="INVERT_SELECTION">INVERTIR\nSELECCIÓN</string>
+    <string name="INVERT_SELECTION">INVERTIR\SELECCIÓN</string>
     <string name="MINIMAP">MINIMAPA</string>
     <string name="Victorious">Victorioso</string>
     <string name="Dominant">Dominante</string>
