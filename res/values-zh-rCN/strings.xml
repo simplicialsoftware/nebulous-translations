@@ -1301,19 +1301,19 @@ Commands:
     <string name="India">India</string>
     <string name="Tutorial">Tutorial</string>
     <string name="TYCOON">TYCOON</string>
-    <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
-    <string name="activate">Activate</string>
-    <string name="clan_id">CLAN ID</string>
-    <string name="language_change_warning">Changing the language will cause the app to restart.</string>
-    <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
+    <string name="CLAN_BACKGROUND_COLOR">氏族背景颜色</string>
+    <string name="activate">激活</string>
+    <string name="clan_id">氏族ID</string>
+    <string name="language_change_warning">更改语言将导致应用程序重新启动</string>
+    <string name="xmas_gift_boost_message">您已收到为期 1 天的 3 倍血浆增强礼物！</string>
+    <string name="no_response">服务器无响应.请检查网络连接.</string>
     <string name="RAMADAN">RAMADAN</string>
     <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="_2x_skin_resolution">2倍皮肤分辨率</string>
     <string name="pm">PM</string>
-    <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
+    <string name="You_are_already_friends_">你们已经是朋友了.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">账户必须已使用 1 天才能发送邮件.</string>
+    <string name="Translator">翻译者</string>
     <string name="SUCCESS">SUCCESS</string>
 
 
