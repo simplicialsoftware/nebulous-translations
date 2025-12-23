@@ -8,14 +8,14 @@
     <string name="Button_Size_">"বোতাম আকার:"</string>
     <string name="Button_Margin_">"বোতাম মার্জিন:"</string>
     <string name="Buttons_">"বাটন:"</string>
-    <string name="DEFAULTS">"অক্ষমতা"</string>
+    <string name="DEFAULTS">"পূর্বনির্ধারিত"</string>
     <string name="WEEKLY">"সাপ্তাহিক"</string>
     <string name="DAILY">"দৈনিক"</string>
     <string name="Server_">"সার্ভার:"</string>
     <string name="Game_Mode_">"খেলার মোড:"</string>
     <string name="Show_Names">"দেখান নাম"</string>
     <string name="Show_Avatars">"দেখান স্কিনস"</string>
-    <string name="PLAY">"প্লে"</string>
+    <string name="PLAY">"খেলুন"</string>
     <string name="OPTIONS">"পছন্দসমূহ"</string>
 
     <string name="Avatar_">"স্কিন:"</string>
