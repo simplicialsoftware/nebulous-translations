@@ -389,7 +389,7 @@
     <string name="Win_1000_Arenas">"Wygraj 1.000 Aren."</string>
     <string name="Already_in_arena_">"Jesteś już na Arenie."</string>
     <string name="Already_in_queue_">"Już jesteś w kolejce."</string>
-    <string name="Invalid_Account_ID_">"Nieprawidłowy ID Konta."</string>
+    <string name="Invalid_Account_ID_">"Nieprawidłowe ID Konta."</string>
     <string name="Validating">"Potwierdzanie"</string>
     <string name="Randomize">"Wylosuj Nową Misję"</string>
     <string name="Harassment">"Prześladowanie"</string>
@@ -1039,7 +1039,7 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="MULTISKIN">"MULTISKÓRKA"</string>
     <string name="DISABLED">"WYŁĄCZONA"</string>
     <string name="Refund__Multiskin">"Zwrot\nMultiskórki"</string>
-    <string name="Invalid_Clan_ID_">"Nieprawidłowy ID Klanu"</string>
+    <string name="Invalid_Clan_ID_">"Nieprawidłowe ID Klanu"</string>
     <string name="MUTED">"WYCISZONY"</string>
     <string name="SKIN">"SKÓRKA"</string>
     <string name="Choose_Skin_Size">"Wybierz Rozmiar Skórek"</string>
@@ -1139,7 +1139,7 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="South_Africa">"Afryka Południowa"</string>
     <string name="SPLIT_">"PODZIAŁ:"</string>
     <string name="WALLS">"ŚCIANY"</string>
-    <string name="COMP_BANNED">"COMP BANNED"</string>
+    <string name="COMP_BANNED">"BAN RANKINGOWY"</string>
     <string name="FIND_GAMES">"ZNAJDŹ GRY"</string>
     <string name="PLAY_SOLO">"GRAJ SOLO"</string>
     <string name="SET_EMOTE">"USTAW EMOTKĘ"</string>
