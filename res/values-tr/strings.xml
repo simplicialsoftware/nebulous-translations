@@ -22,7 +22,7 @@
     <string name="Name_">"İsim:"</string>
 
     <string name="Loading___">"Yükleniyor…"</string>
-    <string name="Connecting___">"Bağlanılıyor…"</string>
+    <string name="Connecting___">"Bağlanıyor…"</string>
 
     <string name="Are_You_Sure_">"Emin Misiniz?"</string>
     <string name="Yes">"Evet"</string>
@@ -38,9 +38,9 @@
     <string name="Score__">"Puan: "</string>
     <string name="Recombine_">"Birleşme: "</string>
     <string name="WINNER_">"KAZANAN:"</string>
-    <string name="IDLE">"Hareket Etmiyorsunuz:"</string>
+    <string name="IDLE">"Hareketsiz:"</string>
     <string name="Name_Invalid_">"Geçersiz İsim."</string>
-    <string name="Name_Taken_">"İsim Zaten Alınmış."</string>
+    <string name="Name_Taken_">"Bu İsim Zaten Alınmış."</string>
     <string name="CONNECTED">"BAĞLANDI"</string>
     <string name="JOINING___">"BAĞLANIYORSUNUZ"</string>
     <string name="PLAYING">"OYNANIYOR"</string>
@@ -91,7 +91,7 @@
     <string name="Yellow_Team">"Sarı Takım"</string>
     <string name="Signed_in_as_">"Giriş Yapılmıştır:"</string>
     <string name="Not_signed_in_">"Giriş Yapılamamıştır!"</string>
-    <string name="SET_NAME">"İSİM BELİRLEYİN"</string>
+    <string name="SET_NAME">"BİR İSİM BELİRLEYİN"</string>
     <string name="SIGN_OUT">"OTURUMU KAPATIN"</string>
     <string name="ACHIEVEMENTS">"KAZANIMLAR"</string>
     <string name="STATISTICS">"İSTATİSTİKLER"</string>
@@ -122,7 +122,7 @@
 
     <string name="Online">"Çevrim İçi"</string>
     <string name="Unknown">"Bilinmeyen"</string>
-    <string name="Offline">"çevrim dışı"</string>
+    <string name="Offline">"Çevrim Dışı"</string>
     <string name="Achievement_Earned">"Kazanım Elde Edildi"</string>
     <string name="REFRESH">"YENİLE"</string>
     <string name="DONE">"TAMAMLANDI"</string>
@@ -166,9 +166,9 @@
     <string name="Blobicide">"Baloncuk Üfleyen"</string>
     <string name="Blobtrocity">"Baloncuk Yiyen"</string>
     <string name="Blobaccre">"Baloncuk Yutucu"</string>
-    <string name="Blobastrophe">"Baloncuk  Uzmanı"</string>
+    <string name="Blobastrophe">"Baloncuk Uzmanı"</string>
     <string name="Blobihilation">"Baloncuk Çıldırtan"</string>
-    <string name="Blobageddon">" Baloncuk Kışkırtan"</string>
+    <string name="Blobageddon">" Baloncuk Cehennemi"</string>
     <string name="Blobocalypse">"Baloncuk Kanırtan"</string>
 
     <string name="Experienced_Nebulator">"Deneyimli Nebulatör"</string>
@@ -224,7 +224,7 @@
     <string name="Play_20_minutes_straight_without_restarting">"Oyun Yeniden Başlatılmadan 20 dakika boyunca hayatta kalın."</string>
     <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"İlk 30 Saniye İçerisinde 5 adet süpermasif kara delik yutun."</string>
     <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"İlk 1 Dakika İçerisinde 5.000 puana ulaşın."</string>
-    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Oyun Yeniden Başlatılmadan Önce sizi kara delik ile patlatan son oyuncuyu siz de aynı şekilde patlatın."</string>
+    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Oyun Yeniden Başlatılmadan Önce sizi kara delik ile vuran son oyuncuyu siz de aynı şekilde vurun."</string>
     <string name="Absorb_5_doges_without_restarting">"Oyun Yeniden Başlatılmadan Önce 5 adet Doge (Köpek) avatarına sahip baloncuk yiyin."</string>
 
     <string name="Friends">"Arkadaşlar"</string>
@@ -283,7 +283,7 @@
     <string name="CLAN">"KLAN"</string>
 
 
-    <string name="Specify_Clan_ID">"Klan ID'sini Belirtiniz."</string>
+    <string name="Specify_Clan_ID">"Klan Kimliğini Belirtiniz."</string>
     <string name="Show_Clan_Names">"Klan İsimlerini Göster"</string>
     <string name="Show_Levels">"Seviyeleri Göster"</string>
     <string name="SET_MOTD">"Klanın Ön Bilgisini Kaydedin"</string>
@@ -335,8 +335,8 @@
     <string name="Reach_a_score_of_">"Şu Puana Erişin "</string>
     <string name="_in_a_FFA_Game">" Bir Herkes Tek oyununda"</string>
     <string name="_in_a_Teams_Game">" Bir Takımlı oyununda"</string>
-    <string name="_dots">" benekler"</string>
-    <string name="_player_blobs">" oyuncu baloncukları"</string>
+    <string name="_dots">" Benekler"</string>
+    <string name="_player_blobs">" Oyuncu Baloncukları"</string>
     <string name="Absorb_">"Yut "</string>
     <string name="Collect_">"Toplayın "</string>
 
@@ -362,7 +362,7 @@
 
     <string name="Score">"Skor"</string>
     <string name="Rating">"Sıralama"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"Yeni bir klan lideri ayarlamak üzeresiniz!"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"Yeni bir klan lideri yapmak üzeresiniz!"</string>
     <string name="XP">"XP"</string>
     <string name="High_Score">"Yüksek Skor"</string>
 
@@ -527,7 +527,7 @@
     <string name="Min_Level">"Minimum Seviye "</string>
     <string name="SAVE">"KAYDET"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Bu oyuncunun şuanki seviyesi klana katılmak için yeterli değildir."</string>
-    <string name="Insufficient_Permission">"Yetersiz Yetki"</string>
+    <string name="Insufficient_Permission">"Yetersiz İzin"</string>
     <string name="DOMINATION">"HAKİMİYET"</string>
     <string name="DOM_Domination">"Hakimiyet Egemenliği"</string>
     <string name="DOM_Hat_Trick">"Hakimiyet Üçlemesi"</string>
@@ -541,7 +541,7 @@
     <string name="Team_Size">"Takım Sınırı"</string>
     <string name="Team_Name">"Takım Adı"</string>
     <string name="CREATE_TEAM">"TAKIM OLUŞTUR"</string>
-    <string name="Solo">"Tek"</string>
+    <string name=bu"Solo">"Tek"</string>
     <string name="Teams">"Takımlar"</string>
     <string name="Team">"Takım"</string>
     <string name="Specify_Account_ID">"Hesap Kimliğini belirtin"</string>
@@ -673,7 +673,7 @@
     <string name="VIEW_INVITES">"KLANA KATILIM İSTEKLERİ"</string>
     <string name="CLAN_INVITES">"KLAN DAVETLERİ"</string>
     <string name="Cancel_Invitation">"Daveti İptal Et"</string>
-    <string name="DOWNLOAD">"İNDİR"</string>
+    <string name="DOWNLOAD">"YÜKLE"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"TÜM ARKADAŞ İSTEKLERİNİ REDDET"</string>
     <string name="suns_">"Güneşler. "</string>
     <string name="Sun_Collector">"Güneş Toplayıcısı"</string>
@@ -857,7 +857,7 @@
     <string name="Permanent">"Kalıcı"</string>
     <string name="Apply_To_Account">"Hesaba Uygulayın."</string>
     <string name="Spin_">"Çevirin!"</string>
-    <string name="Next_Spin">"Sonraki Ücretsiz Çevirme"</string>
+    <string name="Next_Spin">"Bir Sonraki Ücretsiz Çevirme"</string>
     <string name="Wheel_Of_Nebulous_">"Nebulous Çarkı!"</string>
     <string name="XP_2x">"XP 2x"</string>
     <string name="XP_3x">"XP 3x"</string>
@@ -959,7 +959,7 @@ Nebulous'un Kuralları:\n
 6- Oyun içinde veya dışında asla Hesabınızı başkaları ile paylaşmayın ve sakın takas yoluna gitmeyiniz.\n
 7- Üst sıralara ulaşmak için asla Hile Yapmayınız!  Klan Savaşı-Arena (Bedava Puan vb.)\n
 8- Uygun olmayan isimlerle (Argo, +18 İçerikli İsimlerle) özel oda oluşturmayınız.\n
-9- Moderatörlere uyum sağlamanı kesinlikle ve şiddetle Tavsiye Ediyoruz.\n
+9- Moderatörlere uyum sağlamayı kesinlikle ve şiddetle Tavsiye Ediyoruz.\n
 10- Oyundaki hatalardan (BUG) faydalanmayınız. (Bizlere bildirebilirsiniz)\n
 11- Lider olmadan çok fazla Klan Üyesi yasaklamayınız.\n
 12- Sohbette gereksiz mesaj (Spam) yapmayınız.\n
@@ -1043,7 +1043,7 @@ Oyunun kurallarını çiğneyen bir oyuncuyu fark ederseniz, lütfen bir "Modera
     <string name="POSITION_SPLIT_BUTTON">"BÖLÜNME BUTON KONUMUNU AYARLA"</string>
     <string name="POSITION_EJECT_BUTTON">"YEM ATMA BUTON KONUMUNU AYARLA"</string>
     <string name="POSITION_EJECT_TOGGLE_BUTTON">"YEM HIZI DEĞİŞTİRME BUTON KONUMUNU AYARLA"</string>
-    <string name="WIFI">"WIFI"</string>
+    <string name="WIFI">"Wİ-Fİ"</string>
     <string name="JOIN_IP">"IP ile Katıl"</string>
     <string name="Specify_Host_IP">"Host IP Belirle"</string>
     <string name="ADVANCED_SETUP">"Gelişmiş Ayar"</string>
@@ -1342,7 +1342,7 @@ Komutlar:
     <string name="MEGA_SPLIT">"BÜYÜK BÖLÜNME 64x"</string>
     <string name="Missing_Permissions">"Yetkiler Yetersiz"</string>
     <string name="DELETE_ACCOUNT">"HESABI SİL"</string>
-    <string name="delete_prompt">"Hesabınızı silmek istediğinizden emin misiniz? Bu KALICIDIR ve GERİ ALINAMAZ"</string>
+    <string name="delete_prompt">"Hesabınızı silmek istediğinizden emin misiniz? BU KALICIDIR VE GERİ ALINAMAZ"</string>
 
 
     <string name="Type">"Yaz"</string>
@@ -1365,7 +1365,7 @@ Komutlar:
     <string name="TYCOON">"KOLEKSİYONCU"</string>
     <string name="CLAN_BACKGROUND_COLOR">"KLAN ARKAPLAN RENGİ"</string>
     <string name="activate">"Aktive Et"</string>
-    <string name="clan_id">"Klan ID"</string>
+    <string name="clan_id">"Klan Kimliği"</string>
     <string name="language_change_warning">"Dili değiştirmek, uygulamanın seçilen dili uygulaması için yeniden başlatılmasına neden olacaktır."</string>
     <string name="xmas_gift_boost_message">"1 Günlük 3x Plazma Takviye Hediyesi aldınız!"</string>
     <string name="no_response">"Sunucudan Cevap Yok. Lütfen İnternet Bağlantınızı Kontrol Ediniz!"</string>
