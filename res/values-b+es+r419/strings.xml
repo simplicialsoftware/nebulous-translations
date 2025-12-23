@@ -942,7 +942,7 @@
     <string name="SET_NOTE">ESTABLECER NOTA</string>
     <string name="enable_notifications">habilitar notificaciones</string>
     <string name="PROMOTE_MEMBER">ASCENDER MIEMBRO</string>
-    <string name="DEMOTE_MEMBER">DEGRADAR MIEMBRO</string>
+    <string name="DESCEND_MEMBER">DESCENDER MIEMBRO</string>
     <string name="HAPPY_BIRTHDAY_">¡FELIZ CUMPLEAÑOS!</string>
     <string name="Years">Años</string>
     <string name="Friend_Added_">¡Amigo Agregado!</string>
@@ -1003,7 +1003,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="Pet_2">Mascota 2</string>
     <string name="Second_Pet">¡Te permite tener dos mascotas al mismo tiempo!</string>
     <string name="This_item_requires">Este elemento requiere</string>
-    <string name="Not_enough_Plasma">No hay suficiente Ñlasma</string>
+    <string name="Not_enough_Plasma">No hay suficiente Plasma</string>
     <string name="MARK_UNREAD">MARCAR NO LEÍDO</string>
     <string name="ROYALE_DUO">DUO REAL</string>
     <string name="Choose_Partner">Elegir Compañero</string>
@@ -1173,7 +1173,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas; si compra
     <string name="GET_PLASMA">CONSEGUIR PLASMA</string>
     <string name="ASTEROIDS">ASTEROIDES</string>
     <string name="CHRISTMAS">NAVIDAD</string>
-    <string name="Reason">Razón</string>
+    <string name="REASON">RAZON</string>
     <string name="PUBLIC">PÚBLICO</string>
     <string name="PRIVATE">PRIVADO</string>
     <string name="Joined">Unido</string>
