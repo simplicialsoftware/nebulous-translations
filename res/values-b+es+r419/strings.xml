@@ -1003,7 +1003,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="Pet_2">Mascota 2</string>
     <string name="Second_Pet">¡Te permite tener dos mascotas al mismo tiempo!</string>
     <string name="This_item_requires">Este elemento requiere</string>
-    <string name="Not_enough_Plasma">No hay suficiente Ñlasma</string>
+    <string name="Not_enough_Plasma">No hay suficiente Plasma</string>
     <string name="MARK_UNREAD">MARCAR NO LEÍDO</string>
     <string name="ROYALE_DUO">DUO REAL</string>
     <string name="Choose_Partner">Elegir Compañero</string>
@@ -1334,7 +1334,7 @@ Subir la misma skin NO aprobada varias veces resultará en más sanciones o en u
     <string name="South_Africa">Sudáfrica</string>
     <string name="SPLIT_">SEPARARSE:</string>
     <string name="WALLS">PAREDES:</string>
-    <string name="COMP_BANNED">BANEADO DE COMPETICIÓN</string>
+    <string name="COMP_BANNED">BANEADO DE COMP</string>
     <string name="FIND_GAMES">BUSCAR JUEGOS</string>
     <string name="PLAY_SOLO">JUGAR SOLO</string>
     <string name="SET_EMOTE">ESTABLECER EMOTICONO</string>
