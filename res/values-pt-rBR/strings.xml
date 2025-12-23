@@ -805,7 +805,7 @@
     <string name="Tournament_Competing">Competindo Torneio</string>
     <string name="Tournament_Registered">Torneio Registrado</string>
     <string name="Tournament">Torneio</string>
-    <string name="TourneyDescription">Você deve se registrar para jogar no torneio. Você será cobrado em plasmas quando o torneio começar, mas você pode cancelar o registro antes que ele comece. O torneio começará quando houver pelo menos %d participantes.</string>
+    <string name="TourneyDescription">Você deve se registrar para jogar torneio. Você será cobrado em plasmas quando o torneio começar, mas você pode cancelar o registro antes que ele comece. O torneio começará quando houver pelo menos 7 participantes.</string>
     <string name="Register">Registrar</string>
 
     <string name="Registered">Registrado</string>
@@ -834,7 +834,7 @@
     <string name="Emotes">Mostrar Botão de Emotes</string>
     <string name="Support">Suporte</string>
     <string name="Already_Blocked">Você Já Bloqueou</string>
-    <string name="Cannot_block_more_than_x_accounts_">Não é possível bloquear mais de %d contas.</string>
+    <string name="Cannot_block_more_than_x_accounts_">Não é possível bloquear mais de x contas.</string>
     <string name="This_is_you_">Este é você.</string>
     <string name="Win_a_Paint_Game">Vencer um Jogo de Pintar</string>
     <string name="Whiteout">Branqueamento</string>
@@ -876,11 +876,11 @@
     <string name="Plethora_of_Spins">Muitos Giros (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">DESCONECTAR-SE DE TODOS OS DISPOSITIVOS</string>
     <string name="Tournament_Forming">Formando Torneio</string>
-    <string name="TeamTourneyDescription">Você e seu companheiro de equipe devem se registrar para jogar no torneio em equipe. Você será cobrado em plasmas quando o torneio começar, mas você pode cancelar o registro antes que ele comece. Precisa pelo menos de %d concorrentes para começar.</string>
+    <string name="TeamTourneyDescription">Você e seu companheiro de equipe devem se registrar para jogar no torneio em equipe. Você será cobrado em plasmas quando o torneio começar, mas você pode cancelar o registro antes que ele comece. Precisa pelo menos de 6 concorrentes para começar.</string>
     <string name="Free_Agent">Agente Livre</string>
     <string name="This_player_selected_a_different_teammate_">Este jogador selecionou um companheiro de equipe diferente.</string>
     <string name="muted_until">Silenciado até</string>
-    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">A classificação de conteúdo do aplicativo pode mudar ao jogar no modo multijogador.</string>
+    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">A classificação do conteúdo do aplicativo pode mudar ao jogar no modo multijogador.</string>
     <string name="UI_Opacity_">Opacidade da Interface</string>
     <string name="LOAD">CARREGAR</string>
     <string name="REMOVE">REMOVER</string>
@@ -915,7 +915,7 @@
     <string name="SENT">ENVIADO</string>
     <string name="Enable_Invites">Ativar Convites</string>
     <string name="Game_Invitation">Convite de Jogo</string>
-    <string name="__has_invited_you_to_join_their_game_">%s convidou você para se juntar ao jogo dele!</string>
+    <string name="__has_invited_you_to_join_their_game_">Convidou você para se juntar ao jogo dele!</string>
     <string name="Invitation_declined_">Convite rejeitado!</string>
     <string name="Invitation_accepted_">Convite aceito!</string>
     <string name="Invitation_expired_">Convite expirado!</string>
@@ -931,10 +931,10 @@
     <string name="Hats">Bonés</string>
     <string name="Pet_Uploads">Envios de Mascote</string>
     <string name="BLOB">BLOB</string>
-    <string name="Clan_Pet_Uploads">Envios de Masc. Clã</string>
+    <string name="Clan_Pet_Uploads">Envios de Mascote de Clã</string>
     <string name="YT">YT</string>
     <string name="FREE_TODAY">GRÁTIS HOJE!</string>
-    <string name="Cannot_cancel_this_skin_yet_">Ainda não é possível cancelar esta Skin.</string>
+    <string name="Cannot_cancel_this_skin_yet_">Ainda não é possível cancelar essa Skin.</string>
     <string name="SPLIT_16X">16X SPLIT</string>
     <string name="SET_PUBLIC_DESCRIPTION">DEFINIR DESCRIÇÃO PÚBLICA</string>
     <string name="SET_NOTE">DEFINIR NOTA</string>
@@ -952,7 +952,7 @@ Regras do Nebulous\n
 1. Não compartilhe ou negocie contas com ninguém. Isso fará com que ambos os jogadores sejam banidos permanentemente.\n
 2. Não peça contas de ninguém. Isso fará com que você seja banido permanentemente.\n
 3. Não tente se passar por um Moderador ou Youtuber. Isso fará com que você seja banido permanentemente.\n
-4. Não trapaceie para chegar aos Top Classificados do jogo em Guerras de Clã/Arena (FreePoints). Isso redefinirá suas estatísticas e resultará em um banimento permanente.\n
+4. Não trapaceie para chegar aos Top Classificados do jogo em Guerras de Clã e Arena (FreePoints). Isso redefinirá suas estatísticas e resultará em um banimento permanente.\n
 5. Nunca peça pelo cargo de Líder no Clã.\n
 6. Não insulte ninguém.\n
 7. Não crie Jogos Personalizados/Chats com nomes inapropriados.\n
@@ -965,9 +965,9 @@ Regras do Nebulous\n
 14. Não faça spam no chat ou e-mail.\n
         \n
 Caso você não cumpra nenhuma dessas regras, sua conta poderá ser banida.\n
-(O tempo da punição pode ser de algumas horas até o banimento permanente, dependendo da situação e da gravidade do problema).\n
+(O tempo de punição pode ser de algumas horas até o banimento permanente, dependendo da situação e da gravidade do problema).\n
 \n
-Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
+Se você notar um jogador quebrando as regras do jogo, denuncie-o a um Moderador.
     </string>
     <string name="Blob_Chat_Bubbles">Bolhas do Chat no Blob</string>
     <string name="CHRISTMAS_ADVENT_SKINS">CHEGADA DO NATAL</string>
@@ -975,7 +975,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="Open_Present">Abrir Presente</string>
     <string name="OPEN">ABRIR</string>
     <string name="Halo">Aréola</string>
-    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Para usar esta aréola, você deve ter pelo menos o nível  %1$s e ganhar %2$s conquistas."</string>
+    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Para usar esta aréola, você deve ter pelo menos o nível  1 e ganhar 10 conquistas."</string>
     <string name="Halos">Aréolas</string>
     <string name="CAMPAIGN">CAMPANHA</string>
     <string name="Mission">Missão</string>
@@ -993,7 +993,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="App_Perf_Stats">Estatísticas do Desempenho do App</string>
     <string name="COPY">COPIAR</string>
     <string name="_1v1_Ultra">1v1 Ultra</string>
-    <string name="ArenaDescriptionUltra">O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
+    <string name="ArenaDescriptionUltra">O vencedor receberá as plasmas. Negociar vitórias ou "pontos gratuitos" resultará em  banimento.</string>
     <string name="BANNED">BANIDO</string>
     <string name="CLAN_MEMBERS">MEMBROS DO CLÃ</string>
     <string name="CLAN_REQUESTS">SOLICITAÇÕES DO CLÃ</string>
@@ -1018,8 +1018,8 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="Save_the_profile_first">Salve o perfil primeiro</string>
     <string name="Birthday">Aniversário</string>
     <string name="Mass_Boost">Impulso de Massa</string>
-    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">O Impulso de Massa não funciona em arenas, torneios e Guerras de Clãs!</string>
-    <string name="ArenaDescriptionPure">SEM autoclick ou ultraclick. Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
+    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">O Impulso de massa não funciona em arenas, torneios e Guerras de Clãs!</string>
+    <string name="ArenaDescriptionPure">Sem autoclick ou ultraclick. Você terá apenas uma vida. O vencedor receberá as plasmas. Negociar vitórias ou "pontos gratuitos" resultará em banimento.</string>
     <string name="_1v1_Pure">1v1 Puro</string>
     <string name="Allow_Ultraclick">Permitir Ultraclick</string>
     <string name="Allow_Mass_Boost">Permitir Impulso de Massa</string>
