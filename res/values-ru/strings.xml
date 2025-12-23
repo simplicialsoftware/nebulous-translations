@@ -5,9 +5,9 @@
     <string name="Control_">"Управление:"</string>
     <string name="CLOSE">"ЗАКРЫТЬ"</string>
     <string name="Stick_Size_">"Размер джойстика:"</string>
-    <string name="Stick_Margin_">"Отрыв джойстика:"</string>
+    <string name="Stick_Margin_">"Отступ джойстика:"</string>
     <string name="Button_Size_">"Размер кнопок:"</string>
-    <string name="Button_Margin_">"Отрыв кнопок:"</string>
+    <string name="Button_Margin_">"Отступ кнопок:"</string>
     <string name="Buttons_">"Кнопки:"</string>
     <string name="DEFAULTS">"ВОССТАНОВИТЬ ПО УМОЛЧАНИЮ"</string>
     <string name="WEEKLY">"ЕЖЕНЕДЕЛЬНЫЙ"</string>
@@ -35,8 +35,8 @@
 
     <string name="_Rank_">" Ранг "</string>
     <string name="_Alias_">" Никнейм "</string>
-    <string name="_Score_">" Счёт "</string>
-    <string name="Score__">"Счёт: "</string>
+    <string name="_Score_">" Очки "</string>
+    <string name="Score__">"Очки: "</string>
     <string name="Recombine_">"Соединение: "</string>
     <string name="WINNER_">"ПОБЕДИТЕЛЬ:"</string>
     <string name="IDLE">"ОФЛАЙН"</string>
@@ -90,7 +90,7 @@
     <string name="Green_Team">"Зеленая команда"</string>
     <string name="Blue_Team">"Синяя команда"</string>
     <string name="Yellow_Team">"Жёлтая команда"</string>
-    <string name="Signed_in_as_">"Вы вошли как:"</string>
+    <string name="Signed_in_as_">"Авторизован как:"</string>
     <string name="Not_signed_in_">"Не авторизован!"</string>
     <string name="SET_NAME">"ИЗМЕНИТЬ НИКНЕЙМ"</string>
     <string name="SIGN_OUT">"ВЫЙТИ"</string>
@@ -184,7 +184,7 @@
     <string name="Self_Contained">"Один в поле воин…"</string>
     <string name="Survivalist">"Выживший"</string>
     <string name="Ultramassive">"Ультра-массивный"</string>
-    <string name="Rapid_Ascension">"Быстрое возвышение"</string>
+    <string name="Rapid_Ascension">"Быстрое восхождение"</string>
     <string name="Revenge">"Месть"</string>
     <string name="Doge_Pound">"Поедатель собачек"</string>
 
@@ -490,7 +490,7 @@
 
     <string name="Validating">"Подтверждение"</string>
 
-    <string name="Randomize">"Случайное"</string>
+    <string name="Randomize">"Случайно"</string>
 
     <string name="Harassment">"Домогательство"</string>
 
@@ -659,8 +659,8 @@
     <string name="Enable_Challenges">"Включить вызовы"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"Подождите, пока текущий вызов истечет."</string>
     <string name="CHALLENGE_OPTIONS">"Настройка вызова"</string>
-    <string name="Accept">"Принять"</string>
-    <string name="Decline">"Отклонить"</string>
+    <string name="Accept">"Согласиться"</string>
+    <string name="Decline">"Отказаться"</string>
     <string name="Challenge_Declined">"Вызов отклонён."</string>
     <string name="Spectators_">"Зрители:"</string>
     <string name="Nebula_Collector">"Собиратель тумманостей"</string>
@@ -684,7 +684,7 @@
     <string name="Collect_1_000_suns_">"Соберите 1.000 солнц."</string>
     <string name="Collect_5_000_suns_">"Соберите 5.000 солнц."</string>
     <string name="Collect_10_000_suns_">"Соберите 10.000 солнц."</string>
-    <string name="Reward_Videos_">"Видео за вознаграждение!"</string>
+    <string name="Reward_Videos_">"Видео за награду!"</string>
     <string name="Free_Plasma_">"Бесплатная плазма!"</string>
     <string name="moons_">"лун."</string>
     <string name="Moon_Collector">"Собиратель лун"</string>
@@ -722,7 +722,7 @@
     <string name="Double_Plasma__">"Двойная плазма!"</string>
     <string name="Ends">"Конец"</string>
     <string name="Select_Clan_Member">"Выберите участника клана"</string>
-    <string name="Inappropriate_Skin">"Некорректный скин"</string>
+    <string name="Inappropriate_Skin">"Недопустимый"</string>
     <string name="Approved">"Утверждено"</string>
     <string name="Rejected">"Отклонено"</string>
     <string name="Refunded">"Возвращено"</string>
@@ -774,7 +774,7 @@
     <string name="Subject">Адресат</string>
     <string name="SEND">Отправить</string>
     <string name="To">Для:</string>
-    <string name="RESET">Стереть</string>
+    <string name="RESET">Сбросить</string>
     <string name="Message_Sent_">Сообщение отправлено!</string>
     <string name="From">От:</string>
     <string name="Sent">Отправлено</string>
@@ -815,7 +815,7 @@
     <string name="Registered">Зарегистрирован</string>
     <string name="Not_Registered">Не зарегистрирован</string>
     <string name="Prize_Pool">Призовой фонд</string>
-    <string name="Registrants">Регистранты:</string>
+    <string name="Registrants">Зарегистрированные:</string>
     <string name="Round_Of">Раунд</string>
     <string name="Next_Tournament">Следующий турнир</string>
     <string name="Plasma_Won">Плазмы выиграно</string>
@@ -1139,7 +1139,7 @@
     <string name="Requests">Запросы</string>
     <string name="Invites">Приглашения</string>
     <string name="Show_Spectator_Count">Отображать счетчик наблюдателей</string>
-    <string name="TRY_IT_">Попробовать!</string>
+    <string name="TRY_IT_">Попробуй!</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">Вы должны купить набор, чтобы использовать это.</string>
     <string name="GET_PACK">Купить набор</string>
     <string name="Position_in_queue">Место в очереди</string>
@@ -1200,7 +1200,7 @@
     <string name="Show_Boost_Button">Отображать кнопку ускорения</string>
     <string name="Spectate_Killer_On_Death">Просмотр убийцы после смерти</string>
     <string name="Rainbow_Holes">Разноцветные дыры</string>
-    <string name="LIFE_STEAL">Кража жизни</string>
+    <string name="LIFE_STEAL">Похищение жизни</string>
     <string name="Kicked_From_Game_">Выгнан из игры!</string>
     <string name="Conquest">Покорение</string>
     <string name="Finish_the_last_mission_in_the_campaign_">Пройдите последнюю миссию в компании.</string>
@@ -1294,7 +1294,7 @@
 </string>
     <string name="ID_Sort">Сортировать по ID</string>
     <string name="Master_Tamer">Главный укротитель</string>
-    <string name="Get_ALL_Pets_To_Level_100_">Довести ВСЕХ питомцев до уровня 100</string>
+    <string name="Get_ALL_Pets_To_Level_100_">Прокачайте ВСЕХ питомцев до 100 уровня</string>
     <string name="TAMER">УКРОТИТЕЛЬ</string>
     <string name="Allow_Recombine">Разрешить рекомбинацию</string>
     <string name="Defenders">Защитники</string>
@@ -1389,7 +1389,7 @@
         <item>"Маленькое"</item>
         <item>"Нормальное"</item>
         <item>"Большое"</item>
-        <item>"HUGE"</item>
+        <item>"Огромное"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
