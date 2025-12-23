@@ -3,7 +3,7 @@
     <string name="Players">"플레이어"</string>
     <string name="Control_">"조작 :"</string>
     <string name="CLOSE">"닫기"</string>
-    <string name="Stick_Size_">"스틱 사이즈 :"</string>
+    <string name="Stick_Size_">"스틱 크기 :"</string>
     <string name="Stick_Margin_">"스틱 여백 : "</string>
     <string name="Button_Size_">"버튼 크기 :"</string>
     <string name="Button_Margin_">"버튼 여백 :"</string>
@@ -152,8 +152,8 @@
     <string name="Dot_Eater">"도트를 먹는 자"</string>
     <string name="Dot_Gulper">"도트를 벌컥벌컥"</string>
     <string name="Dot_Gobbler">"도트 탐식가"</string>
-    <string name="Dot_Devourer">"도트 대식가"</string>
-    <string name="Dot_Gormandizer">"도트 걸귀"</string>
+    <string name="Dot_Devourer">"도트를 삼키는 자"</string>
+    <string name="Dot_Gormandizer">"도트 대식가"</string>
     <string name="Dot_Sommelier">"도트 소믈리에"</string>
 
     <string name="Quadra_Gulp">"쿼드라 꿀꺽"</string>
@@ -238,7 +238,7 @@
     <string name="Biggest_Blob_">"가장 큰 방울 :"</string>
     <string name="Highest_Score_">"최고 점수 :"</string>
     <string name="Average_Score_">"평균 점수 :"</string>
-    <string name="Times_Played_">"플레이 한 시간 :"</string>
+    <string name="Times_Played_">"플레이 한 횟수 :"</string>
     <string name="Longest_Life_">"가장 긴 수명 : "</string>
     <string name="Games_Won_">"승리 횟수 :"</string>
 
@@ -335,7 +335,7 @@
     <string name="Reach_a_score_of_">"점수 "</string>
     <string name="_in_a_FFA_Game">" 점을 개인전에서 달성"</string>
     <string name="_in_a_Teams_Game">" 점을 팀전에서 달성"</string>
-    <string name="_dots">" 개의 점들"</string>
+    <string name="_dots">" 개의 도트"</string>
     <string name="_player_blobs">" 개의 플레이어 방울"</string>
     <string name="Absorb_">"다음을 흡수하기:  "</string>
     <string name="Collect_">"다음을 수집하기:  "</string>
@@ -384,9 +384,9 @@
 
 
     <string name="snowflakes_">"개의 눈송이."</string>
-    <string name="presents_">"개의 선물."</string>
+    <string name="presents_">"개의 선물상자."</string>
     <string name="Snowflake_Collector">"눈송이 수집가"</string>
-    <string name="Present_Collector">"선물 수집가"</string>
+    <string name="Present_Collector">"선물상자 수집가"</string>
 
 
     <string name="Season">"시즌"</string>
@@ -509,11 +509,11 @@
     <string name="Arena_Mode">"아레나 모드"</string>
     <string name="Connection_Lost">"연결 오류"</string>
 
-    <string name="Present_Hoarder">"선물 축적가"</string>
-    <string name="Present_Mogul">"선물 탐색가"</string>
-    <string name="Collect_1_000_presents_">"선물 1,000 개 수집하기"</string>
-    <string name="Collect_5_000_presents_">"선물 5,000 개 수집하기"</string>
-    <string name="Collect_10_000_presents_">"선물 10,000 개 수집하기"</string>
+    <string name="Present_Hoarder">"선물상자 축적가"</string>
+    <string name="Present_Mogul">"선물상자 탐색가"</string>
+    <string name="Collect_1_000_presents_">"선물상자 1,000 개 수집하기"</string>
+    <string name="Collect_5_000_presents_">"선물상자 5,000 개 수집하기"</string>
+    <string name="Collect_10_000_presents_">"선물상자 10,000 개 수집하기"</string>
     <string name="Loading_reward_video___">"비디오 로딩 중…"</string>
     <string name="Progress">"진행"</string>
     <string name="Snowflake_Hoarder">"눈송이 축적가"</string>
@@ -1134,7 +1134,7 @@ Nebulous 규칙\n
     <string name="Left_the_group" translatable="true" tools:ignore="Untranslatable">그룹을 떠났습니다.</string>
     <string name="Tricks_Performed_">수행된 트릭 :</string>
     <string name="Not_enough_plasma_">플라즈마가 충분하지 않습니다!</string>
-    <string name="GET_PLASMA">혈장 도망</string>
+    <string name="GET_PLASMA">플라즈마 얻기</string>
     <string name="ASTEROIDS">소행성</string>
     <string name="CHRISTMAS">성탄절</string>
     <string name="Reason">이유</string>
