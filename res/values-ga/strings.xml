@@ -43,8 +43,8 @@
     <string name="Name_Taken_">"Ainm a rinneadh."</string>
     <string name="CONNECTED">"CEANGAILTE"</string>
     <string name="JOINING___">"AG AONTAÍ …"</string>
-    <string name="PLAYING">"PLAYING"</string>
-    <string name="MULTIPLAYER">"MULTIPLAYER"</string>
+    <string name="PLAYING">"AG IMIRT"</string>
+    <string name="MULTIPLAYER">"IL IMREOIR"</string>
 
     <string name="JOIN">"ISTEACH"</string>
 
@@ -52,7 +52,7 @@
     <string name="Lobby_Name">"Ainm an Lobaidh"</string>
     <string name="Not_found_">"Ní bhfuarthas."</string>
 
-    <string name="Hidden">"Hidden"</string>
+    <string name="Hidden">"CEILTE"</string>
 
 
     <string name="SERVER">"FREASTAL"</string>
@@ -127,7 +127,7 @@
     <string name="REFRESH">"NUACHT"</string>
     <string name="DONE">"FÉIDIR"</string>
     <string name="Friend_Request_Sent">"Iarratas ar Chara Seolta …"</string>
-    <string name="ERROR">"ERROR"</string>
+    <string name="ERROR">"BOTÚN"</string>
     <string name="CONTINUE">"LEANÚINT AR AGHAIDH"</string>
     <string name="Global_" formatted="false">"% Domhanda"</string>
     <string name="FRIEND_CHAT">"FRIEND CHAT"</string>
