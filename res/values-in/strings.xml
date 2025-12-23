@@ -7,7 +7,7 @@
     <string name="Button_Size_">"Ukuran tombol:"</string>
     <string name="Button_Margin_">"Tepi Tombol:"</string>
     <string name="Buttons_">"Tombol:"</string>
-    <string name="DEFAULTS">"TAMPILAN AWAL"</string>
+    <string name="DEFAULTS">"BAWAAN"</string>
     <string name="WEEKLY">"MINGGUAN"</string>
     <string name="DAILY">"HARIAN"</string>
     <string name="Server_">"Server:"</string>
@@ -15,7 +15,7 @@
     <string name="Show_Names">"Tampilkan Nama"</string>
     <string name="Show_Avatars">"Tampilkan Skin"</string>
     <string name="PLAY">"MAIN"</string>
-    <string name="OPTIONS">"OPSI"</string>
+    <string name="OPTIONS">"PILIHAN"</string>
 
     <string name="Avatar_">"Skins:"</string>
     <string name="Name_">"Nama:"</string>
@@ -81,7 +81,7 @@
     <string name="Signed_in_as_">"Login sebagai:"</string>
     <string name="Not_signed_in_">"Tidak Login!"</string>
     <string name="SET_NAME">"ATUR NAMA"</string>
-    <string name="SIGN_OUT">"LOGOUT"</string>
+    <string name="SIGN_OUT">"KELUAR"</string>
     <string name="ACHIEVEMENTS">"PRESTASI"</string>
     <string name="STATISTICS">"STATISTIK"</string>
     <string name="XP_">"XP:"</string>
