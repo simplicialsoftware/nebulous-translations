@@ -1079,14 +1079,14 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
 - Silahdan istifadə edən insanlar \n
 - Əl ilə ədəbsiz siqnallar \n
     </string>
-    <string name="PLAY_ONLINE_">"ONLINE OYNA!"</string>
+    <string name="PLAY_ONLINE_">"ONLAYN OYNA!"</string>
 
     <string name="Absorb_10_000_000_dots">"10,000,000 nöqtəni udmaq"</string>
     <string name="Dot_Deity">"Nöqtə İlahı"</string>
     <string name="Mass_Mastery">"Kütlə Ustası"</string>
     <string name="Gain_100_000_000_mass">"100.000.000 kütlə qazan"</string>
     <string name="VET">"VET"</string>
-    <string name="Mute">"Susturmaq"</string>
+    <string name="Mute">"Susdurmaq"</string>
     <string name="Unmute">"Səs aç"</string>
     <string name="Community">"İcma"</string>
     <string name="Buy">"Al"</string>
@@ -1096,8 +1096,8 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
     <string name="You_can_purchase_this_community_skin_for_">Siz bu icma cildini satın ala bilərsiniz</string>
     <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">İcma cildləri digər oyunçular tərəfindən yüklənir. İcma cildləri fərdi cildlər kimi işləyir və adi cildlərlə canlandırıla bilər.</string>
     <string name="VIEW_UPLOADER">"Yükləyənə bax"</string>
-    <string name="POPULAR">"Ən Populyar"</string>
-    <string name="NEW">"Yeni"</string>
+    <string name="POPULAR">"ƏN POPULYAR"</string>
+    <string name="NEW">"YENİ"</string>
     <string name="Manage_Configurations">"Konfiqurasiyaları idarə edin"</string>
     <string name="Leave_blank_for_all_uploaders_">"Bütün yükləyənlər üçün boş buraxın"</string>
     <string name="More___">"Daha çox…"</string>
@@ -1148,8 +1148,8 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
     <string name="Rainbow">"Göy qurşağı"</string>
     <string name="Horizontal">"Üfüqi"</string>
     <string name="Vertical">"Şaquli"</string>
-    <string name="GROUP">"Qrup"</string>
-    <string name="LEAVE">"Tərk et"</string>
+    <string name="GROUP">"QRUP"</string>
+    <string name="LEAVE">"TƏRK ET"</string>
     <string name="Group">"Qrup"</string>
     <string name="Not_in_a_group_">"Qrupda deyil"</string>
     <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">"Bu qrup ID-ni dostlarınıza verin ki, onlar qrupa qoşula bilsinlər:"</string>
@@ -1224,14 +1224,14 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
     <string name="voice_chat_prompt">"Səsli söhbət aktiv olduqda tətbiqin məzmun reytinqi dəyişə bilər. Ən yaxşı audio üçün qulaqlıqdan istifadə edin"</string>
     <string name="Only_leader_can_answer_requests_">"Yalnız Lider Müraciətlərə cavab verə bilər"</string>
     <string name="Sent_request_not_invited_">"Müraciət göndərildi"</string>
-    <string name="REMOVE_SKIN_FROM_COMMUNITY_">"Cildi ictimaiiyyətdən silin"</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">"Cildi ictimaiyyətdən silin"</string>
     <string name="This_cannot_be_undone_">"Bu geri qaytarıla bilməz!"</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">"%d həyat üçün müvəqqəti gücləndirici əldə etmək üçün videoya baxın!"</string>
     <string name="WATCH_VIDEO_">"Video izləyin!"</string>
     <string name="PERMANENT_BOOSTS">"Daimi Gücləndirmələr"</string>
     <string name="Video_failed_to_load_">"Videonu yükləmək alınmadı!"</string>
     <string name="Video_Ready_">"Video Hazırdır!"</string>
-    <string name="GIVE_PLASMA">"Plazma Bağışlayın"</string>
+    <string name="GIVE_PLASMA">"Plazma Verin"</string>
     <string name="Specify_amount_">"Məbləği təyin edin:"</string>
     <string name="Specify_amount_again_to_confirm_">"Təsdiq etmək üçün məbləği yenidən göstərin:"</string>
     <string name="Amounts_did_not_match_">"Məbləğlər uyğun gəlmədi!"</string>
@@ -1310,7 +1310,7 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
 "Fərdi dəriniz təsdiqlənmədi. Bunun ən çox yayılmış səbəbləri bunlardır. YÜKLƏMƏYİN:
 1. Real insanın Şəkli.\n
 2. Üst geyimsiz Şəkil\n
-3. Kiminsə təlqid edən rol və ya səhnədə şəkili \n
+3. Kiminsə təqlid edən rol və ya səhnədə şəkili \n
 4. Alkoqol və Narkotikin təsviri(Marixuana həmçinin)\n
 5. Nebulous-da səviyyə cildləri kimi onsuzda olan əsərlər.Belə cildlərin qəbul olunması üçün  Bilinəcək dərəcədə dəyişilməlidir.\n
 
@@ -1328,7 +1328,7 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
     <string name="SPLIT_">"Bölünmə:"</string>
     <string name="WALLS">"DİVARLAR"</string>
     <string name="COMP_BANNED">"KOMP QADAĞANDI"</string>
-    <string name="FIND_GAMES">"Oyun Axtar"</string>
+    <string name="FIND_GAMES">"Oyunlar Axtar"</string>
     <string name="PLAY_SOLO">"Tək Oyna"</string>
     <string name="SET_EMOTE">"Emosiya qur"</string>
     <string name="Winner_Winner_Chicken_Dinner">"Qalibin Şam Yeməyi"</string>
@@ -1339,20 +1339,20 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
     <string name="The_winner_will_receive_x_plasma_">"Qalib %s plazma alacaq!"</string>
     <string name="admin_commands">
 "Əmrlər :
-!kick [0–31] (atmaq)
-!reset (sıfırla)
-!welcome {message} (qarşılama Mesajı)
+!kick [0–31] (Atmaq)
+!reset (Sıfırla)
+!welcome {message} (Qarşılama Mesajı)
 !difficulty [0-3] or [1-4] for Campaign (çətinlik)
 !hidden (Gizli oyun)
 !guests (Hesabı olmayan oyunçulara icazə)
 !slowchat (Yavaş Çat)
 !pausechat (Çat-ı dayandır)
-!mute {id} (Sustur)
+!mute {id} (Susdur)
 !admin {id} (Admin ver)
-!allow {id} (icazəli oyunçu)
+!allow {id} (İcazəli oyunçu)
 !allow reset (İcazələri sıfırla)"
 </string>
-    <string name="ID_Sort">"ID_Sort"</string>
+    <string name="ID_Sort">"ID_Çeşidi"</string>
     <string name="Master_Tamer">"Usta Əhilləşdirici"</string>
     <string name="Get_ALL_Pets_To_Level_100_">"Bütün Heyvanları 100-cü səviyyəyə çatdır"</string>
     <string name="TAMER">"Əhilləşdirici"</string>
@@ -1387,7 +1387,7 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
     <string name="activate">"Aktivləşdir"</string>
     <string name="clan_id">"KLAN ID"</string>
     <string name="language_change_warning">"Dili dəyişmək proqramın yenidən başlamasına səbəb olacaq."</string>
-    <string name="xmas_gift_boost_message">"Sənə 1 Günlük 3x Plasma Gücləndiricisi Hədiyyə edildi"</string>
+    <string name="xmas_gift_boost_message">"Sənə 1 Günlük 3x Plazma Gücləndiricisi Hədiyyə edildi"</string>
     <string name="no_response">"Serverdən Cavab Gəlmədi.Xahiş Edirik İnternet bağlantınızı Yoxlayın."</string>
     <string name="RAMADAN">"RAMAZAN"</string>
     <string name="SUDDEN_ATTACK">"Qəfil Hücum"</string>
@@ -1422,7 +1422,7 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
         <item>"Şəbəkə (Qaranlıq)"</item>
         <item>"Şəbəkə (Ağ)"</item>
         <item>"Xüsusi"</item>
-        <item>"heç biri"</item>
+        <item>"Heç biri"</item>
     </string-array>
 
     <string-array name="difficulties">
