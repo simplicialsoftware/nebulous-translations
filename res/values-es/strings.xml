@@ -27,7 +27,7 @@
     <string name="Yes">"Sí"</string>
     <string name="No">"No"</string>
     <string name="WAIT">"ESPERA…"</string>
-    <string name="Must_Specify_Name_">"Debes especificar un nombre "</string>
+    <string name="Must_Specify_Name_">"Debes Especificar un Nombre "</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"El contenido de esta aplicación puede variar cuando se buscan grupos "</string>
 
@@ -104,7 +104,7 @@
     <string name="Single_Player_Stats">"Estadísticas en modo Un Jugador"</string>
 
     <string name="Level">"Nivel"</string>
-    <string name="PAUSED">"EN PAUSA"</string>
+    <string name="PAUSED">"PAUSADO"</string>
 
 
     <string name="FRIENDS">"AMIGOS"</string>
@@ -237,7 +237,7 @@
     <string name="Biggest_Blob_">"Blob más grande:"</string>
     <string name="Highest_Score_">"Puntuación más alta:"</string>
     <string name="Average_Score_">"Puntuación promedio:"</string>
-    <string name="Times_Played_">"Partidas jugadas:"</string>
+    <string name="Times_Played_">"Veces jugadas:"</string>
     <string name="Longest_Life_">"Vida más larga:"</string>
     <string name="Games_Won_">"Partidas ganadas:"</string>
 
@@ -248,7 +248,7 @@
     <string name="Special_Effects">"Efectos especiales"</string>
     <string name="Blob_Mushiness">"Blandura del blob"</string>
 
-    <string name="Specify_private_game_name">"Especificar nombre de la partida privada"</string>
+    <string name="Specify_private_game_name">"Especificar nombre de la sala privada"</string>
     <string name="In_Game_Chat">"Chat en la partida"</string>
     <string name="My_Status_">"Mi estado:"</string>
     <string name="Game_Size_">"Tamaño del mapa:"</string>
@@ -296,13 +296,13 @@
     <string name="A_clan_with_that_name_already_exists_">"Ya existe un clan con ese nombre "</string>
     <string name="Duration_">"Duración:"</string>
 
-    <string name="FFA_Time_Domination">"Dominio en TCT Tiempo"</string>
-    <string name="Teams_Time_Domination">"Dominio en Equipos Tiempo"</string>
-    <string name="CTF_Domination">"Dominio en CLB"</string>
+    <string name="FFA_Time_Domination">"Dominación en TCT Tiempo"</string>
+    <string name="Teams_Time_Domination">"Dominación en Equipos Tiempo"</string>
+    <string name="CTF_Domination">"Dominación en CLB"</string>
     <string name="CTF_Hat_Trick">"Triplete en CLB"</string>
-    <string name="Survival_Domination">"Dominio en Supervivencia"</string>
+    <string name="Survival_Domination">"Dominación en Supervivencia"</string>
     <string name="I_Will_Survive">"Sobreviviré"</string>
-    <string name="Soccer_Domination">"Dominio en Fútbol"</string>
+    <string name="Soccer_Domination">"Dominación en Fútbol"</string>
     <string name="Soccer_Hat_Trick">"Triplete en Fútbol"</string>
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Gana por 2.500 puntos en TCT Tiempo."</string>
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Gana por 7.500 puntos en Equipos Tiempo."</string>
@@ -422,7 +422,7 @@
     <string name="Please_Wait___">"Por favor, espera…"</string>
     <string name="Purchasing">"Comprando"</string>
 
-    <string name="Purchase_Successful_">"¡Compra realizada con éxito!"</string>
+    <string name="Purchase_Successful_">"¡Compra exitosa!"</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Puede que tengas que reconectarte para utilizar lo comprado."</string>
     <string name="Confirm_Purchase">"Confirmar compra"</string>
     <string name="x3_XP_24_hours">"3x EXP 24 horas"</string>
@@ -561,7 +561,7 @@
 
     <string name="Remove_Player">"Eliminar jugador"</string>
     <string name="Reject_Invitation">"Rechazar invitación"</string>
-    <string name="Leave_Game">"Salir del juego"</string>
+    <string name="Leave_Game">"Abandonar el juego"</string>
     <string name="Remove_Friend">"Eliminar amigo"</string>
     <string name="Remove_Clan_Member">"Expulsar Miembro del Clan"</string>
     <string name="Flag_lobby_as_inappropriate">"Marcar sala como inapropiada"</string>
@@ -602,7 +602,7 @@
 
     <string name="Facebook_Profile">"Perfil de Facebook"</string>
     <string name="You_must_be_signed_in_to_Facebook_">"Debes iniciar sesión en Facebook "</string>
-    <string name="copy_details">"Copiar detalles"</string>
+    <string name="copy_details">"copiar detalles"</string>
     <string name="copied_error_details_to_clipboard">"detalles del error copiados al portapapeles"</string>
 
     <string name="No_file_browser_installed_">"¡No hay ningún explorador de archivos instalado!"</string>
@@ -743,7 +743,7 @@
     <string name="Clan_Contribution">"Contribución al Clan"</string>
     <string name="FILTER">"FILTRAR"</string>
     <string name="List_Count_">"Lista:"</string>
-    <string name="Download_Skins">"Descargar skins"</string>
+    <string name="Download_Skins">"Descargar Skins"</string>
     <string name="ARENA_HISTORY">"HISTORIAL ARENA"</string>
     <string name="WIN">"VICTORIA"</string>
     <string name="LOSS">"DERROTA"</string>
