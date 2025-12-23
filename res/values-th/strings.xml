@@ -68,8 +68,8 @@
     <string name="Difficulty_">"ระดับความยาก:"</string>
     <string name="Delay_Disconnect">"ดีเลย์ตัดการเชื่อมต่อ"</string>
 
-    <string name="Max_Players">"ผู้เล่นสูงสุด"</string>
-    <string name="Min_Players">"ผู้เล่นขั้นต่ำ"</string>
+    <string name="Max_Players">"จำนวนผู้เล่นสูงสุด"</string>
+    <string name="Min_Players">"จำนวนผู้เล่นขั้นต่ำ"</string>
 
     <string name="OK">"ตกลง"</string>
     <string name="CANCEL">"ยกเลิก"</string>
@@ -168,7 +168,7 @@
     <string name="Blobastrophe">"นักกินขั้นเทพ"</string>
     <string name="Blobihilation">"สุดยอดนักกิน"</string>
     <string name="Blobageddon">"อื้ม…อาโหร่ย"</string>
-    <string name="Blobocalypse">"นักกินจุ"</string>
+    <string name="Blobocalypse">"เทพผู้กลืนกิน"</string>
 
     <string name="Experienced_Nebulator">"ผู้มีประสบการณ์เนบิวเลเตอร์"</string>
     <string name="Expert_Nebulator">"ผู้เชี่ยวชาญเนบิวเลเตอร์"</string>
@@ -653,7 +653,7 @@
     <string name="Challenge_Sent">"ส่งคำท้าแล้ว"</string>
     <string name="_1v1_Challenge_">"ท้าทาย 1v1!"</string>
     <string name="__has_challenged_you_to_a_1v1_match_">"%s ได้ท้าให้คุณแข่งขันแบบ 1v1!"</string>
-    <string name="Challenge_Expired">"คำท้าหมดอายุ"</string>
+    <string name="Challenge_Expired">"คำท้าหมดเวลา"</string>
     <string name="Enable_Challenges">"เปิดใช้งานการท้าทาย"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"รอให้คำท้าปัจจุบันหมดอายุก่อนค่อยเชิญใหม่"</string>
     <string name="CHALLENGE_OPTIONS">"ตัวเลือกการท้าทาย"</string>
@@ -717,7 +717,7 @@
     <string name="Collect_10000_leaves_">"เก็บ 10,000 ใบไม้"</string>
     <string name="Eject">"สกินตอนยิง"</string>
     <string name="Eject_Skin">"สกินตอนยิง"</string>
-    <string name="Double_Plasma__">"ดับเบิ้ลพลาสมา!!"</string>
+    <string name="Double_Plasma__">"พลาสมาสองเท่า!!"</string>
     <string name="Ends">"จบ"</string>
     <string name="Select_Clan_Member">"เลือกสมาชิกแคลน"</string>
     <string name="Inappropriate_Skin">"สกินไม่เหมาะสม"</string>
@@ -949,7 +949,7 @@
     <string name="Friend_Added_">เพิ่มเป็นเพื่อนแล้ว!</string>
     <string name="_in_a_16x_Split_Game"> ในเกมแยก 16x</string>
     <string name="Rules">กฎระเบียบ</string>
-    <string name="Blob_Chat_Bubbles">แชทขึ้นบนตัว</string>
+    <string name="Blob_Chat_Bubbles">แสดงแชทขึ้นบนตัว</string>
     <string name="CHRISTMAS_ADVENT_SKINS">คริสต์มาสมาถึงแล้ว</string>
     <string name="You_cannot_open_this_present_yet_">คุณยังไม่สามารถเปิดกล่องของขวัญชิ้นนี้ได้!</string>
     <string name="Open_Present">เปิดกล่องของขวัญ</string>
@@ -1003,7 +1003,7 @@
     <string name="CLAN_REQUESTS">คำขอเข้าร่วมแคลน</string>
     <string name="Pet_1">สัตว์เลี้ยง 1</string>
     <string name="Pet_2">สัตว์เลี้ยง 2</string>
-    <string name="Second_Pet">ฟีเจอร์นี้ทำให้คุณสามารถมีสัตว์เลี้ยงสองตัวพร้อมกัน!</string>
+    <string name="Second_Pet">ฟีเจอร์นี้ทำให้คุณสามารถใช้สัตว์เลี้ยงสองตัวพร้อมกัน!</string>
     <string name="This_item_requires">ไอเทมนี้ต้องการ</string>
     <string name="not_enough_plasma">พลาสมาไม่เพียงพอ</string>
     <string name="MARK_UNREAD">ทำเครื่องหมายว่ายังไม่ได้อ่าน</string>
@@ -1227,7 +1227,7 @@
     <string name="Win_100_Tournaments">ชนะ 100 ทัวร์นาเมนต์</string>
     <string name="HERO">นักรบ</string>
     <string name="CHAMPION">แชมป์เปี้ยน</string>
-    <string name="DASH">แข่งวิ่ง</string>
+    <string name="DASH">พุ่ง</string>
     <string name="setting_changed">อัปเดตการตั้งค่าแล้ว คุณอาจต้องเชื่อมต่อกับเซิร์ฟเวอร์ใหม่อีกครั้งเพื่อให้มีผล</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">ทำ 10,000 ทริคในเกมทริคโหมด</string>
     <string name="Tricky">นักเล่นทริค</string>
@@ -1292,7 +1292,7 @@
 !allow reset" | (รีเซ็ตผู้เล่นที่อนุญาตให้เข้าร่วมห้องเกม)
 </string>
     <string name="ID_Sort">เรียงตามไอดี</string>
-    <string name="Master_Tamer">คนรักสัตว์</string>
+    <string name="Master_Tamer">ปรมาจารย์สัตว์</string>
     <string name="Get_ALL_Pets_To_Level_100_">ทำให้สัตว์เลี้ยงทั้งหมดถึงเลเวล 100</string>
     <string name="TAMER">คนรักสัตว์</string>
     <string name="Allow_Recombine">อนุญาตให้รวมตัวใหม่</string>
@@ -1330,7 +1330,7 @@
     <string name="no_response">ไม่มีการตอบสนองจากเซิร์ฟเวอร์ โปรดตรวจสอบการเชื่อมต่ออินเตอร์เน็ต</string>
     <string name="RAMADAN">รอมฎอน</string>
     <string name="SUDDEN_ATTACK">การโจมตีอย่างกะทันหัน</string>
-    <string name="_2x_skin_resolution">ความละเอียดของผิว 2 เท่า</string>
+    <string name="_2x_skin_resolution">ความละเอียดของสกิน 2 เท่า</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">คุณเป็นเพื่อนกันแล้ว.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">บัญชีจะต้องมีอายุ 1 วันจึงจะสามารถส่งจดหมายได้.</string>
@@ -1368,7 +1368,7 @@
         <item>"ง่าย"</item>
         <item>"กลาง"</item>
         <item>"ยาก"</item>
-        <item>"เป็นไปไม่ได้"</item>
+        <item>"ยากพิเศษ"</item>
     </string-array>
 
     <string-array name="sizes">
