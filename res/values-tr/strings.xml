@@ -122,7 +122,7 @@
 
     <string name="Online">"Çevrim İçi"</string>
     <string name="Unknown">"Bilinmeyen"</string>
-    <string name="Offline">"çevrim dışı"</string>
+    <string name="Offline">"Çevrim Dışı"</string>
     <string name="Achievement_Earned">"Kazanım Elde Edildi"</string>
     <string name="REFRESH">"YENİLE"</string>
     <string name="DONE">"TAMAMLANDI"</string>
@@ -552,7 +552,7 @@
 
 
     <string name="Invited">"Davet Edildi"</string>
-    <string name="Invitation_Sent">"Davetiniz Gönderilmiştir."</string>
+    <string name="Invitation_Sent">"Davetiniz Gönderildi."</string>
     <string name="REPORT">"BİLDİR"</string>
     <string name="Reported">"Bildirildi"</string>
     <string name="Threats">"Tehditler"</string>
