@@ -246,7 +246,7 @@
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Se encontró un respaldo de modo Un Jugador con más experiencia. ¿Deseas restaurarlo?"</string>
 
     <string name="Special_Effects">"Efectos especiales"</string>
-    <string name="Blob_Mushiness">"Blandura del blob"</string>
+    <string name="Blob_Mushiness">"Blandura del Blob"</string>
 
     <string name="Specify_private_game_name">"Especificar nombre de la partida privada"</string>
     <string name="In_Game_Chat">"Chat en la partida"</string>
