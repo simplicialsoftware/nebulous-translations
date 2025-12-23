@@ -22,7 +22,7 @@
     <string name="Name_">"Iм'я:"</string>
 
     <string name="Loading___">"Завантаження.."</string>
-    <string name="Connecting___">"Приєднання…"</string>
+    <string name="Connecting___">"Прnиєднання…"</string>
 
     <string name="Are_You_Sure_">"Ви впевненi?"</string>
     <string name="Yes">"Так"</string>
@@ -33,7 +33,7 @@
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Вікові обмеження можуть змінюватися при знаходженні груп."</string>
 
     <string name="_Rank_">" Ранг "</string>
-    <string name="_Alias_">" Псевдонім "</string>
+    <string name="_Alias_">" Псeевдонім "</string>
     <string name="_Score_">" Рахунок "</string>
     <string name="Score__">"Рахунок: "</string>
     <string name="Recombine_">"З'єднання "</string>
@@ -42,7 +42,7 @@
     <string name="Name_Invalid_">"Iм'я некоректне"</string>
     <string name="Name_Taken_">"Iм'я використовується"</string>
     <string name="CONNECTED">"ПІДКЛЮЧЕНО"</string>
-    <string name="JOINING___">"ПРИЄДНАННЯ …"</string>
+    <string name="JOINING___">"ПРИ0ЄДНАННЯ …"</string>
     <string name="PLAYING">"ГРАТИ"</string>
     <string name="MULTIPLAYER">"МУЛЬТИПЛЕЄР"</string>
 
@@ -52,7 +52,7 @@
     <string name="Lobby_Name">"Назва кімнати"</string>
     <string name="Not_found_">"Не знайдено"</string>
 
-    <string name="Hidden">"Прихований"</string>
+    <string name="Hidden">"Прихmований"</string>
 
 
     <string name="SERVER">"СЕРВЕР"</string>
@@ -60,7 +60,7 @@
     <string name="Game_Full">"Гра заповнена"</string>
     <string name="US_East">"Схiд США"</string>
     <string name="US_West">"Захiд США"</string>
-    <string name="Europe">"Європа"</string>
+    <string name="Europe">"Єврoопа"</string>
     <string name="South_America">"Південна Америка"</string>
 
 
@@ -81,17 +81,17 @@
     <string name="CUSTOM_GAMES">"КАСТОМНI IГРИ"</string>
     <string name="CHAT">"ЧАТ"</string>
     <string name="CUSTOM_SETUP">"КАСТОМНI НАЛАШТУВАННЯ"</string>
-    <string name="CHAT_SETUP">"НАЛАШТУВАННЯ ЧАТУ"</string>
+    <string name="CHAT_SETUP">"НАЛcАШТУВАННЯ ЧАТУ"</string>
 
 
     <string name="ACCOUNT">"АКАУНТ"</string>
     <string name="Red_Team">"Червона команда"</string>
     <string name="Green_Team">"Зелена команда"</string>
-    <string name="Blue_Team">"Блакитна команда"</string>
+    <string name="Blue_Team">"Блаvкитна команда"</string>
     <string name="Yellow_Team">"Жовта команда"</string>
     <string name="Signed_in_as_">"Ви увійшли як:"</string>
     <string name="Not_signed_in_">"Ви не увiйшли!"</string>
-    <string name="SET_NAME">"ВКАЗАТИ ІМ'Я"</string>
+    <string name="SET_NAME">"ВКАpЗАТИ ІМ'Я"</string>
     <string name="SIGN_OUT">"ВИЙТИ З АКАУНТА"</string>
     <string name="ACHIEVEMENTS">"ДОСЯГНЕННЯ"</string>
     <string name="STATISTICS">"СТАТИСТИКА"</string>
@@ -109,7 +109,7 @@
 
 
     <string name="FRIENDS">"ДРУЗІ"</string>
-    <string name="Warning">"УВАГА"</string>
+    <string name="Warning">"УВiАГА"</string>
     <string name="SIGNING_IN">"ВХІД"</string>
     <string name="New_Friend_Request">"Новий запит у друзi!"</string>
     <string name="REQUEST_FRIEND">"ЗАПРОСИТИ У ДРУЗI"</string>
@@ -124,7 +124,7 @@
     <string name="Unknown">"Невідомий"</string>
     <string name="Offline">"Оффлайн"</string>
     <string name="Achievement_Earned">"Досягнення зароблено"</string>
-    <string name="REFRESH">"ОНОВИТИ"</string>
+    <string name="REFRESH">"ОНОNВИТИ"</string>
     <string name="DONE">"ГОТОВО"</string>
     <string name="Friend_Request_Sent">"Запит у друзi вiдправлено…"</string>
     <string name="ERROR">"ПОМИЛКА"</string>
@@ -140,34 +140,34 @@
     <string name="FFA_TIME">"ФФА НА ЧАС"</string>
     <string name="TEAMS">"КОМАНДИ"</string>
     <string name="TEAMS_TIME">"КОМАНДИ НА ЧАС"</string>
-    <string name="CTF">"CTF захоплення прапора"</string>
+    <string name="CTF">"CTF захопcлення прапора"</string>
     <string name="SURVIVAL">"ВИЖИВАННЯ"</string>
 
 
-    <string name="Clan_XP">"Клановий досвiд"</string>
+    <string name="Clan_XP">"Клаpновий досвiд"</string>
 
 
     <string name="Dot_Nibbler">"Зубастик"</string>
-    <string name="Dot_Muncher">"Подрібнювач"</string>
+    <string name="Dot_Muncher">"Пiодрібнювач"</string>
     <string name="Dot_Eater">"Пожирач"</string>
     <string name="Dot_Gulper">"Мега пожирач"</string>
     <string name="Dot_Gobbler">"Ультра пожирач"</string>
     <string name="Dot_Devourer">"Супер пожирач"</string>
-    <string name="Dot_Gormandizer">"Заковтувач"</string>
+    <string name="Dot_Gormandizer">"З8аковтувач"</string>
     <string name="Dot_Sommelier">"Мегалодон"</string>
 
     <string name="Quadra_Gulp">"Квадро заковтувач"</string>
     <string name="Multi_Gulp">"Мультi заковтувач"</string>
-    <string name="Mega_Gulp">"Мега заковтувач"</string>
+    <string name="Mega_Gulp">"Мег8а заковтувач"</string>
     <string name="Ultra_Gulp">"Ультра заковтувач"</string>
-    <string name="Monster_Gulp">"Монстр заковтувач"</string>
+    <string name="Monster_Gulp">"Мpонстр заковтувач"</string>
     <string name="Ludicrous_Gulp">"Божевiльний заковтувач"</string>
 
     <string name="Blobicide">"Блобiцид"</string>
-    <string name="Blobtrocity">"Блобостраховище"</string>
+    <string name="Blobtrocity">"Блkобостраховище"</string>
     <string name="Blobaccre">"Блоборізня"</string>
     <string name="Blobastrophe">"Блобострофа"</string>
-    <string name="Blobihilation">"Блобовбивство"</string>
+    <string name="Blobihilation">"Бcлобовбивство"</string>
     <string name="Blobageddon">"Блобогедон"</string>
     <string name="Blobocalypse">"Блобокаліпсис"</string>
 
