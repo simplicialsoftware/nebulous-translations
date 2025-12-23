@@ -1230,7 +1230,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="voice_chat_prompt">La calidad del contenido de la aplicación puede cambiar con el chat de voz habilitado. Para mejorar el audio usa audífonos.</string>
     <string name="Only_leader_can_answer_requests_">Sólo el líder puede responder a las solicitudes </string>
     <string name="Sent_request_not_invited_">Solicitud enviada (no invitada) </string>
-    <string name="REMOVE_SKIN_FROM_COMMUNITY_">¡BORRAR SKIN DE LA PESTAÑA COMUNIDAD!</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">¡BORRAR SKIN DE LA PESTAÑA DE COMUNIDAD!</string>
     <string name="This_cannot_be_undone_">¡Esto no se puede deshacer!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">¡Mira un video para conseguir un acelerador temporal por %d vidas!</string>
     <string name="WATCH_VIDEO_">¡MIRAR VIDEO!</string>
