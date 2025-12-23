@@ -15,7 +15,7 @@
     <string name="Show_Names">"Tampilkan Nama"</string>
     <string name="Show_Avatars">"Tampilkan Skin"</string>
     <string name="PLAY">"MAIN"</string>
-    <string name="OPTIONS">"OPSI"</string>
+    <string name="OPTIONS">"PILIHAN"</string>
 
     <string name="Avatar_">"Skins:"</string>
     <string name="Name_">"Nama:"</string>
@@ -38,7 +38,7 @@
     <string name="Score__">"Skor: "</string>
     <string name="Recombine_">"Bergabung kembali: "</string>
     <string name="WINNER_">"PEMENANG:"</string>
-    <string name="IDLE">"MENGANGGUR"</string>
+    <string name="IDLE">"DIAM"</string>
     <string name="Name_Invalid_">"Nama tidak berlaku."</string>
     <string name="Name_Taken_">"Nama telah diambil."</string>
     <string name="CONNECTED">"TERHUBUNG"</string>
@@ -66,7 +66,7 @@
     <string name="OK">"OKE"</string>
     <string name="CANCEL">"BATAL"</string>
     <string name="Chat_Name">"Nama Obrolan"</string>
-    <string name="Max_People">"Max Pemain"</string>
+    <string name="Max_People">"Maks Pemain"</string>
     <string name="START">"MULAI"</string>
     <string name="CREATE">"BUAT"</string>
     <string name="CUSTOM_GAMES">"PERMAINAN KUSTOM"</string>
@@ -82,11 +82,11 @@
     <string name="Not_signed_in_">"Tidak Login!"</string>
     <string name="SET_NAME">"ATUR NAMA"</string>
     <string name="SIGN_OUT">"LOGOUT"</string>
-    <string name="ACHIEVEMENTS">"PRESTASI"</string>
+    <string name="ACHIEVEMENTS">"PENCAPAIAN"</string>
     <string name="STATISTICS">"STATISTIK"</string>
     <string name="XP_">"XP:"</string>
     <string name="Information">"Informasi"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Untuk menggunakan skin ini Anda harus mendapatkan prestasi"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Untuk menggunakan skin ini Anda harus mendapatkan pencapaian"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Untuk menggunakan skin ini Anda harus mencapai level"</string>
     <string name="SIGN_IN">"MASUK"</string>
     <string name="Single_Player_Stats">"Statistik Pemain Tunggal"</string>
@@ -103,14 +103,14 @@
     <string name="You">"Anda"</string>
     <string name="This_player_is_a_bot">"Pemain ini adalah bot."</string>
     <string name="This_player_is_not_signed_in">"Pemain ini tidak login."</string>
-    <string name="Online">"Daring"</string>
+    <string name="Online">"Aktif"</string>
     <string name="Unknown">"Tidak dikenal"</string>
-    <string name="Offline">"Luring"</string>
-    <string name="Achievement_Earned">"Perolehan Prestasi"</string>
+    <string name="Offline">"Mati"</string>
+    <string name="Achievement_Earned">"Pencapaian Diperoleh"</string>
     <string name="REFRESH">"MENYEGARKAN"</string>
     <string name="DONE">"SELESAI"</string>
     <string name="Friend_Request_Sent">"Permintaan teman dikirim…"</string>
-    <string name="ERROR">"RALAT"</string>
+    <string name="ERROR">"KESALAHAN"</string>
     <string name="CONTINUE">"LANJUTKAN"</string>
     <string name="Global_" formatted="false">"Global %"</string>
     <string name="FRIEND_CHAT">"TEMAN OBROLAN"</string>
@@ -124,27 +124,27 @@
     <string name="CTF">"CTF"</string>
     <string name="SURVIVAL">"BERTAHAN HIDUP"</string>
     <string name="Clan_XP">"XP Klan"</string>
-    <string name="Dot_Nibbler">"Dot Nibbler"</string>
-    <string name="Dot_Muncher">"Dot Muncher"</string>
-    <string name="Dot_Eater">"Dot Eater"</string>
-    <string name="Dot_Gulper">"Dot Gulper"</string>
-    <string name="Dot_Gobbler">"Dot Gobbler"</string>
-    <string name="Dot_Devourer">"Dot Devourer"</string>
-    <string name="Dot_Gormandizer">"Dot Gormandizer"</string>
-    <string name="Dot_Sommelier">"Dot Sommelier"</string>
-    <string name="Quadra_Gulp">"Quadra Gulp"</string>
-    <string name="Multi_Gulp">"Multi Gulp"</string>
-    <string name="Mega_Gulp">"Mega Gulp"</string>
-    <string name="Ultra_Gulp">"Ultra Gulp"</string>
-    <string name="Monster_Gulp">"Raksasa Gulp"</string>
-    <string name="Ludicrous_Gulp">"Menggelikan Gulp"</string>
-    <string name="Blobicide">"Blobicide"</string>
-    <string name="Blobtrocity">"Blobtrocity"</string>
-    <string name="Blobaccre">"Blobaccre"</string>
-    <string name="Blobastrophe">"Blobastrophe"</string>
-    <string name="Blobihilation">"Blobihilation"</string>
-    <string name="Blobageddon">"Blobageddon"</string>
-    <string name="Blobocalypse">"Blobocalypse"</string>
+    <string name="Dot_Nibbler">"Pengigit Titik"</string>
+    <string name="Dot_Muncher">"Pelahap Titik"</string>
+    <string name="Dot_Eater">"Pemakan Titik"</string>
+    <string name="Dot_Gulper">"Penelan Titik"</string>
+    <string name="Dot_Gobbler">"Pemburu Titik"</string>
+    <string name="Dot_Devourer">"Penghancur Titik"</string>
+    <string name="Dot_Gormandizer">"Perakus Titik"</string>
+    <string name="Dot_Sommelier">"Ahli Titik"</string>
+    <string name="Quadra_Gulp">"Menelan Sedikit"</string>
+    <string name="Multi_Gulp">"Menelan Banyak"</string>
+    <string name="Mega_Gulp">"Menelan Besar"</string>
+    <string name="Ultra_Gulp">"Menelan Ekstrem"</string>
+    <string name="Monster_Gulp">"Raksasa Menelan"</string>
+    <string name="Ludicrous_Gulp">"Menelan Gila"</string>
+    <string name="Blobicide">"Penghancuran"</string>
+    <string name="Blobtrocity">"Kekejaman"</string>
+    <string name="Blobaccre">"Perawatan"</string>
+    <string name="Blobastrophe">"Bencana"</string>
+    <string name="Blobihilation">"Penghapusan"</string>
+    <string name="Blobageddon">"Kehancuran"</string>
+    <string name="Blobocalypse">"Akhir"</string>
     <string name="Experienced_Nebulator">"Pengalaman Nebulator"</string>
     <string name="Expert_Nebulator">"Ahli Nebulator"</string>
     <string name="Master_Nebulator">"Guru Nebulator"</string>
@@ -155,7 +155,7 @@
     <string name="Dodgey">"Menghindar"</string>
     <string name="Self_Contained">"Serba Lengkap"</string>
     <string name="Survivalist">"Bertahan Hidup"</string>
-    <string name="Ultramassive">"Ultramasal"</string>
+    <string name="Ultramassive">"Ultramassal"</string>
     <string name="Rapid_Ascension">"Kenaikan yang Cepat"</string>
     <string name="Revenge">"Balas Dendam"</string>
     <string name="Doge_Pound">"Doge Menghantam"</string>
@@ -200,12 +200,12 @@
     <string name="Blobs_Lost_">"Gumpalan Hilang:"</string>
     <string name="Mass_Gained_">"Massa Diraih:"</string>
     <string name="Mass_Ejected_">"Massa Dikeluarkan:"</string>
-    <string name="Times_Ejected_">"Kali Dikeluarkan:"</string>
-    <string name="Times_Split_">"Kali Berpisah:"</string>
+    <string name="Times_Ejected_">"Jumlah Dikeluarkan:"</string>
+    <string name="Times_Split_">"Jumlah Berpisah:"</string>
     <string name="Biggest_Blob_">"Gumpalan Terbesar:"</string>
     <string name="Highest_Score_">"Skor Tertinggi:"</string>
     <string name="Average_Score_">"Skor Rata-rata:"</string>
-    <string name="Times_Played_">"Kali Dimainkan:"</string>
+    <string name="Times_Played_">"Jumlah Bermain:"</string>
     <string name="Longest_Life_">"Hidup Terpanjang:"</string>
     <string name="Games_Won_">"Permainan Dimenangkan:"</string>
     <string name="You_must_wait_until_the_end_of_the_round_">"Anda harus menunggu sampai akhir ronde ini."</string>
@@ -226,9 +226,9 @@
     <string name="Clan">"Klan"</string>
 
 
-    <string name="JOIN_CLAN">"GABUNG KLAN"</string>
-    <string name="JOIN_RANDOM_CLAN">"GABUNG KLAN SECARA ACAK"</string>
-    <string name="LEAVE_CLAN">"TINGGALKAN KLAN"</string>
+    <string name="JOIN_CLAN">"BERGABUNG KLAN"</string>
+    <string name="JOIN_RANDOM_CLAN">"BERGABUNG KLAN SECARA ACAK"</string>
+    <string name="LEAVE_CLAN">"MENINGGALKAN KLAN"</string>
     <string name="INVITE_MEMBER">"UNDANG ANGGOTA"</string>
     <string name="REMOVE_MEMBER">"HAPUS ANGGOTA"</string>
 
@@ -255,7 +255,7 @@
     <string name="You_aren_t_invited_to_that_clan_">"Anda tidak diundang untuk klan itu."</string>
     <string name="No_such_clan_exists_">"Klan tersebut tidak ada."</string>
     <string name="That_clan_is_full_">"Klan ini telah penuh."</string>
-    <string name="Other_user_is_not_a_member_of_your_clan_">"Pengguna lain bukan anggota klan Anda."</string>
+    <string name="Other_user_is_not_a_member_of_your_clan_">"Pengguna lain bukan anggota klan anda."</string>
     <string name="_You_can_t_be_your_own_friend_">"Anda tidak bisa menjadi teman Anda sendiri."</string>
     <string name="A_clan_with_that_name_already_exists_">"Sebuah klan dengan nama tersebut sudah ada."</string>
     <string name="Duration_">"Durasi:"</string>
@@ -289,7 +289,7 @@
 
 
     <string name="COMPLETE">"LENGKAP"</string>
-    <string name="INCOMPLETE">"TIDAK LENGKAP"</string>
+    <string name="INCOMPLETE">"TIDAKLENGKAP"</string>
     <string name="Win_a_FFA_Time_Game">"Memenangkan Permainan Waktu FFA"</string>
     <string name="Win_a_CTF_Game">"Memenangkan Permainan CTF"</string>
     <string name="Win_a_Soccer_Game">"Memenangkan Permainan Sepak Bola"</string>
@@ -314,8 +314,8 @@
 
     <string name="FFAC">"FFA KLASIK"</string>
     <string name="NONE">"TIDAK ADA"</string>
-    <string name="CLAN_WAR">"KLAN PERANG"</string>
-    <string name="Clan_War">"Klan Perang"</string>
+    <string name="CLAN_WAR">"PERANG KLAN"</string>
+    <string name="Clan_War">"Perang Klan"</string>
 
     <string name="Forming">"Pembentukan"</string>
     <string name="Searching">"Mencari"</string>
@@ -340,7 +340,7 @@
     <string name="W_D_L">"M-S-K"</string>
     <string name="MATCH_START">"MULAI PERTANDINGAN"</string>
     <string name="Clan_Warrior">"Prajurit Klan"</string>
-    <string name="Win_a_Clan_War">"Memenangkan War Klan"</string>
+    <string name="Win_a_Clan_War">"Memenangkan Perang Klan"</string>
     <string name="Global">"Global"</string>
     <string name="Spectating">"Menonton"</string>
 
@@ -362,7 +362,7 @@
     <string name="Leaf_Hoarder">"Penimbun Daun"</string>
     <string name="Collect_5000_leaves_">"Mengumpulkan 5.000 Daun."</string>
     <string name="Arena">"Arena"</string>
-    <string name="Enter_the_Arena">"Masukkan Arena"</string>
+    <string name="Enter_the_Arena">"Memasuki Arena"</string>
     <string name="Purchase_History">"Riwayat Pembelian"</string>
     <string name="Purchases_Unavailable_">"Pembelian Tidak Tersedia!"</string>
     <string name="You_can_purchase_this_skin_for">"Anda dapat membeli kulit ini untuk"</string>
@@ -402,7 +402,7 @@
     <string name="Daily_Reward">"Hadiah Harian"</string>
     <string name="Reset">"Atur Ulang"</string>
     <string name="Plasma">"Plasma"</string>
-    <string name="Plasma_Mogul">"Mogul Plasma"</string>
+    <string name="Plasma_Mogul">"Penguasa Plasma"</string>
     <string name="Plasma_Collector">"Kolektor Plasma"</string>
     <string name="Plasma_Hoarder">"Penimbun Plasma"</string>
     <string name="Collect_1_000_Plasma">"Mengumpulkan 1.000 Plasma."</string>
@@ -415,8 +415,8 @@
     <string name="Practice">"Latihan"</string>
     <string name="ArenaDescription">"Anda hanya mendapatkan satu kehidupan. Pemenang akan mendapatkan %s plasma."</string>
     <string name="Contestant">"Kontestan"</string>
-    <string name="Duelist">"Duelist"</string>
-    <string name="Gladiator">"Gladiator"</string>
+    <string name="Duelist">"Petarung"</string>
+    <string name="Gladiator">"Pendekar"</string>
     <string name="Challenger">"Penantang"</string>
     <string name="Win_1_1v1_Arenas_">"Memenangkan Arena."</string>
     <string name="Win_10_Arenas_">"Menang 10 Arena."</string>
@@ -432,23 +432,23 @@
     <string name="Standard">"Standar"</string>
     <string name="Achievement">"Prestasi"</string>
     <string name="Flag">"Bendera"</string>
-    <string name="Win_10_Clan_Wars">"Menang 10 Klan Perang"</string>
-    <string name="Win_100_Clan_Wars">"Menang 100 Klan Perang"</string>
-    <string name="Clan_Commander">"Klan Komandan"</string>
+    <string name="Win_10_Clan_Wars">"Menang 10 Perang Klan"</string>
+    <string name="Win_100_Clan_Wars">"Menang 100 Perang Klan"</string>
+    <string name="Clan_Commander">"Komandan Klan"</string>
     <string name="Clan_General">"Klan Umum"</string>
-    <string name="Clan_Wars_Won_">"Klan Perang Dimenangkan:"</string>
+    <string name="Clan_Wars_Won_">"Perang Klan Dimenangkan:"</string>
     <string name="Arenas_Won_">"Arena Dimenangkan:"</string>
     <string name="Arena_Mode">"Mode Arena"</string>
     <string name="Connection_Lost">"Koneksi Terputus"</string>
     <string name="Present_Hoarder">"Penimbun Kado"</string>
-    <string name="Present_Mogul">"Mogul Kado"</string>
+    <string name="Present_Mogul">"Penguasa Kado"</string>
     <string name="Collect_1_000_presents_">"Mengumpulkan 1.000 Kado."</string>
     <string name="Collect_5_000_presents_">"Mengumpulkan 5.000 Kado."</string>
     <string name="Collect_10_000_presents_">"Mengumpulkan 10.000 Kado."</string>
     <string name="Loading_reward_video___">"Memuat video hadiah yang &#x2026;"</string>
     <string name="Progress">"Berkembang"</string>
     <string name="Snowflake_Hoarder">"Penimbun Kepingan Salju"</string>
-    <string name="Snowflake_Mogul">"Mogul Kepingan Salju"</string>
+    <string name="Snowflake_Mogul">"Penguasa Kepingan Salju"</string>
     <string name="Collect_1_000_snowflakes_">"Mengumpulkan 1.000 Kepingan salju."</string>
     <string name="Collect_5_000_snowflakes_">"Mengumpulkan 5.000 Kepingan salju."</string>
     <string name="Collect_10_000_snowflakes_">"Mengumpulkan 10.000 Kepingan salju."</string>
@@ -472,7 +472,7 @@
     <string name="Team_Size">"Ukuran Tim"</string>
     <string name="Team_Name">"Nama Tim"</string>
     <string name="CREATE_TEAM">"BUAT TIM"</string>
-    <string name="Solo">"Solo"</string>
+    <string name="Solo">"Sendiri"</string>
     <string name="Teams">"Tim"</string>
     <string name="Team">"Tim"</string>
     <string name="Specify_Account_ID">"Tentukan ID Akun"</string>
@@ -493,12 +493,12 @@
     <string name="Leave_Game">"Tinggalkan Pertandingan"</string>
     <string name="Remove_Friend">"Hapus Teman"</string>
     <string name="Remove_Clan_Member">"Hapus Anggota Klan"</string>
-    <string name="Flag_lobby_as_inappropriate">"Sembunyikan Lobi sebagai tidak pantas"</string>
+    <string name="Flag_lobby_as_inappropriate">"Sembunyikan lobi sebagai tidak pantas"</string>
     <string name="Promote_Clan_Member">"Promosikan Anggota Klan"</string>
     <string name="Leave_Clan">"TINGGALKAN KLAN"</string>
     <string name="Candy_Hoarder">"Penimbun Permen"</string>
     <string name="Candy_Collector">"Kolektor Permen"</string>
-    <string name="Candy_Mogul">"Mogul Permen"</string>
+    <string name="Candy_Mogul">"Penguasa Permen"</string>
     <string name="Collect_1_000_candies_">"Mengumpulkan 1.000 Permen"</string>
     <string name="Collect_5_000_candies_">"Mengumpulkan 5.000 Permen"</string>
     <string name="Collect_10_000_candies_">"Mengumpulkan 10.000 Permen"</string>
@@ -517,8 +517,8 @@
     <string name="Collect_5_000_beads_">"Mengumpulkan 5.000 Manik-manik."</string>
     <string name="Collect_10_000_beads_">"Mengumpulkan 10.000 Manik-manik."</string>
     <string name="Bead_Collector">"Kolektor Manik-manik"</string>
-    <string name="Bead_Hoarder">"Hoarder Manik-manik"</string>
-    <string name="Bead_Mogul">"Mogul Manik-manik"</string>
+    <string name="Bead_Hoarder">"Penimbun Manik-manik"</string>
+    <string name="Bead_Mogul">"Penguasa Manik-manik"</string>
     <string name="beads_">"Manik-manik."</string>
     <string name="Rejoin_Game">"Bergabung Kembali Permainan"</string>
     <string name="PRIZES">"HADIAH"</string>
@@ -538,7 +538,7 @@
     <string name="eggs_">"Telur."</string>
     <string name="Egg_Collector">"Kolektor Telur"</string>
     <string name="Egg_Hoarder">"Penimbun Telur"</string>
-    <string name="Egg_Mogul">"Mogul Telur"</string>
+    <string name="Egg_Mogul">"Penguasa Telur"</string>
     <string name="Collect_1_000_eggs_">"Mengumpulkan 1.000 Telur."</string>
     <string name="Collect_5_000_eggs_">"Mengumpulkan 5.000 Telur."</string>
     <string name="Collect_10_000_eggs_">"Mengumpulkan 10.000 Telur."</string>
@@ -547,7 +547,7 @@
     <string name="Love_Nebulous_">"Cinta Nebulous?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Mohon Dukungan Nebulous oleh penilaian ini."</string>
     <string name="MAYHEM_MODE">"MODE MAYHEM"</string>
-    <string name="Times_Teleported_">"Kali Teleportasi:"</string>
+    <string name="Times_Teleported_">"Jumlah Teleportasi:"</string>
     <string name="Powerups_Used_">"Powerup Digunakan:"</string>
     <string name="Power_Hungry">"Kekuatan Lapar"</string>
     <string name="Over_9000">"Lebih Dari 9000"</string>
@@ -563,7 +563,7 @@
     <string name="raindrops_">"Rintik Hujan."</string>
     <string name="Raindrop_Collector">"Kolektor Rintik Hujan"</string>
     <string name="Raindrop_Hoarder">"Penimbun Rintik Hujan"</string>
-    <string name="Raindrop_Mogul">"Mogul Rintik Hujan"</string>
+    <string name="Raindrop_Mogul">"Penguasa Rintik Hujan"</string>
     <string name="Collect_1_000_raindrops_">"Mengumpulkan 1.000 Rintik Hujan."</string>
     <string name="Collect_5_000_raindrops_">"Mengumpulkan 5.000 Rintik Hujan."</string>
     <string name="Collect_10_000_raindrops_">"Mengumpulkan 10.000 Rintik Hujan."</string>
@@ -583,7 +583,7 @@
     <string name="Spectators_">"Penonton:"</string>
     <string name="Nebula_Collector">"Kolektor Nebula"</string>
     <string name="Nebula_Hoarder">"Penimbun Nebula"</string>
-    <string name="Nebula_Mogul">"Mogul Nebula"</string>
+    <string name="Nebula_Mogul">"Penguasa Nebula"</string>
     <string name="Collect_1_000_nebulas_">"Mengumpulkan 1.000 Nebula."</string>
     <string name="Collect_5_000_nebulas_">"Mengumpulkan 5.000 Nebula."</string>
     <string name="Collect_10_000_nebulas_">"Mengumpulkan 10.000 Nebula."</string>
@@ -598,7 +598,7 @@
     <string name="suns_">"Matahari."</string>
     <string name="Sun_Collector">"Kolektor Matahari"</string>
     <string name="Sun_Hoarder">"Penimbun Matahari"</string>
-    <string name="Sun_Mogul">"Mogul Matahari"</string>
+    <string name="Sun_Mogul">"Penguasa Matahari"</string>
     <string name="Collect_1_000_suns_">"Mengumpulkan 1.000 Matahari."</string>
     <string name="Collect_5_000_suns_">"Mengumpulkan 5.000 Matahari."</string>
     <string name="Collect_10_000_suns_">"Mengumpulkan 10.000 Matahari."</string>
@@ -607,7 +607,7 @@
     <string name="moons_">"Bulan."</string>
     <string name="Moon_Collector">"Kolektor Bulan"</string>
     <string name="Moon_Hoarder">"Penimbun Bulan"</string>
-    <string name="Moon_Mogul">"Mogul Bulan"</string>
+    <string name="Moon_Mogul">"Penguasa Bulan"</string>
     <string name="Collect_1_000_moons_">"Mengumpulkan 1.000 Bulan."</string>
     <string name="Collect_5_000_moons_">"Mengumpulkan 5.000 Bulan."</string>
     <string name="Collect_10_000_moons_">"Mengumpulkan 10.000 Bulan."</string>
@@ -615,7 +615,7 @@
     <string name="HOST">"HOST"</string>
     <string name="This_device_does_not_support_bluetooth_">"Perangkat ini tidak mendukung bluetooth."</string>
     <string name="member_permissions">"Izin Anggota"</string>
-    <string name="edit">"SUNTING"</string>
+    <string name="edit">"mengubah"</string>
     <string name="start_clan_war">"Mulai Perang Klan"</string>
     <string name="join_clan_war">"Gabung Perang Klan"</string>
     <string name="none">"TIDAK ADA"</string>
@@ -623,15 +623,15 @@
     <string name="banned_until">"Dilarang sampai "</string>
     <string name="Note_Collector">"Kolektor Catatan"</string>
     <string name="Note_Hoarder">"Penimbunan Catatan"</string>
-    <string name="Note_Mogul">"Mogul Catatan"</string>
+    <string name="Note_Mogul">"Penguasa Catatan"</string>
     <string name="Collect_1_000_notes_">"Mengumpulkan 1.000 Catatan."</string>
     <string name="Collect_5_000_notes_">"Mengumpulkan 5.000 Catatan."</string>
     <string name="Collect_10_000_notes_">"Mengumpulkan 10.000 Catatan."</string>
     <string name="notes_">"Catatan."</string>
     <string name="CLICK_CHEAT_DETECTED_">"KLIK KECURANGAN TERDETEKSI!"</string>
     <string name="Pumpkin_Hoarder">"Penimbun Labu"</string>
-    <string name="Pumpkin_Mogul">"Mogul Labu"</string>
-    <string name="Leaf_Mogul">"Mogul Daun"</string>
+    <string name="Pumpkin_Mogul">"Penguasa Labu"</string>
+    <string name="Leaf_Mogul">"Penguasa Daun"</string>
     <string name="Collect_5000_pumpkins_">"Mengumpulkan 5.000 Labu."</string>
     <string name="Collect_10000_pumpkins_">"Mengumpulkan 10.000 Labu."</string>
     <string name="Collect_10000_leaves_">"Mengumpulkan 10.000 Daun."</string>
@@ -742,7 +742,7 @@
     <string name="Seconds">"Detik"</string>
     <string name="Tournaments_Temporarily_Disabled">"Turnamen sementara Dinonaktifkan"</string>
     <string name="CLAN_NAME_COLOR">"WARNA NAMA KLAN"</string>
-    <string name="Tuber">"Tuber"</string>
+    <string name="Tuber">"YouTuber"</string>
     <string name="youtube_prompt">"Apakah Anda ingin mengunjungi channel Youtube Nebulous ini? Saluran ini tidak berafiliasi dengan pencipta Nebulous."</string>
     <string name="Tournament_Matches_Won_">"Turnamen Dimenangkan:"</string>
     <string name="PAINT">"LUKIS"</string>
@@ -822,9 +822,9 @@
     <string name="x3_Clan_XP_7_days">3x XP Klan 7 Hari</string>
     <string name="x3_Clan_XP_1_Day">3x XP Klan 1 Hari</string>
     <string name="x2_Clan_XP_1_Day">2x XP Klan 1 Hari</string>
-    <string name="Pets">Pet</string>
-    <string name="Pet">Pet</string>
-    <string name="You_can_purchase_this_pet_for">Anda bisa membeli pet ini</string>
+    <string name="Pets">Peliharaan</string>
+    <string name="Pet">Peliharaan</string>
+    <string name="You_can_purchase_this_pet_for">Anda bisa membeli peliharaan ini</string>
     <string name="gift_to_friend">Hadiah Ke Teman</string>
     <string name="gift_purchase_warning">Anda tidak akan menerima pembelian ini karena Anda telah memilih untuk hadiah pembelian ini kepada seseorang teman.</string>
     <string name="x2_Clan_XP_7_Days">2x Xp Klan 7 Hari</string>
@@ -846,9 +846,9 @@
     <string name="error_1">Hanya Pemimpin Atau Wakil Pemimpin Yang Bisa Mengirim Mail Klan.</string>
     <string name="Hat">Topi</string>
     <string name="Hats">Topi</string>
-    <string name="Pet_Uploads">Unggah Pet</string>
+    <string name="Pet_Uploads">Unggah Peliharaan</string>
     <string name="BLOB">GUMPALAN</string>
-    <string name="Clan_Pet_Uploads">Klan Skin Pet Upload</string>
+    <string name="Clan_Pet_Uploads">Klan Skin Peliharaan Upload</string>
     <string name="YT">YT</string>
     <string name="FREE_TODAY">GRATIS HARI INI!</string>
     <string name="Cannot_cancel_this_skin_yet_">Belum bisa membatalkan skin ini.</string>
@@ -856,8 +856,8 @@
     <string name="SET_PUBLIC_DESCRIPTION">ATUR DESKRIPSI PUBLIK</string>
     <string name="SET_NOTE">ATUR CATATAN</string>
     <string name="enable_notifications">Aktifkan Notifikasi</string>
-    <string name="PROMOTE_MEMBER">PROMOSIKAN PANGKAT ANGGOTA</string>
-    <string name="DEMOTE_MEMBER">TURUNKAN PANGKAT ANGGOTA</string>
+    <string name="PROMOTE_MEMBER">PROMOSIKAN ANGGOTA</string>
+    <string name="DEMOTE_MEMBER">TURUNKAN ANGGOTA</string>
     <string name="HAPPY_BIRTHDAY_">SELAMAT ULANG TAHUN NEBULOUS!</string>
     <string name="Years">Tahun</string>
     <string name="Friend_Added_">TEMAN DITAMBAHKAN!</string>
@@ -891,9 +891,9 @@
     <string name="BANNED">DILARANG</string>
     <string name="CLAN_MEMBERS">ANGGOTA KLAN</string>
     <string name="CLAN_REQUESTS">PERSETUJUAN ANGGOTA</string>
-    <string name="Pet_1">Pet 1</string>
-    <string name="Pet_2">Pet 2</string>
-    <string name="Second_Pet">Anda dapat menggunakan 2 Pet sekaligus!</string>
+    <string name="Pet_1">Peliharaan 1</string>
+    <string name="Pet_2">Peliharaan 2</string>
+    <string name="Second_Pet">Anda dapat menggunakan 2 Peliharaan sekaligus!</string>
     <string name="This_item_requires">Item ini memerlukan </string>
     <string name="not_enough_plasma">Plasma tidak cukup.</string>
     <string name="MARK_UNREAD">TANDAI BELUM DIBACA</string>
@@ -928,7 +928,7 @@
     <string name="You_can_purchase_this_particle_for">Kamu bisa membeli partikel ini untuk</string>
     <string name="You_can_purchase_this_eject_skin_for">Kamu bisa membeli skin eject ini untuk</string>
     <string name="Skin">Skin</string>
-    <string name="Custom_Skin">Kustom Skin</string>
+    <string name="Custom_Skin">Kostum Skin</string>
     <string name="Color">Warna</string>
     <string name="RECENT_PLAYERS">PEMAIN TERBARU</string>
     <string name="POSITION_CONTROL_STICK">"POSISI KONTROL STIK"</string>
@@ -944,7 +944,7 @@
     <string name="GIF_Skins">Skin GIF</string>
     <string name="PLAY_ONLINE_">MAINKAN ONLINE!</string>
     <string name="Absorb_10_000_000_dots">Menyerap 10.000.000 titik-titik</string>
-    <string name="Dot_Deity">Dot Dewa</string>
+    <string name="Dot_Deity">Dewa Titik</string>
     <string name="Mass_Mastery">Penguasaan Massa</string>
     <string name="Gain_100_000_000_mass">Raih 100.000.000 massa</string>
     <string name="VET">VET</string>
@@ -985,7 +985,7 @@
     <string name="SKIN_PACK">SKIN PAKET</string>
     <string name="HALLOWEEN">HALLOWEEN</string>
     <string name="pack_info">Setelah Anda membeli paket skin ini, skin eksklusif Anda akan muncul di bagian atas menu pilihan skin.</string>
-    <string name="EXCLUSIVE_skins_pets_hats_and_more_">PAKET EKSKLUSIF : Skin, Pet, Topi dan Lainnya!</string>
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">PAKET EKSKLUSIF : Skin, Peliharaan, Topi dan Lainnya!</string>
     <string name="BUY_NOW_">BELI SEKARANG!</string>
     <string name="already_purchased">Anda telah memiliki paket skin ini.</string>
     <string name="Halo_Animations">Animasi Lingkaran Cahaya</string>
@@ -1039,7 +1039,7 @@
     <string name="Show_Session_Stats">Tampilkan Statistik Sesi</string>
     <string name="VALENTINES_DAY">"HARI VALENTIN"</string>
     <string name="Giveaways_">Giveaways!</string>
-    <string name="Max_XP_Chain_">Max XP Diperoleh:</string>
+    <string name="Max_XP_Chain_">Maks XP Diperoleh:</string>
     <string name="POSITION_CANCEL_BUTTON">POSISI TOMBOL BATAL POWERUP</string>
     <string name="INVISIBILITY">LIMUNAN</string>
     <string name="Set_Skin">Atur Skin</string>
@@ -1130,10 +1130,10 @@
     <string name="x4_Clan_XP_1_Day">4x XP KLAN 1 Hari</string>
     <string name="CHARGE_UP">MENGISI DAYA</string>
     <string name="CLAN_DESCRIPTION_COLOR">WARNA DESKRIPSI KLAN</string>
-    <string name="Responsible_Pet_Owner">Pemilik Pet Tanggungjawab</string>
-    <string name="Animal_Tamer">Pawang</string>
+    <string name="Responsible_Pet_Owner">Pemilik Peliharaan Tanggungjawab</string>
+    <string name="Animal_Tamer">Pawang Hewan</string>
     <string name="Crocodile_Hunter">Pemburu Buaya</string>
-    <string name="Get_A_Pet_To_Level_X_">Naikkan pet ke level %d.</string>
+    <string name="Get_A_Pet_To_Level_X_">Naikkan peliharaan ke level %d.</string>
     <string name="plasma_boost_info">"Anda mendapatkan plasma tiga kali lipat dari semua sumber DALAM PERMAINAN saat ini aktif! Ini termasuk kemenangan arena dan turnamen! TIDAK berlaku pada pembelian plasma, roda putaran, atau hadiah khusus."</string>
     <string name="Plasma_Boost_7_Days_">Plasma Tambahan 7 Hari!</string>
     <string name="Plasma_Boost_1_Day_">Plasma Tambahan 1 Hari!</string>
@@ -1152,7 +1152,7 @@
     <string name="WALLS">DINDING</string>
     <string name="COMP_BANNED">KOMP DILARANG</string>
     <string name="FIND_GAMES">CARI PERMAINAN</string>
-    <string name="PLAY_SOLO">MAINKAN SOLO</string>
+    <string name="PLAY_SOLO">MAINKAN SENDIRI</string>
     <string name="SET_EMOTE">ATUR EMOTE</string>
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
     <string name="Win_a_Battle_Royale_">Memenangkan Pertempuran Royale.</string>
@@ -1179,8 +1179,8 @@ Perintah:
 !info"
 </string>
     <string name="ID_Sort">ID Sort</string>
-    <string name="Master_Tamer">Penjinak Master</string>
-    <string name="Get_ALL_Pets_To_Level_100_">Naikkan SEMUA Pet Ke Level 100</string>
+    <string name="Master_Tamer">Master Penjinak</string>
+    <string name="Get_ALL_Pets_To_Level_100_">Naikkan SEMUA Peliharaan Ke Level 100</string>
     <string name="TAMER">PENJINAK</string>
     <string name="Allow_Recombine">Membolehkan Bergabung Kembali</string>
     <string name="Defenders">Pembela</string>
