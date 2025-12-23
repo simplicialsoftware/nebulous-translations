@@ -15,7 +15,7 @@
     <string name="Game_Mode_">"Oyun Modu:"</string>
     <string name="Show_Names">"Adları göstərin"</string>
     <string name="Show_Avatars">"Cildləri göstərin"</string>
-    <string name="PLAY">"OYNAMAQ"</string>
+    <string name="PLAY">"OYNA"</string>
     <string name="OPTIONS">"Seçimlər"</string>
 
     <string name="Avatar_">"Cild:"</string>
@@ -46,7 +46,7 @@
     <string name="PLAYING">"Oynayır"</string>
     <string name="MULTIPLAYER">"Çox Oyunçulu"</string>
 
-    <string name="JOIN">"Qoşul"</string>
+    <string name="JOIN">"QOŞUL"</string>
 
 
     <string name="Lobby_Name">"Lobbi Adı"</string>
@@ -73,10 +73,10 @@
     <string name="Min_Players">"Minimum Oyunçular"</string>
 
     <string name="OK">"Tamam"</string>
-    <string name="CANCEL">"Ləğv et"</string>
+    <string name="CANCEL">"LƏĞV ET"</string>
     <string name="Chat_Name">"Söhbət Adı"</string>
     <string name="Max_People">"Maksimum İnsan"</string>
-    <string name="START">"Başla"</string>
+    <string name="START">"BAŞLA"</string>
     <string name="CREATE">"Yarat"</string>
     <string name="CUSTOM_GAMES">"Xüsusi Oyunlar"</string>
     <string name="CHAT">"Söhbət"</string>
@@ -124,13 +124,13 @@
     <string name="Unknown">"Naməlum"</string>
     <string name="Offline">"Oflayn"</string>
     <string name="Achievement_Earned">"Nailiyyət Qazanıldı"</string>
-    <string name="REFRESH">"Yeniləmək"</string>
-    <string name="DONE">"Bitdi"</string>
+    <string name="REFRESH">"YENİLƏ"</string>
+    <string name="DONE">"HAZIRDIR"</string>
     <string name="Friend_Request_Sent">"Dostluq istəyi göndərildi…"</string>
     <string name="ERROR">"Xəta"</string>
-    <string name="CONTINUE">"Davam et"</string>
+    <string name="CONTINUE">"DAVAM ET"</string>
     <string name="Global_" formatted="false">"Qlobal %"</string>
-    <string name="FRIEND_CHAT">"Dost Söhbəti"</string>
+    <string name="FRIEND_CHAT">"DOST SÖHBƏTİ"</string>
     <string name="LOBBY_NAME">"Lobbi Adı"</string>
     <string name="NULL">"NULL"</string>
 
@@ -321,7 +321,7 @@
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"Hər bir Nebulous azərkeşinə Çoxlu Təşəkkürlər"</string>
     <string name="Color_Blind">"Rəng Korluğu"</string>
     <string name="Daily_Quest_Complete_">"Günlük Missiya Tamamlandı!"</string>
-    <string name="COPY_ID">"ID-ni Kopyala"</string>
+    <string name="COPY_ID">"ID-Nİ KOPYALA"</string>
     <string name="My_Account_ID">"Hesab ID-si"</string>
 
 
@@ -451,14 +451,14 @@
     <string name="BIGGEST">"ƏN BÖYÜK"</string>
 
 
-    <string name="Copy_ID">"ID-ni kopyalayın"</string>
+    <string name="Copy_ID">"ID-ni Kopyalayın"</string>
     <string name="View_Profile">"Profilə baxın"</string>
     <string name="Send_Message">"Mesaj Göndər"</string>
     <string name="Account_ID">"Hesab ID-si"</string>
     <string name="Player_Name">"Oyunçu Adı"</string>
 
     <string name="Daily_Reward">"Gündəlik Mükafat"</string>
-    <string name="Reset">"Sıfırlayın"</string>
+    <string name="Reset">"SIFIRLA"</string>
     <string name="Plasma">"Plazma"</string>
     <string name="Plasma_Mogul">"Plazma Riması"</string>
     <string name="Plasma_Collector">"Plazma Toplayan"</string>
@@ -469,7 +469,7 @@
     <string name="Plasma_Collected_">"Toplanmış plazma:"</string>
     <string name="Plasma_Purchases">"Plazma Satınalmaları"</string>
 
-    <string name="ENTER">"Giriş"</string>
+    <string name="ENTER">"GİRİŞ ET"</string>
     <string name="_1v1">"1'ə 1"</string>
     <string name="Practice">"Praktika"</string>
     <string name="ArenaDescription">"Yalnız bir şansınız var. Qalib %s plazma alacaq. "Ticarət uduşları" və ya "Havayı uduşlar" qadağa ilə nəticələnəcək."</string>
@@ -525,7 +525,7 @@
     <string name="SET_PERMISSIONS">"İcazələri Təyin Etmək"</string>
     <string name="Start_Clan_War">"Klan müharibəsi başladın"</string>
     <string name="Min_Level">"Minimum Səviyyə"</string>
-    <string name="SAVE">"Yaddaşa Yaz"</string>
+    <string name="SAVE">"YADDA SAXLA"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Oyunçu bu klana qoşulmaq üçün minimum səviyyə tələbinə cavab vermir:"</string>
     <string name="Insufficient_Permission">"İcazə Yoxdur!"</string>
     <string name="DOMINATION">"Hakimiyyət"</string>
@@ -649,7 +649,7 @@
     <string name="Collect_10_000_raindrops_">"10.000 yağış damcısı topla."</string>
     <string name="Copy_Message">"Mesajı Kopyala"</string>
     <string name="Copied_to_clipboard_">"Buferə kopyalandı"</string>
-    <string name="COPY_NAME">"Adı Kopyala"</string>
+    <string name="COPY_NAME">"ADI KOPYALA"</string>
     <string name="Challenge_Sent">"Çağırış Göndərilib"</string>
     <string name="_1v1_Challenge_">"1'ə 1 Çağırış!"</string>
     <string name="__has_challenged_you_to_a_1v1_match_">"%s sizi 1'ə 1 matçına dəvət etdi!"</string>
@@ -673,7 +673,7 @@
     <string name="VIEW_INVITES">"Dəvətləri Göstərin"</string>
     <string name="CLAN_INVITES">"Klan Dəvətləri"</string>
     <string name="Cancel_Invitation">"Dəvəti ləğv edin"</string>
-    <string name="DOWNLOAD">"Yüklə"</string>
+    <string name="DOWNLOAD">"YÜKLƏ"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"Bütün Dostluq istəklərini rədd et"</string>
     <string name="suns_">"günəşlər"</string>
     <string name="Sun_Collector">"Günəş Toplayan"</string>
@@ -725,7 +725,7 @@
     <string name="Rejected">"Rədd edildi"</string>
     <string name="Refunded">"Geri qaytarıldı"</string>
     <string name="contribution_warning">"Bu plazmanı vermək istədiyinizə əminsiniz? Verilən plazma geri qaytarılmayacaq"</string>
-    <string name="Upload">"Yüklə"</string>
+    <string name="Upload">"YÜKLƏ"</string>
     <string name="upload_warning">"Bu cildi yükləmək istədiyinizə əminsiniz? Digər oyunçular bu cildi görə biləcəklər. Cildinizin nəzərdən keçirilməsi bir həftə çəkə bilər. Uyğun olmayan cildlər rədd ediləcək və təkrar olunmayacaq"</string>
 
     <string name="In_Review">"Baxılır"</string>
@@ -768,7 +768,7 @@
     <string name="Days">"Gün"</string>
     <string name="Message">"Mesaj"</string>
     <string name="Subject">"Mövzu"</string>
-    <string name="SEND">"Göndər"</string>
+    <string name="SEND">"GÖNDƏR"</string>
     <string name="To">"Buna: "</string>
     <string name="RESET">"Sıfırla"</string>
     <string name="Message_Sent_">"Mesaj Göndərildi!"</string>
@@ -777,7 +777,7 @@
     <string name="REPLY">"Cavab verin"</string>
     <string name="Delete_Message">"Mesajı Sil"</string>
     <string name="BLOCK">"Blokla"</string>
-    <string name="DELETE">"Sil"</string>
+    <string name="DELETE">"SİL"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Qeyd: Siz kiməsə dostluq sorğusu göndərməklə onu blokdan çıxara bilərsiniz"</string>
     <string name="Select_Friend">"Dost seçin"</string>
     <string name="Failed_to_send_mail_">"Poçt göndərmək alınmadı"</string>
@@ -990,7 +990,7 @@ Bu qaydalardan hər hansı birinə əməl etməsəniz, hesabınız bloklana bil�
     <string name="SET_PROFILE_PIC">"Profil Şəklini Qurun"</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">"Bütün Dostluq istəklərini qəbul edin"</string>
     <string name="App_Perf_Stats">"Tətbiq Performans Statistikası"</string>
-    <string name="COPY">"Kopyala"</string>
+    <string name="COPY">"KOPYALA"</string>
     <string name="_1v1_Ultra">"1v1 Ultra"</string>
     <string name="ArenaDescriptionUltra">"Qalib %s plazma alacaq. Ticarət uduşları və ya pulsuz uduşlar qadağa ilə nəticələnəcək."</string>
     <string name="BANNED">"Qadağan Olunmuş"</string>
