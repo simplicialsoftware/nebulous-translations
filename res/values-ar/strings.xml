@@ -469,7 +469,7 @@
     <string name="Plasma_Purchases">"مشتريات البلازما"</string>
 
     <string name="ENTER">"أدخل"</string>
-    <string name="_1v1">"١ضد١"</string>
+    <string name="_1v1">" ١ضد١"</string>
     <string name="Practice">"تمرن"</string>
     <string name="ArenaDescription">"حياة واحدة. وسيحصل الفائز %s البلازما."</string>
     <string name="Contestant">"متنافس"</string>
@@ -492,12 +492,12 @@
 
     <string name="Harassment">"مضايقة"</string>
 
-    <string name="_2v2">"٢ضد٢"</string>
+    <string name="_2v2">" ٢ضد٢"</string>
 
 
     <string name="Standard">"عادي"</string>
     <string name="Achievement">"إنجاز"</string>
-    <string name="Flag">" العلم"</string>
+    <string name="Flag">"العلم"</string>
     <string name="Win_10_Clan_Wars">"الفوز بـ10 حروب العشائر"</string>
     <string name="Win_100_Clan_Wars">"الفوز بـ100 حروب العشائر"</string>
     <string name="Clan_Commander">"قائد عشيرة"</string>
@@ -565,7 +565,7 @@
     <string name="Remove_Friend">"أزالة صديق"</string>
     <string name="Remove_Clan_Member">"طرد العضو من العشيرة"</string>
     <string name="Flag_lobby_as_inappropriate">" غير ملائمة"</string>
-    <string name="Promote_Clan_Member">"ترقية العضو "</string>
+    <string name="Promote_Clan_Member">"ترقية العضو"</string>
     <string name="Leave_Clan">"الخروج من العشيرة"</string>
     <string name="Candy_Hoarder">"مكدس الحلوى"</string>
     <string name="Candy_Collector">"جامع الحلوى"</string>
@@ -761,7 +761,7 @@
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"اللعبة تحتاج إذن تحديد الموقع للعثور على أجهزة بلوتوث قريبة."</string>
     <string name="FFA_ULTRA">"حر للجميع الفائقة"</string>
     <string name="FFAU">"حر للجميع الفائقة"</string>
-    <string name="_in_a_FFAU_Game">"في لعبة حر للجميع الفائقة"</string>
+    <string name="_in_a_FFAU_Game">" في لعبة حر للجميع الفائقة"</string>
 
     <string name="BANNED_PLAYERS">"اللاعبون المحظورون"</string>
     <string name="MAIL">"بريد"</string>
@@ -994,7 +994,7 @@
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">قُبول جَمِيعْ طلباتِ الصَداقْة</string>
     <string name="App_Perf_Stats">إحصائيات أداء التطبيق</string>
     <string name="COPY">نسخ</string>
-    <string name="_1v1_Ultra">١ضد١ فائقة</string>
+    <string name="_1v1_Ultra"> ١ضد١ فائقة</string>
     <string name="ArenaDescriptionUltra">سيستلم الفائز %s بلازما.</string>
     <string name="BANNED">محظور</string>
     <string name="CLAN_MEMBERS">أعضاء العشيرة</string>
@@ -1022,7 +1022,7 @@
     <string name="Mass_Boost">تعزيز الكتلة !</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">لا يَعمل تعزيز الكُتلة في التحديّات أو البُطولات أو حُروب العشّائر!</string>
     <string name="ArenaDescriptionPure">لا ضغط التلقائي أو مسرع الضغط. تحصل على حياة واحدة فقط. سوف يتلقى الفائز %s بلازما.</string>
-    <string name="_1v1_Pure">١ضد١ نقي</string>
+    <string name="_1v1_Pure"> ١ضد١ نقي</string>
     <string name="Allow_Ultraclick"> تشغيل مسرع الضغط</string>
     <string name="Allow_Mass_Boost"> تفعيل مُعزز الكُتلة</string>
     <string name="Challenges_Won_">التحديات التي تم الفوز بها:</string>
