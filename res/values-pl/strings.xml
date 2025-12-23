@@ -239,7 +239,7 @@
     <string name="That_clan_is_full_">"Ten klan jest pełny."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Ten gracz nie jest członkiem twojego klanu."</string>
     <string name="_You_can_t_be_your_own_friend_">"Nie możesz być swoim własnym znajomym."</string>
-    <string name="A_clan_with_that_name_already_exists_">"Inny klan używa już tę nazwę."</string>
+    <string name="A_clan_with_that_name_already_exists_">"Inny klan z tą nazwą już istnieje."</string>
     <string name="Duration_">"Czas Trwania:"</string>
     <string name="FFA_Time_Domination">"Dominacja FFA Czasowego"</string>
     <string name="Teams_Time_Domination">"Dominacja Drużyn Czasowych"</string>
@@ -381,7 +381,7 @@
     <string name="ArenaDescription">"Masz tylko jedno życie. Zwycięzca otrzyma %s plazmy. Handel wygranymi lub "darmowe wygrane" będą skutkować banem."</string>
     <string name="Contestant">"Zawodnik"</string>
     <string name="Duelist">"Szermierz"</string>
-    <string name="Gladiator">"Gladiatorów"</string>
+    <string name="Gladiator">"Gladiator"</string>
     <string name="Challenger">"Miłośnik Zmagań"</string>
     <string name="Win_1_1v1_Arenas_">"Wygraj Arenę 1vs1."</string>
     <string name="Win_10_Arenas_">"Wygraj 10 Aren."</string>
@@ -536,7 +536,7 @@
     <string name="Copied_to_clipboard_">"Skopiowano do schowka."</string>
     <string name="COPY_NAME">"SKOPIUJ NAZWĘ"</string>
     <string name="Challenge_Sent">"Wysłano Pojedynek."</string>
-    <string name="_1v1_Challenge_">"Pojedynek 1s1!"</string>
+    <string name="_1v1_Challenge_">"Pojedynek 1vs1!"</string>
     <string name="__has_challenged_you_to_a_1v1_match_">"%s wyzwał/a ciebie na pojedynek 1vs1!"</string>
     <string name="Challenge_Expired">"Pojedynek Wygasł."</string>
     <string name="Enable_Challenges">"Włącz Pojedynki"</string>
@@ -611,7 +611,7 @@
     <string name="Refunded">"Zwrócona"</string>
     <string name="contribution_warning">"Czy na pewno chcesz wpłacić tę plazmę? Nie ma możliwości jej zwrotu."</string>
     <string name="Upload">"PRZEŚLIJ"</string>
-    <string name="upload_warning">"Czy na pewno chcesz przesłać tę skórkę tak, aby inni gracze mogli ją zobaczyć? Rozpatrzenie skórki może potrwać do tygodnia. Nieodpowiednie skórki będą odrzucane i nie będą zwracane!"</string>
+    <string name="upload_warning">"Czy na pewno chcesz przesłać tę skórkę tak, aby inni gracze mogli ją zobaczyć? Rozpatrzenie skórki może potrwać do tygodnia. Nieodpowiednie skórki będą odrzucane i plazma nie będzie zwracana!"</string>
     <string name="In_Review">"W Toku Rozpatrzenia"</string>
     <string name="Account_Uploads">"Moje Skórki"</string>
     <string name="Clan_Uploads">"Klanowe Skórki"</string>
@@ -708,7 +708,7 @@
     <string name="Tournaments_Temporarily_Disabled">"Turnieje Tymczasowo Wyłączone"</string>
     <string name="CLAN_NAME_COLOR">"KOLOROWA NAZWA KLANU"</string>
     <string name="Tuber">"YouTuberzy"</string>
-    <string name="youtube_prompt">"Czy chciałbyś odwiedzić tego twórcę na YouTubie? Te kanały nie są powiązane z oficjalnymi twórcami Nebulous."</string>
+    <string name="youtube_prompt">"Czy chciałbyś odwiedzić tego twórcę na YouTube? Te kanały nie są powiązane z oficjalnymi twórcami Nebulous."</string>
     <string name="Tournament_Matches_Won_">"Wygrane Mecze Turniejowe:"</string>
     <string name="PAINT">"MALOWANIE"</string>
     <string name="BLOCKED_ACCOUNTS">"ZABLOKOWANE KONTA"</string>
@@ -762,7 +762,7 @@
     <string name="Free_Agent">"Free Agent"</string>
     <string name="This_player_selected_a_different_teammate_">"Ten gracz wybrał innego członka."</string>
     <string name="muted_until">"Wyciszono do"</string>
-    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">"Ocena zawartości aplkacji może ulec zmianie podczas gry wieloosobowej."</string>
+    <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">"Ocena zawartości aplikacji może ulec zmianie podczas gry wieloosobowej."</string>
     <string name="UI_Opacity_">"Przezroczystość UI:"</string>
     <string name="LOAD">"WCZYTAJ"</string>
     <string name="REMOVE">"USUŃ"</string>
@@ -827,7 +827,7 @@
     <string name="Years">"Lat/a"</string>
     <string name="Friend_Added_">"Dodano Znajomego!"</string>
     <string name="_in_a_16x_Split_Game">" w trybie Podział 16x."</string>
-    <string name="Rules">"Zaady"</string>
+    <string name="Rules">"Zasady"</string>
     <string name="Nebulous_Rules" translatable="true" tools:ignore="Untranslatable">
 Zasady Nebulous\n
 \n
@@ -842,7 +842,7 @@ Zasady Nebulous\n
 9. Nie wykorzystuj błędów w grze.\n
 10. Nie wyrzucaj wielu członków klanu bez zgody lidera.\n
 11. Nie ufaj niepewnym informacjom.\n
-12. W grach drużynowych nie współpracuj z graczami przeciwnej drużyny.\n
+12. W grach drużynowych nie współpracuj z graczami z przeciwnej drużyny.\n
 13. Nigdy nie oszukuj Moderatorów.\n
 14. Nie wymieniaj klanów Nebulous na pieniądze lub plazmę.\n
 15. Nie spamuj na czacie ani w wiadomościach mailowych.\n
@@ -876,7 +876,7 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="App_Perf_Stats">"Statystyki Wydajności Aplikacji"</string>
     <string name="COPY">"SKOPIUJ"</string>
     <string name="_1v1_Ultra">"1vs1 Ultra"</string>
-    <string name="ArenaDescriptionUltra">"Zwycięzca otrzyma %s plazmy. Handel wygranymi lub „darmowyme wygrane” będą skutkować banem."</string>
+    <string name="ArenaDescriptionUltra">"Zwycięzca otrzyma %s plazmy. Handel wygranymi lub „darmowe wygrane” będą skutkować banem."</string>
     <string name="BANNED">"ZBANOWANI"</string>
     <string name="CLAN_MEMBERS">"KLANOWICZE"</string>
     <string name="CLAN_REQUESTS">"PROŚBY O DODANIE DO KLANU"</string>
@@ -923,7 +923,7 @@ Jeśli ktoś łamie zasady, prosimy o zgłoszenie tego Moderatorowi.
     <string name="POSITION_CONTROL_STICK">"POZYCJA DRĄŻKA"</string>
     <string name="POSITION_SPLIT_BUTTON">"POZYCJA PRZYCISKU DO ROZDZIELANIA SIĘ"</string>
     <string name="POSITION_EJECT_BUTTON">"POZYCJA PRZYCISKU DO WYRZUCANIA MASY"</string>
-    <string name="POSITION_EJECT_TOGGLE_BUTTON">"POZYCJA PRZYCISKU POJEDYNCZEGO ROZDZIELANIA"</string>
+    <string name="POSITION_EJECT_TOGGLE_BUTTON">"POZYCJA PRZYCISKU POJEDYNCZEGO WYRZUCANIA MASY"</string>
     <string name="WIFI">"WIFI"</string>
     <string name="JOIN_IP">"DOŁĄCZ PO IP"</string>
     <string name="Specify_Host_IP">"Określ IP Hosta"</string>
