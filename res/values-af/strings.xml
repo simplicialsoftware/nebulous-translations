@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"spelers"</string>
-    <string name="Control_">"seheer:"</string>
+    <string name="Control_">"beheer:"</string>
     <string name="CLOSE">"TOEMAAK"</string>
     <string name="Stick_Size_">"Stok Grootte:"</string>
     <string name="Stick_Margin_">"Stok Marge:"</string>
@@ -56,7 +56,7 @@
 
     <string name="SERVER">"bediener"</string>
     <string name="Joining_game_in_">"Neem deel aan spel in "</string>
-    <string name="Game_Full">"spel Full"</string>
+    <string name="Game_Full">"spel vol"</string>
     <string name="US_East">"VSA-Ooste"</string>
     <string name="US_West">"Amerikaanse Weste"</string>
     <string name="Europe">"Europa"</string>
@@ -290,7 +290,7 @@
     <string name="No_open_public_clans_exist_">"Geen oop openbare familiegroepe bestaan."</string>
     <string name="You_aren_t_invited_to_that_clan_">"Jy is nie uitgenooi na die stam."</string>
     <string name="No_such_clan_exists_">"Geen sodanige stam bestaan."</string>
-    <string name="That_clan_is_full_">"Dit stam is vol."</string>
+    <string name="That_clan_is_full_">"Die stam is vol."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Ander gebruiker nie 'n lid van jou stam."</string>
     <string name="_You_can_t_be_your_own_friend_">"Jy kan nie jou eie vriend wees."</string>
     <string name="A_clan_with_that_name_already_exists_">"A-stam met daardie naam bestaan ​​reeds."</string>
@@ -319,7 +319,7 @@
     <string name="Special_Thanks">"Spesiale dankie"</string>
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"Baie dankie aan elke vaag Fan"</string>
     <string name="Color_Blind">"Kleurblind"</string>
-    <string name="Daily_Quest_Complete_">"Daily Quest Volledige!"</string>
+    <string name="Daily_Quest_Complete_">"Daaglikse Opdrag Voltooi!"</string>
     <string name="COPY_ID">"AFSKRIF ID"</string>
     <string name="My_Account_ID">"My Rekening ID"</string>
 
@@ -557,10 +557,10 @@
     <string name="Threats">"dreigemente"</string>
     <string name="Spam">"Gemorspos"</string>
     <string name="Other">"ander"</string>
-    <string name="Leave_Team">"Laat Team"</string>
+    <string name="Leave_Team">"Verlaat Span"</string>
 
-    <string name="Remove_Player">"verwyder Player"</string>
-    <string name="Reject_Invitation">"verwerp Invitation"</string>
+    <string name="Remove_Player">"Verwyder Speler"</string>
+    <string name="Reject_Invitation">"Verwerp Uitnodiging"</string>
     <string name="Leave_Game">"Laat Game"</string>
     <string name="Remove_Friend">"verwyder vriend"</string>
     <string name="Remove_Clan_Member">"Verwyder Stam lid"</string>
