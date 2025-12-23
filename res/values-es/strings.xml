@@ -269,7 +269,7 @@
     <string name="REMOVE_MEMBER">"EXPULSAR MIEMBRO"</string>
 
 
-    <string name="CREATE_CLAN">"CREAR CLAN"</string>
+    <string name="CREATE_CLAN">"CREAR UN CLAN"</string>
     <string name="MEMBER">"MIEMBRO"</string>
     <string name="ADMIN">"ADMIN"</string>
     <string name="LEADER">"LÍDER"</string>
@@ -282,7 +282,7 @@
     <string name="CLAN">"CLAN"</string>
 
 
-    <string name="Specify_Clan_ID">"Especifica la ID del Clan"</string>
+    <string name="Specify_Clan_ID">"Escribe la ID del Clan"</string>
     <string name="Show_Clan_Names">"Mostrar clanes"</string>
     <string name="Show_Levels">"Mostrar Niveles"</string>
     <string name="SET_MOTD">"ESTABLECER DESCRIPCIÓN"</string>
@@ -1105,14 +1105,14 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="POPULAR">POPULAR</string>
     <string name="NEW">NUEVO</string>
     <string name="Manage_Configurations">Administrar Configuraciones</string>
-    <string name="Leave_blank_for_all_uploaders_">Déjalo en blanco para todos los autores de skins </string>
+    <string name="Leave_blank_for_all_uploaders_">Déjalo en blanco para todos los autores de skins.</string>
     <string name="More___">Más…</string>
     <string name="This_cannot_be_used_in_FFA_Classic_">Esto no puede ser usado en TCT Clásico.</string>
     <string name="ENEMY">ENEMIGO</string>
     <string name="ALLY">ALIADO</string>
     <string name="Rename">Renombrar</string>
-    <string name="Set_friendly_name_">Establecer nombre amistoso </string>
-    <string name="Leave_blank_for_none_">Dejar en blanco para ningún nombre </string>
+    <string name="Set_friendly_name_">Establecer un apodo.</string>
+    <string name="Leave_blank_for_none_">Déjalo en blanco para mantener el nombre original.</string>
     <string name="Vote_Kick">Expulsar Jugador</string>
     <string name="FONT">FUENTE</string>
     <string name="CIRCLE">CÍRCULO</string>
@@ -1130,14 +1130,14 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="Skin_Pack">Pack de Skins</string>
     <string name="SKIN_PACK">PACK DE SKINS</string>
     <string name="HALLOWEEN">HALLOWEEN</string>
-    <string name="pack_info">Después de comprar este pack de skins, sus máscaras exclusivas aparecerán en la parte superior de los menús de selección de skins.</string>
+    <string name="pack_info">Después de comprar este pack de skins, las skins exclusivas aparecerán en la parte superior del menú de selección de skins.</string>
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">¡Skins, Mascotas, Sombreros y Más EXCLUSIVAS!</string>
     <string name="BUY_NOW_">¡COMPRAR AHORA!</string>
-    <string name="already_purchased">Tú o la persona para la que estás comprando esto ya sois dueños de esto.</string>
+    <string name="already_purchased">Tú o la persona para la que estás comprando esto ya son dueños de esto.</string>
     <string name="Halo_Animations">Animación del Halo</string>
-    <string name="Trick_Notifications">Notificación de Tricks</string>
+    <string name="Trick_Notifications">Notificaciones de Tricks</string>
     <string name="Channel">Canal</string>
-    <string name="Choose_Text_Size">Selecciona Tamaño de Texto</string>
+    <string name="Choose_Text_Size">Selecciona el Tamaño del Texto</string>
     <string name="LEVEL_COLOR">COLOR DE NIVEL</string>
     <string name="level_color_instructions" translatable="true" tools:ignore="Untranslatable"> Selecciona el color para tu nivel</string>
     <string name="INITIATE">INICIADO</string>
@@ -1158,17 +1158,17 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="LEAVE">SALIR</string>
     <string name="Group">Grupo</string>
     <string name="Not_in_a_group_">No estás en un grupo </string>
-    <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">Da la ID del grupo a tus amigos para que ellos puedan unirse:</string>
-    <string name="Specify_Group_ID" translatable="true" tools:ignore="Untranslatable">Especificar ID del Grupo</string>
+    <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">Comparte la ID del grupo a tus amigos para que puedan unirse:</string>
+    <string name="Specify_Group_ID" translatable="true" tools:ignore="Untranslatable">Ingresa ID del Grupo</string>
     <string name="Failed">Error</string>
-    <string name="Joined_group" translatable="true" tools:ignore="Untranslatable">Unido al grupo</string>
-    <string name="People" translatable="true" tools:ignore="Untranslatable">Personas</string>
+    <string name="Joined_group" translatable="true" tools:ignore="Untranslatable">Te has unido al grupo</string>
+    <string name="People" translatable="true" tools:ignore="Untranslatable">Jugadores</string>
     <string name="Failed_to_join">Error al unirse</string>
     <string name="Full">Lleno</string>
-    <string name="new_person_joined" translatable="true" tools:ignore="Untranslatable">alguien nuevo se unió</string>
-    <string name="person_left" translatable="true" tools:ignore="Untranslatable">alguien salió</string>
+    <string name="new_person_joined" translatable="true" tools:ignore="Untranslatable">Se unió un nuevo jugador</string>
+    <string name="person_left" translatable="true" tools:ignore="Untranslatable">Un jugador ha salido</string>
     <string name="Left_the_group" translatable="true" tools:ignore="Untranslatable">Salió del grupo</string>
-    <string name="Tricks_Performed_">Tricks Ejecutados </string>
+    <string name="Tricks_Performed_">Contador de Tricks</string>
     <string name="Not_enough_plasma_">¡No tienes suficiente plasma!</string>
     <string name="GET_PLASMA">CONSEGUIR PLASMA</string>
     <string name="ASTEROIDS">ASTEROIDES</string>
