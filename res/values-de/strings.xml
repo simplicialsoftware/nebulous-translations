@@ -1194,8 +1194,8 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Mode_3D">3D Modus</string>
     <string name="Names_Below_Blobs">Namen unterhalb der Blobs</string>
     <string name="Name_Scale_">"Name Masstab:"</string>
-    <string name="Button_3D">Button 3D</string>
-    <string name="Hide_Button_">Button verstecken?</string>
+    <string name="Button_3D">Taste 3D</string>
+    <string name="Hide_Button_">Taste verstecken?</string>
     <string name="Show_Boost_Button">Boost Button anzeigen</string>
     <string name="Spectate_Killer_On_Death">Killer nach dem Tod zuschauen</string>
     <string name="Rainbow_Holes">Regenbogen Löcher</string>
@@ -1210,7 +1210,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Search_Filter">Suchfilter</string>
     <string name="Received_">Erhalten:</string>
     <string name="Opponent_Rating_Limit_">Gegnerbewertungslimit:</string>
-    <string name="TOGGLE_FAVORITE">TOGGLE FAVORITE</string>
+    <string name="TOGGLE_FAVORITE">FAVORIT UMSCHALTEN</string>
     <string name="Favorited">Bevorzugt</string>
     <string name="Unfavorited">Nicht Bevorzugt</string>
     <string name="Background_Scale_">Hintergrund Masstab:</string>
@@ -1218,14 +1218,14 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="Background_Image_">Hintergrund Bild:</string>
     <string name="INVERT_SELECTION">AUSWAHL\nINVERTIEREN</string>
     <string name="MINIMAP">MINIMAP</string>
-    <string name="Victorious">Victorious</string>
+    <string name="Victorious">Siegreich</string>
     <string name="Dominant">Dominant</string>
     <string name="Champion">Champion</string>
     <string name="Win_10_Tournaments">Gewinne 10 Turniere</string>
     <string name="Win_100_Tournaments">Gewinne 100 Turniere</string>
     <string name="HERO">HELD</string>
     <string name="CHAMPION">CHAMPION</string>
-    <string name="DASH">DASH</string>
+    <string name="DASH">Schub</string>
     <string name="setting_changed">Einstellungen aktualisiert. Möglicherweise müssen Sie erneut eine Verbindung zum Server herstellen, um die Änderungen wirksam zu machen.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Performiere 10.000 Tricks in einem Trick Modus Spiel.</string>
     <string name="Tricky">Tricky</string>
@@ -1235,7 +1235,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="x4_XP_Permanent">Permanent XP boost 4x</string>
     <string name="x4_XP_24_hours">24 Stunden XP boost 4x</string>
     <string name="x4_XP_1_Hour">Eine Stunde XP boost 4x</string>
-    <string name="Quad">Quadruple</string>
+    <string name="Quad">Vervierfachung</string>
     <string name="Middle_East">Mittlerer Osten</string>
     <string name="XP_4x">XP 4x</string>
     <string name="You_cannot_play_for_x_minutes_">Sie können für %d Minuten nicht mehr spielen.</string>
@@ -1270,7 +1270,7 @@ Wenn du einem Spieler begegnest der die Regeln bricht melde es umgehend einen Mo
     <string name="SET_EMOTE">EMOTE FESTLEGEN</string>
     <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
     <string name="Win_a_Battle_Royale_">Gewinne ein Battle Royale Spiel.</string>
-    <string name="Battle_">Battle!</string>
+    <string name="Battle_">Kampf!</string>
     <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
     <string name="Battle_Royale">Battle Royale</string>
     <string name="The_winner_will_receive_x_plasma_">Der Gewinner wird %s plasma bekommen!</string>
@@ -1290,7 +1290,7 @@ Commands:
 !allow reset
 !winner"
 </string>
-    <string name="ID_Sort">ID Sort</string>
+    <string name="ID_Sort">ID sortieren</string>
     <string name="Master_Tamer">Meister Bändiger</string>
     <string name="Get_ALL_Pets_To_Level_100_">Bekomme ALLE Haustiere auf Level 100</string>
     <string name="TAMER">BÄNDIGER</string>
@@ -1321,14 +1321,14 @@ Commands:
     <string name="India">Indien</string>
     <string name="Tutorial">Tutorial</string>
     <string name="TYCOON">TYCOON</string>
-    <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
-    <string name="activate">Activate</string>
+    <string name="CLAN_BACKGROUND_COLOR">CLAN HINTERGRUNDFARBE</string>
+    <string name="activate">Aktivieren</string>
     <string name="clan_id">CLAN ID</string>
     <string name="language_change_warning">Die App muss neu gestartet werden, um die Sprache zu ändern.</string>
     <string name="xmas_gift_boost_message">Du hast ein Geschenk von 3mal Plasma-Boosts für 1 Tag erhalten!</string>
-    <string name="no_response">Kein Antwort vom Server. Bitte überprüfen Sie die Internetverbindung.</string>
+    <string name="no_response">Keine Antwort vom Server. Bitte überprüfen Sie die Internetverbindung.</string>
     <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">PLÖTZLICHER ANGRIFF</string>
+    <string name="SUDDEN_ATTACK">ÜBERRASCHUNGSANGRIFF </string>
 
     <string name="sign_in_explanation" translatable="true">
 "Spieler melden Sie sich an, um auf den Mehrspielermodus zuzugreifen. Sie werden folgendes tun können:
