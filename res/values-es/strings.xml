@@ -24,7 +24,7 @@
     <string name="Connecting___">"Conectando…"</string>
 
     <string name="Are_You_Sure_">"¿Estás seguro?"</string>
-    <string name="Yes">"Sí"</string>
+    <string name="Yes">"Si"</string>
     <string name="No">"No"</string>
     <string name="WAIT">"ESPERA…"</string>
     <string name="Must_Specify_Name_">"Debes especificar un nombre "</string>
@@ -39,7 +39,7 @@
     <string name="WINNER_">"GANADOR: "</string>
     <string name="IDLE">"INACTIVO"</string>
     <string name="Name_Invalid_">"Nombre Inválido "</string>
-    <string name="Name_Taken_">"Nombre en Uso "</string>
+    <string name="Name_Taken_">"Nombre en uso "</string>
     <string name="CONNECTED">"CONECTADO"</string>
     <string name="JOINING___">"UNIÉNDOSE…"</string>
     <string name="PLAYING">"JUGANDO"</string>
@@ -71,7 +71,7 @@
     <string name="Max_Players">"Jugadores máximos"</string>
     <string name="Min_Players">"Jugadores mínimos"</string>
 
-    <string name="OK">"VALE"</string>
+    <string name="OK">"ACEPTAR"</string>
     <string name="CANCEL">"CANCELAR"</string>
     <string name="Chat_Name">"Nombre del chat"</string>
     <string name="Max_People">"Personas máximas"</string>
@@ -104,7 +104,7 @@
     <string name="Single_Player_Stats">"Estadísticas en modo Un Jugador"</string>
 
     <string name="Level">"Nivel"</string>
-    <string name="PAUSED">"EN PAUSA"</string>
+    <string name="GAME ON PAUSE">"JUEGO EN PAUSA"</string>
 
 
     <string name="FRIENDS">"AMIGOS"</string>
@@ -143,7 +143,7 @@
     <string name="SURVIVAL">"SUPERVIVENCIA"</string>
 
 
-    <string name="Clan_XP">"EXP Clanes"</string>
+    <string name="Clan_XP">"EXP CLANES"</string>
 
 
     <string name="Dot_Nibbler">"Roedor de puntos"</string>
@@ -242,7 +242,7 @@
     <string name="Games_Won_">"Partidas ganadas:"</string>
 
     <string name="You_must_wait_until_the_end_of_the_round_">"Debes esperar hasta el final de la ronda"</string>
-    <string name="Dont_show_again">"No mostrar de nuevo"</string>
+    <string name="Don't show again">"No volver a mostrar"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Se encontró un respaldo de modo Un Jugador con más experiencia. ¿Deseas restaurarlo?"</string>
 
     <string name="Special_Effects">"Efectos especiales"</string>
@@ -271,7 +271,7 @@
 
     <string name="CREATE_CLAN">"CREAR CLAN"</string>
     <string name="MEMBER">"MIEMBRO"</string>
-    <string name="ADMIN">"ADMIN"</string>
+    <string name="ADMIN">"ADMINISTRADOR"</string>
     <string name="LEADER">"LÍDER"</string>
     <string name="ELDER">"VETERANO"</string>
 
@@ -286,13 +286,13 @@
     <string name="Show_Clan_Names">"Mostrar clanes"</string>
     <string name="Show_Levels">"Mostrar Niveles"</string>
     <string name="SET_MOTD">"ESTABLECER DESCRIPCIÓN"</string>
-    <string name="No_such_user_found_">"No se encontró dicho usuario. "</string>
+    <string name="No_such_user_found_">"No se encontró tal usuario. "</string>
     <string name="No_open_public_clans_exist_">"No existen clanes públicos abiertos "</string>
     <string name="You_aren_t_invited_to_that_clan_">"No has sido invitado a ese clan "</string>
     <string name="No_such_clan_exists_">"El clan no existe. "</string>
     <string name="That_clan_is_full_">"El clan está lleno. "</string>
-    <string name="Other_user_is_not_a_member_of_your_clan_">"Este otro usuario no es un miembro de tu clan "</string>
-    <string name="_You_can_t_be_your_own_friend_">"No puedes ser tu propio amigo "</string>
+    <string name="Other_user_is_not_a_member_of_your_clan_">"Este usuario no es un miembro de tu clan "</string>
+    <string name="You_cannot_add_yourself">"No puedes agregarte a ti mismo"</string>
     <string name="A_clan_with_that_name_already_exists_">"Ya existe un clan con ese nombre "</string>
     <string name="Duration_">"Duración:"</string>
 
@@ -321,7 +321,7 @@
     <string name="Color_Blind">"Modo daltónico"</string>
     <string name="Daily_Quest_Complete_">"¡Misión diaria completada!"</string>
     <string name="COPY_ID">"COPIAR ID"</string>
-    <string name="My_Account_ID">"Mi ID"</string>
+    <string name="My_ID">"Mi ID"</string>
 
 
     <string name="COMPLETE">"COMPLETA"</string>
@@ -369,16 +369,16 @@
     <string name="_3v3">" 3vs3"</string>
     <string name="_5v5">" 5vs5"</string>
     <string name="_8v8">" 8vs8"</string>
-    <string name="Top_Ranks">"Ránking mundial"</string>
+    <string name="Top_Ranks">"Rangos mundiales"</string>
     <string name="My_Ranks">"Mi Posición"</string>
     <string name="Player_XP">"EXP Jugadores"</string>
 
     <string name="W_D_L">"G-E-P"</string>
-    <string name="MATCH_START">"COMIENZA PARTIDA"</string>
+    <string name="MATCH_START">"COMENZAR PARTIDA"</string>
     <string name="Clan_Warrior">"Guerrero del Clan"</string>
     <string name="Win_a_Clan_War">"Gana una Guerra de Clanes"</string>
-    <string name="Global">"Global"</string>
-    <string name="Spectating">"Espectando"</string>
+    <string name="Global">"Mundial"</string>
+    <string name="Spectating">"Observando"</string>
 
 
     <string name="snowflakes_">"copos de nieve "</string>
@@ -423,7 +423,7 @@
     <string name="Purchasing">"Comprando"</string>
 
     <string name="Purchase_Successful_">"¡Compra realizada con éxito!"</string>
-    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Puede que tengas que reconectarte para utilizar lo comprado."</string>
+    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"Puede que tengas que reiniciar para utilizar lo comprado."</string>
     <string name="Confirm_Purchase">"Confirmar compra"</string>
     <string name="x3_XP_24_hours">"3x EXP 24 horas"</string>
     <string name="x3_XP_1_Hour">"3x EXP 1 Hora"</string>
@@ -442,7 +442,7 @@
 
 
     <string name="until">"hasta"</string>
-    <string name="New_Message_">"¡Nuevo mensaje!"</string>
+    <string name="New_Message_">"¡Nuevo Correo!"</string>
     <string name="Seasonal">"Estacional"</string>
 
 
@@ -452,7 +452,7 @@
 
     <string name="Copy_ID">"Copiar ID"</string>
     <string name="View_Profile">"Ver Perfil"</string>
-    <string name="Send_Message">"Enviar Mensaje"</string>
+    <string name="Send_Message">"Enviar Correo"</string>
     <string name="Account_ID">"Ver ID"</string>
     <string name="Player_Name">"Nombre del Jugador"</string>
 
