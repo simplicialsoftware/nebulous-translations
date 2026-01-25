@@ -1205,25 +1205,25 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="POSITION_CANCEL_BUTTON">POSIÇÃO DO BOTÃO DE CANCELAR</string>
 
     <string name="INVISIBILITY">INVISIBILIDADE</string>
-    <string name="Set_Skin">Definir Skin</string>
+    <string name="Set_Skin">Definir skin</string>
     <string name="Primary">Primária</string>
     <string name="Secondary">Secundária</string>
     <string name="Both">Ambos</string>
-    <string name="multiskin_period_description" translatable="true" tools:ignore="Untranslatable">"Especifique o período de alteração da multi-skin em segundos (0–10). 0 desativará a multi-skin."</string>
+    <string name="multiskin_period_description" translatable="true" tools:ignore="Untranslatable">"Especifique o intervalo de alternância da multi-skin em segundos (0–10). 0 desativará a multi-skin."</string>
     <string name="Enable__Multiskin">"Ativar\nMulti-Skin"</string>
-    <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"A multi-skin permite que você use duas skins que se alternam. Você escolhe a rapidez com que as skins mudam. Quando você atinge o nível 1.000, esse recurso é gratuito. Se você comprar a multi-skin antes do nível 1.000 você terá as plasma novamente ao chegar nele"</string>
+    <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"A multi-skin permite que você use duas skins que se alternam. Você escolhe a rapidez com que as skins mudam. Quando você atinge o nível 1.000, esse recurso é gratuito. Se você comprar a multi-skin antes do nível 1.000 você receberá as plasmas novamente chegar nele"</string>
     <string name="MULTISKIN">MULTI-SKIN</string>
     <string name="DISABLED">DESATIVADO</string>
     <string name="Refund__Multiskin">"Reembolsar a\nMulti-Skin"</string>
-    <string name="Invalid_Clan_ID_">ID do Clã Inválido.</string>
+    <string name="Invalid_Clan_ID_">ID do clã inválido.</string>
     <string name="MUTED">SILENCIADO</string>
     <string name="SKIN">SKIN</string>
-    <string name="Choose_Skin_Size">Escolha o Tamanho da Skin</string>
+    <string name="Choose_Skin_Size">Escolha o tamanho da skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Os outros jogadores não poderão te ouvir!</string>
-    <string name="Allow_permission_to_enable_voice_recording_">Conceder a permissão para ativar a gravação de voz.</string>
+    <string name="Allow_permission_to_enable_voice_recording_">Conceda a permissão para ativar a gravação de voz.</string>
     <string name="voice_chat_prompt">A classificação do conteúdo do aplicativo pode mudar com o chat por voz ativado. Para um áudio melhor, use um fone de ouvido.</string>
     <string name="Only_leader_can_answer_requests_">Apenas o Líder pode responder às solicitações.</string>
-    <string name="Sent_request_not_invited_">Pedido enviado (não convidado).</string>
+    <string name="Sent_request_not_invited_">Solicitação enviada (não convidado).</string>
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">REMOVER SKIN DA COMUNIDADE!</string>
     <string name="This_cannot_be_undone_">Isto não pode ser desfeito!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Assista a um vídeo para obter um impulso temporário por %d vidas!</string>
@@ -1456,9 +1456,9 @@ Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
     </string-array>
 
     <string-array name="clan_war_sizes">
-        <item>"Dupla (2vs2)"</item>
-        <item>"Minúsculo (3vs3)"</item>
-        <item>"Pequeno (5vs5)"</item>
-        <item>"Normal (8vs8)"</item>
+        <item>"Dupla (2x2)"</item>
+        <item>"Minúsculo (3x3)"</item>
+        <item>"Pequeno (5x5)"</item>
+        <item>"Normal (8x8)"</item>
     </string-array>
 </resources>
