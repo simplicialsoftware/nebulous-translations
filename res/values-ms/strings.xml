@@ -11,7 +11,7 @@
     <string name="DEFAULTS">"Lalai"</string>
     <string name="WEEKLY">"Mingguan"</string>
     <string name="DAILY">"Keharian"</string>
-    <string name="Server_">"Server:"</string>
+    <string name="Server_">"Servers:"</string>
     <string name="Game_Mode_">"Mod permainan:"</string>
     <string name="Show_Names">"Tunjuk Nama"</string>
     <string name="Show_Avatars">"Tunjuk Kulit"</string>
@@ -27,7 +27,7 @@
     <string name="Are_You_Sure_">"Adakah kamu pasti?"</string>
     <string name="Yes">"Ya"</string>
     <string name="No">"Tidak"</string>
-    <string name="WAIT">"TUNGGU…"</string>
+    <string name="WAIT">"TUNGGU"</string>
     <string name="Must_Specify_Name_">"Perlu meletak nama."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Kedudukan kandungan aplikasi mungkin berubah apabila mencari kumpulan."</string>
@@ -35,13 +35,13 @@
     <string name="_Rank_">" Pangkat "</string>
     <string name="_Alias_">" Alias "</string>
     <string name="_Score_">" Skor "</string>
-    <string name="Score__">"Skor: "</string>
-    <string name="Recombine_">"Bergabung: "</string>
-    <string name="WINNER_">"PEMENANG:"</string>
+    <string name="_Score_">"Skor: "</string>
+    <string name="_Recombine_">"Bergabung: "</string>
+    <string name="_WINNER_">"PEMENANG:"</string>
     <string name="IDLE">"TERBIAR"</string>
     <string name="Name_Invalid_">"Nama tidak sah."</string>
-    <string name="Name_Taken_">"Nama diambil."</string>
-    <string name="CONNECTED">"DIKAIT"</string>
+    <string name="Name_Taken_">"Nama di ambil."</string>
+    <string name="CONNECTED">"DI KAIT"</string>
     <string name="JOINING___">"MENYERTAI …"</string>
     <string name="PLAYING">"BERMAIN"</string>
     <string name="MULTIPLAYER">"MULTIPLAYER"</string>
@@ -50,7 +50,7 @@
 
 
     <string name="Lobby_Name">"Nama lobi"</string>
-    <string name="Not_found_">"Tidak ditemui."</string>
+    <string name="Not_found_">"Tidak di temui."</string>
 
     <string name="Hidden">"Tersembunyi"</string>
 
@@ -95,7 +95,7 @@
     <string name="SIGN_OUT">"TANDA KELUAR"</string>
     <string name="ACHIEVEMENTS">"CAPAIAN"</string>
     <string name="STATISTICS">"STATISTIK"</string>
-    <string name="XP_">"XP:"</string>
+    <string name="XP_">"XP;"</string>
 
     <string name="Information">"Maklumat"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Untuk menggunakan kulit ini, anda mesti memperoleh capaian"</string>
@@ -117,7 +117,7 @@
     <string name="Public">"Awam"</string>
     <string name="Bot">"Bot"</string>
     <string name="You">"Kamu"</string>
-    <string name="This_player_is_a_bot">"Pemain ini bot."</string>
+    <string name="This_player_is_a_bot">"Pemain ini adalah bot."</string>
     <string name="This_player_is_not_signed_in">"Pemain ini tidak tandai masuk."</string>
 
     <string name="Online">"Online"</string>
