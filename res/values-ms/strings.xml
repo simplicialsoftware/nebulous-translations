@@ -21,13 +21,13 @@
     <string name="Avatar_">"Kulit:"</string>
     <string name="Name_">"Nama:"</string>
 
-    <string name="Loading___">"Loading …"</string>
-    <string name="Connecting___">"Bersambung …"</string>
+    <string name="Loading___">"Loading…"</string>
+    <string name="Connecting___">"Bersambung…"</string>
 
     <string name="Are_You_Sure_">"Adakah kamu pasti?"</string>
     <string name="Yes">"Ya"</string>
     <string name="No">"Tidak"</string>
-    <string name="WAIT">"TUNGGU…"</string>
+    <string name="WAIT">"TUNGGU"</string>
     <string name="Must_Specify_Name_">"Perlu meletak nama."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Kedudukan kandungan aplikasi mungkin berubah apabila mencari kumpulan."</string>
@@ -42,14 +42,14 @@
     <string name="Name_Invalid_">"Nama tidak sah."</string>
     <string name="Name_Taken_">"Nama diambil."</string>
     <string name="CONNECTED">"DIKAIT"</string>
-    <string name="JOINING___">"MENYERTAI …"</string>
+    <string name="JOINING___">"MENYERTAI…"</string>
     <string name="PLAYING">"BERMAIN"</string>
     <string name="MULTIPLAYER">"MULTIPLAYER"</string>
 
     <string name="JOIN">"SERTAI"</string>
 
 
-    <string name="Lobby_Name">"Nama lobi"</string>
+    <string name="Lobby_Name">"Nama Lobi"</string>
     <string name="Not_found_">"Tidak ditemui."</string>
 
     <string name="Hidden">"Tersembunyi"</string>
@@ -110,14 +110,14 @@
 
     <string name="FRIENDS">"KAWAN"</string>
     <string name="Warning">"Amaran"</string>
-    <string name="SIGNING_IN">"MENANDATANGANI …"</string>
+    <string name="SIGNING_IN">"MENANDATANGANI…"</string>
     <string name="New_Friend_Request">"Permintaan Kawan Baru!"</string>
     <string name="REQUEST_FRIEND">"PERMINTAAN KAWAN"</string>
     <string name="Private">"Swasta"</string>
     <string name="Public">"Awam"</string>
     <string name="Bot">"Bot"</string>
     <string name="You">"Kamu"</string>
-    <string name="This_player_is_a_bot">"Pemain ini bot."</string>
+    <string name="This_player_is_a_bot">"Pemain ini adalah bot."</string>
     <string name="This_player_is_not_signed_in">"Pemain ini tidak tandai masuk."</string>
 
     <string name="Online">"Online"</string>
@@ -228,8 +228,8 @@
     <string name="Absorb_5_doges_without_restarting">"Serap 5 doge tanpa bermulai semula"</string>
 
     <string name="Friends">"Kawan"</string>
-    <string name="Dots_Eaten_">"Dots dimakan:"</string>
-    <string name="Blobs_Eaten_">"Blobs dimakan:"</string>
+    <string name="Dots_Eaten_">"Dots Dimakan:"</string>
+    <string name="Blobs_Eaten_">"Blobs Dimakan:"</string>
     <string name="Blobs_Lost_">"Blobs Hilang:"</string>
     <string name="Mass_Gained_">"Mass Yang Didapati:"</string>
     <string name="Mass_Ejected_">"Mass Dibuang:"</string>
@@ -1142,7 +1142,7 @@
     <string name="DISABLED">DISABLED</string>
 
     <string name="Refund__Multiskin">Refund\nMultiskin</string>
-    <string name="Invalid_Clan_ID_">Invalid clan ID.</string>
+    <string name="Invalid_Clan_ID_">ID Klan Tidak Sah.</string>
     <string name="MUTED">MUTED</string>
     <string name="SKIN">SKIN</string>
     <string name="Choose_Skin_Size">Choose Skin Size</string>
