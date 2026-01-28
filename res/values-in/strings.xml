@@ -306,7 +306,7 @@
     <string name="FFA_CLASSIC">"FFA KLASIK"</string>
 
 
-    <string name="pumpkins_">"Labu."</string>
+    <string name="pumpkins_">"Labu. "</string>
     <string name="To_use_this_skin_you_must_collect">"Untuk menggunakan Skin ini Anda harus mengumpulkan"</string>
     <string name="Australia">"Australia"</string>
     <string name="Pumpkin_Collector">"Kolektor Labu"</string>
@@ -405,9 +405,9 @@
     <string name="Plasma_Mogul">"Mogul Plasma"</string>
     <string name="Plasma_Collector">"Kolektor Plasma"</string>
     <string name="Plasma_Hoarder">"Penimbun Plasma"</string>
-    <string name="Collect_1_000_Plasma">"Mengumpulkan 1.000 Plasma."</string>
+    <string name="Collect_1_000_Plasma_">"Mengumpulkan 1.000 Plasma."</string>
     <string name="Collect_10_000_Plasma_">"Mengumpulkan 10.000 Plasma."</string>
-    <string name="Collect_100_000_Plasma">"Mengumpulkan 100.000 Plasma."</string>
+    <string name="Collect_100_000_Plasma_">"Mengumpulkan 100.000 Plasma."</string>
     <string name="Plasma_Collected_">"Plasma Dikumpulkan:"</string>
     <string name="Plasma_Purchases">"Pembelian Plasma"</string>
     <string name="ENTER">"MASUK"</string>
@@ -1103,7 +1103,7 @@
     <string name="Background_Lightness_">Kecerahan Latarbelakang:</string>
     <string name="Background_Image_">Gambar Latarbelakang:</string>
     <string name="INVERT_SELECTION">INVERT\nSELECTION</string>
-    <string name="MINIMAP">PETA MINI</string>
+    <string name="MINI_MAP">PETA MINI</string>
     <string name="Victorious">Berjaya</string>
     <string name="Dominant">Dominan</string>
     <string name="Champion">Juara</string>
@@ -1144,10 +1144,10 @@
     <string name="Custom_Skin_Reviewed_Notification">Kustom Skin Anda Telah Ditinjau!</string>
     <string name="You_Have_Mail_">Anda menerima surat dari %s!</string>
     <string name="Clan_Request_Reviewed_Notification">Permintaan Anda Untuk Bergabung dengan Klan %s Telah Ditinjau!</string>
-    <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
+    <string name="CRAZY_SPLIT_32x">CRAZY SPLIT 32x</string>
     <string name="Sold_Community_Skins_">"Skin Komunitas Terjual: "</string>
     <string name="Estimated_Earnings_">"Perkiraan pendapatan: "</string>
-    <string name="South_Africa">Afrika Selatan </string>
+    <string name="South_Africa">Afrika Selatan</string>
     <string name="SPLIT_">SPLIT:</string>
     <string name="WALLS">DINDING</string>
     <string name="COMP_BANNED">KOMP DILARANG</string>
@@ -1180,17 +1180,17 @@ Perintah:
 </string>
     <string name="ID_Sort">ID Sort</string>
     <string name="Master_Tamer">Penjinak Master</string>
-    <string name="Get_ALL_Pets_To_Level_100_">Naikkan SEMUA Pet Ke Level 100</string>
+    <string name="Get_ALL_Pets_To_Level_100_">Naikkan SEMUA Pet Ke Level 100 </string>
     <string name="TAMER">PENJINAK</string>
     <string name="Allow_Recombine">Membolehkan Bergabung Kembali</string>
     <string name="Defenders">Pembela</string>
     <string name="Attackers">Penyerang</string>
-    <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
+    <string name="MEGA_SPLIT_64x">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Izin Hilang</string>
     <string name="DELETE_ACCOUNT">HAPUS AKUN</string>
     <string name="delete_prompt">Apakah Anda yakin ingin menghapus akun Anda? Ini PERMANEN dan TIDAK DAPAT DIBATALKAN!</string>
     <string name="Type">Ketik</string>
-    <string name="Complete_campaign_mission_">Selesaikan kampanye misi</string>
+    <string name="Complete_campaign_mission_">Selesaikan kampanye misi </string>
     <string name="Specify_Reason_">Alasan spesifik:</string>
     <string name="FREE_FOR_ALL">GRATIS UNTUK SEMUA</string>
     <string name="SPECIAL">SPESIAL</string>
@@ -1198,7 +1198,7 @@ Perintah:
     <string name="x5_Clan_XP_1_Day">5X XP KLAN 1 HARI</string>
     <string name="x5_Clan_XP_7_days">5X XP KLAN 7 HARI</string>
     <string name="x5_Clan_XP_Perm">5X XP KLAN PERMANEN!</string>
-    <string name="Quin">5X</string>
+    <string name="Quin_">5X.</string>
     <string name="x5_XP_1_Hour">5X XP 1 JAM</string>
     <string name="x5_XP_24_hours">5X XP 24 JAM</string>
     <string name="x5_XP_Permanent">5X XP PERMANEN</string>
