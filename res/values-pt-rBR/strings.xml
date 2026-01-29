@@ -291,7 +291,7 @@
     <string name="You_aren_t_invited_to_that_clan_">"Você não está convidado para este clã."</string>
     <string name="No_such_clan_exists_">"Não existe tal clã."</string>
     <string name="That_clan_is_full_">"Este clã está cheio."</string>
-    <string name="Other_user_is_not_a_member_of_your_clan_">"Outro usuário não é um membro de seu clã."</string>
+    <string name="Other_user_is_not_a_member_of_your_clan_">"Este usuário não é um membro de seu clã."</string>
     <string name="_You_can_t_be_your_own_friend_">"Você não pode ser seu próprio amigo."</string>
     <string name="A_clan_with_that_name_already_exists_">"Um clã com este nome já existe."</string>
     <string name="Duration_">"Duração:"</string>
@@ -343,7 +343,7 @@
 
 
     <string name="pumpkins_">"abóboras."</string>
-    <string name="To_use_this_skin_you_must_collect">"Para usar esta skin, você deve coletar"</string>
+    <string name="To_use_this_skin_you_must_collect">"Para adquirir esta skin, você deve coletar"</string>
     <string name="Australia">"Austrália"</string>
     <string name="Pumpkin_Collector">"Coletor de Abóboras"</string>
     <string name="Collect_1000_pumpkins_">"Coletar 1000 abóboras."</string>
@@ -471,7 +471,7 @@
     <string name="ENTER">"ENTRAR"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Praticar"</string>
-    <string name="ArenaDescription">Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
+    <string name="ArenaDescription">Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em banimento.</string>
     <string name="Contestant">"Competidor"</string>
     <string name="Duelist">"Duelista"</string>
     <string name="Gladiator">"Gladiador"</string>
@@ -547,7 +547,7 @@
     <string name="Team_Created_">"Equipe Criada!"</string>
     <string name="Team_Arena">"Arena em Equipe"</string>
     <string name="No_Teams">"Sem Equipes."</string>
-    <string name="team_arena_info">"Depois de criar uma equipe, você pode convidar e remover membros livremente. Também é livre para jogar partidas de arena em equipe. Você não pode mudar o nome da sua equipe, uma vez que for criada!"</string>
+    <string name="team_arena_info">"Depois de criar uma equipe, você poderá convidar e remover membros livremente. Também é livre para jogar partidas de arena em equipe. Você não pode mudar o nome da sua equipe, uma vez que for criada!"</string>
 
 
     <string name="Invited">"Convidado"</string>
@@ -583,7 +583,7 @@
     <string name="User_is_not_in_the_team_">"O usuário não está na equipe."</string>
     <string name="You_are_not_invited_to_team_">"Você não foi convidado para a equipe:"</string>
     <string name="Team_does_not_exist_">"A equipe não existe:"</string>
-    <string name="Please_wait_a_minute_before_sending_another_report_">"Por favor, aguarde um minuto antes de enviar uma outra denúncia."</string>
+    <string name="Please_wait_a_minute_before_sending_another_report_">"Por favor, aguarde um minuto antes de enviar uma nova denúncia."</string>
     <string name="Collect_1_000_beads_">"Colete 1.000 pérolas."</string>
     <string name="Collect_5_000_beads_">"Colete 5.000 pérolas."</string>
     <string name="Collect_10_000_beads_">"Colete 10.000 pérolas."</string>
@@ -726,7 +726,7 @@
     <string name="contribution_warning">"Tem certeza de que deseja contribuir com estes plasmas? As contribuições não serão reembolsadas."</string>
     <string name="Upload">"Enviar"</string>
 
-    <string name="upload_warning">"Tem certeza de que deseja enviar esta skin? Os outros jogadores serão capazes de ver esta skin. Pode levar até uma semana para a sua skin ser revisada. Skins inapropriadas poderão ser reembolsadas ou rejeitadas, dependendo da gravidade!"</string>
+    <string name="upload_warning">"Tem certeza de que deseja enviar esta skin? Os outros jogadores poderão vê-la. Pode levar cerca de uma semana para a sua skin ser revisada. Skins inapropriadas serão reembolsadas ou rejeitadas, dependendo da gravidade!"</string>
 
     <string name="In_Review">"Em Revisão"</string>
     <string name="Account_Uploads">"Envios para a Conta"</string>
@@ -737,7 +737,7 @@
     <string name="Status">"Status"</string>
     <string name="upload_size_failure">"Não foi possível enviar esta imagem porque é muito grande. Por favor, tente uma imagem diferente."</string>
     <string name="CONTRIBUTE_PLASMA">"CONTRIBUIR COM PLASMAS"</string>
-    <string name="Specify_Contribution_Amount">"Especifique a Quantidade para Contribuição"</string>
+    <string name="Specify_Contribution_Amount">"Especifique a quantidade para Contribuição"</string>
     <string name="Clan_Contribution">"Contribuição para o Clã"</string>
     <string name="FILTER">FILTRAR</string>
     <string name="List_Count_">Contagem da Lista:</string>
@@ -778,7 +778,7 @@
     <string name="Delete_Message">Excluir Mensagem</string>
     <string name="BLOCK">BLOQUEAR</string>
     <string name="DELETE">EXCLUIR</string>
-    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">Nota: Você pode desbloquear alguém, enviando-lhes um pedido de amizade.</string>
+    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">Nota: Você pode desbloquear alguém, enviando-lhe um pedido de amizade.</string>
     <string name="Select_Friend">Selecionar Amigo</string>
     <string name="Failed_to_send_mail_">Falha ao enviar a mensagem.</string>
     <string name="In_Game_Mail">E-mail no Jogo</string>
@@ -787,7 +787,7 @@
     <string name="Clan_Hero">Herói do Clã</string>
     <string name="Win_1000_Clan_Wars">Ganhar 1.000 Guerras de Clãs</string>
     <string name="NAME_COLOR">COR DO NOME</string>
-    <string name="name_color_instructions">Selecione os caracteres que deseja alterar e selecione a cor para alterá-los.</string>
+    <string name="name_color_instructions">Selecione os caracteres que deseja modificar e selecione a cor para modificá-los.</string>
     <string name="Cannot_change_this_character_">Não é possível alterar este caractere.</string>
     <string name="ZOMBIE_APOCALYPSE">APOCALIPSE ZUMBI</string>
     <string name="Survive_a_Zombie_Apocalypse">Sobreviva um APOCALIPSE ZUMBI</string>
@@ -800,8 +800,8 @@
     <string name="SURVIVOR_">SOBREVIVENTE!</string>
     <string name="Zombies">Zumbis</string>
     <string name="Survivors">Sobreviventes</string>
-    <string name="Enter_a_Tournament">Entrar em um Torneio</string>
-    <string name="Win_a_Tournament">Ganhar um Torneio</string>
+    <string name="Enter_a_Tournament">Entre em um Torneio</string>
+    <string name="Win_a_Tournament">Ganhe um Torneio</string>
     <string name="Tournament_Competing">Competindo Torneio</string>
     <string name="Tournament_Registered">Torneio Registrado</string>
     <string name="Tournament">Torneio</string>
@@ -876,7 +876,7 @@
     <string name="Plethora_of_Spins">Muitos Giros (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">DESCONECTAR-SE DE TODOS OS DISPOSITIVOS</string>
     <string name="Tournament_Forming">Formando Torneio</string>
-    <string name="TeamTourneyDescription">Você e seu companheiro de equipe devem se registrar para jogar no torneio em equipe. Você será cobrado em plasmas quando o torneio começar, mas você pode cancelar o registro antes que ele comece. Precisa pelo menos de %d concorrentes para começar.</string>
+    <string name="TeamTourneyDescription">Você e seu companheiro de equipe devem se registrar para jogar no torneio em equipe. Você será cobrado em plasmas quando o torneio começar, mas você pode cancelar o registro antes que ele comece. É necessário pelo menos %d concorrentes para começar.</string>
     <string name="Free_Agent">Agente Livre</string>
     <string name="This_player_selected_a_different_teammate_">Este jogador selecionou um companheiro de equipe diferente.</string>
     <string name="muted_until">Silenciado até</string>
@@ -926,7 +926,7 @@
     <string name="Choose_Menu">Escolher Menu</string>
     <string name="SPECTATE">ESPECTAR</string>
     <string name="INVITE">CONVIDAR</string>
-    <string name="error_1">Apenas o líder ou o vice-líder pode enviar mensagens para todos do clã.</string>
+    <string name="error_1">Apenas o líder ou o vice-líder pode enviar e-mail para todos do clã.</string>
     <string name="Hat">Boné</string>
     <string name="Hats">Bonés</string>
     <string name="Pet_Uploads">Envios de Mascote</string>
@@ -967,16 +967,16 @@ Regras do Nebulous\n
 Caso você não cumpra nenhuma dessas regras, sua conta poderá ser banida.\n
 (O tempo da punição pode ser de algumas horas até o banimento permanente, dependendo da situação e da gravidade do problema).\n
 \n
-Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
+Se notar um jogador quebrando as regras, denuncie a um moderador.
     </string>
     <string name="Blob_Chat_Bubbles">Bolhas do Chat no Blob</string>
     <string name="CHRISTMAS_ADVENT_SKINS">CHEGADA DO NATAL</string>
     <string name="You_cannot_open_this_present_yet_">Você ainda não pode abrir este presente!</string>
     <string name="Open_Present">Abrir Presente</string>
     <string name="OPEN">ABRIR</string>
-    <string name="Halo">Aréola</string>
-    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Para usar esta aréola, você deve ter pelo menos o nível  %1$s e ganhar %2$s conquistas."</string>
-    <string name="Halos">Aréolas</string>
+    <string name="Halo">Auréola</string>
+    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Para usar esta auréola, você deve ter pelo menos o nível  %1$s e ganhar %2$s conquistas."</string>
+    <string name="Halos">Auréolas</string>
     <string name="CAMPAIGN">CAMPANHA</string>
     <string name="Mission">Missão</string>
     <string name="Kill_All_Bots">Mate Todos os Bots</string>
@@ -993,7 +993,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="App_Perf_Stats">Estatísticas do Desempenho do App</string>
     <string name="COPY">COPIAR</string>
     <string name="_1v1_Ultra">1v1 Ultra</string>
-    <string name="ArenaDescriptionUltra">O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
+    <string name="ArenaDescriptionUltra">O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em banimento.</string>
     <string name="BANNED">BANIDO</string>
     <string name="CLAN_MEMBERS">MEMBROS DO CLÃ</string>
     <string name="CLAN_REQUESTS">SOLICITAÇÕES DO CLÃ</string>
@@ -1019,7 +1019,7 @@ Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
     <string name="Birthday">Aniversário</string>
     <string name="Mass_Boost">Impulso de Massa</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">O Impulso de Massa não funciona em arenas, torneios e Guerras de Clãs!</string>
-    <string name="ArenaDescriptionPure">SEM autoclick ou ultraclick. Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
+    <string name="ArenaDescriptionPure">SEM autoclick ou ultraclick. Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em banimento.</string>
     <string name="_1v1_Pure">1v1 Puro</string>
     <string name="Allow_Ultraclick">Permitir Ultraclick</string>
     <string name="Allow_Mass_Boost">Permitir Impulso de Massa</string>
@@ -1059,12 +1059,12 @@ Aprovado (Verde): A skin pode ser vista por outros jogadores.
 
 Reembolsado (Laranja): você recebeu o reembolso da skin, pois ela não atende aos padrões estabelecidos. Você deve selecionar uma nova imagem que não seja a mesma.
 
-Rejeitado (Vermelho): isso significa que sua skin não poderá ser visualizada por outros jogadores, pois contém conteúdo inadequado; seu plasma não será devolvido.
+Rejeitado (Vermelho): isso significa que sua skin não poderá ser visualizada por outros jogadores, pois contém conteúdo inadequado; suas plasmas não serão devolvidas.
 
 
 POR QUE A MINHA SKIN PERSONALIZADA FOI REEMBOLSADA OU REJEITADA?
 
-Se a sua skin personalizada for reembolsada, não a compre novamente, pois ela será rejeitada e você perderá seus plasmas.
+Se a sua skin personalizada for reembolsada, não a compre novamente, pois ela será rejeitada e você perderá suas plasmas.
 
 Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se você comprar uma skin que contenha esses elementos, ela será reembolsada ou rejeitada:
 - Conteúdo e/ou alguma referência Sexual
@@ -1078,7 +1078,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
 - Pessoas com pouca roupa (decotes no corpo)
 - Racismo/Nazismo/Violência
 - Pessoas usando uma arma
-- Sinais obscenos nas mãos"
+- Sinais obscenos com as mãos"
     </string>
     <string name="PLAY_ONLINE_">JOGAR ONLINE!</string>
 
@@ -1092,7 +1092,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Community">Comunidade</string>
     <string name="Buy">Comprar</string>
     <string name="Sell">Vender</string>
-    <string name="community_skin_information_for_seller" translatable="true" tools:ignore="Untranslatable">Quando você transforma sua skin personalizada em uma skin da comunidade, ela é listada na guia "Skins da Comunidade". As outras pessoas podem ver e comprar a skin na comunidade! Toda vez que alguém compra sua skin da comunidade, você recebe uma pequena quantidade de plasmas.</string>
+    <string name="community_skin_information_for_seller" translatable="true" tools:ignore="Untranslatable">Quando você transforma sua skin personalizada em uma skin da comunidade, ela é listada na guia "Skins da Comunidade". As outras pessoas podem ver e comprar a skin na comunidade! Toda vez que alguém comprar sua skin da comunidade, você receberá uma pequena quantidade de plasmas.</string>
     <string name="community_skin_requirement">Você deve comprar Ativar Skins Personalizadas para usar as skins da comunidade.</string>
     <string name="You_can_purchase_this_community_skin_for_">Você pode comprar esta skin da comunidade por</string>
     <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">As skins da comunidade são enviadas por outros jogadores. As skins da comunidade funcionam como skins personalizadas e podem ser animadas com as skins padrão do jogo.</string>
@@ -1125,10 +1125,10 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Skin_Pack">Pacote de Skins</string>
     <string name="SKIN_PACK">PACOTE DE SKINS</string>
     <string name="HALLOWEEN">DIA DAS BRUXAS</string>
-    <string name="pack_info">Depois que você comprar este pacote de skin, suas skins exclusivas aparecerão na parte superior dos menus de seleção de skin.</string>
+    <string name="pack_info">Após você comprar este pacote de skin, suas skins exclusivas aparecerão na parte superior dos menus na seleção de skin.</string>
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins, Mascote, Bonés EXCLUSIVOS e Mais!</string>
     <string name="BUY_NOW_">COMPRAR AGORA!</string>
-    <string name="already_purchased">Você ou a pessoa para qual você está comprando já possui isto.</string>
+    <string name="already_purchased">Você ou a pessoa para quem está comprando já possui isto.</string>
     <string name="Halo_Animations">Animações da Auréola</string>
     <string name="Trick_Notifications">Notificações do Modo Trick</string>
     <string name="Channel">Canal</string>
@@ -1176,8 +1176,8 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Invites">Convites</string>
     <string name="Show_Spectator_Count">Mostrar Contagem de Espectadores</string>
     <string name="TRY_IT_">EXPERIMENTÁ-LA!</string>
-    <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Você pode experimentar esta skin durante uma jogada. Depois que você morrer ou trocar, a skin irá sumir. Quando você estiver experimentando a skin, ninguém mais poderá vê-la.\nPreço: %s plasma.</string>
-    <string name="You_need_to_buy_a_pack_to_use_this_">Você precisa comprar um pacote para usar isto.</string>
+    <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Você pode experimentar esta skin durante uma jogada. Depois que você morrer ou trocar, a skin irá sumir. Quando você estiver experimentando a skin, ninguém poderá vê-la.\nPreço: %s plasma.</string>
+    <string name="You_need_to_buy_a_pack_to_use_this_">Você precisa comprar um pacote para usá-lo.</string>
     <string name="GET_PACK">OBTER PACOTE</string>
     <string name="Position_in_queue">Posição na fila</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">COR DE FUNDO DO MENU DE PERFIL</string>
@@ -1198,8 +1198,8 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Time_">Tempo:</string>
     <string name="Show_Session_Stats">Mostrar Estatísticas da Sessão</string>
     <string name="VALENTINES_DAY">"DIA DOS NAMORADOS"</string>
-    <string name="shared_pack_info" translatable="true" tools:ignore="Untranslatable">Depois que você comprar este pacote de skin, suas skins exclusivas aparecerão no topo dos menus de seleção de Skins para você e seu amigo!</string>
-    <string name="shared_pack_purch_description" translatable="true" tools:ignore="Untranslatable">Este é um pacote especial para que você e um amigo recebam o pacote!</string>
+    <string name="shared_pack_info" translatable="true" tools:ignore="Untranslatable">Este é um pacote especial para que você e um amigo recebam o pacote!</string>
+    <string name="shared_pack_purch_description" translatable="true" tools:ignore="Untranslatable">Este é um pacote especial para você e um amigo aproveitarem juntos!</string>
     <string name="Giveaways_">Sorteios!</string>
     <string name="Max_XP_Chain_">Sequência Máxima de XP:</string>
     <string name="POSITION_CANCEL_BUTTON">POSIÇÃO DO BOTÃO DE CANCELAR</string>
@@ -1211,7 +1211,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Both">Ambos</string>
     <string name="multiskin_period_description" translatable="true" tools:ignore="Untranslatable">"Especifique o período de alteração da multi-skin em segundos (0–10). 0 desativará a multi-skin."</string>
     <string name="Enable__Multiskin">"Ativar\nMulti-Skin"</string>
-    <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"A multi-skin permite que você use duas skins que se alternam. Você escolhe a rapidez com que as skins mudam. Quando você atinge o nível 1.000, esse recurso é gratuito. Se você comprar a multi-skin antes do nível 1.000 você terá as plasma novamente ao chegar nele"</string>
+    <string name="multiskin_description" translatable="true" tools:ignore="Untranslatable">"A multi-skin permite que você use duas skins que se alternam. Você escolhe a velocidade com que as skins alternam. Após atingir o nível 1.000, esse recurso se torna gratuito. Se você comprar a multi-skin antes do nível 1.000 você receberá os plasma novamente ao chegar nele"</string>
     <string name="MULTISKIN">MULTI-SKIN</string>
     <string name="DISABLED">DESATIVADO</string>
     <string name="Refund__Multiskin">"Reembolsar a\nMulti-Skin"</string>
@@ -1221,7 +1221,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Choose_Skin_Size">Escolha o Tamanho da Skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Os outros jogadores não poderão te ouvir!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Conceder a permissão para ativar a gravação de voz.</string>
-    <string name="voice_chat_prompt">A classificação do conteúdo do aplicativo pode mudar com o chat por voz ativado. Para um áudio melhor, use um fone de ouvido.</string>
+    <string name="voice_chat_prompt">A classificação do conteúdo do aplicativo pode mudar com o chat por voz ativado. Para um áudio melhor, use fones de ouvido.</string>
     <string name="Only_leader_can_answer_requests_">Apenas o Líder pode responder às solicitações.</string>
     <string name="Sent_request_not_invited_">Pedido enviado (não convidado).</string>
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">REMOVER SKIN DA COMUNIDADE!</string>
@@ -1245,7 +1245,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Mode_3D">Modo 3D</string>
     <string name="Names_Below_Blobs">Nomes Abaixo dos Blobs</string>
     <string name="Name_Scale_">"Tamanho do Nome:"</string>
-    <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">"Seu dispositivo tem uma conexão ruim com o servidor. Isso pode causar lag. Por favor, verifique o seu serviço de Wi-Fi ou celular ou tente uma conexão de internet diferente. Também verifique se você está jogando no servidor mais próximo de você."</string>
+    <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">"Seu dispositivo tem uma conexão ruim com o servidor. Isso pode causar lag. Por favor, verifique o seu serviço de Wi-Fi ou celular ou tente uma conexão de internet diferente. Também verifique se você está jogando no servidor mais próximo a você."</string>
     <string name="Button_3D">Botão 3D</string>
     <string name="Hide_Button_">Ocultar Botão?</string>
     <string name="Show_Boost_Button">Mostrar Botão de Impulso</string>
@@ -1279,7 +1279,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="CHAMPION">CAMPEÃO</string>
     <string name="sandbox_warning" translatable="true" tools:ignore="Untranslatable">Você não pode ganhar XP ou plasma no modo Sem Vírus (Sandbox)!</string>
     <string name="DASH">DASH</string>
-    <string name="setting_changed">Configurações atualizadas. Pode ser necessário que você se reconecte ao servidor para que elas entrem em vigor.</string>
+    <string name="setting_changed">Configurações atualizadas. Pode ser necessário que você reinicie o servidor para que elas entrem em vigor.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Execute 10,000 tricks em um jogo no Modo Trick.</string>
     <string name="Tricky">Tricky</string>
     <string name="SUPPORTER">VIP</string>
@@ -1301,7 +1301,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Animal_Tamer">Domador de Animais</string>
     <string name="Crocodile_Hunter">Caçador de Crocodilos</string>
     <string name="Get_A_Pet_To_Level_X_">Leve um Mascote ao Nível %d.</string>
-    <string name="plasma_boost_info">"Você ganhará três vezes os plasmas de todas as fontes NO JOGO enquanto o impulso está ativo! Isso inclui ganhos em arena e torneio! NÃO funciona em compras de plasma, giros ou recompensas especiais."</string>
+    <string name="plasma_boost_info">"Você ganhará três vezes as plasmas de todas as fontes NO JOGO enquanto o impulso estiver ativo! Isso inclui ganhos em arena e torneio! NÃO funciona em compras de plasma, giros ou recompensas especiais."</string>
     <string name="Plasma_Boost_7_Days_">Impulso de Plasma 7 Dias!!!</string>
     <string name="Plasma_Boost_1_Day_">Impulso de Plasma 1 Dia!</string>
     <string name="Plasma_Boost_2_Hours_">Impulso de Plasma 2 Horas.</string>
@@ -1366,7 +1366,7 @@ Comandos:
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Permissões ausentes</string>
     <string name="DELETE_ACCOUNT">EXCLUIR CONTA</string>
-    <string name="delete_prompt">Você tem certeza de que quer excluir sua conta? Esta ação é PERMANENTE e NÃO PODERÁ SER DESFEITA!</string>
+    <string name="delete_prompt">Você tem certeza de que deseja excluir sua conta? Esta ação é PERMANENTE e NÃO PODERÁ SER DESFEITA!</string>
 
 
     <string name="Type">Digite</string>
@@ -1410,7 +1410,7 @@ Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
     <string name="_2x_skin_resolution">Qualidade da Skin em Dobro</string>
     <string name="pm">PRIV.</string>
     <string name="You_are_already_friends_">Você já tem esta pessoa adicionada.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Esta conta deve ter pelo menos 1 dia de criação para enviar mensagens.</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Esta conta deve ter ao menos 1 dia de criação para enviar mensagens.</string>
     <string name="Translator">Tradutor</string>
     <string name="SUCCESS">BEM-SUCEDIDO</string>
 
