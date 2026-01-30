@@ -3,19 +3,19 @@
     <string name="NEBULOUS" translatable="true" tools:ignore="Untranslatable">"ネビュラス"</string>
 
     <string name="Players">"プレイヤー"</string>
-    <string name="Control_">"コントロール方式："</string>
+    <string name="Control_">"コントロール方式:"</string>
     <string name="CLOSE">"閉じる"</string>
-    <string name="Stick_Size_">"スティックのサイズ : "</string>
-    <string name="Stick_Margin_">"スティックのスペース"</string>
-    <string name="Button_Size_">"ボタンのサイズ："</string>
-    <string name="Button_Margin_">"ボタンのスペース："</string>
-    <string name="Buttons_">"ボタンの位置："</string>
+    <string name="Stick_Size_">"スティックのサイズ:"</string>
+    <string name="Stick_Margin_">"スティックのスペース:"</string>
+    <string name="Button_Size_">"ボタンのサイズ:"</string>
+    <string name="Button_Margin_">"ボタンのスペース:"</string>
+    <string name="Buttons_">"ボタンの位置:"</string>
     <string name="DEFAULTS">"デフォルト"</string>
-    <string name="WEEKLY">"週間"</string>
-    <string name="DAILY">"一日間"</string>
+    <string name="WEEKLY">"ウィークリー"</string>
+    <string name="DAILY">"デイリー"</string>
     <string name="Server_">"サーバー:"</string>
     <string name="Game_Mode_">"ゲームモード:"</string>
-    <string name="Show_Names">"名前を表示"</string>
+    <string name="Show_Names">"プレイヤー名を表示"</string>
     <string name="Show_Avatars">"スキンを表示"</string>
     <string name="PLAY">"プレイ"</string>
     <string name="OPTIONS">"オプション"</string>
@@ -29,8 +29,8 @@
     <string name="Are_You_Sure_">"よろしいですか？"</string>
     <string name="Yes">"はい"</string>
     <string name="No">"いいえ"</string>
-    <string name="WAIT">"しばらくお待ちください"</string>
-    <string name="Must_Specify_Name_">"名前を設定してください。"</string>
+    <string name="WAIT">"お待ちください"</string>
+    <string name="Must_Specify_Name_">"名前を入力してください。"</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"グループを見つける時、アプリの審議等級が変わる可能性があります。"</string>
 
@@ -41,8 +41,8 @@
     <string name="Recombine_">"再結合まで: "</string>
     <string name="WINNER_">"勝者:"</string>
     <string name="IDLE">"待機中"</string>
-    <string name="Name_Invalid_">"使用不可能な名前"</string>
-    <string name="Name_Taken_">"この名前は既に使用されています"</string>
+    <string name="Name_Invalid_">"使用不可能な名前です。"</string>
+    <string name="Name_Taken_">"この名前は既に使用されています。"</string>
     <string name="CONNECTED">"接続済み"</string>
     <string name="JOINING___">"参加中…"</string>
     <string name="PLAYING">"プレイ中"</string>
@@ -51,7 +51,7 @@
     <string name="JOIN">"参加"</string>
 
 
-    <string name="Lobby_Name">"ロビー名"</string>
+    <string name="Lobby_Name">"ルームロビー名"</string>
     <string name="Not_found_">"見つかりません。"</string>
 
     <string name="Hidden">"非表示"</string>
@@ -76,7 +76,7 @@
 
     <string name="OK">"はい"</string>
     <string name="CANCEL">"キャンセル"</string>
-    <string name="Chat_Name">"チャット名:"</string>
+    <string name="Chat_Name">"チャットロビー名:"</string>
     <string name="Max_People">"最大人数:"</string>
     <string name="START">"開始"</string>
     <string name="CREATE">"作成"</string>
@@ -133,7 +133,7 @@
     <string name="CONTINUE">"続ける"</string>
     <string name="Global_" formatted="false">"世界"</string>
     <string name="FRIEND_CHAT">"フレンドチャット"</string>
-    <string name="LOBBY_NAME">"ロビー名"</string>
+    <string name="LOBBY_NAME">"ルームロビー名"</string>
     <string name="NULL">"NULL"</string>
 
 
