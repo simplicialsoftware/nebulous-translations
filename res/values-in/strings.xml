@@ -646,7 +646,7 @@
     <string name="Refunded">"Dikembalikan"</string>
     <string name="contribution_warning">"Apakah Anda yakin ingin menyumbangkan plasma ini? Kontribusi tidak akan dikembalikan."</string>
     <string name="Upload">"Unggah"</string>
-    <string name="upload_warning">"Apakah Anda yakin ingin mengunggah Skin ini? Pemain lain akan dapat melihat skin ini. Ini butuh waktu hingga satu minggu untuk skin Ada untuk disetujui. Skin yang tidak pantas akan ditolak dan tidak akan dikembalikan!"</string>
+    <string name="upload_warning">"Apakah Anda yakin ingin mengunggah Skin ini? Pemain lain akan dapat melihat skin ini. Ini butuh waktu hingga satu minggu untuk skin Anda untuk disetujui. Skin yang tidak pantas akan ditolak dan tidak akan dikembalikan!"</string>
     <string name="In_Review">"Dalam Tinjauan"</string>
     <string name="Account_Uploads">"Skin Unggahan Saya"</string>
     <string name="Clan_Uploads">"Skin Unggahan Klan"</string>
