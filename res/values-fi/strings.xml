@@ -84,7 +84,7 @@
 
 
     <string name="ACCOUNT">"Käyttäjäsi"</string>
-    <string name="Red_Team">"Punainen oukkue"</string>
+    <string name="Red_Team">"Punainen joukkue"</string>
     <string name="Green_Team">"Vihreä joukkue"</string>
     <string name="Blue_Team">"Sininen Joukku"</string>
     <string name="Yellow_Team">"Keltainen Joukkue"</string>
@@ -126,10 +126,10 @@
     <string name="REFRESH">"Päivitä"</string>
     <string name="DONE">"Valmis"</string>
     <string name="Friend_Request_Sent">"Ystäväpyyntö lähetetty "</string>
-    <string name="ERROR">"Vithe"</string>
+    <string name="ERROR">"Virhe"</string>
     <string name="CONTINUE">"Jatka"</string>
     <string name="Global_" formatted="false">"Maailmanlaajuinen"</string>
-    <string name="FRIEND_CHAT">"Ystävächatti"</string>
+    <string name="FRIEND_CHAT">"Ystävä chatti"</string>
     <string name="LOBBY_NAME">"Huoneen nimi"</string>
     <string name="NULL">"Tyhjä"</string>
 
@@ -488,7 +488,7 @@
 
     <string name="Validating">"Tarkistetaan"</string>
 
-    <string name="Randomize">"Satunnaista"</string>
+    <string name="Randomize">"Satunnainen"</string>
 
     <string name="Harassment">"Ahdistelu"</string>
 
@@ -1352,7 +1352,7 @@ Commands:
         <item>"Pieni"</item>
         <item>"Normaali"</item>
         <item>"Suuri"</item>
-        <item>"HUGE"</item>
+        <item>"Valtava"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
