@@ -148,20 +148,20 @@
 
 
     <string name="Dot_Nibbler">"Taškuoklis"</string>
-    <string name="Dot_Muncher">"Taškas Muncheris"</string>
+    <string name="Dot_Muncher">"Taškų Kramtytojas"</string>
     <string name="Dot_Eater">"Taškų valgytojas"</string>
-    <string name="Dot_Gulper">"Taškas Gulperis"</string>
-    <string name="Dot_Gobbler">"Taškas Gobbleris"</string>
+    <string name="Dot_Gulper">"Taškų Kramtukas"</string>
+    <string name="Dot_Gobbler">"Taškų Rijikas"</string>
     <string name="Dot_Devourer">"Taškų Rijėjas"</string>
-    <string name="Dot_Gormandizer">"Taškinis Gormandizatorius"</string>
+    <string name="Dot_Gormandizer">"Taškų Smaližius"</string>
     <string name="Dot_Sommelier">"Taškas someljė"</string>
 
-    <string name="Quadra_Gulp">"Quadra Gulp"</string>
-    <string name="Multi_Gulp">"Multi Gulp"</string>
-    <string name="Mega_Gulp">"Mega Gulp"</string>
-    <string name="Ultra_Gulp">"Ultra Gulp"</string>
-    <string name="Monster_Gulp">"Monster Gulp"</string>
-    <string name="Ludicrous_Gulp">"Ludicrous Gulp"</string>
+    <string name="Quadra_Gulp">"Keturgubas Rijimas"</string>
+    <string name="Multi_Gulp">"Daugybinis Rijimas"</string>
+    <string name="Mega_Gulp">"Mega Rijimas"</string>
+    <string name="Ultra_Gulp">"Ultra Rijimas"</string>
+    <string name="Monster_Gulp">"Monstriškas Rijimas"</string>
+    <string name="Ludicrous_Gulp">"Beprotiškas Rijimas"</string>
 
     <string name="Blobicide">"Blobicide"</string>
     <string name="Blobtrocity">"Blobtrocity"</string>
@@ -171,20 +171,20 @@
     <string name="Blobageddon">"Blobageddon"</string>
     <string name="Blobocalypse">"Blobocalypse"</string>
 
-    <string name="Experienced_Nebulator">"Patyręs Nebulator"</string>
-    <string name="Expert_Nebulator">"Ekspertas Nebulator"</string>
-    <string name="Master_Nebulator">"Meistras Nebulator"</string>
-    <string name="Grand_Master_Nebulator">"Didysis meistras Nebulator"</string>
+    <string name="Experienced_Nebulator">"Patyręs Nebulatorius"</string>
+    <string name="Expert_Nebulator">"Ekspertas Nebulatorius"</string>
+    <string name="Master_Nebulator">"Meistras Nebulatorius"</string>
+    <string name="Grand_Master_Nebulator">"Didysis meistras Nebulatorius"</string>
     <string name="Impossible">"Neįmanomas"</string>
 
-    <string name="Perfection">"Perfection"</string>
-    <string name="Single_Handedly">"Single-Handedly"</string>
-    <string name="Dodgey">"Dodgey"</string>
-    <string name="Self_Contained">"Self-Contained"</string>
-    <string name="Survivalist">"Survivalist"</string>
-    <string name="Ultramassive">"Ultramassive"</string>
-    <string name="Rapid_Ascension">"Rapid Ascension"</string>
-    <string name="Revenge">"Revenge"</string>
+    <string name="Perfection">"Tobulumas"</string>
+    <string name="Single_Handedly">"Vienas Pats"</string>
+    <string name="Dodgey">"Išsisukantis"</string>
+    <string name="Self_Contained">"Savarankiškas"</string>
+    <string name="Survivalist">"Išgyvenęs"</string>
+    <string name="Ultramassive">"Ultra Milžiniškas"</string>
+    <string name="Rapid_Ascension">"Greitas Pakilimas"</string>
+    <string name="Revenge">"Kerštas"</string>
     <string name="Doge_Pound">"Doge Pound"</string>
 
     <string name="Absorb_50_dots">"Sugerk 50 taškų"</string>
