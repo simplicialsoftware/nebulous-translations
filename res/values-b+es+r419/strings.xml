@@ -1,8 +1,8 @@
 ﻿<resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="Players">"Jugadores"</string>
-    <string name="Control_">"Control:"</string>
+    <string name="Players">"JUGADORES"</string>
+    <string name="Control_">"CONTROL:"</string>
     <string name="CLOSE">"CERRAR"</string>
-    <string name="Stick_Size_">"Tamaño Pad:"</string>
+    <string name="Stick_Size_">"Tamaño PAD:"</string>
     <string name="Stick_Margin_">"Ubicación Pad:"</string>
     <string name="Button_Size_">"Tamaño Botones:"</string>
     <string name="Button_Margin_">"Margen Botones:"</string>
@@ -13,7 +13,7 @@
     <string name="Server_">"Servidor:"</string>
     <string name="Game_Mode_">"Modo de Juego:"</string>
     <string name="Show_Names">"Mostrar Nombres"</string>
-    <string name="Show_Avatars">"Mostrar Skins"</string>
+    <string name="Show_Avatars">"MOSTRAR SKINS "</string>
     <string name="PLAY">"JUGAR"</string>
     <string name="OPTIONS">"OPCIONES"</string>
 
@@ -115,7 +115,7 @@
     <string name="Private">"Privado"</string>
     <string name="Public">"Público"</string>
     <string name="Bot">"Bot"</string>
-    <string name="You">"Usted"</string>
+    <string name="You">"tú"</string>
     <string name="This_player_is_a_bot">"Este jugador es un bot"</string>
     <string name="This_player_is_not_signed_in">"Este jugador no está conectado"</string>
 
@@ -321,7 +321,7 @@
     <string name="Color_Blind">"Modo daltónico"</string>
     <string name="Daily_Quest_Complete_">"¡Misión diaria completada!"</string>
     <string name="COPY_ID">"COPIAR ID"</string>
-    <string name="My_Account_ID">"Mi ID"</string>
+    <string name="My_Account_ID">"Mi_ID_de_cuenta"</string>
 
 
     <string name="COMPLETE">"COMPLETA"</string>
@@ -695,7 +695,7 @@
     <string name="HOST">"ANFITRIÓN"</string>
     <string name="This_device_does_not_support_bluetooth_">"Este dispositivo no es compatible con bluetooth "</string>
     <string name="member_permissions">"permisos de miembros"</string>
-    <string name="edit">"editar"</string>
+    <string name="edit">"Editar"</string>
     <string name="start_clan_war">"iniciar guerra de clanes"</string>
     <string name="join_clan_war">"unirse a guerras de clanes"</string>
     <string name="none">"ninguno"</string>
@@ -1344,7 +1344,7 @@ Subir la misma skin NO aprobada varias veces resultará en más sanciones o en u
     <string name="BATTLE_ROYALE">BATALLA REAL</string>
     <string name="Battle_Royale">Batalla Real</string>
     <string name="The_winner_will_receive_x_plasma_">El ganador recibirá %s plasma!</string>
-    <string name="admin_commands">"
+    <string name="admin_commands">"comandos de administración
 Comandos:
 !kick [0–31] - Expulsar a un jugador
 !reset - Reiniciar el juego
@@ -1416,7 +1416,7 @@ Si no deseas registrarte, aún puedes jugar en modo individual."
     </string>
     <string name="_2x_skin_resolution">Doble resolución de skin</string>
     <string name="pm">MP</string>
-    <string name="You_are_already_friends_">Ustedes ya son amigos.</string>
+    <string name="You_are_already_friends_">Ya sois amigos</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">La cuenta debe tener al menos 1 día de creación para enviar mensajes.</string>
     <string name="Translator">Traductor</string>
     <string name="SUCCESS">CON ÉXITO</string>
