@@ -146,21 +146,21 @@
     <string name="Clan_XP">"Stam XP"</string>
 
 
-    <string name="Dot_Nibbler">"dot Nibbler"</string>
-    <string name="Dot_Muncher">"dot monster"</string>
-    <string name="Dot_Eater">"dot eter"</string>
-    <string name="Dot_Gulper">"dot achtigen"</string>
-    <string name="Dot_Gobbler">"dot opslokker"</string>
-    <string name="Dot_Devourer">"dot sprinkaan"</string>
-    <string name="Dot_Gormandizer">"dot Gormandizer"</string>
-    <string name="Dot_Sommelier">"dot Sommelier"</string>
+    <string name="Dot_Nibbler">Kolletjie-knibbelaar"</string>
+    <string name="Dot_Muncher">"Kolletjie-kouer"</string>
+    <string name="Dot_Eater">"Kolletjie-eter"</string>
+    <string name="Dot_Gulper">"Kolletjie-inslukker"</string>
+    <string name="Dot_Gobbler">"Kolletjie-opsnokker"</string>
+    <string name="Dot_Devourer">"Kolletjie-verslinder"</string>
+    <string name="Dot_Gormandizer">"Kolletjie-vraat"</string>
+    <string name="Dot_Sommelier">"Kolletjie-kenner"</string>
 
-    <string name="Quadra_Gulp">"Quadra Gulp"</string>
-    <string name="Multi_Gulp">"multi Gulp"</string>
+    <string name="Quadra_Gulp">"Viervoudige Gulp"</string>
+    <string name="Multi_Gulp">"Multi-Gulp"</string>
     <string name="Mega_Gulp">"Mega Gulp"</string>
     <string name="Ultra_Gulp">"ultra Gulp"</string>
     <string name="Monster_Gulp">"monster Gulp"</string>
-    <string name="Ludicrous_Gulp">"belaglik Gulp"</string>
+    <string name="Ludicrous_Gulp">"Belaglike Gulp"</string>
 
     <string name="Blobicide">"Blobicide"</string>
     <string name="Blobtrocity">"Blobtrocity"</string>
