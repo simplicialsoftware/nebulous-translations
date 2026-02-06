@@ -15,7 +15,7 @@
     <string name="DAILY">"每日"</string>
     <string name="Server_">"服务器："</string>
     <string name="Game_Mode_">"游戏模式："</string>
-    <string name="Show_Names">"显示名称"</string>
+    <string name="Show_Avatars">显示皮肤</string>
     <string name="Show_Avatars">"展会皮肤"</string>
     <string name="PLAY">"开始玩"</string>
     <string name="OPTIONS">"设定"</string>
