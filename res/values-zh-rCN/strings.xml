@@ -18,7 +18,7 @@
     <string name="Show_Names">"显示名称"</string>
     <string name="Show_Avatars">"展会皮肤"</string>
     <string name="PLAY">"开始玩"</string>
-    <string name="OPTIONS">"设定"</string>
+    <string name="OPTIONS">设置</string>
 
     <string name="Avatar_">"皮肤："</string>
     <string name="Name_">"名称："</string>
