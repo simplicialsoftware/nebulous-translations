@@ -307,7 +307,7 @@
     <string name="My_Ranks">"Moje Miejsce"</string>
     <string name="Player_XP">"XP Gracza"</string>
     <string name="W_D_L">"W-R-P"</string>
-    <string name="MATCH_START">"START MECZU"</string>
+    <string name="MATCH_START">"Rozpocznij mecz"</string>
     <string name="Clan_Warrior">"Klanowy Wojownik"</string>
     <string name="Win_a_Clan_War">"Wygraj Wojnę Klanową"</string>
     <string name="Global">"Globalny %"</string>
@@ -419,7 +419,7 @@
     <string name="Collect_10_000_snowflakes_">"Zbierz 10.000 śnieżynek."</string>
     <string name="Show_All">"Pokaż Wszystko"</string>
     <string name="SET_PERMISSIONS">"USTAW UPRAWNIENIA"</string>
-    <string name="Start_Clan_War">"Start Wojny Klanowej"</string>
+    <string name="Start_Clan_War">"Rozpocznij Wojny Klanowej"</string>
     <string name="Min_Level">"Min. Poziom:"</string>
     <string name="SAVE">"ZAPISZ"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Gracz nie spełnia wymogu min. poziomu konta, aby dołączyć do klanu:"</string>
