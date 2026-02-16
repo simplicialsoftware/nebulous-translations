@@ -379,7 +379,7 @@
     <string name="Collect_100_000_Plasma">"Kolektahin ang 100,000 Plasma."</string>
     <string name="Plasma_Collected_">"Plasma na nakolekta:"</string>
     <string name="Plasma_Purchases">"Plasma Purchases"</string>
-    <string name="ENTER">"ENTER"</string>
+    <string name="ENTER">"Pumasok"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Pagsasanay"</string>
     <string name="ArenaDescription">"Kaalaman ng isang bagay. Ang mananalo ay makakatanggap %s plasma."</string>
@@ -490,7 +490,7 @@
     <string name="Bead_Mogul">"Bead Mogul"</string>
     <string name="beads_">"beads."</string>
     <string name="Rejoin_Game">"Sumaling-muli sa Laro"</string>
-    <string name="PRIZES">"PRIZES"</string>
+    <string name="PRIZES">"Mga premyo"</string>
     <string name="Enable_Custom_Skin">"I-enable ang Custom Skin"</string>
     <string name="Use_Custom_Skin">"Custom\nSkin"</string>
     <string name="custom_skin_description">"Ang tampok na ito hinahayaan kang gamitin ang iyong larawan sa profile o isang file bilang iyong skin. Ito ay lamang baguhin ang skin na nakikita sa IYO. Iba pang mga tao ay hindi makita ang iyong pasadyang skin maliban kung ikaw din bayaran upang i-upload ang skin."</string>
@@ -549,7 +549,7 @@
     <string name="Accept">"Tanggapin"</string>
     <string name="Decline">"Tanggihan"</string>
     <string name="Challenge_Declined">"Ang Challenge ay Tinanggihan"</string>
-    <string name="Spectators_">"Spectators:"</string>
+    <string name="Spectators_">"Mga Manonod:"</string>
     <string name="Nebula_Collector">"Nebula Kolektor"</string>
     <string name="Nebula_Hoarder">"Nebula Hoarder"</string>
     <string name="Nebula_Mogul">"Nebula Mogul"</string>
