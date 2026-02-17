@@ -1112,7 +1112,7 @@
     <string name="Joined_group_" translatable="true" tools:ignore="Untranslatable">グループに参加しました</string>
     <string name="People" translatable="true" tools:ignore="Untranslatable">人々</string>
     <string name="Failed_to_join">参加に失敗</string>
-    <string name="Full">満</string>
+    <string name="Full">Full</string>
     <string name="new_person_joined" translatable="true" tools:ignore="Untranslatable">1人が参加しました！</string>
     <string name="person_left" translatable="true" tools:ignore="Untranslatable">1人が退室しました！</string>
     <string name="Left_the_group" translatable="true" tools:ignore="Untranslatable">グループに退室しました</string>
