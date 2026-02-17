@@ -767,7 +767,7 @@
     <string name="FFAU">"FFAU"</string>
     <string name="_in_a_FFAU_Game">"（個人戦ウルトラ）"</string>
 
-    <string name="BANNED_PLAYERS">"禁止したプレイヤー"</string>
+    <string name="BANNED_PLAYERS">"バンされたプレイヤー"</string>
     <string name="MAIL">"メール"</string>
     <string name="WRITE_MAIL">"メールを書く"</string>
     <string name="Days">"日々"</string>
@@ -834,7 +834,7 @@
     <string name="youtube_prompt">"YouTubeチャンネルを見てみる？このチャンネルは、ネビュラスの開発元とは提携していません。"</string>
     <string name="Tournament_Matches_Won_">"勝ったトーナメント数:"</string>
     <string name="PAINT">"ペイント"</string>
-    <string name="BLOCKED_ACCOUNTS">"ブロックしたアカウントリスト"</string>
+    <string name="BLOCKED_ACCOUNTS">"ブロックされたアカウントリスト"</string>
     <string name="UNBLOCK">"ブロック解除"</string>
     <string name="Emotes">"エモート"</string>
     <string name="Support">"サポート"</string>
@@ -872,7 +872,7 @@
     <string name="Win_a_Team_Deathmatch_Game">"チームデスマッチゲームに勝ちます"</string>
     <string name="TEAM_DEATHMATCH">"チームデスマッチ"</string>
     <string name="Speed_Click_Toggle">"小さい粒噴射ボタンを押してオートクリックを解除"</string>
-    <string name="MOD">"管理者"</string>
+    <string name="MOD">"モデレ"</string>
     <string name="FAQ">よくある質問</string>
     <string name="BUY_EXTRA_SPINS">もっとスピンを購入</string>
     <string name="Spins_Remaining">残りのスピン</string>
@@ -887,9 +887,9 @@
     <string name="muted_until">日付までミュートされました:</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">マルチプレーヤーを再生すると、アプリのコンテンツレーティングが変更されることがあります。</string>
     <string name="UI_Opacity_">レベル等の透明度</string>
-    <string name="LOAD">負荷</string>
+    <string name="LOAD">読み込む</string>
     <string name="REMOVE">削除</string>
-    <string name="BAN">禁止</string>
+    <string name="BAN">バン</string>
     <string name="MODERATORS">モデレーター</string>
     <string name="ALL_CLAN">クラン\n全員</string>
     <string name="CO_LEADER">共同リーダー</string>
@@ -977,7 +977,7 @@
     <string name="COPY">コピー</string>
     <string name="_1v1_Ultra">1対1ウルトラ</string>
     <string name="ArenaDescriptionUltra">勝者は%sプラズマ獲得できます</string>
-    <string name="BANNED">禁止済</string>
+    <string name="BANNED">バン済</string>
     <string name="CLAN_MEMBERS">クランメンバーリスト</string>
     <string name="CLAN_REQUESTS">クラン参加リクエスト</string>
     <string name="Pet_1">ペット1</string>
@@ -1047,7 +1047,7 @@
     <string name="community_skin_requirement">コミュニティを使うには『カスタムスキンを有効にする』を購入する必要があります。</string>
     <string name="You_can_purchase_this_community_skin_for_">このコミュニティスキンは次の価格で購入できます:</string>
     <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">コミュニティスキンは他のプレイヤーから贈られます。コミュニティスキンは、カスタムスキンと同じように使え、標準スキンと組み合わせることができます。</string>
-    <string name="VIEW_UPLOADER">アップローダーを表示</string>
+    <string name="VIEW_UPLOADER">アップローダーのプロフィールを表示</string>
     <string name="POPULAR">人気</string>
     <string name="NEW">新しい</string>
     <string name="Manage_Configurations">構成管理</string>
@@ -1083,7 +1083,7 @@
     <string name="BUY_NOW_">今すぐ購入！</string>
     <string name="already_purchased">あなた、またはギフトを受け取る方は、すでにこのアイテムを所有しています。</string>
     <string name="Halo_Animations">オーラアニメーション</string>
-    <string name="Trick_Notifications">トリック通知をオン</string>
+    <string name="Trick_Notifications">トリックモードの通知をオンにする</string>
     <string name="Channel">チャンネル</string>
     <string name="Choose_Text_Size">テキストサイズを選択</string>
     <string name="LEVEL_COLOR">レベルカラー</string>
@@ -1112,7 +1112,7 @@
     <string name="Joined_group_" translatable="true" tools:ignore="Untranslatable">グループに参加しました</string>
     <string name="People" translatable="true" tools:ignore="Untranslatable">人々</string>
     <string name="Failed_to_join">参加に失敗</string>
-    <string name="Full">Full</string>
+    <string name="Full">満</string>
     <string name="new_person_joined" translatable="true" tools:ignore="Untranslatable">1人が参加しました！</string>
     <string name="person_left" translatable="true" tools:ignore="Untranslatable">1人が退室しました！</string>
     <string name="Left_the_group" translatable="true" tools:ignore="Untranslatable">グループに退室しました</string>
@@ -1177,7 +1177,7 @@
     <string name="This_cannot_be_undone_">これは取り消せません！</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Watch a video to get a temporary boost for %d lives!</string>
     <string name="WATCH_VIDEO_">動画を見る！</string>
-    <string name="PERMANENT_BOOSTS">永久にブースト</string>
+    <string name="PERMANENT_BOOSTS">永久ブースト</string>
     <string name="Video_failed_to_load_">動画読み込みに失敗！</string>
     <string name="Video_Ready_">動画の準備完了！</string>
     <string name="GIVE_PLASMA">プラズマを送る</string>
@@ -1265,7 +1265,7 @@
     <string name="South_Africa">南アフリカ</string>
     <string name="SPLIT_">最大スプリット数:</string>
     <string name="WALLS">ウォール数</string>
-    <string name="COMP_BANNED">競技に禁止された</string>
+    <string name="COMP_BANNED">コンペからバン済</string>
     <string name="FIND_GAMES">他のルームでプレイ</string>
     <string name="PLAY_SOLO">一人プレイ</string>
     <string name="SET_EMOTE">絵文字を設定</string>
