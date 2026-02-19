@@ -326,14 +326,14 @@
 
     <string name="COMPLETE">"COMPLETO"</string>
     <string name="INCOMPLETE">"INCOMPLETO"</string>
-    <string name="Win_a_FFA_Time_Game">"Vencer um Jogo de FFA com Tempo"</string>
-    <string name="Win_a_CTF_Game">"Vencer um Jogo de CAB</string>
-    <string name="Win_a_Soccer_Game">"Vencer um Jogo de Futebol"</string>
-    <string name="Win_a_Survival_Game">"Vencer um Jogo de Sobrevivência"</string>
-    <string name="Win_a_Teams_Time_Game">"Vencer um Jogo de Equipes com Tempo"</string>
-    <string name="Reach_a_score_of_">"Atinja uma pontuação de "</string>
-    <string name="_in_a_FFA_Game">" em um Jogo de FFA"</string>
-    <string name="_in_a_Teams_Game">" em um Jogo de Equipes"</string>
+    <string name="Win_a_FFA_Time_Game">"Vencer uma partida de FFA com Tempo"</string>
+    <string name="Win_a_CTF_Game">"Vencer um Jogo de CAB"</string>
+    <string name="Win_a_Soccer_Game">"Vencer uma partida de Futebol"</string>
+    <string name="Win_a_Survival_Game">"Vencer uma partida de Sobrevivência"</string>
+    <string name="Win_a_Teams_Time_Game">"Vencer uma partida de Equipes com Tempo"</string>
+    <string name="Reach_a_score_of_">"Atingir uma pontuação de"</string>
+    <string name="_in_a_FFA_Game">" em uma partida de FFA"</string>
+    <string name="_in_a_Teams_Game">"em uma partida de Equipes"</string>
     <string name="_dots">" pontos"</string>
     <string name="_player_blobs">" blobs dos jogadores"</string>
     <string name="Absorb_">"Absorver "</string>
@@ -751,16 +751,16 @@
     <string name="Win_10000_Arenas">Ganhar 10,000 Arenas</string>
     <string name="UPLOAD_PREVIEW">PRÉVIA DO ENVIO</string>
     <string name="Transparency">Transparência</string>
-    <string name="upload_info">Você pode conseguir uma melhor qualidade, sem transparência ou com imagens simples.</string>
+    <string name="upload_info">Você pode obter melhor qualidade sem transparência ou usando imagens simples.</string>
     <string name="Compression_Quality_">Qualidade da Compressão:</string>
     <string name="inapproriate_info">Skins inapropriadas incluem qualquer coisa que envolva ódio, gore, obscenidade, violência, drogas, sexo, nudez, selfies de corpo inteiro, obscuridade, ininteligibilidade e skins Nebulous não modificadas. Lembrando também que skins sem camisa, mostrando dedo do meio, que contenham drogas/cigarros, decotes, barriga tanquinho, serão reembolsadas ou rejeitadas de acordo com o revisor.</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">Você tem certeza de que deseja enviar esta skin?</string>
     <string name="Grant_Permission">Conceder Permissão</string>
-    <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">O Nebulous precisa da permissão de Armazenamento para fazer o backup do seu progresso de jogador único!</string>
-    <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">O Nebulous precisa da permissão de Localização para encontrar dispositivos Bluetooth próximos.</string>
+    <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">O Nebulous precisa da permissão de armazenamento para salvar o progresso do modo solo.</string>
+    <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">O Nebulous precisa da permissão de localização para encontrar dispositivos Bluetooth próximos.</string>
     <string name="FFA_ULTRA">FFA ULTRA</string>
     <string name="FFAU">FFAU</string>
-    <string name="_in_a_FFAU_Game"> em um jogo de FFA ULTRA</string>
+    <string name="_in_a_FFAU_Game">“em uma partida de FFA ULTRA”</string>
 
     <string name="BANNED_PLAYERS">JOGADORES BANIDOS</string>
     <string name="MAIL">E-MAIL</string>
