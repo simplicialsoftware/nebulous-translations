@@ -864,7 +864,7 @@
     <string name="NOW">"ŞİMDİ"</string>
     <string name="Team_Deathmatch_Domination">"Takımlı Hakimiyet Ölüm Müsabakası"</string>
     <string name="We_Will_Survive">"Hayatta Kalacağız"</string>
-    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Takımlı Ölüm Müsabakasında en az 5 kişi var ken kazanın."</string>
+    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Takımlı Ölüm Müsabakasında en az 5 kişi varken kazanın."</string>
 
     <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"Takımlı Ölüm Müsabakasını kazanmadan hayatta kalın."</string>
     <string name="Win_a_Team_Deathmatch_Game">"Bir Takımlı Ölüm Müsabakası Kazan"</string>
@@ -1257,7 +1257,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="HERO">"KAHRAMAN"</string>
     <string name="CHAMPION">"ŞAMPİYON"</string>
     <string name="DASH">"İleri Atılma"</string>
-    <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">"Cihazınızın sunucu ile bağlantısı zayıf. Bu gecikmeye neden olabilir. Lütfen WI-FI veya cep telefonu hizmetinizi kontrol edin veya farklı bir internet bağlantısı deneyin. Ayrıca size en yakın sunucuda oynadığınızdan emin olun."</string>
+    <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">"Cihazınızın sunucu ile bağlantısı zayıf. Bu gecikmeye neden olabilir. Lütfen WI-FI veya cep telefonu hizmetinizi kontrol ediniz veya farklı bir internet bağlantısı deneyiniz. Ayrıca size en yakın sunucuda oynadığınızdan emin olunuz."</string>
     <string name="setting_changed">"Ayarlar güncellendi. Etkinleşmesi için sunucuya yeniden bağlanmanız gerekebilmektedir."</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">"Toplam 10.000 Trick Sayısına ulaşın."</string>
     <string name="Tricky">"TRICKY"</string>
