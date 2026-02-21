@@ -1088,12 +1088,12 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Gain_100_000_000_mass">Obtenha 100,000,000 de massa</string>
     <string name="VET">VET</string>
     <string name="Mute">Silenciar</string>
-    <string name="Unmute">Dessilenciar</string>
+    <string name="Unmute">Desmutar</string>
     <string name="Community">Comunidade</string>
     <string name="Buy">Comprar</string>
     <string name="Sell">Vender</string>
     <string name="community_skin_information_for_seller" translatable="true" tools:ignore="Untranslatable">Quando você transforma sua skin personalizada em uma skin da comunidade, ela é listada na guia "Skins da Comunidade". As outras pessoas podem ver e comprar a skin na comunidade! Toda vez que alguém compra sua skin da comunidade, você recebe uma pequena quantidade de plasmas.</string>
-    <string name="community_skin_requirement">Você deve comprar Ativar Skins Personalizadas para usar as skins da comunidade.</string>
+    <string name="community_skin_requirement">Você precisa comprar “Ativar Skins Personalizadas” para usar skins da comunidade.</string>
     <string name="You_can_purchase_this_community_skin_for_">Você pode comprar esta skin da comunidade por</string>
     <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">As skins da comunidade são enviadas por outros jogadores. As skins da comunidade funcionam como skins personalizadas e podem ser animadas com as skins padrão do jogo.</string>
     <string name="VIEW_UPLOADER">VER ENVIADOR</string>
@@ -1125,7 +1125,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Skin_Pack">Pacote de Skins</string>
     <string name="SKIN_PACK">PACOTE DE SKINS</string>
     <string name="HALLOWEEN">DIA DAS BRUXAS</string>
-    <string name="pack_info">Depois que você comprar este pacote de skin, suas skins exclusivas aparecerão na parte superior dos menus de seleção de skin.</string>
+    <string name="pack_info">Depois que você comprar este pacote de skins, suas skins exclusivas aparecerão na parte superior dos menus de seleção de skins.</string>
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins, Mascote, Bonés EXCLUSIVOS e Mais!</string>
     <string name="BUY_NOW_">COMPRAR AGORA!</string>
     <string name="already_purchased">Você ou a pessoa para qual você está comprando já possui isto.</string>
