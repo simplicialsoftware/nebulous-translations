@@ -122,7 +122,7 @@
     <string name="Online">"En línea"</string>
     <string name="Unknown">"Desconocido"</string>
     <string name="Offline">"Desconectado"</string>
-    <string name="Achievement_Earned">"Logro Conseguido"</string>
+    <string name="Achievement_Earned">"Logro conseguido"</string>
     <string name="REFRESH">"ACTUALIZAR"</string>
     <string name="DONE">"HECHO"</string>
     <string name="Friend_Request_Sent">"Solicitud de amistad enviada"</string>
@@ -168,7 +168,7 @@
     <string name="Blobastrophe">"Blobástrofe"</string>
     <string name="Blobihilation">"Blobiquilación"</string>
     <string name="Blobageddon">"Blobagedón"</string>
-    <string name="Blobocalypse">"Blobocalípsis"</string>
+    <string name="Blobocalypse">"Blobocalipsis"</string>
 
     <string name="Experienced_Nebulator">"Jugador experimentado"</string>
     <string name="Expert_Nebulator">"Jugador experto"</string>
@@ -246,7 +246,7 @@
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Se encontró un respaldo de modo Un Jugador con más experiencia. ¿Deseas restaurarlo?"</string>
 
     <string name="Special_Effects">"Efectos especiales"</string>
-    <string name="Blob_Mushiness">"Blandura del blob"</string>
+    <string name="Blob_Mushiness">"Elasticidad del blob"</string>
 
     <string name="Specify_private_game_name">"Especificar nombre de la partida privada"</string>
     <string name="In_Game_Chat">"Chat en la partida"</string>
@@ -369,7 +369,7 @@
     <string name="_3v3">" 3vs3"</string>
     <string name="_5v5">" 5vs5"</string>
     <string name="_8v8">" 8vs8"</string>
-    <string name="Top_Ranks">"Ránking mundial"</string>
+    <string name="Top_Ranks">"Ranking mundial"</string>
     <string name="My_Ranks">"Mi Posición"</string>
     <string name="Player_XP">"EXP Jugadores"</string>
 
@@ -378,7 +378,7 @@
     <string name="Clan_Warrior">"Guerrero del Clan"</string>
     <string name="Win_a_Clan_War">"Gana una Guerra de Clanes"</string>
     <string name="Global">"Global"</string>
-    <string name="Spectating">"Espectando"</string>
+    <string name="Spectating">"Espectador"</string>
 
 
     <string name="snowflakes_">"copos de nieve "</string>
@@ -482,8 +482,8 @@
     <string name="Win_1000_Arenas">"Gana 1.000 Arenas "</string>
 
 
-    <string name="Already_in_arena_">"Ya en la arena "</string>
-    <string name="Already_in_queue_">"Ya en la cola "</string>
+    <string name="Already_in_arena_">"Ya estás en la arena "</string>
+    <string name="Already_in_queue_">"Ya estás en la cola "</string>
     <string name="Invalid_Account_ID_">"ID de cuenta inválida "</string>
 
     <string name="Validating">"Validando…"</string>
@@ -693,7 +693,7 @@
     <string name="Collect_10_000_moons_">"Recoge 10.000 lunas."</string>
     <string name="BLUETOOTH">"BLUETOOTH"</string>
     <string name="HOST">"ANFITRIÓN"</string>
-    <string name="This_device_does_not_support_bluetooth_">"Este dispositivo no es compatible con bluetooth "</string>
+    <string name="This_device_does_not_support_bluetooth_">"Este dispositivo no es compatible con Bluetooth "</string>
     <string name="member_permissions">"permisos de miembros"</string>
     <string name="edit">"editar"</string>
     <string name="start_clan_war">"iniciar Guerra de Clanes"</string>
@@ -744,7 +744,7 @@
     <string name="FILTER">"FILTRAR"</string>
     <string name="List_Count_">"Lista:"</string>
     <string name="Download_Skins">"Descargar skins"</string>
-    <string name="ARENA_HISTORY">"HISTORIAL ARENA"</string>
+    <string name="ARENA_HISTORY">"HISTORIAL DE ARENA"</string>
     <string name="WIN">"VICTORIA"</string>
     <string name="LOSS">"DERROTA"</string>
     <string name="Other_players_can_not_see_your_skin_">"Los demás jugadores no pueden ver tu skin "</string>
@@ -883,7 +883,7 @@
     <string name="This_player_selected_a_different_teammate_">Este jugador seleccionó un compañero diferente </string>
     <string name="muted_until">silenciado hasta</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">La calidad de la aplicación podría cambiar cuando se está en multijugador</string>
-    <string name="UI_Opacity_">Opacidad de la interfaz</string>
+    <string name="UI_Opacity_">Opacidad de la interfaz:</string>
     <string name="LOAD">CARGAR</string>
     <string name="REMOVE">ELIMINAR</string>
     <string name="BAN">BANEAR</string>
