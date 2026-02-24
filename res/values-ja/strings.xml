@@ -872,7 +872,7 @@
     <string name="Win_a_Team_Deathmatch_Game">"チームデスマッチゲームに勝ちます"</string>
     <string name="TEAM_DEATHMATCH">"チームデスマッチ"</string>
     <string name="Speed_Click_Toggle">"小さい粒噴射ボタンを押してオートクリックを解除"</string>
-    <string name="MOD">"モデレ"</string>
+    <string name="MOD">"モデ"</string>
     <string name="FAQ">よくある質問</string>
     <string name="BUY_EXTRA_SPINS">もっとスピンを購入</string>
     <string name="Spins_Remaining">残りのスピン</string>
@@ -890,8 +890,8 @@
     <string name="LOAD">読み込む</string>
     <string name="REMOVE">削除</string>
     <string name="BAN">バン</string>
-    <string name="MODERATORS">モデレーター</string>
-    <string name="ALL_CLAN">クラン\n全員</string>
+    <string name="MODERATORS">モデレーターリスト</string>
+    <string name="ALL_CLAN">クラン全員</string>
     <string name="CO_LEADER">共同リーダー</string>
     <string name="CLAN_HOUSE">クランハウス</string>
 
