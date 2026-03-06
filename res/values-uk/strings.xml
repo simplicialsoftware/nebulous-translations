@@ -1216,7 +1216,7 @@
     <string name="Quad">"4х"</string>
     <string name="Middle_East">"Середній Схід"</string>
     <string name="XP_4x">"4x досвід"</string>
-    <string name="You_cannot_play_for_x_minutes_">"Ви не можете грати %d хвилин."</string>
+    <string name="You_cannot_play_for_x_minutes_">"Ви не можете грати  хвилин."</string>
     <string name="x4_Clan_XP_Perm">"Постійний 4х досвід для клану"</string>
     <string name="x4_Clan_XP_7_days">"4x досвід для клану на 7 днів"</string>
     <string name="x4_Clan_XP_1_Day">"4х досвід для клану на 7 днів"</string>
