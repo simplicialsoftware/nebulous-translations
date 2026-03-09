@@ -826,7 +826,7 @@
     <string name="Seconds">"Secondes"</string>
     <string name="Tournaments_Temporarily_Disabled">"Tournois temporairement désactivés"</string>
     <string name="CLAN_NAME_COLOR">"COULEUR DU NOM DU CLAN"</string>
-    <string name="Tuber">"Tuber"</string>
+    <string name="Tuber">"Youtuber"</string>
     <string name="youtube_prompt">"Voulez-vous visiter cette chaîne YouTube Nebulous? Ces liens ne sont pas affiliés aux créateurs de Nebulous."</string>
     <string name="Tournament_Matches_Won_">"Tournois Gagnés:"</string>
     <string name="PAINT">"MODE PEINTURE"</string>
@@ -1204,7 +1204,7 @@ Ceci est une liste des choses qui sont *Interdit* d'utiliser dans des skins pers
     <string name="SKIN">SKIN</string>
     <string name="Choose_Skin_Size">Choisir la taille du skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Les autres joueurs ne pourront pas vous entendre!</string>
-    <string name="Allow_permission_to_enable_voice_recording_">Autoriser l\'autorisation d\'activer l\'enregistrement par vocal.</string>
+    <string name="Allow_permission_to_enable_voice_recording_">Autoriser l\'autorisation d\'activer l\'enregistrement vocal.</string>
     <string name="voice_chat_prompt">L\'évaluation du contenu de l\'application peut changer si le chat vocal est activé. Pour un meilleur son, utilisez un casque.</string>
     <string name="Only_leader_can_answer_requests_">Seul le chef peut répondre aux demandes.</string>
     <string name="Sent_request_not_invited_">Demande envoyée (non invité).</string>
@@ -1241,7 +1241,7 @@ Ceci est une liste des choses qui sont *Interdit* d'utiliser dans des skins pers
     <string name="Collected_">Collecté:</string>
     <string name="Collisions_">Collisions:</string>
     <string name="Absorbed_">Absorbé:</string>
-    <string name="team_warning">Faire équipe avec un joueur qui ne fait pas partie de votre équipe entraînera un ban! Si vous constatez que d\'autres joueurs font ça, vous pouvez voter pour les supprimer dans le menu des joueurs</string>
+    <string name="team_warning">Faire équipe avec un joueur qui ne fait pas partie de votre équipe entraînera un ban! Si vous constatez que d\'autres joueurs font ça, vous pouvez voter pour les éjecter dans le menu des joueurs</string>
     <string name="Search_Filter">Filtre de recherche</string>
     <string name="Received_">Reçu:</string>
     <string name="Opponent_Rating_Limit_">Limite d\'évaluation adversaire:</string>
@@ -1324,7 +1324,7 @@ Commandes:
 !admin {id}
 !allow {id}
 !allow reset
-!team [1-4] {id} ( Seulement en les modes d'équipes )
+!team [1-4] {id} ( Seulement dans les modes d'équipes )
 !winner
 !stats
 !info"
@@ -1383,7 +1383,7 @@ Commandes:
 Si vous ne souhaitez pas vous connecter, vous pouvez toujours jouer en mode solo."
     </string>
     <string name="_2x_skin_resolution">2x résolution du skin</string>
-    <string name="pm">PM</string>
+    <string name="pm">MP</string>
     <string name="You_are_already_friends_">Vous êtes déjà amis.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Le compte doit avoir 1 jour pour pouvoir envoyer un mail.</string>
     <string name="Translator">Traducteur</string>
