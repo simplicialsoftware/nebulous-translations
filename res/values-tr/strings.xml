@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="Players">"Oyuncular"</string>
-    <string name="Control_">"Kontrol:"</string>
+    <string name="Control_">"Kontroller:"</string>
     <string name="CLOSE">"KAPAT"</string>
     <string name="Stick_Size_">"Joystick Boyutu:"</string>
-    <string name="Stick_Margin_">"Joystick Konumu:"</string>
+    <string name="Stick_Margin_">"Joystick Mesafesi:"</string>
     <string name="Button_Size_">"Buton Boyutu:"</string>
     <string name="Button_Margin_">"Buton Konumu:"</string>
-    <string name="Buttons_">"Butonlar:"</string>
+    <string name="Buttons_">"Düğmeler:"</string>
     <string name="DEFAULTS">"VARSAYILANLAR"</string>
     <string name="WEEKLY">"HAFTALIK"</string>
     <string name="DAILY">"GÜNLÜK"</string>
@@ -18,7 +18,7 @@
     <string name="PLAY">"OYNA"</string>
     <string name="OPTIONS">"AYARLAR"</string>
 
-    <string name="Avatar_">"Avatar:"</string>
+    <string name="Avatar_">"Avatar Seçimi:"</string>
     <string name="Name_">"İsim:"</string>
 
     <string name="Loading___">"Yükleniyor…"</string>
@@ -97,9 +97,9 @@
     <string name="STATISTICS">"İSTATİSTİKLER"</string>
     <string name="XP_">"XP/DP:"</string>
 
-    <string name="Information">"Bilgi Alın"</string>
+    <string name="Information">"Bilgi"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Bu avatarı kullanabilmeniz için ilgili kazanımı elde etmeniz gerekmektedir."</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Bu avatarı kullanabilmeniz için erişmeniz gereken seviye"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Bu avatarı kullanabilmek için ulaşmanız gereken seviye"</string>
     <string name="SIGN_IN">"GİRİŞ YAPIN"</string>
 
     <string name="Single_Player_Stats">"Tek Kişilik Oyun İstatistikleri"</string>
