@@ -355,7 +355,7 @@
     <string name="Clan_War">"Klan Savaşı"</string>
 
     <string name="Forming">"Biçimlendiriliyor"</string>
-    <string name="Searching">"Aranıyor"</string>
+    <string name="Searching">"Aranıyor..."</string>
     <string name="In_Progress">"İşlem Devam Etmekte"</string>
 
     <string name="Wins">"Galibiyetler"</string>
@@ -976,7 +976,7 @@ Oyunun kurallarını çiğneyen bir oyuncuyu fark ederseniz, lütfen bir "Modera
     <string name="You_cannot_open_this_present_yet_">"Bu hediyeyi henüz açamazsınız!"</string>
     <string name="Open_Present">"Hediyeyi Aç"</string>
     <string name="OPEN">"AÇIK"</string>
-    <string name="Halo">"Işık Halka"</string>
+    <string name="Halo">"Işık Halkası"</string>
     <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Bu halkayı kullanabilmek için en az %1$s seviyede olmalısınız ve %2$s başarım elde etmelisiniz."</string>
     <string name="Halos">"Baloncuk Halkaları"</string>
     <string name="CAMPAIGN">"Kampanya"</string>
