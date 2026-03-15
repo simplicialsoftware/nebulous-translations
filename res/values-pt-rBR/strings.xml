@@ -265,8 +265,8 @@
     <string name="JOIN_CLAN">"ENTRAR NO CLÃ"</string>
     <string name="JOIN_RANDOM_CLAN">"ENTRAR EM UM CLÃ ALEATÓRIO"</string>
     <string name="LEAVE_CLAN">"SAIR DO CLÃ"</string>
-    <string name="INVITE_MEMBER">"CONVIDAR MEMBRO"</string>
-    <string name="REMOVE_MEMBER">"REMOVER MEMBRO"</string>
+    <string name="INVITE_MEMBER">"CONVIDAR MENBRO"</string>
+    <string name="REMOVE_MEMBER">"REMOVER MENBRO"</string>
 
 
     <string name="CREATE_CLAN">"CRIAR UM CLÃ"</string>
@@ -342,7 +342,7 @@
     <string name="FFA_CLASSIC">"FFA CLÁSSICO"</string>
 
 
-    <string name="pumpkins_">"abóboras."</string>
+    <string name="pumpkins_">"Abóboras."</string>
     <string name="To_use_this_skin_you_must_collect">"Para usar esta skin, você deve coletar"</string>
     <string name="Australia">"Austrália"</string>
     <string name="Pumpkin_Collector">"Coletor de Abóboras"</string>
@@ -391,7 +391,7 @@
     <string name="The_next_season_begins">"A próxima temporada começará em"</string>
 
     <string name="Current">"Atual"</string>
-    <string name="leaves_">"folhas."</string>
+    <string name="leaves_">"Folhas."</string>
     <string name="Leaf_Collector">"Coletor de Folhas"</string>
     <string name="Collect_1000_leaves_">"Colete 1.000 folhas."</string>
     <string name="XP_Boost">"Impulso de XP"</string>
