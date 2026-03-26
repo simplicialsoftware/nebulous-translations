@@ -50,7 +50,7 @@
     <string name="JOIN">"ПРИСОЕДИНИТЬСЯ"</string>
 
 
-    <string name="Lobby_Name">"Имя лобби"</string>
+    <string name="Lobby_Name">"Название лобби"</string>
     <string name="Not_found_">"Не найдено"</string>
 
     <string name="Hidden">"Скрытый"</string>
