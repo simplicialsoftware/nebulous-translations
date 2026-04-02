@@ -1267,7 +1267,8 @@ Commands:
 !admin {id}
 !allow {id}
 !allow reset"
-</string>
+!winner
+    </string>
     <string name="ID_Sort">ID rūšiavimas</string>
     <string name="Master_Tamer">Jaukinimo meistras</string>
     <string name="Get_ALL_Pets_To_Level_100_">Pasiekti 100lygį su visais gyvūnais</string>
@@ -1352,6 +1353,7 @@ Commands:
         <item>"Mažytis"</item>
         <item>"Mažas"</item>
         <item>"Normalus"</item>
+    
         <item>"Didelis"</item>
         <item>"HUGE"</item>
     </string-array>
@@ -1363,3 +1365,4 @@ Commands:
         <item>"Normalus (8v8)"</item>
     </string-array>
 </resources>
+MODERATOR FIRE󠀣 GOD ID ­­­30438017
