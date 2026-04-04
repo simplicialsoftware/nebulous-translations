@@ -283,7 +283,7 @@
     <string name="CLAN">"KLANAS"</string>
 
 
-    <string name="Specify_Clan_ID">"Nurodykite Klano ID"</string>
+    <string name="Specify_Clan_ID">"Nurodykite Klano ID"</string>3183543
     <string name="Show_Clan_Names">"Rodyti Klano Pavadinimus"</string>
     <string name="Show_Levels">"Rodyti lygius"</string>
     <string name="SET_MOTD">"SET MOTD"</string>
@@ -352,7 +352,7 @@
     <string name="FFAC">"FFAC"</string>
     <string name="NONE">"Tuščias"</string>
     <string name="CLAN_WAR">"KLANO KARAS"</string>
-    <string name="Clan_War">"KLANO KARAS"</string>
+    <string name="Clan_War">"Klano Karas"</string>
 
     <string name="Forming">"Formavimas"</string>
     <string name="Searching">"Ieškoma"</string>
@@ -397,7 +397,7 @@
     <string name="Collect_1000_leaves_">"Surinkite 1000 lapų."</string>
     <string name="XP_Boost">"XP boost"</string>
     <string name="Double">"Dvigubas"</string>
-    <string name="Hour">"Valanda"</string>
+    <string name="Hour">"VALANDOS"</string>
     <string name="Hours">"Valandos"</string>
 
 
@@ -406,8 +406,8 @@
     <string name="Collect_5000_leaves_">"Surinkite 5000 lapų."</string>
 
 
-    <string name="Arena">"Arena"</string>
-    <string name="Enter_the_Arena">"Įeikite į areną"</string>
+    <string name="Arena">"Arena"</string>ARENA 10,000 </string> LEGEND
+    <string name="Enter_the_Arena">"Įeikite į areną"</string> Arena 10,000 </string> LEGEND
 
 
     <string name="Purchase_History">"Pirkimo istorija"</string>
