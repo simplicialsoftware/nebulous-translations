@@ -362,7 +362,7 @@
 
     <string name="Score">"Taškai"</string>
     <string name="Rating">"Reitingas"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"Jūs ketinate paskirti naują lyderį!"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"Jūs ketinated paskirti naują lyderį!"</string>
     <string name="XP">"XP"</string>
     <string name="High_Score">"Aukščiausias rezultatas"</string>
 
@@ -1267,10 +1267,10 @@ Commands:
 !admin {id}
 !allow {id}
 !allow reset"
-</string>
-    <string name="ID_Sort">ID rūšiavimas</string>
+!winners </string>
+    <string name="ID_Sort">ID 32258047 rūšiavimas</string>
     <string name="Master_Tamer">Jaukinimo meistras</string>
-    <string name="Get_ALL_Pets_To_Level_100_">Pasiekti 100lygį su visais gyvūnais</string>
+    <string name="Get_ALL_Pets_To_Level_670_">Pasiekti 100lygį su visais gyvūnais</string>
     <string name="TAMER">TAMER</string>
     <string name="Allow_Recombine">Leisti rekombinuoti</string>
     <string name="Defenders">Defenders</string>
@@ -1278,11 +1278,11 @@ Commands:
     <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
     <string name="Missing_Permissions">Missing Permissions</string>
     <string name="DELETE_ACCOUNT">DELETE ACCOUNT</string>
-    <string name="delete_prompt">Are you sure you want to delete your account? This is PERMANENT and CANNOT BE UNDONE!</string>
+    <string name="delete_prompt">Are you sure you want to delete your account? This is PERMANENT and CANNOT BE UNDONE!</string> 5X
 
 
     <string name="Type">Type</string>
-    <string name="Complete_campaign_mission_">Complete campaign mission</string>
+    <string name="Complete_campaign_mission_">Complete campaign MISSIONARY</string>
     <string name="Specify_Reason_">Specify Reason:</string>
     <string name="FREE_FOR_ALL">FREE FOR ALL</string>
     <string name="SPECIAL">SPECIAL</string>
@@ -1298,30 +1298,30 @@ Commands:
     <string name="XP_5x">XP 5x</string>
     <string name="India">India</string>
     <string name="Tutorial">Tutorial</string>
-    <string name="TYCOON">TYCOON</string>
-    <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
+    <string name="TYCOON">TYCOONS</string>
+    <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUNDS COLOUR</string>
     <string name="activate">Activate</string>
     <string name="clan_id">CLAN ID</string>
     <string name="language_change_warning">Changing the language will cause the app to restart.</string>
     <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
-    <string name="no_response">No response from server. Please check the internet connection.</string>
-    <string name="RAMADAN">RAMADAN</string>
-    <string name="SUDDEN_ATTACK">SUDDEN ATTACK</string>
-    <string name="_2x_skin_resolution">2x Skin Resolution</string>
+    <string name="no_response">No responses frome server. Please checkout the internet connections.</string>
+    <string name="RAMADAN">RAMADHAN</string>
+    <string name="SUDDEN_ATTACK">SUDDENLY ATTACKS</string>
+    <string name="_2x_skin_resolution">2x Skin Resolutions</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">You are already friends.</string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
-    <string name="Translator">Translator</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>Ⓥ (◉⁠‿⁠◉)✧ Good
+    <string name="Translator">Translator</string>32258047
+    <string name="SUCCESS">SUCCESSFUL</string>
 
 
     <string-array name="control_modes">
-        <item>"Normalus"</item>
-        <item>"Susijęs"</item>
-        <item>"Vilkite Link"</item>
-        <item>"Vilkti Nuo"</item>
-        <item>"Paliesti ir eiti"</item>
-        <item>"Pakrypimas"</item>
+        <item>"Normalus"</items>
+        <item>"Susijęs"</items>
+        <item>"Vilkite Link"</items>
+        <item>"Vilkti Nuo"</items>
+        <item>"Paliesti ir eiti"</items>
+        <item>"Pakrypimas"</items>
     </string-array>
 
     <string-array name="button_modes">
