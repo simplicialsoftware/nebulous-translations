@@ -39,7 +39,7 @@
     <string name="WINNER_">"GANADOR: "</string>
     <string name="IDLE">"INACTIVO"</string>
     <string name="Name_Invalid_">"Nombre Inválido "</string>
-    <string name="Name_Taken_">"Nombre en Uso "</string>
+    <string name="Name_Taken_">"Nombre en uso "</string>
     <string name="CONNECTED">"CONECTADO"</string>
     <string name="JOINING___">"UNIÉNDOSE…"</string>
     <string name="PLAYING">"JUGANDO"</string>
@@ -1341,8 +1341,8 @@ Subir la misma skin NO aprobada varias veces resultará en más sanciones o en u
     <string name="Winner_Winner_Chicken_Dinner">¡¡Quien Parte y Reparte se Lleva la Mejor Parte!!</string>
     <string name="Win_a_Battle_Royale_">Gana un Battle Royale.</string>
     <string name="Battle_">¡Batalla!</string>
-    <string name="BATTLE_ROYALE">BATTLE ROYALE</string>
-    <string name="Battle_Royale">Battle Royale</string>
+    <string name="BATTLE_ROYALE">Batalla campal</string>
+    <string name="Battle_Royale">Batalla campal</string>
     <string name="The_winner_will_receive_x_plasma_">El ganador recibirá %s plasma!</string>
     <string name="admin_commands">"
 Comandos:
