@@ -329,14 +329,14 @@
     <string name="Win_a_FFA_Time_Game">"Vinci una partita TCT a Tempo"</string>
     <string name="Win_a_CTF_Game">"Vinci una partita CLB"</string>
     <string name="Win_a_Soccer_Game">"Vinci una partita di Calcio"</string>
-    <string name="Win_a_Survival_Game">"Vinci una partita di Sopravvivenza"</string>
+    <string name="Win_a_Survival_Game">"Vinci una a partita di Sopravvivenza"</string>
     <string name="Win_a_Teams_Time_Game">"Vinci una partita Squadre a Tempo"</string>
     <string name="Reach_a_score_of_">"Raggiungi il punteggio di"</string>
-    <string name="_in_a_FFA_Game">" in una partita TCT"</string>
-    <string name="_in_a_Teams_Game">" in una partita Squadre"</string>
-    <string name="_dots">" pallini"</string>
-    <string name="_player_blobs">" palle dei giocatori"</string>
-    <string name="Absorb_">"Mangia "</string>
+    <string name="_in_a_FFA_Game">" in una partita FFA time"</string>
+    <string name="_in_a_Teams_Game">" in una partita a Squadre"</string>
+    <string name="_dots">" punti"</string>
+    <string name="_player_blobs">" blob dei giocator"</string>
+    <string name="Absorb_">"Assorbi "</string>
     <string name="Collect_">"Raccogli "</string>
 
     <string name="FFA_CLASSIC">"TCT CLASSICO"</string>
@@ -353,8 +353,8 @@
     <string name="CLAN_WAR">"GUERRE TRA CLAN</string>
     <string name="Clan_War">"Guerre Tra Clan"</string>
 
-    <string name="Forming">"Radunando"</string>
-    <string name="Searching">"Ricerca"</string>
+    <string name="Forming">"In formazione"</string>
+    <string name="Searching">"Ricerca in corso"</string>
     <string name="In_Progress">"In corso"</string>
 
     <string name="Wins">"Vittorie"</string>
