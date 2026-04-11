@@ -861,7 +861,7 @@
     <string name="HAPPY_BIRTHDAY_">SELAMAT ULANG TAHUN NEBULOUS!</string>
     <string name="Years">Tahun</string>
     <string name="Friend_Added_">TEMAN DITAMBAHKAN!</string>
-    <string name="_in_a_16x_Split_Game">dalam mode 16x Split  </string>
+    <string name="in_a_16x_Split_Game">dalam mode 16x Split  </string>
     <string name="Rules">PERATURAN</string>
     <string name="Blob_Chat_Bubbles">Obrolan Gelembung Gumpalan</string>
     <string name="CHRISTMAS_ADVENT_SKINS">SKIN KEDATANGAN NATAL</string>
@@ -886,7 +886,7 @@
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">TERIMA SEMUA PERMINTAAN PERTEMANAN!</string>
     <string name="App_Perf_Stats">Statistik Kinerja Apk</string>
     <string name="COPY">SALIN</string>
-    <string name="_1v1_Ultra">1v1 Ultra</string>
+    <string name="1v1_Ultra">1v1 Ultra</string>
     <string name="ArenaDescriptionUltra">Pemenang akan mendapatkan %s plasma.</string>
     <string name="BANNED">DILARANG</string>
     <string name="CLAN_MEMBERS">ANGGOTA KLAN</string>
