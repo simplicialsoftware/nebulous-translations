@@ -116,7 +116,7 @@
     <string name="Private">"Size Özel"</string>
     <string name="Public">"Herkese Açık"</string>
     <string name="Bot">"Bot"</string>
-    <string name="You">"Siz"</string>
+    <string name="You">"Sen"</string>
     <string name="This_player_is_a_bot">"Bu Oyuncu Bir Bottur."</string>
     <string name="This_player_is_not_signed_in">"Bu Oyuncu Giriş Yapmamıştır."</string>
 
@@ -358,7 +358,7 @@
     <string name="Searching">"Aranıyor"</string>
     <string name="In_Progress">"İşlem Devam Etmekte"</string>
 
-    <string name="Wins">"Galibiyetler"</string>
+    <string name="Wins">"Kazanır"</string>
 
     <string name="Score">"Skor"</string>
     <string name="Rating">"Sıralama"</string>
@@ -443,7 +443,7 @@
 
 
     <string name="until">"kadar"</string>
-    <string name="New_Message_">"Yeni mesaj!"</string>
+    <string name="New_Message_">"Yeni Mesaj!"</string>
     <string name="Seasonal">"Mevsimsel"</string>
 
 
@@ -670,18 +670,18 @@
     <string name="nebulas_">"Nebulalar."</string>
     <string name="Incompatible_versions_">"Sürümler Uyumlu Değil!"</string>
     <string name="Update_Available_">"Güncelleme Hazır!"</string>
-    <string name="VIEW_INVITES">"KLANA KATILIM İSTEKLERİ"</string>
+    <string name="VIEW_INVITES">"DAVETLERİ GÖRÜNTÜLE"</string>
     <string name="CLAN_INVITES">"KLAN DAVETLERİ"</string>
     <string name="Cancel_Invitation">"Daveti İptal Et"</string>
     <string name="DOWNLOAD">"İNDİR"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"TÜM ARKADAŞ İSTEKLERİNİ REDDET"</string>
-    <string name="suns_">"Güneşler. "</string>
+    <string name="suns_">"güneşler. "</string>
     <string name="Sun_Collector">"Güneş Toplayıcısı"</string>
     <string name="Sun_Hoarder">"Güneş Stokçusu"</string>
     <string name="Sun_Mogul">"Güneş Kralı"</string>
-    <string name="Collect_1_000_suns_">"1,000 Adet Güneş toplayın."</string>
-    <string name="Collect_5_000_suns_">"5,000 Adet Güneş toplayın."</string>
-    <string name="Collect_10_000_suns_">"10,000 Adet Güneş toplayın."</string>
+    <string name="Collect_1_000_suns_">"1,000 Adet güneş toplayın."</string>
+    <string name="Collect_5_000_suns_">"5,000 Adet güneş toplayın."</string>
+    <string name="Collect_10_000_suns_">"10,000 Adet güneş toplayın."</string>
     <string name="Reward_Videos_">"Ödüllü Videolar!"</string>
     <string name="Free_Plasma_">"Ücretsiz Plazma! "</string>
     <string name="moons_">"aylar. "</string>
@@ -704,9 +704,9 @@
     <string name="Note_Collector">"Nota Toplayıcısı"</string>
     <string name="Note_Hoarder">"Nota Stokcusu"</string>
     <string name="Note_Mogul">"Nota Kralı"</string>
-    <string name="Collect_1_000_notes_">"1,000 Adet Nota toplayın."</string>
-    <string name="Collect_5_000_notes_">"5,000 Adet Nota toplayın."</string>
-    <string name="Collect_10_000_notes_">"10,000 Adet Nota toplayın."</string>
+    <string name="Collect_1_000_notes_">"1,000 Adet nota toplayın."</string>
+    <string name="Collect_5_000_notes_">"5,000 Adet nota toplayın."</string>
+    <string name="Collect_10_000_notes_">"10,000 Adet nota toplayın."</string>
     <string name="notes_">"Notalar. "</string>
     <string name="CLICK_CHEAT_DETECTED_">"HİLE YAPTIĞINIZ TESPİT EDİLMİŞTİR!"</string>
     <string name="Pumpkin_Hoarder">"Balkabağı Stokçusu"</string>
