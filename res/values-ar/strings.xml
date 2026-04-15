@@ -14,7 +14,7 @@
     <string name="Game_Mode_">"نوع اللعبة"</string>
     <string name="Show_Names">"إظهار الأسماء"</string>
     <string name="Show_Avatars">"إظهار الصور"</string>
-    <string name="PLAY">"إلعب"</string>
+    <string name="PLAYابدأ اللعب"</string>
     <string name="OPTIONS">"الإعدادات"</string>
 
     <string name="Avatar_">"الصورة"</string>
@@ -26,7 +26,7 @@
     <string name="Are_You_Sure_">"هل أنت متأكد؟"</string>
     <string name="Yes">"نعم"</string>
     <string name="No">"لا"</string>
-    <string name="WAIT">"انتظر …"</string>
+    <string name="WAIT">"يرجى الانتظار …"</string>
     <string name="Must_Specify_Name_">"يجب تحديد الإسم."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
@@ -71,11 +71,11 @@
     <string name="Max_Players">"الحد الأقصى للاعبين"</string>
     <string name="Min_Players">"الحد الأدنى للاعبين"</string>
 
-    <string name="OK">"حسنًا"</string>
+    <string name="OK">"موافق"</string>
     <string name="CANCEL">"إلغاء"</string>
     <string name="Chat_Name">"اسم الدردشة"</string>
-    <string name="Max_People">"الحد الأقصى للناس"</string>
-    <string name="START">"البداية"</string>
+    <string name="Max_People">"الحد الأقصى للاعبين"</string>
+    <string name="START">"ابدأ"</string>
     <string name="CREATE">"إنشاء"</string>
     <string name="CUSTOM_GAMES">"ألعاب مخصصة"</string>
     <string name="CHAT">"الدردشة"</string>
@@ -88,13 +88,13 @@
     <string name="Green_Team">"الفريق الأخضر"</string>
     <string name="Blue_Team">"الفريق الأزرق"</string>
     <string name="Yellow_Team">"الفريق الأصفر"</string>
-    <string name="Signed_in_as_">"تم تسجيل الدخول كـ:"</string>
-    <string name="Not_signed_in_">"لم يتم تسجيل الدخول"</string>
+    <string name="Signed_in_as_">"تم تسجيل الدخول بإسم :"</string>
+    <string name="Not_signed_in_">"يرجى تسجيل الدخول"</string>
     <string name="SET_NAME">"تحديد الإسم"</string>
-    <string name="SIGN_OUT">"تسجيل الخروج من الحساب"</string>
+    <string name="SIGN_OUT">"تسجيل الخروج "</string>
     <string name="ACHIEVEMENTS">"الإنجازات"</string>
     <string name="STATISTICS">"الإحصائيات"</string>
-    <string name="XP_">"نقاط الخبرة:"</string>
+    <string name="XP_">"نقاط الخبرة"</string>
 
     <string name="Information">"معلومات"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"لاستخدام هذه الصورة يجب أن تحقق الإنجاز"</string>
@@ -107,9 +107,9 @@
     <string name="PAUSED">"توقف"</string>
 
 
-    <string name="FRIENDS">"صَـديـق"</string>
+    <string name="FRIENDS">"الأصدقاء"</string>
     <string name="Warning">"تحذير"</string>
-    <string name="SIGNING_IN">"تسجيل الدخول…"</string>
+    <string name="SIGNING_IN">"جار تسجيل الدخول.."</string>
     <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
     <string name="REQUEST_FRIEND">"إرسال طلب صداقة"</string>
     <string name="Private">"خاص"</string>
@@ -117,7 +117,7 @@
     <string name="Bot">"لاعب آلي"</string>
     <string name="You">"أنت"</string>
     <string name="This_player_is_a_bot">"هذا اللاعب آلي"</string>
-    <string name="This_player_is_not_signed_in">"هذا اللاعب لم يسجل الدخول"</string>
+    <string name="This_player_is_not_signed_in">"غير مسجل للدخول"</string>
 
     <string name="Online">"مُـتَـصِـل"</string>
     <string name="Unknown">"غير معروف"</string>
@@ -163,14 +163,14 @@
     <string name="Ludicrous_Gulp">"ابتلاع لا يصدق"</string>
 
     <string name="Blobicide">"قاتل الدوائر"</string>
-    <string name="Blobtrocity">"مستبد الدوائر"</string>
+    <string name="Blobtrocity">"صياد الدوائر"</string>
     <string name="Blobaccre">"مفترس الدوائر"</string>
     <string name="Blobastrophe">"ملتهم الدوائر"</string>
     <string name="Blobihilation">"مبيد الدوائر"</string>
     <string name="Blobageddon">"ماسح الدوائر"</string>
-    <string name="Blobocalypse">"مدمر الدوائر"</string>
+    <string name="Blobocalypse">"ماحق الدوائر"</string>
 
-    <string name="Experienced_Nebulator">"لاعب متمرس"</string>
+    <string name="Experienced_Nebulator">"لاعب محترف"</string>
     <string name="Expert_Nebulator">"لاعب خبير"</string>
     <string name="Master_Nebulator">"لاعب متدرب"</string>
     <string name="Grand_Master_Nebulator">"لاعب محترف"</string>
