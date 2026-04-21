@@ -112,7 +112,7 @@
     <string name="Warning">"Advertència"</string>
     <string name="SIGNING_IN">"INICIANT SESSIÓ…"</string>
     <string name="New_Friend_Request">"Nova sol·licitud d'amistat!"</string>
-    <string name="REQUEST_FRIEND">"SOL·LICITUD D'AMISTAD"</string>
+    <string name="REQUEST_FRIEND">"SOL·LICITUD D'AMISTAT"</string>
     <string name="Private">"Privat"</string>
     <string name="Public">"Públic"</string>
     <string name="Bot">"Bot"</string>
