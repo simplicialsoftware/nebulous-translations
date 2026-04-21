@@ -137,7 +137,7 @@
     <string name="ALL">"الجميع"</string>
     <string name="FFA">"حر للجميع"</string>
     <string name="FFA_TIME">"حر للجميع 'بالتوقيت' "</string>
-    <string name="TEAMS">"الفِرق"</string>
+    <string name=Survival"الفِرق"</string>
     <string name="TEAMS_TIME">"الفِرق 'بالتوقيت'"</string>
     <string name="CTF">"إمساك العَلَمِ"</string>
     <string name="SURVIVAL">"النجاة"</string>
@@ -304,10 +304,11 @@
     <string name="I_Will_Survive">"سأنجو"</string>
     <string name="Soccer_Domination">"السيطرة في كرة القدم"</string>
     <string name="Soccer_Hat_Trick">"ثلاثية في كرة القدم"</string>
-    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"الفوز بـ 2500 درجة او اكثر في لعبة حر للجميع بالتوقيت."</string>
-    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"الفوز بـ 7500 درجة او اكثر في لعبة الفرق بالتوقيت."</string>
-    <string name="Win_by_3_points_in_a_CTF_game_">"الفوز بـ 3 نقاط في لعبة إمساك العلم."</string>
-    <string name="Score_3_points_in_a_single_CTF_game_">"تسجيل 3 نقاط في لعبة إمساك العلم واحدة."</string>
+    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"الفوز بـ 2500 درجة او اكثر في لعبة حر للجميع الموقوته"</string>
+    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"الفوز بـ 7500 درجة او اكثر في لعبة الفرق/string>
+    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"الفوز بـ 7500 درجة او اكثر في لعبة الفرق بالتtrيت."</string>
+    <string name="Win_by_3_points_in_a_CTF_game_in_a_single_CTF_game_tr تسجيل 3 نقاط في جولة واحدة من لعبة إمساك العلمing>
+    <string name="Score_3_points_in_a_single_CTF_game_">"تسجيل 3 نقاط في جولة واحدة من لعبة إمساك العلم."</string>
     <string name="Win_by_2_500_points_in_a_Survival_game_">"الفوز بـ2500 درجة او اكثر في لعبة النجاة."</string>
     <string name="Survive_but_do_not_win_a_survival_game_">"البقاء على قيد الحياة في لعبة النجاة دون الفوز بها."</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"الفوز بـ 8 أهداف او اكثر في لعبة كرة القدم."</string>
@@ -317,7 +318,7 @@
     <string name="Translations">"المـتـرجمـون"</string>
     <string name="Developers">"المـطـورون"</string>
     <string name="Special_Thanks">"شُـكـر خـاص"</string>
-    <string name="Many_Thanks_To_Every_Nebulous_Fan">"شُـكـر كـبـيـر لـكـل مـشـجـعي Nebulous!"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"شُـكـر كـبـيـر لـكـل مـشـجـعيـنs!"</string>
     <string name="Color_Blind">"عمى الألوان"</string>
     <string name="Daily_Quest_Complete_">"تم إنجاز المهمة اليومية !"</string>
     <string name="COPY_ID">"نسخ رقم الهوية"</string>
