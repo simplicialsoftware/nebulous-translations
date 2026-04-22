@@ -263,7 +263,7 @@
 
 
     <string name="JOIN_CLAN">"انضم للعشيرة"</string>
-    <string name="JOIN_RANDOM_CLAN">"انضمام لعشيرة عشوائية"</string>
+    <string name="JOIN_RANDOM_CLAN">"الأنضمام الى عشيرة عشوائية"</string>
     <string name="LEAVE_CLAN">"الخروج من العشيرة"</string>
     <string name="INVITE_MEMBER">"دعوة لاعب"</string>
     <string name="REMOVE_MEMBER">"إزالة العضو"</string>
@@ -307,7 +307,7 @@
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"الفوز بـ 2500 درجة او اكثر في لعبة حر للجميع بالتوقيت."</string>
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"الفوز بـ 7500 درجة او اكثر في لعبة الفرق بالتوقيت."</string>
     <string name="Win_by_3_points_in_a_CTF_game_">"الفوز بـ 3 نقاط في لعبة إمساك العلم."</string>
-    <string name="Score_3_points_in_a_single_CTF_game_">"تسجيل 3 نقاط في لعبة إمساك العلم واحدة."</string>
+    <string name="Score_3_points_in_a_single_CTF_game_">"(تسجيل 3 نقاط في لعبة إمساك العلم (في مرة واحدة."</string>
     <string name="Win_by_2_500_points_in_a_Survival_game_">"الفوز بـ2500 درجة او اكثر في لعبة النجاة."</string>
     <string name="Survive_but_do_not_win_a_survival_game_">"البقاء على قيد الحياة في لعبة النجاة دون الفوز بها."</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"الفوز بـ 8 أهداف او اكثر في لعبة كرة القدم."</string>
@@ -317,7 +317,7 @@
     <string name="Translations">"المـتـرجمـون"</string>
     <string name="Developers">"المـطـورون"</string>
     <string name="Special_Thanks">"شُـكـر خـاص"</string>
-    <string name="Many_Thanks_To_Every_Nebulous_Fan">"شُـكـر كـبـيـر لـكـل مـشـجـعي Nebulous!"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"شُـكـر كـبـيـر لـكـل مـشـجـعيـن Nebulous!"</string>
     <string name="Color_Blind">"عمى الألوان"</string>
     <string name="Daily_Quest_Complete_">"تم إنجاز المهمة اليومية !"</string>
     <string name="COPY_ID">"نسخ رقم الهوية"</string>
