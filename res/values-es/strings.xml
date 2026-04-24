@@ -378,7 +378,7 @@
     <string name="Clan_Warrior">"Guerrero del Clan"</string>
     <string name="Win_a_Clan_War">"Gana una Guerra de Clanes"</string>
     <string name="Global">"Global"</string>
-    <string name="Spectating">"Espectando"</string>
+    <string name="Spectating">"Observando"</string>
 
 
     <string name="snowflakes_">"copos de nieve "</string>
@@ -636,7 +636,7 @@
     <string name="Teleport_100_Times">"Teletranspórtate 100 veces"</string>
     <string name="Shoot_20_Powerups_Without_Restarting">"Dispara 20 poderes sin reiniciar"</string>
     <string name="Request_Timed_Out">"Tiempo de espera agotado"</string>
-    <string name="You_Are_Spectating_">"Estás espectando"</string>
+    <string name="You_Are_Spectating_">"Estás observando"</string>
     <string name="Account_In_Use_">"La cuenta está en uso"</string>
     <string name="Cannot_Join_Arena_">"No te puedes unir a la Arena "</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"Si sales, ¡te desconectarás de la partida actual!"</string>
@@ -879,7 +879,7 @@
     <string name="SIGN_OUT_ALL_DEVICES">DESCONECTAR TODOS LOS DISPOSITIVOS</string>
     <string name="Tournament_Forming">Formando Torneo</string>
     <string name="TeamTourneyDescription">Tú y tu compañero deben registrarse para jugar en el torneo por equipos. Se descontará el plasma una vez haya comenzado el torneo, pero pueden cancelar el registro antes de que comience. Se requieren al menos %d participantes para empezar.</string>
-    <string name="Free_Agent">Agente Gratis</string>
+    <string name="Free_Agent">Jugar sin equipo</string>
     <string name="This_player_selected_a_different_teammate_">Este jugador seleccionó un compañero diferente </string>
     <string name="muted_until">silenciado hasta</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">La calidad de la aplicación podría cambiar cuando se está en multijugador</string>
@@ -926,7 +926,7 @@
     <string name="ENABLED">"ACTIVADO"</string>
     <string name="Enable_Custom_Blob_Color">"Activar Color Personalizado de Blob"</string>
     <string name="Choose_Menu">"Elige el menú"</string>
-    <string name="SPECTATE">"ESPECTAR"</string>
+    <string name="SPECTATE">"OBSERVAR"</string>
     <string name="INVITE">INVITAR</string>
     <string name="error_1">Sólo el LÍDER o el COLÍDER pueden enviar un correo.</string>
     <string name="Hat">Sombrero</string>
