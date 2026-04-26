@@ -861,7 +861,7 @@
     <string name="Wheel_Of_Nebulous_">"Nebulous Çarkı!"</string>
     <string name="XP_2x">"XP 2x"</string>
     <string name="XP_3x">"XP 3x"</string>
-    <string name="NOW">"ŞİMDİ"</string>
+    <string name="NOW">"Yeni"</string>
     <string name="Team_Deathmatch_Domination">"Takımlı Hakimiyet Ölüm Müsabakası"</string>
     <string name="We_Will_Survive">"Hayatta Kalacağız"</string>
     <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Takımlı Ölüm Müsabakasında en az 5 kişi var ken kazanın."</string>
@@ -870,7 +870,7 @@
     <string name="Win_a_Team_Deathmatch_Game">"Bir Takımlı Ölüm Müsabakası Kazan"</string>
     <string name="TEAM_DEATHMATCH">"Takımlı Ölüm Müsabakası"</string>
     <string name="Speed_Click_Toggle">"Yem Atma Hızı Seçme Butonu"</string>
-    <string name="MOD">"MODERATÖR"</string>
+    <string name="MOD">"MODERATOR"</string>
     <string name="FAQ">"Sıkça Sorulan Sorular"</string>
     <string name="BUY_EXTRA_SPINS">"FAZLADAN ÇEVİRME SATIN ALIN"</string>
     <string name="Spins_Remaining">"Kalan Ücretsiz Çevirme Hakkınız"</string>
@@ -888,7 +888,7 @@
     <string name="LOAD">"YÜKLE"</string>
     <string name="REMOVE">"KALDIR"</string>
     <string name="BAN">"YASAK"</string>
-    <string name="MODERATORS">"MODERATÖRLER"</string>
+    <string name="MODERATORS">"MODERATORLER"</string>
     <string name="ALL_CLAN">"TÜM\nKLAN"</string>
     <string name="CO_LEADER">"LİDER YARDIMCISI"</string>
     <string name="CLAN_HOUSE">"KLAN EVİ"</string>
@@ -944,7 +944,7 @@
     <string name="enable_notifications">"Bildirimleri Etkinleştirin"</string>
     <string name="PROMOTE_MEMBER">"RÜTBEYİ YÜKSELT"</string>
     <string name="DEMOTE_MEMBER">"RÜTBEYİ DÜŞÜR"</string>
-    <string name="HAPPY_BIRTHDAY_">"İYİ Kİ DOĞDUN NEBULOUS!"</string>
+    <string name="HAPPY_BIRTHDAY_">"İYİ Kİ DOĞDUN"</string>
     <string name="Years">"Yıllar"</string>
     <string name="Friend_Added_">"Arkadaş Eklendi!"</string>
     <string name="_in_a_16x_Split_Game">"16x Bölünme Oyunu"</string>
@@ -999,8 +999,8 @@ Oyunun kurallarını çiğneyen bir oyuncuyu fark ederseniz, lütfen bir "Modera
     <string name="BANNED">"YASAKLANDI"</string>
     <string name="CLAN_MEMBERS">"KLAN ÜYELERİ"</string>
     <string name="CLAN_REQUESTS">"KLANA KATILIM İSTEKLERİ"</string>
-    <string name="Pet_1">"Pet 1"</string>
-    <string name="Pet_2">"Pet 2"</string>
+    <string name="Pet_1">"hayvan 1"</string>
+    <string name="Pet_2">"hayvan 2"</string>
     <string name="Second_Pet">"Aynı anda iki evcil hayvan kullanmanıza olanak tanır!"</string>
     <string name="This_item_requires">"Bu öge gerekmektedir."</string>
     <string name="not_enough_plasma">"Yeterli Plazma Yok."</string>
