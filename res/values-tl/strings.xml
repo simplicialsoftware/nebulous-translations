@@ -1079,7 +1079,7 @@
     <string name="Win_10_Tournaments">Manalo ng 10 Tournaments</string>
     <string name="Win_100_Tournaments">Manalo ng 100 Tournaments</string>
     <string name="HERO">HERO</string>
-    <string name="CHAMPION">CKampeon</string>
+    <string name="CHAMPION">KAMPEON</string>
     <string name="DASH">DASH</string>
     <string name="setting_changed">Ang Setings ay na-update na. Maaari ka munang mag-reconnect sa server para ito ay um-epekto.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Mag-Perform ng 10,000 tricks sa isang Trick Mode game.</string>
@@ -1113,7 +1113,7 @@
     <string name="Custom_Skin_Reviewed_Notification">Ang iyong Custom Skin ay Nasuri!</string>
     <string name="You_Have_Mail_">Mayroon kang Mail Mula Kay %s!</string>
     <string name="Clan_Request_Reviewed_Notification">Ang Iyong Request Para Makasali Sa Clan %s Ay Nasuri!</string>
-    <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
+    <string name="CRAZY_SPLIT">BALIW NA PAGHIWALAY 32x</string>
     <string name="Sold_Community_Skins_">"Mga Naibetang Community Skins: "</string>
     <string name="Estimated_Earnings_">"Mga-Estimated Earnings: "</string>
     <string name="South_Africa">Timog Africa</string>
@@ -1157,7 +1157,7 @@ Commands:
     <string name="delete_prompt">Sigurado ka bang gusto mong tanggalin ang iyong account? Ito ay PERMANENTE at HINDI NA MAIBABALIK!</string>
 
 
-    <string name="Type">Type</string>
+    <string name="Type">Uri</string>
     <string name="Complete_campaign_mission_">Kumpletuhin ang misyong kampanya</string>
     <string name="Specify_Reason_">I-Specify ang Rason:</string>
     <string name="FREE_FOR_ALL">LIBRE SA LAHAT</string>
