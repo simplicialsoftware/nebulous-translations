@@ -1074,7 +1074,7 @@
     <string name="INVERT_SELECTION">INVERT\nSELECTION</string>
     <string name="MINIMAP">MINIMAP</string>
     <string name="Victorious">Victorious</string>
-    <string name="Dominant">Dominant</string>
+    <string name="Dominant">Nangingibabaw</string>
     <string name="Champion">Kampeon</string>
     <string name="Win_10_Tournaments">Manalo ng 10 Tournaments</string>
     <string name="Win_100_Tournaments">Manalo ng 100 Tournaments</string>
@@ -1097,10 +1097,10 @@
     <string name="x4_Clan_XP_Perm">4x Clan XP Permanente!</string>
     <string name="x4_Clan_XP_7_days">4x Clan XP 7 na Araw</string>
     <string name="x4_Clan_XP_1_Day">4x Clan XP 1 na Araw</string>
-    <string name="CHARGE_UP">CHARGE UP</string>
+    <string name="CHARGE_UP">MAG-CHARGE UP</string>
     <string name="CLAN_DESCRIPTION_COLOR">KULAY NG CLAN DESKRIPSYON</string>
     <string name="Responsible_Pet_Owner">Responsibleng May-Ari ng Alaga</string>
-    <string name="Animal_Tamer">Animal Tamer</string>
+    <string name="Animal_Tamer">Tagapaamo ng Hayop</string>
     <string name="Crocodile_Hunter">Mangangaso ng Crocodile</string>
     <string name="Get_A_Pet_To_Level_X_">I-level-up ang alaga mo sa lebel %d.</string>
     <string name="plasma_boost_info">"Makakakuha ka ng tatlong beses na plasma mula sa lahat ng IN-GAME na source habang aktibo ang boost! Kabilang dito ang arena at mga panalo sa tournament! HINDI gumagana sa mga pagbili ng plasma, mga spins, o mga espesyal na gantimpala."</string>
