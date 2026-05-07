@@ -74,6 +74,7 @@
     <string name="OK">"OK"</string>
     <string name="CANCEL">"CANCELAR"</string>
     <string name="Chat_Name">"Nome do Chat"</string>
+	<string name="Signed_in_as_">"Conectado como:"</string>
     <string name="Max_People">"Máx. de Pessoas"</string>
     <string name="START">"COMEÇAR"</string>
     <string name="CREATE">"CRIAR"</string>
@@ -88,8 +89,8 @@
     <string name="Green_Team">"Equipe Verde"</string>
     <string name="Blue_Team">"Equipe Azul"</string>
     <string name="Yellow_Team">"Equipe Amarela"</string>
-    <string name="Signed_in_as_">"Logado como:"</string>
-    <string name="Not_signed_in_">"Não logado!"</string>
+    
+    <string name="Not_signed_in_">"Não conectado!"</string>
     <string name="SET_NAME">"DEFINIR NOME"</string>
     <string name="SIGN_OUT">"SAIR"</string>
     <string name="ACHIEVEMENTS">"CONQUISTAS"</string>
@@ -160,14 +161,14 @@
     <string name="Mega_Gulp">"Mega Devorador"</string>
     <string name="Ultra_Gulp">"Ultra Devorador"</string>
     <string name="Monster_Gulp">"Devorador Monstruoso"</string>
-    <string name="Ludicrous_Gulp">"Devorador Ridiculo"</string>
+    <string name="Ludicrous_Gulp">"Devorador Ridículo"</string>
 
     <string name="Blobicide">"Blobicídio"</string>
-    <string name="Blobtrocity">"Blobtrocidade"</string>
+<string name="Blobatrocity">"Blobatrocidade"</string>
     <string name="Blobaccre">"Blobacre"</string>
     <string name="Blobastrophe">"Blobástrofe"</string>
-    <string name="Blobihilation">"Blobiquilação"</string>
-    <string name="Blobageddon">"Blobagedon"</string>
+    <string name="Blobaniquilação">"Blobaniquilação"</string>
+  <string name="Blobageddon">"Blobageddon"</string>
     <string name="Blobocalypse">"Blobocalipse"</string>
 
     <string name="Experienced_Nebulator">"Nebulador Experiente"</string>
@@ -307,8 +308,7 @@
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Ganhar por 2.500 pontos em um jogo de FFA com Tempo."</string>
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Ganhar por 7.500 pontos em um jogo de Equipes com Tempo"</string>
     <string name="Win_by_3_points_in_a_CTF_game_">"Vencer por 3 pontos em um jogo de CAB."</string>
-    <string name="Score_3_points_in_a_single_CTF_game_">"Ganhar 3 pontos em um único jogo de CAB."</string>
-    <string name="Win_by_2_500_points_in_a_Survival_game_">"Vencer por 2,500 pontos em um jogo de Sobrevivência."</string>
+<string name="Score_3_points_in_a_single_CTF_game_">"Marcar 3 pontos em um único jogo de CAB."</string>
     <string name="Survive_but_do_not_win_a_survival_game_">"Sobreviver mas não ganhar um jogo de sobrevivência."</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"Vencer por 8 pontos em um jogo de Futebol."</string>
     <string name="Score_3_goals_in_a_single_Soccer_game_">"Marcar 3 gols em um único jogo de futebol."</string>
@@ -317,8 +317,8 @@
     <string name="Translations">"Traduções"</string>
     <string name="Developers">"Desenvolvedores"</string>
     <string name="Special_Thanks">"Agradecimentos Especiais"</string>
-    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Muito Obrigado a todos os fãs do Nebulous"</string>
-    <string name="Color_Blind">"Daltônico"</string>
+<string name="Many_Thanks_To_Every_Nebulous_Fan">"Muito obrigado a todos os fãs do Nebulous"</string> 
+	<string name="Color_Blind">"Daltônico"</string>
     <string name="Daily_Quest_Complete_">"Tarefa Diária Concluída!"</string>
     <string name="COPY_ID">"COPIAR ID"</string>
     <string name="My_Account_ID">"ID da Minha Conta"</string>
@@ -471,7 +471,7 @@
     <string name="ENTER">"ENTRAR"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Praticar"</string>
-    <string name="ArenaDescription">Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou "pontos gratuitos" resultará em um banimento.</string>
+ <string name="ArenaDescription">"Você terá apenas uma vida. O vencedor receberá %s plasma. Negociar vitórias ou 'pontos gratuitos' resultará em um banimento."</string>
     <string name="Contestant">"Competidor"</string>
     <string name="Duelist">"Duelista"</string>
     <string name="Gladiator">"Gladiador"</string>
@@ -484,12 +484,12 @@
 
     <string name="Already_in_arena_">"Já está na arena."</string>
     <string name="Already_in_queue_">"Já está na fila."</string>
-    <string name="Invalid_Account_ID_">"ID da conta Inválido."</string>
+    <string name="Invalid_Account_ID_">"ID da conta inválido."</string>
 
     <string name="Validating">"Validando"</string>
 
-    <string name="Randomize">"Aleatória"</string>
-
+    <string name="Randomize">"Aleatorizar"</string>
+	
     <string name="Harassment">"Assédio"</string>
 
     <string name="_2v2">"2v2"</string>
