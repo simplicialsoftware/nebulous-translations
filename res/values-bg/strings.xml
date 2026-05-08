@@ -2,13 +2,13 @@
 
     <string name="Players">"Играчи"</string>
     <string name="Control_">"Контрол:"</string>
-    <string name="CLOSE">"БЛИЗО"</string>
-    <string name="Stick_Size_">"Придържайте Размер:"</string>
-    <string name="Stick_Margin_">"Придържайте границата:"</string>
+    <string name="CLOSE">"ЗАТВОРИ"</string>
+    <string name="Stick_Size_">"Размер на джойстика" Размер:"</string>
+    <string name="Stick_Margin_">"Отстояние на джойстика:"</string>
     <string name="Button_Size_">"Размер на бутона:"</string>
     <string name="Button_Margin_">"Граница на бутона:"</string>
-    <string name="Buttons_">"Бутони:"</string>
-    <string name="DEFAULTS">"Различни"</string>
+    <string name="Buttons_">"ПО ПОДРАЗБИРАНЕ:"</string>
+    <string name="DEFAULTS">"Придържайте границата"</string>
     <string name="WEEKLY">"СЕДМИЧЕН"</string>
     <string name="DAILY">"ДНЕВЕН"</string>
     <string name="Server_">"Сървър:"</string>
