@@ -962,14 +962,14 @@
     <string name="Channel">Channel</string>
     <string name="Choose_Text_Size">Pumili ng Laki ng Text</string>
     <string name="LEVEL_COLOR">KULAY NG LEBEL</string>
-    <string name="INITIATE">INITIATE</string>
+    <string name="INITIATE">MAGPASIMULA</string>
     <string name="x3_Clan_XP_Perm">3x Clan XP ay Permanente na!</string>
     <string name="x2_Clan_XP_Perm">2x Clan XP ay Permanente na!</string>
     <string name="Japan">Hapon</string>
     <string name="South_Korea">Timog-Korea</string>
     <string name="Asia">Asya</string>
     <string name="SET_PRIVACY">I-SET ANG PRIVACY</string>
-    <string name="ANIMATION">ANIMATION</string>
+    <string name="ANIMATION">ANIMASYON</string>
     <string name="Color_Cycle">Siklo / Ikot ng Kulay</string>
     <string name="Fast">Mabilis</string>
     <string name="Slow">Mabagal</string>
@@ -992,7 +992,7 @@
     <string name="PUBLIC">PUBLIKO</string>
     <string name="PRIVATE">PRIBADO</string>
     <string name="Joined">Sumali</string>
-    <string name="Requests">Requests</string>
+    <string name="Requests">Kahilingan</string>
     <string name="Invites">Nag-imbita</string>
     <string name="Show_Spectator_Count">Tignang ang Bilang ng mga Spectator</string>
     <string name="TRY_IT_">SUBUKAN MO!</string>
@@ -1176,7 +1176,7 @@ Commands:
     <string name="Tutorial">Tutorial</string>
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">KULAY NG CLAN BACKGROUND</string>
-    <string name="activate">Activate</string>
+    <string name="activate">I-activate</string>
     <string name="clan_id">CLAN ID</string>
     <string name="language_change_warning">Ang Pagbabago ng wika ay magre-resulta sa app na mag-restart.</string>
     <string name="xmas_gift_boost_message">You\'ve (Ikaw) ay nakatanggap ng regalo ng 3x plasma boost para sa 1 araw!</string>
@@ -1188,7 +1188,7 @@ Commands:
     <string name="You_are_already_friends_">Kayo ay mag-kaibigan na.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Ang Account ay Kailangang 1 day na matagal para makapag-send ng mail.</string>
     <string name="Translator">Tagasalin</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">TAGUMPAY</string>
 
 
     <string-array name="control_modes">
