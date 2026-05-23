@@ -13,21 +13,21 @@
     <string name="Server_">"Servidor:"</string>
     <string name="Game_Mode_">"Modo de Jogo:"</string>
     <string name="Show_Names">"Mostrar Nomes"</string>
-    <string name="Show_Avatars">"Mostrar Skins"</string>
+    <string name="Show_Avatars">"Mostrar Avatares"</string>
     <string name="PLAY">"JOGAR"</string>
     <string name="OPTIONS">"OPÇÕES"</string>
 
-    <string name="Avatar_">"Skin:"</string>
+    <string name="Avatar_">"Avatar"</string>
     <string name="Name_">"Nome:"</string>
 
     <string name="Loading___">"Carregando…"</string>
     <string name="Connecting___">"Conectando…"</string>
 
-    <string name="Are_You_Sure_">"Você tem Certeza?"</string>
+    <string name="Are_You_Sure_">"Você tem certeza?"</string>
     <string name="Yes">"Sim"</string>
     <string name="No">"Não"</string>
     <string name="WAIT">"AGUARDE…"</string>
-    <string name="Must_Specify_Name_">"É Necessário Especificar um Nome."</string>
+    <string name="Must_Specify_Name_">"Nome já em uso."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Classificação de conteúdo do aplicativo pode mudar quando encontrar grupos."</string>
 
@@ -57,13 +57,13 @@
     <string name="SERVER">"SERVIDOR"</string>
     <string name="Joining_game_in_">"Entrando no jogo em "</string>
     <string name="Game_Full">"Jogo Cheio"</string>
-    <string name="US_East">"América Central"</string>
-    <string name="US_West">"América do Norte"</string>
+    <string name="US_East">"Costa Leste dos EUA"</string>
+    <string name="US_West">"Costa Oeste dos EUA "</string>
     <string name="Europe">"Europa"</string>
-    <string name="South_America">"Brasil"</string>
+    <string name="South_America">"América do Sul"</string>
 
 
-    <string name="SINGLE_PLAYER">"ÚNICO JOGADOR"</string>
+    <string name="SINGLE_PLAYER">"Um Jogador"</string>
     <string name="Background_">"Fundo:"</string>
     <string name="Difficulty_">"Dificuldade:"</string>
     <string name="Delay_Disconnect">"Atrasar a Desconexão"</string>
@@ -88,8 +88,8 @@
     <string name="Green_Team">"Equipe Verde"</string>
     <string name="Blue_Team">"Equipe Azul"</string>
     <string name="Yellow_Team">"Equipe Amarela"</string>
-    <string name="Signed_in_as_">"Logado como:"</string>
-    <string name="Not_signed_in_">"Não logado!"</string>
+    <string name="Signed_in_as_">"Conectado como:"</string>
+    <string name="Not_signed_in_">"Não conectado!"</string>
     <string name="SET_NAME">"DEFINIR NOME"</string>
     <string name="SIGN_OUT">"SAIR"</string>
     <string name="ACHIEVEMENTS">"CONQUISTAS"</string>
@@ -117,7 +117,7 @@
     <string name="Bot">"Bot"</string>
     <string name="You">"Você"</string>
     <string name="This_player_is_a_bot">"Este jogador é um bot."</string>
-    <string name="This_player_is_not_signed_in">"Este jogador não está logado."</string>
+    <string name="This_player_is_not_signed_in">"Este jogador não está conectado."</string>
 
     <string name="Online">"Online"</string>
     <string name="Unknown">"Desconhecido"</string>
@@ -139,7 +139,7 @@
     <string name="FFA_TIME">"FFA COM TEMPO"</string>
     <string name="TEAMS">"EQUIPES"</string>
     <string name="TEAMS_TIME">"EQUIPES COM TEMPO"</string>
-    <string name="CTF">"CAB"</string>
+    <string name="CTF">"Capture a Bandeira""</string>
     <string name="SURVIVAL">"SOBREVIVÊNCIA"</string>
 
 
