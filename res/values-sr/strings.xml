@@ -1070,7 +1070,7 @@
     <string name="Pack">Pakovanje</string>
     <string name="Skin_Pack">Pakovanje Skinova</string>
     <string name="SKIN_PACK">PAKOVANjE SKINOVA</string>
-    <string name="HALLOWEEN">NOC VESTICA</string>
+    <string name="HALLOWEEN">Noc Vestica</string>
 
     <string name="pack_info">Nakon kupovine ovog skin paketa,vasi ekskluzivni skinovi bice prikazani na vrhu menija za izbor skinova.</string>
 
@@ -1104,7 +1104,7 @@
     <string name="Failed_to_join">Pridruzivanje neuspesno</string>
     <string name="Full">Puno</string>
     <string name="Tricks_Performed_">Navezbani Trikovi:</string>
-    <string name="Not_enough_plasma_">Nemate dovoljno plazme!</string>
+    <string name="Not_enough_plasma_">Nemate dovoljno Plazme!</string>
     <string name="GET_PLASMA">KUPITE PLAZMU</string>
     <string name="ASTEROIDS">ASTEROIDI</string>
     <string name="CHRISTMAS">BOZIC</string>
@@ -1126,7 +1126,7 @@
     <string name="Session_Stats">Sednica Ugleda</string>
     <string name="Time_">Vreme:</string>
     <string name="Show_Session_Stats">Prikazati Sednicu Ugleda</string>
-    <string name="VALENTINES_DAY">"DAN ZALjUBLjENIH"</string>
+    <string name="VALENTINES_DAY">"Dan Zaljubljenih"</string>
     <string name="Giveaways_">Pokloni!</string>
     <string name="Max_XP_Chain_">Najveca ISKUSTVENA Mreza:</string>
     <string name="POSITION_CANCEL_BUTTON">DUGME OTKAZANE POZICIJE</string>
@@ -1217,10 +1217,10 @@
     <string name="XP_4x">ISKUSTVO 4x</string>
     <string name="You_cannot_play_for_x_minutes_">Ne mozete igrati %d minuta.</string>
     <string name="x4_Clan_XP_Perm">4x Klan ISKUSTVO Trajno!</string>
-    <string name="x4_Clan_XP_7_days">4x Klan ISKUSTVO 7 dana</string>
-    <string name="x4_Clan_XP_1_Day">4x Klan ISKUSTVO 1 dan</string>
+    <string name="x4_Clan_XP_7_days">4x KLAN ISKUSTVO 7 dana</string>
+    <string name="x4_Clan_XP_1_Day">4x KLAN ISKUSTVO 1 dan</string>
     <string name="CHARGE_UP">NAPUNITE</string>
-    <string name="CLAN_DESCRIPTION_COLOR">BOJA OPISA KLANA</string>
+    <string name="CLAN_DESCRIPTION_COLOR">Boja Opisa Klana</string>
     <string name="Responsible_Pet_Owner">Odgovorni Vlasnik Kucnih Ljubimaca</string>
     <string name="Animal_Tamer">Trener Zivotinja</string>
     <string name="Crocodile_Hunter">Krokodilski Lovac</string>
@@ -1235,7 +1235,7 @@
     <string name="Custom_Skin_Reviewed_Notification">Vas prilagodjen skin je pregledan!</string>
     <string name="You_Have_Mail_">Dobili ste mail od %s!</string>
     <string name="Clan_Request_Reviewed_Notification">Vas zahtev za ulazak u klan %s je pregledan!</string>
-    <string name="CRAZY_SPLIT">LUDO ODVAJANjE 32x</string>
+    <string name="CRAZY_SPLIT">Ludo Odvajanje 32x</string>
     <string name="Sold_Community_Skins_">"Prodat Zajednicki Skin: "</string>
     <string name="Estimated_Earnings_">"Procenjena Zarada: "</string>
     <string name="South_Africa">Juzna Afrika</string>
@@ -1243,14 +1243,14 @@
     <string name="WALLS">ZIDOVI</string>
     <string name="COMP_BANNED">KOMP ZABRANjEN</string>
     <string name="FIND_GAMES">PRONADjITE IGRU</string>
-    <string name="PLAY_SOLO">IGRAJTE SOLO</string>
+    <string name="PLAY_SOLO">Igrajte Solo</string>
     <string name="SET_EMOTE">POSTAVITI EMOCIJU</string>
     <string name="Winner_Winner_Chicken_Dinner">Pobednik Pobednik Pileca Vecera!</string>
     <string name="Win_a_Battle_Royale_">Pobedite u Kraljevskoj Bitci.</string>
-    <string name="Battle_">Bitka!</string>
+    <string name="Battle_">BITKA!</string>
     <string name="BATTLE_ROYALE">KRALjEVSKA BITKA</string>
     <string name="Battle_Royale">Kraljevska Bitka</string>
-    <string name="The_winner_will_receive_x_plasma_">Pobednik dobija %s plazme!</string>
+    <string name="The_winner_will_receive_x_plasma_">Pobednik dobija % plazme!</string>
     <string name="admin_commands">"
 Komande admina:
 !kick [0–31] (Izbaciti igraca)
