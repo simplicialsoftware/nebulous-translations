@@ -1260,7 +1260,9 @@ Commands:
 !admin {id}
 !allow {id}
 !allow reset"
-</string>
+!winner
+!team 1 {red} team 2 {Green} team 3 {yellow} team 4 {blue}
+ </string>
     <string name="ID_Sort">ID Sort</string>
     <string name="Master_Tamer">Master Tamer</string>
     <string name="Get_ALL_Pets_To_Level_100_">Get ALL Pets To Level 100</string>
