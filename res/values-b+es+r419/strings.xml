@@ -333,7 +333,7 @@
     <string name="Win_a_Teams_Time_Game">"Gana una partida de Equipos Tiempo"</string>
     <string name="Reach_a_score_of_">"Alcanza una puntuación de "</string>
     <string name="_in_a_FFA_Game">" en una partida de TCT"</string>
-    <string name="_in_a_Teams_Game">" en un partida de Equipos"</string>
+    <string name="_in_a_Teams_Game">" en una partida de Equipos"</string>
     <string name="_dots">" Puntos"</string>
     <string name="_player_blobs">" Blobs del jugador"</string>
     <string name="Absorb_">"Absorber "</string>
@@ -969,7 +969,7 @@ Reglas de Nebulous\n
 Si no cumples con alguna de estas reglas, tu cuenta podría ser suspendida.\n
 (El tiempo del castigo puede ser de unas pocas horas a un Ban PERMANENTE, dependiendo de la situación y gravedad del problema).\n
         \n
-Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciarlo a un Moderador.
+Si ves a un jugador que esté rompiendo las reglas del juego, por favor, denúncialo a un Moderador.
     </string>
     <string name="Blob_Chat_Bubbles">Burbuja de Chat</string>
     <string name="CHRISTMAS_ADVENT_SKINS">ADVIENTO NAVIDEÑO</string>
