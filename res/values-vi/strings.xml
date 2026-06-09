@@ -26,8 +26,8 @@
     <string name="Are_You_Sure_">"Bạn có chắc không?"</string>
     <string name="Yes">"Có"</string>
     <string name="No">"Không"</string>
-    <string name="WAIT">"CHỜ ĐỢI…"</string>
-    <string name="Must_Specify_Name_">"Phải ghi rõ tên."</string>
+    <string name="WAIT">"ĐANG CHỜ…"</string>
+    <string name="Must_Specify_Name_">"Vui lòng nhập tên."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"đánh giá ứng dụng có thể thay đổi khi tìm kiếm nhóm."</string>
 
@@ -39,9 +39,9 @@
     <string name="WINNER_">"NGƯỜI CHIẾN THẮNG:"</string>
     <string name="IDLE">"Lâu không hoạt động sẽ tự rời phòng"</string>
     <string name="Name_Invalid_">"Tên không hợp lệ."</string>
-    <string name="Name_Taken_">"Tên đã đăng ký."</string>
+    <string name="Name_Taken_">"Tên đã được sử dụng."</string>
     <string name="CONNECTED">"ĐÃ KẾT NỐI"</string>
-    <string name="JOINING___">"ĐANG VÀO …"</string>
+    <string name="JOINING___">"Đang vào phòng..."</string>
     <string name="PLAYING">"ĐANG CHƠI"</string>
     <string name="MULTIPLAYER">"NHIỀU NGƯỜI CHƠI"</string>
 
@@ -66,20 +66,20 @@
     <string name="SINGLE_PLAYER">"OFFLINE"</string>
     <string name="Background_">"Nền:"</string>
     <string name="Difficulty_">"Mức độ:"</string>
-    <string name="Delay_Disconnect">"Kết nối bị hoãn"</string>
+    <string name="Delay_Disconnect">"Mất kết nối tạm thời"</string>
 
     <string name="Max_Players">"Tối đa"</string>
     <string name="Min_Players">"Tối thiểu"</string>
 
-    <string name="OK">"ĐƯỢC RỒI"</string>
-    <string name="CANCEL">"Trở ra"</string>
-    <string name="Chat_Name">"Tên"</string>
-    <string name="Max_People">"Tối Đa"</string>
+    <string name="OK">"XÁC NHẬN"</string>
+    <string name="CANCEL">"HỦY"</string>
+    <string name="Chat_Name">"TÊN"</string>
+    <string name="Max_People">"TỐI ĐA"</string>
     <string name="START">"BẮT ĐẦU"</string>
     <string name="CREATE">"TẠO"</string>
-    <string name="CUSTOM_GAMES">"THỂ LOẠI"</string>
+    <string name="CUSTOM_GAMES">"PHÒNG TÙY CHỈNH"</string>
     <string name="CHAT">"TRÒ CHUYỆN"</string>
-    <string name="CUSTOM_SETUP">"CÀI ĐẶT THỂ LOẠI"</string>
+    <string name="CUSTOM_SETUP">"THIẾT LẬP TÙY CHỈNH"</string>
     <string name="CHAT_SETUP">"THIẾT LẬP TRÒ CHUYỆN"</string>
 
 
@@ -97,8 +97,8 @@
     <string name="XP_">"KINH NGHIỆM:"</string>
 
     <string name="Information">"Thông tin"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Để sử dụng skin này, bạn phải giành được thành tích"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Để sử dụng skin này, bạn phải đạt đến cấp độ"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Để sử dụng trang phục này, bạn phải giành được thành tích"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Để sử dụng trang phục này, bạn phải đạt đến cấp độ"</string>
     <string name="SIGN_IN">"ĐĂNG NHẬP"</string>
 
     <string name="Single_Player_Stats">"Thống kê 1 người chơi "</string>
@@ -110,22 +110,22 @@
     <string name="FRIENDS">"BẠN BÈ"</string>
     <string name="Warning">"Cảnh báo"</string>
     <string name="SIGNING_IN">"ĐANG ĐĂNG NHẬP…"</string>
-    <string name="New_Friend_Request">"Thêm bạn mới!"</string>
+    <string name="New_Friend_Request">"Có lời mời kết bạn mới!"</string>
     <string name="REQUEST_FRIEND">"THÊM BẠN"</string>
     <string name="Private">"Riêng tư"</string>
-    <string name="Public">"Chung"</string>
+    <string name="Public">"Công khai"</string>
     <string name="Bot">"NGƯỜI MÁY"</string>
     <string name="You">"Tôi"</string>
-    <string name="This_player_is_a_bot">"Đây là NGƯỜI MÁY."</string>
+    <string name="This_player_is_a_bot">"Người chơi này là bot."</string>
     <string name="This_player_is_not_signed_in">"Người này chưa đăng nhập."</string>
 
     <string name="Online">"Trực tuyến"</string>
     <string name="Unknown">"Không Xác Định"</string>
     <string name="Offline">"Không trực tuyến"</string>
-    <string name="Achievement_Earned">"Thành tựu đã nhận"</string>
+    <string name="Achievement_Earned">"Đã đạt thành tựu"</string>
     <string name="REFRESH">"LÀM MỚI"</string>
     <string name="DONE">"XONG"</string>
-    <string name="Friend_Request_Sent">"Yêu cầu kết bạn đã gửi …"</string>
+    <string name="Friend_Request_Sent">"Đã gửi lời mời kết bạn..."</string>
     <string name="ERROR">"LỖI"</string>
     <string name="CONTINUE">"TIẾP TỤC"</string>
     <string name="Global_" formatted="false">"Toàn cầu %"</string>
@@ -210,19 +210,19 @@
     <string name="Absorb_160_player_blobs_without_restarting">"Ăn 160 đốm người chơi trong 1 lượt chơi"</string>
     <string name="Absorb_240_player_blobs_without_restarting">"Ăn 240 đốm người chơi trong 1 lượt chơi"</string>
 
-    <string name="Reach_a_score_of_1_000">"Đạt 1,000 điểm"</string>
-    <string name="Reach_a_score_of_5_000">"Đạt 5,000 điểm"</string>
-    <string name="Reach_a_score_of_10_000">"Đạt 10,000 điểm"</string>
-    <string name="Reach_a_score_of_15_000">"Đạt 15,000 điểm"</string>
-    <string name="Reach_a_score_of_20_000">"Đạt 20,000 điểm"</string>
+    <string name="Reach_a_score_of_1_000">"Đạt 1.000 điểm"</string>
+    <string name="Reach_a_score_of_5_000">"Đạt 5.000 điểm"</string>
+    <string name="Reach_a_score_of_10_000">"Đạt 10.000 điểm"</string>
+    <string name="Reach_a_score_of_15_000">"Đạt 15.000 điểm"</string>
+    <string name="Reach_a_score_of_20_000">"Đạt 20.000 điểm"</string>
 
-    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Đạt 10,000 điểm mà không bị mất bất kỳ đốm nào"</string>
-    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Đạt 5,000 điểm mà không cần tách rời"</string>
+    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Đạt 10.000 điểm mà không bị mất bất kỳ đốm nào"</string>
+    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Đạt 5.000 điểm mà không cần tách rời"</string>
     <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Chơi 5 phút mà không va vào lỗ đen"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"Chơi 5 phút mà không bị mất bất kỳ đốm nào"</string>
     <string name="Play_20_minutes_straight_without_restarting">"Chơi 20 phút trong 1 lượt chơi"</string>
-    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"Trong 30 giây đầu tiên ăn 5 lổ đen"</string>
-    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Trong 1 phút đầu tiên đạt 5,000 điểm"</string>
+    <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"Trong 30 giây đầu tiên ăn 5 lỗ đen"</string>
+    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Trong 1 phút đầu tiên đạt 5.000 điểm"</string>
     <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Bắn một lỗ đen vào người bắn bạn gần nhất trước khi khởi động lại"</string>
     <string name="Absorb_5_doges_without_restarting">"Hấp thụ 5 doges mà không cần khởi động lại"</string>
 
@@ -263,7 +263,7 @@
 
 
     <string name="JOIN_CLAN">"VÀO HỘI"</string>
-    <string name="JOIN_RANDOM_CLAN">"VÀO HỘI BẤT KÌ"</string>
+    <string name="JOIN_RANDOM_CLAN">"VÀO HỘI NGẪU NHIÊN"</string>
     <string name="LEAVE_CLAN">"RỜI HỘI"</string>
     <string name="INVITE_MEMBER">"MỜI THÀNH VIÊN"</string>
     <string name="REMOVE_MEMBER">"ĐUỔI THÀNH VIÊN"</string>
@@ -272,8 +272,8 @@
     <string name="CREATE_CLAN">"TẠO BĂNG ĐẢNG"</string>
     <string name="MEMBER">"THÀNH VIÊN"</string>
     <string name="ADMIN">"QUẢN TRỊ"</string>
-    <string name="LEADER">"KẺ CẦM ĐẦU"</string>
-    <string name="ELDER">"ĐÀN ANH"</string>
+    <string name="LEADER">"LÃNH ĐẠO"</string>
+    <string name="ELDER">"QUẢN LÍ"</string>
 
 
     <string name="Not_in_a_clan_">"Không trong hội"</string>
@@ -282,7 +282,7 @@
     <string name="CLAN">"HỘI"</string>
 
 
-    <string name="Specify_Clan_ID">Chỉ rõ ID Hội"</string>
+    <string name="Specify_Clan_ID">"Chỉ rõ ID Hội"</string>
     <string name="Show_Clan_Names">"Hiện tên hội"</string>
     <string name="Show_Levels">"Hiện cấp độ"</string>
     <string name="SET_MOTD">"Cài Đặt Thông Điệp"</string>
@@ -292,7 +292,7 @@
     <string name="No_such_clan_exists_">"Hội không tồn tại."</string>
     <string name="That_clan_is_full_">"Hội đã đủ người"</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Người này không phải là thành viên trong hội của bạn."</string>
-    <string name="_You_can_t_be_your_own_friend_">"Bạn không thế tự làm bạn của mình."</string>
+    <string name="_You_can_t_be_your_own_friend_">"Bạn không thể tự kết bạn với chính mình."</string>
     <string name="A_clan_with_that_name_already_exists_">"Tên băng đảng đó đã tồn tại."</string>
     <string name="Duration_">"Giới hạn:"</string>
 
@@ -301,7 +301,7 @@
     <string name="CTF_Domination">"Cướp cờ"</string>
     <string name="CTF_Hat_Trick">"Cướp cờ + khéo léo"</string>
     <string name="Survival_Domination">"Sinh tồn + Thống trị"</string>
-    <string name="I_Will_Survive">"Tôi sẽ sống"</string>
+    <string name="I_Will_Survive">"Tôi sẽ sống sót"</string>
     <string name="Soccer_Domination">"Bóng đá + Thống trị"</string>
     <string name="Soccer_Hat_Trick">"Bóng đá + khéo léo"</string>
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Chiến thắng với 2.500 điểm trong một trận đấu TỰ DO+THỜI GIAN"</string>
@@ -311,16 +311,16 @@
     <string name="Win_by_2_500_points_in_a_Survival_game_">"Chiến thắng với 2.500 điểm trong 1 trận đấu SINH TỒN"</string>
     <string name="Survive_but_do_not_win_a_survival_game_">"Sống sót nhưng không cần thắng 1 trò chơi SINH TỒN"</string>
     <string name="Win_by_8_points_in_a_Soccer_game_">"Chiến thắng với cách biệt 8 bàn trong 1 trận BÓNG ĐÁ"</string>
-    <string name="Score_3_goals_in_a_single_Soccer_game_">"Ghi 3 bàn trong 1 trận đấu BÓNG ĐÁ"</string>
+    <string name="Score_3_goals_in_a_single_Soccer_game_">"Ghi 3 điểm trong một trận Bóng đá"</string>
     <string name="Total_Domination">"Tổng thống trị"</string>
     <string name="Win_500_games_of_any_type_">"Chiến thắng 500 trận bất kỳ chế độ nào."</string>
     <string name="Translations">"Dịch ngôn ngữ"</string>
     <string name="Developers">"Nhà phát triển"</string>
     <string name="Special_Thanks">"Đặc biệt cảm ơn"</string>
-    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Xin cảm ơn tất cả Fan của trò chơi này"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Xin cảm ơn tất cả người hâm mộ của trò chơi này"</string>
     <string name="Color_Blind">"Tắt màu"</string>
     <string name="Daily_Quest_Complete_">"Nhiệm vụ ngày hoàn thành"</string>
-    <string name="COPY_ID">"Sao Chép ID"</string>
+    <string name="COPY_ID">"Sao chép ID"</string>
     <string name="My_Account_ID">"ID của tôi"</string>
 
 
@@ -346,7 +346,7 @@
     <string name="To_use_this_skin_you_must_collect">"Để dùng Skin này, bạn phải thu thập"</string>
     <string name="Australia">"Châu Úc"</string>
     <string name="Pumpkin_Collector">"Nhà sưu tầm bí ngô"</string>
-    <string name="Collect_1000_pumpkins_">"Thu thập 1000 bí ngô."</string>
+    <string name="Collect_1000_pumpkins_">"Thu thập 1.000 bí ngô."</string>
 
     <string name="FFAC">"CỔ ĐIỂN"</string>
     <string name="NONE">"TRỐNG"</string>
@@ -363,7 +363,7 @@
     <string name="Rating">"Đánh giá"</string>
     <string name="You_are_about_to_make_a_new_leader_">"Bạn muốn thăng chức thành viên này làm lãnh đạo"</string>
     <string name="XP">"KINH NGHIỆM"</string>
-    <string name="High_Score">"Kỷ Lục"</string>
+    <string name="High_Score">"Kỷ lục"</string>
 
 
     <string name="_3v3">"3v3"</string>
@@ -390,7 +390,7 @@
     <string name="Season">"Mùa giải: "</string>
     <string name="The_next_season_begins">"Mùa giải tiếp theo bắt đầu từ: "</string>
 
-    <string name="Current">"Này"</string>
+    <string name="Current">"Hiện tại"</string>
     <string name="leaves_">"lá."</string>
     <string name="Leaf_Collector">"Nhà sưu tầm lá"</string>
     <string name="Collect_1000_leaves_">"Thu thập 1.000 lá."</string>
@@ -402,7 +402,7 @@
 
     <string name="Triple">"Gấp ba"</string>
     <string name="Leaf_Hoarder">"Người nhặt lá"</string>
-    <string name="Collect_5000_leaves_">"Thu thập 5000 lá."</string>
+    <string name="Collect_5000_leaves_">"Thu thập 5.000 lá."</string>
 
 
     <string name="Arena">"Đấu Trường"</string>
@@ -411,15 +411,15 @@
 
     <string name="Purchase_History">"Lịch sử mua hàng"</string>
 
-    <string name="Purchases_Unavailable_">"Mua hàng không có sẵn !"</string>
-    <string name="You_can_purchase_this_skin_for">"Bạn có thể mua Skin này cho"</string>
+    <string name="Purchases_Unavailable_">"Mua hàng không có sẵn!"</string>
+    <string name="You_can_purchase_this_skin_for">"Bạn có thể mua trang phục này cho"</string>
     <string name="PURCHASE">"MUA"</string>
-    <string name="Error_in_backup_data_">"Có lỗi trong khôi phục dữ liệu !"</string>
+    <string name="Error_in_backup_data_">"Có lỗi khi khôi phục dữ liệu!"</string>
 
 
-    <string name="Remove_Ads">"Chặn quảng cáo"</string>
+    <string name="Remove_Ads">"Xoá quảng cáo"</string>
     <string name="Reward">"Phần thưởng"</string>
-    <string name="Please_Wait___">"Xin vui lòng chờ …"</string>
+    <string name="Please_Wait___">"Vui lòng chờ..."</string>
     <string name="Purchasing">"Đang mua hàng"</string>
 
     <string name="Purchase_Successful_">"Mua thành công."</string>
@@ -433,8 +433,8 @@
     <string name="You_cannot_purchase_this_right_now_">"Bạn không thể mua bây giờ."</string>
 
 
-    <string name="Loading_Purchases___">"Đang tải mua …"</string>
-    <string name="In_App_Purchases">"Mua hàng trong app"</string>
+    <string name="Loading_Purchases___">"Đang tải dữ liệu mua hàng..."</string>
+    <string name="In_App_Purchases">"Mua hàng trong ứng dụng"</string>
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Không thể dùng tăng EXP mới cho đến khi tăng EXP hiện tại hết hạn."</string>
     <string name="This_purchase_has_already_been_redeemed_">"Lần mua cũ đã được khôi phục."</string>
 
@@ -468,7 +468,7 @@
     <string name="Plasma_Collected_">"Thu thập Plasma:"</string>
     <string name="Plasma_Purchases">"Mua Plasma"</string>
 
-    <string name="ENTER">"Đăng Ký"</string>
+    <string name="ENTER">"THAM GIA"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Luyện tập"</string>
     <string name="ArenaDescription">"Những người tham gia chỉ có 1 mạng. Đánh bại đối thủ để nhận được %s plasma."</string>
@@ -546,12 +546,12 @@
     <string name="Specify_Account_ID">"Chỉ định ID tài khoản"</string>
     <string name="Team_Created_">"Đã tạo đội!"</string>
     <string name="Team_Arena">"Đội Đấu Trường"</string>
-    <string name="No_Teams">"không có đội"</string>
+    <string name="No_Teams">"Không có đội"</string>
     <string name="team_arena_info">"Khi bạn tạo ra một đội bạn có thể mời và xoá các thành viên để chơi các trận đấu đội đấu trường. Bạn không thể thay đổi tên của nhóm của bạn khi đã tạo xong!"</string>
 
 
     <string name="Invited">"Đã mời"</string>
-    <string name="Invitation_Sent">"lời mời đã được gửi"</string>
+    <string name="Invitation_Sent">"Lời mời đã được gửi"</string>
     <string name="REPORT">"BÁO CÁO"</string>
     <string name="Reported">"Đã báo cáo"</string>
     <string name="Threats">"Các mối đe dọa"</string>
@@ -574,7 +574,7 @@
     <string name="Collect_5_000_candies_">"Ăn 5.000 kẹo."</string>
     <string name="Collect_10_000_candies_">"Ăn 10.000 kẹo."</string>
     <string name="candies_">"kẹo."</string>
-    <string name="Language">"Ngôn Ngữ"</string>
+    <string name="Language">"Ngôn ngữ"</string>
     <string name="Control_Opacity_">"Độ trong suốt phím:"</string>
     <string name="You_dont_own_the_team_">"Bạn không sở hữu đội:"</string>
     <string name="User_has_already_been_invited_">"Người chơi đã được mời tham gia."</string>
@@ -582,7 +582,7 @@
     <string name="Name_is_already_in_use_">"Tên này đã được sử dụng."</string>
     <string name="User_is_not_in_the_team_">"Người chơi không có trong đội."</string>
     <string name="You_are_not_invited_to_team_">"Bạn không được mời vào đội:"</string>
-    <string name="Team_does_not_exist_">"Đội không tồn tại:"</string>
+    <string name="Team_does_not_exist_">"Đội không tồn tại."</string>
     <string name="Please_wait_a_minute_before_sending_another_report_">"Xin chờ một phút trước khi gửi một báo cáo khác."</string>
     <string name="Collect_1_000_beads_">"Thu thập 1.000 hạt."</string>
     <string name="Collect_5_000_beads_">"Thu thập 5.000 hạt."</string>
