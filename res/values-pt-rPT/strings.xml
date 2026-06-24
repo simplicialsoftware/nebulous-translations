@@ -225,7 +225,7 @@
     <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Alcançar a pontuação de 5 000 pontos num prazo de 1 minuto após início da partida"</string>
     <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Atirar um buraco negro contra o último jogador que atirou um buraco negro contra si antes de reiniciar"</string>
     <string name="Absorb_5_doges_without_restarting">"Absorver 5 doges sem reiniciar"</string>
-
+    
     <string name="Friends">"Amigos"</string>
     <string name="Dots_Eaten_">"Pontos coletados:"</string>
     <string name="Blobs_Eaten_">"Blobs comidos:"</string>
