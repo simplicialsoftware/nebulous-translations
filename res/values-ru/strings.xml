@@ -40,7 +40,7 @@
     <string name="Recombine_">"Соединение: "</string>
     <string name="WINNER_">"ПОБЕДИТЕЛЬ:"</string>
     <string name="IDLE">"ОФЛАЙН"</string>
-    <string name="Name_Invalid_">"Имя недействительно."</string>
+    <string name="Name_Invalid_">"Имя недопустимо."</string>
     <string name="Name_Taken_">"Имя уже занято."</string>
     <string name="CONNECTED">"Подключение"</string>
     <string name="JOINING___">"Присоединение…"</string>
@@ -66,9 +66,9 @@
 
 
     <string name="SINGLE_PLAYER">"ОДИНОЧНАЯ ИГРА"</string>
-    <string name="Background_">"Фон:"</string>
+    <string name="Background_">" Изображение фона:"</string>
     <string name="Difficulty_">"Сложность:"</string>
-    <string name="Delay_Disconnect">"Отключение из-за задержки"</string>
+    <string name="Delay_Disconnect">"Отключено из-за задержки"</string>
 
     <string name="Max_Players">"Максимум игроков"</string>
     <string name="Min_Players">"Минимум игроков"</string>
@@ -363,7 +363,7 @@
 
     <string name="Score">"Очки"</string>
     <string name="Rating">"Рейтинг"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"Вы собираетесь отдать ранг лидера другому игроку!"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"Вы собираетесь передать лидерство другому игроку!"</string>
     <string name="XP">"Опыт"</string>
     <string name="High_Score">"Рекорд"</string>
 
@@ -390,9 +390,9 @@
 
 
     <string name="Season">"Время года"</string>
-    <string name="The_next_season_begins">"Следующий сезон начинается"</string>
+    <string name="The_next_season_begins">"Новый сезон начинается"</string>
 
-    <string name="Current">"Текущий"</string>
+    <string name="Current">"Действующий"</string>
     <string name="leaves_">"листьев."</string>
     <string name="Leaf_Collector">"Собиратель листьев"</string>
     <string name="Collect_1000_leaves_">"Соберите 1000 листьев."</string>
@@ -473,7 +473,7 @@
     <string name="ENTER">"Войти"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Подготовка"</string>
-    <string name="ArenaDescription">"У вас только одна жизнь. Победитель получает %s плазмы."</string>
+    <string name="ArenaDescription">"У вас всего одна жизнь. Победитель получает %s плазмы."</string>
     <string name="Contestant">"Соперник"</string>
     <string name="Duelist">"Дуэлянт"</string>
     <string name="Gladiator">"Гладиатор"</string>
@@ -603,14 +603,14 @@
     <string name="CUSTOM_SKIN">"Скин"</string>
 
     <string name="Facebook_Profile">"Профиль Facebook"</string>
-    <string name="You_must_be_signed_in_to_Facebook_">"Вы должны быть авторизированы через Facebook."</string>
+    <string name="You_must_be_signed_in_to_Facebook_">"Необходима авторизация через Facebook."</string>
     <string name="copy_details">"Копировать подробности"</string>
     <string name="copied_error_details_to_clipboard">"Данные об ошибке скопированы в буфер обмена."</string>
 
     <string name="No_file_browser_installed_">"Файловый менеджер не установлен!"</string>
     <string name="Choose_File">"Выбрать файл"</string>
     <string name="Google_Profile">"Профиль Google"</string>
-    <string name="You_must_be_signed_in_to_Google_">"Вы должны быть авторизированы через Google."</string>
+    <string name="You_must_be_signed_in_to_Google_">"Необходима авторизация через Google."</string>
 
 
     <string name="MAYHEM">"ХАОС"</string>
@@ -728,7 +728,7 @@
     <string name="Refunded">"Возвращено"</string>
 
 
-    <string name="contribution_warning">"Вы уверены, что хотите сделать взнос? Это действие нельзя отменить!"</string>
+    <string name="contribution_warning">"Вы уверены, что хотите внести вклад? Это действие нельзя отменить."</string>
     <string name="Upload">"Загрузить"</string>
     <string name="upload_warning">"Вы уверены, что желаете загрузить этот скин? Все игроки смогут увидить этот скин, после того как он будет утвержден. Неприемлимые скины будут отклонены, а плазма возвращена не будет!"</string>
 
@@ -1015,7 +1015,7 @@
     <string name="Clan_Particle_Uploads">Загрузки клановых частиц</string>
     <string name="Particle_Uploads">Загрузки частиц</string>
     <string name="Blob_Outline">Грани шара</string>
-    <string name="Game_Border">Границы игровой зоны</string>
+    <string name="Game_Border">Граница игрового поля</string>
     <string name="Select_some_text_first">Сначала выбирете текст!</string>
     <string name="Save_the_profile_first">Сначала сохраните профиль!</string>
     <string name="Birthday">День рождения</string>
@@ -1294,7 +1294,7 @@
 </string>
     <string name="ID_Sort">Сортировать по ID</string>
     <string name="Master_Tamer">Главный укротитель</string>
-    <string name="Get_ALL_Pets_To_Level_100_">Довести ВСЕХ питомцев до уровня 100</string>
+    <string name="Get_ALL_Pets_To_Level_100_">Прокачайте ВСЕХ питомцев до 100 уровня</string>
     <string name="TAMER">УКРОТИТЕЛЬ</string>
     <string name="Allow_Recombine">Разрешить рекомбинацию</string>
     <string name="Defenders">Защитники</string>
@@ -1357,7 +1357,7 @@
         <item>"Перемещение к"</item>
         <item>"Уволакивание"</item>
         <item>"Двигаться при нажатии"</item>
-        <item>"Наклон"</item>
+        <item>"Наклон устройства"</item>
     </string-array>
 
     <string-array name="button_modes">
@@ -1389,7 +1389,7 @@
         <item>"Маленькое"</item>
         <item>"Нормальное"</item>
         <item>"Большое"</item>
-        <item>"HUGE"</item>
+        <item>"HUDE=Огромное"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
