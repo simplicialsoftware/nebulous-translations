@@ -1426,3 +1426,45 @@ Oturum açmak istemiyorsanız, tek oyunculu oynamaya devam edebilirsiniz."
         <item>"Normal (8'e 8)"</item>
     </string-array>
 </resources>
+<string name="_dots">" النقاط"</string>
+    <string name="_player_blobs">" دائرة اللاعب"</string>
+    <string name="Absorb_">"استوعب "</string>
+    <string name="Collect_">"جمع "</string>
+
+    <string name="FFA_CLASSIC">"حر للجميع الكلاسيكية"</string>
+
+
+    <string name="pumpkins_">"اليقطين."</string>
+    <string name="To_use_this_skin_you_must_collect">"لاستخدام هذه الصورة يجب عليك جمع"</string>
+    <string name="Australia">"أستراليا"</string>
+    <string name="Pumpkin_Collector">"جامع اليقطين"</string>
+    <string name="Collect_1000_pumpkins_">"جمع 1000 يقطينة."</string>
+
+    <string name="FFAC">"حر للجميع الكلاسيكية"</string>
+    <string name="NONE">"لا شيء"</string>
+    <string name="CLAN_WAR">"حرب العشائر"</string>
+    <string name="Clan_War">"حرب العشائر"</string>
+    <string name="Win_by_8_points_in_a_Soccer_game_">"Gana por 8 goles en un partido de Fútbol"</string>
+    <string name="Score_3_goals_in_a_single_Soccer_game_">"Marca 3 goles en un solo partido de Fútbol"</string>
+    <string name="Total_Domination">"Dominio total"</string>
+    <string name="Win_500_games_of_any_type_">"Gana 500 juegos de cualquier tipo"</string>
+    <string name="Translations">"Traducciones"</string>
+    <string name="Developers">"Desarrolladores"</string>
+    <string name="Special_Thanks">"Agradecimientos especiales"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"¡Muchas gracias a todos los fans de Nebulous!"</string>
+    <string name="Color_Blind">"Modo daltónico"</string>
+    <string name="Daily_Quest_Complete_">"¡Misión diaria completada!"</string>
+    <string name="COPY_ID">"COPIAR ID"</string>
+    <string name="My_Account_ID">"Mi ID"</string>
+
+
+    <string name="COMPLETE">"COMPLETA"</string>
+    <string name="INCOMPLETE">"INCOMPLETA"</string>
+    <string name="Win_a_FFA_Time_Game">"Gana una partida de TCT Tiempo"</string>
+    <string name="Win_a_CTF_Game">"Gana una partida de CLB"</string>
+    <string name="Win_a_Soccer_Game">"Gana un partido de Fútbol"</string>
+    <string name="Win_a_Survival_Game">"Gana una partida de Supervivencia"</string>
+    <string name="Win_a_Teams_Time_Game">"Gana una partida de Equipos Tiempo"</string>
+    <string name="Reach_a_score_of_">"Alcanza una puntuación de "</string>
+    <string name="_in_a_FFA_Game">" en una partida de TCT"</string>
+    <string name="_in_a_Teams_Game">" en un partida de Equipos"</string>
