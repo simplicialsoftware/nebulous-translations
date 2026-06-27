@@ -120,7 +120,7 @@
     <string name="This_player_is_not_signed_in">"هذا اللاعب لم يسجل الدخول"</string>
 
     <string name="Online">"مُـتَـصِـل"</string>
-    <string name="Unknown">"غير معروف"</string>
+    <string name="Unknown">"مخفي "</string>
     <string name="Offline">"غـيـر مُـتَـصِـل"</string>
     <string name="Achievement_Earned">"تم تحقيق الإنجاز"</string>
     <string name="REFRESH">"تحديث"</string>
@@ -152,7 +152,7 @@
     <string name="Dot_Gulper">"مبتلع النقاط"</string>
     <string name="Dot_Gobbler">"آكل النقاط الشره"</string>
     <string name="Dot_Devourer">"ملتهم النقاط"</string>
-    <string name="Dot_Gormandizer">"آكل النقاط الجشع"</string>
+    <string name="Dot_Gormandizer">"الة النقاط!  "</string>
     <string name="Dot_Sommelier">"ساقي النقاط!"</string>
 
     <string name="Quadra_Gulp">"ابتلاع رباعي"</string>
@@ -178,13 +178,13 @@
 
     <string name="Perfection">"الإتقان"</string>
     <string name="Single_Handedly">"عمل فردي"</string>
-    <string name="Dodgey">"ملاحق الكلاب"</string>
+    <string name="Dodgey">" مروض الحيوانات الاليفة"</string>
     <string name="Self_Contained">"اللاعب المتحفظ"</string>
     <string name="Survivalist">"المكافح"</string>
     <string name="Ultramassive">"العملاق"</string>
     <string name="Rapid_Ascension">"الصعود السريع"</string>
     <string name="Revenge">"انتقام"</string>
-    <string name="Doge_Pound">"جامع الكلاب"</string>
+    <string name="Doge_Pound">"جامع الحيوانات "</string>
 
     <string name="Absorb_50_dots">"استيعاب ٥٠ نقطة"</string>
     <string name="Absorb_300_dots">"استيعاب ٣٠٠ نقطة"</string>
@@ -584,16 +584,16 @@
     <string name="You_are_not_invited_to_team_">"لست مدعو إلى الفريق:"</string>
     <string name="Team_does_not_exist_">"لا وجود لهذا الفريق:"</string>
     <string name="Please_wait_a_minute_before_sending_another_report_">"يرجى الانتظار لمدة دقيقة قبل أن ترسل تقرير آخر."</string>
-    <string name="Collect_1_000_beads_">"جمع 1000 من الكريات."</string>
-    <string name="Collect_5_000_beads_">"جمع 5000 من الكريات."</string>
-    <string name="Collect_10_000_beads_">"جمع 10،000 من الكريات."</string>
-    <string name="Bead_Collector">"جامع الكريات"</string>
-    <string name="Bead_Hoarder">"مكدس الكريات"</string>
-    <string name="Bead_Mogul">"ملك الكريات"</string>
-    <string name="beads_">"الكريات."</string>
+    <string name="Collect_1_000_beads_">"جمع 1000 من حبيبات."</string>
+    <string name="Collect_5_000_beads_">"جمع 5000 من حبيبات."</string>
+    <string name="Collect_10_000_beads_">"جمع 10،000 من حبيبات."</string>
+    <string name="Bead_Collector">"جامع حبيبات"</string>
+    <string name="Bead_Hoarder">"مكدس حبيبات"</string>
+    <string name="Bead_Mogul">"ملك حبيبات"</string>
+    <string name="beads_">"حبيبات."</string>
 
     <string name="Rejoin_Game">"إعادة الانضمام للعبة"</string>
-    <string name="PRIZES">"الجوائز"</string>
+    <string name="PRIZES">"!الجوائز"</string>
 
     <string name="Enable_Custom_Skin">"تمكين الصور المخصصة"</string>
     <string name="Use_Custom_Skin">"الصورة المخصصة"</string>
@@ -601,14 +601,14 @@
     <string name="CUSTOM_SKIN">"الصورة المخصصة"</string>
 
     <string name="Facebook_Profile">"ملف الفيسبوك الشخصي"</string>
-    <string name="You_must_be_signed_in_to_Facebook_">"يجب أن تسجل الدخول إلى الفيسبوك."</string>
+    <string name="You_must_be_signed_in_to_Facebook_">" تسجل الدخول عن طريق الفيسبوك."</string>
     <string name="copy_details">"نسخ التفاصيل"</string>
-    <string name="copied_error_details_to_clipboard">"تم نسخ تفاصيل الخطأ إلى الحافظة"</string>
+    <string name="copied_error_details_to_clipboard">"تم نسخ تفاصيل الحافظة"</string>
 
     <string name="No_file_browser_installed_">"لا ملف متصفح مثبت!"</string>
     <string name="Choose_File">"أختر ملف"</string>
     <string name="Google_Profile">"الملف الشخصي في Google"</string>
-    <string name="You_must_be_signed_in_to_Google_">"يجب تسجيل الدخول إلى برنامج Google."</string>
+    <string name="You_must_be_signed_in_to_Google_">" تسجيل الدخول عن طريق برنامج Google."</string>
 
     <string name="MAYHEM">"نمط الفوضى"</string>
     <string name="eggs_">"البيوض."</string>
@@ -635,7 +635,7 @@
     <string name="Teleport_100_Times">"انتقال 100 مرة"</string>
     <string name="Shoot_20_Powerups_Without_Restarting">"إطلاق 20 من أسلحة القوة دون إعادة التشغيل"</string>
     <string name="Request_Timed_Out">"إنتهت مدة صلاحية الطلب"</string>
-    <string name="You_Are_Spectating_">"أنت مشاهد."</string>
+    <string name="You_Are_Spectating_">"أنت مشاهد!."</string>
     <string name="Account_In_Use_">"الحساب في قيد الاستخدام!"</string>
     <string name="Cannot_Join_Arena_">"لا يمكن دخول الحلبة."</string>
     <string name="Signing_out_will_disconnect_you_from_the_current_game">"تسجيل الخروج سيجعلك تغادر اللعبة الحالية!"</string>
@@ -651,7 +651,7 @@
     <string name="COPY_NAME">"نسخ الإسم"</string>
     <string name="Challenge_Sent">"تم إرسال التحدي!"</string>
     <string name="_1v1_Challenge_">"تحدي ١ ضد ١"</string>
-    <string name="__has_challenged_you_to_a_1v1_match_">"%s قد تحداك  العب مباراة ١ ضد ١ !"</string>
+    <string name="__has_challenged_you_to_a_1v1_match_">"%s لقد تحداك  العب مباراة ١ ضد ١ !"</string>
     <string name="Challenge_Expired">"انتهاء مدة صلاحية التحدي"</string>
     <string name="Enable_Challenges">"تمكين التحديات"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"إنتظر نهاية مدة صلاحية التحدي الحالي."</string>
@@ -666,14 +666,14 @@
     <string name="Collect_1_000_nebulas_">"جمع 1000 من السدم."</string>
     <string name="Collect_5_000_nebulas_">"جمع 5000 من السدم."</string>
     <string name="Collect_10_000_nebulas_">"جمع 10،000 من السدم."</string>
-    <string name="nebulas_">"السدم."</string>
+    <string name="nebulas_">" ملك السدم."</string>
     <string name="Incompatible_versions_">"إصدارات غير متوافقة."</string>
     <string name="Update_Available_">"يوجد تحديث!"</string>
     <string name="VIEW_INVITES">"رؤية الدعوات"</string>
     <string name="CLAN_INVITES">"دعوات العشيرة"</string>
     <string name="Cancel_Invitation">"إلغاء الدعوة"</string>
     <string name="DOWNLOAD">"تحميل"</string>
-    <string name="REJECT_ALL_FRIEND_INVITATIONS_">"رفض كل دعوات الصداقة؟"</string>
+    <string name="REJECT_ALL_FRIEND_INVITATIONS_">"رفض كل دعوات الصداقة"</string>
     <string name="suns_">"الشموس."</string>
     <string name="Sun_Collector">"جامع الشموس"</string>
     <string name="Sun_Hoarder">"مكدس الشموس"</string>
@@ -696,7 +696,7 @@
     <string name="member_permissions">"أذونات الأعضاء"</string>
     <string name="edit">"تعديل"</string>
     <string name="start_clan_war">"بدء حرب العشائر"</string>
-    <string name="join_clan_war">" الدخول إلى حرب العشائر "</string>
+    <string name="join_clan_war">" الانضمام إلى حرب العشائر "</string>
     <string name="none">"لا شيء"</string>
     <string name="INVALID_TOKEN">"رمز غير صالح!"</string>
     <string name="banned_until">"محظور حتى "</string>
@@ -756,7 +756,7 @@
     <string name="Compression_Quality_">"ضغط الجودة:"</string>
     <string name="inapproriate_info">"وتشمل الصور الغير لائقة, الكراهية، وجور، الصور الفاحشة ، صورالعنف والمخدرات والجنس والعري، صور شخصية لكامل الجسم، الغموض، غير وضوح، و صور المستويات الغير معدلة."</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">"هل أنت متأكد أنك تريد تحميل هذه الصورة؟"</string>
-    <string name="Grant_Permission">"يعطي الأذن"</string>
+    <string name="Grant_Permission">"المشرف يعطي الأذن"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"اللعبة تحتاج إذن التخزين لإسترجاع النسخة الإحتياطية الخاصة بك للاعب واحد!"</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"اللعبة تحتاج إذن تحديد الموقع للعثور على أجهزة بلوتوث قريبة."</string>
     <string name="FFA_ULTRA">"حر للجميع الفائقة"</string>
