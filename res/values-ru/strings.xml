@@ -5,9 +5,9 @@
     <string name="Control_">"Управление:"</string>
     <string name="CLOSE">"ЗАКРЫТЬ"</string>
     <string name="Stick_Size_">"Размер джойстика:"</string>
-    <string name="Stick_Margin_">"Отрыв джойстика:"</string>
+    <string name="Stick_Margin_">"Смещение джойстика:"</string>
     <string name="Button_Size_">"Размер кнопок:"</string>
-    <string name="Button_Margin_">"Отрыв кнопок:"</string>
+    <string name="Button_Margin_">"Смещение кнопок:"</string>
     <string name="Buttons_">"Кнопки:"</string>
     <string name="DEFAULTS">"ВОССТАНОВИТЬ ПО УМОЛЧАНИЮ"</string>
     <string name="WEEKLY">"ЕЖЕНЕДЕЛЬНЫЙ"</string>
@@ -29,7 +29,7 @@
     <string name="Yes">"Да"</string>
     <string name="No">"Нет"</string>
     <string name="WAIT">"Подождите…"</string>
-    <string name="Must_Specify_Name_">"Необходимо указать имя"</string>
+    <string name="Must_Specify_Name_">"Необходимо ввести имя"</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Возрастной рейтинг контента приложения может измениться при поиске групп."</string>
 
@@ -40,7 +40,7 @@
     <string name="Recombine_">"Соединение: "</string>
     <string name="WINNER_">"ПОБЕДИТЕЛЬ:"</string>
     <string name="IDLE">"ОФЛАЙН"</string>
-    <string name="Name_Invalid_">"Имя недействительно."</string>
+    <string name="Name_Invalid_">"Недопустимое имя."</string>
     <string name="Name_Taken_">"Имя уже занято."</string>
     <string name="CONNECTED">"Подключение"</string>
     <string name="JOINING___">"Присоединение…"</string>
@@ -57,8 +57,8 @@
 
 
     <string name="SERVER">"СЕРВЕР"</string>
-    <string name="Joining_game_in_">"Присоединение в игру через "</string>
-    <string name="Game_Full">"Сервер полон"</string>
+    <string name="Joining_game_in_">"Подключение в игру через "</string>
+    <string name="Game_Full">"Сервер заполнен"</string>
     <string name="US_East">"США Восток"</string>
     <string name="US_West">"США Запад"</string>
     <string name="Europe">"Европа"</string>
@@ -66,9 +66,9 @@
 
 
     <string name="SINGLE_PLAYER">"ОДИНОЧНАЯ ИГРА"</string>
-    <string name="Background_">"Фон:"</string>
+    <string name="Background_">"Фоновое изображение:"</string>
     <string name="Difficulty_">"Сложность:"</string>
-    <string name="Delay_Disconnect">"Отключение из-за задержки"</string>
+    <string name="Delay_Disconnect">"Отключение из-за высокой задержки"</string>
 
     <string name="Max_Players">"Максимум игроков"</string>
     <string name="Min_Players">"Минимум игроков"</string>
@@ -91,7 +91,7 @@
     <string name="Blue_Team">"Синяя команда"</string>
     <string name="Yellow_Team">"Жёлтая команда"</string>
     <string name="Signed_in_as_">"Вы вошли как:"</string>
-    <string name="Not_signed_in_">"Не авторизован!"</string>
+    <string name="Not_signed_in_">"Вход не выполнен."</string>
     <string name="SET_NAME">"ИЗМЕНИТЬ НИКНЕЙМ"</string>
     <string name="SIGN_OUT">"ВЫЙТИ"</string>
     <string name="ACHIEVEMENTS">"ДОСТИЖЕНИЯ"</string>
@@ -100,7 +100,7 @@
 
     <string name="Information">"Информация"</string>
     <string name="To_use_this_skin_you_must_earn_the_achievement">"Чтобы использовать этот скин, необходимо получить достижение."</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Чтобы использовать этот скин, необходимо получить уровень "</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Чтобы использовать этот скин, достигните уровня "</string>
     <string name="SIGN_IN">"ВОЙТИ"</string>
 
     <string name="Single_Player_Stats">"Статистика (одиночный режим)"</string>
@@ -110,10 +110,10 @@
 
 
     <string name="FRIENDS">"ДРУЗЬЯ"</string>
-    <string name="Warning">"Предупреждение"</string>
+    <string name="Warning">"Внимание"</string>
     <string name="SIGNING_IN">"ВХОД…"</string>
-    <string name="New_Friend_Request">"Новый запрос дружбы!"</string>
-    <string name="REQUEST_FRIEND">"Запросить дружбу"</string>
+    <string name="New_Friend_Request">"Новый запрос в друзья!"</string>
+    <string name="REQUEST_FRIEND">"Добавить в друзья"</string>
     <string name="Private">"Приватный"</string>
     <string name="Public">"Публичный"</string>
     <string name="Bot">"Бот"</string>
@@ -250,7 +250,7 @@
     <string name="Special_Effects">"Эффекты"</string>
     <string name="Blob_Mushiness">"Упругость шара"</string>
 
-    <string name="Specify_private_game_name">"Укажите название игры."</string>
+    <string name="Specify_private_game_name">"Введите название приватной игры."</string>
     <string name="In_Game_Chat">"Внутри-игровой чат"</string>
     <string name="My_Status_">"Мой статус:"</string>
     <string name="Game_Size_">"Размер игрового поля:"</string>
@@ -728,12 +728,12 @@
     <string name="Refunded">"Возвращено"</string>
 
 
-    <string name="contribution_warning">"Вы уверены, что хотите сделать взнос? Это действие нельзя отменить!"</string>
+    <string name="contribution_warning">"Вы действительно хотите внести вклад? Это действие нельзя отменить."</string>
     <string name="Upload">"Загрузить"</string>
     <string name="upload_warning">"Вы уверены, что желаете загрузить этот скин? Все игроки смогут увидить этот скин, после того как он будет утвержден. Неприемлимые скины будут отклонены, а плазма возвращена не будет!"</string>
 
     <string name="In_Review">"Рассматривается"</string>
-    <string name="Account_Uploads">Скины на аккаунте"</string>
+    <string name="Account_Uploads">Скины аккаунта"</string>
     <string name="Clan_Uploads">"Скины клана"</string>
     <string name="Empty">"Пусто"</string>
     <string name="Select">"Выбрать"</string>
@@ -1389,7 +1389,7 @@
         <item>"Маленькое"</item>
         <item>"Нормальное"</item>
         <item>"Большое"</item>
-        <item>"HUGE"</item>
+        <item>"Огромное"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
