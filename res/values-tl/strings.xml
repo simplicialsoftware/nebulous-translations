@@ -857,7 +857,7 @@
     <string name="COPY">KOPYAHIN</string>
     <string name="_1v1_Ultra">1v1 Ultra</string>
     <string name="ArenaDescriptionUltra">Ang mananalo ay makakatanggap ng %s plasma.</string>
-    <string name="BANNED">BANNED</string>
+    <string name="BANNED">PINAGBABALAN</string>
     <string name="CLAN_MEMBERS">MGA MIYEMBRO NG CLAN</string>
     <string name="CLAN_REQUESTS">MGA CLAN REQUESTS</string>
     <string name="Pet_1">Alaga 1</string>
@@ -896,7 +896,7 @@
     <string name="You_can_purchase_this_hat_for">Mabibili mo ang sumbrerong ito sa</string>
     <string name="You_can_purchase_this_particle_for">Mabibili mo ang particle na ito sa</string>
     <string name="You_can_purchase_this_eject_skin_for">Mabibili mo ang eject skin na ito sa</string>
-    <string name="Skin">Skin</string>
+    <string name="Skin">Balat</string>
     <string name="Custom_Skin">Custom na Skin</string>
     <string name="Color">Kulay</string>
     <string name="RECENT_PLAYERS">MGA RECENT NA MANLALARO</string>
@@ -910,14 +910,14 @@
     <string name="ADVANCED_SETUP">ADVANCED SETUP</string>
     <string name="WORLD_CUP_EVENT___">EVENT SA WORLD CUP!!!</string>
     <string name="world_cup_event_description">Dobleng XP at Dobleng Plasma sa Soccer Mode hanggang sa pagtatapos ng world cup!</string>
-    <string name="GIF_Skins">GIF Skins</string>
+    <string name="GIF_Skins">Mga GIF Skin</string>
     <string name="PLAY_ONLINE_">MAGLARO SA ONLINE!</string>
     <string name="Absorb_10_000_000_dots">Kumuha ng 10,000,000 dots</string>
     <string name="Dot_Deity">Dot Deity</string>
     <string name="Mass_Mastery">Mass Mastery</string>
     <string name="Gain_100_000_000_mass">Makakuha ng 100,000,000 mass</string>
     <string name="VET">VET</string>
-    <string name="Mute">Mute</string>
+    <string name="Mute">I-mute</string>
     <string name="Unmute">Unmute</string>
     <string name="Community">Komunidad</string>
     <string name="Buy">Bumili</string>
@@ -929,7 +929,7 @@
     <string name="NEW">BAGO</string>
     <string name="Manage_Configurations">I-Manage ang Configurations</string>
     <string name="Leave_blank_for_all_uploaders_">I-Leave blank para sa lahat ng uploaders.</string>
-    <string name="More___">More…</string>
+    <string name="More___">Higit pa…</string>
     <string name="This_cannot_be_used_in_FFA_Classic_">Ito ay hindi maaaring gamitin sa FFA Classic.</string>
     <string name="ENEMY">KALABAN</string>
     <string name="ALLY">KAKAMPI</string>
@@ -937,7 +937,7 @@
     <string name="Set_friendly_name_">Mag-set ng friendly na pangalan.</string>
     <string name="Leave_blank_for_none_">I-Leave blank para sa wala.</string>
     <string name="Vote_Kick">I-Kick ang Manlalaro</string>
-    <string name="FONT">FONT</string>
+    <string name="FONT">LETRA</string>
     <string name="CIRCLE">BILOG</string>
     <string name="SQUARES">PARISUKAT</string>
     <string name="TRICK_MODE">TRICK MODE</string>
@@ -947,9 +947,9 @@
     <string name="PUSH_SPLIT">PUSH SPLIT</string>
     <string name="Level_Colors">KULAY NG LEBEL</string>
     <string name="click_info">Ang Autoclick / Ultraclick ay hindi gumagana sa FFA Classic!</string>
-    <string name="Hooked">Hooked</string>
+    <string name="Hooked">Nahuhumaling</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Ma-pulled ng isang hookshot spell ng 10 segundo</string>
-    <string name="Pack">Pack</string>
+    <string name="Pack">Pakete</string>
     <string name="Skin_Pack">Skin Pack</string>
     <string name="SKIN_PACK">SKIN PACK</string>
     <string name="HALLOWEEN">HALLOWEEN</string>
@@ -992,7 +992,7 @@
     <string name="PUBLIC">PUBLIKO</string>
     <string name="PRIVATE">PRIBADO</string>
     <string name="Joined">Sumali</string>
-    <string name="Requests">Requests</string>
+    <string name="Requests">Kahilingan </string>
     <string name="Invites">Nag-imbita</string>
     <string name="Show_Spectator_Count">Tignang ang Bilang ng mga Spectator</string>
     <string name="TRY_IT_">SUBUKAN MO!</string>
@@ -1007,7 +1007,7 @@
     <string name="Time_">Oras:</string>
     <string name="Show_Session_Stats">Ipakita ang Session Stats</string>
     <string name="VALENTINES_DAY">"ARAW NG MGA PUSO"</string>
-    <string name="Giveaways_">Giveaways!</string>
+    <string name="Giveaways_">Mga Pamigay!</string>
     <string name="Max_XP_Chain_">Pinakamataas na XP Chain:</string>
     <string name="POSITION_CANCEL_BUTTON">POSISYON SA CANCEL BUTTON</string>
     <string name="INVISIBILITY">INVISIBILITY</string>
@@ -1017,11 +1017,11 @@
     <string name="Both">Parehas</string>
     <string name="Enable__Multiskin">"Enable\nMultiskin"</string>
     <string name="MULTISKIN">MULTISKIN</string>
-    <string name="DISABLED">DISABLED</string>
+    <string name="DISABLED">MAY KAPANSANAN</string>
     <string name="Refund__Multiskin">Refund\nMultiskin</string>
     <string name="Invalid_Clan_ID_">Invalid ang clan ID.</string>
-    <string name="MUTED">MUTED</string>
-    <string name="SKIN">SKIN</string>
+    <string name="MUTED">NAKA-MUTE</string>
+    <string name="SKIN">BALAT</string>
     <string name="Choose_Skin_Size">Pumili ng Laki ng Skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Ang Ibang malalaro ay hindi ako maririnig.</string>
     <string name="Allow_permission_to_enable_voice_recording_">I-Allow ang permiso para ma-enable ang voice recording.</string>
@@ -1062,7 +1062,7 @@
     <string name="Collisions_">Mga Collisions:</string>
     <string name="Absorbed_">Mga Nakuha:</string>
     <string name="team_warning">Ang pakikipangkat sa manlalaro na hindi mo naman ka-pangkat ay magre-resulta sa isang ban!</string>
-    <string name="Search_Filter">Search Filter</string>
+    <string name="Search_Filter">Salain ng Paghahanap</string>
     <string name="Received_">Natanggap:</string>
     <string name="Opponent_Rating_Limit_">Limitadong Rating Limit ng Kalaban:</string>
     <string name="TOGGLE_FAVORITE">I-TOGGLE SA PABORITO</string>
@@ -1157,7 +1157,7 @@ Commands:
     <string name="delete_prompt">Sigurado ka bang gusto mong tanggalin ang iyong account? Ito ay PERMANENTE at HINDI NA MAIBABALIK!</string>
 
 
-    <string name="Type">Type</string>
+    <string name="Type">Uri</string>
     <string name="Complete_campaign_mission_">Kumpletuhin ang misyong kampanya</string>
     <string name="Specify_Reason_">I-Specify ang Rason:</string>
     <string name="FREE_FOR_ALL">LIBRE SA LAHAT</string>
@@ -1173,11 +1173,11 @@ Commands:
     <string name="CAMPAIGN_2">KAMPANYA 2</string>
     <string name="XP_5x">XP 5x</string>
     <string name="India">India</string>
-    <string name="Tutorial">Tutorial</string>
+    <string name="Tutorial">Pagtuturo</string>
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">KULAY NG CLAN BACKGROUND</string>
     <string name="activate">Activate</string>
-    <string name="clan_id">CLAN ID</string>
+    <string name="clan_id">ANGKAN ID </string>
     <string name="language_change_warning">Ang Pagbabago ng wika ay magre-resulta sa app na mag-restart.</string>
     <string name="xmas_gift_boost_message">You\'ve (Ikaw) ay nakatanggap ng regalo ng 3x plasma boost para sa 1 araw!</string>
     <string name="no_response">Walang tugon galing sa server. Mangyaring suriin ang internet connection.</string>
