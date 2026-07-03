@@ -1,5 +1,5 @@
 <resources>
-    <string name="Players">"Pemain"</string>
+    <string name="players">"Pemain"</string>
     <string name="Control_">"Kontrol:"</string>
     <string name="CLOSE">"TUTUP"</string>
     <string name="Stick_Size_">"Ukuran tongkat:"</string>
@@ -90,7 +90,7 @@
     <string name="To_use_this_skin_you_must_reach_level">"Untuk menggunakan skin ini Anda harus mencapai level"</string>
     <string name="SIGN_IN">"MASUK"</string>
     <string name="Single_Player_Stats">"Statistik Pemain Tunggal"</string>
-    <string name="Level">"Level"</string>
+    <string name="level">"Level"</string>
     <string name="PAUSED">"DIJEDA"</string>
     <string name="FRIENDS">"TEMAN"</string>
     <string name="Warning">"Peringatan"</string>
@@ -157,7 +157,7 @@
     <string name="Survivalist">"Bertahan Hidup"</string>
     <string name="Ultramassive">"Ultramasal"</string>
     <string name="Rapid_Ascension">"Kenaikan yang Cepat"</string>
-    <string name="Revenge">"Balas Dendam"</string>
+    <string name="revenge">"Balas Dendam"</string>
     <string name="Doge_Pound">"Doge Menghantam"</string>
     <string name="Absorb_50_dots">"Menyerap 50 Titik"</string>
     <string name="Absorb_300_dots">"Menyerap 300 Titik"</string>
@@ -194,7 +194,7 @@
     <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Mencapai skor 5.000 dalam 1 menit dari awal"</string>
     <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Menembak lubang hitam menjadi pemain terakhir yang ditembak lubang hitam ke dalam diri Anda sebelum restart"</string>
     <string name="Absorb_5_doges_without_restarting">"Menyerap 5 doge tanpa memulai ulang"</string>
-    <string name="Friends">"Teman"</string>
+    <string name="friends">"Teman"</string>
     <string name="Dots_Eaten_">"Titik-titik Dimakan:"</string>
     <string name="Blobs_Eaten_">"Gumpalan Dimakan:"</string>
     <string name="Blobs_Lost_">"Gumpalan Hilang:"</string>
@@ -306,7 +306,7 @@
     <string name="FFA_CLASSIC">"FFA KLASIK"</string>
 
 
-    <string name="pumpkins_">"Labu."</string>
+    <string name="Pumpkins_">"Labu."</string>
     <string name="To_use_this_skin_you_must_collect">"Untuk menggunakan Skin ini Anda harus mengumpulkan"</string>
     <string name="Australia">"Australia"</string>
     <string name="Pumpkin_Collector">"Kolektor Labu"</string>
@@ -342,7 +342,7 @@
     <string name="Clan_Warrior">"Prajurit Klan"</string>
     <string name="Win_a_Clan_War">"Memenangkan War Klan"</string>
     <string name="Global">"Global"</string>
-    <string name="Spectating">"Menonton"</string>
+    <string name="spectating">"Menonton"</string>
 
     <string name="snowflakes_">"Kepingan salju."</string>
     <string name="presents_">"Kado."</string>
@@ -430,7 +430,7 @@
     <string name="Harassment">"Gangguan"</string>
     <string name="_2v2">"2v2"</string>
     <string name="Standard">"Standar"</string>
-    <string name="Achievement">"Prestasi"</string>
+    <string name="achievement">"Prestasi"</string>
     <string name="Flag">"Bendera"</string>
     <string name="Win_10_Clan_Wars">"Menang 10 Klan Perang"</string>
     <string name="Win_100_Clan_Wars">"Menang 100 Klan Perang"</string>
@@ -618,7 +618,7 @@
     <string name="edit">"SUNTING"</string>
     <string name="start_clan_war">"Mulai Perang Klan"</string>
     <string name="join_clan_war">"Gabung Perang Klan"</string>
-    <string name="none">"TIDAK ADA"</string>
+    <string name="None">"TIDAK ADA"</string>
     <string name="INVALID_TOKEN">"TOKEN TIDAK VALID!"</string>
     <string name="banned_until">"Dilarang sampai "</string>
     <string name="Note_Collector">"Kolektor Catatan"</string>
@@ -690,7 +690,7 @@
     <string name="To">"Untuk"</string>
     <string name="RESET">"ATUR ULANG"</string>
     <string name="Message_Sent_">"Pesan Terkirim!"</string>
-    <string name="From">"Dari"</string>
+    <string name="from">"Dari"</string>
     <string name="Sent">"Terkirim"</string>
     <string name="REPLY">"BALAS"</string>
     <string name="Delete_Message">"Hapus Pesan"</string>
@@ -844,7 +844,7 @@
     <string name="SPECTATE">MENONTON</string>
     <string name="INVITE">UNDANG</string>
     <string name="error_1">Hanya Pemimpin Atau Wakil Pemimpin Yang Bisa Mengirim Mail Klan.</string>
-    <string name="Hat">Topi</string>
+    <string name="hat">Topi</string>
     <string name="Hats">Topi</string>
     <string name="Pet_Uploads">Unggah Pet</string>
     <string name="BLOB">GUMPALAN</string>
