@@ -340,7 +340,7 @@
     <string name="W_D_L">"M-S-K"</string>
     <string name="MATCH_START">"MULAI PERTANDINGAN"</string>
     <string name="Clan_Warrior">"Prajurit Klan"</string>
-    <string name="Win_a_Clan_War">"Memenangkan War Klan"</string>
+    <string name="Win_a_Clan_War">"Memenangkan Perang Klan"</string>
     <string name="Global">"Global"</string>
     <string name="Spectating">"Menonton"</string>
 
@@ -430,13 +430,13 @@
     <string name="Harassment">"Gangguan"</string>
     <string name="_2v2">"2v2"</string>
     <string name="Standard">"Standar"</string>
-    <string name="Achievement">"Prestasi"</string>
+    <string name="Achievement">"Pencapaian"</string>
     <string name="Flag">"Bendera"</string>
-    <string name="Win_10_Clan_Wars">"Menang 10 Klan Perang"</string>
-    <string name="Win_100_Clan_Wars">"Menang 100 Klan Perang"</string>
+    <string name="Win_10_Clan_Wars">"Menang 10 Perang Klan"</string>
+    <string name="Win_100_Clan_Wars">"Menang 100 Perang Klan"</string>
     <string name="Clan_Commander">"Klan Komandan"</string>
     <string name="Clan_General">"Klan Umum"</string>
-    <string name="Clan_Wars_Won_">"Klan Perang Dimenangkan:"</string>
+    <string name="Clan_Wars_Won_">"Perang Klan Dimenangkan:"</string>
     <string name="Arenas_Won_">"Arena Dimenangkan:"</string>
     <string name="Arena_Mode">"Mode Arena"</string>
     <string name="Connection_Lost">"Koneksi Terputus"</string>
@@ -703,7 +703,7 @@
     <string name="Nav_Buttons_">"Tombol Navigasi:"</string>
     <string name="account_warning">"Jangan pernah berbagi password akun Anda atau informasi pribadi dengan siapa pun untuk alasan apapun!"</string>
     <string name="Clan_Hero">"PAHLAWAN KLAN"</string>
-    <string name="Win_1000_Clan_Wars">"Menang 1.000 Klan Wars"</string>
+    <string name="Win_1000_Clan_Wars">"Menang 1.000 Perang Klan"</string>
     <string name="NAME_COLOR">"WARNA NAMA"</string>
     <string name="name_color_instructions">"Pilih karakter huruf yang ingin Anda ubah kemudian pilih warna yang akan Anda taruh ke huruf itu untuk merubah warna huruf itu."</string>
     <string name="Cannot_change_this_character_">"Tidak dapat mengubah karakter ini"</string>
@@ -755,7 +755,7 @@
     <string name="This_is_you_">"Ini adalah Anda."</string>
     <string name="Win_a_Paint_Game">"Memenangkan Permainan Lukis"</string>
     <string name="Whiteout">"Whiteout"</string>
-    <string name="Speed_Painter">"Kecepatan Pelukis"</string>
+    <string name="Speed_Painter">"Pelukis Cepat"</string>
     <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"Memenangkan pertandingan lukis dengan semua lawan memiliki 0 skor."</string>
     <string name="Win_a_Paint_game_in_60_seconds_or_less_">"Memenangkan pertandingan lukis dalam 60 detik atau kurang."</string>
     <string name="Autoclick">"Autoklik"</string>
@@ -920,7 +920,7 @@
     <string name="Challenges_Won_">Tantangan Dimenangkan:</string>
     <string name="trophy_info">Piala diberikan pada akhir setiap musim arena atau arena tim untuk posisi pertama, kedua, dan ketiga. Piala hanya diberikan di server aktif dengan banyak pemain.</string>
     <string name="BLOCKED">DIBLOKIR</string>
-    <string name="CLAN_WAR_HISTORY">RIWAYAT KLAN WAR</string>
+    <string name="CLAN_WAR_HISTORY">RIWAYAT PERANG KLAN</string>
     <string name="Particle">Partikel</string>
     <string name="Privacy">Privasi</string>
     <string name="EULA">EULA</string>
@@ -1179,7 +1179,7 @@ Perintah:
 !info"
 </string>
     <string name="ID_Sort">ID Sort</string>
-    <string name="Master_Tamer">Penjinak Master</string>
+    <string name="Master_Tamer">Penjinak Ahli</string>
     <string name="Get_ALL_Pets_To_Level_100_">Naikkan SEMUA Pet Ke Level 100</string>
     <string name="TAMER">PENJINAK</string>
     <string name="Allow_Recombine">Membolehkan Bergabung Kembali</string>
