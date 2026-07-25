@@ -1001,7 +1001,7 @@
 
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">मास बूस्ट एरेनास, टूर्नामेंट या वंश युद्धों में काम नहीं करता है!</string>
 
-    <string name="ArenaDescriptionPure">NO autoclick or ultraclick. You only get one life. The winner will receive %s plasma.</string>
+    <string name="ArenaDescriptionPure">बिना बूस्ट का इस्तेमाल किए जीतने के लिए आपको सिर्फ एक ही मौका मिलेगा, विजेता को प्लाज्मा से पुरस्कृत किया जाएगा।</string>
     <string name="_1v1_Pure">1v1 शुद्ध</string>
     <string name="Allow_Ultraclick">अल्ट्राक्लिक की अनुमति दें</string>
     <string name="Allow_Mass_Boost">मास बूस्ट की अनुमति दें</string>
@@ -1282,10 +1282,8 @@ Commands:
 
 
     <string name="Type">Type</string>
-    <string name="Complete_campaign_mission_">Complete campaign mission</string>
-    <string name="Specify_Reason_">Specify Reason:</string>
-    <string name="FREE_FOR_ALL">FREE FOR ALL</string>
-    <string name="SPECIAL">SPECIAL</string>
+    <string name="Complete_campaign_mission_">अभियान मिशन पूरा करें</string>
+    <string name="SPECIAL">विशेष</string>
     <string name="FREE">नि: शुल्क</string>
     <string name="x5_Clan_XP_1_Day">5X कबीले  XP 1 दिन</string>
     <string name="x5_Clan_XP_7_days">5X कबीले XP 7 दिन</string>
@@ -1298,7 +1296,7 @@ Commands:
     <string name="XP_5x">XP 5x</string>
     <string name="India">India</string>
     <string name="Tutorial">Tutorial</string>
-    <string name="TYCOON">TYCOON</string>
+    <string name="TYCOON">टोकन</string>
     <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
     <string name="activate">Activate</string>
     <string name="clan_id">CLAN ID</string>
