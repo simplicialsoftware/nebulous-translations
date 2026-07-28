@@ -219,7 +219,7 @@
 
     <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Hiç Baloncuk Kaybetmeden 10.000 Puana Ulaşın."</string>
     <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Bölünmeden veya Yem Atmadan 5.000 Puana Ulaşın."</string>
-    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Baloncukları kara delik'te patlatmadan 5 dakika boyunca oynayın."</string>
+    <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Baloncukları kara delikte patlatmadan 5 dakika boyunca oynayın."</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"Hiç Baloncuk Kaybetmeden 5 dakika boyunca oynayın."</string>
     <string name="Play_20_minutes_straight_without_restarting">"Oyun Yeniden Başlatılmadan 20 dakika boyunca hayatta kalın."</string>
     <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"İlk 30 Saniye İçerisinde 5 adet süpermasif kara delik yutun."</string>
@@ -436,7 +436,7 @@
 
     <string name="Loading_Purchases___">"Satın Alımlar Yükleniyor…"</string>
     <string name="In_App_Purchases">"Oyun İçi Satın Alımlar"</string>
-    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Şuanki sahip olduğunuz XP katlayıcınızın süresi dolmadan yeni bir XP katlayıcısı alamazsınız."</string>
+    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Şu anki sahip olduğunuz XP katlayıcınızın süresi dolmadan yeni bir XP katlayıcısı alamazsınız."</string>
     <string name="This_purchase_has_already_been_redeemed_">"Bu satın alım zaten gerçekleştirildi."</string>
 
     <string name="You_cannot_remove_yourself__Leave_clan_instead_">"Kendinizi klandan çıkaramazsınız, onun yerine klandan ayrılmayı deneyebilirsiniz."</string>
@@ -526,7 +526,7 @@
     <string name="Start_Clan_War">"Klan Savaşı Başlat"</string>
     <string name="Min_Level">"Minimum Seviye "</string>
     <string name="SAVE">"KAYDET"</string>
-    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Bu oyuncunun şuanki seviyesi klana katılmak için yeterli değildir."</string>
+    <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Bu oyuncunun şu anki seviyesi klana katılmak için yeterli değildir."</string>
     <string name="Insufficient_Permission">"Yetersiz Yetki"</string>
     <string name="DOMINATION">"HAKİMİYET"</string>
     <string name="DOM_Domination">"Hakimiyet Egemenliği"</string>
@@ -623,7 +623,7 @@
     <string name="CLAN_HISTORY">"KLAN GEÇMİŞİ"</string>
 
 
-    <string name="Love_Nebulous_">"Nebulous'u Sevdiniz Mi?"</string>
+    <string name="Love_Nebulous_">"Nebulous'u Sevdiniz mi?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Lütfen bizlere oy vererek, Nebulous'u destekleyin. "</string>
     <string name="MAYHEM_MODE">"MAYHEM MOD "</string>
     <string name="Times_Teleported_">"Kullanılan Işınlanma Sayısı:"</string>
@@ -655,7 +655,7 @@
     <string name="__has_challenged_you_to_a_1v1_match_">"%s size 1'e 1 maç ile meydan okudu!"</string>
     <string name="Challenge_Expired">"Meydan okumanın süresi dolmuştur."</string>
     <string name="Enable_Challenges">"Meydan Okumayı Etkinleştir"</string>
-    <string name="Wait_for_the_current_challenge_to_expire_">"Şuanki meydan okuma isteğinin iptal edilmesini beklemelisiniz. "</string>
+    <string name="Wait_for_the_current_challenge_to_expire_">"Şu anki meydan okuma isteğinin iptal edilmesini beklemelisiniz. "</string>
     <string name="CHALLENGE_OPTIONS">"MEYDAN OKUMA SEÇENEKLERİ"</string>
     <string name="Accept">"Kabul Et"</string>
     <string name="Decline">"Reddet"</string>
@@ -916,7 +916,7 @@
     <string name="x2_Clan_XP_7_Days">"7 Günlük 2x Klan XP'si"</string>
     <string name="RECEIVED">"ALINAN POSTA"</string>
     <string name="SENT">"GÖNDERİLEN POSTA"</string>
-    <string name="Enable_Invites">"Davetiyelereri Etkinleştirin"</string>
+    <string name="Enable_Invites">"Davetiyeleri Etkinleştirin"</string>
     <string name="Game_Invitation">"Oyun Davetiyesi"</string>
     <string name="__has_invited_you_to_join_their_game_">"%s ,sizi kendi oyununa katılmaya davet etti!"</string>
     <string name="Invitation_declined_">"Davetiye Reddedildi!"</string>
@@ -1020,7 +1020,7 @@ Oyunun kurallarını çiğneyen bir oyuncuyu fark ederseniz, lütfen bir "Modera
     <string name="Save_the_profile_first">"Önce profili kaydediniz."</string>
     <string name="Birthday">"Doğum Günü"</string>
     <string name="Mass_Boost">"Kütle Takviyesi"</string>
-    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">"Kütle Takviyesi Arenalar'da, Turnuvalar'da ve Klan Savaşların'da çalışmaz!"</string>
+    <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">"Kütle Takviyesi Arenalarda, Turnuvalarda ve Klan Savaşlarında çalışmaz!"</string>
     <string name="ArenaDescriptionPure">"Otomatik ve Hızlı Tıklama (Autoclick/Ultraclick) kullanmak mümkün değildir. Sadece bir hakkınız var. Kazanan %s plazma alacaktır."Ticaretle Kazanan" veya "Bedava Kazanan" kişilerin hesabı yasaklanma ile sonuçlanacaktır."</string>
     <string name="_1v1_Pure">"1'e 1 Sade"</string>
     <string name="Allow_Ultraclick">"Ultraclick Kabul Edin"</string>
@@ -1095,7 +1095,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="community_skin_information_for_seller" translatable="false" tools:ignore="Untranslatable">"Eğer özel cildini topluluk cildine dönüştürür isen, cildin topluluk ciltler listesine eklenecektir. Diğer oyuncular topluluk cildini buradan satın alabilirler ve görebilirler! Eğer bir oyuncu topluluk cildini satın alırsa, küçük miktarda plazma alırsınız. Topluluk ciltleri gerçek insanların fotoğrafları olamaz!"</string>
     <string name="community_skin_requirement">"Topluluk ciltlerini kullanmak için önce "Özel Ciltleri Etkinleştir" satın alman gerekmektedir."</string>
     <string name="You_can_purchase_this_community_skin_for_">"Bu Topluluk Cildini Satın Alın"</string>
-    <string name="community_skin_information_for_buyer" translatable="false" tools:ignore="Untranslatable">"Topluluk ciltleri başka oyuncular tarafından yüklenen ciltlerdir. Topluluk ciltleri, özel ciltler gibi çalışırlar ve normal ciltler ile harmanlanıp animasyonlu versiyonları elde edilinebilir."</string>
+    <string name="community_skin_information_for_buyer" translatable="false" tools:ignore="Untranslatable">"Topluluk ciltleri başka oyuncular tarafından yüklenen ciltlerdir. Topluluk ciltleri, özel ciltler gibi çalışırlar ve normal ciltler ile harmanlanıp animasyonlu versiyonları elde edilebilir."</string>
     <string name="VIEW_UPLOADER">""YÜKLEYİCİYİ GÖR"</string>
     <string name="POPULAR">"POPÜLER"</string>
     <string name="NEW">"YENİ"</string>
@@ -1163,7 +1163,7 @@ Bu, özel görünümlerde kullanılması *YASAK* olan şeylerin bir listesidir; 
     <string name="CHRISTMAS">"NOEL"</string>
     <string name="Reason">"Sebep"</string>
     <string name="PUBLIC">"HERKESE AÇIK"</string>
-    <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">"Arkadaşlarınızın bu gruba girebilmesi için bu grubun kimliği'ni onlara ver:"</string>
+    <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">"Arkadaşlarınızın bu gruba girebilmesi için bu grubun kimliğini onlara ver:"</string>
     <string name="Specify_Group_ID" translatable="true" tools:ignore="Untranslatable">"ÖZEL GRUP Kimliği"</string>
     <string name="PRIVATE">"ÖZEL"</string>
     <string name="Joined">"Katılım"</string>
@@ -1363,7 +1363,7 @@ Komutlar:
     <string name="India">"Hindistan"</string>
     <string name="Tutorial">"Öğretici"</string>
     <string name="TYCOON">"KOLEKSİYONCU"</string>
-    <string name="CLAN_BACKGROUND_COLOR">"KLAN ARKAPLAN RENGİ"</string>
+    <string name="CLAN_BACKGROUND_COLOR">"KLAN ARKA PLAN RENGİ"</string>
     <string name="activate">"Aktive Et"</string>
     <string name="clan_id">"Klan ID"</string>
     <string name="language_change_warning">"Dili değiştirmek, uygulamanın seçilen dili uygulaması için yeniden başlatılmasına neden olacaktır."</string>
