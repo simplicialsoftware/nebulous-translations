@@ -1400,7 +1400,7 @@ Comandos:
     <string name="xmas_gift_boost_message">¡Has recibido un regalo de acelerador de plasma 3x por 1 día!</string>
     <string name="no_response">No hay respuesta del servidor. Por favor, comprueba tu conexión a internet.</string>
     <string name="RAMADAN">RAMADÁN</string>
-    <string name="SUDDEN_ATTACK">ATAQUE SÚBITO</string>
+    <string name="SUDDEN_ATTACK">ATAQUE SORPRESA</string>
 
 
     <string name="sign_in_explanation" translatable="true">
