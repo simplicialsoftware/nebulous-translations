@@ -1093,7 +1093,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Buy">Comprar</string>
     <string name="Sell">Vender</string>
     <string name="community_skin_information_for_seller" translatable="true" tools:ignore="Untranslatable">Quando você transforma sua skin personalizada em uma skin da comunidade, ela é listada na guia "Skins da Comunidade". As outras pessoas podem ver e comprar a skin na comunidade! Toda vez que alguém compra sua skin da comunidade, você recebe uma pequena quantidade de plasmas.</string>
-    <string name="community_skin_requirement">Você deve comprar Ativar Skins Personalizadas para usar as skins da comunidade.</string>
+    <string name="community_skin_requirement">Você precisa adquirir a opção "Ativar Skins Personalizadas" para usar as skins da comunidade.</string>
     <string name="You_can_purchase_this_community_skin_for_">Você pode comprar esta skin da comunidade por</string>
     <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">As skins da comunidade são enviadas por outros jogadores. As skins da comunidade funcionam como skins personalizadas e podem ser animadas com as skins padrão do jogo.</string>
     <string name="VIEW_UPLOADER">VER ENVIADOR</string>
@@ -1177,7 +1177,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Show_Spectator_Count">Mostrar Contagem de Espectadores</string>
     <string name="TRY_IT_">EXPERIMENTÁ-LA!</string>
     <string name="skin_trial_info" translatable="true" tools:ignore="Untranslatable">Você pode experimentar esta skin durante uma jogada. Depois que você morrer ou trocar, a skin irá sumir. Quando você estiver experimentando a skin, ninguém mais poderá vê-la.\nPreço: %s plasma.</string>
-    <string name="You_need_to_buy_a_pack_to_use_this_">Você precisa comprar um pacote para usar isto.</string>
+    <string name="You_need_to_buy_a_pack_to_use_this_">É necessário comprar um pacote para usar este recurso.</string>
     <string name="GET_PACK">OBTER PACOTE</string>
     <string name="Position_in_queue">Posição na fila</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">COR DE FUNDO DO MENU DE PERFIL</string>
@@ -1245,7 +1245,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Mode_3D">Modo 3D</string>
     <string name="Names_Below_Blobs">Nomes Abaixo dos Blobs</string>
     <string name="Name_Scale_">"Tamanho do Nome:"</string>
-    <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">"Seu dispositivo tem uma conexão ruim com o servidor. Isso pode causar lag. Por favor, verifique o seu serviço de Wi-Fi ou celular ou tente uma conexão de internet diferente. Também verifique se você está jogando no servidor mais próximo de você."</string>
+    <string name="poor_connection_quality_warning" translatable="true" tools:ignore="Untranslatable">"Sua conexão com o servidor está instável, o que pode causar lag. Verifique sua conexão Wi-Fi ou de dados móveis, ou tente outra rede. Também confira se você está conectado ao servidor mais próximo da sua região".</string>
     <string name="Button_3D">Botão 3D</string>
     <string name="Hide_Button_">Ocultar Botão?</string>
     <string name="Show_Boost_Button">Mostrar Botão de Impulso</string>
@@ -1258,8 +1258,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Collected_">Coletado:</string>
     <string name="Collisions_">Colisões:</string>
     <string name="Absorbed_">Absorvido:</string>
-    <string name="team_warning">A parceria com um jogador que não está na sua equipe resultará em um banimento! Se você ver outras pessoas se unindo em outras equipes, poderá votar para expulsá-la da sala, no menu do jogador.</string>
-    <string name="Search_Filter">Pesquisar por Filtro</string>
+    <string name="team_warning">Fazer parceria com jogadores de outra equipe resultará em banimento. Se você identificar equipes se unindo de forma irregular, abra o menu do jogador e vote para expulsá-los da sala.</string>
     <string name="Received_">Recebido:</string>
     <string name="Opponent_Rating_Limit_">Limite de Classificação do Oponente:</string>
     <string name="TOGGLE_FAVORITE">ALTERNAR O FAVORITO</string>
@@ -1301,7 +1300,7 @@ Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se voc�
     <string name="Animal_Tamer">Domador de Animais</string>
     <string name="Crocodile_Hunter">Caçador de Crocodilos</string>
     <string name="Get_A_Pet_To_Level_X_">Leve um Mascote ao Nível %d.</string>
-    <string name="plasma_boost_info">"Você ganhará três vezes os plasmas de todas as fontes NO JOGO enquanto o impulso está ativo! Isso inclui ganhos em arena e torneio! NÃO funciona em compras de plasma, giros ou recompensas especiais."</string>
+    <string name="plasma_boost_info">"Enquanto o impulso estiver ativo, você ganhará 3x mais plasma de todas as fontes do jogo. Isso inclui recompensas da Arena e dos Torneios. O bônus não se aplica à compra de plasma, giros ou recompensas especiais."</string>
     <string name="Plasma_Boost_7_Days_">Impulso de Plasma 7 Dias!!!</string>
     <string name="Plasma_Boost_1_Day_">Impulso de Plasma 1 Dia!</string>
     <string name="Plasma_Boost_2_Hours_">Impulso de Plasma 2 Horas.</string>
