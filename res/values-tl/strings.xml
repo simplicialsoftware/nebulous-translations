@@ -929,7 +929,7 @@
     <string name="NEW">BAGO</string>
     <string name="Manage_Configurations">I-Manage ang Configurations</string>
     <string name="Leave_blank_for_all_uploaders_">I-Leave blank para sa lahat ng uploaders.</string>
-    <string name="More___">More…</string>
+    <string name="More___">Higit pa…</string>
     <string name="This_cannot_be_used_in_FFA_Classic_">Ito ay hindi maaaring gamitin sa FFA Classic.</string>
     <string name="ENEMY">KALABAN</string>
     <string name="ALLY">KAKAMPI</string>
@@ -950,8 +950,8 @@
     <string name="Hooked">Hooked</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Ma-pulled ng isang hookshot spell ng 10 segundo</string>
     <string name="Pack">Pack</string>
-    <string name="Skin_Pack">Skin Pack</string>
-    <string name="SKIN_PACK">SKIN PACK</string>
+    <string name="Skin_Pack">Pakete ng Balat</string>
+    <string name="SKIN_PACK">PAKETE NG BALAT</string>
     <string name="HALLOWEEN">HALLOWEEN</string>
     <string name="pack_info">Pagkatapos mong mabili ang skin pack, ang iyong exclusive skins ay lilitaw sa tuktok ng skin selection menus.</string>
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">EXCLUSIVE Skins, Mga Alaga, Mga Sumbrero at marami pang iba!</string>
@@ -1007,21 +1007,21 @@
     <string name="Time_">Oras:</string>
     <string name="Show_Session_Stats">Ipakita ang Session Stats</string>
     <string name="VALENTINES_DAY">"ARAW NG MGA PUSO"</string>
-    <string name="Giveaways_">Giveaways!</string>
+    <string name="Giveaways_">Mga Pamigay</string>
     <string name="Max_XP_Chain_">Pinakamataas na XP Chain:</string>
     <string name="POSITION_CANCEL_BUTTON">POSISYON SA CANCEL BUTTON</string>
     <string name="INVISIBILITY">INVISIBILITY</string>
-    <string name="Set_Skin">I-Set Skin</string>
+    <string name="Set_Skin">Itakda ang Balat</string>
     <string name="Primary">Pangunahin</string>
     <string name="Secondary">Pangalawa</string>
     <string name="Both">Parehas</string>
     <string name="Enable__Multiskin">"Enable\nMultiskin"</string>
     <string name="MULTISKIN">MULTISKIN</string>
     <string name="DISABLED">DISABLED</string>
-    <string name="Refund__Multiskin">Refund\nMultiskin</string>
-    <string name="Invalid_Clan_ID_">Invalid ang clan ID.</string>
-    <string name="MUTED">MUTED</string>
-    <string name="SKIN">SKIN</string>
+    <string name="Refund__Multiskin">I-refund\nMultiskin</string>
+    <string name="Invalid_Clan_ID_">Hindi wasto ang angkan ID.</string>
+    <string name="MUTED">NAKA-MUTE</string>
+    <string name="SKIN">BALAT</string>
     <string name="Choose_Skin_Size">Pumili ng Laki ng Skin</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Ang Ibang malalaro ay hindi ako maririnig.</string>
     <string name="Allow_permission_to_enable_voice_recording_">I-Allow ang permiso para ma-enable ang voice recording.</string>
@@ -1046,7 +1046,7 @@
     <string name="Starting___">Magsisimula…</string>
     <string name="Tournament_Starting">Ang Tournament ay Magsisimula</string>
     <string name="Max_Tilt_Angle_3D_">Max Tilt ng 3D Angle:</string>
-    <string name="Mode_3D">3D Mode</string>
+    <string name="Mode_3D">3D na Mode</string>
     <string name="Names_Below_Blobs">Ang mga Pangalan ay nasa Ibaba ng Blobs</string>
     <string name="Name_Scale_">"Gaano Kalaki ang Pangalan:"</string>
     <string name="Button_3D">Button 3D</string>
@@ -1056,7 +1056,7 @@
     <string name="Rainbow_Holes">Mga Bahagharing Holes</string>
     <string name="LIFE_STEAL">AGAWAN NG BUHAY</string>
     <string name="Kicked_From_Game_">Ikaw ay Natanggal sa laro!</string>
-    <string name="Conquest">Conquest</string>
+    <string name="Conquest">Pananakop</string>
     <string name="Finish_the_last_mission_in_the_campaign_">Ipanalo ang pinakahuling misyon sa kampanya.</string>
     <string name="Collected_">Mga Na-Collect:</string>
     <string name="Collisions_">Mga Collisions:</string>
@@ -1157,7 +1157,7 @@ Commands:
     <string name="delete_prompt">Sigurado ka bang gusto mong tanggalin ang iyong account? Ito ay PERMANENTE at HINDI NA MAIBABALIK!</string>
 
 
-    <string name="Type">Type</string>
+    <string name="Type">Uri</string>
     <string name="Complete_campaign_mission_">Kumpletuhin ang misyong kampanya</string>
     <string name="Specify_Reason_">I-Specify ang Rason:</string>
     <string name="FREE_FOR_ALL">LIBRE SA LAHAT</string>
@@ -1176,7 +1176,7 @@ Commands:
     <string name="Tutorial">Tutorial</string>
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">KULAY NG CLAN BACKGROUND</string>
-    <string name="activate">Activate</string>
+    <string name="activate">I-activate</string>
     <string name="clan_id">CLAN ID</string>
     <string name="language_change_warning">Ang Pagbabago ng wika ay magre-resulta sa app na mag-restart.</string>
     <string name="xmas_gift_boost_message">You\'ve (Ikaw) ay nakatanggap ng regalo ng 3x plasma boost para sa 1 araw!</string>
@@ -1188,7 +1188,7 @@ Commands:
     <string name="You_are_already_friends_">Kayo ay mag-kaibigan na.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Ang Account ay Kailangang 1 day na matagal para makapag-send ng mail.</string>
     <string name="Translator">Tagasalin</string>
-    <string name="SUCCESS">SUCCESS</string>
+    <string name="SUCCESS">Tagumpay</string>
 
 
     <string-array name="control_modes">
