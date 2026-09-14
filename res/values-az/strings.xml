@@ -906,7 +906,7 @@
     <string name="x3_Clan_XP_1_Day">"1 Günlük 3x Klan XP"</string>
     <string name="x2_Clan_XP_1_Day">"1 Günlük 2x Klan XP"</string>
     <string name="Pets">"Ev Heyvanları"</string>
-    <string name="Pet">"Ev Heyvanı"</string>
+    <string name="Pet">"Ev peti"</string>
     <string name="You_can_purchase_this_pet_for">"Bu ev heyvanını satın ala bilərsiniz"</string>
     <string name="gift_to_friend">"Dosta Hədiyyə et"</string>
     <string name="gift_purchase_warning">"Bu alışı dostunuza hədiyyə etməyi seçdiyiniz üçün bu alış-verişi siz qəbul etməyəcəksiniz"</string>
@@ -978,9 +978,9 @@ Bu qaydalardan hər hansı birinə əməl etməsəniz, hesabınız bloklana bil�
     <string name="Halos">"Halqalar"</string>
     <string name="CAMPAIGN">"Kampaniya"</string>
     <string name="Mission">"Missiya"</string>
-    <string name="Kill_All_Bots">"Bütün Botları Öldür"</string>
+    <string name="Kill_All_Bots">"Bütün Botları Ye"</string>
     <string name="Survive">"Sağ qal"</string>
-    <string name="Mission_d_Complete">"Missiya %d Tamamlandı!"</string>
+    <string name="Mission_d_Complete">"Missiya %d Uduldu!"</string>
     <string name="Mission_d_Failed">"Missiya %d Uğursuz oldu!"</string>
     <string name="Next_Mission">"Növbəti Missiya"</string>
     <string name="Objective">"Məqsəd"</string>
@@ -1016,7 +1016,7 @@ Bu qaydalardan hər hansı birinə əməl etməsəniz, hesabınız bloklana bil�
     <string name="Select_some_text_first">"Əvvəlcə mətn seçin"</string>
     <string name="Save_the_profile_first">"Əvvəlcə profili yaddaşa yaz"</string>
     <string name="Birthday">"Ad günü"</string>
-    <string name="Mass_Boost">"Kütlə Artırıcı"</string>
+    <string name="Mass_Boost">"Kütlə Artırıcı (fast start)"</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">"Kütlə Artırıcı arenalarda, turnirlərdə, klan müharibələrində və ya FFA Klassik-də işləmir!"</string>
     <string name="ArenaDescriptionPure">"Avtoklik və ya Ultraklik YOXDUR. Yalnız bir şansınız var. Qalib %s plazma alacaq. Ticarət uduşları və ya pulsuz uduşlar qadağa ilə nəticələnəcək"</string>
     <string name="_1v1_Pure">"1v1 Saf"</string>
@@ -1081,7 +1081,7 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
     </string>
     <string name="PLAY_ONLINE_">"ONLINE OYNA!"</string>
 
-    <string name="Absorb_10_000_000_dots">"10,000,000 nöqtəni udmaq"</string>
+    <string name="Absorb_10_000_000_dots">"10,000,000 nöqtəni yemək"</string>
     <string name="Dot_Deity">"Nöqtə İlahı"</string>
     <string name="Mass_Mastery">"Kütlə Ustası"</string>
     <string name="Gain_100_000_000_mass">"100.000.000 kütlə qazan"</string>
@@ -1121,8 +1121,8 @@ Bu, xüsusi cildlərdə istifadə edilməsi * QADAĞAN * olan şeylərin siyahı
     <string name="Hooked">"Qarmaqlı"</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">"10 saniyə ərzində qarmaqla gedin"</string>
     <string name="Pack">"Paket"</string>
-    <string name="Skin_Pack">"Cild Paketi"</string>
-    <string name="SKIN_PACK">"Cild Paketi"</string>
+    <string name="Skin_Pack">"Cild Paketi satılır"</string>
+    <string name="SKIN_PACK">"Cild Paketi satılır"</string>
     <string name="HALLOWEEN">"Cadugər Bayramı"</string>
     <string name="pack_info">"Bu cild paketini aldıqdan sonra eksklüziv cildləriniz cild seçim menyularının yuxarısında görünəcək."</string>
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">"EKSKLÜZİV Cildlər, Ev Heyvanları, Papaqlar və daha çox!"</string>
