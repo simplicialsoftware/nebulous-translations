@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="Players">"اللاعبين."</string>
+    <string name="Players">"اللاعبين"</string>
     <string name="Control_">"التحكم"</string>
     <string name="CLOSE">"إغلاق"</string>
     <string name="Stick_Size_">"حجم موجه الدائرة:"</string>
@@ -27,35 +27,35 @@
     <string name="Yes">"نعم"</string>
     <string name="No">"لا"</string>
     <string name="WAIT">"انتظر …"</string>
-    <string name="Must_Specify_Name_">"يجب تحديد الإسم."</string>
+    <string name="Must_Specify_Name_">"يجب تحديد الإسم"</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
 
     <string name="_Rank_">" المرتبة "</string>
     <string name="_Alias_">" الإسم المُستعار "</string>
-    <string name="_Score_">" النقاط "</string>
-    <string name="Score__">"النقاط: "</string>
+    <string name="_Score_">" النُقاط "</string>
+    <string name="Score__">"النُقاط: "</string>
     <string name="Recombine_">"إعادة التجميع: "</string>
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"خمول"</string>
     <string name="Name_Invalid_">"الإسم غير صالح !"</string>
-    <string name="Name_Taken_">"الاسم مستعمل."</string>
+    <string name="Name_Taken_">"الاسم مستعمل"</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
     <string name="PLAYING">"في طور اللعب"</string>
     <string name="MULTIPLAYER">"متعدد اللاعبين"</string>
 
-    <string name="JOIN">"إنضم"</string>
+    <string name="JOIN">إنضم"</string>
 
 
-    <string name="Lobby_Name">"أسم السيرفر"</string>
-    <string name="Not_found_">"لم يتم العثور عليه."</string>
+    <string name="Lobby_Name">"إسم السيرفر"</string>
+    <string name="Not_found_">"لم يتم العثور عليه"</string>
 
     <string name="Hidden">"مخفي"</string>
 
 
     <string name="SERVER">"سيرفر"</string>
-    <string name="Joining_game_in_">"الانضمام للعبة "</string>
+    <string name="Joining_game_in_">"الإنضمام للعبة "</string>
     <string name="Game_Full">"اللعبه ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
@@ -73,7 +73,7 @@
 
     <string name="OK">"حسنًا"</string>
     <string name="CANCEL">"إلغاء"</string>
-    <string name="Chat_Name">"اسم الدردشة"</string>
+    <string name="Chat_Name">"إسم الدردشة"</string>
     <string name="Max_People">"الحد الأقصى للناس"</string>
     <string name="START">"البداية"</string>
     <string name="CREATE">"إنشاء"</string>
@@ -91,14 +91,14 @@
     <string name="Signed_in_as_">"تم تسجيل الدخول كـ:"</string>
     <string name="Not_signed_in_">"لم يتم تسجيل الدخول"</string>
     <string name="SET_NAME">"تحديد الإسم"</string>
-    <string name="SIGN_OUT">"تسجيل الخروج من الحساب"</string>
+    <string name="SIGN_OUT">"تسجيل خروج من الحساب"</string>
     <string name="ACHIEVEMENTS">"الإنجازات"</string>
     <string name="STATISTICS">"الإحصائيات"</string>
-    <string name="XP_">"نقاط الخبرة:"</string>
+    <string name="XP_">"نُقاط الخبرة:"</string>
 
     <string name="Information">"معلومات"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"لاستخدام هذه الصورة يجب أن تحقق الإنجاز"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"لاستخدام هذه الصورة يجب أن تصل إلى المستوى"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"لإستخدام هذه الصورة يجب أن تحقق الإنجاز"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"لإستخدام هذه الصورة يجب أن تصل إلى المستوى"</string>
     <string name="SIGN_IN">"تسجيل الدخول"</string>
 
     <string name="Single_Player_Stats">"إحصائيات لاعب واحد"</string>
@@ -127,10 +127,10 @@
     <string name="DONE">"تَـم"</string>
     <string name="Friend_Request_Sent">"تم إرسال طلب الصداقة …"</string>
     <string name="ERROR">"خطأ"</string>
-    <string name="CONTINUE">"متابعة"</string>
-    <string name="Global_" formatted="false">"عالميا"</string>
+    <string name="CONTINUE">"مُتابعة"</string>
+    <string name="Global_" formatted="false">"عالمياً"</string>
     <string name="FRIEND_CHAT">"دردشة الأصدقاء"</string>
-    <string name="LOBBY_NAME">"اسم الردهة"</string>
+    <string name="LOBBY_NAME">"إسم الردهة"</string>
     <string name="NULL">"لا شيء"</string>
 
 
@@ -170,7 +170,7 @@
     <string name="Blobageddon">"ماسح الدوائر"</string>
     <string name="Blobocalypse">"مدمر الدوائر"</string>
 
-    <string name="Experienced_Nebulator">"لاعب متمرس"</string>
+    <string name="Experienced_Nebulator">"لاعب مُتَمرس"</string>
     <string name="Expert_Nebulator">"لاعب خبير"</string>
     <string name="Master_Nebulator">"لاعب متدرب"</string>
     <string name="Grand_Master_Nebulator">"لاعب محترف"</string>
@@ -179,17 +179,17 @@
     <string name="Perfection">"الإتقان"</string>
     <string name="Single_Handedly">"عمل فردي"</string>
     <string name="Dodgey">"ملاحق الكلاب"</string>
-    <string name="Self_Contained">"اللاعب المتحفظ"</string>
-    <string name="Survivalist">"المكافح"</string>
+    <string name="Self_Contained">"اللاعب المُتحفظ"</string>
+    <string name="Survivalist">"المُكافح"</string>
     <string name="Ultramassive">"العملاق"</string>
     <string name="Rapid_Ascension">"الصعود السريع"</string>
-    <string name="Revenge">"انتقام"</string>
+    <string name="Revenge">"إنتقام"</string>
     <string name="Doge_Pound">"جامع الكلاب"</string>
 
     <string name="Absorb_50_dots">"استيعاب ٥٠ نقطة"</string>
     <string name="Absorb_300_dots">"استيعاب ٣٠٠ نقطة"</string>
-    <string name="Absorb_1_000_dots">"استيعاب ج ١٠٠٠ نقطة"</string>
-    <string name="Absorb_5_000_dots">"استيعاب ٥٠٠٠ نقطة"</string>
+    <string name="Absorb_1_000_dots">"استيعاب  ١،٠٠٠ نقطة"</string>
+    <string name="Absorb_5_000_dots">"استيعاب ٥،٠٠٠ نقطة"</string>
     <string name="Absorb_10_000_dots">"استيعاب ١٠،٠٠٠ النقاط"</string>
     <string name="Absorb_50_000_dots">"استيعاب ٥٠،٠٠٠ النقاط"</string>
     <string name="Absorb_100_000_dots">"استيعاب ١٠٠،٠٠٠ النقاط"</string>
@@ -210,9 +210,9 @@
     <string name="Absorb_160_player_blobs_without_restarting">"استيعاب ١٦٠ من دوائر اللاعبين دون إعادة التشغيل"</string>
     <string name="Absorb_240_player_blobs_without_restarting">"استيعاب ٢٤٠ من دوائر اللاعبين دون إعادة التشغيل"</string>
 
-    <string name="Reach_a_score_of_1_000">" الوصول الى ١٠٠٠ درجة"</string>
-    <string name="Reach_a_score_of_5_000">"الوصول الى ٥٠٠٠ درجة"</string>
-    <string name="Reach_a_score_of_10_000">"الوصول الى ١٠،٠٠٠ درجة"</string>
+    <string name="Reach_a_score_of_1_000">" الوصول الى ١،٠٠٠ درجة"</string>
+    <string name="Reach_a_score_of_5_000">"الوصول الى ٥،٠٠٠ درجة"</string>
+    <string name="Reach_a_score_of_10_000">"الوصول إلى ١٠،٠٠٠ درجة"</string>
     <string name="Reach_a_score_of_15_000">"الوصول إلى ١٥،٠٠٠ درجة"</string>
     <string name="Reach_a_score_of_20_000">"الوصول إلى ٢٠،٠٠٠ درجة"</string>
 
@@ -227,43 +227,43 @@
     <string name="Absorb_5_doges_without_restarting">"استيعاب ٥ من اللاعبين بصورة الكلب دون إعادة تشغيل"</string>
 
     <string name="Friends">" الأصدقاء"</string>
-    <string name="Dots_Eaten_">"النقاط المأكولة:"</string>
+    <string name="Dots_Eaten_">"النُقاط المأكولة:"</string>
     <string name="Blobs_Eaten_">"الدوائر المأكولة:"</string>
     <string name="Blobs_Lost_">"الدوائر المفقودة:"</string>
-    <string name="Mass_Gained_">"النقاط التي تم إكتسابها:"</string>
-    <string name="Mass_Ejected_">"النقاط التي تم إطلاقها:"</string>
+    <string name="Mass_Gained_">"النُقاط التي تم إكتسابها:"</string>
+    <string name="Mass_Ejected_">"النُقاط التي تم إطلاقها:"</string>
     <string name="Times_Ejected_">"عدد مرات الإطلاق:"</string>
-    <string name="Times_Split_">"عدد الإنقسامات :"</string>
+    <string name="Times_Split_">"عدد مرات الإنقسامات :"</string>
     <string name="Biggest_Blob_">"أكبر دائرة:"</string>
     <string name="Highest_Score_">"أعلى درجة :"</string>
-    <string name="Average_Score_">"معدل النقاط:"</string>
+    <string name="Average_Score_">"مُعدل النِقاط:"</string>
     <string name="Times_Played_">"عدد مرات اللعب:"</string>
     <string name="Longest_Life_">"أطول مدة حياة:"</string>
     <string name="Games_Won_">"المباريات المربوحة:"</string>
 
-    <string name="You_must_wait_until_the_end_of_the_round_">"يجب عليك الانتظار حتى نهاية الجولة"</string>
+    <string name="You_must_wait_until_the_end_of_the_round_">"يجب عليك الإنتظار حتى نهاية الجولة"</string>
     <string name="Dont_show_again">"عدم الإظهار مرة أخرى"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"تم العثور على نسخة احتياطية من احصائيات لاعب واحد مع نقاط خبرة اعلى . هل ترغب في استعادة النسخة الاحتياطية؟"</string>
 
     <string name="Special_Effects">"المؤثرات الخاصة"</string>
     <string name="Blob_Mushiness">"طراء الدائرة"</string>
 
-    <string name="Specify_private_game_name">"تحديد اسم اللعبة الخاصة"</string>
+    <string name="Specify_private_game_name">"تحديد إسم اللعبة الخاصة"</string>
     <string name="In_Game_Chat">" الدردشة في اللعبة"</string>
     <string name="My_Status_">"حالتي:"</string>
     <string name="Game_Size_">"حجم اللعبة :"</string>
 
     <string name="Server_Restart_">"إعادة تشغيل السيرفر:"</string>
     <string name="GOAL_">"هدف!"</string>
-    <string name="SOCCER">"كرة القدم"</string>
+    <string name="SOCCER">"كُرة القدم"</string>
     <string name="DRAW">"تعادل"</string>
 
-    <string name="Clan_Name">"اسم العشيرة"</string>
+    <string name="Clan_Name">"إسم العشيرة"</string>
     <string name="Clan">"العشيرة"</string>
 
 
-    <string name="JOIN_CLAN">"انضم للعشيرة"</string>
-    <string name="JOIN_RANDOM_CLAN">"انضمام لعشيرة عشوائية"</string>
+    <string name="JOIN_CLAN">"إنضم للعشيرة"</string>
+    <string name="JOIN_RANDOM_CLAN">"الإنضمام لعشيرة عشوائية"</string>
     <string name="LEAVE_CLAN">"الخروج من العشيرة"</string>
     <string name="INVITE_MEMBER">"دعوة لاعب"</string>
     <string name="REMOVE_MEMBER">"إزالة العضو"</string>
@@ -276,24 +276,24 @@
     <string name="ELDER">"نائب المشرف"</string>
 
 
-    <string name="Not_in_a_clan_">"انت لست عضواً في أي عشيرة."</string>
+    <string name="Not_in_a_clan_">"انت لست عضواً في أي عشيرة"</string>
 
 
     <string name="CLAN">"العشيرة"</string>
 
 
     <string name="Specify_Clan_ID">"تحديد هوية العشيرة"</string>
-    <string name="Show_Clan_Names">"مشاهدة أسماء العشائر"</string>
-    <string name="Show_Levels">"مشاهدة المستويات"</string>
+    <string name="Show_Clan_Names">"مُشاهدة أسماء العشائر"</string>
+    <string name="Show_Levels">"مُشاهدة المستويات"</string>
     <string name="SET_MOTD">"ضع رسالة اليوم"</string>
-    <string name="No_such_user_found_">"لم يتم العثور على هذا المستخدم."</string>
-    <string name="No_open_public_clans_exist_">"لا يوجد عشيرة عامة مفتوحة."</string>
-    <string name="You_aren_t_invited_to_that_clan_">"لم يتم دعوتك إلى هذه العشيرة."</string>
+    <string name="No_such_user_found_">"لم يتم العثور على هذا المستخدم"</string>
+    <string name="No_open_public_clans_exist_">"لا يوجد عشيرة عامة مفتوحة"</string>
+    <string name="You_aren_t_invited_to_that_clan_">"لم يتم دعوتك إلى هذه العشيرة"</string>
     <string name="No_such_clan_exists_">"لا يوجد مثل هذه العشيرة !"</string>
-    <string name="That_clan_is_full_">"هذه العَشيرة ممتَلئة!"</string>
+    <string name="That_clan_is_full_">"هذه العَشيرة مُمتَلئة!"</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"هذا المستخدم ليس عضو في عشيرتك:"</string>
     <string name="_You_can_t_be_your_own_friend_">"لا يمكنك أن تكون صديق لنفسك:"</string>
-    <string name="A_clan_with_that_name_already_exists_">"عشيرة بهذا الإسم موجودة مسبقا:"</string>
+    <string name="A_clan_with_that_name_already_exists_">"توجد عشيرة بهذا الإسم جرب إسم أخر:"</string>
     <string name="Duration_">"المدة:"</string>
 
     <string name="FFA_Time_Domination">"سيطرة بالتوقيت"</string>
@@ -314,8 +314,8 @@
     <string name="Score_3_goals_in_a_single_Soccer_game_">"تسجيل 3 أهداف في مباراة لكرة القدم واحدة."</string>
     <string name="Total_Domination">"إجمالي السيطرة"</string>
     <string name="Win_500_games_of_any_type_">"الفوز بـ 500 لعبة من اي نوع."</string>
-    <string name="Translations">"المـتـرجمـون"</string>
-    <string name="Developers">"المـطـورون"</string>
+    <string name="Translations">"المُـتـرجمـون"</string>
+    <string name="Developers">"المُـطـورون"</string>
     <string name="Special_Thanks">"شُـكـر خـاص"</string>
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"شُـكـر كـبـيـر لـكـل مـشـجـعي Nebulous!"</string>
     <string name="Color_Blind">"عمى الألوان"</string>
@@ -344,7 +344,7 @@
 
     <string name="pumpkins_">"اليقطين."</string>
     <string name="To_use_this_skin_you_must_collect">"لاستخدام هذه الصورة يجب عليك جمع"</string>
-    <string name="Australia">"أستراليا"</string>
+    <string name="Australia">"اُستراليا"</string>
     <string name="Pumpkin_Collector">"جامع اليقطين"</string>
     <string name="Collect_1000_pumpkins_">"جمع 1000 يقطينة."</string>
 
@@ -357,7 +357,7 @@
     <string name="Searching">"جاري البحث"</string>
     <string name="In_Progress">"قيد التقدم"</string>
 
-    <string name="Wins">"انتصارات"</string>
+    <string name="Wins">"الإنتصارات"</string>
 
     <string name="Score">"النقاط"</string>
     <string name="Rating">"تصنيف"</string>
@@ -376,13 +376,13 @@
     <string name="W_D_L">"ف-ت-خ"</string>
     <string name="MATCH_START">"بداية المباراة بعد"</string>
     <string name="Clan_Warrior">"محارب العشيرة"</string>
-    <string name="Win_a_Clan_War">"فوز بحرب عشائر"</string>
+    <string name="Win_a_Clan_War">"فوز بحرب العشائر"</string>
     <string name="Global">"عالمي"</string>
     <string name="Spectating">"مشاهدة"</string>
 
 
     <string name="snowflakes_">"الثلوج٠"</string>
-    <string name="presents_">"الهدايا."</string>
+    <string name="presents_">"الهدايا"</string>
     <string name="Snowflake_Collector">"جامع الثلوج"</string>
     <string name="Present_Collector">"جامع الهدايا"</string>
 
@@ -394,7 +394,7 @@
     <string name="leaves_">"الأوراق."</string>
     <string name="Leaf_Collector">"جامع الأوراق"</string>
     <string name="Collect_1000_leaves_">"جمع 1000 من الأوراق."</string>
-    <string name="XP_Boost">"مسرع نقاط الخبرة"</string>
+    <string name="XP_Boost">"مُسرع نقاط الخبرة"</string>
     <string name="Double">"مزدوج"</string>
     <string name="Hour">"ساعة"</string>
     <string name="Hours">"ساعات"</string>
@@ -409,34 +409,34 @@
     <string name="Enter_the_Arena">"دخول تحدي"</string>
 
 
-    <string name="Purchase_History">"سِجِل المشتريات"</string>
+    <string name="Purchase_History">"سِجِل المُشتريات"</string>
 
     <string name="Purchases_Unavailable_">"المُشتريات غير متوفرة!"</string>
-    <string name="You_can_purchase_this_skin_for">"يمكنك شراء هذه الصورة!"</string>
-    <string name="PURCHASE">"شراء"</string>
+    <string name="You_can_purchase_this_skin_for">"تستطيع شِراء هذه الصورة!"</string>
+    <string name="PURCHASE">"شِراء"</string>
     <string name="Error_in_backup_data_">"خطأ في البيانات الاحتياطية!"</string>
 
 
     <string name="Remove_Ads">"إزالة الاعلانات"</string>
-    <string name="Reward">" مكافاة"</string>
+    <string name="Reward">" مُكافاة"</string>
     <string name="Please_Wait___">"الرجاء الإنتظار…"</string>
-    <string name="Purchasing">"المشتريات"</string>
+    <string name="Purchasing">"المُشتريات"</string>
 
-    <string name="Purchase_Successful_">" تم الشراء!"</string>
-    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"قد تحتاج لإعادة الدخول لكي يتم التفعيل."</string>
+    <string name="Purchase_Successful_">" تم الشِراء!"</string>
+    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"قد تحتاج لإعادة الدخول حتى يتم التفعيل."</string>
     <string name="Confirm_Purchase">"تأكيد الشراء"</string>
     <string name="x3_XP_24_hours">"3X XP 24 ساعة"</string>
     <string name="x3_XP_1_Hour">"3X XP 1 ساعة"</string>
     <string name="x2_XP_24_Hour">"2X XP 24 ساعة"</string>
     <string name="x2_XP_1_Hour">"2X XP 1 ساعة"</string>
     <string name="Cost_">"الثمن:"</string>
-    <string name="You_cannot_purchase_this_right_now_">"لا يمكنك شراء هذا الآن."</string>
+    <string name="You_cannot_purchase_this_right_now_">"لا يمكنك شِراء هذا الآن."</string>
 
 
-    <string name="Loading_Purchases___">"تحميل المشتريات …"</string>
-    <string name="In_App_Purchases">"المشتريات في التطبيق"</string>
-    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"لا يمكن تطبيق مسرع جديد لنقاط الخبرة حتى ينتهي المسرع الحالي."</string>
-    <string name="This_purchase_has_already_been_redeemed_">"تم إرجاع الشراء."</string>
+    <string name="Loading_Purchases___">"تحميل المُشتريات …"</string>
+    <string name="In_App_Purchases">"المِشتريات في التطبيق"</string>
+    <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"لا يُمكن وضع مُسرع نقاط حتى ينتهي المُسرع الحالي."</string>
+    <string name="This_purchase_has_already_been_redeemed_">"تم إرجاع الشِراء."</string>
 
     <string name="You_cannot_remove_yourself__Leave_clan_instead_">"لا يمكنك ازالة نفسك .. يمكنك مغادرة العشيرة بدلاً من ذلك."</string>
 
@@ -454,7 +454,7 @@
     <string name="View_Profile">"عرض الصفحة الشخصية"</string>
     <string name="Send_Message">"إرسال رسالة"</string>
     <string name="Account_ID">"رقم هوية الحساب"</string>
-    <string name="Player_Name">"اسم اللاعب"</string>
+    <string name="Player_Name">"إسم اللاعب"</string>
 
     <string name="Daily_Reward">"المكافأة اليومية"</string>
     <string name="Reset">"إعادة تعيين"</string>
@@ -466,7 +466,7 @@
     <string name="Collect_10_000_Plasma_">"جمع 10،000 من البلازما."</string>
     <string name="Collect_100_000_Plasma">"جمع 100،000 من البلازما."</string>
     <string name="Plasma_Collected_">"البلازما المجموعة :"</string>
-    <string name="Plasma_Purchases">"مشتريات البلازما"</string>
+    <string name="Plasma_Purchases">"مُشتريات البلازما"</string>
 
     <string name="ENTER">"أدخل"</string>
     <string name="_1v1">"١ضد١"</string>
@@ -533,14 +533,14 @@
     <string name="Win_by_50_points_in_a_DOM_game_">"الفوز بفارق 50 نقطة في لعبة السيطرة."</string>
     <string name="Score_33_points_in_a_single_DOM_game_">"تسجيل 33 نقطة في لعبة سيطرة واحدة."</string>
     <string name="Win_a_Domination_Game">"الفوز في لعبة السيطرة"</string>
-    <string name="Select_Team">"اختر فريق"</string>
+    <string name="Select_Team">"إختر فريق"</string>
     <string name="MANAGE_TEAMS">"إدارة الفِرق"</string>
     <string name="CLAN_INVITE">"الدعوة إلى العشيرة"</string>
     <string name="TEAM_INVITE">"الدعوة الى الفريق"</string>
     <string name="Team_Size">"حجم الفريق"</string>
-    <string name="Team_Name">"اسم الفريق"</string>
+    <string name="Team_Name">"إسم الفريق"</string>
     <string name="CREATE_TEAM">"إنشاء فريق"</string>
-    <string name="Solo">"منفرد"</string>
+    <string name="Solo">"فردي"</string>
     <string name="Teams">"الفِرق"</string>
     <string name="Team">"الفريق"</string>
     <string name="Specify_Account_ID">"تحديد رقم هوية الحساب"</string>
@@ -579,7 +579,7 @@
     <string name="You_dont_own_the_team_">" انت لا تمتلك الفريق:"</string>
     <string name="User_has_already_been_invited_">" تمت دعوة المستخدم ."</string>
     <string name="Maximum_players_allowed_on_the_team_">"عدد اللاعبين الأقصى المسموح به في الفريق:"</string>
-    <string name="Name_is_already_in_use_">"الاسم قيد الإستخدام بالفعل"</string>
+    <string name="Name_is_already_in_use_">"الإسم قيد الإستخدام بالفعل"</string>
     <string name="User_is_not_in_the_team_">"اللاعب ليس في الفريق."</string>
     <string name="You_are_not_invited_to_team_">"لست مدعو إلى الفريق:"</string>
     <string name="Team_does_not_exist_">"لا وجود لهذا الفريق:"</string>
@@ -592,12 +592,12 @@
     <string name="Bead_Mogul">"ملك الكريات"</string>
     <string name="beads_">"الكريات."</string>
 
-    <string name="Rejoin_Game">"إعادة الانضمام للعبة"</string>
+    <string name="Rejoin_Game">"إعادة الإنضمام للعبة"</string>
     <string name="PRIZES">"الجوائز"</string>
 
     <string name="Enable_Custom_Skin">"تمكين الصور المخصصة"</string>
     <string name="Use_Custom_Skin">"الصورة المخصصة"</string>
-    <string name="custom_skin_description">"تمكنك هذه الميزة من تحميل صورتك الشخصية التي لن تظهر للجميع حتى تفعلها عن طريق الشراء."</string>
+    <string name="custom_skin_description">"تمكنك هذه الميزة من تحميل صورتك الشخصية التي لن تظهر للجميع حتى تُفعلها عن طريق الشِراء."</string>
     <string name="CUSTOM_SKIN">"الصورة المخصصة"</string>
 
     <string name="Facebook_Profile">"ملف الفيسبوك الشخصي"</string>
@@ -606,7 +606,7 @@
     <string name="copied_error_details_to_clipboard">"تم نسخ تفاصيل الخطأ إلى الحافظة"</string>
 
     <string name="No_file_browser_installed_">"لا ملف متصفح مثبت!"</string>
-    <string name="Choose_File">"أختر ملف"</string>
+    <string name="Choose_File">"إختر ملف"</string>
     <string name="Google_Profile">"الملف الشخصي في Google"</string>
     <string name="You_must_be_signed_in_to_Google_">"يجب تسجيل الدخول إلى برنامج Google."</string>
 
@@ -744,7 +744,7 @@
     <string name="List_Count_">"عدد القائمة:"</string>
     <string name="Download_Skins">"تحميل الصور"</string>
     <string name="ARENA_HISTORY">" سجل التحديات"</string>
-    <string name="WIN">"انتصار"</string>
+    <string name="WIN">"إنتصار"</string>
     <string name="LOSS">"خسارة"</string>
     <string name="Other_players_can_not_see_your_skin_">"اللاعبون الآخرون لا يمكنهم رؤية صورتك."</string>
     <string name="Other_players_can_see_your_skin_">"اللاعبون الآخرون يمكنهم رؤية صورتك."</string>
@@ -814,7 +814,7 @@
     <string name="Prize_Pool">مجموع الجوائز</string>
     <string name="Registrants">المسجلين</string>
     <string name="Round_Of">الجولة من</string>
-    <string name="Next_Tournament">البطولة المقبلة</string>
+    <string name="Next_Tournament">البطولة المُقبلة</string>
     <string name="Plasma_Won">البلازما المربوحة</string>
     <string name="Semi_Finals">نصف النهائي</string>
     <string name="Quarter_Finals">ربع النهائي</string>
