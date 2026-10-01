@@ -170,7 +170,7 @@
     <string name="Blobageddon">"Blobagedón"</string>
     <string name="Blobocalypse">"Blobocalípsis"</string>
 
-    <string name="Experienced_Nebulator">"Jugador Experimentado"</string>
+    <string name="Experienced_Nebulator">"Jugador experimentado"</string>
     <string name="Expert_Nebulator">"Jugador Experto"</string>
     <string name="Master_Nebulator">"Maestro de Nebulous"</string>
     <string name="Grand_Master_Nebulator">"Gran Maestro de Nebulous"</string>
@@ -253,12 +253,12 @@
     <string name="My_Status_">"Mi estado:"</string>
     <string name="Game_Size_">"Tamaño del mapa:"</string>
 
-    <string name="Server_Restart_">"Reiniciando Servidor:"</string>
+    <string name="Server_Restart_">"Reiniciando servidor:"</string>
     <string name="GOAL_">"¡GOL!"</string>
     <string name="SOCCER">"FÚTBOL"</string>
     <string name="DRAW">"EMPATE"</string>
 
-    <string name="Clan_Name">"Nombre del Clan"</string>
+    <string name="Clan_Name">"Nombre del clan"</string>
     <string name="Clan">"Clan"</string>
 
 
@@ -283,8 +283,8 @@
 
 
     <string name="Specify_Clan_ID">"Especifica la ID del Clan"</string>
-    <string name="Show_Clan_Names">"Mostrar Clanes"</string>
-    <string name="Show_Levels">"Mostrar Niveles"</string>
+    <string name="Show_Clan_Names">"Mostrar clanes"</string>
+    <string name="Show_Levels">"Mostrar niveles"</string>
     <string name="SET_MOTD">"ESTABLECER DESCRIPCIÓN"</string>
     <string name="No_such_user_found_">"No se encontró dicho usuario "</string>
     <string name="No_open_public_clans_exist_">"No existen Clanes públicos abiertos "</string>
@@ -451,12 +451,12 @@
 
 
     <string name="Copy_ID">"Copiar ID"</string>
-    <string name="View_Profile">"Ver Perfil"</string>
-    <string name="Send_Message">"Enviar Mensaje"</string>
+    <string name="View_Profile">"Ver perfil"</string>
+    <string name="Send_Message">"Enviar mensaje"</string>
     <string name="Account_ID">"Ver ID"</string>
-    <string name="Player_Name">"Nombre del Jugador"</string>
+    <string name="Player_Name">"Nombre del jugador"</string>
 
-    <string name="Daily_Reward">"Recompensa Diaria"</string>
+    <string name="Daily_Reward">"Recompensa diaria"</string>
     <string name="Reset">"Reiniciar"</string>
     <string name="Plasma">"Plasma"</string>
     <string name="Plasma_Mogul">"Magnate de Plasma"</string>
@@ -781,7 +781,7 @@
     <string name="BLOCK">"BLOQUEAR"</string>
     <string name="DELETE">"BORRAR"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Nota: Se puede desbloquear a alguien enviándole una solicitud de amistad "</string>
-    <string name="Select_Friend">"Elije un Amigo"</string>
+    <string name="Select_Friend">"Elige un amigo"</string>
     <string name="Failed_to_send_mail_">"No se pudo enviar el correo "</string>
     <string name="In_Game_Mail">"Correo del Juego"</string>
     <string name="Nav_Buttons_">"Botones Chat/desafíos:"</string>
@@ -925,7 +925,7 @@
     <string name="BLOB_COLOR">"COLOR DE BLOB"</string>
     <string name="ENABLED">"HABILITADO"</string>
     <string name="Enable_Custom_Blob_Color">"Habilitar color personalizado del blob"</string>
-    <string name="Choose_Menu">"Elije el menú"</string>
+    <string name="Choose_Menu">"Elige el menú"</string>
     <string name="SPECTATE">"OBSERVAR"</string>
     <string name="INVITE">INVITAR</string>
     <string name="error_1">Únicamente el líder o colíderes pueden enviar un correo al clan</string>
