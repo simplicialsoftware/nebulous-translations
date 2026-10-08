@@ -321,7 +321,7 @@
     <string name="Color_Blind">"عمى الألوان"</string>
     <string name="Daily_Quest_Complete_">"تم إنجاز المهمة اليومية !"</string>
     <string name="COPY_ID">"نسخ رقم الهوية"</string>
-    <string name="My_Account_ID">"نسخ رقم هوية حسابي"</string>
+    <string name="My_Account_ID">"هوية حسابي"</string>
 
 
     <string name="COMPLETE">"تم الإنجاز"</string>
@@ -342,8 +342,8 @@
     <string name="FFA_CLASSIC">"حر للجميع الكلاسيكية"</string>
 
 
-    <string name="pumpkins_">"اليقطين."</string>
-    <string name="To_use_this_skin_you_must_collect">"لاستخدام هذه الصورة يجب عليك جمع"</string>
+    <string name="pumpkins_">"اليقطينات"</string>
+    <string name="To_use_this_skin_you_must_collect">"لأستخدام هذا المظهر يجب عليك جمع"</string>
     <string name="Australia">"أستراليا"</string>
     <string name="Pumpkin_Collector">"جامع اليقطين"</string>
     <string name="Collect_1000_pumpkins_">"جمع 1000 يقطينة."</string>
@@ -720,7 +720,7 @@
     <string name="Ends">"تنتهي"</string>
     <string name="Select_Clan_Member">"تحديد عضو العشيرة"</string>
     <string name="Inappropriate_Skin">"صورة غير لائقة"</string>
-    <string name="Approved">"تم الموافقة عليها"</string>
+    <string name="Approved"> تمت الموافقة عليها"</string>
     <string name="Rejected">"تم رفضها"</string>
     <string name="Refunded">"تم التعويض"</string>
 
@@ -756,7 +756,7 @@
     <string name="Compression_Quality_">"ضغط الجودة:"</string>
     <string name="inapproriate_info">"وتشمل الصور الغير لائقة, الكراهية، وجور، الصور الفاحشة ، صورالعنف والمخدرات والجنس والعري، صور شخصية لكامل الجسم، الغموض، غير وضوح، و صور المستويات الغير معدلة."</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">"هل أنت متأكد أنك تريد تحميل هذه الصورة؟"</string>
-    <string name="Grant_Permission">"يعطي الأذن"</string>
+    <string name="Grant_Permission">" منح الإذن"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"اللعبة تحتاج إذن التخزين لإسترجاع النسخة الإحتياطية الخاصة بك للاعب واحد!"</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"اللعبة تحتاج إذن تحديد الموقع للعثور على أجهزة بلوتوث قريبة."</string>
     <string name="FFA_ULTRA">"حر للجميع الفائقة"</string>
@@ -1353,7 +1353,7 @@ Commands:
     <string name="TYCOON">حاصِد</string>
     <string name="CLAN_BACKGROUND_COLOR">لون خلفية العشيرة</string>
     <string name="activate">تفعيل</string>
-    <string name="clan_id">رقم هوية العشيرة</string>
+    <string name="clan_id"> هويةالعشيرة</string>
     <string name="language_change_warning">سيؤدي تغيير اللغة إلى إعادة تشغيل التطبيق.</string>
     <string name="xmas_gift_boost_message">لقد تلقيت هدية تعزيز البلازما 3 مرات ليوم واحد!</string>
     <string name="no_response">لا توجد استجابة من الخادم. يرجى التحقق من اتصال الإنترنت.</string>
