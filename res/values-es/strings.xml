@@ -2,8 +2,8 @@
     <string name="Players">"Jugadores"</string>
     <string name="Control_">"Control:"</string>
     <string name="CLOSE">"CERRAR"</string>
-    <string name="Stick_Size_">"Tamaño pad:"</string>
-    <string name="Stick_Margin_">"Ubicación pad:"</string>
+    <string name="Stick_Size_">"Tamaño de joystick:"</string>
+    <string name="Stick_Margin_">"Ubicación de joystick:"</string>
     <string name="Button_Size_">"Tamaño botones:"</string>
     <string name="Button_Margin_">"Margen botones:"</string>
     <string name="Buttons_">"Botones:"</string>
@@ -566,7 +566,7 @@
     <string name="Remove_Clan_Member">"Expulsar Miembro del Clan"</string>
     <string name="Flag_lobby_as_inappropriate">"Marcar sala como inapropiada"</string>
     <string name="Promote_Clan_Member">"Ascender miembro"</string>
-    <string name="Leave_Clan">"Dejar el Clan"</string>
+    <string name="Leave_Clan">"Salir del Clan"</string>
     <string name="Candy_Hoarder">"Acaparador de Caramelos"</string>
     <string name="Candy_Collector">"Coleccionista de Caramelos"</string>
     <string name="Candy_Mogul">"Magnate de Caramelos"</string>
