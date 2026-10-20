@@ -197,7 +197,7 @@
     <string name="Mass_Gained_">"Mass na Nakuha:"</string>
     <string name="Mass_Ejected_">"Mass na na-eject:"</string>
     <string name="Times_Ejected_">"Bilang na na-eject:"</string>
-    <string name="Times_Split_">"Times Split:"</string>
+    <string name="Times_Split_">"Hati ng mga Oras:"</string>
     <string name="Biggest_Blob_">"Pinaka malaking Blob:"</string>
     <string name="Highest_Score_">"Pinakamataas na Puntos:"</string>
     <string name="Average_Score_">"Average na Puntos:"</string>
@@ -210,7 +210,7 @@
     <string name="Special_Effects">"Special_Effects:"</string>
     <string name="Blob_Mushiness">"Blob Mushiness:"</string>
     <string name="Specify_private_game_name">"Tukuyin ang pribadong pangalan ng laro:"</string>
-    <string name="In_Game_Chat">"In-Game Chat"</string>
+    <string name="In_Game_Chat">"Pakikipag-chat sa Loob ng Laro"</string>
     <string name="My_Status_">"Ang Status ko:"</string>
     <string name="Game_Size_">"Kalakihan ng Laro:"</string>
     <string name="Server_Restart_">"Server Restart:"</string>
@@ -230,7 +230,7 @@
     <string name="LEADER">"PINUNO:"</string>
     <string name="ELDER">"ELDER:"</string>
     <string name="Not_in_a_clan_">"Wala sa isang Clan:"</string>
-    <string name="CLAN">"CLAN"</string>
+    <string name="CLAN">"ANGKAN"</string>
     <string name="Specify_Clan_ID">"Tukuyin ang ID ng Clan:"</string>
     <string name="Show_Clan_Names">"Ipakita ang pangalan ng Clan:"</string>
     <string name="Show_Levels">"Ipakita ang Antas:"</string>
@@ -244,8 +244,8 @@
     <string name="_You_can_t_be_your_own_friend_">"Hindi mo pwedeng i-kaibiganin ang iyong sarili:"</string>
     <string name="A_clan_with_that_name_already_exists_">"Ang Clan na may ganiyang pangalan ay meyroon na:"</string>
     <string name="Duration_">"Tagal:"</string>
-    <string name="FFA_Time_Domination">"FFA Time Domination:"</string>
-    <string name="Teams_Time_Domination">"Teams Time Domination:"</string>
+    <string name="FFA_Time_Domination">"Paghahari ng Oras ng FFA:"</string>
+    <string name="Teams_Time_Domination">"Pangingibabaw sa Oras ng mga Koponan:"</string>
     <string name="CTF_Domination">"CTF Domination:"</string>
     <string name="CTF_Hat_Trick">"CTF Hat-Trick:"</string>
     <string name="Survival_Domination">"Survival Domination:"</string>
@@ -267,8 +267,8 @@
     <string name="Special_Thanks">"Espesyal na pasasalamat:"</string>
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"Maraming Salamat sa mga Nebulous Fan:"</string>
     <string name="Color_Blind">"Color Blind:"</string>
-    <string name="Daily_Quest_Complete_">"Daily Quest Complete:"</string>
-    <string name="COPY_ID">"COPY ID:"</string>
+    <string name="Daily_Quest_Complete_">"Nakumpleto ang Pang-araw-araw na Pagsisikap:"</string>
+    <string name="COPY_ID">"KOPYAHIN ANG ID:"</string>
     <string name="My_Account_ID">"Ang aking Account ID:"</string>
     <string name="COMPLETE">"KUMPLETO:"</string>
     <string name="INCOMPLETE">"HINDI KUMPLETO:"</string>
@@ -286,17 +286,17 @@
     <string name="Collect_">"Kolektahin:"</string>
     --
     <string name="FFA_CLASSIC">"FFA CLASSIC"</string>
-    <string name="pumpkins_">"pumpkins."</string>
+    <string name="pumpkins_">"mga kalabasa."</string>
     <string name="To_use_this_skin_you_must_collect">"Upang gamitin ang skin, kailangan mong mangolekta ng"</string>
     <string name="Australia">"Australia"</string>
     <string name="Pumpkin_Collector">"Pumpkin Kolektor"</string>
     <string name="Collect_1000_pumpkins_">"Kolektahin 1,000 pumpkins."</string>
     <string name="FFAC">"FFAC"</string>
     <string name="NONE">"WALA"</string>
-    <string name="CLAN_WAR">"CLAN WAR"</string>
-    <string name="Clan_War">"Clan War"</string>
+    <string name="CLAN_WAR">"DIGMAAN NG ANGKAN"</string>
+    <string name="Clan_War">"Digmaan ng Angkan"</string>
     <string name="Forming">"Pagbabalangkas"</string>
-    <string name="Searching">"Searching"</string>
+    <string name="Searching">"Naghahanap"</string>
     <string name="In_Progress">"Isinasagawa"</string>
     <string name="Wins">"Panalo"</string>
     <string name="Score">"Puntos"</string>
@@ -311,8 +311,8 @@
     <string name="My_Ranks">"Aking Ranks"</string>
     <string name="Player_XP">"Player XP"</string>
     <string name="W_D_L">"wdl"</string>
-    <string name="MATCH_START">"MATCH START"</string>
-    <string name="Clan_Warrior">"Clan Warrior"</string>
+    <string name="MATCH_START">"SIMULA NG LARO"</string>
+    <string name="Clan_Warrior">"Mandirigma ng Angkan"</string>
     <string name="Win_a_Clan_War">"Manalo ng isang Clan War"</string>
     <string name="Global">"Global"</string>
     <string name="Spectating">"Nanonood"</string>
