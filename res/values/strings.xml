@@ -36,7 +36,7 @@
     <string name="Yes">"Yes"</string>
     <string name="No">"No"</string>
     <string name="WAIT">"WAIT…"</string>
-    <string name="Must_Specify_Name_">"Must specify name."</string>
+    <string name="Must_Specify_Name_">"You must specify a name."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Content rating of the app may change when finding groups."</string>
 
@@ -47,8 +47,8 @@
     <string name="Recombine_">"Recombine: "</string>
     <string name="WINNER_">"WINNER:"</string>
     <string name="IDLE">"IDLE"</string>
-    <string name="Name_Invalid_">"Name invalid."</string>
-    <string name="Name_Taken_">"Name taken."</string>
+    <string name="Name_Invalid_">"Name is invalid."</string>
+    <string name="Name_Taken_">"Name is taken."</string>
     <string name="CONNECTED">"CONNECTED"</string>
     <string name="JOINING___">"JOINING…"</string>
     <string name="PLAYING">"PLAYING"</string>
@@ -65,9 +65,9 @@
 
     <string name="SERVER">"SERVER"</string>
     <string name="Joining_game_in_">"Joining game in "</string>
-    <string name="Game_Full">"Game Full"</string>
-    <string name="US_East">"Central America"</string>
-    <string name="US_West">"North America"</string>
+    <string name="Game_Full">"Game is full."</string>
+    <string name="US_East">"US East"</string>
+    <string name="US_West">"US West"</string>
     <string name="Europe">"Europe"</string>
     <string name="South_America">"South America"</string>
 
@@ -83,7 +83,7 @@
     <string name="OK">"OK"</string>
     <string name="CANCEL" tools:ignore="ButtonCase">"CANCEL"</string>
     <string name="Chat_Name">"Chat Name"</string>
-    <string name="Max_People">"Max People"</string>
+    <string name="Max_People">"Max Players"</string>
     <string name="START">"START"</string>
     <string name="CREATE">"CREATE"</string>
     <string name="CUSTOM_GAMES">"CUSTOM GAMES"</string>
