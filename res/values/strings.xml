@@ -15,7 +15,7 @@
     <string name="Stick_Margin_">"Stick Margin:"</string>
     <string name="Button_Size_">"Button Size:"</string>
     <string name="Button_Margin_">"Button Margin:"</string>
-    <string name="Buttons_">"Buttons:"</string>
+    <string name="Buttons_">"Buttons"</string>
     <string name="DEFAULTS">"DEFAULTS"</string>
     <string name="WEEKLY">"WEEKLY"</string>
     <string name="DAILY">"DAILY"</string>
@@ -118,14 +118,14 @@
 
     <string name="FRIENDS">"FRIENDS"</string>
     <string name="Warning">"Warning"</string>
-    <string name="SIGNING_IN">"SIGNING IN…"</string>
-    <string name="New_Friend_Request">"New Friend Request!"</string>
+    <string name="SIGNING_IN">SIGNING IN…</string>
+    <string name="New_Friend_Request">"New Friend Request!</string>
     <string name="REQUEST_FRIEND">"REQUEST FRIEND"</string>
     <string name="Private">"Private"</string>
     <string name="Public">"Public"</string>
     <string name="Bot">"Bot"</string>
     <string name="You">"You"</string>
-    <string name="This_player_is_a_bot">"This player is a bot."</string>
+    <string name="This_player_is_a_bot">This player is a bot.</string>
     <string name="This_player_is_not_signed_in">"This player is not signed in."</string>
 
     <string name="Online">"Online"</string>
@@ -134,7 +134,7 @@
     <string name="Achievement_Earned">"Achievement Earned"</string>
     <string name="REFRESH">"REFRESH"</string>
     <string name="DONE">"DONE"</string>
-    <string name="Friend_Request_Sent">"Friend Request Sent…"</string>
+    <string name="Friend_Request_Sent">Friend Request Sent…</string>
     <string name="ERROR">"ERROR"</string>
     <string name="CONTINUE">"CONTINUE"</string>
     <string name="Global_" formatted="false">"Global %"</string>
