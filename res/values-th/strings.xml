@@ -1357,7 +1357,7 @@
     </string-array>
 
     <string-array name="themes">
-        <item>"ดาว (มืด)"</item>
+        <item>"ดาว (ธีมดาว)"</item>
         <item>"ตาราง (มืด)"</item>
         <item>"ตาราง (ขาว)"</item>
         <item>"กำหนดเอง"</item>
@@ -1368,7 +1368,7 @@
         <item>"ง่าย"</item>
         <item>"กลาง"</item>
         <item>"ยาก"</item>
-        <item>"เป็นไปไม่ได้"</item>
+        <item>"นรก"</item>
     </string-array>
 
     <string-array name="sizes">
@@ -1376,7 +1376,7 @@
         <item>"เล็ก"</item>
         <item>"ปกติ"</item>
         <item>"ใหญ่"</item>
-        <item>"มหึมา"</item>
+        <item>"โครตใหญ่"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
