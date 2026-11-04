@@ -39,7 +39,7 @@
     <string name="Recombine_">"Bergabung kembali: "</string>
     <string name="WINNER_">"PEMENANG:"</string>
     <string name="IDLE">"MENGANGGUR"</string>
-    <string name="Name_Invalid_">"Nama tidak berlaku."</string>
+    <string name="Name_Invalid_">"Nama tidak valid."</string>
     <string name="Name_Taken_">"Nama telah diambil."</string>
     <string name="CONNECTED">"TERHUBUNG"</string>
     <string name="JOINING___">"BERGABUNG …"</string>
@@ -53,14 +53,14 @@
     <string name="SERVER">"SERVER"</string>
     <string name="Joining_game_in_">"Bergabung permainan di "</string>
     <string name="Game_Full">"Permainan Penuh"</string>
-    <string name="US_East">"Amerika Tengah"</string>
-    <string name="US_West">"Amerika Utara"</string>
+    <string name="US_East">"Amerika Serikat Bagian Timur"</string>
+    <string name="US_West">"Amerika Serikat Bagian Barat"</string>
     <string name="Europe">"Eropa"</string>
     <string name="South_America">"Amerika Selatan"</string>
     <string name="SINGLE_PLAYER">"PEMAIN TUNGGAL"</string>
     <string name="Background_">"Latar Belakang:"</string>
     <string name="Difficulty_">"Kesulitan:"</string>
-    <string name="Delay_Disconnect">"Memperlambat Disconnect"</string>
+    <string name="Delay_Disconnect">"Penundaan Pemutusan Koneksi"</string>
     <string name="Max_Players">"Maks Pemain"</string>
     <string name="Min_Players">"Min Pemain"</string>
     <string name="OK">"OKE"</string>
@@ -107,7 +107,7 @@
     <string name="Unknown">"Tidak dikenal"</string>
     <string name="Offline">"Luring"</string>
     <string name="Achievement_Earned">"Perolehan Prestasi"</string>
-    <string name="REFRESH">"MENYEGARKAN"</string>
+    <string name="REFRESH">"SEGARKAN"</string>
     <string name="DONE">"SELESAI"</string>
     <string name="Friend_Request_Sent">"Permintaan teman dikirim…"</string>
     <string name="ERROR">"RALAT"</string>
@@ -115,7 +115,7 @@
     <string name="Global_" formatted="false">"Global %"</string>
     <string name="FRIEND_CHAT">"TEMAN OBROLAN"</string>
     <string name="LOBBY_NAME">"NAMA LOBI"</string>
-    <string name="NULL">"TIDAK BERLAKU"</string>
+    <string name="NULL">"KOSONG"</string>
     <string name="ALL">"SEMUA"</string>
     <string name="FFA">"FFA"</string>
     <string name="FFA_TIME">"WAKTU FFA"</string>
@@ -362,11 +362,11 @@
     <string name="Leaf_Hoarder">"Penimbun Daun"</string>
     <string name="Collect_5000_leaves_">"Mengumpulkan 5.000 Daun."</string>
     <string name="Arena">"Arena"</string>
-    <string name="Enter_the_Arena">"Masukkan Arena"</string>
+    <string name="Enter_the_Arena">"Masuk Arena"</string>
     <string name="Purchase_History">"Riwayat Pembelian"</string>
     <string name="Purchases_Unavailable_">"Pembelian Tidak Tersedia!"</string>
     <string name="You_can_purchase_this_skin_for">"Anda dapat membeli kulit ini untuk"</string>
-    <string name="PURCHASE">"Membeli"</string>
+    <string name="PURCHASE">"Beli"</string>
     <string name="Error_in_backup_data_">"Ralat dalam backup data!"</string>
     <string name="Remove_Ads">"Hapus iklan"</string>
     <string name="Reward">"Penghargaan"</string>
@@ -415,7 +415,7 @@
     <string name="Practice">"Latihan"</string>
     <string name="ArenaDescription">"Anda hanya mendapatkan satu kehidupan. Pemenang akan mendapatkan %s plasma."</string>
     <string name="Contestant">"Kontestan"</string>
-    <string name="Duelist">"Duelist"</string>
+    <string name="Duelist">"Duelis"</string>
     <string name="Gladiator">"Gladiator"</string>
     <string name="Challenger">"Penantang"</string>
     <string name="Win_1_1v1_Arenas_">"Memenangkan Arena."</string>
@@ -446,7 +446,7 @@
     <string name="Collect_5_000_presents_">"Mengumpulkan 5.000 Kado."</string>
     <string name="Collect_10_000_presents_">"Mengumpulkan 10.000 Kado."</string>
     <string name="Loading_reward_video___">"Memuat video hadiah yang &#x2026;"</string>
-    <string name="Progress">"Berkembang"</string>
+    <string name="Progress">"PROGRES"</string>
     <string name="Snowflake_Hoarder">"Penimbun Kepingan Salju"</string>
     <string name="Snowflake_Mogul">"Mogul Kepingan Salju"</string>
     <string name="Collect_1_000_snowflakes_">"Mengumpulkan 1.000 Kepingan salju."</string>
@@ -715,7 +715,7 @@
     <string name="Win_as_zombies_in_2_minutes_or_less_">"Menang sebagai zombi dalam 2 menit atau kurang."</string>
     <string name="Win_as_survivors_with_no_losses_">"Menang sebagai pemain selamat tanpa termakan oleh zombi atau kerugian Gumpalan."</string>
     <string name="ZOMBIE_">"ZOMBI!"</string>
-    <string name="SURVIVOR_">"SELAMAT!"</string>
+    <string name="SURVIVOR_">"PENYINTAS!"</string>
     <string name="Zombies">"Zombi"</string>
     <string name="Survivors">"Selamat"</string>
     <string name="Enter_a_Tournament">"Masuk Turnamen"</string>
