@@ -1168,7 +1168,7 @@
     <string name="Joined">الأنضمامات</string>
     <string name="Requests">الطلبات</string>
     <string name="Invites">الدعوات</string>
-    <string name="Show_Spectator_Count">إظهار عداد المشاهدة</string>
+    <string name="Show_Spectator_Count">اظهار عدد المشاهدين</string>
     <string name="TRY_IT_">جربه</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">تحتاج لشراء حزمه لتستخدم هذه</string>
     <string name="GET_PACK">احصل على الحزمة</string>
@@ -1268,7 +1268,7 @@
     <string name="x4_XP_1_Hour">4x نقاط خبرة لمُدَّة ساعة.</string>
     <string name="Quad">رُباعي</string>
     <string name="Middle_East">الشرق الأوسَط</string>
-    <string name="XP_4x">نقاط خبرة 4x</string>
+    <string name="XP_4x">نقاط الخبرة 4x</string>
     <string name="You_cannot_play_for_x_minutes_">لاتستطيع اللعب لمُدَّة %d دقيقة.</string>
     <string name="x4_Clan_XP_Perm">4x نقاط خبرة عشيرة دائم!</string>
     <string name="x4_Clan_XP_7_days">4x نقاط خبرة العشيرة لمُدَّة 7 ايَّام.</string>
@@ -1289,7 +1289,7 @@
     <string name="Custom_Skin_Reviewed_Notification">لقد قمنا بمُراجعة سكنك!</string>
     <string name="You_Have_Mail_">لديك رسالة من %s!</string>
     <string name="Clan_Request_Reviewed_Notification">طلبك للإنضمام للعشيرة %s تمَّت مُراجعتهُ!</string>
-    <string name="CRAZY_SPLIT">انقسام مجنونx</string>
+    <string name="CRAZY_SPLIT">"الانقسام المجنون"</string>
     <string name="Sold_Community_Skins_">"سكنّات المُجتمع المُباعةُ: "</string>
     <string name="Estimated_Earnings_">"الأرباح المُتوقعة: "</string>
     <string name="South_Africa">جَنوب أفريقيّا</string>
