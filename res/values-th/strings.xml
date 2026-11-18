@@ -101,7 +101,7 @@
     <string name="To_use_this_skin_you_must_reach_level">"จะใช้สกินนี้คุณจะต้องถึงเลเวล"</string>
     <string name="SIGN_IN">"ลงชื่อเข้าใช้"</string>
 
-    <string name="Single_Player_Stats">"สถิตแบบเล่นคนเดียว"</string>
+    <string name="Single_Player_Stats">"สถิติแบบเล่นคนเดียว"</string>
 
     <string name="Level">"เลเวล"</string>
     <string name="PAUSED">"หยุดชั่วคราว"</string>
@@ -181,7 +181,7 @@
     <string name="Dodgey">"จู๊คหลบ"</string>
     <string name="Self_Contained">"ตนเป็นที่พึ่งแห่งตน"</string>
     <string name="Survivalist">"ผู้รอดชีวิต"</string>
-    <string name="Ultramassive">"ซุปเปอร์มโหฬาร"</string>
+    <string name="Ultramassive">"อัตรามโหฬาร"</string>
     <string name="Rapid_Ascension">"เสด็จขึ้นสู่สวรรค์อย่างรวดเร็ว"</string>
     <string name="Revenge">"แค้นฝังใจ"</string>
     <string name="Doge_Pound">"หลบแบบดิจิตอล"</string>
@@ -231,8 +231,8 @@
     <string name="Blobs_Lost_">"ตัวที่โดนกิน:"</string>
     <string name="Mass_Gained_">"คะแนนที่ได้รับ:"</string>
     <string name="Mass_Ejected_">"คะแนนที่สูญเสีย:"</string>
-    <string name="Times_Ejected_">"ครั้งที่ยิง:"</string>
-    <string name="Times_Split_">"ครั้งที่แยกตัว:"</string>
+    <string name="Times_Ejected_">"จำนวนครั้งที่ยิง:"</string>
+    <string name="Times_Split_">"จำนวนครั้งที่แยกตัว:"</string>
     <string name="Biggest_Blob_">"ตัวใหญ่ที่สุด:"</string>
     <string name="Highest_Score_">"คะแนนสูงสุด:"</string>
     <string name="Average_Score_">"คะแนนเฉลี่ย:"</string>
@@ -353,9 +353,9 @@
     <string name="CLAN_WAR">"แคลนวอ"</string>
     <string name="Clan_War">"แคลนวอ"</string>
 
-    <string name="Forming">"กำลังเตรียมพร้อม"</string>
-    <string name="Searching">"กำลังค้นหา"</string>
-    <string name="In_Progress">"กำลังดำเนินการ"</string>
+    <string name="Forming">"กำลังเตรียมพร้อม..."</string>
+    <string name="Searching">"กำลังค้นหา..."</string>
+    <string name="In_Progress">"กำลังดำเนินการ..."</string>
 
     <string name="Wins">"ชนะ"</string>
 
@@ -420,7 +420,7 @@
     <string name="Remove_Ads">"ลบโฆษณา"</string>
     <string name="Reward">"รางวัล"</string>
     <string name="Please_Wait___">"โปรดรอ…"</string>
-    <string name="Purchasing">"กำลังซื้อ"</string>
+    <string name="Purchasing">"กำลังซื้อ..."</string>
 
     <string name="Purchase_Successful_">"ซื้อสำเร็จ"</string>
     <string name="You_may_need_to_reconnect_to_use_the_purchase_">"คุณอาจต้องเชื่อมต่อใหม่เพื่อใช้สิ่งที่ซื้อ"</string>
@@ -486,7 +486,7 @@
     <string name="Already_in_queue_">"อยู่ในคิวแล้ว"</string>
     <string name="Invalid_Account_ID_">"ไอดีบัญชีไม่ถูกต้อง"</string>
 
-    <string name="Validating">"กำลังตรวจสอบ"</string>
+    <string name="Validating">"กำลังตรวจสอบ..."</string>
 
     <string name="Randomize">"สุ่ม"</string>
 
@@ -625,7 +625,7 @@
     <string name="Love_Nebulous_">"รัก Nebulous?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"กรุณาสนับสนุน Nebulous โดยการให้คะแนน"</string>
     <string name="MAYHEM_MODE">"เมย์เฮมโหมด"</string>
-    <string name="Times_Teleported_">"ครั้งที่วาร์ป:"</string>
+    <string name="Times_Teleported_">"จำนวนครั้งที่วาร์ป:"</string>
     <string name="Powerups_Used_">"เพาเวอร์อัพที่ใช้:"</string>
     <string name="Power_Hungry">"หิวโหยเพาเวอร์อัพ"</string>
     <string name="Over_9000">"มากกว่า 9,000"</string>
@@ -1320,7 +1320,7 @@
     <string name="CAMPAIGN_2">แคมเปญ 2</string>
     <string name="XP_5x">XP 5x</string>
     <string name="India">อินเดีย</string>
-    <string name="Tutorial">สอนเล่น</string>
+    <string name="Tutorial">วิธีเล่น</string>
     <string name="TYCOON">เจ้าพ่อ</string>
     <string name="CLAN_BACKGROUND_COLOR">สีพื้นหลังแคลน</string>
     <string name="activate">เปิดใช้งาน</string>
