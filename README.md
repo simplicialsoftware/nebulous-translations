@@ -1,10 +1,12 @@
 # nebulous-translations
 
+# Nebulous-translators
+
 ## Purpose
 The sole purpose of this repository is to allow Nebulous players to collectively improve the translated text used in Nebulous.io [[Android](https://play.google.com/store/apps/details?id=software.simplicial.nebulous)][[iOS](https://apps.apple.com/us/app/nebulous-io/id1069691018)]. Include your Nebulous ID in your PR (Pull Request) comments and you may be granted the translator tag in the game and discord after your PR is approved and merged. **Low quality translations (those receiving a high number of comments compared to the number of translations done), will not receive a tag.**
 
 ## Instructions
-If you have general questions or a suggestion, create an [issue](https://github.com/simplicialsoftware/nebulous-translations/issues). You can also submit a [suggestion](https://discord.com/channels/941543004026572811/941680724963123200) in the discord.
+If you have general questions or a suggestion, create an [issue](https://github.com/simplicialsoftware/nebulous-translations/issues). You can also submit a [suggestion](https://discords.com/channels/941543004026572811/941680724963123200) in the discord.
 
 If you have an improvement to make, edit a file and submit a pull request. Pay special attention to the use of placeholders (ex: `%`) and formatting. Changes to the formatting of the file will not be accepted.
 
@@ -77,7 +79,7 @@ Open the `res` folder to see all of the supported languages. `res/values` contai
 `res/values-zh-rCN`: Chinese (Simplified)<br>
 `res/values-zh-rTW`: Chinese (Traditional)<br>
 
-#### Translation tips
+#### Translations tips
 When translating content, especially in a consistent and systematic manner, it's important to adhere to the following general tips:
 1. Consistency in Terminology
    - Always use the same terms for specific concepts. If you choose to translate one concept/name some way, use it every time that concept/name appears.
